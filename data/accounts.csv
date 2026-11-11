@@ -1,0 +1,11 @@
+bioguide,member,chamber,party,state,handle,x_user_id,account_type
+S000033,Bernie Sanders,senate,Independent,VT,SenSanders,29442313,official
+S000033,Bernie Sanders,senate,Independent,VT,BernieSanders,216776631,personal_or_campaign
+B001277,Richard Blumenthal,senate,Democrat,CT,SenBlumenthal,278124059,official
+B001277,Richard Blumenthal,senate,Democrat,CT,DickBlumenthal,102477372,personal_or_campaign
+H001089,Josh Hawley,senate,Republican,MO,SenHawleyPress,1080960924687704064,official
+H001089,Josh Hawley,senate,Republican,MO,HawleyMO,2352629311,personal_or_campaign
+C001098,Ted Cruz,senate,Republican,TX,SenTedCruz,1074480192,official
+C001098,Ted Cruz,senate,Republican,TX,tedcruz,23022687,personal_or_campaign
+S001208,Elissa Slotkin,senate,Democrat,MI,SenatorSlotkin,1078401427347857408,official
+S001208,Elissa Slotkin,senate,Democrat,MI,ElissaSlotkin,860547911268139008,personal_or_campaign

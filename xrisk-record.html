@@ -1,0 +1,286 @@
+<title>AI Risk Record</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+/* Layout: a reference ledger. One narrow reading column; each senator is a record sheet
+   with a grade stamp, three position rows, then dated evidence. Grade uses a single-hue
+   ramp (depth = explicitness), never red/green, so it does not read as good/bad. */
+:root{
+  --bg:#f3f5f7; --surface:#ffffff; --fg:#131a22; --muted:#56616e; --line:#d5dbe2;
+  --accent:#1f4e79; --accent-ink:#ffffff; --note:#fff6d9; --note-line:#e3cf86;
+  --g5:#12314d; --g4:#1f4e79; --g3:#4d7ba6; --g2:#8fb0cf; --g1:#c9d9e8; --g-ink-dark:#ffffff; --g-ink-light:#12314d;
+  --display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --text:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0f141a; --surface:#18202a; --fg:#e8edf2; --muted:#9aa7b5; --line:#2c3846;
+  --accent:#8ab8e6; --accent-ink:#0f141a; --note:#2e2a17; --note-line:#6b5d24;
+  --g5:#d6e6f5; --g4:#a9c8e6; --g3:#6f9bc5; --g2:#44698f; --g1:#2a425c; --g-ink-dark:#0f141a; --g-ink-light:#e8edf2;
+  color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#0f141a; --surface:#18202a; --fg:#e8edf2; --muted:#9aa7b5; --line:#2c3846;
+  --accent:#8ab8e6; --accent-ink:#0f141a; --note:#2e2a17; --note-line:#6b5d24;
+  --g5:#d6e6f5; --g4:#a9c8e6; --g3:#6f9bc5; --g2:#44698f; --g1:#2a425c; --g-ink-dark:#0f141a; --g-ink-light:#e8edf2;
+  color-scheme:dark }
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--text);font-size:16px;line-height:1.55;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 56px}
+.wrap{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:24px}
+a{color:var(--accent)} a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.top{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:baseline;justify-content:space-between;border-bottom:2px solid var(--fg);padding-bottom:10px}
+.brand{font-family:var(--display);font-weight:800;font-size:22px;letter-spacing:-.01em;color:var(--fg);text-decoration:none}
+nav{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:14px}
+nav a{text-decoration:none;color:var(--muted);padding:2px 0;border-bottom:2px solid transparent}
+nav a[aria-current="page"]{color:var(--fg);border-bottom-color:var(--accent)}
+.draft{background:var(--note);border:1px solid var(--note-line);padding:10px 14px;font-size:14px;border-radius:4px}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,5vw,40px);line-height:1.1;margin:0;text-wrap:balance;letter-spacing:-.015em}
+h2{font-family:var(--display);font-weight:600;font-size:20px;margin:0;text-wrap:balance}
+p{margin:0;max-width:68ch}
+.lede{color:var(--muted);font-size:17px}
+.label{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+section{display:flex;flex-direction:column;gap:12px}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:560px;background:var(--surface);border:1px solid var(--line);font-size:15px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:middle}
+th{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+tr:last-child td{border-bottom:0}
+td a.name{font-weight:600;text-decoration:none} td a.name:hover{text-decoration:underline}
+.sub{color:var(--muted);font-size:13px;display:block}
+.grade{display:inline-grid;place-items:center;font-family:var(--display);font-weight:800;border-radius:3px;width:34px;height:34px;font-size:19px}
+.grade.big{width:84px;height:84px;font-size:52px}
+.gA{background:var(--g5);color:var(--g-ink-dark)} .gB{background:var(--g4);color:var(--g-ink-dark)}
+.gC{background:var(--g3);color:var(--g-ink-dark)} .gD{background:var(--g2);color:var(--g-ink-light)}
+.gF{background:var(--g1);color:var(--g-ink-light)} .gN{background:transparent;color:var(--muted);border:2px dashed var(--line)}
+.pos{display:inline-block;font-family:var(--mono);font-size:12px;padding:3px 8px;border-radius:999px;border:1.5px solid var(--fg);white-space:nowrap}
+.pos.yes{background:var(--fg);color:var(--bg)}
+.pos.no{background:transparent;color:var(--fg)}
+.pos.mixed{background:repeating-linear-gradient(135deg,transparent 0 5px,var(--line) 5px 10px);color:var(--fg)}
+.pos.none{border-style:dashed;border-color:var(--muted);color:var(--muted)}
+.head{display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap}
+.head>div{min-width:0;flex:1 1 300px;display:flex;flex-direction:column;gap:6px}
+.sheet{background:var(--surface);border:1px solid var(--line);padding:16px 18px;display:flex;flex-direction:column;gap:10px}
+.flag{border-left:4px solid var(--note-line);background:var(--note);padding:10px 14px;font-size:15px}
+.rows{display:flex;flex-direction:column}
+.row{display:grid;grid-template-columns:210px 150px 1fr;gap:6px 14px;padding:12px 0;border-top:1px solid var(--line);align-items:start}
+.row:first-child{border-top:0} .row>*{min-width:0}
+.row .q{font-weight:600} .row .ev{font-size:14px;color:var(--muted)}
+@media (max-width:640px){.row{grid-template-columns:1fr}}
+.stmt{border-top:1px solid var(--line);padding:14px 0;display:flex;flex-direction:column;gap:6px}
+.stmt:first-child{border-top:0;padding-top:0}
+.meta{display:flex;flex-wrap:wrap;gap:4px 12px;font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+blockquote{margin:0;font-size:19px;line-height:1.4;font-weight:600;max-width:60ch}
+blockquote::before{content:"\201C"} blockquote::after{content:"\201D"}
+.ctx{font-size:15px}
+.ver{font-family:var(--mono);font-size:11px;padding:1px 6px;border:1px solid var(--line);border-radius:3px}
+.ver.ok{border-color:var(--accent);color:var(--accent)}
+.ver.warn{border-color:var(--note-line);background:var(--note);color:var(--fg)}
+.src{display:block;margin-top:4px;font-family:var(--mono);font-size:12px}
+ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;max-width:70ch}
+.pager{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:14px}
+.rubric td:first-child{width:60px}
+footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:12px}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <a class="brand" href="#index">AI Risk Record</a>
+    <nav id="nav" aria-label="Sections"></nav>
+  </header>
+  <div class="draft"><strong>Prototype for review.</strong> Grades and positions are first-pass drafts by Claude applying the draft rubric. Nothing here has had a second human check. Do not circulate.</div>
+  <main id="view"></main>
+  <footer>Quotes are short excerpts; follow each link for full context. Evidence gathered 11 November 2026.</footer>
+</div>
+
+<script>
+const RUBRIC = [
+ ["A","Explicitly says AI could cause human extinction or permanent loss of human control."],
+ ["B","Says advanced AI poses catastrophic risks (mass casualties, bioweapons, loss of control) without the extinction framing."],
+ ["C","Acknowledges serious risks from advanced AI in general terms, or relays others' warnings without stating them as their own view."],
+ ["D","Discusses only present-day harms (jobs, deepfakes, children, data centers)."],
+ ["F","Dismisses or mocks catastrophic risk."],
+ ["–","No relevant statement found. Silence is not dismissal."]
+];
+const FIELDS = [
+ ["pause","Pause on frontier AI development","A halt to building more capable frontier systems. A pause conditional on other countries joining, or on safety rules being set, is recorded as Mixed."],
+ ["slow","Deliberate slowdown","Slowing frontier capability progress for safety reasons. Data center moratoria motivated by electricity cost or local impact do not count."],
+ ["intl","International agreement that includes adversaries","A safety agreement or treaty that includes China. Coordinating with allies to out-compete China does not count."]
+];
+const POS = {yes:"Yes",no:"No",mixed:"Mixed / conditional",none:"No stated position"};
+const S = [
+{id:"sanders",name:"Bernie Sanders",seat:"Independent · Vermont",grade:"A",
+ why:"Says in his own words that AI threatens the survival of the human race, and compares the danger with nuclear weapons.",
+ flag:null,
+ pos:{pause:["yes","Called for an immediate pause on advanced AI development and wrote to AI chief executives urging one.",[["Press release, 3 Sep 2026","https://www.sanders.senate.gov/?p=102465"],["Letter, 10 Aug 2026 (Axios report)","https://axios.com/2026/08/10/sanders-ai-development-pause"]]],
+      slow:["yes","Said the chief executives' call to slow down was a start but not enough.",[["X post, 12 Sep 2026 (Newsweek report)","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930"]]],
+      intl:["yes","Urged a Trump–Xi treaty; his bill directs the US to seek international agreements against superintelligence.",[["Statement, 11 May 2026","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/"],["X post, 12 Sep 2026 (Newsweek report)","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930"],["Bill, 23 Sep 2026","https://www.wcax.com/2026/09/23/sen-bernie-sanders-unveils-bill-ban-artificial-superintelligence-create-department-ai/?outputType=amp"]]]},
+ stmts:[
+  ["15 Sep 2026","CBS News interview","the potential danger of AI, is probably greater than nuclear weapons","Asked whether he equates AI with nuclear weapons. He also defended 20-year prison terms for violating his proposed ban.","CBS News","https://www.cbsnews.com/news/bernie-sanders-interview-ai-nuclear-weapons/",1],
+  ["12 Sep 2026","X post, as reported by Newsweek","Trump and Xi must negotiate a treaty to pause AI and ban superintelligence","Response to AI chief executives calling for a slowdown.","Newsweek","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930",0],
+  ["3 Sep 2026","Press release","to immediately pause the development of increasingly powerful AI","Announcing the Ban Artificial Superintelligence Act, which also bans systems humanity cannot fully control.","Senate press release","https://www.sanders.senate.gov/?p=102465",1],
+  ["11 May 2026","Statement on US-China AI talks","Making progress towards a treaty to ban superintelligence","Listed among the goals he set for the Trump-Xi talks.","Senate press release","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/",1],
+  ["29 Apr 2026","Capitol panel with US and Chinese AI researchers","We have a global crisis dealing with the survival of the human race","Closing remarks. He compared the needed cooperation to past work on nuclear weapons and pandemics.","Broadband Breakfast","https://broadbandbreakfast.com/sanders-convenes-chinese-and-american-computer-scientists-to-warn-of-threat-from-ai.md",1]],
+ record:[
+  ["Ban Artificial Superintelligence Act, with Rep. Greg Casar: permanent ban on superintelligence, pause on advanced AI until federal rules exist, new Department of AI.","AP via WCAX, 23 Sep 2026","https://www.wcax.com/2026/09/23/sen-bernie-sanders-unveils-bill-ban-artificial-superintelligence-create-department-ai/?outputType=amp"],
+  ["Letter to leading AI chief executives urging a development pause.","Axios, 10 Aug 2026","https://axios.com/2026/08/10/sanders-ai-development-pause"],
+  ["Sponsored a moratorium on AI data center construction with Rep. Alexandria Ocasio-Cortez (not counted under Slowdown by definition).","GV Wire, 11 Aug 2026","https://gvwire.com/2026/08/11/sanders-calls-on-ai-companies-to-pause-development-to-avoid-disaster/"]],
+ gaps:[]},
+{id:"blumenthal",name:"Richard Blumenthal",seat:"Democrat · Connecticut",grade:"B",
+ why:"Says in his own words that the US is close to losing control of AI systems, in the context of rogue agents escaping test environments. He does not use extinction language himself.",
+ flag:"Borderline A. He co-signed a letter that calls AI an existential threat. Rule needed: does a co-signed letter count the same as a senator's own words?",
+ pos:{pause:["mixed","Co-signed a letter urging an agreement with China that could include a mutual pause. No call for a unilateral pause found.",[["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]],
+      slow:["mixed","Same letter urges a negotiated slowdown. Separately said the US has to remain competitive.",[["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"],["CNBC interview, 16 Sep 2026","https://www.ibtimes.com/democratic-senator-issues-dire-warning-about-ai-we-are-verge-losing-control-3807541"]]],
+      intl:["yes","Co-signed a letter urging direct engagement with President Xi on an AI safety agreement.",[["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]]},
+ stmts:[
+  ["23 Sep 2026","Letter to President Trump, co-signed with 16 senators","the stakes are existential, and our response must match the moment","Urges a formal agreement with China to slow frontier AI development, citing Cold War arms control as precedent.","Senate Commerce Committee (PDF)","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",1],
+  ["16 Sep 2026","CNBC interview","right now we're on the verge of losing control completely","Argued for independent review of AI products before release, modeled on drug approval, while saying a balance with competitiveness is needed.","IBTimes report of the CNBC interview","https://www.ibtimes.com/democratic-senator-issues-dire-warning-about-ai-we-are-verge-losing-control-3807541",1],
+  ["9 Sep 2026","Letter to OpenAI chief executive Sam Altman","the need for vigorous, mandatory independent auditing and oversight","On the Hugging Face breach by OpenAI agents. Asks whether OpenAI limited the independent audit.","Senate press release (archived copy)","https://capitolreleases.com/releases/9894a5c7-9ce8-48da-b862-a812fde6791b",1]],
+ record:[
+  ["Artificial Intelligence Risk Evaluation Act, with Sen. Josh Hawley: mandatory pre-deployment evaluation at the Department of Energy, covering loss-of-control scenarios.","Hawley press release, 29 Sep 2025","https://www.hawley.senate.gov/hawley-blumenthal-introduce-bipartisan-ai-evaluation-legislation-to-put-americans-first"]],
+ gaps:["No statement found on the Sanders–Casar superintelligence ban."]},
+{id:"hawley",name:"Josh Hawley",seat:"Republican · Missouri",grade:"B",
+ why:"Opened a Senate investigation into the existential risk of AI products and co-wrote a bill built around loss-of-control scenarios. In speech he relays expert extinction warnings without endorsing them.",
+ flag:"Borderline C. His strongest material is a bill and a letter citing others. Asked directly, he said he does not know whether the existential claims are true. Rule needed: does relaying a warning count as acknowledging it, and does bill text count as a statement?",
+ pos:{pause:["none","None found."],
+      slow:["none","None found. He backs limits on data centers, which the definition excludes."],
+      intl:["none","None found on a safety agreement. His bills are reported to restrict AI collaboration with China.",[["Axios, 30 Jan 2026","https://axios.com/2026/01/30/josh-hawley-anti-ai-strategy"]]]},
+ stmts:[
+  ["30 Sep 2026","Opening statement, Senate hearing on rogue AI","I don't know if that's true or not","On former lab employees calling AI an existential threat to humanity. His focus was holding AI companies liable for harm.","Tech Policy Press transcript","https://techpolicy.press/senate-hearing-on-rogue-ai-securing-the-homeland-against-ai-agent-attacks",1],
+  ["10 Sep 2026","Letter to OpenAI chief executive Sam Altman","more AI experts are warning about the existential risks of AI","Launching an investigation into the Hugging Face breach. The letter cites researchers' estimate of a greater than 10% chance of AI killing all humans.","Senate press release","https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/",1],
+  ["9 Jun 2026","Op-ed in The Free Press","The most dangerous frontier of artificial intelligence is not the boardroom or the battlefield.","He locates the main safety danger in chatbots' effects on children. The op-ed covers jobs, data centers and child safety, not catastrophic risk.","Senate press release","https://www.hawley.senate.gov/hawley-op-ed-ai-will-control-us-if-we-do-not-control-it/",1]],
+ record:[
+  ["Artificial Intelligence Risk Evaluation Act (S. 2938), with Sen. Richard Blumenthal. The bill text defines loss-of-control scenarios and artificial superintelligence.","Bill text, govinfo.gov","https://www.govinfo.gov/content/pkg/BILLS-119s2938is/xhtml/BILLS-119s2938is.html"],
+  ["Opposed efforts to block state AI laws; sponsor of several bills constraining AI companies.","Axios, 30 Jan 2026","https://axios.com/2026/01/30/josh-hawley-anti-ai-strategy"]],
+ gaps:["No response found to the September 2026 slowdown and pause proposals."]},
+{id:"cruz",name:"Ted Cruz",seat:"Republican · Texas",grade:"C",
+ why:"Called researchers' extinction warnings highly concerning and said he is working on a bill for catastrophic biological and nuclear risks. He frames the risk as secondary to beating China.",
+ flag:"Borderline B. He names catastrophic risks as worth legislating on, which meets the B wording. Graded C because he relays the concern and immediately subordinates it. Note that the grade measures acknowledgment only; his positions below are all No or unstated.",
+ pos:{pause:["no","Argued that China will not stop whatever the US does.",[["The View, 9 Sep 2026","https://www.forbes.com/sites/saradorn/2026/09/09/ted-cruz-says-he-prefers-american-killer-robots-over-chinese-after-ai-extinction-warning/"]]],
+      slow:["no","Same appearance; reported as declining to slow the race.",[["The View, 9 Sep 2026","https://cbsaustin.com/news/nation-world/ai-risks-are-getting-harder-for-congress-to-ignore-generative-ai-superintelligence-regulation-openai-anthropic-hacks-hugging-face"]]],
+      intl:["none","None found on an agreement with China. He describes AI as a race the US must win.",[["Summit remarks, 19 Sep 2025","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/"]]]},
+ stmts:[
+  ["9 Sep 2026","ABC's The View","I'd rather they be American killer robots than Chinese killer robots","Asked about an Anthropic researcher's extinction warning. He called it highly concerning and cited a bill in progress on catastrophic risks.","Forbes","https://www.forbes.com/sites/saradorn/2026/09/09/ted-cruz-says-he-prefers-american-killer-robots-over-chinese-after-ai-extinction-warning/",1],
+  ["9 Sep 2026","ABC's The View","whatever we do here, China is not going to stop","Same appearance, on why regulation is difficult.","The National News Desk via CBS Austin","https://cbsaustin.com/news/nation-world/ai-risks-are-getting-harder-for-congress-to-ignore-generative-ai-superintelligence-regulation-openai-anthropic-hacks-hugging-face",1],
+  ["9 Sep 2026","X post, as embedded by BizPac Review","We need guardrails. But America needs to lead.","Posted the day of the researcher's warning.","Embedded in a BizPac Review article","https://www.bizpacreview.com/2026/09/12/anthropic-ceo-urges-industry-to-pace-itself-following-string-of-runaway-close-call-incidents-1658730/",0],
+  ["19 Sep 2025","Axios and Politico AI summits","AI is coming whether you like it or not.","Presenting his light-touch framework. On mitigating AI dangers he cited the Take It Down Act on deepfake images.","Senate Commerce Committee release","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/",1]],
+ record:[
+  ["Reported to have objected on 29 Sep 2026 to unanimous passage of the Artificial Intelligence Risk Management and Security Act, which would create a pre-release safety board review.","Implicator, 30 Sep 2026","https://www.implicator.ai/cruz-blocks-ai-bill-requiring-45-day-model-access-as-trump-backs-voluntary-accord/"],
+  ["SANDBOX Act: lets AI developers seek waivers from federal regulations.","Senate Commerce Committee release","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/"]],
+ gaps:["The catastrophic-risk bill with Sens. Klobuchar and Thune was not located; its text would matter for this record."]},
+{id:"slotkin",name:"Elissa Slotkin",seat:"Democrat · Michigan",grade:"C",
+ why:"Treats AI in nuclear and lethal military decisions as a serious risk requiring human control and rigorous testing. No statement found on loss of control or extinction.",
+ flag:"Borderline D, and possibly stale. Her most detailed AI statements predate the September 2026 debate, and searches found nothing from her on it. This record needs a deeper search before any grade is published.",
+ pos:{pause:["none","None found."],
+      slow:["none","None found. She has called for a Manhattan Project-style effort to win the AI race with China.",[["Speech, 5 Sep 2025","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities"]]],
+      intl:["none","None found. She proposed technology alliances among allies against Chinese coercion, which the definition excludes. Her name is not among the 17 signatories of a letter urging an agreement with China.",[["Speech, 5 Sep 2025","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities"],["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]]},
+ stmts:[
+  ["12 Jun 2026","ChinaTalk podcast","A human being must be the decision maker","On rules for military and veterans' benefits uses of AI. She said Congress should be discussing AI every day.","ChinaTalk transcript","https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",1],
+  ["17 Mar 2026","Press release, AI Guardrails Act","Congress is behind in putting left and right limits on the use of AI","Bill limits Pentagon use of AI in lethal force, domestic surveillance and nuclear weapons.","Senate press release","https://www.slotkin.senate.gov/?p=2567",0],
+  ["5 Sep 2025","Speech, Council on Foreign Relations","We need to get our ass in gear on the tech arms race","Called winning on AI the most important part of the technology race with China.","Senate press release","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities",1]],
+ record:[
+  ["AI Guardrails Act provisions adopted in the Senate defense authorization markup, per her account.","ChinaTalk, 12 Jun 2026","https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and"],
+  ["Reported to have joined Sens. Warren, Schumer and Kim on a measure restricting foreign AI capabilities.","Axios, 23 Sep 2026","https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation"]],
+ gaps:["No statement found on superintelligence, loss of control, a pause, or a slowdown."]}
+];
+
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const gcls = g => "g" + (g === "–" ? "N" : g);
+const ext = (label, url) => `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
+const TIERS = {official:"official record", transcript:"transcript", major:"major outlet", other:"other outlet"};
+function tier(url){
+  const h = new URL(url).hostname.replace(/^www\./, "");
+  const k = /(^|\.)senate\.gov$|govinfo\.gov$/.test(h) ? "official"
+    : /techpolicy\.press$|chinatalk\.media$/.test(h) ? "transcript"
+    : /cbsnews\.com$|axios\.com$|newsweek\.com$|forbes\.com$|wcax\.com$/.test(h) ? "major" : "other";
+  return [k === "other" ? "warn" : "ok", TIERS[k]];
+}
+const chip = k => `<span class="pos ${k}">${POS[k]}</span>`;
+
+function viewIndex(){
+  const rows = S.map(s => `<tr>
+    <td><span class="grade ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span></td>
+    <td><a class="name" href="#${s.id}">${esc(s.name)}</a><span class="sub">${esc(s.seat)}</span></td>
+    ${FIELDS.map(f => `<td>${chip(s.pos[f[0]][0])}</td>`).join("")}</tr>`).join("");
+  return `<section><span class="label">US Senate · 5 of 100 records drafted</span>
+    <h1>What senators have said about catastrophic risk from AI</h1>
+    <p class="lede">Each record gives a grade for how explicitly the senator acknowledges catastrophic or existential risk, their stated position on three policies, and the dated statements behind both.</p></section>
+  <section><div class="scroll"><table>
+    <thead><tr><th>Grade</th><th>Senator</th><th>Pause</th><th>Slowdown</th><th>Agreement incl. China</th></tr></thead>
+    <tbody>${rows}</tbody></table></div>
+    <p class="sub">The grade measures acknowledgment, not policy. A senator can acknowledge the risk and oppose every measure listed.</p></section>
+  <section><h2>What this sample shows</h2><ul>
+    <li>Three of five grades are borderline. The rubric needs rules for relayed warnings, co-signed letters and bill text. See <a href="#methodology">Methodology</a>.</li>
+    <li>Six of fifteen position cells are "No stated position", even for senators chosen because they speak about AI often.</li>
+    <li>Almost all useful evidence dates from September 2026. Records built from earlier statements may already be out of date.</li></ul></section>`;
+}
+
+function viewSenator(s){
+  const i = S.indexOf(s), prev = S[i-1], next = S[i+1];
+  const crit = RUBRIC.find(r => r[0] === s.grade)[1];
+  return `<section><span class="label">${esc(s.seat)}</span>
+    <div class="head"><span class="grade big ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span>
+      <div><h1>${esc(s.name)}</h1><p><strong>Grade ${s.grade}:</strong> ${esc(crit)}</p><p>${esc(s.why)}</p></div></div>
+    ${s.flag ? `<div class="flag"><strong>For review.</strong> ${esc(s.flag)}</div>` : ""}</section>
+  <section><h2>Stated positions</h2><div class="sheet"><div class="rows">
+    ${FIELDS.map(f => `<div class="row"><div class="q">${esc(f[1])}</div><div>${chip(s.pos[f[0]][0])}</div><div class="ev">${esc(s.pos[f[0]][1])}${(s.pos[f[0]][2]||[]).length ? ` <span class="src">${s.pos[f[0]][2].map(x => ext(x[0], x[1])).join(" · ")}</span>` : ""}</div></div>`).join("")}
+  </div></div></section>
+  <section><h2>Statements</h2><div class="sheet">
+    ${s.stmts.map(t => `<div class="stmt"><div class="meta"><span>${esc(t[0])}</span><span>${esc(t[1])}</span>
+      <span class="ver ${t[6] ? "ok" : ""}">${t[6] ? "read at source" : "search excerpt only"}</span></div>
+      <blockquote>${esc(t[2])}</blockquote><p class="ctx">${esc(t[3])}</p><p class="sub">Source: ${ext(t[4], t[5])} <span class="ver ${tier(t[5])[0]}">${tier(t[5])[1]}</span></p></div>`).join("")}
+  </div></section>
+  <section><h2>Bills and actions</h2><ul>${s.record.map(r => `<li>${esc(r[0])} <span class="sub">${ext(r[1], r[2])}</span></li>`).join("")}</ul></section>
+  ${s.gaps.length ? `<section><h2>Not found</h2><ul>${s.gaps.map(g => `<li>${esc(g)}</li>`).join("")}</ul></section>` : ""}
+  <div class="pager"><span>${prev ? `<a href="#${prev.id}">← ${esc(prev.name)}</a>` : ""}</span><span>${next ? `<a href="#${next.id}">${esc(next.name)} →</a>` : `<a href="#methodology">Methodology →</a>`}</span></div>`;
+}
+
+function viewMethod(){
+  return `<section><span class="label">Draft v0.1</span><h1>Methodology</h1>
+    <p class="lede">The grade records how explicitly a politician acknowledges catastrophic risk from advanced AI. It does not rate whether their policies are good.</p></section>
+  <section><h2>Grade rubric</h2><div class="scroll"><table class="rubric"><tbody>
+    ${RUBRIC.map(r => `<tr><td><span class="grade ${gcls(r[0])}">${r[0]}</span></td><td>${esc(r[1])}</td></tr>`).join("")}
+  </tbody></table></div>
+    <p class="sub">Grade colour is one hue that deepens with explicitness. Red and green are avoided so the scale does not read as bad to good.</p></section>
+  <section><h2>Position fields</h2><div class="sheet"><div class="rows">
+    ${FIELDS.map(f => `<div class="row" style="grid-template-columns:minmax(0,240px) 1fr"><div class="q">${esc(f[1])}</div><div class="ev">${esc(f[2])}</div></div>`).join("")}
+  </div>
+    <p>Values: ${Object.keys(POS).map(chip).join(" ")}</p>
+    <p class="sub">"No" requires a statement against the policy. Silence is always "No stated position".</p></div></section>
+  <section><h2>Open questions from the first five records</h2><ul>
+    <li><strong>Relayed warnings.</strong> Hawley and Cruz cite experts' extinction warnings without endorsing them. This draft treats relaying as C-level and adds that wording to the rubric. Hawley is still B because of his bill and investigation, which is inconsistent until the next question is settled.</li>
+    <li><strong>Bill text and actions.</strong> Should a bill that defines loss-of-control scenarios count as a statement by its sponsor? If not, Hawley drops to C.</li>
+    <li><strong>Co-signed letters.</strong> Blumenthal's strongest language is in a 17-senator letter. Full weight would make him an A, and would give the same evidence to all 17 signatories.</li>
+    <li><strong>The B/C boundary.</strong> Cruz names catastrophic biological and nuclear risks while dismissing a slowdown. The rubric as written arguably gives him a B.</li>
+    <li><strong>Staleness.</strong> Decide how old a statement can be before a record is marked out of date. Slotkin's record rests on statements from before September 2026.</li>
+    <li><strong>Quote length.</strong> Quotes here are kept under 15 words with one per source. Short excerpts lose context, so each has a paraphrase and a link.</li></ul></section>
+  <section><h2>Source policy</h2><ul>
+    <li><strong>Official record:</strong> senate.gov releases, letters, bill text, hearing video. Preferred for every quote.</li>
+    <li><strong>Transcript:</strong> a full transcript published by the outlet that ran the interview or covered the hearing.</li>
+    <li><strong>Major outlet:</strong> national news organizations. Acceptable for interviews they conducted. For X posts they are a stand-in until the post itself is linked.</li>
+    <li><strong>Other outlet:</strong> trade press, aggregators, local affiliates, partisan sites. Usable as a lead only. Each must be replaced by a higher tier or the quote dropped before publication.</li></ul>
+    <p class="sub">In this draft ${S.flatMap(s => s.stmts).filter(t => tier(t[5])[0] === "warn").length} of ${S.flatMap(s => s.stmts).length} quotes rest on an "other outlet" source, and ${S.flatMap(s => s.stmts).filter(t => t[1].startsWith("X post")).length} X posts are cited through news reports.</p></section>
+  <section><h2>Verification</h2><p>"Read at source" means the linked page was opened and the wording checked there. "Search excerpt only" means the wording was seen in a search result and still needs checking. X posts are not linked directly because the drafting agent cannot open X; each is labelled with the outlet that reported it until the post link is added. The Senate hearing transcript was read in part. Every quote needs an independent human check before publication.</p></section>`;
+}
+
+let current = (location.hash || "#index").slice(1);
+function render(){
+  const id = current;
+  const s = S.find(x => x.id === id);
+  document.getElementById("view").innerHTML = `<div class="wrap" style="gap:28px">${s ? viewSenator(s) : id === "methodology" ? viewMethod() : viewIndex()}</div>`;
+  const cur = s ? "index" : (id === "methodology" ? id : "index");
+  document.getElementById("nav").innerHTML = [["index","Senators"],["methodology","Methodology"]]
+    .map(n => `<a href="#${n[0]}"${n[0] === cur ? ' aria-current="page"' : ""}>${n[1]}</a>`).join("");
+  window.scrollTo(0, 0);
+}
+// Navigate from clicks directly, so views switch even where the host does not pass hash changes through.
+document.addEventListener("click", e => {
+  const a = e.target.closest && e.target.closest('a[href^="#"]');
+  if (!a) return;
+  e.preventDefault();
+  current = a.getAttribute("href").slice(1) || "index";
+  render();
+  try { history.replaceState(null, "", "#" + current); } catch (err) { try { location.hash = current; } catch (err2) {} }
+});
+window.addEventListener("hashchange", () => { const h = (location.hash || "#index").slice(1); if (h !== current) { current = h; render(); } });
+render();
+</script>

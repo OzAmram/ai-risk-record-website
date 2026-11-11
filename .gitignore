@@ -1,0 +1,6 @@
+.env
+*.sqlite
+*.db
+data/raw/
+__pycache__/
+data/classify/
