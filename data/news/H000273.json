@@ -1,0 +1,167 @@
+{
+ "bioguide": "H000273",
+ "member": "Sen. John Hickenlooper (D-CO)",
+ "searches": [
+  "Hickenlooper artificial intelligence (restricted to hickenlooper.senate.gov)",
+  "Hickenlooper superintelligence",
+  "Hickenlooper AI \"extinction\" OR \"existential risk\" OR \"catastrophic\"",
+  "Hickenlooper AI pause OR slowdown OR moratorium 2026",
+  "Hickenlooper AI China agreement OR treaty OR talks",
+  "Senator John Hickenlooper \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-29",
+   "venue": "Letter to President Trump (sole signer), published in a Senate press release",
+   "quote": "This pursuit of AI leadership at all costs leaves Americans needlessly vulnerable as these systems rapidly become more powerful and potentially uncontrollable.",
+   "context": "His letter urging President Trump to commit to federal AI guardrails before a White House meeting with technology executives.",
+   "source_label": "Senate press release",
+   "url": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "He says in his own letter that AI systems are becoming potentially uncontrollable, which names loss of control without an extinction framing; it is a brief mention, so it sits between B and C."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Letter to President Trump (sole signer), published in a Senate press release",
+   "quote": "We’re entering a new era of artificial intelligence. And we need stronger tools to protect against consequences both profound and irreversible.",
+   "context": "His letter urging President Trump to commit to federal AI guardrails before a White House meeting with technology executives.",
+   "source_label": "Senate press release",
+   "url": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Warns of profound and irreversible consequences from AI in general terms without naming a specific catastrophe."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Letter to President Trump (sole signer), published in a Senate press release",
+   "quote": "Earlier this month a top Anthropic researcher resigned with a stark warning about the risks of rapidly accelerating AI. This high level of risk demands urgent action.",
+   "context": "His letter urging President Trump to commit to federal AI guardrails before a White House meeting with technology executives.",
+   "source_label": "Senate press release",
+   "url": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "relayed_warning"
+   ],
+   "reason": "Relays a researcher's warning and endorses acting on it, but the warning as described names only general risks, not a catastrophic outcome."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Letter to President Trump (sole signer), published in a Senate press release",
+   "quote": "Rogue AI agents threaten the security of our government systems and reshape the U.S. economy.",
+   "context": "His letter urging President Trump to commit to federal AI guardrails before a White House meeting with technology executives.",
+   "source_label": "Senate press release",
+   "url": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "Names a serious but general security threat from AI agents acting on their own (ruling 4); the specific incidents he cites are hacking, which alone would be D."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Video statement posted on social media, quoted in a Senate press release",
+   "quote": "We’re entering a new and dangerous era of artificial intelligence, and we need stronger guardrails to protect against the risks",
+   "context": "Calling on the Senate Commerce Committee to hold hearings with AI industry leaders on regulation.",
+   "source_label": "Senate press release",
+   "url": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-for-congressional-action-hearings-on-ai-regulation/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "Calls the AI era dangerous and refers to risks in general terms without naming a catastrophic harm."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Senate floor speech, quoted in a Senate press release",
+   "quote": "Now, even some of the biggest names in AI are warning that we’re moving too fast. I think the question is: Do we listen? Will we listen? Will we act?",
+   "context": "Floor remarks about Coloradans' anxiety over AI and data centers (energy bills, jobs, water).",
+   "source_label": "Senate press release",
+   "url": "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-for-congressional-action-hearings-on-ai-regulation/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "Relays industry warnings that AI is moving too fast and suggests acting on them, but no catastrophic harm is named and the surrounding remarks are about bills, jobs and water."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "He said on the Senate floor that leading AI figures warn 'we're moving too fast' and asked whether Congress will listen, but he did not himself call for slowing AI development; his proposals are guardrails such as third-party evaluations.",
+   "sources": [
+    [
+     "Senate press release, 17 Sep 2026",
+     "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-for-congressional-action-hearings-on-ai-regulation/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "no",
+   "note": "In his 29 September 2026 letter he described 'full stop' as one of 'the two extremes of the AI debate' and placed the real opportunity 'somewhere between full speed ahead and full stop'. This is an indirect rejection of a halt rather than an explicit statement against a pause; a reviewer may prefer 'none'.",
+   "sources": [
+    [
+     "Senate press release, 29 Sep 2026",
+     "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter urging AI talks with China. His letter calls for stronger chip export restrictions and working with allies, which does not count.",
+   "sources": [
+    [
+     "Van Hollen press release (signer list)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Senate press release, 29 Sep 2026",
+     "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sent a letter to President Trump (sole signer) urging federal AI guardrails: third-party evaluation of the most powerful models, accountability for knowingly deploying dangerous systems, incident reporting, and tighter chip export controls.",
+   "Senate press release, 29 Sep 2026",
+   "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-on-trump-ai-ceos-to-work-with-congress-on-responsible-ai-guardrails-ahead-of-white-house-meeting/"
+  ],
+  [
+   "Called on the Senate Commerce Committee to hold hearings with AI industry leaders on regulation.",
+   "Senate press release, 17 Sep 2026",
+   "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-calls-for-congressional-action-hearings-on-ai-regulation/"
+  ],
+  [
+   "Reintroduced, with Sen. Capito, the VET AI Act directing the National Institute of Standards and Technology to write guidelines for independent third-party evaluations of AI systems.",
+   "Senate press release, 1 Aug 2025",
+   "https://www.hickenlooper.senate.gov/press_releases/hickenlooper-capito-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines-for-third-party-evaluations-of-ai/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen press release, 23 Sep 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "His 29 September 2026 letter to President Trump says AI systems are becoming 'more powerful and potentially uncontrollable' and warns of 'consequences both profound and irreversible'. The B rests on one short loss-of-control phrase and is a boundary with C; nothing found mentions extinction, superintelligence or bioweapons.",
+ "notes": "Seven web searches ran, none refused. Opened and read in full: the 29 Sep 2026 and 17 Sep 2026 Senate press releases (raw page text; all quotes checked by exact string match against the page) and the 1 Aug 2025 VET AI Act release (through the page-fetch tool). Not opened: the CNBC Squawk Box interview of 29 Sep 2026 (https://www.cnbc.com/video/2026/09/29/sen-john-hickenlooper-presses-president-trump-on-ai-guardrails.html), the video (https://youtube.com/shorts/hPYqGXB8kKo) and the full 16 Sep floor speech; the floor quote is as excerpted by his office, with an ellipsis earlier in the excerpt, and its date is taken from the release's word 'Yesterday'. Quotes use the curly apostrophes shown on the page. Ban Artificial Superintelligence Act: search results name only Sanders (Senate) and Casar and other House Democrats; no source shows Hickenlooper as a co-sponsor, and the official co-sponsor list was not checked. Left out as not his own words: the release's summary that he criticized the administration for 'downplaying warnings from AI researchers'. The letter's cited incidents (an AI error nearly causing a naval confrontation with China; AI agents trying to escape a sandbox) are his descriptions and were not independently verified. The superintelligence, extinction, pause and China searches returned nothing by him. A 2017 NPR report on his reaction as governor to Elon Musk's AI warning predates the 2025 cut-off and was excluded."
+}

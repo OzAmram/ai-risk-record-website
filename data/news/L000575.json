@@ -1,0 +1,79 @@
+{
+  "bioguide": "L000575",
+  "member": "Sen. James Lankford (Republican, Oklahoma)",
+  "searches": [
+    "Lankford artificial intelligence (restricted to lankford.senate.gov)",
+    "Senator James Lankford superintelligence",
+    "James Lankford AI \"extinction\" OR \"existential risk\"",
+    "James Lankford AI pause OR slowdown OR moratorium",
+    "James Lankford AI China agreement OR treaty OR talks",
+    "\"James Lankford\" \"AI safety\"",
+    "Lankford Schatz Britt Coons letter December 2025 OpenAI Anthropic Character.AI transparency model risks"
+  ],
+  "statements": [
+    {
+      "date": "2025-12-12",
+      "venue": "Letters to eight AI companies (OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI, xAI), signed with Sens. Schatz, Britt and Coons",
+      "quote": "In addition to impacts on mental health and risks to vulnerable users, accelerating model capabilities necessitate greater transparency around other potential risks involving public safety and national security.",
+      "context": "The four senators asked AI companies to commit to timely, consistent public safety disclosures for their models; most of the letter is about chatbot harms to children, and the next sentence says companies have disclosed misuse risks in cybersecurity and biosecurity.",
+      "source_label": "Schatz Senate press release (full letter text)",
+      "url": "https://www.schatz.senate.gov/news/press-releases/schatz-britt-colleagues-press-ai-companies-to-commit-to-timely-consistent-safety-disclosures-on-models",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["cosigned_letter", "bill_or_action", "boundary"],
+      "reason": "The letter he signed names risks from more capable AI models to public safety and national security in general terms, without describing a catastrophe; the words are the letter's, not his own."
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Press release introducing the AI Systems Transparency Act with Sens. Coons, Britt and Schatz",
+      "quote": "Trust has to be earned, and right now families are being asked to trust AI companies with very little information",
+      "context": "Lankford was introducing a bill that would require AI companies to disclose what data their models collect and what safeguards they have, enforced by the Federal Trade Commission.",
+      "source_label": "Senate press release",
+      "url": "https://www.lankford.senate.gov/news/press-releases/lankford-coons-britt-and-schatz-introduce-bipartisan-ai-safety-and-transparency-legislation/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "His own statement is about trust, parents and children and does not acknowledge catastrophic risk, although the bill itself covers safeguards against loss of control (see record)."
+    },
+    {
+      "date": "2026-05-14",
+      "venue": "Comment to Semafor on planned United States-China talks on AI guardrails",
+      "quote": "We need to have some dialogue there to be able to talk about what are going to be the parameters, just so there is some kind of international agreement. Obviously the United States and China are the two innovators there.",
+      "context": "Semafor asked senators about the administration's plan, after President Trump's visit to China, to begin talks with China on guardrails for AI; Semafor introduced the quote by saying Lankford supports the administration's approach.",
+      "source_label": "Semafor",
+      "url": "https://www.semafor.com/article/05/14/2026/debatable-can-the-us-and-china-really-talk-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He supports talks and an international agreement on AI with China but names no catastrophic risk; the only harm he mentions is 'threats on their culture'."
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Press release on the Senate passing the Lankford-Coons resolution on religious freedom and transparency in AI",
+      "quote": "AI is a system that researches ideas, opinions, and facts, but it is not the final word on faith.",
+      "context": "Lankford was announcing that his resolution with Sen. Coons, asking AI developers to treat religious viewpoints fairly and transparently, had passed the Senate unanimously.",
+      "source_label": "Senate press release",
+      "url": "https://www.lankford.senate.gov/news/press-releases/lankford-coons-bipartisan-resolution-on-religious-freedom-and-transparency-in-artificial-intelligence-passes-senate/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The statement is about how AI systems handle questions of faith and does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement for or against slowing frontier AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement for or against a pause on frontier AI development was found.", "sources": []},
+    "intl": {"value": "mixed", "note": "In May 2026 he told Semafor he supports dialogue with China on AI 'parameters' leading to 'some kind of international agreement', but he did not say the agreement should cover the pace of AI development, and he did not sign the 23 September 2026 letter urging AI talks with China. A reviewer may prefer 'none'.", "sources": [["Semafor, 14 May 2026", "https://www.semafor.com/article/05/14/2026/debatable-can-the-us-and-china-really-talk-ai"], ["Van Hollen press release listing the signers", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement for or against a ban on self-improving AI was found.", "sources": []}
+  },
+  "record": [
+    ["Introduced, with Sens. Coons, Britt and Schatz, the AI Systems Transparency Act, which would require AI companies to disclose their safeguards for child safety, mental health, privacy, cybersecurity, disaster risk and autonomous loss of control, enforced by the Federal Trade Commission.", "Senate press release, 2026-09-24", "https://www.lankford.senate.gov/news/press-releases/lankford-coons-britt-and-schatz-introduce-bipartisan-ai-safety-and-transparency-legislation/"],
+    ["Signed, with Sens. Schatz, Britt and Coons, letters to OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI and xAI asking for commitments to timely and consistent safety disclosures on their models.", "Schatz Senate press release, 2025-12-12", "https://www.schatz.senate.gov/news/press-releases/schatz-britt-colleagues-press-ai-companies-to-commit-to-timely-consistent-safety-disclosures-on-models"],
+    ["Sponsored, with Sen. Coons, a Senate resolution affirming religious freedom and calling on AI developers to adopt standards for transparency and fair treatment of religious viewpoints; it passed the Senate unanimously on 23 September 2026.", "Senate press release, 2026-09-24", "https://www.lankford.senate.gov/news/press-releases/lankford-coons-bipartisan-resolution-on-religious-freedom-and-transparency-in-artificial-intelligence-passes-senate/"],
+    ["Signed, with Sen. Cotton and eight other Republican senators, a letter urging the Energy Secretary to bar Chinese nationals from national laboratories, framed around winning 'the race with China for AI supremacy'.", "Senate press release, 2026-01-21", "https://www.lankford.senate.gov/news/press-releases/lankford-cotton-and-colleagues-urge-department-of-energy-to-ban-chinese-nationals-from-american-laboratories/"],
+    ["In a statement on seeking the top minority seat on the Senate Homeland Security and Governmental Affairs Committee, listed 'the use of artificial intelligence' among federal government matters he has worked on across the aisle.", "Senate press release, 2026-11-11", "https://www.lankford.senate.gov/news/press-releases/lankford-to-seek-hsgac-ranking-member-position-in-120th-congress/"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "The strongest item is a December 2025 letter he co-signed that names risks from more capable AI models to public safety and national security in general terms. His own quoted words about AI (transparency for families, talks with China, AI and faith) do not acknowledge catastrophic risk, so the C rests on a co-signed letter alone.",
+  "notes": "All six required web searches ran, plus one extra (seven in total); none was refused. Quotes from the Schatz release, both Lankford releases and Semafor were checked against the raw page text. The C rests only on a co-signed letter, and is a boundary case: the letter is mostly about chatbot harms to children, and its biosecurity mention ('companies have disclosed how advanced models may pose misuse risks in areas including cybersecurity and biosecurity') reports what companies have said. The letter's date is taken from the Schatz release (12 December 2025); an Alabama news site reported it on 17 December, not opened. The AI Systems Transparency Act release says, in the release's own narrative rather than Lankford's words, that the bill covers 'the guardrails they've created to stop systems from going rogue or being used dangerously by bad actors'; this is in the record, not the statements. The Semafor quote is dated by the article's first publication (14 May 2026, shown on the page as 15 May, 5:04am Eastern); the day he spoke is not stated. The 'intl' value of 'mixed' is a judgment call: he backed talks and an agreement with China but said nothing about pacing. 23 September 2026 China letter: not a signer (verified list in the addendum). Ban Artificial Superintelligence Act: the PBS report opened names only Sen. Sanders and Rep. Casar as sponsors and does not mention Lankford; no source shows him co-sponsoring, and no full co-sponsor list was checked. Searches on superintelligence, extinction and pause or moratorium returned nothing by Lankford; a Deseret article of 16 September 2026 shows him only in a photo caption. Left out because of the three-statement limit on level D: a verified fragment from Politico of 29 August 2025, reposted on his site, that Immigration and Customs Enforcement agents \"don't deserve to be hunted online by activists using AI\" (https://www.lankford.senate.gov/news/in-the-news/ai-is-unmasking-ice-officers-can-washington-do-anything-about-it/). Pages not opened: the Daily Signal article of 14 May 2026 on United States-China AI guardrails (refused the fetch), the letter PDF, and the bill text and one-pager for the AI Systems Transparency Act. Older items outside the date window, not used: 2023 hearing remarks on data privacy and national security in machine learning, a 2023 bill on transparency when federal agencies use AI, and a letter to the tax agency on ChatGPT-generated scams."
+}

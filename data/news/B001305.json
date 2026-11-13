@@ -1,0 +1,127 @@
+{
+ "bioguide": "B001305",
+ "member": "Sen. Ted Budd (R-NC)",
+ "searches": [
+  "Ted Budd artificial intelligence (restricted to budd.senate.gov)",
+  "Senator Ted Budd superintelligence AI",
+  "Ted Budd AI extinction OR \"existential risk\" OR bioweapons senator",
+  "Ted Budd AI pause OR slowdown OR moratorium",
+  "Ted Budd AI China agreement OR treaty OR talks artificial intelligence",
+  "\"Ted Budd\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators"
+ ],
+ "statements": [
+  {
+   "date": "2025-02-11",
+   "venue": "Press release statement on introducing a bill",
+   "quote": "As AI grows in power and influence, we may face the real prospect of AI-generated threats like biological or chemical weapons. We cannot be caught flat-footed on these threats and should begin to prepare now.",
+   "context": "Budd and Sen. Markey introduced the Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats Act, which would have the health department plan for misuse of AI to make biological or chemical weapons.",
+   "source_label": "Senate press release (Budd)",
+   "url": "https://www.budd.senate.gov/2025/02/11/budd-markey-introduce-bipartisan-bill-to-prepare-for-ai-public-health-threats/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "He says in his own words that more powerful AI could bring biological or chemical weapon threats, a catastrophic risk, without any extinction framing."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Hallway interview with Raw Story at the Capitol",
+   "quote": "I don't think you need to slow down, because China's not slowing down, but what you need to do is make sure they're focusing their engineering effort on safety.",
+   "context": "Raw Story asked Republican senators about warnings from AI industry insiders that AI could destroy the human race; Budd first asked whether the companies were generating their own demand for future security products.",
+   "source_label": "Raw Story",
+   "url": "https://www.rawstory.com/ai-trump-warning/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary",
+    "unsure"
+   ],
+   "reason": "He rejects slowing down and asks for a focus on safety without naming any catastrophic risk; his question about companies' motives is sceptical but stops short of dismissing the risk itself, so this sits between D and F."
+  },
+  {
+   "date": "2026-09-22",
+   "venue": "Senate floor speech",
+   "quote": "The AI race is not simply about who builds the most powerful model. It is about who will set the standards, safeguards, and norms that will govern one of the most consequential technologies of our time.",
+   "context": "Speech on China ahead of President Trump's meeting with Xi Jinping, covering religious freedom, fentanyl, sanctions and the AI race; he also said Congress should \"prioritize AI engineering that promotes safety\".",
+   "source_label": "Senate press release (Budd), speech excerpts",
+   "url": "https://www.budd.senate.gov/2026/09/23/icymi-budd-delivers-floor-speech-urging-trump-admin-to-hold-china-accountable-for-targeting-the-safety-security-of-americans/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "This is about competition with China and who sets AI standards, which the rubric places at D; no catastrophic risk from AI is named."
+  },
+  {
+   "date": "2026-06-30",
+   "venue": "Letter to the National Cyber Director and the White House science office director",
+   "quote": "Leveraging the strength of both America’s public and private sector capacity to evaluate, monitor, and understand frontier AI development will only become more critical as industries in every sector of our economy continue to embrace AI technology.",
+   "context": "Budd asked that the Center for AI Standards and Innovation be allowed to keep publishing its tests and evaluations of frontier AI models after reports it had been told to stop.",
+   "source_label": "Senate press release (Budd)",
+   "url": "https://www.budd.senate.gov/2026/06/30/budd-calls-for-caisi-to-resume-publishing-research-on-frontier-ai-models/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "He supports public evaluation of frontier AI models but frames it as competitiveness and security against Chinese models, not catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "no",
+   "note": "Told Raw Story \"I don't think you need to slow down, because China's not slowing down\", while saying companies should focus engineering effort on safety.",
+   "sources": [
+    [
+     "Raw Story, 23 September 2026",
+     "https://www.rawstory.com/ai-trump-warning/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found specifically about a pause; his remark against slowing down (see slowdown) is the nearest thing, and a reviewer may judge that it implies opposition to a pause as well.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found for or against an agreement or talks with China on the pace of AI; he did not sign the 23 September 2026 letter. His floor speech the day before framed AI as a race with China.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Sen. Markey, the Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats Act, requiring a federal health strategy for misuse of AI, especially for biological or chemical weapons.",
+   "Senate press release (Budd), 11 February 2025",
+   "https://www.budd.senate.gov/2025/02/11/budd-markey-introduce-bipartisan-bill-to-prepare-for-ai-public-health-threats/"
+  ],
+  [
+   "Sent a letter asking that the Center for AI Standards and Innovation be allowed to resume publishing its evaluations of frontier AI models.",
+   "Senate press release (Budd), 30 June 2026",
+   "https://www.budd.senate.gov/2026/06/30/budd-calls-for-caisi-to-resume-publishing-research-on-frontier-ai-models/"
+  ],
+  [
+   "Led a letter with Senate colleagues asking Commerce Secretary Lutnick to investigate the Chinese AI company DeepSeek's links to China's military and intelligence services.",
+   "Senate press release (Budd), 4 August 2025",
+   "https://www.budd.senate.gov/2025/08/04/sen-budd-senate-colleagues-urge-secretary-lutnick-to-probe-deepseek-ais-connections-to-chinese-military-intelligence/"
+  ],
+  [
+   "Gave a Senate floor speech on China that called for Congress to \"prioritize AI engineering that promotes safety\".",
+   "Senate press release (Budd), 23 September 2026 (speech 22 September)",
+   "https://www.budd.senate.gov/2026/09/23/icymi-budd-delivers-floor-speech-urging-trump-admin-to-hold-china-accountable-for-targeting-the-safety-security-of-americans/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from Senate Democrats urging AI talks with China (not on the verified signer list).",
+   "Senate press release (Van Hollen), 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In a February 2025 statement on his own bill, Budd said more powerful AI could bring threats like biological or chemical weapons and that the government should prepare now. Nothing found reaches extinction or loss-of-control framing, and in September 2026 he opposed slowing down.",
+ "notes": "Seven web searches ran, none refused. All four quotes were copied from the page text downloaded directly from the source (the Budd press releases and the Raw Story article). The B quote is from February 2025 and repeats almost word for word a statement he made in July 2023 (outside the date range); nothing found since then restates the bioweapons concern. Raw Story: the date used is the article's publication date (23 September 2026, as reported by the page fetch tool; I could not confirm it in the page's own metadata) and the day Budd actually spoke is not given. In that article he also asked \"Are they generating their own demand for future security products?\" about AI companies' warnings; the article's headline groups him with Republicans who 'scoff' at apocalyptic warnings, but his own quoted words do not dismiss the risk outright, so I graded it D with a boundary flag rather than F; a reviewer should check this. The floor-speech press release gives excerpts, and I did not check them against the Congressional Record. Ban Artificial Superintelligence Act: search results name only Sen. Sanders as Senate sponsor and no source shows Budd as a co-sponsor; I did not find an official co-sponsor list. Also read and found nothing on catastrophic risk: his February 2026 Washington Post Live remarks and his 3 March 2026 subcommittee hearing statement (jobs, energy, China competition; read through the fetch tool's summary only). No statements found on superintelligence, extinction, a pause, or a China agreement."
+}

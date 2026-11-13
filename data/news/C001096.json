@@ -1,0 +1,42 @@
+{
+  "bioguide": "C001096",
+  "member": "Kevin Cramer",
+  "searches": [
+    "Kevin Cramer artificial intelligence site:cramer.senate.gov",
+    "Senator Kevin Cramer superintelligence",
+    "Kevin Cramer AI extinction OR \"existential risk\" senator",
+    "Kevin Cramer AI moratorium OR pause OR slowdown senator North Dakota",
+    "\"Cramer\" \"AI safety\" senator North Dakota",
+    "\"Ban Artificial Superintelligence Act\" cosponsors",
+    "senators letter urging AI talks with China September 2026 17 senators signatories",
+    "Cramer MS NOW Republicans take AI risks seriously Trump \"Cramer\" AI extinction concerns",
+    "Kevin Cramer AI China agreement OR treaty OR talks senator 2026 (NOT RUN: session search limit reached)",
+    "Cramer \"the least popular position in America\" AI Trump MS NOW (NOT RUN: session search limit reached)"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-18",
+      "venue": "Remark to MS NOW reporters (date is the article's publication date; the remark was made that week)",
+      "quote": "the least popular position in America",
+      "context": "MS NOW asked Republican lawmakers about President Trump's dismissal of warnings about AI dangers; Cramer was describing the president's stance on AI regulation.",
+      "source_label": "MS NOW",
+      "url": "https://www.ms.now/news/gop-lawmakers-trump-wrong-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary", "unsure"],
+      "reason": "The quoted words say the president's stance on AI is unpopular but do not themselves acknowledge any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement or talks with China on the pace of AI; the 23 September 2026 letter was reported as signed by 17 Democratic senators, and no source shows Cramer signing.", "sources": [["Senate Commerce Committee (minority) press release, 24 September 2026", "https://commerce.senate.gov/press/dem/release/cantwell-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced, with Sen. Andy Kim, the Bureau of Industry and Security License Administration Enhancement Act, an export-control bill that would create advisory committees covering AI and chips; it treats AI as a competitiveness and export-security matter, not a safety risk.", "Cramer Senate press release, 18 June 2026", "https://www.cramer.senate.gov/news/press-releases/cramer-kim-introduce-legislation-to-ensure-american-export-security"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-risk-adjacent remark found is a short fragment calling the president's stance on AI regulation unpopular, which does not acknowledge catastrophic risk. His other AI remarks are about data centers, power and competition with China.",
+  "notes": "The session's web search limit was reached partway through: the searches on his name plus a China agreement, and a follow-up to find more of the MS NOW remark, were not run; all other required searches ran. The MS NOW article (opened via a page-reading tool that summarises and limits quoted text) quotes only the fragment 'the least popular position in America' from Cramer; the surrounding sentence is the reporter's, says he was especially blunt and that he was describing the president's stance on AI regulations. MS NOW also says more than a dozen Republican lawmakers told it they take AI risks seriously, but it is not clear from what I could read whether Cramer personally said so, so this is left as D with a boundary flag; a reviewer should read the full paragraph to check the exact wording and whether a fuller quote exists. Raw Story and DNYUZ reprints (18 September 2026) carry the same fragment. Left out as paraphrase or partial quotes not opened at source: an October 2025 WDAY Radio / AM 1100 The Flag report (page returned 403) in which Cramer reportedly called AI the 'fourth industrial revolution', said 'This is a race right now' with China, and pushed for local power for data centers; these would be D. A search summary said Cramer signed a July 2025 letter to Commerce Secretary Lutnick on AI regulation; not verified, not included in record. Ban Artificial Superintelligence Act (Sanders/Casar, September 2026): no source shows Cramer as a co-sponsor. 23 September 2026 China letter: the Commerce Committee release names only Cantwell and says 16 colleagues joined; news reports describe all 17 as Democrats; no source shows Cramer signing."
+}

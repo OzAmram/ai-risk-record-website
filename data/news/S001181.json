@@ -1,0 +1,90 @@
+{
+ "bioguide": "S001181",
+ "member": "Jeanne Shaheen",
+ "searches": [
+  "Shaheen artificial intelligence (restricted to shaheen.senate.gov)",
+  "Jeanne Shaheen superintelligence AI",
+  "Senator Jeanne Shaheen AI \"existential\" OR \"extinction\" risk",
+  "Jeanne Shaheen AI moratorium OR pause OR slowdown 2025 2026",
+  "Shaheen China AI agreement OR treaty OR talks senator artificial intelligence",
+  "\"Shaheen\" \"AI safety\" senator",
+  "Shaheen Ricketts bill AI chips China 2026 \"Shaheen\" artificial intelligence statement"
+ ],
+ "statements": [
+  {
+   "date": "2025-12-04",
+   "venue": "Press release on introduction of the SAFE Chips Act (issued by Sen. Ricketts's office)",
+   "quote": "Permitting the sale of advanced chips to Beijing and other adversaries would be tantamount to surrendering a vital U.S. advantage in a global competition for leadership in artificial intelligence — a competition central to our prosperity and national security interests,",
+   "context": "Shaheen was explaining why she co-sponsored a bill to block exports of advanced AI chips to China and other adversary countries for at least 30 months.",
+   "source_label": "Sen. Ricketts press release",
+   "url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The statement is about competition with China for AI leadership and names no catastrophic risk from AI itself (ruling 5)."
+  },
+  {
+   "date": "2026-05-04",
+   "venue": "Press release on the AI OVERWATCH Act (Senate Banking Committee minority)",
+   "quote": "Shipping advanced chips to our primary competitor is a sure way to lose that lead. The American people want AI innovation that creates good jobs at home, not that advances our adversaries' efforts to modernize their militaries and hollow out our industry.",
+   "context": "Shaheen was explaining why she co-sponsored a bill writing into law the ban on exporting the most capable AI chips to China and other adversaries.",
+   "source_label": "Senate Banking Committee minority press release",
+   "url": "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The statement is about keeping a technological lead over China and about jobs, not catastrophic risk from AI (ruling 5)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "Not a signer of the 23 September 2026 letter urging AI talks with China; her AI work found here is about restricting chip exports to China and out-competing it, which does not count.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on self-improving AI; no source shows her co-sponsoring the Ban Artificial Superintelligence Act.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Co-sponsored the SAFE Chips Act of 2025 (led by Ricketts and Coons), which would require denial of export licenses for advanced AI chips to China, Russia, Iran and North Korea for at least 30 months.",
+   "Sen. Ricketts press release, 2025-12-04",
+   "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/"
+  ],
+  [
+   "Co-sponsored the AI OVERWATCH Act (introduced by Sen. Banks), which would write into law the ban on exporting the most capable AI chips to foreign adversaries and require Commerce Department certifications.",
+   "Senate Banking Committee minority press release, 2026-05-04",
+   "https://www.banking.senate.gov/newsroom/minority/banks-warren-introduce-ai-overwatch-act"
+  ],
+  [
+   "Sponsored, with Sen. Ricketts, a bill to create a State Department office and a $500 million fund to help allied governments buy American AI and other technology instead of Chinese products (bill name not given in the report).",
+   "ARY News (Reuters report), 2026-05-20",
+   "https://arynews.tv/bill-aims-to-counter-chinese-ai-sales-abroad"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China.",
+   "Sen. Van Hollen press release (signer list), 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI statements found since January 2025 concern chip export controls and competition with China; none acknowledges catastrophic risk from AI itself.",
+ "notes": "Seven web searches ran, none refused. Searches on superintelligence, extinction or existential risk, pause or moratorium, China talks and 'AI safety' returned nothing mentioning Shaheen. Both quotes were checked against the raw page text (runs of whitespace collapsed to single spaces; the first quote ends at the comma before 'said Senator Shaheen'; the second is the second and third sentences of her statement). Coverage of the Ban Artificial Superintelligence Act (Sanders and Casar, September 2026) in search results did not name her; I did not open a co-sponsor list, so 'not a co-sponsor' is unconfirmed rather than verified. Her non-signature of the 23 September 2026 letter rests on the signer list given in the addendum; I did not reopen that page. The ARY News article on the May 2026 Shaheen-Ricketts bill contains no Shaheen quote; a search-result summary attributed to her the words 'Our competition with China is centered on our ability to develop and promote technologies of the future to our partners', which I could not see at a source and left out. The official site's own search showed only the first 10 of 25 results for 'artificial intelligence' (nothing AI-related dated 2025 or 2026 among them); pages 2 and 3 were not checked. Earlier items (2024 deepfake robocall letters, funding for the AI Safety Institute at the standards agency in 2023-2024 spending bills, co-sponsorship of S.5252 on model extraction by foreign adversaries) predate 1 January 2025 and are excluded."
+}

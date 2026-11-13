@@ -1,0 +1,43 @@
+{
+  "bioguide": "W000779",
+  "member": "Sen. Ron Wyden",
+  "searches": [
+    "Wyden artificial intelligence superintelligence (restricted to wyden.senate.gov)",
+    "Ron Wyden superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+    "Sen. Ron Wyden AI \"extinction\" OR \"existential risk\" OR \"existential threat\" 2025 2026",
+    "Ron Wyden AI pause OR slowdown OR moratorium data centers frontier AI 2026",
+    "Ron Wyden AI China agreement OR treaty OR talks artificial intelligence 2026",
+    "\"Wyden\" \"AI safety\" senator statement 2025 2026",
+    "Ron Wyden \"artificial general intelligence\" OR \"loss of control\" OR \"bioweapons\" OR \"catastrophic\" AI statement 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-06",
+      "venue": "Statement quoted in a news article about his planned excise tax on data centers",
+      "quote": "American communities are rightfully questioning whether the rapid build-out of data centers",
+      "context": "Wyden was explaining his plan for a new excise tax on data centers and an end to certain tax breaks for them, citing local disruption and workers displaced by AI.",
+      "source_label": "NOTUS (page now redirects to washingtonsun.com)",
+      "url": "https://www.notus.org/technology/democrats-split-ai-grows-wyden-tax-data-centers",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "The remark is about data centers, taxpayers and displaced workers, and does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI for safety reasons; his data center proposal is a tax, and the article reports (as a paraphrase) that he does not intend it to stop data center construction.", "sources": [["NOTUS, 6 August 2026", "https://www.notus.org/technology/democrats-split-ai-grows-wyden-tax-data-centers"]]},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "He is not among the signers of the 23 September 2026 letter urging AI talks with China; his China-related AI activity found was about chip export controls, which does not count.", "sources": [["Van Hollen press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Wrote to Anthropic, Google, OpenAI and xAI asking which government surveillance and enforcement uses of their AI products they prohibit, after the Pentagon banned Anthropic (about surveillance, not catastrophic risk).", "Wyden Senate press release, 5 March 2026", "https://www.wyden.senate.gov/news/press-releases/wyden-questions-major-ai-companies-about-federal-contracts-after-pentagon-bans-anthropic"],
+    ["Planned a new excise tax on data centers and an end to certain tax breaks for them.", "NOTUS, 6 August 2026", "https://www.notus.org/technology/democrats-split-ai-grows-wyden-tax-data-centers"],
+    ["With Sen. Markey, questioned Meta's chief executive about privacy violations tied to Meta AI glasses and the use of intimate images for AI training.", "Wyden Senate press release, 29 October 2026", "https://www.wyden.senate.gov/news/press-releases/wyden-and-markey-question-meta-ceo-mark-zuckerberg-over-meta-ai-glasses-privacy-violations-use-of-intimate-images-for-ai-training"],
+    ["Listed in a search result as a co-sponsor of Sen. Markey's States' Right to Regulate AI Act (page not opened, date not checked).", "Markey Senate press release, date not checked", "https://www.markey.senate.gov/news/press-releases/senator-markey-introduces-legislation-to-block-trumps-executive-order-blocking-state-ai-regulation"],
+    ["With colleagues, pressed Commerce Secretary Lutnick over the decision to allow sales of advanced AI chips to China (page not opened, date not checked).", "Wyden Senate press release, date not checked", "https://www.wyden.senate.gov/news/press-releases/wyden-colleagues-press-lutnick-on-administrations-decision-to-sell-out-national-and-economic-security-by-greenlighting-the-sale-of-advanced-chips-to-china"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Seven searches and his official site turned up AI activity only on surveillance, privacy, data center taxes, state regulation and chip exports. No statement since 1 January 2025 acknowledging or dismissing catastrophic risk from AI was found.",
+  "notes": "Seven web searches ran, none refused. The search of his official site was incomplete: the site's own keyword filter did not work through the page fetcher (it returned the unfiltered archive), so only the newest page of press releases (20 October to 10 November 2026) was browsed directly. The one statement's quote is only the opening words of a longer sentence: the page-reading tool would not return more than about 125 characters, so I did not see the full sentence myself and the reviewer should open the article and either complete the quote or drop it. The tool described the rest as being about local disruption and workers displaced by AI. The statement date is the article date (6 August 2026); the article does not say how or exactly when the remark was made. The notus.org link redirects to https://washingtonsun.com/technology/democrats-split-ai-grows-wyden-tax-data-centers?redirected=notus_org, where the page was read. Ban Artificial Superintelligence Act (Sanders and Casar, September 2026): no source found showing Wyden as a co-sponsor; the Congress.gov co-sponsor list was not checked. China letter of 23 September 2026: not a signer, per the verified list. The Markey bill co-sponsorship and the chip export letter in the record come from search result summaries only and were not opened. The Anthropic-related letter (5 March 2026) is about government surveillance uses of AI and has no catastrophic risk content on the press release page."
+}

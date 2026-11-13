@@ -1,0 +1,86 @@
+{
+ "bioguide": "C001047",
+ "member": "Sen. Shelley Moore Capito (Republican, West Virginia)",
+ "searches": [
+  "Capito artificial intelligence (restricted to capito.senate.gov)",
+  "Shelley Moore Capito superintelligence",
+  "Shelley Moore Capito AI \"extinction\" OR \"existential risk\"",
+  "Capito AI moratorium OR pause OR slowdown 2025 2026",
+  "Capito AI China agreement OR treaty OR talks artificial intelligence",
+  "\"Capito\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2025-08-12",
+   "venue": "Press release on reintroducing the VET AI Act with Sen. Hickenlooper",
+   "quote": "The VET AI Act is a commonsense bill that will allow for a voluntary set of guidelines for AI",
+   "context": "Capito was describing her bill directing the National Institute of Standards and Technology to write voluntary guidelines for independent checks of how AI systems are developed and tested.",
+   "source_label": "Senate press release",
+   "url": "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action",
+    "unsure"
+   ],
+   "reason": "She supports voluntary testing guidelines for AI but names no catastrophic or serious risk from advanced AI."
+  },
+  {
+   "date": "2025-12-30",
+   "venue": "Statement on the Artificial Intelligence Scam Prevention Act, as reported by The Ripon Advance",
+   "quote": "we must also be vigilant in protecting against harmful uses of the technology, especially when it comes to fraud and scams.",
+   "context": "Capito was explaining a bill with Sen. Klobuchar that bans using AI to copy a person's voice or image in order to defraud.",
+   "source_label": "The Ripon Advance, reposted on capito.senate.gov",
+   "url": "https://www.capito.senate.gov/news/in-the-news/bipartisan-capito-bill-would-help-prevent-ai-scams",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The harm named is fraud and scams, which the rubric places outside catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Reintroduced the VET AI Act (S. 2615) with Sen. Hickenlooper on 31 July 2025, directing the National Institute of Standards and Technology to develop voluntary guidelines for independent verification of AI systems.",
+   "Senate press release, 12 August 2025",
+   "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines"
+  ],
+  [
+   "Introduced the Artificial Intelligence Scam Prevention Act (S. 3495) with Sen. Klobuchar on 16 December 2025, prohibiting use of AI to copy a person's image or voice with intent to defraud.",
+   "The Ripon Advance on capito.senate.gov, 30 December 2025",
+   "https://www.capito.senate.gov/news/in-the-news/bipartisan-capito-bill-would-help-prevent-ai-scams"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI statements found since January 2025 concern voluntary testing guidelines and AI-enabled fraud. Nothing found acknowledges catastrophic risk, and nothing dismisses it.",
+ "notes": "Seven web searches ran; none was refused. Searches on superintelligence, extinction, pause or moratorium, China talks and 'AI safety' returned nothing mentioning Capito. No source found showing she co-sponsored the Ban Artificial Superintelligence Act (Sanders and Casar; news reports of co-sponsors conflict and none names her; congress.gov was not checked). Quote caveats: the page-reading tool only returns short excerpts, so both quotes are partial. The VET AI quote is the opening of a longer sentence (about 300 characters in full) and the tool showed 'VET AI Act' with italic markers around it; a reviewer should check the exact wording and the rest of the sentence on the page. The rest of that statement was paraphrased by the tool as saying the bill helps developers who choose to adopt the guidelines and that she hopes it advances out of the Commerce Committee; this is not quoted. The scam quote is the second half of a sentence that begins 'While there is incredible potential with artificial intelligence,' with 'Sen. Capito said,' in between. Dates are those of the pages read (12 August 2025 and 30 December 2025); the statements were probably first issued with the bill introductions on 31 July 2025 and 16 December 2025, which I could not confirm (the original 31 July press release URL I tried returned 404). The press release describes the VET AI Act as addressing unverified company claims about safety testing and risk management; that is the release's wording, not a Capito quote. Only page 1 of 259 of her press release list was scanned (October to November 2026, no AI items). Hearing remarks and floor speeches were not searched separately."
+}

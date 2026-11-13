@@ -1,0 +1,121 @@
+{
+ "bioguide": "B001230",
+ "member": "Sen. Tammy Baldwin (Democrat, Wisconsin)",
+ "searches": [
+  "Tammy Baldwin artificial intelligence (restricted to baldwin.senate.gov)",
+  "Tammy Baldwin superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+  "Senator Tammy Baldwin AI extinction OR \"existential risk\" OR \"existential threat\"",
+  "Senator Tammy Baldwin AI pause OR slowdown OR moratorium data centers",
+  "Senator Tammy Baldwin AI China agreement OR treaty OR talks letter",
+  "\"Tammy Baldwin\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-21",
+   "venue": "Press release statement",
+   "quote": "I hear the calls from Wisconsinites who want some assurance that AI will not become capable of operating beyond human control. The time to act is now because we cannot trust Big Tech to do the right thing on their own, and the public should not bear the consequences when they get it wrong.",
+   "context": "Statement criticising Republicans for not acting on AI regulation before the November 2026 elections.",
+   "source_label": "Senate press release",
+   "url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "She relays constituents' worry about AI operating beyond human control and endorses it by saying the time to act is now; loss of control without extinction framing is B, though she does not state the risk outright as her own prediction."
+  },
+  {
+   "date": "2026-09-21",
+   "venue": "Press release statement",
+   "quote": "In the short term, we must act to pump the brakes on these frontier models. We need an independent cop on the beat with the expertise and authority to stop deployment unless rigorous, independent testing shows that a model can be operated safely and kept under human control.",
+   "context": "Statement criticising Republicans for not acting on AI regulation before the November 2026 elections.",
+   "source_label": "Senate press release",
+   "url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls for slowing frontier models and blocking deployment unless they can be kept under human control, which implies a loss-of-control risk without naming a catastrophic outcome."
+  },
+  {
+   "date": "2026-09-21",
+   "venue": "Press release statement",
+   "quote": "AI comes with great opportunity that we need to harness and also tremendous risks for our workforce and safety that we need to protect against.",
+   "context": "Statement criticising Republicans for not acting on AI regulation before the November 2026 elections.",
+   "source_label": "Senate press release",
+   "url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "Acknowledges serious risks to safety from AI in general terms."
+  },
+  {
+   "date": "2026-09-21",
+   "venue": "Press release statement",
+   "quote": "The bottom line is that AI needs to work for Wisconsinites and Americans should be in control of AI, not the other way around.",
+   "context": "Statement criticising Republicans for not acting on AI regulation before the November 2026 elections.",
+   "source_label": "Senate press release",
+   "url": "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Alludes to AI controlling people rather than the reverse, but in general terms and partly about who decides how AI is used."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "In her own 21 September 2026 statement she said \"we must act to pump the brakes on these frontier models\", tied to safety and human control. The mechanism she names is blocking deployment until independent testing, not slowing research itself, so a reviewer may prefer \"mixed\".",
+   "sources": [
+    [
+     "Senate press release, 2026-09-21",
+     "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "She called for authority to stop deployment of models that fail independent safety testing, which is a conditional block on deployment, not a halt to building more capable systems. No statement for or against a pause found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "She is not among the 17 signers of the 23 September 2026 letter urging AI talks with China, and no statement on an AI agreement with China was found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Released a statement calling for an independent body able to stop deployment of frontier AI models unless independent testing shows they can be operated safely and kept under human control, and for companies to disclose serious risks and incidents.",
+   "Senate press release, 2026-09-21",
+   "https://www.baldwin.senate.gov/news/press-releases/baldwin-calls-out-republicans-for-refusing-to-act-on-ai-demands-congress-protect-families-and-workers"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 Senate Democrats urging AI talks with China (her name is not in the signer list).",
+   "Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Her office says she joined colleagues in a letter to the Defense Department asking, among other things, whether AI tools were used to select targets in strikes in Iran (military use of AI, outside this project's scope).",
+   "Senate press release, 2026-03-11",
+   "https://www.baldwin.senate.gov/news/press-releases/baldwin-presses-trump-admin-for-answers-on-the-school-bombing-and-civilian-casualties-in-iran"
+  ],
+  [
+   "Joined colleagues in a letter urging tech companies to address non-consensual sexualized AI-generated images (outside this project's scope).",
+   "Senate press release, January 2026",
+   "https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-colleagues-demand-big-tech-remove-sexualized-ai-generated-images"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "Her 21 September 2026 statement relays and endorses constituents' concern that AI could become capable of operating beyond human control and calls for stopping deployment of models that cannot be kept under human control. This is a borderline B: the loss-of-control concern is attributed to constituents and she never names extinction or mass casualties; a stricter reading would be C.",
+ "notes": "Six web searches ran, all successful; none refused. All four quotes come from one press release, opened at baldwin.senate.gov and checked by exact text match against the page. The release's introduction (not her quoted words, so not used as a quote) refers to \"repeated warnings about the largest AI companies losing control of the technology they are creating\". Ban Artificial Superintelligence Act: no source found showing she co-sponsored it; Congress.gov was not checked, so this is unconfirmed rather than ruled out. The Iran letter press release says she \"joined\" the letter but the fetched summary did not show her name in the printed signer list; the page was read only through an automated summary, as was nothing else relied on for quotes. The sexualized-images press release was seen only in search results, not opened, and its exact date was not confirmed. The WisPolitics copy of the statement is behind a login and the Urban Milwaukee copy returned an access error; neither was needed. No hearing remarks, floor speeches or interviews by her on catastrophic AI risk were found."
+}

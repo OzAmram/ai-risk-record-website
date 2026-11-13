@@ -1,0 +1,40 @@
+{
+  "bioguide": "H001079",
+  "member": "Cindy Hyde-Smith",
+  "searches": [
+    "Hyde-Smith artificial intelligence (restricted to hydesmith.senate.gov)",
+    "Cindy Hyde-Smith superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+    "Cindy Hyde-Smith AI extinction OR \"existential risk\" OR \"loss of control\"",
+    "Cindy Hyde-Smith AI moratorium OR pause OR slowdown",
+    "Cindy Hyde-Smith AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Hyde-Smith\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-05-15",
+      "venue": "Senate Military Construction and Veterans Affairs Appropriations Subcommittee hearing (as reported in her press release)",
+      "quote": "supports advanced modeling, simulation, artificial intelligence, and weapons development efforts across the force",
+      "context": "She was asking the Defense Department to treat the Army Engineer Research and Development Center in Vicksburg as a military installation, and described its supercomputing program.",
+      "source_label": "Senate press release",
+      "url": "https://www.hydesmith.senate.gov/hyde-smith-pushes-dod-recognize-erdc-vicksburg-military-installation",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "A passing mention of AI as a military research capability, with no acknowledgment of catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an AI agreement with China; she is not among the signers of the 23 September 2026 letter.", "sources": [["Van Hollen press release listing the signers", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).", "Van Hollen press release, 2026-09-23", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"],
+    ["Voted Yea on Blackburn Amendment No. 2814, which struck the section on artificial intelligence (the proposed 10-year halt on state AI laws) from the budget bill H.R. 1; the amendment passed 99 to 1. This concerns who regulates AI, not catastrophic risk.", "Senate roll call vote 363, 2025-07-01", "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.htm"],
+    ["At a Federal Energy Regulatory Commission oversight hearing she asked how large electricity users such as data centers would be made to pay their share so household rates do not rise; the release does not mention AI.", "Senate press release, 2026-07-23", "https://www.hydesmith.senate.gov/hyde-smith-ferc-commissioners-examine-affordability-data-centers-proliferate"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remark found since January 2025 is a passing mention of AI as a military research capability; nothing found in her official site or in news coverage acknowledges catastrophic risk from AI, and nothing dismisses it.",
+  "notes": "All 6 required web searches ran on 11 November 2026 (an earlier run had managed only 1). The five news searches (superintelligence, extinction or existential risk, moratorium or pause, China agreement, AI safety) returned no result naming her. Pages opened this time: the Vicksburg research center release (quote confirmed on the page as her words at the hearing), the data center hearing release (confirmed it does not contain the words AI or artificial intelligence), Senate roll call vote 363 of 1 July 2025 (new record item), and two other pages on her site that mention AI but not in her words, so they are left out: an article by an outside group on AI in farming dated 25 August 2025 (mentions her estate tax bill, does not quote her) and a reposted local TV article of 12 January 2026 about students (one student plans AI research). Ban Artificial Superintelligence Act (S. 5493, introduced 23 September 2026): no source seen shows that she co-sponsored it. News coverage opened (The Decoder, 24 September 2026) names only Sen. Sanders and Rep. Casar, and a bill tracker page (fastdemocracy.com) showed an empty sponsor list; the official cosponsor list on congress.gov could not be opened (access error 403), so her absence is not confirmed from the official record and is not listed under record. The quote in the one statement is a fragment of a longer sentence: the page-reading tool would not return the full sentence, so a reviewer may want to see the whole sentence on the page. The data center remarks (23 July 2026) are about electricity costs and do not mention AI, so they are under record rather than statements. A 2019 defense funding release and a 2022 chip bill article mention AI but are before 2025."
+}

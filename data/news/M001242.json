@@ -1,0 +1,152 @@
+{
+  "bioguide": "M001242",
+  "member": "Bernie Moreno",
+  "searches": [
+    "Bernie Moreno artificial intelligence statement senator",
+    "\"Moreno\" site:moreno.senate.gov artificial intelligence AI",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators Moreno",
+    "17 senators letter AI talks with China September 23 2026 signers",
+    "\"Bernie Moreno\" \"AI safety\"",
+    "FAILED twice (search limit reached, no results): \"Bernie Moreno\" AI extinction OR \"existential risk\" OR \"existential threat\"",
+    "FAILED twice (search limit reached, no results): \"Bernie Moreno\" AI moratorium OR pause OR slowdown",
+    "FAILED (search limit reached, no results): \"Bernie Moreno\" China AI agreement OR treaty OR talks artificial intelligence",
+    "FAILED (search limit reached, no results): \"Moreno\" senator superintelligence Anthropic letter \"doomerism\" reaction",
+    "Official site's own search box, opened directly (worked): moreno.senate.gov/?s=artificial+intelligence ; ?s=intelligence ; ?s=Anthropic ; ?s=AI (first page of five only)",
+    "Sanders official site's own search box, opened directly (worked): sanders.senate.gov/?s=Ban+Artificial+Superintelligence+Act"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-05",
+      "venue": "Letter from Sen. Moreno to Anthropic chief executive Dario Amodei",
+      "quote": "We should not unnecessarily metastasize SI 'doomerism,' but rather recognize that SI, like any cutting-edge technology, presents risks that must be addressed by companies who are able to rise to the occasion.",
+      "context": "Moreno criticised Anthropic's leaders for warning publicly that advanced AI (which the letter calls super intelligence, 'SI') could kill everyone while the company prepares to sell shares to the public.",
+      "source_label": "Moreno letter to Dario Amodei (scanned PDF on moreno.senate.gov)",
+      "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Labels warnings of catastrophic AI risk 'doomerism' and treats the risk as no different from that of any new technology, though it also says risks must be addressed."
+    },
+    {
+      "date": "2026-10-05",
+      "venue": "Letter from Sen. Moreno to Anthropic chief executive Dario Amodei",
+      "quote": "Rather than highlighting how SI could end humanity, public discourse around SI should focus on developing solutions to the real vulnerabilities SI has found in American critical infrastructure and cybersecurity.",
+      "context": "Moreno argued that focus on catastrophic outcomes crowds out debate about national security and competition with China.",
+      "source_label": "Moreno letter to Dario Amodei (scanned PDF on moreno.senate.gov)",
+      "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Says public discussion should stop highlighting the possibility that AI could end humanity and contrasts it with 'real' vulnerabilities, which sets the extinction concern aside without flatly denying it."
+    },
+    {
+      "date": "2026-10-05",
+      "venue": "Letter from Sen. Moreno to Anthropic chief executive Dario Amodei",
+      "quote": "Anthropic's recent actions and statements reflect an alarmist approach to SI that places extraordinary emphasis on the technology's most catastrophic outcomes.",
+      "context": "Opening charge of the letter, before it cites statements by a former Anthropic researcher, an Anthropic safety researcher and Amodei about AI killing everyone.",
+      "source_label": "Moreno letter to Dario Amodei (scanned PDF on moreno.senate.gov)",
+      "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Calls emphasis on catastrophic outcomes from AI alarmist."
+    },
+    {
+      "date": "2026-10-05",
+      "venue": "Letter from Sen. Moreno to Anthropic chief executive Dario Amodei",
+      "quote": "We must address the risks associated with frontier SI. Doing so does not require halting its development or surrendering American technological dominance.",
+      "context": "Closing paragraph of the letter, on how the United States should respond to risks from advanced AI.",
+      "source_label": "Moreno letter to Dario Amodei (scanned PDF on moreno.senate.gov)",
+      "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary",
+        "unsure"
+      ],
+      "reason": "Read on its own, this says frontier AI carries risks that must be addressed, in general terms and without naming any catastrophic harm; it sits between C and D."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Remarks to the Daily Caller News Foundation",
+      "quote": "What [Trump] doesn't want is he doesn't want our AI industry destroyed because of irrational fears.",
+      "context": "Moreno was responding to President Trump's post opposing AI guardrails; the report says he added, \"There are obviously concerns.\"",
+      "source_label": "Daily Caller, 15 September 2026",
+      "url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [
+        "boundary",
+        "unsure"
+      ],
+      "reason": "Calls fears about AI irrational, but the quote does not say which fears, so it is not certain he meant catastrophic risk."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Remarks to the Daily Caller News Foundation",
+      "quote": "He should, in fact, just shut down his entire company if he's so concerned about what he's creating.",
+      "context": "Moreno was asking why Anthropic's chief executive Dario Amodei is taking the company public if he is worried about the technology; the report has him adding, \"The reality is that's an alarmist point of view.\"",
+      "source_label": "Daily Caller, 15 September 2026",
+      "url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Mocks Amodei's stated concern about the dangers of the AI his company builds and, in the next sentence, calls it alarmist."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found that addresses slowing AI progress as distinct from halting it; his remark that the President does not want the AI industry 'destroyed because of irrational fears' leans against, but does not name a slowdown.",
+      "sources": [
+        [
+          "Daily Caller, 15 September 2026",
+          "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "no",
+      "note": "His own letter of 5 October 2026 says addressing the risks of frontier AI 'does not require halting its development'.",
+      "sources": [
+        [
+          "Moreno letter to Dario Amodei, 5 October 2026",
+          "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "Nothing found on an agreement or talks with China on AI; his letter only says the United States, not China, should shape the technology. News reports describe the September 2026 letter urging AI talks with China as signed by 17 Democratic senators, so Moreno, a Republican, was not a signer; no full signer list was seen.",
+      "sources": [
+        [
+          "WTVC NewsChannel 9, 23 September 2026",
+          "https://newschannel9.com/news/nation-world/democrats-call-on-trump-to-establish-agreement-with-xi-jinping-to-slow-ai-development-maryland-chris-van-hollen"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "Nothing found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sent a letter on 5 October 2026 to Anthropic chief executive Dario Amodei criticising the company's 'alarmist approach' to advanced AI while it prepares a public share offering, and praising Amodei's signing of the White House Accord on Super Intelligence.",
+      "Moreno Senate press release, 5 October 2026",
+      "https://www.moreno.senate.gov/newsroom/press-releases/moreno-blasts-anthropic-ceo-for-hypocritical-approach-to-super-intelligence/"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "By the brief's rule the grade is the highest level found, and one sentence in his 5 October 2026 letter ('We must address the risks associated with frontier SI') is a borderline C. A reviewer should weigh that against five statements graded F, which are the main thrust of the letter and of his September remarks; if the borderline sentence is judged D, the grade becomes F.",
+  "notes": "SEARCH COVERAGE IS STILL INCOMPLETE. Five web searches succeeded over two rounds (general, official-site, Ban Artificial Superintelligence Act, the 17-senator China letter, and 'AI safety'); the session's web search limit was hit again, so the dedicated searches on extinction or existential risk, on pause or slowdown or moratorium, and on his name with a China agreement never ran. The successful searches and the search box on moreno.senate.gov (terms: artificial intelligence, intelligence, Anthropic, AI; first of five result pages for 'AI') turned up the same two items each time: the 5 October 2026 Anthropic letter and the 15 September 2026 Daily Caller remarks, so it is fairly likely, not certain, that these are his main statements. China letter: reports (for example WTVC, 23 September 2026) describe the signers as 17 Senate Democrats led by Sen. Van Hollen; no Republican is named, and no full signer list was seen. One secondary site dates the letter 25 September. Ban Artificial Superintelligence Act: the Sanders press release of 23 September and news coverage name only Sanders in the Senate (Rep. Casar and other House Democrats in the House); nothing names Moreno. I did not see a congress.gov cosponsor list. Quote checks: the four letter quotes were transcribed by me from the scanned PDF (image only, no text layer), so a reviewer should compare them character by character, in particular the quotation marks around 'doomerism'. The two Daily Caller quotes were returned by a page-fetching tool that summarises the page, which reported them as separate verbatim segments; I did not see the raw article text, the bracketed '[Trump]' is as reported from the article, and the article does not give the date of the remarks, so the article's date (15 September 2026) is used. A republication of that article at bizpacreview.com could not be opened to cross-check (access refused). The Axios story that first reported the letter (https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence) could not be opened (access refused). Left out as level D: (1) remarks at the 10 September 2025 Senate Commerce subcommittee hearing on the AI Action Plan, about American chips and energy for AI data centers, quoted in a Sen. Budd press release (https://www.budd.senate.gov/?p=8784); the full hearing transcript (https://www.govinfo.gov/content/pkg/CHRG-119shrg62739/pdf/CHRG-119shrg62739.pdf) was not read. (2) Remarks around 17 September 2026 about his office using an AI tool it calls 'Albert', seen only through an X post relayed by digg.com. The Next Web's report of the letter (https://thenextweb.com/news/bernie-moreno-letter-dario-amodei-anthropic-alarmist) matches the PDF. The letter also quotes other people's warnings (Jacob Coxon, Evan Hubinger, Amodei) that AI could kill everyone; these are cited in order to criticise them, not endorsed, so they are not treated as relayed warnings."
+}

@@ -1,0 +1,60 @@
+{
+  "bioguide": "ELECT-TX-TALARICO",
+  "member": "James Talarico",
+  "searches": [
+    "NOT RUN (web search refused, session budget used up): James Talarico artificial intelligence superintelligence",
+    "NOT RUN (web search refused): James Talarico \"AI safety\"",
+    "NOT RUN (web search refused): Talarico AI extinction OR \"existential risk\" OR \"existential threat\" Senate campaign",
+    "NOT RUN (web search refused): Talarico AI pause OR moratorium OR slowdown data centers artificial intelligence",
+    "NOT RUN (web search refused): Talarico China AI agreement OR treaty artificial intelligence",
+    "NOT RUN (web search refused): jamestalarico.com artificial intelligence (restricted to jamestalarico.com)",
+    "Opened directly: https://jamestalarico.com/ and https://jamestalarico.com/issues/",
+    "Opened directly: https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/",
+    "Opened directly: https://jamestalarico.com/issue/foreign-policy/",
+    "Opened directly: https://en.wikipedia.org/wiki/James_Talarico (used only to find source links)",
+    "Opened directly: https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/",
+    "Opened directly: https://www.cbsnews.com/texas/news/data-centers-emerge-as-key-issue-in-texas-politics-where-candidates-for-governor-u-s-senate-stand/",
+    "Opened directly: https://www.tpr.org/news/2026-01-25/crockett-talarico-take-on-affordability-ice-and-trump-during-texas-primary-debate",
+    "Tried, did not work: https://www.texastribune.org/search/?q=Talarico+artificial+intelligence (returned an unrelated article, not search results)",
+    "Tried, could not open: https://www.politico.com/news/magazine/2025/07/19/james-talarico-texas-democrat-joe-rogan-interview-00441989"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-22",
+      "venue": "News conference in Austin announcing his data center plan",
+      "quote": "Billionaire-backed politicians are giving sweetheart tax deals to giant AI companies and then sticking us with the bill.",
+      "context": "He was presenting his plan to regulate data centers, focused on utility bills, water use, tax breaks and local control.",
+      "source_label": "Texas Tribune",
+      "url": "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About data center costs and tax breaks for AI companies; no catastrophic risk from AI is mentioned (ruling 5)."
+    },
+    {
+      "date": "2026-11-11",
+      "venue": "Campaign website issue page \"Social Media, AI & Tech\" (undated; the date given is the day the page was read)",
+      "quote": "keep advanced AI chips out of the hands of adversaries who would use them against us.",
+      "context": "A platform item on export controls for advanced AI chips, on a page that otherwise covers an AI profits tax paid out as a dividend, worker protections, data centers and social media.",
+      "source_label": "Talarico for Texas campaign site",
+      "url": "https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "Competition with adversaries over AI chips, with no catastrophic harm from AI itself named (ruling 5); flagged unsure because the page is undated and the wording was extracted as a sentence fragment by the page-reading tool."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI progress. His data center plan is motivated by utility bills, water and local control, and the Texas Tribune reports he did not call for a moratorium.", "sources": [["Texas Tribune, 22 July 2026", "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/"]]},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an AI agreement or talks with China; his campaign foreign policy page does not mention AI or China, and his tech page supports chip export controls against adversaries, which does not count.", "sources": [["Campaign site, foreign policy page", "https://jamestalarico.com/issue/foreign-policy/"], ["Campaign site, Social Media, AI & Tech page", "https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/"]]},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Announced a 'Hold Data Centers Accountable Plan' (end data center tax incentives, require closed-loop water systems, let communities approve or reject projects); not about risk from AI itself.", "Texas Tribune, 22 July 2026", "https://www.texastribune.org/2026/07/22/texas-james-talarico-data-centers-regulation-senate-2026/"],
+    ["Campaign platform page 'Social Media, AI & Tech' proposes a tax on AI-attributable profits paid out as an 'AI Dividend', worker protections from AI surveillance, data center rules and export controls on advanced AI chips; it lists state legislative work on deepfakes and AI-generated political advertisements.", "Talarico for Texas campaign site, read 11 November 2026 (page undated)", "https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The AI material found (campaign platform and data center plan) concerns costs, jobs, taxes, social media and chip export controls; nothing found acknowledges catastrophic risk from AI. This rests on an incomplete search, because web search was unavailable.",
+  "notes": "INCOMPLETE SEARCH: all six required web searches were refused (the session's shared web search budget was used up), so none of the topic searches (superintelligence, extinction, pause, China agreement, 'AI safety', official-site search) ran. Findings come only from pages opened directly; podcast interviews (for example the July 2025 Joe Rogan episode), candidate questionnaires and most debate coverage were NOT checked, so a statement on AI risk could exist and have been missed. A reviewer should rerun the searches before treating D as settled. The 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: no source seen showing any involvement; he was not a senator in September 2026, so he could not have signed or co-sponsored as one. Quote caveats: pages were read through a fetch tool that uses a small model to extract text, and it refused to reproduce the campaign page in full, returning only short fragments; a direct download of the campaign page was blocked by the site's firewall. The campaign-site quote is therefore a fragment of a longer sentence and should be checked by eye against the page; its date is the day it was read, not the day it was written. Other fragments reported from the same page, not used as statements: \"we want to protect America's leadership in artificial intelligence\", \"Ensure AI works for working people\", \"Establish an AI Dividend\". CBS News Texas (updated 25 August 2026) quotes him at an Abilene rally on data centers 'jacking up our utility bills and using up all our water' (returned in split segments, so not used as a quote). Houston Public Media's report on the 24 January 2026 primary debate does not mention AI. Could not open: the Politico article on the Rogan interview; Texas Tribune's site search did not return results. Wikipedia was used only to locate source links."
+}

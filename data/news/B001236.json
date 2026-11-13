@@ -1,0 +1,40 @@
+{
+  "bioguide": "B001236",
+  "member": "John Boozman",
+  "searches": [
+    "Boozman artificial intelligence (restricted to boozman.senate.gov)",
+    "Senator John Boozman superintelligence",
+    "Senator John Boozman AI \"existential\" OR \"extinction\" risk",
+    "Boozman AI moratorium OR pause OR slowdown artificial intelligence 2025 2026",
+    "Boozman China AI agreement OR treaty artificial intelligence senator",
+    "\"Boozman\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2025-09-24",
+      "venue": "Letter to Environmental Protection Agency Administrator Lee Zeldin, quoted in a Senate press release",
+      "quote": "Our nation currently needs more reliable and affordable electricity to power our economy, maintain our economic competitiveness, and win the Artificial Intelligence race.",
+      "context": "Boozman and Sen. Capito led a letter from Republican members of the Environment and Public Works Committee supporting repeal of power plant emission rules.",
+      "source_label": "Senate press release (Boozman)",
+      "url": "https://www.boozman.senate.gov/2025/9/boozman-capito-support-efforts-to-promote-energy-reliability-and-security",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter", "bill_or_action"],
+      "reason": "The letter mentions AI only as a race to win that needs electricity, and does not acknowledge any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI; he is not among the signers of the 23 September 2026 letter.", "sources": [["Van Hollen press release listing signers", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Led, with Sen. Capito, a letter from Republican Environment and Public Works Committee members to the Environmental Protection Agency supporting repeal of power plant rules, citing the need for electricity to win the AI race.", "Senate press release (Boozman), 2025-09-24", "https://www.boozman.senate.gov/2025/9/boozman-capito-support-efforts-to-promote-energy-reliability-and-security"],
+    ["Introduced, with Sen. Padilla, the Roadway Safety Modernization Act, which would help state transportation departments adopt technologies such as AI and telematics to find road safety problems.", "Senate press release (Boozman), 2026-01-07", "https://www.boozman.senate.gov/public/index.cfm/press-releases?id=8393CFFF-24BF-4B50-BE12-E53C0CCC48C8"],
+    ["Introduced, with Sen. Kelly, a bill extending a water research grant program, which would update water research applications to include the growing AI industry.", "Senate press release (Boozman), 2025-11-18", "https://www.boozman.senate.gov/public/index.cfm/press-releases?ContentRecord_id=243D0DA1-07B0-45D4-9971-498C4263681C"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI material found since January 2025 treats AI as an economic race or as a practical tool (roads, water, policing); nothing found acknowledges or dismisses catastrophic risk from AI.",
+  "notes": "Six web searches ran, all succeeded; no extra searches were run because of the shared limit, so coverage is limited to those six plus four pages opened. The one statement is the text of a letter he co-led, not his individual words; his own quotes in the road safety and water research press releases do not mention AI (the AI mentions there are release narrative or other people's quotes). Search summaries also mentioned, without my opening the pages: a March 2026 rural water systems bill (FLOWS Act) allowing AI tools, a May 2026 visit to Little Rock's Real-Time Crime Center citing funding for an AI-powered criminal intelligence network, AI as a topic at his 2025-2026 Congressional Youth Cabinet, and a July 2025 meeting with British parliamentarians; none appeared to concern catastrophic risk. His November 2023 Agriculture Committee hearing statement on AI in agriculture is before the 1 January 2025 cutoff and was left out. No source found showing he co-sponsored the Ban Artificial Superintelligence Act (reported as a Sanders and Casar bill); he did not sign the 23 September 2026 China letter (not on the verified list). A KATV article on Republicans splitting from Trump on AI was opened and does not mention him. No hearing remarks, floor speeches or interviews on AI risk were found, but the Congressional Record was not searched directly."
+}

@@ -1,0 +1,173 @@
+{
+ "bioguide": "G000574",
+ "member": "Ruben Gallego",
+ "searches": [
+  "Ruben Gallego superintelligence AI",
+  "Gallego artificial intelligence (restricted to gallego.senate.gov)",
+  "Senator Ruben Gallego AI \"extinction\" OR \"existential risk\" OR \"loss of control\"",
+  "Senator Gallego AI pause OR slowdown OR moratorium",
+  "Gallego AI China agreement OR treaty OR talks artificial intelligence senator",
+  "\"Gallego\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-14",
+   "venue": "MS NOW interview (The Weeknight)",
+   "quote": "The voter is really scared about what’s happening right now. They’re scared that their jobs are going to be taken, that their lives are going to be taken. What we understand is humanity could be totally gone within a couple of years.",
+   "context": "He was responding to President Trump dismissing concerns about AI and arguing for a commission to write AI rules quickly.",
+   "source_label": "Senate press release",
+   "url": "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-senate-committee-to-rein-in-ai-celebrates-supreme-courts-mail-in-voting-decision/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "He says in his own voice that humanity could be totally gone within a couple of years because of AI."
+  },
+  {
+   "date": "2026-09-13",
+   "venue": "CNN interview (State of the Union with Jake Tapper)",
+   "quote": "This is not previous tech. Previous tech could not make a decision to kill us. When we turned on the internet it did not have autonomy. When we created the nuclear weapon, the nuclear weapon did not have the decision-making power to drop a nuclear weapon.",
+   "context": "He was asked about a former Anthropic researcher's resignation and warning about AI systems that improve themselves.",
+   "source_label": "Senate press release",
+   "url": "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-immediate-congressional-oversight-and-regulation-on-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says AI, unlike earlier technology, could itself decide to kill people, which is a mass-casualty and loss-of-control risk; 'kill us' could be read as a threat to humanity (A)."
+  },
+  {
+   "date": "2026-09-13",
+   "venue": "CNN interview (State of the Union with Jake Tapper)",
+   "quote": "We can’t just use this idea that if we do this, we’re somehow going to lose to China because AI does not care once it becomes fully dangerous whether we are Chinese or American.",
+   "context": "He was rejecting the argument that competition with China is a reason not to put guardrails on AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-immediate-congressional-oversight-and-regulation-on-ai/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says AI itself will become 'fully dangerous' to Americans and Chinese alike, but this passage does not name the harm."
+  },
+  {
+   "date": "2026-09-13",
+   "venue": "CNN interview (State of the Union with Jake Tapper)",
+   "quote": "We don’t have that time. Dr. Frankenstein is telling us the monster has escaped. Help us stop this.",
+   "context": "He was saying Congress cannot wait years for a framework after AI company insiders warned about their own technology.",
+   "source_label": "Senate press release",
+   "url": "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-immediate-congressional-oversight-and-regulation-on-ai/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "He relays and endorses the AI industry insiders' warning as urgent, but this passage does not itself name a catastrophic harm."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "MS NOW interview (The Weeknight)",
+   "quote": "Because if there’s any type of leakage, if any types of these agents go rogue, they’re not going to care if this was created in China. They will go after the United States and go after China later, or at the same time.",
+   "context": "He was explaining why he thinks AI rules will have to end in an international agreement that includes China.",
+   "source_label": "Senate press release",
+   "url": "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-senate-committee-to-rein-in-ai-celebrates-supreme-courts-mail-in-voting-decision/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He describes rogue AI agents attacking the United States and China, a serious threat from the AI itself, without naming a specific catastrophic outcome."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "MS NOW interview (The Weeknight)",
+   "quote": "You know, this is going to have to end up being an international agreement, right? Where we have to talk to not just China, the European Union, other friends and allies, to make sure that we all are staying together on this.",
+   "context": "He was describing the second step a Senate select committee on AI should take.",
+   "source_label": "Senate press release",
+   "url": "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-senate-committee-to-rein-in-ai-celebrates-supreme-courts-mail-in-voting-decision/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "This is mainly a policy statement (an international agreement on AI including China) made in the context of AI danger; included because it is the evidence for the international position."
+  },
+  {
+   "date": "2026-09-30",
+   "venue": "Senate Homeland Security and Governmental Affairs subcommittee hearing",
+   "quote": "Once these agents start speaking their language, they will not be detectable in China or America.",
+   "context": "At the hearing 'Rogue AI: Securing the Homeland Against AI Agent Attacks' he was questioning witnesses about AI models reasoning in ways humans cannot read; he then said 'That should scare the shit out of people.'",
+   "source_label": "Senate press release",
+   "url": "https://www.gallego.senate.gov/news/press-releases/watch-at-hsgac-subcommittee-hearing-gallego-warns-of-dangers-posed-by-ai-especially-as-more-models-go-rogue/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He warns that AI agents will become undetectable and uncontainable, a serious general risk from AI itself, without stating a catastrophic consequence."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "KJZZ and The Hill headlines describe him as backing a slowdown, but in the words I could read he calls for guardrails, oversight and a select committee, not for slowing AI development. He does reject the argument that acting would mean losing to China.",
+   "sources": [
+    [
+     "KJZZ, 15 September 2026",
+     "https://www.kjzz.org/text/politics/2026-09-15/sen-gallego-rep-ansari-execs-want-to-slow-ai-development-trump-pushes-for-u-s-dominance"
+    ],
+    [
+     "Senate press release, 14 September 2026",
+     "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-immediate-congressional-oversight-and-regulation-on-ai/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement for or against a pause found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "yes",
+   "note": "On MS NOW (14 September 2026) he said AI rules will 'have to end up being an international agreement' involving talks with China, the European Union and allies. He did not say the agreement should cover the pace of development or a pause, so a reviewer may prefer 'none'. He did not sign the 23 September 2026 letter.",
+   "sources": [
+    [
+     "Senate press release, 15 September 2026",
+     "https://www.gallego.senate.gov/news/press-releases/watch-gallego-calls-for-senate-committee-to-rein-in-ai-celebrates-supreme-courts-mail-in-voting-decision/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "His office's releases cite a warning about AI systems that improve themselves, but he did not call for banning them.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sent a letter to Senate leaders Thune and Schumer urging a bipartisan Senate Select Committee on Artificial Intelligence, after a former Anthropic researcher resigned over AI risks.",
+   "Senate press release, 9 September 2026",
+   "https://www.gallego.senate.gov/news/press-releases/gallego-urges-senate-leadership-to-establish-bipartisan-senate-select-committee-on-artificial-intelligence/"
+  ],
+  [
+   "Introduced a Senate resolution to establish a Select Committee on Artificial Intelligence.",
+   "Senate press release, 29 September 2026",
+   "https://www.gallego.senate.gov/news/press-releases/gallego-introduces-resolution-to-establish-select-committee-on-ai/"
+  ],
+  [
+   "Questioned witnesses at the Senate Homeland Security subcommittee hearing 'Rogue AI: Securing the Homeland Against AI Agent Attacks' about unreadable AI reasoning, incident reporting, a kill switch and liability.",
+   "Senate press release, 1 October 2026 (hearing 30 September 2026)",
+   "https://www.gallego.senate.gov/news/press-releases/watch-at-hsgac-subcommittee-hearing-gallego-warns-of-dangers-posed-by-ai-especially-as-more-models-go-rogue/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "On MS NOW on 14 September 2026 he said 'humanity could be totally gone within a couple of years', and on CNN the day before he said AI, unlike earlier technology, could make a decision to kill us.",
+ "notes": "Seven web searches ran; none was refused. Quotes were copied from the page text of three gallego.senate.gov press releases, which are his office's transcriptions of TV and hearing remarks (bracketed insertions are the office's); I did not check them against video. KJZZ's own transcription of the CNN remarks differs slightly in wording, so I used the office's version only. The MS NOW interview date is taken from the 15 September release saying 'last night'; the CNN date (Sunday 13 September) from KJZZ; the hearing date from the 1 October release saying 'yesterday'. The A statement begins 'The voter is really scared' and then 'What we understand is', which I read as his own assertion, but a reviewer could read it as partly describing voters' fears. The 9 September and 29 September press releases could only be read through an automated page summary (direct download was denied), so they are listed in the record without quotes. I found no source showing he co-sponsored the Ban Artificial Superintelligence Act; the cosponsor search did not name him, and I did not check congress.gov. The Hill, New York Times and KTAR coverage of the CNN interview was not opened. The intl 'yes' rests on a call for an international agreement including China that does not mention pace or pause."
+}

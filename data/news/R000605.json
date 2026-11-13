@@ -1,0 +1,134 @@
+{
+ "bioguide": "R000605",
+ "member": "Mike Rounds",
+ "searches": [
+  "Rounds artificial intelligence risk statement 2025 2026 (restricted to rounds.senate.gov)",
+  "Senator Mike Rounds superintelligence",
+  "Mike Rounds AI \"extinction\" OR \"existential risk\" senator",
+  "Mike Rounds AI pause OR slowdown OR moratorium 2025 2026",
+  "Mike Rounds AI China agreement OR treaty OR talks artificial intelligence (refused with too_many_requests in the first run; re-run successfully on 11 November 2026)",
+  "\"Mike Rounds\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Rounds",
+  "Sen. Rounds reaction Trump Xi AI talks \"Rounds\" China AI dialogue superintelligence September 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-13",
+   "venue": "Letter with Sen. Maria Cantwell to the Director of National Intelligence and the White House science office",
+   "quote": "build the capacity to independently test advanced AI models for serious national-security risks, including sophisticated cyber capabilities, biological and chemical threats, risks to critical infrastructure, the ability to evade safeguards, and increasingly autonomous behavior.",
+   "context": "A two-senator letter urging a coordinated federal response to cybersecurity threats from advanced AI, after reports of AI agents escaping test environments.",
+   "source_label": "Senate Commerce Committee (minority) press release, with full letter text",
+   "url": "https://www.commerce.senate.gov/press/dem/release/cantwell-rounds-urge-white-house-to-build-strong-coordinated-approach-to-ai-safety-cyber-defense/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter names serious national-security risks from advanced AI, including biological and chemical threats and evasion of safeguards, as things to test for, but does not state a catastrophic outcome such as mass casualties or loss of control, so C rather than B."
+  },
+  {
+   "date": "2026-10-02",
+   "venue": "Interview with KOTA Territory News at a South Dakota Mines event with Anthropic",
+   "quote": "And if we just simply decided we wanted to slow down our artificial intelligence research and development... It doesn’t mean that they’re going to stop. It means that they will begin to take the lead.",
+   "context": "Asked about staying competitive, Rounds argued that slowing US AI research would let China take the lead.",
+   "source_label": "Dakota News Now / KOTA",
+   "url": "https://www.dakotanewsnow.com/2026/10/03/sen-rounds-anthropic-leaders-talk-ais-future-south-dakota-mines/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "This is about competition with China and opposes a slowdown; it does not acknowledge catastrophic risk from AI itself."
+  },
+  {
+   "date": "2025-10-29",
+   "venue": "Remarks to a Ripon Society luncheon",
+   "quote": "We pursue it and we win it – or else we’re going to be speaking Chinese.",
+   "context": "Rounds was describing the AI and quantum computing race with China and the investments he says the US must make.",
+   "source_label": "The Ripon Society",
+   "url": "https://riponsociety.org/2025/10/rounds-details-urgent-ai-competition-with-china/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Frames AI purely as a race with China, with no catastrophic risk from AI named."
+  },
+  {
+   "date": "2025-05-30",
+   "venue": "Fox News Digital interview at the Reagan National Economic Forum",
+   "quote": "Let's not necessarily just totally divest. Let's see if we can have an influence on them and the rest of the world as well when it comes to standards for AI and other technological advances in the future",
+   "context": "Rounds was arguing that the US should keep trading with China while protecting its AI and chip technology, so that China ends up using American technology and standards.",
+   "source_label": "Fox News",
+   "url": "https://www.foxnews.com/politics/us-cant-cut-china-off-completely-must-defend-ai-american-innovation-from-nonstop-theft-sen-rounds",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "This is about competition with China and influencing technical standards for AI; it names no catastrophic risk from AI itself."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "no",
+   "note": "On 2 October 2026 he said that if the US slowed its AI research and development, China would not stop and would take the lead. This is a statement against slowing, made in an interview, not a vote.",
+   "sources": [
+    [
+     "Dakota News Now / KOTA, 3 October 2026",
+     "https://www.dakotanewsnow.com/2026/10/03/sen-rounds-anthropic-leaders-talk-ais-future-south-dakota-mines/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement on a pause of frontier AI found since 1 January 2025. (In 2023, outside the search window, he was reported as rejecting the six-month pause letter; his 2026 remark is about slowing research and is recorded under slowdown.)",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter urging AI talks with China. A search for his name with an AI agreement or treaty with China found no statement for or against an agreement with China on the pace of AI. In a Fox News interview published 1 June 2025 he said the US should try to influence China and the rest of the world on standards for AI, and wanted an enforceable agreement with China on protecting intellectual property before admitting students with Communist Party ties; neither is about coordinating the pace of AI development. At the Ripon Society on 29 October 2025 he called China an adversary and stressed working with allies.",
+   "sources": [
+    [
+     "The Ripon Society, 30 October 2025",
+     "https://riponsociety.org/2025/10/rounds-details-urgent-ai-competition-with-china/"
+    ],
+    [
+     "Fox News, 1 June 2025",
+     "https://www.foxnews.com/politics/us-cant-cut-china-off-completely-must-defend-ai-american-innovation-from-nonstop-theft-sen-rounds"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "Nothing found on a ban on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sent a letter with Sen. Cantwell urging the Director of National Intelligence (chair of the White House Task Force for Super Intelligence) and the White House science office to build federal AI safety standards, independent testing of advanced AI models, auditing and defensive AI.",
+   "Senate Commerce Committee (minority) press release, 13 October 2026",
+   "https://www.commerce.senate.gov/press/dem/release/cantwell-rounds-urge-white-house-to-build-strong-coordinated-approach-to-ai-safety-cyber-defense/"
+  ],
+  [
+   "Reported to be drafting a bill to write into law a June 2026 executive order under which federal agencies work with AI companies to voluntarily test their most advanced models for cyber vulnerabilities.",
+   "Bloomberg Government, 15 July 2026 (page is partly behind a login)",
+   "https://news.bgov.com/bloomberg-government-news/gop-senator-plans-bill-to-codify-trump-ai-cybersecurity-order"
+  ],
+  [
+   "His press release on the final Fiscal Year 2026 defense bill lists a provision creating an Artificial General Intelligence steering committee in the Defense Department to analyze AI trajectories.",
+   "Rounds Senate press release, 17 December 2025",
+   "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-south-dakota-wins-in-final-ndaa"
+  ],
+  [
+   "His press release on the committee version of the Fiscal Year 2027 defense bill lists AI governance rules requiring human judgment over autonomous weapon systems where appropriate (military use, outside this project's scope).",
+   "Rounds Senate press release, 16 June 2026",
+   "https://www.rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-victories-in-senate-armed-services-committees-fiscal-year-2027-ndaa"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen Senate press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "The only statement since 2025 that acknowledges serious risk from advanced AI is the 13 October 2026 letter with Sen. Cantwell, which calls for testing advanced models for national-security risks including biological and chemical threats. His own spoken remarks in the period are about competing with China and oppose slowing AI research.",
+ "notes": "Searches: 8 ran across two runs. In the first run 6 ran and the China agreement search was refused; in the second run (11 November 2026) that search was re-run successfully, plus one follow-up on his reaction to the September 2026 Trump-Xi AI talks. All required searches have now run. The China searches found no statement by Rounds for or against an AI agreement or talks with China on the pace of AI, and no reaction from him to the September 2026 US-China AI talks. They added one level D statement (Fox News, published 1 June 2025; the interview date of 30 May 2025 is inferred from the article saying it took place 'on Friday'). A Fox News opinion piece of 18 September 2026 calling for verifiable limits on dangerous AI development in a deal with China appeared in results under a headline mentioning the Senate AI Caucus co-chair, but the page shows the author as former Rep. Chris Stewart, not Rounds, so it is left out. The same Fox News interview reports, in the reporter's paraphrase, that he wanted a pause on admitting Chinese nationals with Communist Party ties to US universities; this is not about AI development and is not recorded as a position. Pages were read by downloading them directly; quotes were checked by exact string match against the downloaded page text. Could not open (HTTP 403): Axios 11 March 2025 SXSW event write-up (https://www.axios.com/2025/03/11/axios-house-sxsw-event-ai) and Puck October 2025 interview 'We're three years behind' (https://puck.news/mike-rounds-on-ai-regulation-were-three-years-behind/); both may contain relevant remarks and should be checked by a person. A search summary attributed the line 'AGI - and after it, superintelligence - is not a tool. It is a competitor' to the Axios event, but I could not confirm the wording or that Rounds (rather than another speaker) said it, so it is left out. Left out because before 2025: a July 2024 Dakota News Now interview in which he said bad actors could use AI to create new pandemics (this would be level B if in window), and 2023 reports that he rejected the six-month pause letter. Ban Artificial Superintelligence Act: no source found showing Rounds as a co-sponsor; coverage names Sanders and Casar as sponsors, and Congress.gov was not checked. The second and third statements are level D, included because they are his most substantial spoken remarks in the window and the second supports the slowdown position. The letter quote is from the full letter text reproduced on the press release page; the linked PDF was not opened. The C level is a boundary call: a reviewer could argue for B because biological and chemical threats are named. Event date for the KOTA interview (2 October 2026) is inferred from the article saying 'Friday', published Saturday 3 October 2026."
+}

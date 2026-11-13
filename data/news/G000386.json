@@ -1,0 +1,67 @@
+{
+  "bioguide": "G000386",
+  "member": "Chuck Grassley",
+  "searches": [
+    "Grassley artificial intelligence (restricted to grassley.senate.gov)",
+    "Chuck Grassley superintelligence AI",
+    "Grassley AI \"extinction\" OR \"existential risk\" OR \"catastrophic\" senator statement",
+    "Grassley AI pause OR slowdown OR moratorium artificial intelligence development",
+    "Grassley China AI agreement OR treaty OR talks artificial intelligence",
+    "\"Grassley\" \"AI safety\" whistleblower protection act",
+    "\"Ban Artificial Superintelligence Act\" cosponsors September 2026",
+    "Grassley floor remarks AI Whistleblower Protection Act unanimous consent 2026"
+  ],
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "venue": "Press release introducing the AI Whistleblower Protection Act",
+      "quote": "Whistleblowers are one of the best ways to ensure Congress keeps pace as the AI industry rapidly develops.",
+      "context": "Grassley was introducing his bill to protect employees of AI companies who report security vulnerabilities or legal violations.",
+      "source_label": "Grassley Senate press release",
+      "url": "https://www.grassley.senate.gov/news/news-releases/grassley-introduces-ai-whistleblower-protection-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "He argues for accountability and transparency in the AI industry but does not name any catastrophic or serious risk from AI itself."
+    },
+    {
+      "date": "2025-06-04",
+      "venue": "Interview on \"A Starting Point\", quoted in his press release",
+      "quote": "That's why we need laws that would protect whistleblowers within the AI community,",
+      "context": "Grassley was explaining that AI company employees have come to him with concerns and that nondisclosure agreements discourage them from reporting wrongdoing.",
+      "source_label": "Grassley Senate press release",
+      "url": "https://www.grassley.senate.gov/news/news-releases/icymi-grassley-discusses-ai-whistleblower-protection-act-during-a-starting-point-interview",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action", "unsure"],
+      "reason": "The remarks are about protecting people who report wrongdoing at AI companies, with no catastrophic risk from AI named."
+    },
+    {
+      "date": "2026-05-01",
+      "venue": "Letters to nine AI companies, sent with Sen. Jim Banks",
+      "quote": "Protecting AI technology from PRC espionage is of paramount importance,",
+      "context": "Grassley and Banks asked OpenAI, Anthropic, Google, xAI, Meta, Microsoft, Amazon, Safe Superintelligence and Thinking Machines Lab how they guard against Chinese espionage and insider threats.",
+      "source_label": "Senate Judiciary Committee press release",
+      "url": "https://www.judiciary.senate.gov/press/rep/releases/grassley-banks-press-american-ai-companies-on-chinese-espionage-safeguards",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action", "cosigned_letter"],
+      "reason": "This is about competition with China and theft of technology, which the rubric places at D (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement or talks with China about the pace of AI; he did not sign the 23 September 2026 letter. His China-related AI activity is about espionage.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Lead sponsor of the AI Whistleblower Protection Act (S.1792), introduced 15 May 2025, protecting AI company employees who report security vulnerabilities or violations.", "Grassley Senate press release, 2025-05-15", "https://www.grassley.senate.gov/news/news-releases/grassley-introduces-ai-whistleblower-protection-act"],
+    ["Reported in September 2026 to be pushing for quick Senate passage of the AI Whistleblower Protection Act, possibly by unanimous consent; outcome not confirmed.", "Deseret News, 2026-09-25", "https://www.deseret.com/politics/2026/09/25/john-curtis-back-bill-protecting-ai-whistleblower/"],
+    ["With Sen. Jim Banks, wrote to nine AI companies asking how they protect their technology against Chinese espionage.", "Senate Judiciary Committee press release, 2026-05-01", "https://www.judiciary.senate.gov/press/rep/releases/grassley-banks-press-american-ai-companies-on-chinese-espionage-safeguards"],
+    ["Pressed federal judges and the judiciary to adopt formal rules after court staff used generative AI to draft error-ridden orders.", "Grassley Senate remarks (date not confirmed)", "https://www.grassley.senate.gov/news/remarks/grassley-calls-on-the-federal-judiciary-to-formally-regulate-ai-use"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Grassley is active on AI (whistleblower protections, Chinese espionage, AI use by judges) but no statement was found in which he himself acknowledges catastrophic or serious risk from advanced AI.",
+  "notes": "Eight web searches ran, none refused. Pages were read through a fetch tool that summarises with a small model, so the three quotes are as that tool returned them; a reviewer should confirm them character for character on the linked pages (in particular the 'A Starting Point' quote, flagged unsure, where the tool returned only short segments, including the fragments \"It seems as time goes on, AI is growing.\" and \"before it's too late.\" whose surrounding context I could not see). The Judiciary Committee release is dated 1 May 2026; Axios reported the letters on 29 April 2026, so the letter date may be a few days earlier, and the quote comes from the letter as excerpted in the release. Not on the verified list of signers of the 23 September 2026 China letter. No source found showing he co-sponsored the Ban Artificial Superintelligence Act (Sanders/Casar); the search results gave conflicting co-sponsor lists, none naming him, and I did not check congress.gov. In the whistleblower bill releases, wording about 'significant dangers' and 'genuine dangers' belongs to other people (Schatz, outside groups), not Grassley, so it was left out. The Deseret News article paraphrases his push for passage without quoting him. The date of his remarks on AI use by judges was not confirmed. An August 2024 letter to OpenAI's Sam Altman is outside the date range."
+}

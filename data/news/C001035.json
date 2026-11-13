@@ -1,0 +1,41 @@
+{
+  "bioguide": "C001035",
+  "member": "Susan Collins",
+  "searches": [
+    "Susan Collins artificial intelligence statement site:collins.senate.gov",
+    "Senator Susan Collins superintelligence",
+    "Susan Collins AI moratorium OR pause OR slowdown artificial intelligence 2025 2026",
+    "\"Ban Artificial Superintelligence Act\" cosponsors",
+    "Susan Collins AI \"extinction\" OR \"existential risk\" senator",
+    "17 senators letter AI talks with China September 23 2026 signers",
+    "\"Susan Collins\" \"AI safety\"",
+    "Susan Collins AI China agreement OR treaty artificial intelligence"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Written statement to the Bangor Daily News",
+      "quote": "The best path forward will balance a recognition of AI’s promise — including breakthroughs in medical advances and accessibility — with its risks",
+      "context": "Collins was responding to an article on how Maine politicians were reacting to warnings from AI researchers, including a departing Anthropic researcher who said the technology could kill everyone.",
+      "source_label": "Bangor Daily News",
+      "url": "https://www.bangordailynews.com/2026/09/16/politics/elections/maine-politicians-responding-to-ai-warnings-joam40zk0w/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary", "unsure"],
+      "reason": "She mentions AI's \"risks\" only generically and the remedies she names are consumer protections and critical infrastructure, so catastrophic risk is not acknowledged, although the remark was made in reply to extinction warnings."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement for or against slowing frontier AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement for or against a pause on frontier AI development was found. Her 2025 vote was against a moratorium on state AI regulation, which is a different thing.", "sources": []},
+    "intl": {"value": "none", "note": "No statement on coordinating with China on the pace of AI was found, and she did not sign the 23 September 2026 letter urging such talks; the Bangor Daily News says she backs keeping the US ahead of China on AI, which does not count.", "sources": [["Bangor Daily News, 16 September 2026", "https://www.bangordailynews.com/2026/09/16/politics/elections/maine-politicians-responding-to-ai-warnings-joam40zk0w/"], ["Letter from 17 senators to President Trump, 23 September 2026", "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]},
+    "rsi": {"value": "none", "note": "No statement on a ban on self-improving AI was found.", "sources": []}
+  },
+  "record": [
+    ["Voted in 2025 with nearly the whole Senate to remove a proposed 10-year moratorium on state AI regulation from the budget bill.", "Bangor Daily News, 16 September 2026", "https://www.bangordailynews.com/2026/09/16/politics/elections/maine-politicians-responding-to-ai-warnings-joam40zk0w/"],
+    ["Did not sign the 23 September 2026 letter from 17 senators urging President Trump to pursue an AI agreement with China; her name is not among the 17 signatures.", "Letter text (Senate Commerce Committee copy), 23 September 2026", "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only statement found since January 2025 calls for consumer protections and protection of critical infrastructure and refers to AI's risks only in general terms. Nothing found acknowledges catastrophic risk, and nothing dismisses it.",
+  "notes": "All eight searches listed ran successfully (four in a first pass, four in a second pass after a search outage); the second pass found no new statements by Collins. | 23 September 2026 China letter: I read the letter itself (PDF, 4 pages). The 17 signers are Van Hollen, Kaine, Cortez Masto, Smith, Blumenthal, Merkley, Welch, Hirono, Padilla, Warnock, Luján, Murray, Rosen, Alsobrooks, Warren, Duckworth and Cantwell. Collins is not among them. | Ban Artificial Superintelligence Act: none of the sources seen name Collins as a co-sponsor (they name Sanders and Casar as sponsors, with conflicting reports of House co-sponsors); the Congress.gov co-sponsor page for S. 5493 returned an access error, so this is not confirmed from the official list. | Quote verification: the Bangor Daily News page was read through a page-fetching tool that summarises; it confirmed the quoted sentence word for word (with a curly apostrophe and spaced long dashes), but I did not see the raw page text myself, so the reviewer should check the characters. The exact date of the statement is not given; the article (published 16 September 2026, updated 22 September) says she made the call \"this week\", so the article date is used. | Left out: a second quote in the same article, reported by the tool in two pieces as \"Congress should work to protect our critical infrastructure and establish consumer protections\" followed by \"while also maintaining America’s leadership in AI innovation.\" I could not confirm it is one unbroken passage, so it is not in `statements`; it would also be level D. | Paraphrase left out: the reporter writes that Collins says the government must play a stronger role in protecting Americans from AI risks, and calls this a quiet departure from President Trump. | Fox News (15 September 2026, read at source) reports a conservative group, Alliance for a Better Future, running ads praising Collins for supporting AI safeguards and innovation; it contains no words from Collins and says her office did not respond: https://foxnews.com/politics/seven-figure-blitz-gop-embraces-push-compete-china-booming-new-tech-space . | A Semafor article on bipartisan Senate AI safety talks (16 September 2026, read at source) does not mention Collins. | Not opened at source: a Privacy Daily search summary (1 July 2025) says Collins joined Sen. Blackburn in sponsoring the amendment that struck the state AI law moratorium; https://privacy-daily.com/news/2025/07/01/State-Lawmakers-Renew-Bipartisan-AI-Effort-After-Moratorium-Fails-in-Senate-2507010071 . | Her official site's AI press releases found (robocalls, election AI bills) date from 2023-2024, before the period covered; the site's newsroom search did not filter by keyword through the fetch tool, so 2025-2026 releases on AI may have been missed."
+}

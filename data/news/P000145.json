@@ -1,0 +1,133 @@
+{
+ "bioguide": "P000145",
+ "member": "Alex Padilla",
+ "searches": [
+  "Padilla artificial intelligence (restricted to padilla.senate.gov)",
+  "Senator Alex Padilla superintelligence",
+  "Senator Alex Padilla AI \"extinction\" OR \"existential risk\"",
+  "Senator Alex Padilla AI pause OR slowdown OR moratorium",
+  "Senator Alex Padilla AI China agreement OR treaty OR talks",
+  "\"Alex Padilla\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "Letter from 17 Senate Democrats urging President Trump to negotiate an AI agreement with China's President Xi at their planned summit.",
+   "source_label": "Sen. Van Hollen press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter he signed says frontier AI could enable dangerous activities that threaten humanity as a whole, which the rubric's first ruling treats as level A."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "Letter from 17 Senate Democrats urging President Trump to negotiate an AI agreement with China's President Xi at their planned summit. This passage compares AI talks to Cold War nuclear arms control.",
+   "source_label": "Sen. Van Hollen press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter calls advanced AI a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "Letter from 17 Senate Democrats urging President Trump to negotiate an AI agreement with China's President Xi at their planned summit. This is the letter's closing sentence shown in the release.",
+   "source_label": "Sen. Van Hollen press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter says the stakes of AI safety talks are existential."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "Senate Judiciary Committee hearing, questioning FBI Director Patel",
+   "quote": "What safeguards have you put into place to monitor, prevent, or respond to AI agents going rogue within the FBI systems?",
+   "context": "Padilla asked the FBI Director about autonomous AI agents reported to have hacked the company Hugging Face and about the FBI's own use of AI.",
+   "source_label": "Sen. Padilla press release",
+   "url": "https://www.padilla.senate.gov/newsroom/press-releases/watch-padilla-presses-patel-on-election-interference-secures-commitment-fbi-will-not-seize-ballots-or-voting-machines-ahead-of-midterms/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "He raises AI agents acting on their own, but the only harm named is hacking and cybercrime, which the rubric's fourth ruling grades as D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "He signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development; this is a co-signed letter, not a statement in his own words.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter he signed asks for an agreement that would 'potentially enact a mutual pause' with China, so the pause is tentative and conditional on China joining; no statement of his own on a pause was found.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "He signed the 23 September 2026 letter urging direct talks with President Xi and a formal agreement with China to slow, and potentially mutually pause, frontier AI development.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement, bill or letter on banning self-improving AI was found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Senate Democrats urging President Trump to negotiate an agreement with China to slow, and potentially mutually pause, frontier AI development.",
+   "Sen. Van Hollen press release, 23 Sep 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Questioned FBI Director Patel at a Judiciary Committee hearing about cyberattacks by autonomous AI agents and safeguards against AI agents going rogue inside FBI systems.",
+   "Sen. Padilla press release, 15 Sep 2026",
+   "https://www.padilla.senate.gov/newsroom/press-releases/watch-padilla-presses-patel-on-election-interference-secures-commitment-fbi-will-not-seize-ballots-or-voting-machines-ahead-of-midterms/"
+  ],
+  [
+   "Issued a statement opposing President Trump's executive order seeking to block state regulation of AI.",
+   "Sen. Padilla press release, 11 Dec 2025",
+   "https://www.padilla.senate.gov/newsroom/press-releases/padilla-statement-on-trumps-executive-order-undermining-californias-ai-leadership"
+  ],
+  [
+   "With Sen. Schiff, urged the Federal Trade Commission to address risks of AI chatbots to children and teens (outside this project's scope; date not checked).",
+   "Sen. Padilla press release",
+   "https://www.padilla.senate.gov/newsroom/press-releases/padilla-schiff-urge-federal-trade-commission-to-address-ai-chatbots-risks-to-children-and-teens/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only evidence above D is the 23 September 2026 letter he co-signed, which says frontier AI could threaten humanity and calls it an existential threat. No statement in his own words about catastrophic AI risk was found; his own remarks concern AI-agent cyberattacks, children and chatbots, elections and state regulation.",
+ "notes": "Six web searches ran, all successfully; none refused. The A grade rests entirely on a co-signed letter, so a reviewer may want to weigh it accordingly. The letter wording was copied from the Van Hollen press release page (opened and read; the three quotes were extracted programmatically from the page text). The release shows excerpts of the letter, not necessarily the full text; a PDF of the letter appears to be at https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf but was not opened. I did not find a release about the letter on Padilla's own site. One search summary claimed Padilla was a 'lead sponsor' of the letter alongside Van Hollen; the Van Hollen release says Van Hollen led it, so I did not rely on that claim. Ban Artificial Superintelligence Act: no source found showing Padilla co-sponsored it. An Al Jazeera report of 23 Sep 2026 on the Sanders-Casar bill does not mention him; I did not check the official co-sponsor list on congress.gov, so this is 'not shown', not 'confirmed absent'. The date 2026-09-15 for the Patel hearing is the press release date; I did not separately confirm the hearing was held the same day. Left out: (1) a keynote of 10 April 2025 at an AI and biotechnology summit (https://www.padilla.senate.gov/newsroom/press-releases/padilla-delivers-keynote-address-at-ai-biotechnology-summit) in which he said future warfare will be fought with AI, drones and bioweapons; this is about biotechnology and competition with China, not risk from AI itself, and I saw it only through a page-summarising tool. (2) A search summary reported him saying of the proposed 10-year federal ban on state AI regulation that he 'can't think of a more irresponsible or stupid thing to do'; the source article (apparently Axios, June 2025) was not opened and the topic is state regulation, so it is not included as a statement. (3) The 11 Dec 2025 executive order statement is about state regulation and innovation (level D) and adds nothing on catastrophic risk. Many search results concern California state Senator Steve Padilla (chatbot and AI toy bills), a different person; none of that is used here."
+}

@@ -1,0 +1,65 @@
+{
+  "bioguide": "S001217",
+  "member": "Rick Scott",
+  "searches": [
+    "Sen. Rick Scott artificial intelligence statement (restricted to rickscott.senate.gov)",
+    "\"Rick Scott\" senator Florida superintelligence",
+    "\"Rick Scott\" senator AI \"extinction\" OR \"existential risk\"",
+    "\"Rick Scott\" senator AI pause OR slowdown OR moratorium",
+    "\"Rick Scott\" senator AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Rick Scott\" \"AI safety\" senator Florida"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "venue": "Hallway remarks to Raw Story at the Capitol",
+      "quote": "If you have a family, you shouldn't be building something that's going to kill your family.",
+      "context": "Raw Story asked Republican senators about apocalyptic warnings from AI companies; Scott spoke on an elevator ride to the Senate floor, and the article does not give the exact question he was asked.",
+      "source_label": "Raw Story",
+      "url": "https://www.rawstory.com/ai-trump-warning/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary", "unsure"],
+      "reason": "He puts a duty on AI builders not to build something deadly but does not say in his own words that AI poses a catastrophic risk, and he does not dismiss the risk either; it could be read as C."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Hallway remarks to Raw Story at the Capitol",
+      "quote": "People came to me when I was governor all the time, 'Oh, you need to regulate us' — that means I don't want any competition",
+      "context": "Same Raw Story exchange, in an article about Republicans shrugging off AI companies' apocalyptic warnings as self-interested.",
+      "source_label": "Raw Story",
+      "url": "https://www.rawstory.com/ai-trump-warning/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "He is sceptical of companies asking to be regulated, which is opposition to regulation rather than a dismissal of catastrophic risk itself (ruling 6)."
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "Remarks to the Daily Caller News Foundation",
+      "quote": "My expectation is that the builders of the AI have a responsibility to protect our kids and protect our families",
+      "context": "He was asked about a Democratic bill to ban AI that surpasses humans (the Ban Artificial Superintelligence Act, as far as the search result shows).",
+      "source_label": "BizPac Review (reprint of Daily Caller News Foundation)",
+      "url": "https://bizpacreview.com/2026/09/18/senators-not-keen-on-banning-ai-from-surpassing-humans-despite-alarm-bells-1659574",
+      "read_at_source": false,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "He speaks of protecting children and families without naming a catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons.", "sources": []},
+    "pause": {"value": "none", "note": "A Daily Caller News Foundation report (seen only in a search result) paraphrases him as saying a ban on superintelligent AI could never pass because the Senate cannot get anything done; that is a prediction, not a stated position against the policy, so it is recorded as none. A reviewer who can open the article should check whether he also opposed the ban on its merits.", "sources": [["BizPac Review (reprint of Daily Caller News Foundation), 18 September 2026", "https://bizpacreview.com/2026/09/18/senators-not-keen-on-banning-ai-from-surpassing-humans-despite-alarm-bells-1659574"]]},
+    "intl": {"value": "none", "note": "He did not sign the 23 September 2026 letter urging AI talks with China, and no statement for or against such an agreement was found.", "sources": [["Van Hollen press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the Generative AI Terrorism Risk Assessment Act, directing the Department of Homeland Security to assess each year how designated terrorist organizations use AI (original cosponsor Sen. Lummis).", "Senate press release, 15 June 2026", "https://www.rickscott.senate.gov/2026/6/sen-rick-scott-introduces-legislation-to-track-terrorist-organizations-who-use-artificial-intelligence"],
+    ["Led the No Adversarial AI Act with Sen. Peters, barring federal agencies from using AI controlled by foreign adversaries such as China.", "Senate press release, 25 June 2025", "https://www.rickscott.senate.gov/2025/6/sen-rick-scott-leads-legislation-to-stop-u-s-government-agencies-from-using-adversarial-ai-technology"],
+    ["Introduced the Safeguard Kids Act (July 2026) to let schools use existing federal grants for AI literacy and counselling, and wrote an op-ed about it citing cases of AI-linked psychosis, suicide and murder.", "Senate website op-ed (Naples Daily News), 28 August 2026", "https://www.rickscott.senate.gov/2026/8/ai-is-here-we-need-to-protect-and-prepare-america-s-kids"],
+    ["Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).", "Van Hollen press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His AI remarks and bills since 2025 concern children, scams, terrorist misuse and adversary-controlled AI; none acknowledges catastrophic risk from AI in his own words. His one remark touching deadly AI (\"something that's going to kill your family\") is ambiguous and sits between C and D.",
+  "notes": "Six web searches ran (the required six, no more); none was refused. Pages opened: Raw Story article, the August 2026 op-ed and the June 2026 terrorism bill release on rickscott.senate.gov. Pages were read through a fetch tool that summarises and limits quote length; the two Raw Story quotes came back identically on two separate reads, but a reviewer should confirm the wording on the page. The BizPac Review page returned an error (403) and the original Daily Caller page could not be located, so that quote comes from a search result only (read_at_source false) and its date is taken from the article URL. Dates for the Raw Story and Daily Caller remarks are the article dates; the exact day he spoke is not given. The Raw Story article's headline frames Republicans as scoffing at apocalyptic warnings, but the article does not state the question Scott was asked or say that he dismissed the warnings, so no F was given. Paraphrase left out of statements: the Daily Caller report that he said a superintelligence ban could never pass because the chamber cannot get anything done. No source found showing he co-sponsored the Ban Artificial Superintelligence Act. The June 2026 terrorism bill release, as read, does not mention bioweapons or mass casualties; his full quote there could not be reproduced by the fetch tool and was left out (it began \"AI is opening up our economy and our daily lives to new worlds of possibility.\"). Op-ed passages about AI-linked suicides and a shooting concern harm to individuals and were treated as D and not quoted because the fetch tool returned them in fragments. Results for the ASK Act are from 2023 and out of the date range."
+}

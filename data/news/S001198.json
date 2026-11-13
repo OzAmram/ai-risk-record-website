@@ -1,0 +1,69 @@
+{
+  "bioguide": "S001198",
+  "member": "Dan Sullivan",
+  "searches": [
+    "Senator Dan Sullivan Alaska artificial intelligence statement (failed: search rate limit, no results)",
+    "Dan Sullivan artificial intelligence (restricted to sullivan.senate.gov)",
+    "\"Sullivan\" senator Alaska superintelligence (failed: search rate limit, no results)",
+    "\"Dan Sullivan\" AI extinction OR \"existential risk\" senator",
+    "\"Dan Sullivan\" AI moratorium OR pause OR slowdown senator Alaska",
+    "\"Sullivan\" senators letter AI talks China September 2026 17 senators",
+    "\"Dan Sullivan\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors",
+    "Senator Dan Sullivan Alaska superintelligence OR AGI statement",
+    "Sen. Dan Sullivan artificial intelligence 2026 Alaska data centers AI risk hearing remarks",
+    "\"Sullivan\" Alaska senator AI China \"win the AI race\" OR treaty OR agreement 2026",
+    "Sullivan \"National Policy Framework\" artificial intelligence statement March 2026 (restricted to sullivan.senate.gov)",
+    "Van Hollen letter Trump Xi AI September 23 2026 signers list senators (not run: session search budget exhausted)"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Written statement to Alaska's News Source",
+      "quote": "clear safeguards around the highest-risk AI technologies",
+      "context": "The station asked Alaska's congressional delegation whether they support guardrails on AI, after a campaign in Washington warning that AI could end human life; the article says Sullivan said these safeguards \"are needed\".",
+      "source_label": "Alaska's News Source (KTUU)",
+      "url": "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["boundary", "unsure"],
+      "reason": "He says the highest-risk AI technologies need clear safeguards, which acknowledges serious risk in general terms, but he names no harm, so this sits between C and D."
+    },
+    {
+      "date": "2026-09-16",
+      "venue": "Written statement to Alaska's News Source",
+      "quote": "Moving forward with such guardrails, we also need to continue to ensure American competitiveness and that Communist China does not win the AI race,",
+      "context": "The same statement on AI guardrails, continuing directly after the call for safeguards.",
+      "source_label": "Alaska's News Source (KTUU)",
+      "url": "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "This is about competition with China, which the rubric places at D."
+    },
+    {
+      "date": "2026-03-12",
+      "venue": "Senate floor speech",
+      "quote": "these technologies, in which we are in a race with China in terms of their development, might determine who controls the entire 21st century between the United States and China.",
+      "context": "A floor speech on the Chinese Communist Party in which he named digital currency, artificial intelligence and biotechnology as the three emerging technologies that matter most.",
+      "source_label": "Congressional Record, page S1037",
+      "url": "https://www.govinfo.gov/link/crec/172/s/1036",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He treats AI as a race with China and names no risk from AI itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development; his September 2026 statement pairs safeguards with keeping the United States competitive, which is not a statement against a slowdown.", "sources": [["Alaska's News Source, 16 Sep 2026", "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/"]]},
+    "pause": {"value": "none", "note": "No statement found for or against a pause.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement or talks with China on the pace of AI; no source shows him signing the 23 September 2026 letter, which coverage describes as a Democratic letter.", "sources": [["Senate Commerce Committee Democrats press release", "https://commerce.senate.gov/press/dem/release/cantwell-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi-jinping"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Co-led with Sen. Cornyn the FIGHT China Act, which restricts US investment in certain Chinese technologies including AI; his office says it was incorporated in the final fiscal year 2026 defense bill. This is about competition with China, not AI safety.", "Sullivan Senate press releases (seen in search results only; dates not checked)", "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-cornyn-and-colleagues-introduce-outbound-investment-legislation-to-counter-china"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His only remark found that touches risk from AI itself is a written statement that clear safeguards around the highest-risk AI technologies are needed. It names no harm, so C is a borderline call and a reviewer could reasonably choose D.",
+  "notes": "The C quote is a fragment: the article quotes only those seven words and supplies \"are needed\" in its own voice, so the full sentence he wrote is not available. The statement date is the article's publication date (16 September 2026 Alaska time; the link shows 17 September); the statement itself may be a day or so earlier. The Congressional Record quote was read from the PDF, with line-break hyphens removed (\"tech-nologies\", \"develop-ment\"); his China and AI remarks begin on page S1037, and the link opens the PDF starting at S1036. Paraphrases left out: the article says he commended the Trump administration's 20 March 2026 National Policy Framework for AI (I could not find his own statement on his Senate site); a lobbying firm's summary says he raised concerns at a 2025 Senate Commerce hearing about US investment in Chinese AI (not opened). 23 September 2026 China letter: the two pages I opened (Commerce Committee Democrats release, WJLA report) do not list the 17 signers and do not mention Sullivan; coverage calls it a Democratic letter, so nothing shows he signed. Ban Artificial Superintelligence Act: sources name Sanders and Casar as sponsors and some House cosponsors; nothing shows Sullivan co-sponsoring, and I did not check congress.gov. Two of the required searches (general AI statement, superintelligence) failed on a rate limit and the superintelligence one was rerun successfully with different wording; the session's search budget then ran out, so coverage is thinner than intended, in particular no dedicated search of hearing transcripts or of his campaign site. Fragments of his statement match the article text exactly, including curly quotation marks in the original, which are not reproduced inside the quotes here."
+}

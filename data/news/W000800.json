@@ -1,0 +1,132 @@
+{
+  "bioguide": "W000800",
+  "member": "Sen. Peter Welch (D-VT)",
+  "searches": [
+    "Peter Welch artificial intelligence (restricted to welch.senate.gov)",
+    "Senator Peter Welch superintelligence \"Ban Artificial Superintelligence Act\"",
+    "Senator Peter Welch AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+    "Senator Peter Welch AI pause OR slowdown OR moratorium",
+    "Senator Peter Welch AI China agreement OR treaty OR talks Xi guardrails",
+    "\"Peter Welch\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "venue": "Letter from 17 senators to President Trump",
+      "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+      "context": "The letter urges President Trump to negotiate an AI agreement with China's President Xi at their planned summit.",
+      "source_label": "Sen. Van Hollen press release (full letter text)",
+      "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action"
+      ],
+      "reason": "The letter says frontier AI development could enable activities that threaten humanity as a whole, which the rubric treats as level A."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Letter from 17 senators to President Trump",
+      "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+      "context": "The letter compares AI talks with China to Cold War nuclear arms control between the US and the Soviet Union.",
+      "source_label": "Sen. Van Hollen press release (full letter text)",
+      "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action"
+      ],
+      "reason": "The letter calls the stakes of advanced AI existential, in a passage that also calls AI a technology that poses an existential threat."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Letter from 17 senators to President Trump",
+      "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+      "context": "The letter relays warnings from AI company employees and, two sentences later, says these warnings should be taken seriously.",
+      "source_label": "Sen. Van Hollen press release (full letter text)",
+      "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+      "read_at_source": true,
+      "level": "B",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action",
+        "relayed_warning"
+      ],
+      "reason": "The letter relays and endorses a warning about losing the ability to control AI, without extinction wording in this passage."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Press release announcing the AI Regulator Act proposal with Sen. Bennet",
+      "quote": "Americans in Vermont and across the country are freaked out by the warnings of AI researchers, and I’m right there with them.",
+      "context": "Welch was announcing a proposal for a new federal agency that could delay the release of AI models posing catastrophic risks.",
+      "source_label": "Sen. Welch press release",
+      "url": "https://www.welch.senate.gov/welch-bennet-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "relayed_warning",
+        "bill_or_action",
+        "boundary"
+      ],
+      "reason": "Welch says in his own words that he shares the alarm over AI researchers' warnings but does not name a catastrophic harm himself; the words 'catastrophic risk' appear only in the release's narration."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Signed the 23 September 2026 letter asking for a formal agreement with China 'that would slow down, and potentially enact a mutual pause in, frontier AI development'. This is a co-signed letter, not a statement in his own words.",
+      "sources": [
+        [
+          "Sen. Van Hollen press release, 2026-09-23",
+          "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "The co-signed letter asks for an agreement with China that would 'potentially' enact a mutual pause in frontier AI development, so the pause is conditional on China joining. Separately, his AI Regulator Act proposal with Sen. Bennet would let a regulator pause the public release of a risky model for up to six months, which is a pause on release rather than on development.",
+      "sources": [
+        [
+          "Sen. Van Hollen press release, 2026-09-23",
+          "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+        ],
+        [
+          "Sen. Welch press release, 2026-09-23",
+          "https://www.welch.senate.gov/welch-bennet-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "yes",
+      "note": "Signed the 23 September 2026 letter urging President Trump to negotiate a formal agreement with China to slow down, and potentially mutually pause, frontier AI development.",
+      "sources": [
+        [
+          "Sen. Van Hollen press release, 2026-09-23",
+          "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI. The co-signed letter mentions that 'increased automation of AI research may lead to even faster advancement' as a concern raised by AI company employees, but does not call for a ban.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Signed the letter from 17 Democratic senators urging President Trump to negotiate a formal agreement with China on frontier AI guardrails, including slowing down and potentially mutually pausing frontier AI development.",
+      "Sen. Van Hollen press release, 2026-09-23",
+      "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+      "Announced, with Sen. Bennet, the AI Regulator Act proposal: a new federal agency with pre-certification of frontier AI models, power to pause public release of models with potential for catastrophic risk for up to six months, and penalties of up to 15% of a firm's prior-year global revenue.",
+      "Sen. Welch press release, 2026-09-23",
+      "https://www.welch.senate.gov/welch-bennet-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/"
+    ]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "Welch signed the 23 September 2026 letter, which says frontier AI development could enable activities that threaten 'humanity writ large' and that 'the stakes are existential'. The grade rests on that co-signed letter; his strongest statement in his own words (being 'right there with' Americans alarmed by AI researchers' warnings) is level C.",
+  "notes": "Six web searches ran, all successfully; no search was refused. Both statement pages were downloaded and each quote was checked by script to be an exact continuous passage of the page text (the Welch quote contains a curly apostrophe as on the page). All A and B evidence is from one co-signed letter; a reviewer may prefer to weigh his own-words statement (C) more heavily. Ban Artificial Superintelligence Act (Sanders and Casar, September 2026): no source found showing Welch as a co-sponsor; I did not check the congress.gov co-sponsor list directly. Not included as statements, because they are about topics outside the rubric's scope (level D) or predate 2025: joining a bill to block President Trump's executive order on state AI rules (press release 2026-01-07, seen in search results only, not opened), the TRAIN Act and NO FAKES Act on artists and copyright, AI chatbot letters on children's safety (2025-04-03), data center cost bills, the AWARE Act on AI in defense systems (2024), and the Trustworthy by Design AI Act (2024-12-23). A search summary mentioned an April 2025 letter with Sen. Rounds asking AI companies about safety practices; I could not find or open that page, so it is unverified and left out. A Vermont Public interview of 2025-01-06 ('Sen. Peter Welch wants to better regulate generative AI') appeared in results but was not opened. The Welch office tag page for artificial intelligence (pages 1 to 3 opened) showed no other releases on catastrophic risk."
+}

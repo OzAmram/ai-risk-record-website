@@ -1,0 +1,39 @@
+{
+  "bioguide": "M001153",
+  "member": "Sen. Lisa Murkowski (Republican, Alaska)",
+  "searches": [
+    "Murkowski artificial intelligence site:murkowski.senate.gov 2025 OR 2026",
+    "Lisa Murkowski superintelligence",
+    "Lisa Murkowski AI extinction OR \"existential risk\" OR \"existential threat\"",
+    "Lisa Murkowski AI pause OR slowdown OR moratorium",
+    "Murkowski AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Murkowski\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-08-05",
+      "venue": "Press release",
+      "quote": "AI-enabled toys have the potential to significantly impact the physical, mental, and emotional development of our children.",
+      "context": "Murkowski was commenting on committee passage of the Children's Artificial Intelligence Toy Safety Act of 2026, which she introduced with Sen. Duckworth.",
+      "source_label": "Senate press release (Murkowski)",
+      "url": "https://www.murkowski.senate.gov/press/release/murkowski-duckworth-bipartisan-bill-to-protect-children-from-dangers-of-ai-toys-passes-committee",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The remark is about harm to children from AI toys, which is outside the scope of catastrophic risk (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "She did not sign the 23 September 2026 letter urging AI talks with China, and no other statement on coordinating with China was found.", "sources": [["Van Hollen press release (list of signers)", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found for or against a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced, with Sen. Duckworth, the Children's Artificial Intelligence Toy Safety Act of 2026, which directs the Federal Trade Commission and the Consumer Product Safety Commission to give Congress a plan for AI-enabled toys and requires a National Academies study of their risks to children; it passed committee on 5 August 2026.", "Senate press release (Duckworth), 5 August 2026", "https://www.duckworth.senate.gov/news/press-releases/duckworth-murkowski-bipartisan-bill-to-protect-children-from-dangers-of-ai-toys-passes-committee"],
+    ["Not a signer of the 23 September 2026 letter from 17 senators urging AI talks with China.", "Van Hollen press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only remark found in her own words is about AI toys and children, which is outside the scope of catastrophic risk. An unnamed spokesperson spoke of \"inherent dangers\" of unchecked AI, but that is not her own statement and names no catastrophic harm.",
+  "notes": "Six web searches ran, all successful. (1) Left out of statements because it is a spokesperson's wording, not hers: Alaska's News Source, 'Alaska senators open to AI guardrails as Congress winds down for midterms' (https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/; URL dated 17 September 2026, page reported as published the evening of 16 September Alaska time). An unnamed spokesperson said she would \"welcome a serious effort to establish clear guardrails for the industry\" and that she \"recognizes the tremendous potential of AI but also the inherent dangers of leaving this technology\" unchecked. I opened the page but the page-reading tool returned only these fragments, not the complete sentences, so a reviewer should read the full wording; if treated as her statement it would sit between C and D. The article was a response to September 2026 warnings about extinction risk from AI. (2) Ban Artificial Superintelligence Act: the Al Jazeera report of 23 September 2026 that I opened names only Sen. Sanders and Rep. Casar as introducing the bill and does not mention Murkowski; I found no source showing she co-sponsored, and I did not check the congress.gov co-sponsor list. (3) Her Department of Energy AI Act with Sen. Manchin, which includes a program on AI safety and security risks, dates from July 2024 and is outside the date range. (4) I did not verify her vote on the July 2025 removal of the moratorium on state AI laws (reported as 99 to 1). (5) Her press release index has 243 pages; I checked only the first page (August to October 2026) by title, so earlier 2025-2026 releases mentioning AI could have been missed. The Murkowski quote was confirmed identical on both her own and Duckworth's release pages; the tool did not return the remainder of her quote in the release."
+}

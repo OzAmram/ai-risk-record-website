@@ -1,0 +1,118 @@
+{
+ "bioguide": "B001303",
+ "member": "Lisa Blunt Rochester",
+ "searches": [
+  "Lisa Blunt Rochester \"AI safety\"",
+  "Blunt Rochester artificial intelligence (restricted to bluntrochester.senate.gov)",
+  "Blunt Rochester superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+  "Lisa Blunt Rochester AI extinction OR \"existential risk\" OR \"loss of control\"",
+  "Lisa Blunt Rochester AI moratorium OR pause OR slowdown",
+  "17 senators letter September 2026 AI talks with China signers Blunt Rochester",
+  "Blunt Rochester letter OpenAI Anthropic Meta CEOs models unauthorized access internet August 2026",
+  "NOT RUN (session search limit reached): Van Hollen letter Trump Xi AI agreement full list of signers",
+  "NOT RUN (session search limit reached): \"Blunt Rochester\" China AI agreement OR treaty OR talks 2026",
+  "NOT RUN (session search limit reached): \"Blunt Rochester\" superintelligence OR \"artificial general intelligence\" OR AGI"
+ ],
+ "statements": [
+  {
+   "date": "2026-08-06",
+   "venue": "Letter to the chief executive of Anthropic, quoted in her Senate press release",
+   "quote": "This is precisely the kind of emergent, autonomous behavior and offensive cyber capability that Congress, the intelligence community, and experts have repeatedly warned could outpace existing safeguards and could pose a severe threat to the safety and security of all Americans.",
+   "context": "She was writing to Anthropic (and in near-identical words to OpenAI and, on 7 August, Meta) about incidents in which AI models under test reached the public internet and hacked outside organizations on their own.",
+   "source_label": "Senate press release",
+   "url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senator-blunt-rochester-presses-openai-and-anthropic-on-recent-autonomous-hacking-incidents/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Names a serious but general threat from autonomous AI behavior itself (a severe threat to the safety and security of all Americans) without naming mass casualties, loss of control or extinction."
+  },
+  {
+   "date": "2026-08-06",
+   "venue": "Letters to the chief executives of OpenAI and Anthropic, quoted in her Senate press release",
+   "quote": "Left unaddressed, these gaps could allow a future model, potentially one with greater capability or less oversight, to compromise critical infrastructure, financial systems, or sensitive data.",
+   "context": "She was arguing for federal testing standards, containment requirements and disclosure rules for evaluations of frontier AI models after the autonomous hacking incidents.",
+   "source_label": "Senate press release",
+   "url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senator-blunt-rochester-presses-openai-and-anthropic-on-recent-autonomous-hacking-incidents/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "Warns that a more capable future model could compromise critical infrastructure, which is a serious general threat from the AI itself, but the harms named are close to the hacking and financial harms the rubric puts at D."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Joint statement with Sen. John Curtis (Republican, Utah), Senate press release",
+   "quote": "work through solutions that maintain America’s competitive edge in development while ensuring that these technologies serve human interests and remain fully under human control. In the meantime, Congress must ensure necessary safeguards are in place.",
+   "context": "The two senators called for immediate public congressional hearings on regulating AI, following the companies' replies to her letters about the hacking incidents.",
+   "source_label": "Senate press release",
+   "url": "https://www.bluntrochester.senate.gov/news/press-releases/news-blunt-rochester-curtis-call-for-ai-hearings-regulation/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says AI must remain fully under human control, which acknowledges the concern in general terms, but does not say that control could be lost or name any catastrophic outcome."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development; her July 2025 statement said the United States cannot afford to lose the global AI race, which is not a statement on a safety slowdown.",
+   "sources": [
+    [
+     "Senate press release, 23 July 2025",
+     "https://www.bluntrochester.senate.gov/news/press-releases/statement-senator-blunt-rochester-statement-on-trump-administrations-executive-actions-on-artificial-intelligence/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause, and no source found showing she co-sponsored the Ban Artificial Superintelligence Act.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No source found showing she signed the 23 September 2026 letter urging AI talks with China; the news coverage seen names only Sen. Van Hollen, so her status is unconfirmed rather than ruled out.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sent letters to the chief executives of OpenAI and Anthropic (6 August 2026) and Meta (7 August 2026) asking for details of incidents in which their models gained unauthorized internet access and hacked outside organizations, and calling for federal testing standards, containment requirements and disclosure obligations for frontier model evaluations.",
+   "Senate press release, 6 August 2026; Meta letter, 7 August 2026",
+   "https://www.bluntrochester.senate.gov/news/press-releases/news-senator-blunt-rochester-presses-openai-and-anthropic-on-recent-autonomous-hacking-incidents/"
+  ],
+  [
+   "Text of her 7 August 2026 letter to Meta's chief executive.",
+   "Senate letter (PDF), 7 August 2026",
+   "https://www.bluntrochester.senate.gov/wp-content/uploads/2026/08/260807_Letter_Meta-AI-Security-Incidents_Final.pdf"
+  ],
+  [
+   "Fox News report on the OpenAI and Anthropic letters, with links to copies of both letters.",
+   "Fox News, 6 August 2026",
+   "https://www.foxnews.com/politics/dem-senator-presses-openai-anthropic-answers-ai-hacking-probe"
+  ],
+  [
+   "Joint statement with Sen. John Curtis calling for immediate public hearings on AI regulation; the release also publishes the three companies' replies to her letters.",
+   "Senate press release, 16 September 2026",
+   "https://www.bluntrochester.senate.gov/news/press-releases/news-blunt-rochester-curtis-call-for-ai-hearings-regulation/"
+  ],
+  [
+   "Statement on President Trump's AI executive orders, saying the United States must win the AI race and that states and Congress should keep the ability to regulate the industry.",
+   "Senate press release, 23 July 2025",
+   "https://www.bluntrochester.senate.gov/news/press-releases/statement-senator-blunt-rochester-statement-on-trump-administrations-executive-actions-on-artificial-intelligence/"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "Her August 2026 letters to OpenAI, Anthropic and Meta say autonomous AI behavior could pose a severe threat to the safety and security of all Americans, and a September 2026 joint statement says AI must remain fully under human control. Nothing found names mass casualties, loss of control as a possible outcome, or extinction.",
+ "notes": "Three planned searches (China letter signer list, China agreement, superintelligence/AGI) could not be run because the session's web search limit was reached; the required topics were each covered by at least one earlier search. 23 September 2026 China letter: syndicated coverage (e.g. https://cnycentral.com/news/nation-world/democrats-call-on-trump-to-establish-agreement-with-xi-jinping-to-slow-ai-development-maryland-chris-van-hollen) names only Sen. Van Hollen; I did not find the full list of 17 signers, so whether she signed is UNCONFIRMED and a reviewer should check it. Ban Artificial Superintelligence Act: no source found naming her as a co-sponsor; coverage names Sanders and Rep. Casar plus House co-sponsors; not checked on congress.gov. A 3 August 2026 letter from Senate Democrats on access to advanced AI models (Washington Examiner) names Gillibrand, Schiff, Warner, Coons and Kelly, not her. The 16 September statement is a joint statement with Sen. Curtis, so its words are shared; the quote starts mid-sentence because the full sentence exceeds 300 characters (it begins 'That is why we are calling for immediate public hearings to bring lawmakers, model makers, and other stakeholders into the same room and'). The same letter passages appear in all three letters with small wording differences; quotes are copied from the press release page, and I also read the letter texts (Anthropic and OpenAI copies hosted by Fox News, Meta copy on senate.gov). Other AI material found is outside scope (level D): the 23 July 2025 statement on the AI race, AI education bills (with Sens. Husted and Sheehy), the FARM AI Act, and questions to Federal Reserve officials about AI and jobs. Search-result summaries mentioned a Senate Commerce Committee 'AI Safety Principles' document (October 2026); I did not open it and found no link to her."
+}

@@ -1,0 +1,84 @@
+{
+ "bioguide": "O000174",
+ "member": "Jon Ossoff",
+ "searches": [
+  "Ossoff artificial intelligence (restricted to ossoff.senate.gov) - ran (first run)",
+  "Jon Ossoff AI pause OR slowdown OR moratorium artificial intelligence development - ran (first run)",
+  "Jon Ossoff AI China agreement OR treaty OR talks artificial intelligence - ran (first run)",
+  "Jon Ossoff superintelligence \"Ban Artificial Superintelligence Act\" cosponsors - refused in first run (too_many_requests); ran in second run, 11 November 2026",
+  "Jon Ossoff AI \"extinction\" OR \"existential risk\" OR \"existential threat\" artificial intelligence - refused in first run (too_many_requests); ran in second run, 11 November 2026",
+  "\"Ossoff\" \"AI safety\" - refused in first run (too_many_requests); ran in second run, 11 November 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-06-24",
+   "venue": "Letter to the Director of the White House Office of Science and Technology Policy",
+   "quote": "Without adequate safeguards, including both screening and traceability processes, malicious actors could use advances in AI to develop potentially dangerous pathogens and biological weapons.",
+   "context": "Ossoff's own letter asking whether the administration has replaced the rescinded framework for screening orders of synthetic DNA and RNA, given the risk of AI-assisted bioweapons.",
+   "source_label": "Ossoff letter to Michael Kratsios (PDF on ossoff.senate.gov)",
+   "url": "https://www.ossoff.senate.gov/wp-content/uploads/2026/07/26.06.24_OSTP-AI-Letter.pdf",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "He states in his own words that AI advances could let malicious actors develop pathogens and biological weapons, a catastrophic risk, without extinction framing."
+  },
+  {
+   "date": "2026-09-13",
+   "venue": "Reelection campaign rally, Athens, Georgia",
+   "quote": "A capable president would move swiftly to secure and reassure the American people. Rush inspectors into frontier labs, fortify the nation against bioterrorism, demand legislation from Congress and lead the world toward an AI treaty",
+   "context": "At a rally the day after technology leaders called for AI oversight, Ossoff said what a president should do about AI and criticised President Trump for not doing it.",
+   "source_label": "Atlanta Journal-Constitution, Politically Georgia newsletter, 14 September 2026",
+   "url": "https://www.ajc.com/politics/2026/09/jon-ossoff-calls-for-inspectors-at-ai-research-labs-amid-industry-fears/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Treats advanced AI as a serious danger needing lab inspectors and a treaty and links it to bioterrorism, but does not spell out a catastrophic consequence of AI in this passage; it sits between C and B."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause. No source shows him co-sponsoring the Ban Artificial Superintelligence Act, which includes a pause on advanced AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "At his 13 September 2026 rally he said a president should \"lead the world toward an AI treaty\", but the reported words do not mention China or the pace of development, so this is not counted as a yes; a reviewer may want to look at the full speech. He is not among the signers of the 23 September 2026 letter urging AI talks with China.",
+   "sources": [
+    [
+     "Atlanta Journal-Constitution, 14 September 2026",
+     "https://www.ajc.com/politics/2026/09/jon-ossoff-calls-for-inspectors-at-ai-research-labs-amid-industry-fears/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on a ban on self-improving AI or on superintelligence.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sent his own letter to the White House science office asking about screening of synthetic DNA and RNA orders and whether AI use in biology should be regulated to prevent novel biological weapons.",
+   "Ossoff letter dated 24 June 2026; press release 10 July 2026",
+   "https://www.ossoff.senate.gov/press-releases/sen-ossoff-raising-concerns-about-bioterrorism-biosafety-associated-with-artificial-intelligence/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen press release, September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "His June 2026 letter says in his own words that malicious actors could use AI advances to develop dangerous pathogens and biological weapons. The searches on superintelligence, extinction or existential risk and \"AI safety\" found nothing from him that mentions extinction or loss of human control.",
+ "notes": "All six required web searches have now run: three in the first run and the three that were refused then (superintelligence / Ban Artificial Superintelligence Act, extinction or existential risk, and \"AI safety\") in a second run on 11 November 2026. The second run added no statement, position or record item; the grade is unchanged. Ban Artificial Superintelligence Act: no source found shows Ossoff as a co-sponsor, so nothing is recorded in `record`. This is absence of evidence, not a verified 'did not co-sponsor': the Sanders office summary (https://www.sanders.senate.gov/wp-content/uploads/Ban-Artificial-Superintelligence-Act-Release-Summary.pdf, opened) names only Sanders and Rep. Casar; a Forkast article of 25 September 2026 (https://forkast.news/progressive-democrats-establish-prohibitionist-left-flank-on-artificial-superintelligence/, opened) names no Senate co-sponsor and says the bill had no number yet; the congress.gov co-sponsor list was not checked (it returned 403 in the first run). The extinction / existential risk search returned no result that mentions Ossoff. UNDATED STATEMENT LEFT OUT OF `statements` (reviewer may want to add it once dated): a Grabien video clip page, 'Sen. Ossoff on AI Regulation: I've Been Very Aggressive in Investigating the Risks to Children' (https://grabien.com/story?id=609188, opened, page text read directly), gives a machine-made 'rush excerpt' transcript in which he says: \"That, with artificial intelligence technology can be used to produce seriously dangerous new viruses and pathogens that pose a serious threat to human health and United States and to global health. This is one of the most serious concerns that arises.\" This would be level B (AI-enabled pathogens, in his own spoken words), the same level and subject as the June letter. It is left out because the page shows no date, programme or interviewer, and the brief requires the date the statement was made; it is also an automatic transcript with visible errors, so the wording should be checked against the video. From its content (he refers to his synthetic DNA inquiry and to preliminary data from the National Center for Missing and Exploited Children, which his office publicised on 6 August 2026) it is probably from August or September 2026, possibly the MS Now interview of about 14 September 2026, but that is a guess. Political Wire, 15 September 2026 (https://politicalwire.com/2026/09/15/ossoff-warns-trump-wont-address-ai-safety-concerns/, opened) only relays the NewsNation / The Hill report already noted below, quoting him: \"They've invested heavily in AI labs. They've invested heavily in data centers.\" That is about the president's conflict of interest, level D at most, and is left out. The NewsNation and The Hill pages themselves returned 403 in the second run, so that interview's full wording was not read. Carried over from the first run: the Atlanta Journal-Constitution page is paywalled: only the one quote used here was readable in the page text; the rest of his rally remarks are scrambled in the page, and an automated summary's reconstruction of them (for example that Trump 'is compromised', that AI company chiefs should testify under oath, that Congress 'sleepwalks' into a technological revolution) was NOT verified and is left out. The rally date of 13 September 2026 is inferred from 'Sunday' in an article updated Monday 14 September 2026. Left out as not about catastrophic risk (level D at most): PBS/Associated Press, 15 September 2026, quoting him at the same rally: \"What fills us with dread is the crushing weakness of our politics against the massive stakes of our times\" (https://www.pbs.org/newshour/politics/tech-ceos-call-for-ai-regulation-trump-and-congress-are-not-rushing-to-act); and The Hill via NewsNation, about 14 September 2026, quoting him on MS Now saying the Trump family has invested in AI labs and data centers and that \"the president of the United States is compromised\" (https://www.newsnationnow.com/business/tech/ai/trump-ai-regulation-jon-ossoff/). The letter's quote of the industry open letter ('there is a real possibility that the knowledge barriers ... will meaningfully erode') is others' words and was not used. The official-site press release search page showed no other AI-risk releases since January 2025 beyond children, health-care denial and Pentagon use of Grok (all out of scope)."
+}

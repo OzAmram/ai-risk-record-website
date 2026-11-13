@@ -1,0 +1,53 @@
+{
+  "bioguide": "T000278",
+  "member": "Tommy Tuberville",
+  "searches": [
+    "Tuberville artificial intelligence (restricted to tuberville.senate.gov)",
+    "Tommy Tuberville superintelligence AI",
+    "Tuberville AI \"extinction\" OR \"existential\" risk artificial intelligence",
+    "Tuberville AI moratorium OR pause OR slowdown artificial intelligence",
+    "Tuberville AI China agreement OR treaty artificial intelligence race",
+    "\"Tuberville\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "venue": "Local television interview (Sinclair 'Connect to Congress', reported by ABC 33/40 and FOX10)",
+      "quote": "learn the basics first, learn the ethics first, because it could be used the wrong way",
+      "context": "Tuberville was arguing that Alabama schools should teach students and teachers how to use AI from a young age.",
+      "source_label": "ABC 33/40, 23 July 2026",
+      "url": "https://abc3340.com/news/connect-to-congress/tommy-tuberville-ai-classrooms-data-centers-alabama-food-safety-coast-guard-interview-connect-to-congress",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "A general caution that AI could be misused, in the context of classroom teaching, with no catastrophic or serious risk from advanced AI named."
+    },
+    {
+      "date": "2026-06-16",
+      "venue": "Senate Health, Education, Labor and Pensions subcommittee hearing on AI in K-12 education (opening remarks, as published in his press release)",
+      "quote": "Most importantly, how do we make sure AI strengthens education instead of weakening it?",
+      "context": "Tuberville chaired a hearing on AI in schools and listed his concerns: student privacy, accuracy of AI answers, dependence on technology and rural access.",
+      "source_label": "Senate press release, 16 June 2026",
+      "url": "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-leads-help-subcommittee-hearing-on-ai-in-k-12-education/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The concerns raised are about education, privacy and accuracy, which are outside the scope of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating the pace of AI development with China. He did not sign the 23 September 2026 letter urging AI talks with China. His April 2025 letter on export rules is about competing with China, which does not count.", "sources": [["Van Hollen press release listing the signers, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Led a letter with Sen. Ricketts (joined by Sens. Budd, Mullin, Schmitt, Tillis and Wicker) asking Commerce Secretary Lutnick to withdraw the Biden-era AI Diffusion Rule on chip exports and replace it; the letter is about competition with China, not risks from AI systems.", "Senate press release, 15 April 2025", "https://www.tuberville.senate.gov/?p=78094"],
+    ["Chaired a Senate Health, Education, Labor and Pensions subcommittee hearing titled 'The Future of K-12 Education in the Age of Artificial Intelligence'.", "Senate press release, 16 June 2026", "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-leads-help-subcommittee-hearing-on-ai-in-k-12-education/"],
+    ["With Sen. Budd, asked the Pentagon how many employees had used the Chinese AI application DeepSeek on government devices (date not checked; page not opened).", "Senate press release", "https://www.tuberville.senate.gov/newsroom/press-releases/tuberville-budd-call-for-inquiry-into-chinese-ai-application-on-pentagon-devices/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Everything found is about AI in schools, military use of AI, data centers, scams aimed at seniors and competition with China. No statement acknowledging or dismissing catastrophic risk from AI was found.",
+  "notes": "Seven web searches ran (the six required plus one on the Ban Artificial Superintelligence Act); none was refused. Four pages were opened (ABC 33/40 interview, FOX10 report of the same interview, the April 2025 letter press release, the June 2026 hearing press release). Pages were read through a fetch tool that returns extracted text via a small model rather than raw page text, so a reviewer should confirm the two quotes character for character at the links. FOX10 (https://www.fox10tv.com/2026/07/24/sen-tuberville-pushes-ai-education-alabama-classrooms/) gives the first quote in a longer form beginning 'But you have to remember this, learn the basics first...'; the interview date is taken as the 23 July 2026 publication date and may be a day or two earlier. Not on the list of signers of the 23 September 2026 China letter, so he did not sign. Ban Artificial Superintelligence Act: the search results name only Sen. Sanders as Senate sponsor and no Senate co-sponsors; no source shows Tuberville co-sponsoring, but the official co-sponsor list on Congress.gov was not checked. Search results also mention, without pages being opened: Armed Services hearing questions on AI-driven command and control and AI energy demand (military use, level D), a Senate Aging Committee hearing on AI scams against seniors ('My solution is education', seen only in a search summary), and data center comments about electricity costs. The DeepSeek press release was not opened and its date was not checked. Tuberville ran for Alabama governor in 2026; campaign-site material was not searched separately."
+}

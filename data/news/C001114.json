@@ -1,0 +1,77 @@
+{
+ "bioguide": "C001114",
+ "member": "John Curtis",
+ "searches": [
+  "Senator John Curtis superintelligence AI",
+  "Sen. John Curtis AI \"extinction\" OR \"existential risk\" artificial intelligence",
+  "John Curtis Utah senator AI pause OR slowdown OR moratorium",
+  "Senator John Curtis China AI agreement OR treaty OR talks artificial intelligence",
+  "\"John Curtis\" senator \"AI safety\"",
+  "artificial intelligence (restricted to curtis.senate.gov; returned only unrelated results)",
+  "Curtis Blunt Rochester artificial intelligence hearings \"human control\" (restricted to curtis.senate.gov)"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-16",
+   "venue": "Joint statement with Sen. Lisa Blunt Rochester, published as a press release",
+   "quote": "work through solutions that maintain America’s competitive edge in development while ensuring that these technologies serve human interests and remain fully under human control. In the meantime, Congress must ensure necessary safeguards are in place.",
+   "context": "Curtis and Blunt Rochester, both on the Senate Commerce Committee, called for immediate public hearings with AI developers to inform possible AI regulation.",
+   "source_label": "Senate press release (curtis.senate.gov)",
+   "url": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-blunt-rochester-call-for-ai-hearings-regulation/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "Saying AI must 'remain fully under human control' and needs safeguards acknowledges a serious risk in general terms, but the statement names no catastrophic outcome and does not say control could be lost, so it sits between C and D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development; the 16 September 2026 statement asks for hearings and safeguards while keeping America's 'competitive edge in development'.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "Not a signer of the 23 September 2026 letter urging AI talks with China; no statement found for or against such talks.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on a ban on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Issued a joint statement with Sen. Lisa Blunt Rochester calling for immediate public congressional hearings on AI regulation, so that AI technologies 'remain fully under human control'.",
+   "Senate press release, 2026-09-16",
+   "https://www.curtis.senate.gov/newsroom/press-releases/curtis-blunt-rochester-call-for-ai-hearings-regulation/"
+  ],
+  [
+   "News coverage described the call for hearings as a break with President Trump.",
+   "Deseret News, 2026-09-16",
+   "https://www.deseret.com/politics/2026/09/16/john-curtis-wants-ai-regulations/"
+  ],
+  [
+   "Introduced, with Sen. Adam Schiff, a bill on protecting children from AI chatbot risks (child safety, outside this project's scope).",
+   "Senate press release (date not checked; page not opened)",
+   "https://www.curtis.senate.gov/press-releases/curtis-schiff-introduce-bipartisan-legislation-to-protect-children-from-ai-chatbot-risks/"
+  ],
+  [
+   "Questioned OpenAI's Sam Altman and Microsoft's Brad Smith at a Senate Commerce Committee hearing about data centers, energy costs and small-business use of AI; no mention of AI risk.",
+   "Senate press release, 2025-05-08",
+   "https://www.curtis.senate.gov/?p=7857"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His only relevant statement found is the 16 September 2026 joint statement saying AI must 'remain fully under human control' and that Congress must put safeguards in place. That is a general acknowledgment of serious risk without naming a catastrophic outcome, so C, on the boundary with D.",
+ "notes": "Seven web searches ran (six required plus one repeat of the official-site search, because the first returned only unrelated results); none was refused. The quote was read on curtis.senate.gov and copied by script from the page text (it uses a curly apostrophe in America’s). It is a joint statement by two senators, not Curtis alone. A reviewer should decide whether 'remain fully under human control' earns C or D. No source found showing Curtis co-sponsored the Ban Artificial Superintelligence Act (reported as introduced by Sen. Sanders and Rep. Casar); he is not on the verified signer list of the 23 September 2026 China letter. The Deseret News and KSL articles (16 September 2026) only repeat fragments of the same statement. Not opened: his chatbot child-safety and data-center press releases (out of scope), and the Semafor 16 September 2026 report on bipartisan AI safety talks, so any role for Curtis there is unchecked. No hearing remarks, floor speeches, op-eds or interviews by Curtis on catastrophic AI risk were found, but the search was limited and cannot rule them out."
+}

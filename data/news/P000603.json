@@ -1,0 +1,63 @@
+{
+  "bioguide": "P000603",
+  "member": "Rand Paul",
+  "searches": [
+    "Rand Paul artificial intelligence (restricted to paul.senate.gov)",
+    "Rand Paul superintelligence AI",
+    "Rand Paul AI extinction OR \"existential risk\" OR \"existential threat\"",
+    "Rand Paul AI moratorium OR pause OR slowdown 2025 2026",
+    "Rand Paul AI China agreement OR treaty OR talks",
+    "\"Rand Paul\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Senate floor, objecting to Sen. John Kennedy's unanimous-consent request to pass a bill requiring an emergency shutdown mechanism (\"kill switch\") in advanced AI systems",
+      "quote": "I think we should have as many facts as possible before we dictate rules for the whole economy.",
+      "context": "Paul was explaining why he blocked immediate passage of Kennedy's AI kill switch bill.",
+      "source_label": "Tech Insider (quoting Politico)",
+      "url": "https://tech-insider.org/rand-paul-blocks-ai-kill-switch-bill-4-labs-2026/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "He argues against hasty regulation of AI and says nothing that acknowledges or dismisses catastrophic risk."
+    },
+    {
+      "date": "2026-09-16",
+      "venue": "Senate floor, objecting to Sen. John Kennedy's unanimous-consent request on the AI kill switch bill",
+      "quote": "I don’t oppose the spirit of this bill, but I do ask that we make sure that we have all the information.",
+      "context": "Paul was objecting to passing the AI kill switch bill without committee study and proposing an advisory panel instead.",
+      "source_label": "Tech Insider (quoting Politico)",
+      "url": "https://tech-insider.org/rand-paul-blocks-ai-kill-switch-bill-4-labs-2026/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action", "boundary"],
+      "reason": "Not opposing the spirit of a bill aimed at dangerous AI is not itself a statement that AI poses serious or catastrophic risk, so it stays at D, though it is close to C."
+    },
+    {
+      "date": "2026-09-17",
+      "venue": "Remarks to reporters at the Capitol",
+      "quote": "I think it would be crazy to get on the floor one day and regulate an entire industry,",
+      "context": "The day after blocking the kill switch bill, Paul said regulating AI would need hearings and debate first.",
+      "source_label": "Fox News",
+      "url": "https://www.foxnews.com/politics/rand-paul-clashes-fellow-republican-over-ai-kill-switch-senate-grapples-terminator-fears",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Opposing fast regulation is level D under ruling 6; he does not dismiss catastrophic risk itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI progress for safety reasons; blocking the kill switch bill is not a statement on a slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a halt to building more capable AI systems.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; he is not among the signers of the 23 September 2026 letter.", "sources": [["Van Hollen press release listing the signers", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Objected to Sen. John Kennedy's unanimous-consent request to pass a bill requiring advanced AI systems to have an emergency shutdown mechanism, blocking its passage, and proposed instead a bipartisan panel to study AI safeguards, which Kennedy rejected.", "Newser, 17 September 2026 (objection made 16 September 2026)", "https://www.newser.com/story/396597/rand-paul-blocks-push-for-ai-kill-switch.html"],
+    ["Said he opposed the proposed 10-year federal moratorium on enforcing state AI laws, on grounds of states' rights.", "Privacy Daily, 12 June 2025", "https://privacy-daily.com/news/2025/06/12/Paul-Joins-Growing-Republican-Senate-Opposition-to-AI-Moratorium-Proposal-2506120083"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found since January 2025 argue against regulating AI hastily (the September 2026 kill switch bill) and against federal preemption of state AI laws. No statement was found that acknowledges or dismisses catastrophic risk from AI.",
+  "notes": "Six web searches ran, all successfully; no more were run because of the shared limit. Pages were read through a fetch tool that summarises pages with a small model and shortens long quotations, so a reviewer should check the three quotes character for character at the links (the apostrophe style in the second quote in particular). The first two quotes come from Tech Insider, a secondary site that attributes them to a Politico live update (https://www.politico.com/live-updates/2026/09/16/congress/paul-kills-kill-switch-bill-01081348), which I could not open; The Outpost (https://theoutpost.ai/news-story/republicans-clash-over-ai-kill-switch-mandate-as-senators-debate-emergency-shutoff-for-ai-labs-30958/) carries the first quote too, citing Benzinga, and places it on the Senate floor. The Congressional Record for 16 September 2026 would be the best source and was not checked. Left out because I could not get the full exact wording: a quote reported by The Hill via Newser beginning \"If Congress acts hastily before the technology is understood, Congress risks killing innovation\" and continuing about setting the technology back decades; the fragments \"very vague\", \"open-ended\" and \"ruin\" about the kill switch mandate; and floor questions about whether search engines and doctors' drug prescription tools would need kill switches (Just the News, 16 September 2026). Paraphrases left out: a search result summary said that in a Fox News interview he \"acknowledged that AI could produce dangerous outcomes\" and said \"We have to be careful what we let the government do with AI regulation\"; I could not find this on the Fox News page I opened, so it is unverified and, if real, might support level C. A search summary also said he signed a June 2025 letter with Sens. Blackburn and Hawley asking Majority Leader Thune to strip the state AI law moratorium; not verified at a source. Ban Artificial Superintelligence Act: no source found shows him co-sponsoring or commenting on it (a search summary described it as a House bill by Rep. Greg Casar; the bizpacreview page on senators' reactions returned an access error). Pages that could not be opened: politico.com, both bizpacreview.com pages. His official site returned only 2023 material on AI (government surveillance and censorship), which is before the cutoff. The Fox 17 article on Republicans resisting AI safety laws mentions his objection but does not quote him."
+}

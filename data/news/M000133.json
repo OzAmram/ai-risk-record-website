@@ -1,0 +1,139 @@
+{
+ "bioguide": "M000133",
+ "member": "Sen. Ed Markey (Democrat, Massachusetts)",
+ "searches": [
+  "Markey artificial intelligence superintelligence OR \"catastrophic\" OR \"existential\" (restricted to markey.senate.gov)",
+  "Senator Ed Markey superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+  "Ed Markey AI \"extinction\" OR \"existential risk\" OR \"existential threat\" senator 2026",
+  "Ed Markey AI pause OR slowdown OR moratorium frontier AI development 2026",
+  "Ed Markey AI China agreement OR treaty OR talks artificial intelligence nuclear weapons",
+  "\"Markey\" \"AI safety\" senator statement 2025 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-15",
+   "venue": "Letter to President Trump with Rep. Ted Lieu, ahead of the Trump-Xi meeting",
+   "quote": "Your direct engagement on this matter is critical to ensuring AI doesn’t accidentally or intentionally cause a preventable nuclear disaster.",
+   "context": "Markey and Rep. Ted Lieu asked the President to get China to commit to keeping a human in control of every nuclear launch decision, as United States law already requires.",
+   "source_label": "Rep. Lieu press release (reproduces the letter)",
+   "url": "https://lieu.house.gov/media-center/press-releases/rep-lieu-and-sen-markey-urge-trump-get-china-commit-ensuring-artificial",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter is about AI in nuclear launch, which the rubric's ruling 3 treats as military use (D) unless a catastrophic consequence is named; here it names one, AI causing a nuclear disaster, so B, on the boundary with D."
+  },
+  {
+   "date": "2025-02-11",
+   "venue": "Press release introducing the Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats Act",
+   "quote": "this legislation would ensure that our federal government and leading experts not only understand the grave risks of artificial intelligence to our health and safety, but are ready to act with the urgency this moment requires.",
+   "context": "Markey and Sen. Ted Budd introduced a bill requiring a federal health strategy for the misuse of AI, particularly to develop biological or chemical weapons.",
+   "source_label": "Senate press release",
+   "url": "https://www.markey.senate.gov/news/press-releases/markey-budd-introduce-bipartisan-bill-to-prepare-for-ai-public-health-threats",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "His own words name only \"grave risks\" to health, safety and national security in general terms; the bill he is introducing is about AI-assisted biological and chemical weapons, which would support B, but he does not say that himself in the quote."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Press release introducing the Cybersecurity and AI Board of Investigations Act",
+   "quote": "Despite the unprecedented depth and scale of recent AI-enabled cyber attacks, the public is learning critical details piecemeal,",
+   "context": "Markey introduced a bill to create an independent board to investigate major cyber incidents, including ones carried out by AI agents.",
+   "source_label": "Senate press release",
+   "url": "https://www.markey.senate.gov/news/press-releases/as-ai-agents-carry-out-attacks-senator-markey-introduces-legislation-establishing-independent-body-to-investigate-cyber-hacks-assisted-by-artificial-intelligence",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The harm he names is cyber attacks, which the rubric's ruling 4 places at D; the release's own text (not his quote) says AI agents are attacking without human initiation or oversight."
+  },
+  {
+   "date": "2026-07-10",
+   "venue": "Press release for his AI Accountability Agenda",
+   "quote": "For too long, the conversation about artificial intelligence has been about what’s next — the next breakthrough, the next headline, the next promise of the future. But the American people need more than future promises; they need answers to what’s happening right now.",
+   "context": "Markey released an AI policy agenda covering workers, children, civil rights, healthcare, data centers and sharing AI wealth.",
+   "source_label": "Senate press release",
+   "url": "https://www.markey.senate.gov/news/press-releases/senator-markey-releases-the-ai-accountability-agenda-taking-power-back-from-big-tech",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "His main AI agenda is explicitly about present-day harms and does not mention catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development; his data center work is framed around energy cost and pollution, which does not count. The \"moratorium\" he has fought is the ban on state AI laws, a different thing.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause on frontier AI development. News coverage of Sen. Sanders' September 2026 bill to pause and ban superintelligence does not name Markey.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "He asked the President to get China to commit to human control of nuclear launch decisions (letter of 15 September 2026), but that is about military use of AI, not the pace of frontier AI development, so it does not count. He is not among the signers of the 23 September 2026 letter urging AI talks with China.",
+   "sources": [
+    [
+     "Rep. Lieu press release, 2026-09-16",
+     "https://lieu.house.gov/media-center/press-releases/rep-lieu-and-sen-markey-urge-trump-get-china-commit-ensuring-artificial"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sent a letter with Rep. Ted Lieu urging President Trump to get China to commit to keeping a human in control of nuclear launch decisions, so that AI never launches a nuclear weapon by itself.",
+   "Rep. Lieu press release, 2026-09-16 (letter dated 2026-09-15)",
+   "https://lieu.house.gov/media-center/press-releases/rep-lieu-and-sen-markey-urge-trump-get-china-commit-ensuring-artificial"
+  ],
+  [
+   "Introduced, with Sen. Ted Budd, the Strategy for Public Health Preparedness and Response to Artificial Intelligence Threats Act, requiring a federal strategy for misuse of AI, particularly to develop biological or chemical weapons.",
+   "Senate press release, 2025-02-11",
+   "https://www.markey.senate.gov/news/press-releases/markey-budd-introduce-bipartisan-bill-to-prepare-for-ai-public-health-threats"
+  ],
+  [
+   "Introduced the Cybersecurity and AI Board of Investigations Act, creating an independent board with subpoena power to investigate major cyber incidents, including AI-enabled ones.",
+   "Senate press release, 2026-09-24",
+   "https://www.markey.senate.gov/news/press-releases/as-ai-agents-carry-out-attacks-senator-markey-introduces-legislation-establishing-independent-body-to-investigate-cyber-hacks-assisted-by-artificial-intelligence"
+  ],
+  [
+   "Led a letter with Sen. Van Hollen urging the Defense Department to stop pressuring Anthropic to drop safeguards against mass surveillance and autonomous weapons (military use, outside the rubric's scope).",
+   "Senate press release, 2026-02-27",
+   "https://www.markey.senate.gov/news/press-releases/senators-markey-and-van-hollen-demand-hegseth-stop-pressure-campaign-against-anthropic-for-refusing-to-enable-mass-surveillance-and-autonomous-warfare"
+  ],
+  [
+   "Wrote to Google with Sens. Merkley and Welch about its removal of commitments not to build AI for weapons or surveillance.",
+   "Senate press release, 2025-02-19",
+   "https://www.markey.senate.gov/news/press-releases/senators-markey-merkley-welch-press-google-on-changes-to-ai-commitments"
+  ],
+  [
+   "Released the AI Accountability Agenda, focused on present-day harms of AI.",
+   "Senate press release, 2026-07-10",
+   "https://www.markey.senate.gov/news/press-releases/senator-markey-releases-the-ai-accountability-agenda-taking-power-back-from-big-tech"
+  ],
+  [
+   "Introduced the States' Right to Regulate AI Act (December 2025) and led the amendment that removed the moratorium on state AI laws from the 2025 budget bill by a 99-1 vote.",
+   "Senate press release, 2026-03-20",
+   "https://www.markey.senate.gov/news/press-releases/senator-markey-statement-on-trump-executive-order-to-prohibit-states-from-regulating-ai"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "A letter he signed with Rep. Lieu warns of AI accidentally or intentionally causing a nuclear disaster, which names a catastrophic consequence. This is a boundary call: the letter is about AI in nuclear launch, which the rubric otherwise treats as military use (D); if a reviewer reads it that way, the grade falls back to C on his \"grave risks\" statement about the AI and biological weapons bill.",
+ "notes": "All 6 required web searches ran on 11 November 2026 (none refused), on top of the earlier run's reading of every press release title on markey.senate.gov from 7 January 2025 to 9 November 2026. New from the searches: the 15 September 2026 Lieu-Markey letter, read on Rep. Lieu's site, where the letter text is reproduced in the release. The date 2026-09-15 comes from the letter PDF's file name and a news report; the release is dated 16 September. I did not open the letter PDF itself, and the release does not list signers other than Lieu and Markey. The level B for that letter is a judgment call under ruling 3 and should be reviewed. Ban Artificial Superintelligence Act: news reports (AP, Nextgov, Al Jazeera) name only Sen. Sanders and Rep. Casar; no source shows Markey co-sponsoring, and the official co-sponsor list on Congress.gov was not checked. Not on the verified signer list of the 23 September 2026 China letter. Leads checked and left out: a search summary linked Markey to a letter to the Government Accountability Office mentioning human extinction, but the search result describes it as a 2023 letter with Sen. Peters (before the period covered; its press release page refused to open, error 403, so the date is from the search result only); the 20 June 2025 letter to that office that he signed, which I read in full, is about law enforcement use of AI to label people as threats and says nothing on catastrophic risk. His press releases on defense bill amendments about AI and nuclear launch (13 July 2023) and on the health committee's AI provisions (20 July 2023) are also before the period. I could not confirm whether he reintroduced the Block Nuclear Launch by Autonomous AI Act in this period. Pages I could not open: three Citizen Portal articles (cpo.soar.com, site not reachable) on a 1 May 2026 Senate health committee hearing and a Sanders panel about AI threatening humanity; Markey sits on that committee, so any remarks he made there are unchecked. markey.senate.gov refused some page fetches during this run (error 403); the defense bill amendments page opened on retry, the Peters letter page did not; the three Markey press release quotes kept from the earlier run were read at source then and not re-read now. Hearing remarks, floor speeches and interviews were covered only as far as the six searches surfaced them, and they surfaced none by Markey on catastrophic risk. The full agenda PDF (https://www.markey.senate.gov/imo/media/doc/ai_accountability_agenda.pdf) was not read; only its press release was. In the 24 September 2026 release, the sentence about AI agents attacking \"without human initiation or oversight\" is the office's text, not a Markey quote, so it was left out of statements. Sen. Budd's bioweapons quote in the 11 February 2025 release is Budd's, not Markey's."
+}

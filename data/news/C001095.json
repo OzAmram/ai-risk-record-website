@@ -1,0 +1,68 @@
+{
+  "bioguide": "C001095",
+  "member": "Tom Cotton",
+  "searches": [
+    "Tom Cotton artificial intelligence statement (restricted to cotton.senate.gov)",
+    "Tom Cotton superintelligence",
+    "Tom Cotton AI extinction OR \"existential risk\" OR \"existential threat\"",
+    "Tom Cotton AI pause OR slowdown OR moratorium",
+    "Tom Cotton AI China agreement OR treaty OR talks",
+    "\"Tom Cotton\" \"AI safety\"",
+    "Tom Cotton 40/29 News artificial intelligence \"promise and the risk\" OR \"Ban Artificial Superintelligence Act\"",
+    "Cotton \"Department of Artificial Intelligence\" \"big government bureaucracy\" Arkansas Advocate 40/29"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-10",
+      "venue": "Letter to Acting Attorney General Todd Blanche, published in a Senate press release",
+      "quote": "Maintaining America's AI advantage is vital to American economic strength, diplomacy, national security, and military power.",
+      "context": "Cotton asked the Justice Department to investigate alleged Chinese government influence on American public opinion about data centers.",
+      "source_label": "Cotton Senate press release",
+      "url": "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The letter is about competition with China and data center build-out and does not acknowledge catastrophic risk from AI itself."
+    },
+    {
+      "date": "2026-05-04",
+      "venue": "Statement in Sen. Jim Banks's press release introducing the AI OVERWATCH Act",
+      "quote": "Our most advanced AI technologies must be kept out of the hands of adversaries like Communist China.",
+      "context": "Cotton co-sponsored a bill to write into law a prohibition on exporting the most capable AI chips to foreign adversaries.",
+      "source_label": "Banks Senate press release",
+      "url": "https://www.banks.senate.gov/?p=11344",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "This is about keeping AI technology from China, which the rubric treats as competition with China rather than catastrophic risk from AI."
+    },
+    {
+      "date": "2025-11-06",
+      "venue": "Statement in joint press release with Sen. Chris Coons on a resolution affirming American AI dominance",
+      "quote": "Winning the AI race will be critical to our national security and economic prosperity for decades to come.",
+      "context": "Cotton and Coons introduced a Senate resolution on preserving the United States' advantage in artificial intelligence.",
+      "source_label": "Coons Senate press release",
+      "url": "https://www.coons.senate.gov/news/press-releases/senators-coons-cotton-introduce-resolution-to-affirm-americas-artificial-intelligence-dominance",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The statement promotes winning the AI race and names no catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons; his statements favor keeping an American lead but do not address a slowdown directly.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "He did not sign the 23 September 2026 letter urging AI talks with China, and no statement for or against an agreement with China on the pace of AI was found.", "sources": [["Van Hollen Senate press release (list of signers)", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found for or against a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["As chairman of the Senate Intelligence Committee, advanced the Intelligence Authorization Act for Fiscal Year 2027, whose summary lists more oversight of intelligence agencies' use of AI (including in lethal targeting) and pre-deployment testing of AI models to help US firms guard against misuse for foreign hacking or weapons proliferation.", "Cotton Senate press release, 2026-05-21", "https://www.cotton.senate.gov/news/press-releases/senate-intelligence-committee-passes-the-intelligence-authorization-act-for-fiscal-year-2027"],
+    ["Wrote to Commerce Secretary Lutnick urging a coordinated strategy against China's spread of its AI models, including concerns about backdoors in Chinese open-weight models.", "Cotton Senate press release, 2026-07-30 (letter dated 2026-07-29)", "https://www.cotton.senate.gov/news/press-releases/cotton-to-lutnick-combat-communist-chinas-ai-diffusion-strategy"],
+    ["Asked the Justice Department to investigate alleged Chinese government influence on US public opinion about data centers.", "Cotton Senate press release, 2026-06-10", "https://www.cotton.senate.gov/news/press-releases/cotton-to-doj-investigate-communist-china-influence-on-data-center-development/"],
+    ["Co-sponsored the AI OVERWATCH Act (Sen. Banks), which would write into law a prohibition on exporting the most capable AI chips to foreign adversaries.", "Banks Senate press release, 2026-05-04", "https://www.banks.senate.gov/?p=11344"],
+    ["Introduced with Sen. Coons a Senate resolution affirming the importance of American dominance in AI.", "Coons Senate press release, 2025-11-06", "https://www.coons.senate.gov/news/press-releases/senators-coons-cotton-introduce-resolution-to-affirm-americas-artificial-intelligence-dominance"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Everything found from Cotton on AI since January 2025 concerns competition with China, export controls, Chinese AI models and data centers; no statement was found in which he acknowledges catastrophic risk from AI itself.",
+  "notes": "Eight web searches ran, none refused. Pages were opened through a fetch tool that returns a summarising model's extraction rather than raw page text, so the three quotes should be checked character for character against the linked pages by the reviewer; each is a single sentence the tool returned in quotation marks. LEFT OUT, NEEDS FOLLOW-UP: an Arkansas Advocate article (syndicated at https://www.newsfromthestates.com/node/434821, which returned HTTP 403 and could not be opened; the Arkansas Advocate site also returned 403) reportedly says Cotton told 40/29 News in September 2026 that he has discussed \"both the promise and the risk\" of AI with the White House, the Pentagon and the CIA, that he favours \"targeted\" regulation, opposes a \"Department of Artificial Intelligence\" or \"big government bureaucracy\", and thinks agentic AI needs more stringent regulation. I saw this only in a search-result summary, with only fragments in quotation marks and no exact date, so it is not in statements. If the full 40/29 interview names a serious risk it could move him to C; a reviewer should open that article and the interview. Other items left out: the 10 June 2026 letter to the Justice Department reportedly refers to a panel hosted by Sen. Sanders on \"the existential threat of AI\" with two Chinese-government-affiliated panelists; the fetch tool paraphrased that sentence and I could not confirm whether Cotton dismisses the risk or only objects to the panelists, so it is not graded (it might bear on an F or C reading; worth checking the letter PDF at https://www.cotton.senate.gov/wp-content/uploads/media/doc/61026blancheletter.pdf). A 17 March 2026 social media post calling it \"deeply alarming\" that an AI system would label his views hate speech is about AI bias (and is an X post, out of scope here). Ban Artificial Superintelligence Act: no source showed Cotton co-sponsoring it; one report described the Sanders-Casar bill as having no co-sponsors. He is not among the signers of the 23 September 2026 letter. Search results for 'Cotton' and AI in nuclear command refer to Air Force General Anthony Cotton, a different person, and were ignored."
+}

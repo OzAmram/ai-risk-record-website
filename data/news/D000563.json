@@ -1,0 +1,114 @@
+{
+ "bioguide": "D000563",
+ "member": "Dick Durbin",
+ "searches": [
+  "Durbin artificial intelligence (restricted to durbin.senate.gov)",
+  "Dick Durbin superintelligence",
+  "Durbin AI \"extinction\" OR \"existential risk\" senator 2025 OR 2026",
+  "Durbin AI pause OR slowdown OR moratorium 2026",
+  "senators letter AI talks China September 2026 17 senators Durbin agreement treaty",
+  "\"Durbin\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors",
+  "Van Hollen letter Trump Xi AI \"mutual pause\" signed by senators Durbin",
+  "Durbin AI \"catastrophic\" OR \"loss of control\" OR \"bioweapons\" 2026 senator Illinois statement (NOT RUN: session search budget exhausted)"
+ ],
+ "statements": [
+  {
+   "date": "2025-05-07",
+   "venue": "Press release introducing the TEST AI Act",
+   "quote": "While AI holds enormous positive potential, this new technology must be tested thoroughly to ensure that it is used responsibly,",
+   "context": "Durbin and Sen. Luján introduced a bill directing federal agencies to build testbeds for evaluating AI systems.",
+   "source_label": "Durbin Senate press release",
+   "url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-lujan-introduce-bipartisan-legislation-to-improve-ai-testing-safeguarding-americans-against-risks",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Calls for testing and guardrails against misuse but names no catastrophic or serious risk from advanced AI itself."
+  },
+  {
+   "date": "2025-06-27",
+   "venue": "Senate floor speech",
+   "quote": "We are currently living with the results of our failure to regulate Big Tech when it came to social media. Let’s not make the same mistake when it comes to AI,",
+   "context": "Durbin opposed a provision in the Republican budget bill that would have blocked state AI laws for ten years.",
+   "source_label": "Durbin Senate press release",
+   "url": "https://www.durbin.senate.gov/newsroom/press-releases/durbin-outlines-harmful-judiciary-committee-provisions-included-in-republicans-reconciliation-bill",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Argues for regulating AI and warns of deceptive, biased and potentially dangerous tools, without acknowledging catastrophic risk."
+  },
+  {
+   "date": "2025-09-30",
+   "venue": "Press release introducing the AI LEAD Act with Sen. Hawley",
+   "quote": "Kids and adults across the country are turning to AI chatbots for advice and information, but greedy tech companies have designed these products to protect their own bottom line—not users’ safety",
+   "context": "Durbin and Hawley introduced a bill letting people sue AI companies under product liability law for harms caused by AI systems.",
+   "source_label": "Hawley Senate press release",
+   "url": "https://www.hawley.senate.gov/hawley-durbin-introduce-legislation-empowering-americans-to-bring-liability-claims-against-ai-companies",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About chatbot harms to users and company liability, which is outside the scope of catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI. His opposition to the 'AI pause provision' in June 2025 was about a freeze on state AI laws, not a pause on AI development.",
+   "sources": [
+    [
+     "Durbin Senate press release, 27 June 2025",
+     "https://www.durbin.senate.gov/newsroom/press-releases/durbin-outlines-harmful-judiciary-committee-provisions-included-in-republicans-reconciliation-bill"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter urging an AI agreement with China; his name is not among the 17 signatures on the letter itself. No other statement found.",
+   "sources": [
+    [
+     "Letter to President Trump, 23 September 2026 (PDF)",
+     "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Lead sponsor, with Sen. Luján, of the TEST AI Act of 2025, which would have federal agencies set up testbeds to evaluate AI systems.",
+   "Durbin Senate press release, 7 May 2025",
+   "https://www.durbin.senate.gov/newsroom/press-releases/durbin-lujan-introduce-bipartisan-legislation-to-improve-ai-testing-safeguarding-americans-against-risks"
+  ],
+  [
+   "Introduced the AI LEAD Act with Sen. Hawley, creating a federal product liability claim against AI companies for harms caused by their systems.",
+   "Hawley Senate press release, 30 September 2025",
+   "https://www.hawley.senate.gov/hawley-durbin-introduce-legislation-empowering-americans-to-bring-liability-claims-against-ai-companies"
+  ],
+  [
+   "Previewed the AI LEAD Act at a Senate Judiciary subcommittee hearing on harms from AI chatbots.",
+   "Durbin Senate press release, 16 September 2025",
+   "https://www.durbin.senate.gov/newsroom/press-releases/in-senate-judiciary-subcommittee-hearing-durbin-previews-new-legislation-that-would-hold-ai-companies-accountable-for-harms-caused-by-their-ai-products"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (checked against the signature pages of the letter).",
+   "Letter PDF hosted by Senate Commerce Committee Democrats, 23 September 2026",
+   "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His AI statements since January 2025 are about testing, product liability, chatbot harms to children and state regulation; none found acknowledges catastrophic risk from AI.",
+ "notes": "Web search budget for the session ran out after eight searches, so one planned query (catastrophic / loss of control / bioweapons) was not run and coverage of late 2026 may be incomplete. Ban Artificial Superintelligence Act: no source found showing Durbin as a co-sponsor, but I could not open an official co-sponsor list (congress.gov not checked), so this is unconfirmed rather than ruled out. The date of the AI LEAD Act release (30 September 2025) comes from a search result summary; the quote itself was read on the Hawley page. A widely surfaced Durbin remark that congressional committees are 'hardly up to the challenge' of AI is from March 2024 and is outside the date range. The 27 June 2025 quote date is the press release date for the floor speech. All quotes use the curly apostrophes and dash as they appear on the source pages."
+}

@@ -1,0 +1,178 @@
+{
+ "bioguide": "M001176",
+ "member": "Jeff Merkley",
+ "searches": [
+  "Merkley artificial intelligence (restricted to merkley.senate.gov)",
+  "Jeff Merkley superintelligence",
+  "Jeff Merkley AI extinction OR \"existential risk\" OR \"existential threat\"",
+  "Jeff Merkley AI pause OR slowdown OR moratorium",
+  "Jeff Merkley AI China agreement OR treaty OR talks",
+  "\"Merkley\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators, published in a Senate press release",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "Merkley was one of 17 Senate Democrats who signed a letter urging President Trump to negotiate an AI agreement with China's President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter he signed says frontier AI development could enable dangerous activities that threaten humanity as a whole, which counts as a threat to humanity."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators, published in a Senate press release",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "Merkley was one of 17 Senate Democrats who signed a letter urging President Trump to negotiate an AI agreement with China's President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter he signed describes advanced AI as a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators, published in a Senate press release",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "Merkley was one of 17 Senate Democrats who signed a letter urging President Trump to negotiate an AI agreement with China's President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter he signed says the stakes of AI are existential, in a passage comparing AI agreements to nuclear arms control."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators, published in a Senate press release",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "Merkley was one of 17 Senate Democrats who signed a letter urging President Trump to negotiate an AI agreement with China's President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "The letter relays AI developers' warning about losing the ability to control AI and, two sentences later, says \"We should take these warnings seriously\"; it does not say the loss of control would be permanent."
+  },
+  {
+   "date": "2026-05-15",
+   "venue": "Joint statement by Senate Foreign Relations Committee Democrats, press release",
+   "quote": "We welcome news that the United States and China will discuss how to keep the most advanced artificial intelligence (AI) models out of the hands of non-state actors and look forward to an administration briefing on the full scope of these proposed talks.",
+   "context": "Ten Democratic members of the Senate Foreign Relations Committee, including Merkley, commented on the Trump-Xi summit in Beijing.",
+   "source_label": "Senate press release (Merkley)",
+   "url": "https://www.merkley.senate.gov/senate-foreign-relations-democrats-statement-on-trump-xi-summit/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "cosigned_letter"
+   ],
+   "reason": "The joint statement welcomes US-China talks on keeping advanced AI from non-state actors but names no catastrophic harm, and otherwise stresses export controls and winning the AI race."
+  },
+  {
+   "date": "2025-06-03",
+   "venue": "Senate floor speech",
+   "quote": "We want to reap the benefits of AI. We want to have AI be used across our society, but we also want to protect against the harmful effects of AI if it is put in the wrong hands to be used for the wrong purposes.",
+   "context": "Merkley spoke against a proposed 10-year ban on state and local regulation of AI in the budget reconciliation bill and promoted his AI Civil Rights Act.",
+   "source_label": "Congressional Record",
+   "url": "https://www.congress.gov/119/crec/2025/06/03/171/94/modified/CREC-2025-06-03-pt1-PgS3193.htm",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "His longest remarks on AI in his own words; the harms he names are bias, discrimination, privacy and harm to young people, not catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "He signed the 23 September 2026 letter, which asks for a formal agreement with China \"that would slow down\" frontier AI development to prevent cyberattacks, biological weapons and other dangers. This is a signed letter, not a statement of his own.",
+   "sources": [
+    [
+     "Van Hollen press release with full letter",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter he signed asks for an agreement with China that would \"potentially enact a mutual pause\" in frontier AI development; this is a possible pause, conditional on China joining, not a call for an outright halt. Separately, his 3 June 2025 floor speech opposed an \"AI moratorium\", but that was the proposed 10-year ban on state AI regulation, not a pause in AI development, so it does not bear on this position.",
+   "sources": [
+    [
+     "Van Hollen press release with full letter",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "He signed the 23 September 2026 letter urging a formal, verified agreement with China to slow, and possibly mutually pause, frontier AI development. An earlier joint statement he joined (15 May 2026) welcomed US-China AI talks but warned they \"cannot serve as a Trojan Horse for technological surrender\".",
+   "sources": [
+    [
+     "Van Hollen press release with full letter",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Senate Foreign Relations Democrats statement, 15 May 2026",
+     "https://www.merkley.senate.gov/senate-foreign-relations-democrats-statement-on-trump-xi-summit/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI. The letter he signed mentions that automation of AI research may speed up progress, but does not call for a ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate a formal agreement with China on frontier AI, including a slowdown and possible mutual pause.",
+   "Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Joined a statement by ten Senate Foreign Relations Committee Democrats on the Trump-Xi summit that welcomed US-China AI talks while calling for strict AI chip export controls.",
+   "Merkley press release, 2026-05-15",
+   "https://www.merkley.senate.gov/senate-foreign-relations-democrats-statement-on-trump-xi-summit/"
+  ],
+  [
+   "Reintroduced, with Sen. Padilla, the Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act, banning false AI-generated election content meant to suppress voters (outside this project's scope: elections, not catastrophic risk).",
+   "Merkley press release, 2026-06-11",
+   "https://www.merkley.senate.gov/merkley-padilla-lead-effort-to-fight-back-against-voter-suppression-and-misuse-of-artificial-intelligence-in-u-s-elections/"
+  ],
+  [
+   "Gave a Senate floor speech opposing the proposed 10-year ban on state and local AI regulation, saying he would raise a point of order against it, and promoting his AI Civil Rights Act (outside this project's scope: bias and civil rights, not catastrophic risk).",
+   "Congressional Record, 2025-06-03",
+   "https://www.congress.gov/119/crec/2025/06/03/171/94/modified/CREC-2025-06-03-pt1-PgS3193.htm"
+  ],
+  [
+   "Signed, with Sens. Markey and Welch, a letter to Google's chief executive questioning the removal of the company's pledge not to build AI for weapons or surveillance (military and surveillance use, outside this project's scope).",
+   "Merkley press release, 2025-02-19",
+   "https://www.merkley.senate.gov/senators-markey-merkley-welch-press-google-on-changes-to-ai-commitments/"
+  ],
+  [
+   "Signed a letter led by Sen. Wyden urging the Trump administration to restore export controls on advanced technology, including AI chips, to China (competition with China, outside this project's scope).",
+   "Wyden press release, 2025-11-13",
+   "https://www.wyden.senate.gov/news/press-releases/wyden-schumer-warren-and-cortez-masto-press-trump-to-restore-export-controls-after-trading-sensitive-us-technology-to-china-in-trade-talks"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only evidence at level A is the 23 September 2026 letter he co-signed, which calls advanced AI a technology that poses an existential threat and says its misuse could threaten humanity. Six web searches found no statement in his own individual words about catastrophic AI risk; his own remarks on AI concern bias, privacy, elections and surveillance.",
+ "notes": "All six required web searches ran this time (11 November 2026); no extra searches were run. They turned up no statement by Merkley in his own words on superintelligence, extinction, loss of control, AI and bioweapons, or a pause or slowdown, so the grade still rests entirely on the co-signed 23 September 2026 letter; a reviewer may prefer to weigh that lower than a personal statement. New material from the searches is all level D or record-only: his 3 June 2025 floor speech (Congressional Record), the 19 February 2025 letter to Google, and the 13 November 2025 export controls letter. Ban Artificial Superintelligence Act: no source found shows Merkley as a co-sponsor. The Fortune/Associated Press report of 23 September 2026 (https://fortune.com/2026/09/23/bernie-sanders-superintelligent-ai-ban) names only Sen. Sanders and Rep. Casar; no co-sponsor list was seen, so this is unknown rather than a confirmed 'no'. Caution for reviewers: search summaries described Merkley as opposing an 'AI moratorium'; that refers to the 10-year ban on state AI regulation, not a pause in AI development, and is not counted as a position. Quotes were checked by a script as exact continuous passages of the downloaded page text (the four letter quotes against the Van Hollen page, the joint statement against Merkley's page, the floor speech against the congress.gov Congressional Record page), all re-downloaded today. Pages opened but not used: Congressional Digest November 2025 (a paywalled reprint of the same floor speech); Al Jazeera 26 March 2026 on the data center moratorium bill and the Fortune article (neither mentions Merkley); Merkley's 11 March 2026 release on a letter to the Defense Department about strikes in Iran (the search summary says it raised AI target selection; military use, level D, not quoted). One search result, letsdatascience.com on the Sanders-Casar bill, could not be opened (error 403). Not opened because they concern privacy or other out-of-scope topics: Ban Flock Act (2 October 2026), facial recognition moratorium bill (25 September 2026), ICE Out of Our Faces Act (February 2026), biometric smart glasses letter (14 May 2026), Algorithmic Accountability Act co-sponsorship. His own-words quote in the FAIR Elections Act release concerns AI election disinformation (level D) and was left out of statements."
+}

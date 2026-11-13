@@ -1,0 +1,106 @@
+{
+ "bioguide": "E000295",
+ "member": "Joni Ernst",
+ "searches": [
+  "Joni Ernst artificial intelligence (restricted to ernst.senate.gov)",
+  "Joni Ernst superintelligence OR \"artificial general intelligence\"",
+  "Joni Ernst AI \"extinction\" OR \"existential risk\" OR \"loss of control\"",
+  "Joni Ernst AI pause OR slowdown OR moratorium",
+  "Joni Ernst AI China agreement OR treaty OR talks",
+  "\"Ernst\" senator \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-30",
+   "venue": "Press release on a Senate Homeland Security subcommittee hearing on risks from advanced AI agents",
+   "quote": "Super intelligence is a powerful tool, and Congress must continue working to ensure proper guardrails are in place so these systems cannot go rogue or be misused by our adversaries.",
+   "context": "Headline quote of her office's release about a hearing on increasingly capable AI systems acting beyond their instructions and being used by hostile actors.",
+   "source_label": "Senate press release",
+   "url": "https://www.ernst.senate.gov/news/press-releases/ernst-america-cant-hit-pause-on-ai-while-china-charges-ahead",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She says AI systems must not 'go rogue' but names no consequence, which the rubric's ruling 4 grades as D with a boundary flag; a reviewer could reasonably read it as C."
+  },
+  {
+   "date": "2026-09-30",
+   "venue": "Senate Homeland Security subcommittee hearing (questioning), as quoted in her press release",
+   "quote": "so we need to keep moving forward. If we pause, we're not going to see China pause.",
+   "context": "She was asking a witness how Congress can help AI developers work together against cyber-attacks, after praising AI's use in medical research and troop protection.",
+   "source_label": "Senate press release",
+   "url": "https://www.ernst.senate.gov/news/press-releases/ernst-america-cant-hit-pause-on-ai-while-china-charges-ahead",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Argues against pausing AI because of competition with China and does not acknowledge catastrophic risk."
+  },
+  {
+   "date": "2026-09-30",
+   "venue": "Senate Homeland Security subcommittee hearing, as quoted by Roll Call (republished by Government Technology)",
+   "quote": "Then we also have the fears that come along with that as well",
+   "context": "After stressing uses of 'great technologies' in law enforcement and the military, she mentioned unspecified fears and then said the US must keep innovating so as not to fall behind China.",
+   "source_label": "Roll Call via Government Technology",
+   "url": "https://www.govtech.com/security/u-s-senators-debate-liability-for-rogue-ai-agents",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "The fears are not specified, so no catastrophic or serious risk from AI itself is actually stated."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "no",
+   "note": "At the 30 September 2026 hearing she said 'we need to keep moving forward' and that the US 'must continue to innovate' rather than fall behind China.",
+   "sources": [
+    [
+     "Senate press release, 30 Sep 2026",
+     "https://www.ernst.senate.gov/news/press-releases/ernst-america-cant-hit-pause-on-ai-while-china-charges-ahead"
+    ],
+    [
+     "Roll Call via Government Technology, 1 Oct 2026",
+     "https://www.govtech.com/security/u-s-senators-debate-liability-for-rogue-ai-agents"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "no",
+   "note": "She said 'If we pause, we're not going to see China pause'; her office titled the release 'America Can't Hit Pause on AI While China Charges Ahead'.",
+   "sources": [
+    [
+     "Senate press release, 30 Sep 2026",
+     "https://www.ernst.senate.gov/news/press-releases/ernst-america-cant-hit-pause-on-ai-while-china-charges-ahead"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on an agreement or talks with China on AI; she did not sign the 23 September 2026 letter.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Took part in the 30 September 2026 Senate Homeland Security subcommittee hearing on risks from increasingly capable AI systems (witnesses included METR, Apollo Research and the AI Futures Project) and issued a release titled 'America Can't Hit Pause on AI While China Charges Ahead'.",
+   "Senate press release, 30 Sep 2026",
+   "https://www.ernst.senate.gov/news/press-releases/ernst-america-cant-hit-pause-on-ai-while-china-charges-ahead"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 Senate Democrats urging AI talks with China (per the verified signer list).",
+   "Van Hollen press release, 23 Sep 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only on-topic remarks since 2025 call for guardrails so AI systems 'cannot go rogue' without naming any consequence, alongside an explicit argument against pausing. Under ruling 4 that is D, though it sits on the boundary with C.",
+ "notes": "Seven web searches ran, none refused. Pages opened: the Ernst press release (full text read directly), Roll Call and Government Technology (same Roll Call article; read through a page-summarising tool that returned her quotes in short pieces, so the third quote's exact punctuation should be checked by a reviewer; Roll Call original: https://rollcall.com/2026/10/01/senators-debate-liability-for-rogue-ai-agents/). The press release's second quote is printed there in two parts joined by an ellipsis; only the continuous second part is quoted. Her fuller Roll Call remarks ('But I am of this position that we must continue to innovate.' 'What we don't want to do is fall behind China.') support the positions. Out of the date window and so excluded: her 29 April 2024 column 'Terminating AI Funding to Our Adversaries', which says AI 'poses the possibility of being twisted into menacing machines that wage war against mankind' (wording seen in a search result only) in the context of Pentagon-funded researchers moving to China. No source found showing her as a co-sponsor of the Ban Artificial Superintelligence Act (S. 5493, Sanders); the co-sponsor list was not checked on congress.gov. Her press release uses 'Super Intelligence (SI)' as the administration's new name for artificial intelligence generally, not in the sense of smarter-than-human AI."
+}

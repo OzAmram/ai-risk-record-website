@@ -1,0 +1,97 @@
+{
+  "bioguide": "L000577",
+  "member": "Sen. Mike Lee (Republican, Utah)",
+  "searches": [
+    "Mike Lee artificial intelligence [restricted to lee.senate.gov]",
+    "Sen. Mike Lee superintelligence AI",
+    "Sen. Mike Lee AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+    "Sen. Mike Lee AI pause OR slowdown OR moratorium state AI laws",
+    "Sen. Mike Lee AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Mike Lee\" \"AI safety\" senator Utah",
+    "\"Mike Lee\" senator AI says OR said OR warns artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" Senate cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-12",
+      "venue": "Letter to Energy Secretary Chris Wright, signed by Lee and eight other Republican senators",
+      "quote": "China is our main competitor in the race for AI dominance, a position it occupies only because it has stolen American intellectual property and technologies and co-opted them over the years.",
+      "context": "The letter asks the Department of Energy to bar Chinese nationals from national laboratory sites, information and technology, to protect the administration's Genesis Mission on AI.",
+      "source_label": "Senate Energy and Natural Resources Committee press release, 2026-01-13",
+      "url": "https://www.energy.senate.gov/2026/1/lee-senators-to-wright-ban-chinese-nationals-from-american-laboratories",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter", "bill_or_action"],
+      "reason": "The letter is about competition with China and research security, which the rubric places at D; it names no catastrophic risk from AI itself."
+    },
+    {
+      "date": "2026-07-14",
+      "venue": "Letter to the chief executives of Uber and Lyft, signed by Lee alone as chair of the Senate Judiciary antitrust subcommittee",
+      "quote": "As pricing migrates into automated systems, the line between independent judgment and unlawful coordination increasingly runs through the data those systems ingest, the vendors that supply them, and the signals they exchange.",
+      "context": "The letter asks Uber and Lyft how their pricing and driver-pay algorithms work, and cites a House inquiry into whether artificial intelligence and consumer data are used to set individual prices.",
+      "source_label": "Letter on lee.senate.gov (PDF), 2026-07-14",
+      "url": "https://www.lee.senate.gov/services/files/45B94F3D-27F1-477F-8959-8711B918B848",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The letter concerns algorithmic pricing, competition and consumer protection, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement by Lee for or against slowing frontier AI development was found in eight web searches or on his official site.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement by Lee for or against a pause was found. No source shows him as a co-sponsor of the Ban Artificial Superintelligence Act; news reports name only Sen. Sanders and Rep. Casar.",
+      "sources": [
+        [
+          "PBS NewsHour, 2026-09-23",
+          "https://www.pbs.org/newshour/politics/sen-bernie-sanders-unveils-bill-to-ban-artificial-superintelligence-and-create-department-of-ai"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "Not among the signers of the 23 September 2026 letter urging AI talks with China (list verified in the addendum); no statement for or against an agreement with China on AI was found. The January 2026 letter he signed is about beating China in AI and barring Chinese nationals from national laboratories, which does not address this policy.",
+      "sources": [
+        [
+          "Van Hollen press release, 2026-09-23",
+          "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement by Lee on a ban on self-improving AI was found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Reintroduced the Modernizing Retrospective Regulatory Review Act, which would have the White House regulatory office issue guidance on using technology including artificial intelligence to review existing regulations; Lee's own quoted words in the release do not mention AI.",
+      "Lee Senate press release, 2025-02-20",
+      "https://www.lee.senate.gov/2025/2/lee-introduces-modernizing-retrospective-regulatory-review-act-for-119th-congress"
+    ],
+    [
+      "Led, with Sen. Tom Cotton, a letter from nine Republican senators asking the Department of Energy to bar Chinese nationals from national laboratories, citing the race with China for AI dominance and the Genesis Mission.",
+      "Senate Energy and Natural Resources Committee press release, 2026-01-13 (letter dated 2026-01-12)",
+      "https://www.energy.senate.gov/2026/1/lee-senators-to-wright-ban-chinese-nationals-from-american-laboratories"
+    ],
+    [
+      "Introduced the bipartisan Government Surveillance Reform Act, whose background section includes 'Updating privacy protections for AI and other modern technologies'; Lee's own quoted words in the release do not mention AI.",
+      "Lee Senate press release, 2026-03-12",
+      "https://www.lee.senate.gov/2026/3/lee-introduces-bipartisan-government-surveillance-reform-act"
+    ],
+    [
+      "As chair of the Senate Judiciary antitrust subcommittee, sent Uber and Lyft a letter with 15 questions about their pricing and driver-pay algorithms, including whether fares vary by individual rider, with answers requested by 14 August 2026.",
+      "Letter on lee.senate.gov (PDF), 2026-07-14",
+      "https://www.lee.senate.gov/services/files/45B94F3D-27F1-477F-8959-8711B918B848"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related material found from Lee since 1 January 2025 is a co-signed letter about the AI race with China and his own letter on algorithmic pricing; neither acknowledges catastrophic risk from AI. No statement by him on AI risk, superintelligence, a pause or an agreement with China was found.",
+  "notes": "Eight web searches ran on 11 November 2026 (the six required plus two follow-ups); none was refused. None returned a statement by Lee on AI risk, superintelligence, extinction, a pause or slowdown, or an AI agreement with China. Pages opened from the results that turned out not to quote or mention Lee on AI: Daily Herald 2025-12-15 (Utah leaders on federal preemption of state AI laws), Deseret News 2025-06-11 (Lee appears only in a related-article link about the tax bill), KSL 2025-06-26, Bloomberg Government 2026-06-05 (about Sen. Jim Banks), Legal Insurrection 2026-09-07, and a blog page of 2026-05-07. Lee's position on the 2025 proposal to block state AI laws for ten years: nothing found in his own words; one search result said a Utah state representative wrote to Lee and Sen. Curtis about it on 6 June 2025, and no reply from Lee was seen. Ban Artificial Superintelligence Act (S. 5493): PBS and other reports name only Sanders and Casar; a bill tracker page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108391/) showed an empty sponsor list; congress.gov was not checked this time (it returned 403 in the earlier run), so the co-sponsor list is not confirmed from the official source, but no source shows Lee on it. The two D statements are included only as his most substantial AI-related material; the quote from the Uber and Lyft letter was copied from the PDF, where it runs across line breaks. The January 2026 letter is the joint text of nine senators, not Lee's own words. Not opened: a second PDF on his site, https://www.lee.senate.gov/services/files/21A55460-45B0-4A08-99C8-3163AFDA27AD (bill text that the earlier run's search snippet said mentions AI tools that scan product labels; a consumer topic). Kept from the earlier run, which used his site's own search: the hits for \"artificial intelligence\", AI and \"existential\" on lee.senate.gov were otherwise from 2024 or earlier (for example a June 2024 bill against Federal Communications Commission rules on disclosing AI in political ads) or not about AI. Remaining limits: web search surfaces news and press pages, so unreported hearing remarks, floor speeches, podcasts and interviews could have been missed; X was not searched, by design."
+}

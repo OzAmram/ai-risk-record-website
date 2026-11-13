@@ -1,0 +1,179 @@
+{
+ "bioguide": "K000393",
+ "member": "John Kennedy",
+ "searches": [
+  "Senator John Kennedy Louisiana artificial intelligence superintelligence",
+  "Sen. John Kennedy Louisiana AI \"extinction\" OR \"existential\" risk",
+  "Sen. John Kennedy Louisiana AI pause OR slowdown OR moratorium 2026",
+  "Sen. John Kennedy Louisiana AI China agreement OR treaty artificial intelligence",
+  "\"John Kennedy\" Louisiana senator \"AI safety\"",
+  "Kennedy artificial intelligence (restricted to kennedy.senate.gov)",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Kennedy \"hopefully China does too\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-16",
+   "venue": "Senate floor speech (excerpt published in his press release)",
+   "quote": "But what happens if the AI model, through what’s called recursive self-improvement, which basically means it’s learning on its own, no longer becomes a tool; it becomes an independent species, separate and apart from human beings that we can’t control because it’s an independent species?",
+   "context": "Kennedy was asking the Senate to pass his AI Emergency Button Act, which would require a shutdown mechanism in advanced AI systems, by unanimous consent.",
+   "source_label": "Kennedy Senate press release",
+   "url": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He says in his own words that an AI model could stop being a tool and become an independent species humans cannot control, which is loss of control; he does not say extinction or that the loss would be permanent, so B rather than A, on the boundary."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Senate floor speech (excerpt published in his press release)",
+   "quote": "In my mind, if there is even a 1% chance that one of these AI models can shed its nature as a tool and become an independent species and start doing whatever the hell it wants to do, if there’s even a 1% chance, we ought to take it seriously.",
+   "context": "Kennedy was asking the Senate to pass his AI Emergency Button Act, which would require a shutdown mechanism in advanced AI systems, by unanimous consent.",
+   "source_label": "Kennedy Senate press release",
+   "url": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He says even a 1% chance of AI models escaping human control and acting on their own should be taken seriously, which acknowledges loss-of-control risk without extinction wording."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Remarks reported by Fox News Digital (setting not stated)",
+   "quote": "It just says, 'If you're gonna sell this thing in America that has the potential to turn into an independent species, like the 'Terminator,' you've got to have a way to shut it down immediately, as soon as you discover that.",
+   "context": "Kennedy was describing his kill-switch bill after Sen. Rand Paul blocked it; the article also reports he was the only Republican at a closed-door meeting with AI experts led by Sen. Bernie Sanders.",
+   "source_label": "Fox News",
+   "url": "https://www.foxnews.com/politics/rand-paul-clashes-fellow-republican-over-ai-kill-switch-senate-grapples-terminator-fears.amp",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary",
+    "bill_or_action",
+    "unsure"
+   ],
+   "reason": "He says advanced AI has the potential to turn into an independent species like the Terminator that must be shut down immediately, which points to loss of control with catastrophic harm, without extinction wording."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Remarks after the Senate objection, reported by Politico and quoted by Newser",
+   "quote": "But still we've got this risk out there that we know is real of one of these models becoming the Terminator.",
+   "context": "Kennedy was reacting to Sen. Rand Paul's objection to his kill-switch bill and saying Congress would not act on AI soon.",
+   "source_label": "Newser, quoting Politico",
+   "url": "https://www.newser.com/story/396597/rand-paul-blocks-push-for-ai-kill-switch.html",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He calls the risk of an AI model 'becoming the Terminator' real, which is a serious warning about the AI itself, but the harm is named only through a film reference, so C on the boundary with B."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Remarks to reporters, reported by the Daily Caller",
+   "quote": "We’re dealing with a brand new species that acts like a human, but without most of the values that decent humans share.",
+   "context": "Kennedy was telling reporters he would introduce a bill requiring AI models to have a kill switch, and describing the risk that has 'garnered most of the attention'.",
+   "source_label": "Daily Caller",
+   "url": "https://dailycaller.com/2026/09/15/john-kennedy-introducing-bill-kill-switch-ai-models/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He describes advanced AI as a new species without human values, a serious general risk from the AI itself, but names no catastrophic consequence in this passage."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Remarks to reporters, reported by the Daily Caller",
+   "quote": "It would say every AI model has to have a kill switch, so they can shut those puppies down if they start acting like the terminator.",
+   "context": "Kennedy was explaining that his bill would require a kill switch in every AI model without putting the federal government in charge of it.",
+   "source_label": "Daily Caller",
+   "url": "https://dailycaller.com/2026/09/15/john-kennedy-introducing-bill-kill-switch-ai-models/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He says AI models may need to be shut down if they 'start acting like the terminator', which shows serious concern about AI acting on its own but states the harm only through a film reference."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Senate floor speech (excerpt published in his press release)",
+   "quote": "Well, I’ve got a bill, and it basically says that if you’re going to sell an advanced AI model in the United States of America, it has got to have a kill switch.",
+   "context": "Kennedy was asking the Senate to pass his AI Emergency Button Act, which would require a shutdown mechanism in advanced AI systems, by unanimous consent.",
+   "source_label": "Kennedy Senate press release",
+   "url": "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "This passage describes his proposed remedy (a mandatory kill switch for advanced AI models) rather than naming a harm, so on its own it shows only general concern about advanced AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "Nothing found for or against slowing AI development; his bill requires a shutdown mechanism, not a slowdown, and he says it does not affect innovation.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "Nothing found for or against a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "Nothing verified on an agreement or talks with China on AI pacing; he is not among the signers of the 23 September 2026 letter.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "He names recursive self-improvement as the source of the risk, but his bill requires a human-controlled shutdown mechanism and does not ban self-improving AI.",
+   "sources": [
+    [
+     "Kennedy Senate press release, 16 Sep 2026",
+     "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/"
+    ],
+    [
+     "Daily Caller, 15 Sep 2026",
+     "https://dailycaller.com/2026/09/15/john-kennedy-introducing-bill-kill-switch-ai-models/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Sponsored the AI Emergency Button Act, requiring any entity that develops or operates an advanced AI system in the United States to include a technical capability for a human operator to shut the system down; he sought unanimous consent to pass it and Sen. Rand Paul objected.",
+   "Kennedy Senate press release, 16 Sep 2026",
+   "https://www.kennedy.senate.gov/2026/09/16/senate-blocks-kennedy-bill-to-require-ai-developers-to-install-an-emergency-kill-switch/"
+  ],
+  [
+   "Text of the AI Emergency Button Act (two-page draft, no bill number shown).",
+   "Bill text on kennedy.senate.gov, Sep 2026",
+   "https://www.kennedy.senate.gov/wp-content/uploads/2026/09/AI-shutdown-mechanism-bill-text.pdf"
+  ],
+  [
+   "Rejected Sen. Rand Paul's counter-offer of a bipartisan committee to study the question, saying a committee would be a way to kill the bill.",
+   "Newser, 17 Sep 2026",
+   "https://www.newser.com/story/396597/rand-paul-blocks-push-for-ai-kill-switch.html"
+  ],
+  [
+   "Was the only Republican to attend a closed-door meeting with AI experts led by Sen. Bernie Sanders, according to Fox News.",
+   "Fox News, 17 Sep 2026",
+   "https://www.foxnews.com/politics/rand-paul-clashes-fellow-republican-over-ai-kill-switch-senate-grapples-terminator-fears.amp"
+  ],
+  [
+   "Joined Sens. Cornyn, Blumenthal and Lee in introducing a bill to help law enforcement combat AI-generated child sexual abuse material (outside the scope of catastrophic risk).",
+   "Kennedy Senate press release, 23 Oct 2025",
+   "https://www.kennedy.senate.gov/2025/10/23/2025-10-kennedy-cornyn-blumenthal-lee-introduce-bill-to-help-law-enforcement-combat-ai-generated-child-sexual-abuse-material/"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In September 2026, on the Senate floor and to reporters, Kennedy said an AI model could become an independent species that humans cannot control, compared it to the Terminator, and said even a 1% chance should be taken seriously. That is loss of control without extinction or 'permanent' wording, so B; a reviewer could reasonably argue for A.",
+ "notes": "Seven web searches ran (the six required plus one on the Ban Artificial Superintelligence Act); none was refused. The three kennedy.senate.gov statements and the positions were carried over from the earlier run, which read them on his site; they were not re-opened this time. New this run: the Fox News, Newser and Daily Caller statements. All news pages were read through a page-fetching tool that returns text via a summarising model and limits long passages, so the three quotes longer than about 120 characters (Fox News) and the Daily Caller quotes were reassembled from consecutive fragments the tool said were contiguous; a reviewer should check punctuation, apostrophe style and the nested quotation marks in the Fox quote against the pages. Fox News does not say when or where its quotes were said; the date 2026-09-17 is the article date. The 'Terminator' line is attributed by Newser to Politico (https://www.politico.com/live-updates/2026/09/16/congress/paul-kills-kill-switch-bill-01081348), which could not be opened; governing.com also carries the line dated 17 Sep 2026. Pages that could not be opened: Politico (blocked), Axios 1 Oct 2026 and two BizPac Review articles (403), the Sanders bill summary PDF (unreadable). Ban Artificial Superintelligence Act: no source shows Kennedy as a co-sponsor; The Decoder (24 Sep 2026) names only Sanders and Rep. Casar, and congress.gov was not checked. He is not on the verified signer list of the 23 September 2026 China letter. Unverified and left out: a search-result summary said Kennedy would support 'a light touch system of rules that we all agree to, and hopefully China does too'; I could not find the page carrying it, and it would not amount to a position on talks with China anyway. Unverified: tech-insider.org says his bill was introduced as S. 5417; not confirmed on congress.gov, so not in the record. Other Kennedy quotes seen but left out as not about catastrophic risk: 'There's no appetite in my caucus to do anything that I can say' (Fox News); an AI bill 'would be impossible' before the midterms (Semafor); 'We are not going to get up off our ice-cold lazy butts and address this anytime soon' (Politico via Newser); 'What I would like to see us do is to figure out a way to strike a balance between innovation and public safety' (Anadolu, Newser); a Colorado Politics quote that Congress is not going to 'stop and try to establish a regulatory scheme for AI' right now, which is a prediction, not a position. The Daily Caller also quotes him: 'And that is that AI would, through the recursive self improvement, would start acting on its own in an amoral or immoral way.' From the earlier run: the 2026-09-16 date is the press release date, assumed to be the day of the speech; the quotes are excerpts chosen by his office, and the video (https://www.youtube.com/watch?v=cWfavLHKkSU) was not watched; in the same excerpt he says of an AI not sharing human values 'Now, that has happened. We've read about it in the last three weeks', without saying what event he means."
+}

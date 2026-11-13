@@ -1,0 +1,137 @@
+{
+ "bioguide": "K000383",
+ "member": "Sen. Angus King (Independent, Maine)",
+ "searches": [
+  "Angus King superintelligence AI",
+  "Angus King AI \"extinction\" OR \"existential\" risk artificial intelligence",
+  "Angus King AI pause OR slowdown OR moratorium artificial intelligence",
+  "Angus King AI China agreement OR treaty OR talks artificial intelligence",
+  "\"Angus King\" \"AI safety\"",
+  "artificial intelligence risk (restricted to king.senate.gov)",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-17",
+   "venue": "Letter to Treasury Secretary Scott Bessent, published in a Senate press release",
+   "quote": "many Americans for the first time reckoned with the potentially catastrophic implications of uncontrolled AI development.",
+   "context": "King wrote alone to the Treasury Secretary before US-China meetings, urging continued talks with the Chinese government on the shared risks of AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "In his own words he calls the implications of uncontrolled AI development potentially catastrophic; the sentence relays an Anthropic employee's warning that AI could kill all humans, which would be level A if a reviewer judges that he endorses it as his own view."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Letter to Treasury Secretary Scott Bessent, published in a Senate press release",
+   "quote": "As you are aware, the American people are increasingly concerned that rapid AI development poses risks that simply cannot be ignored.",
+   "context": "King wrote alone to the Treasury Secretary before US-China meetings, urging continued talks with the Chinese government on the shared risks of AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Says rapid AI development poses risks that cannot be ignored, in general terms and framed as the public's concern."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Letter to Treasury Secretary Scott Bessent, published in a Senate press release",
+   "quote": "But we also cannot lock ourselves into a race to the bottom with China on AI safety given the stakes.",
+   "context": "King wrote alone to the Treasury Secretary before US-China meetings, urging continued talks with the Chinese government on the shared risks of AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Warns against a race to the bottom with China on AI safety because of the stakes, without naming a specific catastrophic harm in this sentence."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Letter to Treasury Secretary Scott Bessent, published in a Senate press release",
+   "quote": "To ensure that AI will be developed in a safe and sane manner, we should and must work with the Chinese government to create opportunities for American AI safety technical experts to exchange proposals with their Chinese counterparts.",
+   "context": "King wrote alone to the Treasury Secretary before US-China meetings, urging continued talks with the Chinese government on the shared risks of AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Calls for working with the Chinese government on AI safety through exchanges between technical experts; acknowledges serious risk in general terms."
+  },
+  {
+   "date": "2025-01-21",
+   "venue": "Senate Veterans Affairs Committee confirmation hearing, quoted in a Senate press release",
+   "quote": "I am not confident in the technology right now to be making these life or death decisions for our veterans",
+   "context": "King pressed Veterans Affairs nominee Doug Collins not to let AI decide veterans' benefit claims.",
+   "source_label": "Senate press release",
+   "url": "https://www.king.senate.gov/newsroom/press-releases/king-issues-warning-of-ai-harming-access-to-veteran-benefits-in-va-secretary-confirmation-hearing",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About AI making benefit decisions, not catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement for or against slowing frontier AI progress was found. His 17 September 2026 letter says the US 'cannot lock ourselves into a race to the bottom with China on AI safety' but also says the US should ensure American leadership in AI; it does not ask for slower development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement for or against a pause was found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "mixed",
+   "note": "His own 17 September 2026 letter urges 'earnest and sustained dialogue with the Chinese government' on AI safety and exchanges between American and Chinese technical experts, but it does not ask for an agreement on the pace of development or a mutual slowdown or pause. He did not sign the 23 September 2026 letter from 17 senators. A reviewer should decide between 'mixed' and 'none'.",
+   "sources": [
+    [
+     "Senate press release, 17 September 2026",
+     "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement for or against a ban on self-improving AI was found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sent his own letter to Treasury Secretary Bessent on 17 September 2026 urging sustained dialogue with the Chinese government on AI safety and expert exchanges on frontier AI risks.",
+   "Senate press release, 17 September 2026",
+   "https://www.king.senate.gov/newsroom/press-releases/king-stresses-importance-of-uschina-engagement-on-ais-shared-risks"
+  ],
+  [
+   "Not a signer of the 23 September 2026 letter from 17 senators urging AI talks with China (per the verified signer list).",
+   "Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Introduced, with Romney, Reed, Moran and Hassan, the Preserving American Dominance in AI Act, creating a federal office to review frontier AI models for chemical, biological, radiological, nuclear and cyber risks before deployment. This was on 20 December 2024, before the 1 January 2025 cutoff, so his quote from it is not included as a statement.",
+   "Senate press release, 20 December 2024",
+   "https://www.king.senate.gov/newsroom/press-releases/king-colleagues-introduce-bipartisan-preserving-american-dominance-in-ai-act"
+  ],
+  [
+   "Ban Artificial Superintelligence Act (Sanders and Casar, September 2026): no source shows King as a co-sponsor. The bill summary from the Sanders office and the news report opened name only Sen. Sanders and Rep. Casar; the official co-sponsor list on Congress.gov was not checked.",
+   "Sanders office bill summary, September 2026",
+   "https://www.sanders.senate.gov/wp-content/uploads/Ban-Artificial-Superintelligence-Act-Release-Summary.pdf"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In a letter he wrote alone on 17 September 2026 he describes the implications of uncontrolled AI development as potentially catastrophic and calls for AI safety talks with China. He relays, but does not clearly adopt as his own, a warning that AI could kill all humans, so B rather than A; this is a borderline call.",
+ "notes": "7 web searches ran on 11 November 2026 (the six required plus one on the Ban Artificial Superintelligence Act); none was refused. They turned up no statement by King since 1 January 2025 beyond the two press releases an earlier run had already found by reading the press release listing pages 1 to 20 of king.senate.gov (22 November 2024 to 11 November 2026), so the statements are unchanged. The superintelligence, extinction and China searches returned nothing about him (the extinction search and part of the AI safety search returned King Charles III's 17 September 2026 AI speech, which is a different person and was ignored). No news interview, op-ed, floor speech or hearing remark by him on catastrophic AI risk was found; that is an absence in search results, not proof that none exists. Other results were all before the 1 January 2025 cutoff and are not used as statements: the April 2024 framework letter with Romney, Reed and Moran (Portland Press Herald, 17 April 2024, opened), the July 2024 letter to OpenAI, and the December 2024 bill. A Central Maine article (https://www.centralmaine.com/?p=3116434) could not be opened (403), so its content and date are unknown. Ban Artificial Superintelligence Act: the Sanders office summary (opened) and a Washington Examiner report of 3 September 2026 (opened) name only Sanders and Casar; nothing shows King co-sponsoring, but Congress.gov was not checked. Quotes from the 17 September 2026 letter were copied by script from the press release page in the earlier run; the page was opened again this run and its date and content matched, but the linked PDF of the letter (https://www.king.senate.gov/imo/media/doc/china_ai_talks.pdf) was not opened. The press release (not the letter) says dialogue with China is critical to AI safety strategy 'in defense of all humankind'; that is staff wording linked to a CNN article, not a King quote, so it was left out. The 21 January 2025 release also says in staff wording that King 'has worked to combat extreme risks that could be posed by future developments in advanced AI models'. His December 2024 bill statement mentions 'safeguarding the public against biological, chemical, cyber, and nuclear threats' but predates the cutoff."
+}

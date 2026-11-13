@@ -1,0 +1,110 @@
+{
+ "bioguide": "S001184",
+ "member": "Tim Scott",
+ "searches": [
+  "\"Tim Scott\" AI \"existential\" OR \"extinction\" risk senator South Carolina",
+  "\"Tim Scott\" AI China agreement OR treaty OR talks artificial intelligence Banking Committee",
+  "\"Tim Scott\" \"AI safety\"",
+  "\"Tim Scott\" senator artificial intelligence superintelligence",
+  "\"Tim Scott\" AI moratorium OR pause OR slowdown senator 2025 2026",
+  "Tim Scott artificial intelligence (restricted to scott.senate.gov)",
+  "Scott Hagerty bill AI supply chain Commerce block China Russia Iran Cuba Banking Committee introduce"
+ ],
+ "statements": [
+  {
+   "date": "2026-06-11",
+   "venue": "Senate Banking Committee hearing on AI, opening remarks as chairman",
+   "quote": "We need thoughtful and well-informed solutions that protect Americans and mitigate major risks without hampering innovation or pushing it overseas.",
+   "context": "Opening a Banking Committee hearing on how AI affects the economy, small businesses, consumers and competition with China.",
+   "source_label": "Senate Banking Committee press release",
+   "url": "https://www.banking.senate.gov/newsroom/majority/chairman-scott-leads-ai-hearing-focused-on-affordability-american-innovation-and-national-security",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says AI brings unspecified 'major risks', but the risks named in the remarks are fraud, job change, cybersecurity and China gaining an edge, not catastrophic harm from AI itself."
+  },
+  {
+   "date": "2026-06-11",
+   "venue": "Senate Banking Committee hearing on AI, opening remarks as chairman",
+   "quote": "The United States cannot afford to let China or any other adversary gain a technological edge in artificial intelligence.",
+   "context": "Same opening remarks, in a passage on cybersecurity, national security and export controls.",
+   "source_label": "Senate Banking Committee press release",
+   "url": "https://www.banking.senate.gov/newsroom/majority/chairman-scott-leads-ai-hearing-focused-on-affordability-american-innovation-and-national-security",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Competition with China over AI is outside the rubric's scope (ruling 5)."
+  },
+  {
+   "date": "2026-07-23",
+   "venue": "Remarks to the South Carolina Business Council",
+   "quote": "fear and trepidation around electricity prices, water utilization, and aesthetics will stop the AI revolution from happening in America first, and it will empower China to beat America on this front if we don’t get it right.",
+   "context": "Speaking about American leadership in AI, jobs and public opposition to data centers.",
+   "source_label": "Sen. Tim Scott press release",
+   "url": "https://www.scott.senate.gov/media-center/press-releases/sen-tim-scott-honors-lindsey-graham-highlights-banking-committee-wins-at-south-carolina-business-council/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes AI and treats data center concerns as an obstacle to beating China; no catastrophic risk from AI is discussed or dismissed."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI for safety reasons. His July 2026 remarks criticise local resistance to data centers over electricity, water and appearance, which is not this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause on frontier AI development. The Sanders press release introducing the Ban Artificial Superintelligence Act (which includes a pause) names only Sen. Sanders and Rep. Casar; no source shows Scott supporting or opposing it.",
+   "sources": [
+    [
+     "Sen. Sanders press release, 23 September 2026",
+     "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "Not a signer of the 23 September 2026 letter urging AI talks with China; no statement found for or against such coordination. His remarks and bills (ICTS Supply Chain Security Act, BLADE Act) are about keeping ahead of China and keeping Chinese technology out, which is not this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on a ban on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Chaired a Senate Banking Committee hearing on AI, affordability, innovation and national security.",
+   "Senate Banking Committee press release, 11 June 2026",
+   "https://www.banking.senate.gov/newsroom/majority/chairman-scott-leads-ai-hearing-focused-on-affordability-american-innovation-and-national-security"
+  ],
+  [
+   "Introduced, with Sen. Hagerty, the ICTS Supply Chain Security Act, which would give the Commerce Department lasting authority to block or limit technology transactions tied to China, Russia, Iran, North Korea and Cuba; the release presents it as securing the infrastructure behind American AI.",
+   "Senate Banking Committee press release, 30 June 2026",
+   "https://www.banking.senate.gov/newsroom/majority/scott-hagerty-introduce-bill-to-secure-us-technology-supply-chains-from-foreign-adversaries"
+  ],
+  [
+   "Introduced, with Sens. Hagerty, Kim and Cortez Masto, the BLADE Act of 2026, which would expose and penalise foreign entities that copy the capabilities of American frontier AI models without permission (model distillation).",
+   "Sen. Hagerty press release, 5 August 2026",
+   "https://www.hagerty.senate.gov/?p=76734"
+  ],
+  [
+   "Issued a statement welcoming Google's $9 billion cloud and AI infrastructure investment in South Carolina.",
+   "Sen. Tim Scott press release, 14 October 2025",
+   "https://www.scott.senate.gov/media-center/press-releases/sen-tim-scott-applauds-googles-9-billion-investment-in-south-carolina/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 Senate Democrats urging AI talks with China.",
+   "Sen. Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His AI remarks and bills since January 2025 are about economic opportunity, jobs, data centers, supply chain security, theft of American AI models and staying ahead of China. He mentions 'major risks' only in passing and names no catastrophic harm from AI itself.",
+ "notes": "Search is now complete: 7 web searches ran across two runs. In the first run 3 ran and 3 were refused (superintelligence; pause/slowdown/moratorium; restricted to scott.senate.gov); the second run repeated those 3 successfully and added 1 follow-up search on the Scott-Hagerty bill. All three quotes were checked character for character against downloaded pages in the first run and are unchanged. The 23 July 2026 date is the press release date; the release says the remarks were delivered 'this week', so the exact day is not confirmed. That release marks omissions with '[…]'; the quoted passage contains none. Boundary case for the reviewer: 'mitigate major risks' could be read as level C (serious risks in general terms); D was chosen because the risks he names in the same remarks are fraud, labour change, cybersecurity and China. Second run, new material: the lead left unverified earlier is now confirmed at source. The Banking Committee release of 30 June 2026 (opened and read) shows Scott and Hagerty introduced the ICTS Supply Chain Security Act; covered countries are China, Russia, Iran, North Korea and Cuba. Sen. Hagerty's release of 5 August 2026 (opened and read) shows Scott co-introduced the BLADE Act on foreign copying of American AI models. Both releases contain Scott quotes, which are level D (China competition, theft of intellectual property, supply chains; ruling 5). They were not added to `statements` because the brief allows at most three D statements and the existing three are his broader remarks on AI; the reviewer may prefer to swap one in. The BLADE quote begins 'From startups in South Carolina to companies across the country, American innovators are building the technologies that will shape the future' and the ICTS quote begins 'Americans should not have to worry that China or Russia can use the technology in our cars, phones, or networks against us'. Ban Artificial Superintelligence Act: the Sanders release of 23 September 2026 (opened) names only Sanders and Casar as introducing it, and a PBS report of the same day does not mention Scott; no source shows Scott co-sponsoring or commenting. The official co-sponsor list on congress.gov was not checked, so this is not fully verified. The bizpacreview article of 18 September 2026 on senators' reactions again returned 403 and could not be read; its search summary does not name Scott. Opened and found to have nothing by Tim Scott: a Raw Story article of 23 September 2026 on Republicans dismissing AI warnings (it quotes Rick Scott of Florida, not Tim Scott) and an ABC News 4 article of 10 September 2026 on AI risks and Congress. A West Metro News guest editorial of 26 May 2026 praises Scott's role on AI and chip export bills but contains no words of his. Two scott.senate.gov pages mentioning AI date from 2022 and 2023, before the period covered, and were left out. The Banking Committee newsroom listing still could not be opened (410). Results about Rick Scott (Florida), Rep. Bobby Scott and Scott Wiener were excluded. No statement found on superintelligence, extinction, loss of control, bioweapons, a pause or a slowdown."
+}

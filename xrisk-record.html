@@ -1,83 +1,118 @@
 <title>AI Risk Record</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Source+Sans+3:wght@400;600;700&display=swap">
 <style>
-/* Layout: a reference ledger. One narrow reading column; each senator is a record sheet
-   with a grade stamp, three position rows, then dated evidence. Grade uses a single-hue
-   ramp (depth = explicitness), never red/green, so it does not read as good/bad. */
+/* Layout: a printed register. White page, serif headlines and quotes, hairline rules instead of
+   boxes, one plum accent. Grade is a round stamp on a single-hue ramp (depth = explicitness),
+   never red/green, so it does not read as good/bad. */
 :root{
-  --bg:#f3f5f7; --surface:#ffffff; --fg:#131a22; --muted:#56616e; --line:#d5dbe2;
-  --accent:#1f4e79; --accent-ink:#ffffff; --note:#fff6d9; --note-line:#e3cf86;
-  --g5:#12314d; --g4:#1f4e79; --g3:#4d7ba6; --g2:#8fb0cf; --g1:#c9d9e8; --g-ink-dark:#ffffff; --g-ink-light:#12314d;
-  --display:"Archivo","Arial Narrow",Arial,sans-serif;
-  --text:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
-  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+  --bg:#ffffff; --surface:#ffffff; --fg:#141414; --muted:#6a6a6a; --line:#e2e0dc; --hover:#faf8f5;
+  --accent:#5b2a86; --accent-ink:#ffffff; --note:#f7f2e6; --note-line:#d9cba3;
+  --g5:#35184f; --g4:#5b2a86; --g3:#8a63b3; --g2:#c3add9; --g1:#e9e0f2; --g-ink-dark:#ffffff; --g-ink-light:#35184f;
+  --display:"Newsreader",Georgia,"Times New Roman",serif;
+  --text:"Source Sans 3",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:var(--text);
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --bg:#0f141a; --surface:#18202a; --fg:#e8edf2; --muted:#9aa7b5; --line:#2c3846;
-  --accent:#8ab8e6; --accent-ink:#0f141a; --note:#2e2a17; --note-line:#6b5d24;
-  --g5:#d6e6f5; --g4:#a9c8e6; --g3:#6f9bc5; --g2:#44698f; --g1:#2a425c; --g-ink-dark:#0f141a; --g-ink-light:#e8edf2;
+  --bg:#131214; --surface:#131214; --fg:#eceae6; --muted:#a29fa6; --line:#2f2c33; --hover:#1b191d;
+  --accent:#c9a7ee; --accent-ink:#131214; --note:#2a2619; --note-line:#5f552f;
+  --g5:#eadcf8; --g4:#c9a7ee; --g3:#9a75c4; --g2:#5f4383; --g1:#35274a; --g-ink-dark:#131214; --g-ink-light:#eceae6;
   color-scheme:dark } }
 :root[data-theme="dark"]{
-  --bg:#0f141a; --surface:#18202a; --fg:#e8edf2; --muted:#9aa7b5; --line:#2c3846;
-  --accent:#8ab8e6; --accent-ink:#0f141a; --note:#2e2a17; --note-line:#6b5d24;
-  --g5:#d6e6f5; --g4:#a9c8e6; --g3:#6f9bc5; --g2:#44698f; --g1:#2a425c; --g-ink-dark:#0f141a; --g-ink-light:#e8edf2;
+  --bg:#131214; --surface:#131214; --fg:#eceae6; --muted:#a29fa6; --line:#2f2c33; --hover:#1b191d;
+  --accent:#c9a7ee; --accent-ink:#131214; --note:#2a2619; --note-line:#5f552f;
+  --g5:#eadcf8; --g4:#c9a7ee; --g3:#9a75c4; --g2:#5f4383; --g1:#35274a; --g-ink-dark:#131214; --g-ink-light:#eceae6;
   color-scheme:dark }
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--fg);font-family:var(--text);font-size:16px;line-height:1.55;
-  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 56px}
-.wrap{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:24px}
-a{color:var(--accent)} a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.top{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:baseline;justify-content:space-between;border-bottom:2px solid var(--fg);padding-bottom:10px}
-.brand{font-family:var(--display);font-weight:800;font-size:22px;letter-spacing:-.01em;color:var(--fg);text-decoration:none}
-nav{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:14px}
-nav a{text-decoration:none;color:var(--muted);padding:2px 0;border-bottom:2px solid transparent}
-nav a[aria-current="page"]{color:var(--fg);border-bottom-color:var(--accent)}
-.draft{background:var(--note);border:1px solid var(--note-line);padding:10px 14px;font-size:14px;border-radius:4px}
-h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,5vw,40px);line-height:1.1;margin:0;text-wrap:balance;letter-spacing:-.015em}
-h2{font-family:var(--display);font-weight:600;font-size:20px;margin:0;text-wrap:balance}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--text);font-size:17px;line-height:1.55;border-top:6px solid var(--accent);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 64px}
+.wrap{max-width:920px;margin:0 auto;display:flex;flex-direction:column;gap:32px}
+a{color:var(--accent);text-underline-offset:2px} a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.top{display:flex;flex-wrap:wrap;gap:8px 24px;align-items:baseline;justify-content:space-between;border-bottom:1px solid var(--fg);padding-bottom:14px}
+.brand{font-family:var(--display);font-weight:600;font-size:28px;letter-spacing:-.01em;color:var(--fg);text-decoration:none}
+nav{display:flex;flex-wrap:wrap;gap:4px 22px;font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase}
+nav a{text-decoration:none;color:var(--muted);padding:2px 0}
+nav a[aria-current="page"]{color:var(--accent)}
+.search{flex:1 1 220px;max-width:340px;font:inherit;font-size:15px;color:var(--fg);background:var(--bg);border:1px solid var(--muted);border-radius:2px;padding:7px 10px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.map{position:relative}
+.map svg{display:block;width:100%;height:auto}
+.map path{stroke:var(--bg);stroke-width:1;cursor:pointer;outline:none}
+.map path:hover,.map path:focus-visible{stroke:var(--fg);stroke-width:2}
+.tip{position:absolute;z-index:2;pointer-events:none;background:var(--bg);border:1px solid var(--fg);padding:10px 12px;font-size:14px;min-width:200px;max-width:280px;display:flex;flex-direction:column;gap:6px}
+.tip[hidden]{display:none}
+.tip strong{font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+.tip .who{display:flex;align-items:center;gap:8px}
+.tip .grade{width:26px;height:26px;font-size:15px}
+.tip .status{margin-left:0}
+.toggle{display:flex;flex-wrap:wrap;gap:0}
+.toggle button{font:inherit;font-size:13px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:7px 14px;cursor:pointer;background:var(--bg);color:var(--muted);border:1px solid var(--muted);border-radius:0}
+.toggle button+button{border-left:0}
+.toggle button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.hist{display:flex;align-items:flex-end;gap:2px;height:220px;max-width:520px;border-bottom:1px solid var(--fg);margin-bottom:26px}
+.hist .col{flex:1;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;position:relative}
+.hist .bar{width:100%;max-width:56px;border-radius:4px 4px 0 0;min-height:1px;border:1px solid var(--muted);border-bottom:0}
+.hist .n{font-size:15px;font-weight:700;font-variant-numeric:tabular-nums}
+.hist .g{position:absolute;bottom:-26px;font-size:13px;font-weight:700;color:var(--muted)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--muted);margin-top:8px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:14px;height:14px;display:inline-block}
+.draft{background:var(--note);padding:10px 14px;font-size:14px}
+h1{font-family:var(--display);font-weight:500;font-size:clamp(32px,5.5vw,48px);line-height:1.08;margin:0;text-wrap:balance;letter-spacing:-.02em}
+h2{font-family:var(--text);font-weight:700;font-size:13px;letter-spacing:.1em;text-transform:uppercase;margin:0;padding-top:14px;border-top:2px solid var(--fg)}
 p{margin:0;max-width:68ch}
-.lede{color:var(--muted);font-size:17px}
-.label{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
-section{display:flex;flex-direction:column;gap:12px}
+.lede{font-family:var(--display);color:var(--muted);font-size:21px;line-height:1.4}
+.label{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+section{display:flex;flex-direction:column;gap:14px}
 .scroll{overflow-x:auto}
-table{border-collapse:collapse;width:100%;min-width:560px;background:var(--surface);border:1px solid var(--line);font-size:15px}
-th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:middle}
-th{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
-tr:last-child td{border-bottom:0}
-td a.name{font-weight:600;text-decoration:none} td a.name:hover{text-decoration:underline}
-.sub{color:var(--muted);font-size:13px;display:block}
-.grade{display:inline-grid;place-items:center;font-family:var(--display);font-weight:800;border-radius:3px;width:34px;height:34px;font-size:19px}
-.grade.big{width:84px;height:84px;font-size:52px}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:16px}
+th,td{text-align:left;padding:12px 10px;border-bottom:1px solid var(--line);vertical-align:middle}
+th{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700;border-bottom:1px solid var(--fg);vertical-align:bottom}
+tbody tr:hover td{background:var(--hover)}
+td a.name{font-family:var(--display);font-size:19px;font-weight:500;color:var(--fg);text-decoration:none;white-space:nowrap} td a.name:hover{color:var(--accent);text-decoration:underline}
+.sub{color:var(--muted);font-size:13.5px;display:block}
+.grade{display:inline-grid;place-items:center;font-family:var(--display);font-weight:600;border-radius:50%;width:36px;height:36px;font-size:20px;line-height:1;flex:none;padding-top:.24em} /* the serif capitals sit high in their line box; this centres them */
+.grade.big{width:92px;height:92px;font-size:54px}
 .gA{background:var(--g5);color:var(--g-ink-dark)} .gB{background:var(--g4);color:var(--g-ink-dark)}
 .gC{background:var(--g3);color:var(--g-ink-dark)} .gD{background:var(--g2);color:var(--g-ink-light)}
-.gF{background:var(--g1);color:var(--g-ink-light)} .gN{background:transparent;color:var(--muted);border:2px dashed var(--line)}
-.pos{display:inline-block;font-family:var(--mono);font-size:12px;padding:3px 8px;border-radius:999px;border:1.5px solid var(--fg);white-space:nowrap}
-.pos.yes{background:var(--fg);color:var(--bg)}
+.gF{background:var(--g1);color:var(--g-ink-light)} .gN{padding-top:0;background:transparent;color:var(--muted);border:1.5px dashed var(--muted)}
+.pos{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:3px 9px;border-radius:2px;border:1.5px solid var(--fg);white-space:nowrap}
+.pos.sm{font-size:10.5px;padding:1px 6px;border-width:1px}
+.idx th.main{color:var(--fg)}
+.idx td:first-child{white-space:nowrap}
+.idx .ack{display:flex;align-items:center;gap:12px;font-size:15px}
+.idx .pol{padding:8px}
+.idx .pol.first{border-left:1px solid var(--line)}
+.pos.yes{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .pos.no{background:transparent;color:var(--fg)}
-.pos.mixed{background:repeating-linear-gradient(135deg,transparent 0 5px,var(--line) 5px 10px);color:var(--fg)}
-.pos.none{border-style:dashed;border-color:var(--muted);color:var(--muted)}
-.head{display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap}
-.head>div{min-width:0;flex:1 1 300px;display:flex;flex-direction:column;gap:6px}
-.sheet{background:var(--surface);border:1px solid var(--line);padding:16px 18px;display:flex;flex-direction:column;gap:10px}
-.flag{border-left:4px solid var(--note-line);background:var(--note);padding:10px 14px;font-size:15px}
+.pos.mixed{border-color:var(--accent);color:var(--accent);background:repeating-linear-gradient(135deg,transparent 0 5px,var(--line) 5px 10px)}
+.pos.none{border-color:transparent;padding-left:0;color:var(--muted);font-weight:400;letter-spacing:0;text-transform:none;font-size:13.5px}
+.pos.sm.none{font-size:12px}
+.head{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+.photo{width:104px;height:128px;object-fit:cover;border-radius:2px;flex:none}
+.head>div{min-width:0;flex:1 1 320px;display:flex;flex-direction:column;gap:8px}
+.head p{font-size:18px}
+.sheet{display:flex;flex-direction:column;gap:0}
+.flag{background:var(--note);padding:10px 14px;font-size:15px}
 .rows{display:flex;flex-direction:column}
-.row{display:grid;grid-template-columns:210px 150px 1fr;gap:6px 14px;padding:12px 0;border-top:1px solid var(--line);align-items:start}
-.row:first-child{border-top:0} .row>*{min-width:0}
-.row .q{font-weight:600} .row .ev{font-size:14px;color:var(--muted)}
+.row{display:grid;grid-template-columns:230px 160px 1fr;gap:6px 16px;padding:13px 0;border-top:1px solid var(--line);align-items:start}
+.row:first-child{border-top:0;padding-top:2px} .row>*{min-width:0}
+.row .q{font-weight:600} .row .ev{font-size:14.5px;color:var(--muted)}
 @media (max-width:640px){.row{grid-template-columns:1fr}}
-.stmt{border-top:1px solid var(--line);padding:14px 0;display:flex;flex-direction:column;gap:6px}
-.stmt:first-child{border-top:0;padding-top:0}
-.meta{display:flex;flex-wrap:wrap;gap:4px 12px;font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
-blockquote{margin:0;font-size:19px;line-height:1.4;font-weight:600;max-width:60ch}
+.stmt{border-top:1px solid var(--line);padding:20px 0;display:flex;flex-direction:column;gap:8px}
+.stmt:first-child{border-top:0;padding-top:2px}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px 14px;font-size:13px;font-weight:600;color:var(--muted);font-variant-numeric:tabular-nums}
+blockquote{margin:0;font-family:var(--display);font-size:23px;line-height:1.35;font-weight:400;max-width:60ch;padding-left:16px;border-left:3px solid var(--accent)}
 blockquote::before{content:"\201C"} blockquote::after{content:"\201D"}
-.ctx{font-size:15px}
-.ver{font-family:var(--mono);font-size:11px;padding:1px 6px;border:1px solid var(--line);border-radius:3px}
+.ctx{font-size:15.5px;color:var(--muted)}
+.ver{font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:1px 6px;border:1px solid var(--line);border-radius:2px;color:var(--muted)}
 .ver.ok{border-color:var(--accent);color:var(--accent)}
+.status{font-family:var(--text);font-size:10.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:2px 7px;border-radius:2px;margin-left:10px;white-space:nowrap;vertical-align:middle;background:var(--fg);color:var(--bg)}
 .ver.warn{border-color:var(--note-line);background:var(--note);color:var(--fg)}
-.src{display:block;margin-top:4px;font-family:var(--mono);font-size:12px}
+.src{display:block;margin-top:4px;font-size:13px}
 ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;max-width:70ch}
-.pager{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:14px}
+.pager{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font-size:14px;font-weight:600;border-top:1px solid var(--fg);padding-top:14px}
+.pager a{text-decoration:none}
 .rubric td:first-child{width:60px}
 footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:12px}
 </style>
@@ -85,6 +120,7 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
 <div class="wrap">
   <header class="top">
     <a class="brand" href="#index">AI Risk Record</a>
+    <input id="q" class="search" type="search" placeholder="Search by name, state or party" aria-label="Search senators" autocomplete="off">
     <nav id="nav" aria-label="Sections"></nav>
   </header>
   <div class="draft"><strong>Prototype for review.</strong> Grades and positions are first-pass drafts by Claude applying the draft rubric. Nothing here has had a second human check. Do not circulate.</div>
@@ -94,149 +130,257 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
 
 <script>
 const RUBRIC = [
- ["A","Explicitly says AI could cause human extinction or permanent loss of human control."],
- ["B","Says advanced AI poses catastrophic risks (mass casualties, bioweapons, loss of control) without the extinction framing."],
- ["C","Acknowledges serious risks from advanced AI in general terms, or relays others' warnings without stating them as their own view."],
- ["D","Discusses only present-day harms (jobs, deepfakes, children, data centers)."],
- ["F","Dismisses or mocks catastrophic risk."],
- ["–","No relevant statement found. Silence is not dismissal."]
+ ["A","Explicitly says AI could cause human extinction or permanent loss of human control.","Explicit: extinction or loss of human control"],
+ ["B","Says advanced AI poses catastrophic risks (mass casualties, bioweapons, loss of control) without the extinction framing.","Catastrophic risk, without extinction framing"],
+ ["C","Acknowledges serious risks from advanced AI in general terms, or relays others' warnings without stating them as their own view.","Serious risk in general terms, or relayed warnings"],
+ ["D","Catastrophic AI risk not acknowledged. Has spoken about AI, but not about catastrophic risk.","Not acknowledged"],
+ ["F","Dismisses or mocks catastrophic risk.","Dismissed"],
+ ["–","No relevant statement found. Silence is not dismissal.","No statement found"]
 ];
 const FIELDS = [
- ["pause","Pause on frontier AI development","A halt to building more capable frontier systems. A pause conditional on other countries joining, or on safety rules being set, is recorded as Mixed."],
- ["slow","Deliberate slowdown","Slowing frontier capability progress for safety reasons. Data center moratoria motivated by electricity cost or local impact do not count."],
- ["intl","International agreement that includes adversaries","A safety agreement or treaty that includes China. Coordinating with allies to out-compete China does not count."]
+ ["slow","Deliberate slowdown","Slowing frontier capability progress for safety reasons. Data center moratoria motivated by electricity cost or local impact do not count.","Slowdown"],
+ ["pause","Pause on frontier AI development","A halt to building more capable frontier systems. A pause conditional on other countries joining, or on safety rules being set, is recorded as Mixed.","Pause"],
+ ["intl","International coordination with China on pacing or pausing","Coordinating with China on the pace of frontier AI development, including a mutual slowdown or pause, through an agreement, treaty or direct talks. Coordinating with allies to out-compete China does not count.","Coordination with China"],
+ ["rsi","Ban on self-improving AI","A ban on AI systems that improve themselves or carry out AI research without human direction, often called recursive self-improvement. A ban on superintelligence alone does not count.","Self-improving AI ban"]
 ];
+const XPOSTS = {}; /*XPOSTS*/
+// records drafted by site/build.py for senators with no hand-written record below
+const XSENATORS = []; /*XSENATORS*/
+// senators-elect and lame-duck senators, by page id; filled in by site/build.py from data/status.csv
+const STATUS = {}; /*STATUS*/
+const STATUS_NAME = {"senator-elect":"Senator-elect", "lame duck":"Lame duck"};
 const POS = {yes:"Yes",no:"No",mixed:"Mixed / conditional",none:"No stated position"};
+const POS_SHORT = {yes:"Yes",no:"No",mixed:"Mixed",none:"Not stated"};
 const S = [
-{id:"sanders",name:"Bernie Sanders",seat:"Independent · Vermont",grade:"A",
- why:"Says in his own words that AI threatens the survival of the human race, and compares the danger with nuclear weapons.",
+{id:"sanders",bioguide:"S000033",name:"Bernie Sanders",seat:"Independent · Vermont",grade:"A",
+ why:"Senator Sanders has acknowledged that AI could threaten human survival. He has said in his own words that AI threatens the survival of the human race, and compares the danger with nuclear weapons.",
  flag:null,
  pos:{pause:["yes","Called for an immediate pause on advanced AI development and wrote to AI chief executives urging one.",[["Press release, 3 Sep 2026","https://www.sanders.senate.gov/?p=102465"],["Letter, 10 Aug 2026 (Axios report)","https://axios.com/2026/08/10/sanders-ai-development-pause"]]],
-      slow:["yes","Said the chief executives' call to slow down was a start but not enough.",[["X post, 12 Sep 2026 (Newsweek report)","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930"]]],
-      intl:["yes","Urged a Trump–Xi treaty; his bill directs the US to seek international agreements against superintelligence.",[["Statement, 11 May 2026","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/"],["X post, 12 Sep 2026 (Newsweek report)","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930"],["Bill, 23 Sep 2026","https://www.wcax.com/2026/09/23/sen-bernie-sanders-unveils-bill-ban-artificial-superintelligence-create-department-ai/?outputType=amp"]]]},
+      slow:["yes","Said the chief executives' call to slow down was a start but not enough.",[["X post, 12 Sep 2026","https://x.com/SenSanders/status/2098847403134611522"]]],
+      intl:["yes","Urged a Trump–Xi treaty; his bill directs the US to seek international agreements against superintelligence.",[["Statement, 11 May 2026","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/"],["X post, 12 Sep 2026","https://x.com/SenSanders/status/2098847403134611522"],["Bill, 23 Sep 2026","https://www.wcax.com/2026/09/23/sen-bernie-sanders-unveils-bill-ban-artificial-superintelligence-create-department-ai/?outputType=amp"]]],
+      rsi:["none","No statement of his own found. His bill bans superintelligence. Semafor reports it would also ban recursive self-improvement, but his office's summary of the bill does not mention it and the bill text has not been read.",[["Bill summary, Sanders office","https://www.sanders.senate.gov/wp-content/uploads/Ban-Artificial-Superintelligence-Act-Release-Summary.pdf"],["Semafor, 23 Sep 2026","https://www.semafor.com/article/09/23/2026/progressive-democrats-push-superintelligence-ban"]]]},
  stmts:[
-  ["15 Sep 2026","CBS News interview","the potential danger of AI, is probably greater than nuclear weapons","Asked whether he equates AI with nuclear weapons. He also defended 20-year prison terms for violating his proposed ban.","CBS News","https://www.cbsnews.com/news/bernie-sanders-interview-ai-nuclear-weapons/",1],
-  ["12 Sep 2026","X post, as reported by Newsweek","Trump and Xi must negotiate a treaty to pause AI and ban superintelligence","Response to AI chief executives calling for a slowdown.","Newsweek","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930",0],
-  ["3 Sep 2026","Press release","to immediately pause the development of increasingly powerful AI","Announcing the Ban Artificial Superintelligence Act, which also bans systems humanity cannot fully control.","Senate press release","https://www.sanders.senate.gov/?p=102465",1],
-  ["11 May 2026","Statement on US-China AI talks","Making progress towards a treaty to ban superintelligence","Listed among the goals he set for the Trump-Xi talks.","Senate press release","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/",1],
-  ["29 Apr 2026","Capitol panel with US and Chinese AI researchers","We have a global crisis dealing with the survival of the human race","Closing remarks. He compared the needed cooperation to past work on nuclear weapons and pandemics.","Broadband Breakfast","https://broadbandbreakfast.com/sanders-convenes-chinese-and-american-computer-scientists-to-warn-of-threat-from-ai.md",1]],
+  ["15 Sep 2026","CBS News interview","the potential danger of AI, is probably greater than nuclear weapons","Asked whether he equates AI with nuclear weapons. He also defended 20-year prison terms for violating his proposed ban.","CBS News","https://www.cbsnews.com/news/bernie-sanders-interview-ai-nuclear-weapons/",1,null,"B"],
+  ["12 Sep 2026","X post, @SenSanders","Trump and Xi must negotiate a treaty to pause AI and ban superintelligence","Response to AI chief executives calling for a slowdown.","Newsweek","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930",1,"https://x.com/SenSanders/status/2098847403134611522","A"],
+  ["3 Sep 2026","Press release","to immediately pause the development of increasingly powerful AI","Announcing the Ban Artificial Superintelligence Act, which also bans systems humanity cannot fully control.","Senate press release","https://www.sanders.senate.gov/?p=102465",1,null,"B"],
+  ["11 May 2026","Statement on US-China AI talks","Making progress towards a treaty to ban superintelligence","Listed among the goals he set for the Trump-Xi talks.","Senate press release","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/",1,null,"C"],
+  ["29 Apr 2026","Capitol panel with US and Chinese AI researchers","We have a global crisis dealing with the survival of the human race","Closing remarks. He compared the needed cooperation to past work on nuclear weapons and pandemics.","Broadband Breakfast","https://broadbandbreakfast.com/sanders-convenes-chinese-and-american-computer-scientists-to-warn-of-threat-from-ai.md",1,null,"A"]],
  record:[
   ["Ban Artificial Superintelligence Act, with Rep. Greg Casar: permanent ban on superintelligence, pause on advanced AI until federal rules exist, new Department of AI.","AP via WCAX, 23 Sep 2026","https://www.wcax.com/2026/09/23/sen-bernie-sanders-unveils-bill-ban-artificial-superintelligence-create-department-ai/?outputType=amp"],
   ["Letter to leading AI chief executives urging a development pause.","Axios, 10 Aug 2026","https://axios.com/2026/08/10/sanders-ai-development-pause"],
   ["Sponsored a moratorium on AI data center construction with Rep. Alexandria Ocasio-Cortez (not counted under Slowdown by definition).","GV Wire, 11 Aug 2026","https://gvwire.com/2026/08/11/sanders-calls-on-ai-companies-to-pause-development-to-avoid-disaster/"]],
  gaps:[]},
-{id:"blumenthal",name:"Richard Blumenthal",seat:"Democrat · Connecticut",grade:"B",
- why:"Says in his own words that the US is close to losing control of AI systems, in the context of rogue agents escaping test environments. He does not use extinction language himself.",
- flag:"Borderline A. He co-signed a letter that calls AI an existential threat. Rule needed: does a co-signed letter count the same as a senator's own words?",
+{id:"blumenthal",bioguide:"B001277",name:"Richard Blumenthal",seat:"Democrat · Connecticut",grade:"A",
+ why:"Senator Blumenthal has acknowledged existential risk from AI by signing a letter. The September 2026 letter from 17 senators says \"the stakes are existential\" and urges an agreement with China to slow frontier AI. In his own words, he has said the US is close to losing control of AI systems.",
+ flag:null,
  pos:{pause:["mixed","Co-signed a letter urging an agreement with China that could include a mutual pause. No call for a unilateral pause found.",[["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]],
       slow:["mixed","Same letter urges a negotiated slowdown. Separately said the US has to remain competitive.",[["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"],["CNBC interview, 16 Sep 2026","https://www.ibtimes.com/democratic-senator-issues-dire-warning-about-ai-we-are-verge-losing-control-3807541"]]],
-      intl:["yes","Co-signed a letter urging direct engagement with President Xi on an AI safety agreement.",[["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]]},
+      intl:["yes","Co-signed a letter urging direct engagement with President Xi on an AI safety agreement.",[["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]],
+      rsi:["none","None found. Only the collected X posts were searched for this."]},
  stmts:[
-  ["23 Sep 2026","Letter to President Trump, co-signed with 16 senators","the stakes are existential, and our response must match the moment","Urges a formal agreement with China to slow frontier AI development, citing Cold War arms control as precedent.","Senate Commerce Committee (PDF)","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",1],
-  ["16 Sep 2026","CNBC interview","right now we're on the verge of losing control completely","Argued for independent review of AI products before release, modeled on drug approval, while saying a balance with competitiveness is needed.","IBTimes report of the CNBC interview","https://www.ibtimes.com/democratic-senator-issues-dire-warning-about-ai-we-are-verge-losing-control-3807541",1],
-  ["9 Sep 2026","Letter to OpenAI chief executive Sam Altman","the need for vigorous, mandatory independent auditing and oversight","On the Hugging Face breach by OpenAI agents. Asks whether OpenAI limited the independent audit.","Senate press release (archived copy)","https://capitolreleases.com/releases/9894a5c7-9ce8-48da-b862-a812fde6791b",1]],
+  ["23 Sep 2026","Letter to President Trump, co-signed with 16 senators","the stakes are existential, and our response must match the moment","Urges a formal agreement with China to slow frontier AI development, citing Cold War arms control as precedent.","Senate Commerce Committee (PDF)","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",1,null,"B"],
+  ["16 Sep 2026","CNBC interview","right now we're on the verge of losing control completely","Argued for independent review of AI products before release, modeled on drug approval, while saying a balance with competitiveness is needed.","IBTimes report of the CNBC interview","https://www.ibtimes.com/democratic-senator-issues-dire-warning-about-ai-we-are-verge-losing-control-3807541",1,null,"B"],
+  ["9 Sep 2026","Letter to OpenAI chief executive Sam Altman","the need for vigorous, mandatory independent auditing and oversight","On the Hugging Face breach by OpenAI agents. Asks whether OpenAI limited the independent audit.","Senate press release (archived copy)","https://capitolreleases.com/releases/9894a5c7-9ce8-48da-b862-a812fde6791b",1,null,"D"]],
  record:[
   ["Artificial Intelligence Risk Evaluation Act, with Sen. Josh Hawley: mandatory pre-deployment evaluation at the Department of Energy, covering loss-of-control scenarios.","Hawley press release, 29 Sep 2025","https://www.hawley.senate.gov/hawley-blumenthal-introduce-bipartisan-ai-evaluation-legislation-to-put-americans-first"]],
  gaps:["No statement found on the Sanders–Casar superintelligence ban."]},
-{id:"hawley",name:"Josh Hawley",seat:"Republican · Missouri",grade:"B",
- why:"Opened a Senate investigation into the existential risk of AI products and co-wrote a bill built around loss-of-control scenarios. In speech he relays expert extinction warnings without endorsing them.",
- flag:"Borderline C. His strongest material is a bill and a letter citing others. Asked directly, he said he does not know whether the existential claims are true. Rule needed: does relaying a warning count as acknowledging it, and does bill text count as a statement?",
+{id:"hawley",bioguide:"H001089",name:"Josh Hawley",seat:"Republican · Missouri",grade:"C",
+ why:"Senator Hawley has not said in his own words that AI poses catastrophic risk. He has relayed experts' extinction warnings without endorsing them, and has opened an investigation and co-written a bill dealing with loss-of-control scenarios.",
+ flag:null,
  pos:{pause:["none","None found."],
       slow:["none","None found. He backs limits on data centers, which the definition excludes."],
-      intl:["none","None found on a safety agreement. His bills are reported to restrict AI collaboration with China.",[["Axios, 30 Jan 2026","https://axios.com/2026/01/30/josh-hawley-anti-ai-strategy"]]]},
+      intl:["none","None found on a safety agreement. His bills are reported to restrict AI collaboration with China.",[["Axios, 30 Jan 2026","https://axios.com/2026/01/30/josh-hawley-anti-ai-strategy"]]],
+      rsi:["none","None found. Only the collected X posts were searched for this."]},
  stmts:[
-  ["30 Sep 2026","Opening statement, Senate hearing on rogue AI","I don't know if that's true or not","On former lab employees calling AI an existential threat to humanity. His focus was holding AI companies liable for harm.","Tech Policy Press transcript","https://techpolicy.press/senate-hearing-on-rogue-ai-securing-the-homeland-against-ai-agent-attacks",1],
-  ["10 Sep 2026","Letter to OpenAI chief executive Sam Altman","more AI experts are warning about the existential risks of AI","Launching an investigation into the Hugging Face breach. The letter cites researchers' estimate of a greater than 10% chance of AI killing all humans.","Senate press release","https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/",1],
-  ["9 Jun 2026","Op-ed in The Free Press","The most dangerous frontier of artificial intelligence is not the boardroom or the battlefield.","He locates the main safety danger in chatbots' effects on children. The op-ed covers jobs, data centers and child safety, not catastrophic risk.","Senate press release","https://www.hawley.senate.gov/hawley-op-ed-ai-will-control-us-if-we-do-not-control-it/",1]],
+  ["30 Sep 2026","Opening statement, Senate hearing on rogue AI","I don't know if that's true or not","On former lab employees calling AI an existential threat to humanity. His focus was holding AI companies liable for harm.","Tech Policy Press transcript","https://techpolicy.press/senate-hearing-on-rogue-ai-securing-the-homeland-against-ai-agent-attacks",1,null,"C"],
+  ["10 Sep 2026","Letter to OpenAI chief executive Sam Altman","more AI experts are warning about the existential risks of AI","Launching an investigation into the Hugging Face breach. The letter cites researchers' estimate of a greater than 10% chance of AI killing all humans.","Senate press release","https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/",1,null,"C"],
+  ["9 Jun 2026","Op-ed in The Free Press","The most dangerous frontier of artificial intelligence is not the boardroom or the battlefield.","He locates the main safety danger in chatbots' effects on children. The op-ed covers jobs, data centers and child safety, not catastrophic risk.","Senate press release","https://www.hawley.senate.gov/hawley-op-ed-ai-will-control-us-if-we-do-not-control-it/",1,null,"D"]],
  record:[
   ["Artificial Intelligence Risk Evaluation Act (S. 2938), with Sen. Richard Blumenthal. The bill text defines loss-of-control scenarios and artificial superintelligence.","Bill text, govinfo.gov","https://www.govinfo.gov/content/pkg/BILLS-119s2938is/xhtml/BILLS-119s2938is.html"],
   ["Opposed efforts to block state AI laws; sponsor of several bills constraining AI companies.","Axios, 30 Jan 2026","https://axios.com/2026/01/30/josh-hawley-anti-ai-strategy"]],
  gaps:["No response found to the September 2026 slowdown and pause proposals."]},
-{id:"cruz",name:"Ted Cruz",seat:"Republican · Texas",grade:"C",
- why:"Called researchers' extinction warnings highly concerning and said he is working on a bill for catastrophic biological and nuclear risks. He frames the risk as secondary to beating China.",
- flag:"Borderline B. He names catastrophic risks as worth legislating on, which meets the B wording. Graded C because he relays the concern and immediately subordinates it. Note that the grade measures acknowledgment only; his positions below are all No or unstated.",
+{id:"cruz",bioguide:"C001098",name:"Ted Cruz",seat:"Republican · Texas",grade:"C",
+ why:"Senator Cruz has acknowledged serious risk from AI, but treats it as secondary to beating China. He called researchers' extinction warnings highly concerning and said he is working on a bill for catastrophic biological and nuclear risks.",
+ flag:null,
  pos:{pause:["no","Argued that China will not stop whatever the US does.",[["The View, 9 Sep 2026","https://www.forbes.com/sites/saradorn/2026/09/09/ted-cruz-says-he-prefers-american-killer-robots-over-chinese-after-ai-extinction-warning/"]]],
       slow:["no","Same appearance; reported as declining to slow the race.",[["The View, 9 Sep 2026","https://cbsaustin.com/news/nation-world/ai-risks-are-getting-harder-for-congress-to-ignore-generative-ai-superintelligence-regulation-openai-anthropic-hacks-hugging-face"]]],
-      intl:["none","None found on an agreement with China. He describes AI as a race the US must win.",[["Summit remarks, 19 Sep 2025","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/"]]]},
+      intl:["no","Describes AI as a race the US must win, and argued that China will not stop whatever the US does.",[["The View, 9 Sep 2026","https://www.forbes.com/sites/saradorn/2026/09/09/ted-cruz-says-he-prefers-american-killer-robots-over-chinese-after-ai-extinction-warning/"],["Summit remarks, 19 Sep 2025","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/"]]],
+      rsi:["none","None found. Only the collected X posts were searched for this."]},
  stmts:[
-  ["9 Sep 2026","ABC's The View","I'd rather they be American killer robots than Chinese killer robots","Asked about an Anthropic researcher's extinction warning. He called it highly concerning and cited a bill in progress on catastrophic risks.","Forbes","https://www.forbes.com/sites/saradorn/2026/09/09/ted-cruz-says-he-prefers-american-killer-robots-over-chinese-after-ai-extinction-warning/",1],
-  ["9 Sep 2026","ABC's The View","whatever we do here, China is not going to stop","Same appearance, on why regulation is difficult.","The National News Desk via CBS Austin","https://cbsaustin.com/news/nation-world/ai-risks-are-getting-harder-for-congress-to-ignore-generative-ai-superintelligence-regulation-openai-anthropic-hacks-hugging-face",1],
-  ["9 Sep 2026","X post, as embedded by BizPac Review","We need guardrails. But America needs to lead.","Posted the day of the researcher's warning.","Embedded in a BizPac Review article","https://www.bizpacreview.com/2026/09/12/anthropic-ceo-urges-industry-to-pace-itself-following-string-of-runaway-close-call-incidents-1658730/",0],
-  ["19 Sep 2025","Axios and Politico AI summits","AI is coming whether you like it or not.","Presenting his light-touch framework. On mitigating AI dangers he cited the Take It Down Act on deepfake images.","Senate Commerce Committee release","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/",1]],
+  ["9 Sep 2026","ABC's The View","I'd rather they be American killer robots than Chinese killer robots","Asked about an Anthropic researcher's extinction warning. He called it highly concerning and cited a bill in progress on catastrophic risks.","Forbes","https://www.forbes.com/sites/saradorn/2026/09/09/ted-cruz-says-he-prefers-american-killer-robots-over-chinese-after-ai-extinction-warning/",1,null,"C"],
+  ["9 Sep 2026","ABC's The View","whatever we do here, China is not going to stop","Same appearance, on why regulation is difficult.","The National News Desk via CBS Austin","https://cbsaustin.com/news/nation-world/ai-risks-are-getting-harder-for-congress-to-ignore-generative-ai-superintelligence-regulation-openai-anthropic-hacks-hugging-face",1,null,"D"],
+  ["19 Sep 2025","Axios and Politico AI summits","AI is coming whether you like it or not.","Presenting his light-touch framework. On mitigating AI dangers he cited the Take It Down Act on deepfake images.","Senate Commerce Committee release","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/",1,null,"D"]],
  record:[
   ["Reported to have objected on 29 Sep 2026 to unanimous passage of the Artificial Intelligence Risk Management and Security Act, which would create a pre-release safety board review.","Implicator, 30 Sep 2026","https://www.implicator.ai/cruz-blocks-ai-bill-requiring-45-day-model-access-as-trump-backs-voluntary-accord/"],
   ["SANDBOX Act: lets AI developers seek waivers from federal regulations.","Senate Commerce Committee release","https://www.commerce.senate.gov/press/rep/release/we-must-do-both-commerce-chairman-ted-cruz-talks-ai-acceleration-risk-management-at-axios-and-politico-summits/"]],
  gaps:["The catastrophic-risk bill with Sens. Klobuchar and Thune was not located; its text would matter for this record."]},
-{id:"slotkin",name:"Elissa Slotkin",seat:"Democrat · Michigan",grade:"C",
- why:"Treats AI in nuclear and lethal military decisions as a serious risk requiring human control and rigorous testing. No statement found on loss of control or extinction.",
- flag:"Borderline D, and possibly stale. Her most detailed AI statements predate the September 2026 debate, and searches found nothing from her on it. This record needs a deeper search before any grade is published.",
+{id:"slotkin",bioguide:"S001208",name:"Elissa Slotkin",seat:"Democrat · Michigan",grade:"D",
+ why:"Senator Slotkin has not acknowledged catastrophic risk from AI. Her statements on AI are about keeping human control over its use in lethal military and nuclear decisions.",
+ flag:"Possibly out of date. Her most detailed AI statements predate the September 2026 debate, and searches found nothing from her on it. This record needs a deeper search.",
  pos:{pause:["none","None found."],
       slow:["none","None found. She has called for a Manhattan Project-style effort to win the AI race with China.",[["Speech, 5 Sep 2025","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities"]]],
-      intl:["none","None found. She proposed technology alliances among allies against Chinese coercion, which the definition excludes. Her name is not among the 17 signatories of a letter urging an agreement with China.",[["Speech, 5 Sep 2025","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities"],["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]]},
+      intl:["none","None found. She proposed technology alliances among allies against Chinese coercion, which the definition excludes. Her name is not among the 17 signatories of a letter urging an agreement with China.",[["Speech, 5 Sep 2025","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities"],["Letter, 23 Sep 2026","https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]],
+      rsi:["none","None found. Only the collected X posts were searched for this."]},
  stmts:[
-  ["12 Jun 2026","ChinaTalk podcast","A human being must be the decision maker","On rules for military and veterans' benefits uses of AI. She said Congress should be discussing AI every day.","ChinaTalk transcript","https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",1],
-  ["17 Mar 2026","Press release, AI Guardrails Act","Congress is behind in putting left and right limits on the use of AI","Bill limits Pentagon use of AI in lethal force, domestic surveillance and nuclear weapons.","Senate press release","https://www.slotkin.senate.gov/?p=2567",0],
-  ["5 Sep 2025","Speech, Council on Foreign Relations","We need to get our ass in gear on the tech arms race","Called winning on AI the most important part of the technology race with China.","Senate press release","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities",1]],
+  ["12 Jun 2026","ChinaTalk podcast","A human being must be the decision maker","On rules for military and veterans' benefits uses of AI. She said Congress should be discussing AI every day.","ChinaTalk transcript","https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",1,null,"D"],
+  ["17 Mar 2026","Press release, AI Guardrails Act","Congress is behind in putting left and right limits on the use of AI","Bill limits Pentagon use of AI in lethal force, domestic surveillance and nuclear weapons.","Senate press release","https://www.slotkin.senate.gov/?p=2567",0,null,"D"],
+  ["5 Sep 2025","Speech, Council on Foreign Relations","We need to get our ass in gear on the tech arms race","Called winning on AI the most important part of the technology race with China.","Senate press release","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities",1,null,"D"]],
  record:[
   ["AI Guardrails Act provisions adopted in the Senate defense authorization markup, per her account.","ChinaTalk, 12 Jun 2026","https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and"],
   ["Reported to have joined Sens. Warren, Schumer and Kim on a measure restricting foreign AI capabilities.","Axios, 23 Sep 2026","https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation"]],
  gaps:["No statement found on superintelligence, loss of control, a pause, or a slowdown."]}
 ];
 
+S.push(...XSENATORS);
+// Alphabetical by last name. Last names of more than one word are listed here.
+const SURNAMES = ["Blunt Rochester", "Cortez Masto", "Van Hollen"];
+const surname = s => SURNAMES.find(n => s.name.endsWith(n)) || s.name.split(" ").pop();
+S.sort((a, b) => surname(a).localeCompare(surname(b)) || a.name.localeCompare(b.name));
+
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const gcls = g => "g" + (g === "–" ? "N" : g);
 const ext = (label, url) => `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(label)}</a>`;
-const TIERS = {official:"official record", transcript:"transcript", major:"major outlet", other:"other outlet"};
+const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+// "15 Sep 2026" -> "2026-09-15", for sorting
+const isoDate = d => { const [day, mon, year] = d.split(" "); return `${year}-${String(MONTHS.indexOf(mon) + 1).padStart(2, "0")}-${day.padStart(2, "0")}`; };
+const TIERS = {post:"original post", official:"official record", transcript:"transcript", major:"major outlet", other:"other outlet"};
 function tier(url){
   const h = new URL(url).hostname.replace(/^www\./, "");
-  const k = /(^|\.)senate\.gov$|govinfo\.gov$/.test(h) ? "official"
+  const k = h === "x.com" ? "post"
+    : /(^|\.)senate\.gov$|govinfo\.gov$/.test(h) ? "official"
     : /techpolicy\.press$|chinatalk\.media$/.test(h) ? "transcript"
     : /cbsnews\.com$|axios\.com$|newsweek\.com$|forbes\.com$|wcax\.com$/.test(h) ? "major" : "other";
   return [k === "other" ? "warn" : "ok", TIERS[k]];
 }
+const elect = s => (STATUS[s.id] || {}).kind === "senator-elect";
+const lame = s => (STATUS[s.id] || {}).kind === "lame duck";
+// Which Senate the map and the chart show: the current one, or the one seated on 3 January 2027.
+let senate = "current";
+const inSenate = s => senate === "current" ? !elect(s) : !lame(s);
+const stateOf = s => s.seat.split(" · ")[1];
+const STATE_PATHS = {}; /*STATE_PATHS*/
+const GRADE_COLOR = {A:"var(--g5)", B:"var(--g4)", C:"var(--g3)", D:"var(--g2)", F:"var(--g1)"};
+const NO_GRADE = "var(--line)";
+let query = "";  // text in the search box
+
+// People matching the search box. A state's full name matches that state only (so "Virginia" leaves out West Virginia).
+function matches(s){
+  const q = query.trim().toLowerCase();
+  if (!q) return true;
+  if (Object.keys(STATE_PATHS).some(n => n.toLowerCase() === q)) return stateOf(s).toLowerCase() === q;
+  const text = `${s.name} ${s.seat} ${STATUS[s.id] ? STATUS_NAME[STATUS[s.id].kind] : ""} grade ${s.grade}`.toLowerCase();
+  return q.split(/\s+/).every(w => text.includes(w));
+}
+
+// Map of the states. Each state is split in two colours, one per senator's grade, for the chosen Senate.
+function viewMap(){
+  const defs = [], shapes = [];
+  Object.keys(STATE_PATHS).forEach((name, n) => {
+    const sitting = S.filter(s => stateOf(s) === name && inSenate(s));
+    const fill = k => sitting[k] ? GRADE_COLOR[sitting[k].grade] || NO_GRADE : NO_GRADE;
+    defs.push(`<linearGradient id="st${n}"><stop offset="50%" style="stop-color:${fill(0)}"/><stop offset="50%" style="stop-color:${fill(1)}"/></linearGradient>`);
+    shapes.push(`<path d="${STATE_PATHS[name]}" fill="url(#st${n})" data-state="${esc(name)}" tabindex="0" role="button" aria-label="${esc(name)}: ${esc(sitting.map(s => `${s.name}, grade ${s.grade}`).join("; ") || "no records yet")}"/>`);
+  });
+  return `<div class="map"><svg viewBox="-60 0 1020 610" role="group" aria-label="Map of the United States coloured by senators' grades"><defs>${defs.join("")}</defs>${shapes.join("")}</svg>
+    <div class="tip" id="tip" hidden></div>
+    <div class="legend">${Object.keys(GRADE_COLOR).map(g => `<span><i style="background:${GRADE_COLOR[g]}"></i>${g}</span>`).join("")}<span><i style="background:${NO_GRADE}"></i>No statement found</span><span>Each state shows its two senators${senate === "current" ? "" : " from 3 January 2027"}. Hover for names; click to list everyone from that state.</span></div></div>`;
+}
+function tipFor(name){
+  const people = S.filter(s => stateOf(s) === name && inSenate(s));
+  const missing = 2 - people.length;
+  return `<strong>${esc(name)}</strong>${people.map(s => `<span class="who"><span class="grade ${gcls(s.grade)}">${s.grade}</span><span>${esc(s.name)}${STATUS[s.id] ? ` <span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}</span></span>`).join("")}${missing > 0 ? `<span class="sub">${missing === 2 ? "Senators" : "One senator"} not yet drafted</span>` : ""}`;
+}
+const toggle = () => `<div class="toggle" role="group" aria-label="Which Senate to show">${[["current", "Current Senate"], ["next", "Next Senate, from 3 January 2027"]]
+  .map(t => `<button type="button" data-senate="${t[0]}" aria-pressed="${senate === t[0]}">${t[1]}</button>`).join("")}</div>`;
+// Bar chart: how many senators of the chosen Senate hold each grade.
+function viewHist(){
+  const people = S.filter(inSenate), count = g => people.filter(s => s.grade === g).length;
+  const top = Math.max(...RUBRIC.map(r => count(r[0])));
+  return `<h2>Senators at each grade, ${senate === "current" ? "current Senate" : "next Senate (from 3 January 2027)"}</h2>
+    <div class="hist" role="img" aria-label="${esc(RUBRIC.map(r => `${count(r[0])} at ${r[0] === "–" ? "no statement found" : "grade " + r[0]}`).join(", "))}">${RUBRIC.map(r => `<div class="col" title="${count(r[0])} of ${people.length}: ${esc(r[2])}">
+      <span class="n">${count(r[0])}</span><span class="bar" style="height:${count(r[0]) / top * 100}%;background:${GRADE_COLOR[r[0]] || NO_GRADE}"></span><span class="g">${r[0] === "–" ? "None" : r[0]}</span></div>`).join("")}</div>
+    <p class="sub">Number of senators out of ${people.length}. "None" means no relevant statement was found. Grades are machine-drafted unless a record says otherwise.</p>`;
+}
 const chip = k => `<span class="pos ${k}">${POS[k]}</span>`;
 
 function viewIndex(){
-  const rows = S.map(s => `<tr>
-    <td><span class="grade ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span></td>
-    <td><a class="name" href="#${s.id}">${esc(s.name)}</a><span class="sub">${esc(s.seat)}</span></td>
-    ${FIELDS.map(f => `<td>${chip(s.pos[f[0]][0])}</td>`).join("")}</tr>`).join("");
-  return `<section><span class="label">US Senate · 5 of 100 records drafted</span>
+  const shown = S.filter(matches);
+  const rows = shown.map(s => `<tr>
+    <td><a class="name" href="#${s.id}">${esc(s.name)}</a>${STATUS[s.id] ? `<span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}<span class="sub">${esc(s.seat)}</span></td>
+    <td><div class="ack"><span class="grade ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span><span>${esc(RUBRIC.find(r => r[0] === s.grade)[2])}</span></div></td>
+    ${FIELDS.map((f, n) => `<td class="pol${n ? "" : " first"}"><span class="pos sm ${s.pos[f[0]][0]}">${POS_SHORT[s.pos[f[0]][0]]}</span></td>`).join("")}</tr>`).join("");
+  return `<section><span class="label">US Senate · ${S.filter(s => !elect(s)).length} of 100 sitting senators and ${S.filter(elect).length} senators-elect drafted</span>
     <h1>What senators have said about catastrophic risk from AI</h1>
-    <p class="lede">Each record gives a grade for how explicitly the senator acknowledges catastrophic or existential risk, their stated position on three policies, and the dated statements behind both.</p></section>
-  <section><div class="scroll"><table>
-    <thead><tr><th>Grade</th><th>Senator</th><th>Pause</th><th>Slowdown</th><th>Agreement incl. China</th></tr></thead>
+    <p class="lede">Each record gives a grade for how explicitly the senator acknowledges catastrophic or existential risk, their stated position on four policies, and the dated statements behind both.</p></section>
+  ${query.trim() ? "" : `<section>${toggle()}${viewMap()}</section><section>${viewHist()}</section>`}
+  <section>${query.trim() ? `<p class="sub">Showing ${shown.length} of ${S.length} for "${esc(query.trim())}". <a href="#index" id="clear">Clear search</a></p>` : ""}<div class="scroll"><table class="idx">
+    <thead><tr><th rowspan="2">Senator or senator-elect</th><th rowspan="2" class="main">Acknowledgment of catastrophic AI risk</th><th colspan="${FIELDS.length}" class="pol first">Stated policy positions</th></tr>
+      <tr>${FIELDS.map((f, n) => `<th class="pol${n ? "" : " first"}">${esc(f[3])}</th>`).join("")}</tr></thead>
     <tbody>${rows}</tbody></table></div>
-    <p class="sub">The grade measures acknowledgment, not policy. A senator can acknowledge the risk and oppose every measure listed.</p></section>
+    <p class="sub">The grade measures acknowledgment of the risk, not policy. A senator can acknowledge the risk and oppose every measure listed.</p>
+    <p class="sub">"Senator-elect" marks winners of the 3 November 2026 elections who take office on 3 January 2027. "Lame duck" marks sitting senators who will not be in the Senate after that date.</p></section>
   <section><h2>What this sample shows</h2><ul>
-    <li>Three of five grades are borderline. The rubric needs rules for relayed warnings, co-signed letters and bill text. See <a href="#methodology">Methodology</a>.</li>
-    <li>Six of fifteen position cells are "No stated position", even for senators chosen because they speak about AI often.</li>
-    <li>Almost all useful evidence dates from September 2026. Records built from earlier statements may already be out of date.</li></ul></section>`;
+    <li>${S.flatMap(s => Object.values(s.pos)).filter(p => p[0] === "none").length} of ${S.length * FIELDS.length} position cells are "No stated position".</li></ul></section>`;
+}
+
+const MAX_STATEMENTS = 5;
+const RANK = {A:0, F:0, B:1, C:2, D:3};  // A and F are the two most explicit ends of the scale
+const words = q => new Set(q.toLowerCase().match(/[a-z']+/g) || []);
+const overlap = (a, b) => { const A = words(a), B = words(b); let n = 0; A.forEach(w => { if (B.has(w)) n++; }); return n / (A.size + B.size - n || 1); };
+
+// Every candidate statement for a senator: those collected by hand, plus posts from X.
+function candidates(s){
+  const own = s.stmts.map(t => ({iso: isoDate(t[0]), date: t[0], where: t[1], quote: t[2], ctx: t[3], level: t[8], x: /^X post/.test(t[1]),
+    sources: [[t[4], t[5]]].concat(t[7] ? [["Post on X", t[7]]] : []), checked: t[6] === 1 ? "read at source" : t[6] || "search excerpt only", ok: t[6] === 1}));
+  const posts = ((XPOSTS[s.id] || {}).posts || []).map(p => ({iso: p.iso, date: p.date, where: "X post, @" + p.handle, quote: p.quote, ctx: p.reason,
+    level: p.level, borderline: p.borderline, x: true, sources: [["Post on X", p.url]], checked: "chosen by a language model", ok: 0}));
+  return own.concat(posts);
+}
+
+// Pick the statements to show. Highest rubric level first. Among statements at the same level,
+// prefer the one least like those already picked (wording, month, kind of source), then the
+// newest. Near-repeats of a picked quote are skipped.
+function statements(s){
+  let pool = candidates(s);
+  const picked = [];
+  while (picked.length < MAX_STATEMENTS && pool.length) {
+    const best = Math.min(...pool.map(c => RANK[c.level]));
+    const cost = c => (c.borderline ? 0.5 : 0) + picked.reduce((sum, p) =>
+      sum + 4 * overlap(c.quote, p.quote) + (c.iso.slice(0, 7) === p.iso.slice(0, 7) ? 2 : 0) + (c.x === p.x ? 1 : 0), 0);
+    const next = pool.filter(c => RANK[c.level] === best)
+      .sort((a, b) => cost(a) - cost(b) || b.iso.localeCompare(a.iso))[0];
+    picked.push(next);
+    pool = pool.filter(c => c !== next && overlap(c.quote, next.quote) <= 0.6);
+  }
+  return picked.sort((a, b) => b.iso.localeCompare(a.iso));
 }
 
 function viewSenator(s){
-  const i = S.indexOf(s), prev = S[i-1], next = S[i+1];
+  const i = S.indexOf(s), prev = S[i-1], next = S[i+1], x = XPOSTS[s.id], st = STATUS[s.id];
   const crit = RUBRIC.find(r => r[0] === s.grade)[1];
   return `<section><span class="label">${esc(s.seat)}</span>
-    <div class="head"><span class="grade big ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span>
-      <div><h1>${esc(s.name)}</h1><p><strong>Grade ${s.grade}:</strong> ${esc(crit)}</p><p>${esc(s.why)}</p></div></div>
+    <div class="head"><img class="photo" src="img/${s.bioguide}.jpg" alt="Official portrait of ${esc(s.name)}" onerror="this.remove()"><span class="grade big ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span>
+      <div><h1>${esc(s.name)}${st ? `<span class="status">${STATUS_NAME[st.kind]}</span>` : ""}</h1>${st ? `<p class="sub">${esc(st.note)} ${st.url ? ext(st.label, st.url) : ""}</p>` : ""}<p><strong>Grade ${s.grade}.</strong> ${esc(s.why)}</p></div></div>
     ${s.flag ? `<div class="flag"><strong>For review.</strong> ${esc(s.flag)}</div>` : ""}</section>
   <section><h2>Stated positions</h2><div class="sheet"><div class="rows">
-    ${FIELDS.map(f => `<div class="row"><div class="q">${esc(f[1])}</div><div>${chip(s.pos[f[0]][0])}</div><div class="ev">${esc(s.pos[f[0]][1])}${(s.pos[f[0]][2]||[]).length ? ` <span class="src">${s.pos[f[0]][2].map(x => ext(x[0], x[1])).join(" · ")}</span>` : ""}</div></div>`).join("")}
+    ${FIELDS.map(f => `<div class="row"><div class="q">${esc(f[1])}</div><div>${chip(s.pos[f[0]][0])}</div><div class="ev">${s.pos[f[0]][0] === "none" ? "" : `${esc(s.pos[f[0]][1])}${(s.pos[f[0]][2]||[]).length ? ` <span class="src">${s.pos[f[0]][2].map(x => ext(x[0], x[1])).join(" · ")}</span>` : ""}`}</div></div>`).join("")}
   </div></div></section>
-  <section><h2>Statements</h2><div class="sheet">
-    ${s.stmts.map(t => `<div class="stmt"><div class="meta"><span>${esc(t[0])}</span><span>${esc(t[1])}</span>
-      <span class="ver ${t[6] ? "ok" : ""}">${t[6] ? "read at source" : "search excerpt only"}</span></div>
-      <blockquote>${esc(t[2])}</blockquote><p class="ctx">${esc(t[3])}</p><p class="sub">Source: ${ext(t[4], t[5])} <span class="ver ${tier(t[5])[0]}">${tier(t[5])[1]}</span></p></div>`).join("")}
+  <section><h2>Statements</h2>
+    ${candidates(s).length ? "" : `<p>No statements about AI risk have been found yet.</p>`}
+    <div class="sheet">
+    ${statements(s).map(t => `<div class="stmt"><div class="meta"><span>${esc(t.date)}</span><span>${esc(t.where)}</span>
+      <span class="ver ${t.ok ? "ok" : ""}">${t.checked}</span></div>
+      <blockquote>${esc(t.quote)}</blockquote><p class="ctx">${esc(t.ctx)}</p><p class="sub">Source: ${t.sources.map(x => `${ext(x[0], x[1])} <span class="ver ${tier(x[1])[0]}">${tier(x[1])[1]}</span>`).join(" · ")}</p></div>`).join("")}
   </div></section>
-  <section><h2>Bills and actions</h2><ul>${s.record.map(r => `<li>${esc(r[0])} <span class="sub">${ext(r[1], r[2])}</span></li>`).join("")}</ul></section>
+  ${s.record.length ? `<section><h2>Bills and actions</h2><ul>${s.record.map(r => `<li>${esc(r[0])} <span class="sub">${ext(r[1], r[2])}</span></li>`).join("")}</ul></section>` : ""}
   ${s.gaps.length ? `<section><h2>Not found</h2><ul>${s.gaps.map(g => `<li>${esc(g)}</li>`).join("")}</ul></section>` : ""}
   <div class="pager"><span>${prev ? `<a href="#${prev.id}">← ${esc(prev.name)}</a>` : ""}</span><span>${next ? `<a href="#${next.id}">${esc(next.name)} →</a>` : `<a href="#methodology">Methodology →</a>`}</span></div>`;
 }
 
 function viewMethod(){
-  return `<section><span class="label">Draft v0.1</span><h1>Methodology</h1>
-    <p class="lede">The grade records how explicitly a politician acknowledges catastrophic risk from advanced AI. It does not rate whether their policies are good.</p></section>
+  return `<section><span class="label">Draft v0.2</span><h1>Methodology</h1>
+    <p class="lede">The grade records how explicitly a politician acknowledges catastrophic risk from advanced AI. It does not rate whether their policies are good.</p>
+    <p>This record tracks one thing: what politicians have said about catastrophic risk from AI. Other consequences of AI, such as job loss, economic disruption, the impact of data centers and concentration of power, are real and important. They are outside the scope of this record, and a grade says nothing about a politician's record on them.</p></section>
   <section><h2>Grade rubric</h2><div class="scroll"><table class="rubric"><tbody>
     ${RUBRIC.map(r => `<tr><td><span class="grade ${gcls(r[0])}">${r[0]}</span></td><td>${esc(r[1])}</td></tr>`).join("")}
   </tbody></table></div>
@@ -246,32 +390,69 @@ function viewMethod(){
   </div>
     <p>Values: ${Object.keys(POS).map(chip).join(" ")}</p>
     <p class="sub">"No" requires a statement against the policy. Silence is always "No stated position".</p></div></section>
-  <section><h2>Open questions from the first five records</h2><ul>
-    <li><strong>Relayed warnings.</strong> Hawley and Cruz cite experts' extinction warnings without endorsing them. This draft treats relaying as C-level and adds that wording to the rubric. Hawley is still B because of his bill and investigation, which is inconsistent until the next question is settled.</li>
-    <li><strong>Bill text and actions.</strong> Should a bill that defines loss-of-control scenarios count as a statement by its sponsor? If not, Hawley drops to C.</li>
-    <li><strong>Co-signed letters.</strong> Blumenthal's strongest language is in a 17-senator letter. Full weight would make him an A, and would give the same evidence to all 17 signatories.</li>
-    <li><strong>The B/C boundary.</strong> Cruz names catastrophic biological and nuclear risks while dismissing a slowdown. The rubric as written arguably gives him a B.</li>
-    <li><strong>Staleness.</strong> Decide how old a statement can be before a record is marked out of date. Slotkin's record rests on statements from before September 2026.</li>
-    <li><strong>Quote length.</strong> Quotes here are kept under 15 words with one per source. Short excerpts lose context, so each has a paraphrase and a link.</li></ul></section>
+  <section><h2>How statements are collected and chosen</h2>
+    <p>Statements come from two places: posts on the politician's X accounts from ${esc((Object.values(XPOSTS)[0] || {since: "1 January 2025"}).since)} onward that match AI-related keywords (${Object.values(XPOSTS).reduce((n, x) => n + x.total, 0)} posts so far), and a web search of news reports and official records such as press releases, letters, bills, speeches and interviews. A language model reads each one and labels it against the rubric.</p>
+    <p>Each page shows at most ${MAX_STATEMENTS} statements: those that most explicitly address catastrophic risk, chosen for variety of wording, date and source, newest first. Statements that do not address catastrophic risk are shown only when nothing stronger was found. For records not yet reviewed by a person, the grade is the highest level any statement reached.</p></section>
+  <section><h2>Rulings from the first five records</h2><ul>
+    <li><strong>Relayed warnings.</strong> Citing someone else's warning without endorsing it is C. A warning the politician endorses in their own words counts as their own statement.</li>
+    <li><strong>Bills and actions.</strong> Sponsoring a bill or opening an investigation about catastrophic risk does not by itself earn a B. A statement in the politician's own words is needed.</li>
+    <li><strong>Co-signed letters.</strong> A co-signed letter counts as the signer's statement, graded on the letter's own wording.</li>
+    <li><strong>Threat to humanity.</strong> Saying AI threatens the future of humanity or the human race is A, even without the word extinction.</li>
+    <li><strong>Military use.</strong> Calls for human control of autonomous weapons or nuclear launch are about military use of AI, not catastrophic risk from AI itself.</li>
+    <li><strong>Recent statements.</strong> Statements from 2026 count for much more than statements from 2025.</li>
+    <li><strong>Rogue AI.</strong> Statements about AI agents escaping or hacking are graded by the harm they name. Cybercrime alone is not catastrophic risk.</li></ul></section>
+  <section><h2>Still open</h2><ul>
+    <li><strong>Staleness.</strong> Decide how old a statement can be before a record is marked out of date.</li>
+    <li><strong>Quote length.</strong> Short excerpts lose context, so each has a paraphrase and a link. A quote policy is not yet set.</li></ul></section>
   <section><h2>Source policy</h2><ul>
     <li><strong>Official record:</strong> senate.gov releases, letters, bill text, hearing video. Preferred for every quote.</li>
     <li><strong>Transcript:</strong> a full transcript published by the outlet that ran the interview or covered the hearing.</li>
     <li><strong>Major outlet:</strong> national news organizations. Acceptable for interviews they conducted. For X posts they are a stand-in until the post itself is linked.</li>
     <li><strong>Other outlet:</strong> trade press, aggregators, local affiliates, partisan sites. Usable as a lead only. Each must be replaced by a higher tier or the quote dropped before publication.</li></ul>
-    <p class="sub">In this draft ${S.flatMap(s => s.stmts).filter(t => tier(t[5])[0] === "warn").length} of ${S.flatMap(s => s.stmts).length} quotes rest on an "other outlet" source, and ${S.flatMap(s => s.stmts).filter(t => t[1].startsWith("X post")).length} X posts are cited through news reports.</p></section>
-  <section><h2>Verification</h2><p>"Read at source" means the linked page was opened and the wording checked there. "Search excerpt only" means the wording was seen in a search result and still needs checking. X posts are not linked directly because the drafting agent cannot open X; each is labelled with the outlet that reported it until the post link is added. The Senate hearing transcript was read in part. Every quote needs an independent human check before publication.</p></section>`;
+    <p class="sub">In this draft ${S.flatMap(s => s.stmts).filter(t => tier(t[5])[0] === "warn").length} of ${S.flatMap(s => s.stmts).length} hand-collected quotes rest on an "other outlet" source.</p></section>
+  <section><h2>Verification</h2><p>"Read at source" means the linked page was opened and the wording checked there. "Search excerpt only" means the wording was seen in a search result and still needs checking. The Senate hearing transcript was read in part. Every quote needs an independent human check before publication.</p>
+    <p>X posts were collected through the X API and link to the post itself. Those marked "chosen by a language model" were selected and described by a model reading the post text only, without attached video, images or links.</p>
+    <p>Portraits are official congressional photographs from the public-domain unitedstates/images collection.</p></section>`;
 }
 
-let current = (location.hash || "#index").slice(1);
-function render(){
+// The address after "#", with accented letters decoded (so "#luj%C3%A1n" finds "luján").
+const fromHash = () => { const h = (location.hash || "#index").slice(1); try { return decodeURIComponent(h); } catch (err) { return h; } };
+let current = fromHash();
+function render(keepScroll){
   const id = current;
   const s = S.find(x => x.id === id);
   document.getElementById("view").innerHTML = `<div class="wrap" style="gap:28px">${s ? viewSenator(s) : id === "methodology" ? viewMethod() : viewIndex()}</div>`;
   const cur = s ? "index" : (id === "methodology" ? id : "index");
   document.getElementById("nav").innerHTML = [["index","Senators"],["methodology","Methodology"]]
     .map(n => `<a href="#${n[0]}"${n[0] === cur ? ' aria-current="page"' : ""}>${n[1]}</a>`).join("");
-  window.scrollTo(0, 0);
+  if (!keepScroll) window.scrollTo(0, 0);
 }
+// Search box: typing filters the table on the index page (and goes there from any other page).
+// While there is search text the map and chart are hidden, so the results are at the top.
+const box = document.getElementById("q");
+function search(text){ query = text; box.value = text; current = "index"; render(); }
+box.addEventListener("input", () => search(box.value));
+// Map: hover or focus shows a state's senators; click lists them in the table.
+const stateAt = e => e.target.closest && e.target.closest("path[data-state]");
+function showTip(e){
+  const tip = document.getElementById("tip"), p = stateAt(e);
+  if (!tip) return;
+  if (!p) { tip.hidden = true; return; }
+  tip.innerHTML = tipFor(p.dataset.state); tip.hidden = false;
+  const area = tip.parentNode.getBoundingClientRect(), r = p.getBoundingClientRect();
+  const x = (e.clientX || r.left + r.width / 2) - area.left, y = (e.clientY || r.top + r.height / 2) - area.top;
+  tip.style.left = Math.max(0, Math.min(x + 14, area.width - tip.offsetWidth)) + "px";
+  tip.style.top = (y + 18 + tip.offsetHeight > area.height + 60 ? y - tip.offsetHeight - 12 : y + 18) + "px";
+}
+document.addEventListener("pointermove", showTip);
+document.addEventListener("focusin", showTip);
+document.addEventListener("keydown", e => { if (e.key === "Enter" && stateAt(e)) search(stateAt(e).dataset.state); });
+document.addEventListener("click", e => {
+  const b = e.target.closest && e.target.closest("button[data-senate]");
+  if (b) { senate = b.dataset.senate; render(true); const again = document.querySelector(`button[data-senate="${senate}"]`); if (again) again.focus(); }
+  else if (stateAt(e)) search(stateAt(e).dataset.state);
+  else if (e.target.id === "clear") query = box.value = "";
+});
 // Navigate from clicks directly, so views switch even where the host does not pass hash changes through.
 document.addEventListener("click", e => {
   const a = e.target.closest && e.target.closest('a[href^="#"]');
@@ -281,6 +462,6 @@ document.addEventListener("click", e => {
   render();
   try { history.replaceState(null, "", "#" + current); } catch (err) { try { location.hash = current; } catch (err2) {} }
 });
-window.addEventListener("hashchange", () => { const h = (location.hash || "#index").slice(1); if (h !== current) { current = h; render(); } });
+window.addEventListener("hashchange", () => { const h = fromHash(); if (h !== current) { current = h; render(); } });
 render();
 </script>

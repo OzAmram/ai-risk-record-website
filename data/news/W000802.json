@@ -1,0 +1,53 @@
+{
+  "bioguide": "W000802",
+  "member": "Sen. Sheldon Whitehouse (Democrat, Rhode Island)",
+  "searches": [
+    "Whitehouse artificial intelligence (restricted to whitehouse.senate.gov)",
+    "Sen. Sheldon Whitehouse superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+    "Sheldon Whitehouse AI \"extinction\" OR \"existential risk\" OR \"existential threat\" artificial intelligence 2025 2026",
+    "Sheldon Whitehouse AI pause OR slowdown OR moratorium artificial intelligence development",
+    "Sheldon Whitehouse AI China agreement OR treaty OR talks artificial intelligence guardrails",
+    "\"Sheldon Whitehouse\" \"AI safety\"",
+    "Senator Whitehouse AI risk statement 2026 \"Whitehouse\" artificial intelligence \"catastrophic\" OR \"bioweapons\" OR \"loss of control\" OR \"guardrails\""
+  ],
+  "statements": [
+    {
+      "date": "2026-03-11",
+      "venue": "Letter from Senate Democrats to Defense Secretary Hegseth, published in a Senate press release",
+      "quote": "These concerns are compounded by the reported use of artificial intelligence tools to select and prioritize targets in Iran.",
+      "context": "A letter led by Reed and co-signed by Whitehouse asked the Defense Department about a strike on an Iranian school and whether AI tools were used to choose targets.",
+      "source_label": "Whitehouse Senate press release",
+      "url": "https://www.whitehouse.senate.gov/news/release/as-trump-tries-to-avoid-accountability-for-iranian-school-bombing-reed-whitehouse-press-dod-for-answers-on-tragic-mistake-and-efforts-to-prevent-civilian-casualties-in-iran/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter", "bill_or_action"],
+      "reason": "This is about military use of AI in targeting (ruling 3) and names no catastrophic consequence from AI itself."
+    },
+    {
+      "date": "2026-01-29",
+      "venue": "Letter from six New England senators to the regional grid operator ISO New England, published in a Senate press release",
+      "quote": "As the ones who stand to benefit most, the multi-billion-dollar AI industry should be responsible for these costs.",
+      "context": "A letter from Reed, Whitehouse and four other senators asked how residential customers will be protected from electricity price increases caused by data centers.",
+      "source_label": "Whitehouse Senate press release",
+      "url": "https://www.whitehouse.senate.gov/news/release/reed-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health-environmental-costs-for-consumers/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter", "bill_or_action"],
+      "reason": "This is about data center electricity costs (ruling 5), not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement for or against slowing frontier AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement for or against a pause was found; no source shows him co-sponsoring the Ban Artificial Superintelligence Act.", "sources": []},
+    "intl": {"value": "none", "note": "He is not among the 17 signers of the 23 September 2026 letter urging AI talks with China, and no other statement on an agreement with China was found.", "sources": [["Van Hollen Senate press release listing the signers, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement on a ban on self-improving AI was found.", "sources": []}
+  },
+  "record": [
+    ["Co-signed a letter from Senate Democrats asking the Defense Department whether AI tools were used to select targets in Iran and what human verification exists.", "Whitehouse Senate press release, 11 March 2026", "https://www.whitehouse.senate.gov/news/release/as-trump-tries-to-avoid-accountability-for-iranian-school-bombing-reed-whitehouse-press-dod-for-answers-on-tragic-mistake-and-efforts-to-prevent-civilian-casualties-in-iran/"],
+    ["Co-signed a letter with five other New England senators asking ISO New England how it will protect residential customers from data center electricity costs.", "Whitehouse Senate press release, 29 January 2026", "https://www.whitehouse.senate.gov/news/release/reed-whitehouse-seek-answers-about-how-new-regional-data-centers-could-drive-up-energy-health-environmental-costs-for-consumers/"],
+    ["Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).", "Van Hollen Senate press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related material found since January 2025 is two co-signed letters, one on military use of AI in targeting and one on data center electricity costs. Nothing found acknowledges catastrophic risk from AI, and nothing dismisses it.",
+  "notes": "Seven web searches ran, none refused. No statement by Whitehouse on superintelligence, extinction, loss of control, bioweapons, AI safety, a pause or a China agreement was found; absence in search results is not proof that none exists, and hearing remarks (he sits on the Judiciary Committee) and floor speeches were not searched transcript by transcript. Ban Artificial Superintelligence Act: no source found shows him as a co-sponsor; search results named no Senate co-sponsors at all, and Congress.gov was not checked, so this is 'not shown' rather than confirmed absent. Both quotes are from letters he co-signed, not his personal words. The two press release pages were opened through a page-fetch tool that returns text via a summarising model; I asked it twice for the exact sentences and the wording matched, but a reviewer should confirm the quotes character for character on the pages. The Iran letter sentence appears in the release's introduction ending in a comma and in the letter text ending in a full stop; the letter version is used. The fetch tool listed 46 signer names for the Iran letter while the release says 44; not resolved. A December 2024 letter on fast-tracking AI data centers is outside the date range and was left out. Older hearing transcripts from 2023-2024 that list him as a committee member were not used."
+}

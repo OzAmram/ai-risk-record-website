@@ -1,0 +1,95 @@
+{
+ "bioguide": "W000437",
+ "member": "Roger Wicker",
+ "searches": [
+  "Roger Wicker artificial intelligence statement 2026",
+  "Wicker artificial intelligence (restricted to wicker.senate.gov)",
+  "Senator Roger Wicker superintelligence",
+  "Roger Wicker AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+  "Roger Wicker AI moratorium OR pause OR slowdown",
+  "Wicker AI China agreement OR treaty OR talks senators letter September 2026",
+  "\"Wicker\" \"AI safety\" senator",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+  "Wicker NDAA fiscal 2027 artificial general intelligence OR \"frontier AI\" OR \"AI risk\" Armed Services chairman said (NOT RUN: session search limit reached)"
+ ],
+ "statements": [
+  {
+   "date": "2025-05-19",
+   "venue": "Weekly column published as a press release on his Senate site",
+   "quote": "Simply put, if we do not win the AI race, China will – directly threatening our national security.",
+   "context": "A column arguing the United States must stay ahead of China in AI and regulate it lightly.",
+   "source_label": "Senate press release",
+   "url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "The threat named is China winning the AI race, which the rubric treats as competition with China, not catastrophic risk from AI itself."
+  },
+  {
+   "date": "2025-05-19",
+   "venue": "Weekly column published as a press release on his Senate site",
+   "quote": "Any government regulations on AI must begin with a “light touch” so that innovators can experiment, prototype, and compete.",
+   "context": "The same column, setting out his view of how government should regulate AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.wicker.senate.gov/2025/5/wicker-helping-maintain-america-s-ai-edge",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Opposing heavy regulation is not a dismissal of catastrophic risk, and the column names only privacy, jobs and deepfakes as concerns."
+  },
+  {
+   "date": "2026-10-05",
+   "venue": "Weekly column published as a press release on his Senate site",
+   "quote": "America must beat China in the artificial intelligence race, and we can do so without letting data centers harm our communities.",
+   "context": "A column on data centers, electricity bills and the Ratepayer Protection Act.",
+   "source_label": "Senate press release",
+   "url": "https://www.wicker.senate.gov/2026/10/05/wicker-touts-data-center-benefits/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About the AI race with China and local effects of data centers, with no mention of catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development for safety reasons. His calls for 'light touch' regulation and winning the AI race do not address a slowdown directly.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause on frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on an agreement or talks with China about the pace of AI development. No source shows him signing the 23 September 2026 letter, which news reports describe as from 17 Democratic senators.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on a ban on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed a letter with Sen. Pete Ricketts and colleagues urging the Commerce Department to withdraw and replace the Biden administration's AI Diffusion Rule on chip exports.",
+   "Senate press release, April 2025",
+   "https://www.wicker.senate.gov/2025/4/wicker-colleagues-send-letter-calling-for-reform-to-biden-ai-diffusion-rule"
+  ],
+  [
+   "Introduced, with Sen. Peter Welch and Rep. Harriet Hageman, a bill to set up a task force studying AI speech-to-text tools in federal courts.",
+   "Rep. Hageman press release, March 2026",
+   "https://hageman.house.gov/media/press-releases/rep-hageman-introduces-bipartisan-bill-sens-wicker-welch-examine-use-ai-speech"
+  ],
+  [
+   "As Armed Services chairman, agreed to include Sen. Tom Cotton's chip-tracking bill in the managers' amendment to the fiscal 2027 defense authorization bill, according to Roll Call.",
+   "Roll Call, 23 September 2026",
+   "https://rollcall.com/2026/09/23/ai-export-controls-debate-rages-as-trump-xi-meet/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only substantial remarks on AI since January 2025 are two weekly columns about beating China in the AI race, light regulation and data centers. Neither mentions catastrophic risk, and nothing found dismisses it.",
+ "notes": "Only 8 of the intended searches ran; a ninth (on the defense bill and advanced AI) was blocked by the session search limit, so hearing remarks and floor speeches as Armed Services chairman were not searched specifically. The three quotes were checked by script as exact substrings of the live Senate pages. The May 2025 column also says \"In the U.S. Senate, my colleagues and I are working to balance the risks and rewards of AI.\" but the risks it names are privacy, jobs and deepfakes, so it stays at D. 23 September 2026 China letter: reports (KMPH/Sinclair, Morung Express) describe 17 Democratic senators led by Chris Van Hollen; I did not find the full signer list, and nothing shows Wicker signed. Ban Artificial Superintelligence Act: sources name only Sen. Sanders and House Democrats; I did not check congress.gov, and nothing shows Wicker co-sponsored. Left out as not his words: a Yahoo/NBC report of 19 November 2025 says he 'declined to comment' on putting a moratorium on state AI laws into the defense bill. The Hageman press release and the April 2025 letter release were seen in search results only, not opened; the Roll Call article was opened through a summarising fetch tool. A search summary claimed he co-sponsored the Cantwell-Young Future of AI Innovation Act and the 2023 AI Research, Innovation, and Accountability Act; both predate 2025 and were not verified, so they are not in the record. March 2026 date for the courts bill comes from a search summary (19 March 2026), not verified at source."
+}

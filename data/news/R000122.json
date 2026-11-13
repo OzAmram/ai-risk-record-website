@@ -1,0 +1,113 @@
+{
+ "bioguide": "R000122",
+ "member": "Sen. Jack Reed (D-RI)",
+ "searches": [
+  "Jack Reed artificial intelligence (restricted to reed.senate.gov)",
+  "Senator Jack Reed superintelligence",
+  "Senator Jack Reed AI \"extinction\" OR \"existential risk\"",
+  "Senator Jack Reed AI pause OR slowdown OR moratorium",
+  "Senator Jack Reed AI China agreement OR treaty OR talks",
+  "\"Jack Reed\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-14",
+   "venue": "Press release (statement responding to President Trump)",
+   "quote": "We have a responsibility to ensure AI is used for the public good. That means smart, balanced guardrails and laws that are essential to protecting people, our economy, and humanity itself.",
+   "context": "Reed's statement responding to President Trump's Truth Social post rejecting guardrails on AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.reed.senate.gov/news/releases/as-trump-dismisses-need-for-ai-guardrails-reed-calls-them-essential-for-safety-economy-and-humanity",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says guardrails on AI are essential to protecting humanity itself, which implies a threat to humanity without stating one outright, so it sits between A (ruling 1) and C; graded C because no harm is named."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release (statement responding to President Trump)",
+   "quote": "The AI industry itself is warning that the technology may be evolving at an unsafe pace. Elected officials should heed that warning and responsibly develop solutions to ensure the interests of the American people are protected.",
+   "context": "Reed's statement responding to President Trump's Truth Social post rejecting guardrails on AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.reed.senate.gov/news/releases/as-trump-dismisses-need-for-ai-guardrails-reed-calls-them-essential-for-safety-economy-and-humanity",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "Relays and endorses the AI industry's warning that the technology may be evolving at an unsafe pace, a serious but general risk with no catastrophic harm named."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release (statement responding to President Trump)",
+   "quote": "Adding some brakes and speed limits to AI development does not have to mean losing pace with the Chinese. That excuse is both a failure of imagination and a failure of leadership and misunderstands the nature of the AI race itself.",
+   "context": "Reed's statement responding to President Trump's Truth Social post rejecting guardrails on AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.reed.senate.gov/news/releases/as-trump-dismisses-need-for-ai-guardrails-reed-calls-them-essential-for-safety-economy-and-humanity",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Endorses brakes and speed limits on AI development for safety reasons, which acknowledges serious risk in general terms but names no harm; borderline with D and mainly evidence for the slowdown position."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "In his 14 September 2026 statement Reed said adding \"some brakes and speed limits to AI development\" need not mean losing pace with China, and urged heeding industry warnings of an unsafe pace; this is a general endorsement in a statement, not a bill or a specific proposal, so a reviewer may prefer \"mixed\".",
+   "sources": [
+    [
+     "Senate press release, 14 September 2026",
+     "https://www.reed.senate.gov/news/releases/as-trump-dismisses-need-for-ai-guardrails-reed-calls-them-essential-for-safety-economy-and-humanity"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a halt to frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter urging AI talks with China. In June 2026 he called for formal international norms for military and civilian AI, but that is not about coordinating the pace of development with China.",
+   "sources": [
+    [
+     "Senate press release, 8 June 2026",
+     "https://www.reed.senate.gov/news/releases/coons-reed-introduce-bill-to-require-human-safeguards-around-use-of-artificial-intelligence-in-defense"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Sen. Coons, the Responsible Artificial Intelligence Defense Act, requiring human control of AI-enabled autonomous military systems and barring AI in nuclear decision making and mass domestic surveillance (military use, level D under ruling 3).",
+   "Senate press release, 8 June 2026",
+   "https://www.reed.senate.gov/news/releases/coons-reed-introduce-bill-to-require-human-safeguards-around-use-of-artificial-intelligence-in-defense"
+  ],
+  [
+   "His office's June 2026 release recalls that in 2024 he and a bipartisan group unveiled a framework for federal oversight of frontier AI models to mitigate extreme risks from biological, chemical, cyber and nuclear threats (before the 1 January 2025 window).",
+   "Senate press release, 8 June 2026",
+   "https://www.reed.senate.gov/news/releases/coons-reed-introduce-bill-to-require-human-safeguards-around-use-of-artificial-intelligence-in-defense"
+  ],
+  [
+   "Joined colleagues in a statement criticising the administration's decision to allow sales of advanced NVIDIA AI chips to China (competition with China, level D).",
+   "Senate press release, 10 December 2025",
+   "https://www.reed.senate.gov/news/releases/reed-and-congressional-colleagues-warn-trumps-u-turn-on-ai-chip-sales-to-china-is-a-colossal-economic-and-national-security-failure"
+  ],
+  [
+   "Told Semafor he would work to keep a federal moratorium on state AI laws out of the annual defense bill.",
+   "Semafor, 19 November 2025",
+   "https://www.semafor.com/article/11/19/2025/democrats-fighting-to-preserve-states-ability-to-regulate-ai"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His 14 September 2026 statement says AI guardrails are essential to protecting \"humanity itself\" and endorses industry warnings of an unsafe pace, but names no catastrophic harm. A reviewer could reasonably raise the first quote to A under ruling 1 (threat to humanity).",
+ "notes": "Six web searches ran, none refused. All three quotes were checked by a script to appear character for character in the downloaded press release page (curly apostrophes and quotation marks as on the page); each paragraph of the statement opens with a quotation mark on the page, which is not included in the quotes. Key judgment for the reviewer: whether \"essential to protecting people, our economy, and humanity itself\" counts as saying AI threatens humanity (A) or is general (C). The phrase \"rogue artificial intelligence\" in that release is the office's description of Trump's post, not Reed's words, so it was not quoted. Not a signer of the 23 September 2026 China letter (per the verified list). No source found showing he co-sponsored the Ban Artificial Superintelligence Act; I did not check the bill's co-sponsor list on congress.gov. The 2024 extreme-risk framework and the December 2024 Preserving American Dominance in AI Act (with Romney, Moran, King, Hassan) fall before the window; I did not check whether the bill was reintroduced in 2025 or later. Left out as level D: his June 2026 military AI quote, the chip export statement (I saw only a truncated version of his individual quote), the Semafor remarks on state AI laws, a floor speech remark on jobs lost to AI, an October 2026 release on AI-enabled price discrimination, and a September 2026 release with Warner and Coons seeking an investigation into faulty AI-assisted intelligence (seen only in a search summary, page not opened). Pages on the 10 December 2025 release and Semafor were read through a summarising fetch tool, not in full."
+}

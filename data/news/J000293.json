@@ -1,0 +1,63 @@
+{
+  "bioguide": "J000293",
+  "member": "Sen. Ron Johnson (Republican, Wisconsin)",
+  "searches": [
+    "Ron Johnson artificial intelligence (restricted to ronjohnson.senate.gov)",
+    "Senator Ron Johnson superintelligence AI",
+    "Senator Ron Johnson AI extinction OR \"existential risk\" OR \"existential threat\"",
+    "Senator Ron Johnson AI pause OR slowdown OR moratorium",
+    "Senator Ron Johnson AI China agreement OR treaty OR talks",
+    "\"Ron Johnson\" \"AI safety\" senator Wisconsin"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-31",
+      "venue": "Breitbart News Fight Club Roundtable (interview)",
+      "quote": "You need responsible people making sure that we have basic laws so that generalized intelligence doesn’t destroy the human race",
+      "context": "Asked about AI data centers and the race with China, Johnson said he does not trust AI company leaders to set safeguards and that this is a case where he does want government to act.",
+      "source_label": "Breitbart News, 1 September 2026",
+      "url": "https://www.breitbart.com/politics/2026/09/01/exclusive-sen-ron-johnson-says-chinese-propaganda-fueling-data-center-opposition-do-we-really-want-to-lose-the-race-to-ai/",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [],
+      "reason": "He says in his own words that generalized AI could destroy the human race unless there are laws, which is a threat to humanity (ruling 1)."
+    },
+    {
+      "date": "2026-08-31",
+      "venue": "Breitbart News Fight Club Roundtable (interview)",
+      "quote": "I’m concerned about out-of-control AI. Who is going to provide general intelligence the rules, so they don’t destroy the human race?",
+      "context": "After saying he is not much worried about AI replacing jobs, Johnson described what does worry him about AI.",
+      "source_label": "Breitbart News, 1 September 2026",
+      "url": "https://www.breitbart.com/politics/2026/09/01/exclusive-sen-ron-johnson-says-chinese-propaganda-fueling-data-center-opposition-do-we-really-want-to-lose-the-race-to-ai/",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [],
+      "reason": "He names out-of-control AI destroying the human race as his concern (ruling 1)."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Comment to a Raw Story reporter in the Capitol",
+      "quote": "There's fear-mongering. I'm not buying it",
+      "context": "Raw Story asked Republican senators about warnings from AI company insiders that AI could destroy the human race; Johnson said the companies want regulations written to their benefit.",
+      "source_label": "Raw Story, 23 September 2026",
+      "url": "https://www.rawstory.com/ai-trump-warning/",
+      "read_at_source": true,
+      "level": "F",
+      "flags": ["boundary", "unsure"],
+      "reason": "The article presents this as his response to industry warnings of human extinction, which he calls fear-mongering; but the reporter's question is not printed, so he may have been dismissing the companies' motives rather than the risk itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement for or against slowing frontier AI progress for safety reasons was found. On 31 August 2026 he argued against 'handicapping' the US in the AI race, but that was about opposition to data centers, not about slowing AI capability.", "sources": [["Breitbart News, 1 September 2026", "https://www.breitbart.com/politics/2026/09/01/exclusive-sen-ron-johnson-says-chinese-propaganda-fueling-data-center-opposition-do-we-really-want-to-lose-the-race-to-ai/"]]},
+    "pause": {"value": "none", "note": "No statement for or against a halt to building more capable AI systems was found. (A widely reported September 2026 remark against a 'moratorium on the development of AI' was by House Speaker Mike Johnson, not Ron Johnson.)", "sources": []},
+    "intl": {"value": "none", "note": "He is not among the signers of the 23 September 2026 letter urging AI talks with China (list verified by the project). No statement for or against an agreement with China was found; his remarks on China are about winning the AI race.", "sources": [["Van Hollen press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["As chairman of the Permanent Subcommittee on Investigations, Johnson with Senators Blumenthal and Hawley opened an investigation into Meta over its alleged work to censor for, and provide artificial intelligence tools including surveillance software to, the Chinese Communist Party. This concerns China and surveillance, not catastrophic risk from AI (rubric ruling 5), and the press release contains no quote from Johnson that mentions AI.", "Senate press release, 2025-04-03", "https://www.ronjohnson.senate.gov/2025/04/03/2025-4-sens-johnson-blumenthal-hawley-open-investigation-into-meta-for-alleged-collaboration-with-ccp/"],
+    ["Fox News reports that Johnson, with Senators Hawley and Blackburn, 'banded together to block' the 2025 proposal for a federal moratorium on state AI laws (removed from the budget bill in July 2025). This is about whether states may regulate AI, not about pausing AI development, so it does not bear on the positions above.", "Fox News, 2025-12-06", "https://www.foxnews.com/politics/state-level-ai-rules-survive-now-senate-sinks-moratorium-despite-white-house-pressure"]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "In a Breitbart roundtable on 31 August 2026 Johnson twice said, in his own words, that he worries about out-of-control or generalized AI destroying the human race and wants basic laws to prevent it. About three weeks later he told Raw Story that AI industry warnings are 'fear-mongering' he is 'not buying', so his record is mixed and a reviewer should weigh the two.",
+  "notes": "Six web searches ran this time (listed in 'searches'); none was refused. Pages opened and read: the Breitbart article of 1 September 2026, the Raw Story article of 23 September 2026, the Fox News article of 6 December 2025 and the Roll Call article of 15 September 2026. All three quotes were checked character for character against the downloaded page text. CONFLICTING STATEMENTS: the A-level Breitbart quotes and the F-level Raw Story quote are both his; the brief's rule makes the suggested grade A, but the later dismissal should be shown alongside. The Raw Story remark has no stated date, so the article's publication date (2026-09-23) is used; the same article also quotes him: 'They want to preempt a predatory capture by having regulations written to their benefit and exclusion of potential competition. I'm highly skeptical', and says in paraphrase (left out of statements) that he likens AI fears to those raised around COVID and climate change. The Breitbart article is a write-up of a roundtable with no transcript or video of this segment on the page, so the quotes rest on Breitbart's transcription. NAME CONFUSION: many September 2026 results about 'Johnson' rejecting AI guardrails, calling warnings overstated and opposing a 'moratorium on the development of AI' (Roll Call, Courthouse News, Public Citizen) are House Speaker Mike Johnson; I opened the Roll Call article and it does not mention Ron Johnson. Left out as level D (not about catastrophic risk): Fox News, 6 December 2025, where he called AI regulation an 'enormously complex problem', doubted Congress would get it right and said 'the real experts on this have got vested interests'; and an Axios article of 1 October 2026 which I could not open (access refused), where the search result showed him saying he had little confidence Congress would craft the right solution and that 'what we need to do is preserve competition' (not read at source). Could not open: the Wisconsin Examiner article of 1 July 2025 on the state-law moratorium vote (access refused), so his individual vote on the 99-1 amendment is not verified here. Ban Artificial Superintelligence Act: no search result showed Johnson as a co-sponsor, and no dedicated search or congress.gov check was made, so there is no source either way. 23 September 2026 China letter: not a signer per the verified list. From the earlier run (kept): his official site's own search showed no AI item from 2025 or later other than the Meta investigation; this run's site-restricted web search agreed."
+}

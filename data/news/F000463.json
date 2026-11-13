@@ -1,0 +1,80 @@
+{
+ "bioguide": "F000463",
+ "member": "Sen. Deb Fischer (Republican, Nebraska)",
+ "searches": [
+  "Deb Fischer artificial intelligence (restricted to fischer.senate.gov)",
+  "Senator Deb Fischer superintelligence AI",
+  "Deb Fischer AI \"existential\" OR \"extinction\" risk senator Nebraska",
+  "Deb Fischer AI moratorium OR pause OR slowdown artificial intelligence 2025 2026",
+  "Deb Fischer China AI agreement OR treaty OR talks artificial intelligence",
+  "\"Deb Fischer\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-10-02",
+   "venue": "Weekly column on senator's official site",
+   "quote": "The possibilities enabled by AI are positive. We can analyze X-rays, measure distances on a battlefield, and calculate projections with greater speed than ever before. But as with any technological advancement, there are other impacts that must be considered.",
+   "context": "A column explaining AI and data centers to constituents and defending her support for a bill on who pays for data center electricity infrastructure.",
+   "source_label": "Fischer weekly column",
+   "url": "https://www.fischer.senate.gov/newsroom/weekly-column/protecting-nebraskans-while-encouraging-innovation/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "The 'other impacts' she goes on to name are electricity bills near data centers, not catastrophic risk from AI."
+  },
+  {
+   "date": "2026-07-30",
+   "venue": "Opening remarks as prepared, Senate Commerce Subcommittee on Telecommunications and Media hearing",
+   "quote": "This hearing is not intended to be a referendum on the merits of artificial intelligence.",
+   "context": "She chaired a hearing on how AI affects communications networks and framed it around network capacity, economic benefit and competition with other countries.",
+   "source_label": "Senate Commerce Committee press release",
+   "url": "https://www.commerce.senate.gov/press/rep/release/fischer-leads-hearing-on-ai-in-communications-networks/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "The remarks are about networks and AI leadership and do not acknowledge catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Says she cosponsored and voted for the Ratepayer Protection Act (data centers to pay for new electrical infrastructure), which failed to reach 60 votes in the Senate; about electricity costs, not AI risk.",
+   "Fischer weekly column, 2026-10-02",
+   "https://www.fischer.senate.gov/newsroom/weekly-column/protecting-nebraskans-while-encouraging-innovation/"
+  ],
+  [
+   "Chaired the hearing 'Intelligent Networks: Powering Artificial Intelligence and Transforming Communications'.",
+   "Senate Commerce Committee press release, 2026-07-30",
+   "https://www.commerce.senate.gov/press/rep/release/fischer-leads-hearing-on-ai-in-communications-networks/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her statements on AI since January 2025 that I could read are about networks, economic benefits, competition and data center electricity costs. None acknowledges catastrophic risk from AI, and none dismisses it.",
+ "notes": "Six web searches ran, all succeeded; none returned a Fischer statement on superintelligence, extinction, a pause, or a China agreement. Both quoted pages were downloaded and the quotes checked character for character against the page text. No source found showing she co-sponsored the Ban Artificial Superintelligence Act (reported sponsors are Sanders and Casar); I did not check the cosponsor list on Congress.gov. Not opened, so left out: an August 2025 column 'Revving Nebraska's Economic Engine by Investing in AI' (search summary says it promotes AI for jobs and precision agriculture; the old link redirected to an unrelated page) and April 2026 remarks at the Center for Strategic and International Studies about AI for countering drone swarms (same link problem; military use, would be D). The Ratepayer Protection Act cosponsorship and vote are her own claim in the column, not checked against the Senate record. Only the first page of her weekly columns and press releases was scanned directly."
+}

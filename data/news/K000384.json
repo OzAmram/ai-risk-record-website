@@ -1,0 +1,126 @@
+{
+ "bioguide": "K000384",
+ "member": "Tim Kaine",
+ "searches": [
+  "Tim Kaine artificial intelligence site:kaine.senate.gov",
+  "Senator Tim Kaine superintelligence",
+  "Tim Kaine AI \"extinction\" OR \"existential risk\" senator",
+  "Tim Kaine AI pause OR slowdown OR moratorium",
+  "senators letter AI talks with China September 23 2026 17 senators Kaine",
+  "\"Kaine\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors",
+  "\"Kaine says\" talks underway on AI regulation",
+  "Kaine \"doomsdayers\" AI Fox News Digital \"China's going to eat our lunch\"",
+  "\"Kaine\" \"wild, wild west\" AI kill switch senators New York Sun"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "develop a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+   "context": "The senators asked the President to raise AI safety directly with Xi Jinping at the summit planned for 24 September 2026, including by working with China on such an agreement.",
+   "source_label": "Letter PDF, Senate Commerce Committee website",
+   "url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter Kaine signed says frontier AI development could enable bioweapons and other activities that threaten humanity as a whole, which is level A under ruling 1."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "The letter compares AI talks with China to nuclear arms control between the United States and the Soviet Union, calling AI a technology that poses an existential threat.",
+   "source_label": "Letter PDF, Senate Commerce Committee website",
+   "url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter calls the stakes of advanced AI existential, in a paragraph likening it to nuclear weapons."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "The letter cites a July 2026 call by over 1,300 employees of frontier AI companies and, two sentences later, says \"We should take these warnings seriously.\"",
+   "source_label": "Letter PDF, Senate Commerce Committee website",
+   "url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "The letter relays experts' warning of loss of control and endorses it, without saying the loss would be permanent, so B rather than A."
+  },
+  {
+   "date": "2026-09-20",
+   "venue": "Remarks to Fox News Digital",
+   "quote": "I do think we don't need to be just complete doomsdayers about it.",
+   "context": "Kaine was reacting to President Trump calling warnings about AI danger a hoax; just before this he said \"I don't think President Trump really knows what he's talking about.\"",
+   "source_label": "Fox News Digital, republished by WFMD",
+   "url": "https://www.wfmd.com/?p=82301",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary",
+    "unsure"
+   ],
+   "reason": "His only own-words remark found on AI danger neither names a catastrophic risk nor dismisses one; he rejects both Trump's dismissal and full doom."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "Signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development; no statement in his own words was found.",
+   "sources": [
+    [
+     "Letter to President Trump, 23 Sep 2026 (Senate Commerce Committee PDF)",
+     "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter he signed says the agreement with China would \"potentially enact a mutual pause\", so the pause is conditional on China and only a possibility.",
+   "sources": [
+    [
+     "Letter to President Trump, 23 Sep 2026 (Senate Commerce Committee PDF)",
+     "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "Signed the 23 September 2026 letter urging direct talks and a formal agreement with China to slow, and potentially mutually pause, frontier AI development.",
+   "sources": [
+    [
+     "Letter to President Trump, 23 Sep 2026 (Senate Commerce Committee PDF)",
+     "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "The letter mentions that automation of AI research may speed up progress but does not call for banning it; no other statement found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Democratic senators, led by Sen. Van Hollen, urging President Trump to negotiate an AI safety agreement with China (his signature is on page 3 of the PDF).",
+   "Senate Commerce Committee letter PDF, 23 September 2026",
+   "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only level A and B evidence is the co-signed 23 September 2026 letter, which says frontier AI could threaten \"humanity writ large\" and that \"the stakes are existential\". In his own words he was found only saying we should not be \"complete doomsdayers\" (level D).",
+ "notes": "Web search budget ran out after 10 searches, so some planned follow-ups were not run; in particular there was no dedicated search on a China treaty beyond the letter search, and the kaine.senate.gov restricted search returned no AI pages from his own site. Ban Artificial Superintelligence Act: no source found showing Kaine as a co-sponsor (search results named only Sanders, Casar and House members; congress.gov not checked), so nothing is recorded. The letter PDF was opened and read in full; quotes were copied from the PDF text, where line breaks were replaced by spaces. The Fox News quote was read through a page-summarising tool on the WFMD republication (article dated 20 September 2026, titled \"WATCH: AI safety scare sparks Cap Hill fight over guardrails: 'China's going to eat our lunch'\"); the exact date he spoke is unknown, the article date is used, the apostrophe style may differ from the page, and the original foxnews.com link was not found. A reviewer should check the wording against the page. Left out, not opened (HTTP 429): a New York Sun article (about 16-17 September 2026) on Sen. Kennedy's AI kill switch bill, which per a secondary summary (theoutpost.ai) quotes Kaine criticising Republicans for wanting a \"kind of unregulated wild, wild west\" and comparing AI rules to restaurant smoking bans; this would be level D. https://www.nysun.com/article/this-republican-senator-wants-ai-labs-to-create-their-own-kill-switch-but-his-colleagues-say-not-so-fast Unverified: a third-party site (techjacksolutions.com, HTTP 403) says kaine.senate.gov lists a 17 September 2026 item titled \"Kaine says Washington, D.C., talks underway on AI regulation\"; I could not find or open it. A 30 July 2025 joint statement with Sen. Warner on advanced AI chip sales to China is about competition with China (level D) and was left out."
+}

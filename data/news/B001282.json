@@ -1,0 +1,36 @@
+{
+  "bioguide": "B001282",
+  "member": "Andy Barr",
+  "searches": [
+    "NOT RUN (web search budget exhausted): Andy Barr superintelligence AI",
+    "NOT RUN (web search budget exhausted): \"Andy Barr\" \"AI safety\"",
+    "NOT RUN (web search budget exhausted): site:barr.house.gov \"Barr\" artificial intelligence",
+    "NOT RUN (web search budget exhausted): \"Andy Barr\" AI extinction OR \"existential risk\" OR \"existential threat\"",
+    "NOT RUN (web search budget exhausted): \"Andy Barr\" AI pause OR moratorium OR slowdown",
+    "NOT RUN (web search budget exhausted): \"Andy Barr\" AI China agreement OR treaty OR talks artificial intelligence",
+    "NOT RUN (web search budget exhausted): \"Ban Artificial Superintelligence Act\" cosponsors",
+    "NOT RUN (web search budget exhausted): 17 senators letter AI talks with China September 23 2026 signers",
+    "Direct page, opened: barr.house.gov/press-releases pages 1 to 15 (all press release titles from 3 January 2025 to 10 November 2026, titles only)",
+    "Direct page, opened: barrforsenate.com home page and barrforsenate.com/issues",
+    "Direct page, opened: api.congress.gov member B001282 sponsored legislation (first 100 items) and cosponsored legislation (first 250 items plus part of the next 250), scanned by bill title",
+    "Direct page, opened: govinfo.gov text of H.R. 5927 (119th Congress)",
+    "Direct page, opened: en.wikipedia.org/wiki/Andy_Barr (first 100,000 characters)",
+    "Direct page, opened but no relevant results: lex18.com search 'Barr artificial intelligence'; wuky.org search 'Barr artificial intelligence'; wkyt.com and lpm.org search pages (returned no results list)",
+    "Direct page, refused (HTTP 403 or blocked): barr.house.gov/search, congress.gov member page, kentuckylantern.com search, govtrack.us member page, financialservices.house.gov search, kentucky.com search"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development. His own bill (H.R. 5927) would speed up approval of AI data centers and their power supply, but that is not a statement against a safety-motivated slowdown.", "sources": [["H.R. 5927 text, govinfo.gov", "https://www.govinfo.gov/content/pkg/BILLS-119hr5927ih/html/BILLS-119hr5927ih.htm"]]},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development. As a House member he could not sign the 23 September 2026 senators' letter, and no source seen shows any involvement.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Sponsored H.R. 5927, the Securing Reliable Power for Advanced Technologies Act, which would amend the Defense Production Act to fast-track 'critical artificial intelligence infrastructure' (data centers of at least 50 megawatts and the power plants, transmission and fuel supply serving them); referred to House Financial Services.", "Bill text on govinfo.gov, introduced 7 November 2025", "https://www.govinfo.gov/content/pkg/BILLS-119hr5927ih/html/BILLS-119hr5927ih.htm"],
+    ["Co-sponsored H.R. 3447, the Chip Security Act (advanced chip export security); joined as a later co-sponsor.", "Congress.gov data (read through api.congress.gov), co-sponsored 25 February 2026", "https://www.congress.gov/bill/119th-congress/house-bill/3447/cosponsors"],
+    ["Co-sponsored H.R. 1121, the No DeepSeek on Government Devices Act (bars a Chinese AI app from federal devices).", "Congress.gov data (read through api.congress.gov), bill introduced 13 February 2025; his co-sponsorship date was not checked", "https://www.congress.gov/bill/119th-congress/house-bill/1121/cosponsors"]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Barr about AI in his own words was found, so there is nothing to grade. His legislative record on AI (data center power, chip exports, a Chinese AI app) is about infrastructure and competition with China, which would be level D if it were a statement.",
+  "notes": "IMPORTANT: none of the eight web searches ran; the shared web search budget was already used up, so all eight required searches (superintelligence, extinction or existential risk, pause or moratorium, China agreement, 'AI safety', official-site search, Ban Artificial Superintelligence Act, 23 September 2026 letter) were refused. This result therefore rests only on pages opened directly and is much weaker than a normal run; it should be rerun when search is available. What was checked directly: (1) titles of all press releases on barr.house.gov from 3 January 2025 to 10 November 2026 (pages 1 to 15 of the press release list): no title concerns AI. Only titles were read, not the body of each release, so a passing AI remark inside a release would have been missed. (2) The campaign site barrforsenate.com home and issues pages: no mention of AI. (3) Congress.gov data for bills he sponsored and co-sponsored, scanned by title only: no bill with 'superintelligence' in the title, and no Ban Artificial Superintelligence Act, appeared among the first 250 co-sponsored bills (which covered the 119th Congress portion seen) or the first 100 sponsored bills; the sponsored list has 223 items and the co-sponsored list 1,752, so the scan was not complete for older items, and the reading tool truncated long pages. (4) The two events: Barr is a House member until January 2027, so he was not eligible to sign a senators' letter or co-sponsor a Senate bill; no source seen shows him signing or co-sponsoring either, and I could not open the letter or the bill's co-sponsor list to confirm. Not checked at all: hearing remarks (he chairs a House Financial Services subcommittee and may have spoken about AI in banking there; the committee site refused access), floor speeches, interviews, op-eds and news coverage (Kentucky Lantern, Lexington Herald-Leader and Courier Journal searches were blocked or not reachable; LEX18 and WUKY searches showed nothing linking Barr to AI in the first page of results). No press release for H.R. 5927 was found in the press release titles. The record links to congress.gov for H.R. 3447 and H.R. 1121 were not opened (congress.gov returned 403); the facts came from the official api.congress.gov data. The date for the Chip Security Act is his co-sponsorship date, not the bill's introduction date. No paraphrased statements were left out, because none were found."
+}

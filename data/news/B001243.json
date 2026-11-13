@@ -1,0 +1,135 @@
+{
+ "bioguide": "B001243",
+ "member": "Sen. Marsha Blackburn (Republican, Tennessee; elected governor of Tennessee on 3 November 2026)",
+ "searches": [
+  "Marsha Blackburn superintelligence AI",
+  "Marsha Blackburn AI \"extinction\" OR \"existential\" risk",
+  "Marsha Blackburn AI moratorium OR pause OR slowdown",
+  "Marsha Blackburn AI China agreement OR treaty OR talks artificial intelligence",
+  "Marsha Blackburn \"AI safety\"",
+  "Blackburn artificial intelligence risk loss of control catastrophic (restricted to blackburn.senate.gov)",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Blackburn"
+ ],
+ "statements": [
+  {
+   "date": "2025-12-19",
+   "venue": "Section-by-section summary of her TRUMP AMERICA AI Act, published by her Senate office",
+   "quote": "Establishes an “Advanced Artificial Intelligence Evaluation Program” within the Department of Energy (DOE) to evaluate advanced AI systems and collect data on the likelihood of adverse AI incidents, such as loss-of-control scenarios and weaponization by adversaries.",
+   "context": "Her office's summary of section 9 of the national AI framework bill she drafted.",
+   "source_label": "Blackburn Senate office, bill section-by-section (PDF)",
+   "url": "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary",
+    "unsure"
+   ],
+   "reason": "Her own bill treats loss-of-control scenarios as a possible adverse incident worth measuring, which acknowledges a serious risk from advanced AI in general terms; but this is her office's bill summary, not a personal statement of belief, so a reviewer may prefer D."
+  },
+  {
+   "date": "2025-12-19",
+   "venue": "Section-by-section summary of her TRUMP AMERICA AI Act, published by her Senate office",
+   "quote": "Requires large frontier developers to draft and implement protocols to manage and mitigate catastrophic risk, publish transparency reports disclosing information about their frontier models, and establish regular reporting to the Department of Homeland Security (DHS).",
+   "context": "Her office's summary of section 4 of the national AI framework bill she drafted.",
+   "source_label": "Blackburn Senate office, bill section-by-section (PDF)",
+   "url": "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary",
+    "unsure"
+   ],
+   "reason": "Her bill uses the term catastrophic risk and requires frontier developers to manage it, but the summary does not say what the catastrophe would be and it is not a personal statement, so it is graded C rather than B."
+  },
+  {
+   "date": "2026-03-18",
+   "venue": "Press release on the discussion draft of the TRUMP AMERICA AI Act",
+   "quote": "The TRUMP AMERICA AI Act is the solution America needs.",
+   "context": "Her statement releasing the discussion draft; the rest of her statement is about one federal rulebook, protecting children, creators, conservatives and communities, and beating foreign adversaries in the AI race.",
+   "source_label": "Blackburn Senate press release",
+   "url": "https://www.blackburn.senate.gov/2026/3/technology/blackburn-releases-discussion-draft-of-national-policy-framework-for-artificial-intelligence/3b3b6458-b6c7-478b-9859-374949586765",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Her own quoted words promote the bill and the race for AI dominance and do not mention catastrophic risk."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Interview with The National News Desk (Sinclair stations) before the Trump-Xi talks",
+   "quote": "Of course, AI is at the top of the list,",
+   "context": "She was listing her priorities for President Trump's meeting with Xi Jinping; on AI she spoke about protecting children, citizens' data and intellectual property from Beijing.",
+   "source_label": "WJLA / The National News Desk",
+   "url": "https://wjla.com/news/nation-world/sen-blackburn-outlines-priorities-for-trump-xi-talks-weighs-in-on-ai-and-womens-sports-marsha-blackburn-congress-republicans-democrats-washington-congress-artificial-intelligence-tennessee-technology-innovation",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Her AI concerns here are children, data and intellectual property theft by China, which are outside catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development for safety reasons. Her bill summary says an advanced AI system could not be deployed until its developer complies with an evaluation program, which is a deployment condition, not a slowdown.",
+   "sources": [
+    [
+     "Blackburn bill section-by-section",
+     "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause on frontier AI. Her 2025 fight over the 'AI moratorium' was about a ban on state AI laws, not a pause on AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "She did not sign the 23 September 2026 letter urging AI talks with China, and no statement on an AI agreement with China was found; in a 24 September 2026 interview she spoke of holding Xi to account on intellectual property.",
+   "sources": [
+    [
+     "WJLA / The National News Desk",
+     "https://wjla.com/news/nation-world/sen-blackburn-outlines-priorities-for-trump-xi-talks-weighs-in-on-ai-and-womens-sports-marsha-blackburn-congress-republicans-democrats-washington-congress-artificial-intelligence-tennessee-technology-innovation"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Released the TRUMP AMERICA AI Act framework (19 December 2025) and discussion draft (18 March 2026); her office's summary says it would require large frontier developers to manage catastrophic risk and report to the Department of Homeland Security, create a Department of Energy evaluation program covering loss-of-control scenarios, block deployment of advanced systems until developers comply, and require yearly progress reports from companies pursuing artificial general intelligence.",
+   "Blackburn Senate office section-by-section, 19 December 2025",
+   "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D"
+  ],
+  [
+   "Press release on the discussion draft repeats the evaluation program wording (loss-of-control scenarios and weaponization by adversaries).",
+   "Blackburn Senate press release, 18 March 2026",
+   "https://www.blackburn.senate.gov/2026/3/technology/blackburn-releases-discussion-draft-of-national-policy-framework-for-artificial-intelligence/3b3b6458-b6c7-478b-9859-374949586765"
+  ],
+  [
+   "Added as a cosponsor of S. 2938, the Artificial Intelligence Risk Evaluation Act of 2025 (Department of Energy Advanced Artificial Intelligence Evaluation Program), in the week before 21 March 2026, according to a bill-tracking blog; the congress.gov page could not be opened to confirm.",
+   "Chemical Facility Security News blog, 21 March 2026",
+   "https://chemical-facility-security-news.blogspot.com/2026/03/new-cosponsor-added-for-s-2938-ai-risk.html"
+  ],
+  [
+   "Her office published an endorsement of her bill by Daniel Colson of the AI Policy Network that mentions pathways to AI superintelligence; these are his words, not hers.",
+   "Blackburn Senate press release, 22 April 2026",
+   "https://www.blackburn.senate.gov/2026/4/ai/what-they-are-saying-blackburn-announces-growing-momentum-for-trump-america-ai-act"
+  ],
+  [
+   "Not a signer of the 23 September 2026 letter from 17 senators urging AI talks with China (per the verified signer list). No source found showing she co-sponsored the Ban Artificial Superintelligence Act; coverage names Sen. Sanders and Rep. Casar.",
+   "Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "No personal statement by Blackburn about catastrophic AI risk was found; her own quoted words are all level D. The C rests only on her office's summary of her own bill, which names catastrophic risk and loss-of-control scenarios, so a reviewer could reasonably choose D.",
+ "notes": "Seven web searches ran; none was refused. Both C quotes were read directly in the PDF on blackburn.senate.gov (PDF metadata date 19 December 2025; the matching press release is dated 19 December 2025). They are bill-summary wording from her office, not her spoken or attributed words. The page-fetch tool would only return her press-release statements in short segments, so for the D entries I used only short passages I could see whole; her fuller 18 March 2026 statement (about 'one federal rulebook for AI' and 'the global race for AI dominance') is not quoted. WJLA article is dated 24 September 2026; the interview date is not stated and is assumed to be the same day or just before. The article's phrase 'as AI systems become increasingly powerful' is the reporter's paraphrase, left out of statements. Pages I could not open (HTTP 403): her October 2025 CNBC interview release on blackburn.senate.gov, and congress.gov cosponsor list for S. 2938, so that cosponsorship rests on a blog. Not checked: hearing transcripts, floor speeches, and campaign-site material from her governor's race. Reports from mid-2025 (Axios and others, seen in search results only) cover her role in removing the ten-year ban on state AI laws from the budget bill; that is about state preemption and child safety, not catastrophic risk. A search result attributed to her a November 2025 'shut your AI models down' remark aimed at Google's Gemma model over defamatory output; not opened, not about catastrophic risk, left out."
+}

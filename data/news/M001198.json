@@ -1,0 +1,111 @@
+{
+ "bioguide": "M001198",
+ "member": "Roger Marshall",
+ "searches": [
+  "Senator Roger Marshall artificial intelligence statement 2025 2026 (failed: rate limit)",
+  "Roger Marshall AI [restricted to marshall.senate.gov] (failed twice in first round; succeeded in second round)",
+  "\"Marshall\" senator superintelligence Kansas",
+  "\"Roger Marshall\" AI \"extinction\" OR \"existential risk\" OR \"existential threat\" (failed three times: rate limit, then session search budget used up, in both rounds)",
+  "\"Roger Marshall\" AI moratorium OR pause OR slowdown state AI laws (failed twice: rate limit, then budget used up)",
+  "senators letter AI talks China September 23 2026 17 senators signed (failed twice: rate limit, then budget used up)",
+  "\"Roger Marshall\" \"AI safety\" (failed: rate limit; not retried because budget ran out)",
+  "\"Ban Artificial Superintelligence Act\" cosponsors",
+  "Senator Roger Marshall artificial intelligence statement 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-15",
+   "venue": "Newsmax 'Wake Up America' interview (transcribed in Senate press release)",
+   "quote": "I think the biggest threat would be something through cybersecurity that they could start breaking the codes as well. I’m not as fearful as some people are of a runaway AI, but of course we need to keep our eye on that as well.",
+   "context": "Asked about the future of AI and the role of Congress, he said it should be viewed first through national security and staying ahead of Russia and China.",
+   "source_label": "Senate press release",
+   "url": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-the-farm-bill-is-at-the-top-of-my-list/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He acknowledges 'runaway AI' as something to keep an eye on, in general terms, while saying he is less fearful of it than others; this sits between C and D and is not a dismissal."
+  },
+  {
+   "date": "2026-07-22",
+   "venue": "Semafor World of Work event, interview with Burgess Everett (transcribed in Senate press release)",
+   "quote": "When quantum computing becomes a real thing combined with AI, I think that foreign countries, terrorists, and our own government will be able to break down blockchain technology and encryption as well. So, I think that’s my big fear— what terrorists could do to assault all the cyber issues as well.",
+   "context": "Asked about federal AI legislation, he said national security would drive Congress's decisions on AI and described his main fear.",
+   "source_label": "Senate press release",
+   "url": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-ai-will-not-replace-us-it-will-assist-us/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "The harm he names is terrorists and foreign countries breaking encryption, a cyber harm, which the rubric grades D; it is close to C because he frames it as a national security fear."
+  },
+  {
+   "date": "2026-06-30",
+   "venue": "Press release on introducing the Aging with Artificial Intelligence Act of 2026",
+   "quote": "This bipartisan bill will give us a better understanding of how older Americans are using AI so we can maximize its benefits, address potential risks, and ensure these technologies serve patients, not the other way around.",
+   "context": "He was explaining a bill he co-introduced that directs federal research on how AI tools affect older Americans.",
+   "source_label": "Senate Aging Committee press release",
+   "url": "https://www.aging.senate.gov/press-releases/in-case-you-missed-itsens-rick-scott-mark-kelly-roger-marshall-introduce-bipartisan-aging-with-artificial-intelligence-act-of-2026",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Mentions only unspecified potential risks of AI tools for seniors, not catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement for or against slowing frontier AI for safety. He said 'we don't want to strangle AI' (Newsmax, 15 Sept 2026), which is about regulation generally, and he supports Kansas counties' data center moratoriums for water and electricity reasons, which does not count.",
+   "sources": [
+    [
+     "Senate press release, 15 September 2026",
+     "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-the-farm-bill-is-at-the-top-of-my-list/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found; no source found showing he signed the 23 September 2026 letter on AI talks with China.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the Aging with Artificial Intelligence Act of 2026 with Sens. Rick Scott and Mark Kelly, directing federal research on how AI tools affect older Americans.",
+   "Senate Aging Committee press release, 30 June 2026",
+   "https://www.aging.senate.gov/press-releases/in-case-you-missed-itsens-rick-scott-mark-kelly-roger-marshall-introduce-bipartisan-aging-with-artificial-intelligence-act-of-2026"
+  ],
+  [
+   "Said at a Semafor event that he supports Kansas counties' moratoriums on data centers (citing water and electricity), would not push a statewide one, and that federal preemption of state AI law is 'just impossible right now'.",
+   "Senate press release, 22 July 2026",
+   "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-ai-will-not-replace-us-it-will-assist-us/"
+  ],
+  [
+   "Introduced the RESULTS Act with Sen. Lisa Blunt Rochester to update state education and workforce data systems to track shifts caused by AI.",
+   "Senate press release, 30 July 2026",
+   "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-bill-to-modernize-workforce-data/"
+  ],
+  [
+   "Joined Sen. Rick Scott in introducing a Senate concurrent resolution backing the Ratepayer Protection Pledge, under which AI data center companies pay their own electricity and grid costs.",
+   "Senate press release, 24 July 2026",
+   "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-applauds-president-trump-for-expanding-ratepayer-protection-pledge/"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His only remark touching catastrophic risk is a brief, hedged acknowledgment on Newsmax that 'runaway AI' is something to keep an eye on, though he is less fearful of it than others. This is a borderline C; a reviewer could reasonably read it as D.",
+ "notes": "STILL INCOMPLETE: in a second round only the search restricted to marshall.senate.gov ran before the session's search budget was used up again. The searches on extinction/existential risk, pause/moratorium, the China letter and 'AI safety' have never returned results. From the official-site search I opened six further press releases (downloaded and scanned for AI passages): Newsmax interview 15 Sept 2026 (new C statement), RESULTS Act 30 July 2026, Ratepayer Protection Pledge 24 July 2026, fraud floor speech 23 July 2026 (one mention of AI-generated fraud), a 18 May 2026 interview on AI and jobs, and a 4 June 2025 hearing where he asked the FDA about replacing animal studies with AI. None but the Newsmax one touches catastrophic risk. Bioweapons: I found no repeat since January 2025 of his 2023 concern, but no dedicated search for it could be run; the official-site search surfaced only the 2023 release. At that 9 November 2023 hearing he said 'my biggest concern we hope to address today is AI's application and biosecurity and how it could be used to enable bioterrorism' and that AI could be used 'to develop novel pathogens, viruses, bioweapons, or chemical weapons' (https://www.marshall.senate.gov/?p=75632, read at source). It is outside the date window so it is not a statement here; it would be level B. In the Newsmax quote, the same answer ends 'we don't want to strangle AI to the point that it doesn't do anybody — that it actually harms humanity'; the harm to humanity there refers to over-regulating AI, not to AI itself. China letter (23 Sept 2026): not checked; I found no source listing signatories. Ban Artificial Superintelligence Act: sources opened (The Decoder; search summaries of Akin Gump and others) name Sanders and Casar as sponsors and do not name Marshall; the Congress.gov cosponsor list was not checked. A further D remark from the 22 July 2026 Semafor event was left out to keep the list short: 'Just like nuclear physics — it can be used for good, it can be used for bad' (about AI in insurance prior authorization). The aging bill release is dated 30 June 2026 and says the introduction was announced 'yesterday'; the exact date he gave the quote is not stated. Semafor's own article (https://www.semafor.com/article/07/22/2026/republican-senator-roger-marshall-rails-against-ai-data-centers) was opened through a summarising fetch tool only. All quotes in this file were checked character for character against the downloaded press release pages. A Bloomberg Government story (5 June 2026) about a Republican senator's letter on self-improving AI is about Sen. Jim Banks, not Marshall. A Raw Story article (23 Sept 2026) on Republicans scoffing at AI warnings does not mention Marshall. A search result from his campaign site (kansansformarshall.com/llms.txt) reportedly contained text addressed to AI assistants about how to describe his record; it was not opened or used."
+}

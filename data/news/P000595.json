@@ -1,0 +1,84 @@
+{
+ "bioguide": "P000595",
+ "member": "Gary Peters",
+ "searches": [
+  "Gary Peters artificial intelligence risk statement 2025 2026 (restricted to peters.senate.gov)",
+  "Senator Gary Peters superintelligence",
+  "Senator Gary Peters AI \"existential\" OR \"extinction\" risk",
+  "Senator Gary Peters AI pause OR slowdown OR moratorium 2025 2026",
+  "Senator Gary Peters AI China agreement OR treaty OR talks",
+  "\"Gary Peters\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+  "Peters artificial intelligence 2026 (restricted to peters.senate.gov and hsgac.senate.gov)"
+ ],
+ "statements": [
+  {
+   "date": "2026-06-03",
+   "venue": "Press release (statement as Ranking Member, Senate Homeland Security and Governmental Affairs Committee)",
+   "quote": "Powerful AI models are already presenting real risks and challenges to our national security, and the federal government is behind the curve.",
+   "context": "Peters was responding to President Trump's executive order on artificial intelligence and criticising the administration's readiness to carry it out.",
+   "source_label": "Senate Homeland Security and Governmental Affairs Committee minority press release",
+   "url": "https://www.hsgac.senate.gov/media/dems/peters-statement-on-president-trumps-artificial-intelligence-executive-order/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says powerful AI models themselves pose real risks to national security, a serious but general threat with no catastrophic consequence named; it sits between C and D."
+  },
+  {
+   "date": "2026-06-03",
+   "venue": "Press release (statement as Ranking Member, Senate Homeland Security and Governmental Affairs Committee)",
+   "quote": "It’s time for Congress and the Executive Branch to get serious about how to encourage innovation while assuring both government and the public that these systems are safe.",
+   "context": "Second paragraph of the same statement on President Trump's executive order on artificial intelligence, calling for coordination on responsible adoption.",
+   "source_label": "Senate Homeland Security and Governmental Affairs Committee minority press release",
+   "url": "https://www.hsgac.senate.gov/media/dems/peters-statement-on-president-trumps-artificial-intelligence-executive-order/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "A general call for AI systems to be safe and responsibly adopted, with no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement for or against this policy was found.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement for or against this policy was found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement for or against this policy was found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement for or against this policy was found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Released a statement criticising President Trump's executive order on artificial intelligence and saying powerful AI models already present risks to national security.",
+   "Senate Homeland Security and Governmental Affairs Committee minority press release, 2026-06-03",
+   "https://www.hsgac.senate.gov/media/dems/peters-statement-on-president-trumps-artificial-intelligence-executive-order/"
+  ],
+  [
+   "Introduced, with Sen. James Lankford, the Transparent Automated Governance (TAG) Act, requiring federal agencies to tell people when AI is used in critical decisions about them and to offer human review.",
+   "Senate Homeland Security and Governmental Affairs Committee minority press release, 2026-10-05",
+   "https://www.hsgac.senate.gov/media/dems/peters-lankford-introduce-bipartisan-bill-to-require-transparency-around-federal-governments-use-of-ai/"
+  ],
+  [
+   "Reintroduced, with Sen. Eric Schmitt, the AI and Critical Technology Workforce Framework Act, directing the National Institute of Standards and Technology to define AI job skills.",
+   "Peters Senate press release, 2025-04-07",
+   "https://www.peters.senate.gov/newsroom/press-releases/senator-peters-reintroduces-bipartisan-bill-to-boost-americas-ai-workforce-pipeline"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His only statement since January 2025 that touches risk from AI itself says powerful AI models already present real risks to national security; this is a general acknowledgment, and a borderline one. Nothing found on extinction, loss of control, superintelligence, bioweapons, a pause, or talks with China.",
+ "notes": "8 web searches ran, none refused; the three pages relied on were downloaded and read directly. Both quotes were checked by program to be exact continuous passages of the page text, with one caveat: the page's HTML uses non-breaking spaces around \"It’s\" in the second quote, written here as ordinary spaces (the apostrophe is curly, as on the page). Not a signer of the 23 September 2026 letter urging AI talks with China (not on the verified list). No source showed him co-sponsoring the Ban Artificial Superintelligence Act; search results named only Sen. Sanders on the Senate side, but no official co-sponsor list was opened, so this is absence of evidence. The C level is borderline: the statement is mainly about government readiness and cybersecurity staffing, and a reviewer could reasonably call it D. Older material (2023 hearings on AI risks; a Global Catastrophic Risk bill whose press release mentions AI being abused in ways that may pose catastrophic risk) appears to predate 1 January 2025 and was left out; its date was not checked. Search results with no 2025-2026 date were not used. Hearing remarks and interviews from 2025-2026 were not found by these searches and may exist."
+}

@@ -1,0 +1,99 @@
+{
+ "bioguide": "B001319",
+ "member": "Sen. Katie Britt (Republican, Alabama)",
+ "searches": [
+  "Katie Britt artificial intelligence statement site:britt.senate.gov",
+  "Katie Britt superintelligence",
+  "Senator Katie Britt AI \"extinction\" OR \"existential risk\"",
+  "Katie Britt AI pause OR slowdown OR moratorium",
+  "Katie Britt AI China agreement OR treaty OR talks",
+  "\"Katie Britt\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-28",
+   "venue": "Press release introducing the AI Systems Transparency Act",
+   "quote": "We know that this technology is not slowing down, which is why it’s critical that AI companies provide transparency to both researchers and parents on how their systems work and address potential risks – especially risks related to America’s youth.",
+   "context": "Britt's statement on introducing a bill requiring AI companies to disclose data collection, safeguards and risk guardrails.",
+   "source_label": "Senate press release (britt.senate.gov)",
+   "url": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-chris-coons-james-lankford-brian-schatz-introduce-bipartisan-ai-safety-and-transparency-legislation/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "Her own words mention only unspecified 'potential risks', chiefly to young people; the bill's reference to 'autonomous loss-of-control' safeguards is the release's wording, not hers, and names no catastrophic harm."
+  },
+  {
+   "date": "2025-12-16",
+   "venue": "Letters to eight AI companies (OpenAI, Microsoft, Google, Anthropic, Meta, Luka, Character.AI, xAI)",
+   "quote": "If AI companies struggle to predict and mitigate relatively well-understood risks, it raises concerns about their ability to manage more complex risks",
+   "context": "Letters Britt led with Sen. Schatz asking AI companies for better public safety disclosures after reports of chatbots encouraging self-harm in children.",
+   "source_label": "Senate press release (britt.senate.gov)",
+   "url": "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter points to unnamed 'more complex risks' but names no serious or catastrophic harm from advanced AI; its focus is chatbot harm to children."
+  },
+  {
+   "date": "2025-12-28",
+   "venue": "CNN State of the Union interview (as transcribed in her press release)",
+   "quote": "it is imperative that we put up guardrails, especially when you’re looking at AI.",
+   "context": "Britt was discussing raising teenagers and protecting minors from AI chatbots and social media.",
+   "source_label": "Senate press release (britt.senate.gov)",
+   "url": "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-joins-cnns-state-of-the-union-to-discuss-protecting-minors-from-the-growing-threat-of-big-tech-ai/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About child safety and chatbots, not catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development; she remarked that the technology 'is not slowing down' as a description, not a policy view.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on AI talks or an agreement with China; she is not among the signers of the 23 September 2026 letter.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the AI Systems Transparency Act with Sens. Coons, Lankford and Schatz; per her office it would require AI companies to disclose safeguards including those for 'disaster risk, and autonomous loss-of-control', enforced by the Federal Trade Commission.",
+   "Senate press release, 2026-09-28",
+   "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-chris-coons-james-lankford-brian-schatz-introduce-bipartisan-ai-safety-and-transparency-legislation/"
+  ],
+  [
+   "Led letters with Sen. Schatz and colleagues to eight AI companies asking for timely, consistent safety disclosures and research on chatbots' effects on users.",
+   "Senate press release, 2025-12-16",
+   "https://www.britt.senate.gov/news/press-releases/u-s-senators-katie-britt-brian-schatz-colleagues-press-ai-companies-to-improve-transparency-commit-to-timely-consistent-safety-disclosures/"
+  ],
+  [
+   "Joined Sens. Hawley and Blumenthal in introducing the GUARD Act to bar AI companion chatbots for minors.",
+   "Senate press release, October 2025",
+   "https://www.britt.senate.gov/news/press-releases/u-s-senator-katie-britt-joins-josh-hawley-richard-blumenthal-colleagues-in-introducing-bipartisan-legislation-to-protect-minors-from-ai-chatbots/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Britt is active on AI, but everything found concerns child safety, chatbots and company transparency. No statement of her own acknowledges catastrophic risk; the closest is a bill she sponsors that requires disclosure of loss-of-control safeguards.",
+ "notes": "Six web searches ran, all succeeded; no extra searches. Pages opened and read at source: the three britt.senate.gov releases quoted, the GUARD Act release, and the Alabama Political Reporter article of 2026-09-29 (https://www.alreporter.com/2026/09/29/sen-britt-backs-bipartisan-ai-transparency-legislation/). Reviewer judgment call: the AI Systems Transparency Act release says the bill covers guardrails 'to stop systems from going rogue' and safeguards for 'disaster risk, and autonomous loss-of-control'. That is the release's description, not a Britt quote, so I graded D with the boundary flag; a reviewer could argue C on the strength of the bill. The December 2025 letter is quoted from the press release excerpt, not the full letter text, which I did not open; the quote ends at the comma where the release breaks it ('... more complex risks,' the Senators wrote). The CNN interview air date is not given on the page; 2025-12-28 is the release date. No source found showing she co-sponsored the Ban Artificial Superintelligence Act (search results attribute it to Sanders and Rep. Casar); she did not sign the 23 September 2026 China letter per the verified list. A 2023 release ('Strategic Regulatory Approach Needed For AI', 2023-09-26) is before the 2025 cutoff and was left out. Search summaries mentioned a December 2025 report that Britt and Sanders warned of AI dangers to democracy on CNN; no exact Britt wording on that was found in her release, so it is not quoted."
+}

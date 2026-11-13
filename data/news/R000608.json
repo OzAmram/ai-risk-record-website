@@ -1,0 +1,156 @@
+{
+ "bioguide": "R000608",
+ "member": "Jacky Rosen",
+ "searches": [
+  "Rosen artificial intelligence (restricted to rosen.senate.gov)",
+  "Jacky Rosen superintelligence",
+  "Senator Jacky Rosen AI extinction OR \"existential risk\" OR \"loss of control\"",
+  "Jacky Rosen AI pause OR slowdown OR moratorium",
+  "Jacky Rosen China AI agreement OR treaty OR talks",
+  "\"Jacky Rosen\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Rosen"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "The letter urges the President to negotiate an AI safety agreement with China's President Xi, comparing it to nuclear arms control agreements.",
+   "source_label": "Senate letter to President Trump (Van Hollen press release)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter she signed calls the stakes of AI \"existential\", which is closest to a threat to humanity, although it does not use the word extinction."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+   "context": "The letter asks the President to work with China on an agreement to slow, and possibly pause, frontier AI development.",
+   "source_label": "Senate letter to President Trump (Van Hollen press release)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter names biological weapons and activities that threaten \"humanity writ large\" as risks of frontier AI; a threat to humanity is level A under ruling 1, though the wording could also be read as level B."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "The letter relays warnings from AI company employees and, two sentences later, says \"We should take these warnings seriously.\"",
+   "source_label": "Senate letter to President Trump (Van Hollen press release)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "The letter relays and then endorses experts' warning that AI may go beyond human ability to control it, which is a loss-of-control risk without saying the loss would be permanent."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release statement",
+   "quote": "At the same time, this powerful technology can have the power to cause catastrophic damages if we don’t act to impose guardrails and safety mechanisms",
+   "context": "Rosen called on the Senate Commerce Committee chairman to hold a hearing with top AI executives after a researcher's warning about humans' diminishing ability to control AI models.",
+   "source_label": "Senate press release (rosen.senate.gov)",
+   "url": "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "In her own words she says AI can cause \"catastrophic damages\" without guardrails, but she does not name the kind of catastrophe, so it sits between B and C."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release statement",
+   "quote": "Congress must do everything in its power to ensure the American AI industry continues to lead, particularly outcompeting China, and also enact increased guardrails to ensure AI development is progressing in a safe and responsible manner.",
+   "context": "Same statement calling for a Senate Commerce Committee hearing with AI executives.",
+   "source_label": "Senate press release (rosen.senate.gov)",
+   "url": "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "A general call for guardrails so AI development is safe, paired with wanting the US industry to out-compete China; no specific catastrophic harm named."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter asking for a formal agreement with China \"that would slow down, and potentially enact a mutual pause in, frontier AI development\". This is a signed letter, not a statement in her own words; her own 14 September statement asks for guardrails and also says the US industry must keep leading and out-compete China.",
+   "sources": [
+    [
+     "Senate letter to President Trump (Van Hollen press release)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Rosen press release, 14 September 2026",
+     "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks the President to consider a mutual pause with China (\"potentially enact a mutual pause\"), which is a pause conditional on another country joining. No statement in her own words about a pause was found.",
+   "sources": [
+    [
+     "Senate letter to President Trump (Van Hollen press release)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the letter urging direct talks and a formal agreement with China to slow down frontier AI development.",
+   "sources": [
+    [
+     "Senate letter to President Trump (Van Hollen press release)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI. The letter mentions that automation of AI research may speed up progress but does not call for a ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Senate Democrats urging President Trump to negotiate an AI safety agreement with China, including a slowdown and possible mutual pause in frontier AI development.",
+   "Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Released a statement calling on Senate Commerce Committee Chairman Ted Cruz to immediately hold a hearing with top executives of leading AI companies on the dangers posed by the pace of AI development.",
+   "Rosen press release, 2026-09-14",
+   "https://www.rosen.senate.gov/2026/09/14/following-dire-warnings-from-ai-researchers-rosen-calls-on-senate-commerce-committee-to-immediately-hold-hearing-with-top-ai-executives/"
+  ],
+  [
+   "Questioned a Trump administration official at a Commerce Committee hearing about deploying the Grok AI chatbot in government (about antisemitic output, not catastrophic risk).",
+   "Rosen press release, 2025-09-12",
+   "https://www.rosen.senate.gov/2025/09/12/video-during-rosen-questioning-trump-administration-refuses-to-directly-commit-to-not-using-ai-bot-with-history-of-promoting-antisemitism/"
+  ],
+  [
+   "Introduced bipartisan bills to keep the Chinese AI program DeepSeek off government devices and away from federal data (national security, not catastrophic risk).",
+   "Rosen press releases, 2025-02-27 and 2025-05-09",
+   "https://www.rosen.senate.gov/2025/02/27/senators-rosen-husted-ricketts-introduce-bipartisan-bill-to-protect-american-government-devices-from-prc-controlled-ai-program/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The A rests only on the 23 September 2026 letter she co-signed, which calls the stakes \"existential\" and names threats to \"humanity writ large\". Her only statement in her own words (14 September 2026) says AI can cause \"catastrophic damages\", which is B at most.",
+ "notes": "Seven web searches ran; none was refused. Reviewer decision needed: whether a co-signed letter alone should carry an A; her own words reach B (boundary with C). All five quotes were checked by a script as exact continuous passages of the downloaded page text (Van Hollen press release, which reproduces the letter, and Rosen's own press release). The same Rosen statement is also reported by KOLO/Fox 5 Vegas (https://www.fox5vegas.com/2026/09/14/rosen-calls-ai-hearing-after-warnings-execs/). A PDF of the letter appeared in search results at https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf but was not opened. Ban Artificial Superintelligence Act: no source found showing Rosen as a co-sponsor; the search results did not give a Senate co-sponsor list, and congress.gov was not checked, so this is 'not shown', not 'confirmed not a co-sponsor'. The 2025 DeepSeek press releases and the Grok hearing release were not opened; their descriptions come from the page titles and from the summary in Rosen's 14 September 2026 release. The press release gives the Grok hearing as 'last fall'; the date listed is the release date, not necessarily the hearing date. No statements by Rosen on superintelligence, extinction, or a ban on self-improving AI were found. Not searched: X posts (by instruction)."
+}

@@ -1,0 +1,103 @@
+{
+ "bioguide": "J000312",
+ "member": "Sen. Jim Justice (R-WV)",
+ "searches": [
+  "Jim Justice senator artificial intelligence (restricted to justice.senate.gov)",
+  "\"Jim Justice\" senator superintelligence OR \"artificial general intelligence\"",
+  "\"Jim Justice\" senator AI extinction OR \"existential risk\" OR \"loss of control\"",
+  "\"Jim Justice\" senator AI pause OR slowdown OR moratorium",
+  "\"Jim Justice\" senator AI China agreement OR treaty OR talks",
+  "\"Jim Justice\" senator \"AI safety\"",
+  "\"Justice\" \"The amazement of AI just dumbfounds us all\"",
+  "\"Ban Artificial Superintelligence Act\" Senate cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-07-24",
+   "venue": "Press release",
+   "quote": "A.I. chatbots are an incredible tool for older Americans, but we can’t miss the opportunity to protect our seniors who rely on chatbots for support, companionship, and even important decisions during critical times.",
+   "context": "Introducing the Senior Chatbot Protection Act with Sen. Mark Kelly, which requires chatbots to disclose that they are AI and adds protections for seniors.",
+   "source_label": "Senate press release",
+   "url": "https://www.justice.senate.gov/newsroom/press-releases/senators-justice-kelly-introduce-bipartisan-senior-chatbot-protection-act/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About consumer protection for seniors using chatbots; no catastrophic risk from AI is acknowledged."
+  },
+  {
+   "date": "2025-07-30",
+   "venue": "Press release",
+   "quote": "When folks pick up the phone and ask for help, they shouldn’t have to deal with AI robots or be routed to someone across the world.",
+   "context": "Introducing the Keep Call Centers in America Act with Sen. Ruben Gallego, which requires disclosure when AI is used in customer service calls.",
+   "source_label": "Senate press release",
+   "url": "https://www.justice.senate.gov/newsroom/press-releases/senator-justice-senator-gallego-introduce-bipartisan-keep-call-centers-in-america-act/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About customer service and jobs, which the rubric places outside catastrophic risk."
+  },
+  {
+   "date": "2026-08-17",
+   "venue": "Opinion piece in Newsmax, reposted on his Senate site",
+   "quote": "We can talk all we want about winning the race for AI, rebuilding American manufacturing and creating the jobs of the future.",
+   "context": "Arguing that West Virginia coal and gas are needed to supply the electricity that AI and manufacturing demand.",
+   "source_label": "Newsmax opinion piece via Senate site",
+   "url": "https://www.justice.senate.gov/newsroom/in-the-news/sen-justice-west-virginians-are-ready-to-deliver-energy-power/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Treats AI as a race to win and a source of electricity demand; no risk from AI is mentioned."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy in his own site or in the web searches.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy in his own site or in the web searches.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on this policy. He is not among the signers of the 23 September 2026 letter urging AI talks with China.",
+   "sources": [
+    [
+     "Van Hollen press release, 2026-09-23",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy in his own site or in the web searches.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the Senior Chatbot Protection Act with Sen. Mark Kelly (AI disclosure and protections for seniors using chatbots).",
+   "Senate press release, 2026-07-24",
+   "https://www.justice.senate.gov/newsroom/press-releases/senators-justice-kelly-introduce-bipartisan-senior-chatbot-protection-act/"
+  ],
+  [
+   "Introduced the Keep Call Centers in America Act with Sen. Ruben Gallego (disclosure when AI is used in call centers; report on job losses from AI).",
+   "Senate press release, 2025-07-30",
+   "https://www.justice.senate.gov/newsroom/press-releases/senator-justice-senator-gallego-introduce-bipartisan-keep-call-centers-in-america-act/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "The only AI remarks found are about chatbot disclosure for seniors, AI in call centers, and powering AI with West Virginia energy. None acknowledges catastrophic risk, and eight web searches turned up nothing from him on superintelligence, extinction, a pause, or talks with China.",
+ "notes": "Eight web searches ran on 11 November 2026 (the six required ones plus two follow-ups); none was refused. The three statements and the first two record items were verified on justice.senate.gov by an earlier run that had no web search; this run re-opened the Senior Chatbot Protection Act press release and confirmed the quote and date, and did not re-open the other two pages. The searches on superintelligence, extinction, pause and China talks returned no page that mentions Justice. UNVERIFIED LEAD, left out of statements: a search result summary for a States Newsroom page (https://www.newsfromthestates.com/node/429653) attributes to Justice the words \"The amazement of AI just dumbfounds us all\" and says the same article notes Anthropic's chief executive urging AI developers to slow down. That page returned error 403, a follow-up search for the exact phrase found nothing, and I have no date or context for it, so it is not quoted as a statement; on its wording alone it would be level D. A reviewer should open that page by hand (it probably originates from West Virginia Watch, whose site also returned error 403). Ban Artificial Superintelligence Act (S. 5493, introduced 2026-09-23): no source shows Justice as a co-sponsor. News coverage and the Sanders office summary name only Sanders and Rep. Casar; the one bill-tracking page opened (fastdemocracy.com) showed an empty sponsor list, and congress.gov was not opened this run (it returned error 403 in the earlier run), so the official co-sponsor list was not seen and no record item is entered for this bill. As governor he signed West Virginia House Bill 5690 creating a state task force on AI (seen on capito.senate.gov in search results); this predates 1 January 2025 and is left out. Carried over from the earlier run: quotes were checked against the raw page text, with non-breaking spaces replaced by ordinary spaces; the Newsmax opinion piece is in the first person and titled 'Sen. Justice: ...' but the reposted page shows no byline and the original Newsmax page was not opened; two coal press releases (2025-04-08, 2025-09-29) mention AI only in the office's background text, and a Fox Business article (2025-01-17) only paraphrases him on data centers for AI, so these were left out. Not searched: the Congressional Record and hearing transcripts directly."
+}

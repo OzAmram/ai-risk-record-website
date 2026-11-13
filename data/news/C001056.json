@@ -1,0 +1,67 @@
+{
+  "bioguide": "C001056",
+  "member": "John Cornyn",
+  "searches": [
+    "Cornyn artificial intelligence (restricted to cornyn.senate.gov)",
+    "Senator John Cornyn superintelligence",
+    "John Cornyn AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+    "Cornyn AI pause OR slowdown OR moratorium 2026",
+    "Cornyn AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Cornyn\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-05",
+      "venue": "Comment to Fox News Digital",
+      "quote": "I think that's incredibly irresponsible,",
+      "context": "Cornyn was reacting to Bill Gates saying on NBC's Meet the Press, when asked whether AI could wipe out humanity, that AI could kill a billion people.",
+      "source_label": "Fox News",
+      "url": "https://foxnews.com/politics/gop-senators-skeptical-bill-gates-fearmongering-ai-warning-democrats-sound-alarm",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [],
+      "reason": "He calls a warning that AI could cause mass deaths irresponsible, which dismisses the catastrophic risk itself rather than only opposing regulation."
+    },
+    {
+      "date": "2026-10-05",
+      "venue": "Comment to Fox News Digital",
+      "quote": "I mean, he's fearmongering,",
+      "context": "Same exchange: Cornyn on Bill Gates's warning that AI could kill a billion people, which he suggested could serve large AI companies seeking regulation that crowds out competitors.",
+      "source_label": "Fox News",
+      "url": "https://foxnews.com/politics/gop-senators-skeptical-bill-gates-fearmongering-ai-warning-democrats-sound-alarm",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [],
+      "reason": "He labels a warning of mass deaths from AI as fearmongering, which dismisses catastrophic risk from AI."
+    },
+    {
+      "date": "2026-10-05",
+      "venue": "Comment to Fox News Digital",
+      "quote": "I think the administration is generally on the right track in not trying to put a heavy hand on this technology,",
+      "context": "Same exchange: Cornyn on how the Trump administration is handling AI regulation.",
+      "source_label": "Fox News",
+      "url": "https://foxnews.com/politics/gop-senators-skeptical-bill-gates-fearmongering-ai-warning-democrats-sound-alarm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Opposing heavy regulation is about policy and does not acknowledge or dismiss catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI for safety reasons; he praised the administration for not putting 'a heavy hand' on AI, which is about regulation generally, not a stated position on a slowdown.", "sources": [["Fox News", "https://foxnews.com/politics/gop-senators-skeptical-bill-gates-fearmongering-ai-warning-democrats-sound-alarm"]]},
+    "pause": {"value": "none", "note": "No statement found on a pause of frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating AI pacing with China; he did not sign the 23 September 2026 letter, and his July 2026 op-ed frames AI as a race with China to be won.", "sources": [["Cornyn press release (op-ed)", "https://www.cornyn.senate.gov/?p=54367"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Did not sign the 23 September 2026 letter from 17 Senate Democrats urging AI talks with China (not on the verified signer list).", "Van Hollen press release, 2026-09-23", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"],
+    ["Op-ed in the Dallas Morning News arguing the CHIPS Act will help America win the AI race with China; no mention of AI safety risk.", "Cornyn press release, 2026-07-13 (op-ed ran 2026-07-10)", "https://www.cornyn.senate.gov/?p=54367"],
+    ["Co-sponsor of Sen. Hawley's GUARD Act on AI companions and children; said 'Unregulated AI companions have harmed children all across the country, including Texas.'", "Cornyn press release, 2026-04-30", "https://www.cornyn.senate.gov/?p=53910"],
+    ["Introduced with Sen. Cruz the Growing University AI for Defense Act (defense AI institute at a senior military college); a later release says it was signed into law.", "Cornyn press release, December 2025 (per search result, page not opened)", "https://www.cornyn.senate.gov/news/cornyn-introduces-bill-to-advance-defense-innovation-artificial-intelligence/"],
+    ["Introduced with Sen. Andy Kim the PROACTIV AI Data Act on removing child sexual abuse material from AI training data.", "Cornyn press release, July 2025 (per search result, page not opened)", "https://www.cornyn.senate.gov/news/cornyn-kim-introduce-bill-to-combat-ai-generated-child-sexual-abuse-material/"]
+  ],
+  "suggested_grade": "F",
+  "grade_reason": "His only found remarks on catastrophic AI risk (Fox News, 5 October 2026) call Bill Gates's warning that AI could kill a billion people 'incredibly irresponsible' and 'fearmongering'. Nothing found reached A, B or C.",
+  "notes": "Seven web searches ran; none was refused. The Fox News page was opened twice, but the page-reading tool returned Cornyn's longer sentences split into fragments, so only the short quotes it showed as continuous, directly attributed passages are used; a reviewer should check the three quotes against the article, including the trailing commas. Left out because I could not confirm it as one continuous passage: his remark that he worries Gates's warning is 'in pursuit of what's sometimes called regulatory capture', with a handful of AI companies crowding out competitors. The F reading could be argued: his stated objection is partly that such warnings invite regulation favouring big firms, but he does call the warning itself irresponsible fearmongering. An Ask a Pol interview (askapol.com/p/sen-cornyn-on-schumers-ai-forums) appeared in search results with remarks that 'I don't think the scare tactics have been particularly useful' and that AI is either 'the greatest thing since sliced bread, or it's going to take over the world and destroy us'; the page returned a 404 error, and it concerns Schumer's AI forums, so it most likely predates 1 January 2025; excluded. No source found showing he co-sponsored the Ban Artificial Superintelligence Act (S. 5493, Sanders); search results name only Sanders and Casar as sponsors, and congress.gov was not checked. Two Sinclair station articles from September 2026 on Congress and AI risk were opened and do not mention Cornyn. Reports conflict on his view of the 2025 federal moratorium on state AI laws (not relevant to the positions tracked here)."
+}

@@ -1,0 +1,109 @@
+{
+  "bioguide": "C001088",
+  "member": "Chris Coons",
+  "searches": [
+    "Chris Coons superintelligence",
+    "Coons artificial intelligence (restricted to coons.senate.gov)",
+    "Senator Coons AI \"extinction\" OR \"existential risk\"",
+    "Senator Chris Coons AI pause OR slowdown OR moratorium",
+    "senators letter AI talks with China September 2026 Coons",
+    "\"Ban Artificial Superintelligence Act\" cosponsors",
+    "\"Chris Coons\" \"AI safety\" (attempted twice; both attempts failed, first on a rate limit and then because the session's web search budget was used up, so this search returned no results)",
+    "Van Hollen letter 17 senators Trump Xi AI agreement signers list Coons (failed: search budget used up; the signer list was instead read directly on Van Hollen's press release page)"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "venue": "Bloomberg This Weekend interview (excerpted in Coons Senate press release of 14 September 2026)",
+      "quote": "And the level of risk for us as a species, as a nation, is gradually accelerating.",
+      "context": "Coons was discussing recent warnings about advanced AI models behaving in ways their designers cannot control, just before describing his AI whistleblower bill.",
+      "source_label": "Coons Senate press release",
+      "url": "https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-urges-congress-to-act-on-ai-risks-in-bloomberg-interview/",
+      "read_at_source": true,
+      "level": "A",
+      "flags": ["boundary"],
+      "reason": "He describes AI as a growing risk to \"us as a species\", which under ruling 1 (threat to humanity) is A, though he does not say extinction or permanent loss of control, so it sits between A and B."
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Bloomberg This Weekend interview (excerpted in Coons Senate press release of 14 September 2026)",
+      "quote": "These models are doing things that their designers didn’t expect, can’t predict, and aren’t able to fully control.",
+      "context": "Coons was describing why he and colleagues are concerned about the latest AI models, after mentioning a recent hack.",
+      "source_label": "Coons Senate press release",
+      "url": "https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-urges-congress-to-act-on-ai-risks-in-bloomberg-interview/",
+      "read_at_source": true,
+      "level": "B",
+      "flags": ["boundary"],
+      "reason": "He states in his own words that AI models are not fully under their designers' control, a loss-of-control risk, without extinction framing in this sentence."
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Bloomberg This Weekend interview (excerpted in Coons Senate press release of 14 September 2026)",
+      "quote": "minimal, reasonable guardrails to slow the rapidly accelerating pace of AI development and deployment.",
+      "context": "After comparing the moment to Cold War arms control talks with the Soviet Union and saying AI must be on the agenda when Trump meets Xi Jinping, Coons said what he wants the two sides to work out.",
+      "source_label": "Coons Senate press release",
+      "url": "https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-urges-congress-to-act-on-ai-risks-in-bloomberg-interview/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["boundary"],
+      "reason": "This passage is a policy call to slow AI development rather than a description of the harm, so on its own it acknowledges serious risk only in general terms."
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Bloomberg This Weekend interview (excerpted in Coons Senate press release of 14 September 2026)",
+      "quote": "This is as much a threat to China as it is to the United States",
+      "context": "Coons was arguing that AI risk should be raised when President Trump meets Xi Jinping, despite the two countries' competition.",
+      "source_label": "Coons Senate press release",
+      "url": "https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-urges-congress-to-act-on-ai-risks-in-bloomberg-interview/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [],
+      "reason": "He calls AI a threat to both countries without naming the harm in this passage."
+    },
+    {
+      "date": "2026-09-14",
+      "venue": "CNN, The Arena with Kasie Hunt",
+      "quote": "I think that they are scared by their own inventions",
+      "context": "Coons was referring to calls for AI safeguards from Sam Altman, Dario Amodei and Elon Musk, and urging Congress to act.",
+      "source_label": "Raw Story",
+      "url": "https://www.rawstory.com/ai-threat-2677858009/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["relayed_warning"],
+      "reason": "He relays AI executives' fears and says Congress should act, but the harms he names himself in this interview (per the article) are utility costs, water and jobs, not catastrophe."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "In his own words on Bloomberg (13 September 2026) he called for the US and China to find \"minimal, reasonable guardrails to slow the rapidly accelerating pace of AI development and deployment\"; this is a statement, not a bill or letter.",
+      "sources": [["Coons Senate press release, 14 September 2026", "https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-urges-congress-to-act-on-ai-risks-in-bloomberg-interview/"]]
+    },
+    "pause": {
+      "value": "no",
+      "note": "Two secondary summaries of the same Bloomberg interview say he called a full or unilateral pause impractical because of competition with China; this is a paraphrase, I did not see his exact words, and the excerpts on his own press release do not contain the word pause. A reviewer may prefer \"none\" or \"mixed\" until the interview video is checked.",
+      "sources": [["Crypto Briefing, 13 September 2026", "https://cryptobriefing.com/trump-ai-risks-xi-jinping-coons/"], ["Whatfinger summary of Bloomberg interview, 13 September 2026", "https://money.whatfinger.com/2026/09/13/senator-coons-urges-congress-to-act-on-ai-risks/"]]
+    },
+    "intl": {
+      "value": "yes",
+      "note": "He said AI \"has to be on the agenda when President Trump meets with Xi Jinping\", compared it to Cold War arms control agreements, and called for guardrails to slow the pace of AI development; this is a statement. He did not sign the 23 September 2026 letter from 17 senators.",
+      "sources": [["Coons Senate press release, 14 September 2026", "https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-urges-congress-to-act-on-ai-risks-in-bloomberg-interview/"]]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    ["Did not sign the 23 September 2026 letter led by Sen. Van Hollen urging Trump to negotiate an AI agreement with Xi Jinping; the press release lists all 17 signers and Coons is not among them.", "Van Hollen Senate press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"],
+    ["Introduced the AI Whistleblower Protection Act with Sen. Grassley, protecting AI workers who report dangers to public safety, public health or national security.", "Coons Senate press release (date read as 2 June 2025; please verify)", "https://www.coons.senate.gov/news/press-releases/senators-coons-grassley-introduce-ai-whistleblower-protection-act/"],
+    ["Introduced with Sen. Cotton a resolution affirming the importance of US dominance in AI and limiting advanced chip access for China.", "Coons press release as mirrored on Capitol Releases, 6 November 2025", "https://capitolreleases.com/releases/c356150a-6c91-4e30-90fd-659b185e968f"],
+    ["Co-sponsored Sen. Schatz's GUARDRAILS Act to repeal the executive order aimed at blocking state AI regulation.", "Schatz press release as mirrored on Capitol Releases, 27 March 2026", "https://capitolreleases.com/releases/76fd4372-2b82-420b-8178-a74afa39db41"],
+    ["Signed a letter with Sens. Gillibrand, Schiff, Warner and Kelly asking the administration to clarify its policy on limiting access to advanced AI models.", "Washington Examiner, 4 August 2026", "https://washingtonexaminer.com/news/senate/4674674/senate-democrats-letter-trump-administration-advanced-ai-models"],
+    ["Introduced with Sen. Reed a bill requiring human safeguards (control and shut-off) for AI used in defense; military use, so outside the rubric's scope.", "Coons Senate press release (page could not be opened; date not confirmed)", "https://www.coons.senate.gov/news/press-releases/ranking-members-coons-reed-introduce-bill-to-require-human-safeguards-around-use-of-artificial-intelligence-in-defense"]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "In a 13 September 2026 Bloomberg interview he said the level of risk from AI \"for us as a species\" is accelerating and that models are not fully controllable. The A rests on one boundary sentence (species-level risk, no explicit extinction wording); if the reviewer does not accept that as a threat to humanity, the grade is B.",
+  "notes": "QUOTE VERIFICATION LIMIT: my page-reading tool returns only short excerpts (about 125 characters), so every quote is a short exact excerpt it returned, not text I copied from the full page; I could not view the raw page. Please check each quote against the press release, especially apostrophes (the tool returned both straight and curly forms; I used curly). The quote beginning \"minimal, reasonable guardrails\" and the quote \"This is as much a threat to China as it is to the United States\" are parts of longer sentences, not full sentences. The press release itself is an edited excerpt of the interview with ellipses between paragraphs; the full Bloomberg video (https://www.bloomberg.com/news/videos/2026-09-13/senator-coons-urges-congress-to-act-on-ai-risks-video) was not viewed. LEFT OUT: (1) In the same interview he referred to \"the possibility of AI engineering a deadly bio-weapon\" alongside military uses (hypersonic missiles, code-cracking, GPS disruption); I could only get a fragment of that sentence and its framing is unclear, so it is not in statements, but if confirmed it would be a B statement. (2) He also said, about the Cold War, \"we were able to negotiate arms control agreements to reduce the risk we would destroy humanity.\"; that sentence is about nuclear weapons, used as an analogy, so it is not listed as an AI statement. (3) The pause position rests on paraphrases only (Crypto Briefing: a unilateral pause is unrealistic; Whatfinger: a full pause is impractical given China). (4) Raw Story paraphrases him on CNN as warning about utility costs, water and jobs; his CNN quote \"What I hope Congress is capable of ... is coming together and responding before we have a disaster on our hands\" is split by attribution in the article, so it was not used. (5) His 6 November 2025 resolution statement (\"The United States' prosperity and safety rests on our ability to win the AI race\") and his whistleblower bill statement (AI posing \"a substantial danger to public safety\") are level D or weak C and were left out as less substantial than the September 2026 remarks. BAN ARTIFICIAL SUPERINTELLIGENCE ACT: no source found showing Coons as a co-sponsor; the Congress.gov cosponsor page for S. 5493 returned an error, so this was not confirmed against the official list. SEARCH GAPS: the required search on his name with \"AI safety\" could not be run because the session's web search budget ran out; six other distinct searches did run. Pages that could not be opened: roic.ai article, courthousenews.com article, Congress.gov cosponsor page, Coons-Reed defense AI press release."
+}

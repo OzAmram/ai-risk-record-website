@@ -1,0 +1,66 @@
+{
+  "bioguide": "B001261",
+  "member": "John Barrasso",
+  "searches": [
+    "Barrasso artificial intelligence site:barrasso.senate.gov (first attempt failed with a rate-limit error)",
+    "site:barrasso.senate.gov artificial intelligence 2026",
+    "Senator John Barrasso superintelligence",
+    "John Barrasso AI \"extinction\" OR \"existential risk\" artificial intelligence",
+    "Barrasso AI moratorium OR pause OR slowdown artificial intelligence senator",
+    "Barrasso China AI agreement OR treaty OR talks senators letter September 2026",
+    "\"Barrasso\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+    "Barrasso AI \"Barrasso said\" artificial intelligence risk Senate whip October 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "venue": "Remarks to reporters at the Capitol, reported by Deseret News",
+      "quote": "We’re going to continue talking about it, probably more aggressively now than we had previously.",
+      "context": "Asked about Congress's response to AI after researchers' warnings in September 2026, Barrasso said Republicans had held meetings on AI for several years and would keep discussing it.",
+      "source_label": "Deseret News",
+      "url": "https://www.deseret.com/politics/2026/09/16/congress-weighs-role-in-ai-debate/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He says discussion of AI will continue with more urgency but names no risk from AI, catastrophic or otherwise."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Remarks to reporters at the Capitol, reported by Roll Call",
+      "quote": "I don't see a solution to the point that it's going to have a vote",
+      "context": "Barrasso, the Senate Majority Whip, said AI discussions were ongoing but that no AI safety measure was ready for a Senate floor vote in that work period.",
+      "source_label": "Roll Call",
+      "url": "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "A comment on the legislative calendar for AI bills that does not address whether AI poses catastrophic risk."
+    },
+    {
+      "date": "2025-07-30",
+      "venue": "Senate floor speech (published as a press release)",
+      "quote": "China’s vision for AI is not about cooperation. It’s about control. Their AI policy is built on oppression. Ours is built on freedom, privacy, and innovation. America must lead the AI revolution.",
+      "context": "A floor speech arguing that American energy production is needed to win the AI race against China, and criticising China's proposed 'World AI Cooperation Organization'.",
+      "source_label": "Senate press release",
+      "url": "https://www.barrasso.senate.gov/barrasso-whoever-powers-the-ai-revolution-will-win-the-ai-arms-race/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Competition with China and China's use of AI for control are outside the rubric's scope (ruling 5); no catastrophic risk from AI itself is named."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons; his July 2025 speech praises removing regulations on AI developers but does not address a slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement with China about the pace of AI development. In July 2025 he dismissed China's proposed 'World AI Cooperation Organization' as being about control rather than cooperation, which is close to but not a statement against a pacing agreement; a reviewer may wish to consider whether this merits 'no'.", "sources": [["Senate press release, 30 July 2025", "https://www.barrasso.senate.gov/barrasso-whoever-powers-the-ai-revolution-will-win-the-ai-arms-race/"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Gave a Senate floor speech titled 'Whoever Powers the AI Revolution Will Win the AI Arms Race', framing AI as an energy and China-competition issue and praising the Trump AI Action Plan.", "Senate press release, 30 July 2025", "https://www.barrasso.senate.gov/barrasso-whoever-powers-the-ai-revolution-will-win-the-ai-arms-race/"],
+    ["As Majority Whip, said in September 2026 that no AI safety measure had enough agreement to get a Senate floor vote in that work period.", "Roll Call, 15 September 2026", "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Barrasso's remarks on AI since January 2025 are about energy supply, competition with China and the Senate schedule for AI bills. No statement was found in which he acknowledges, or dismisses, catastrophic risk from AI.",
+  "notes": "All three quotes were checked against the source pages (the Deseret and Senate pages by downloading the page text; the Roll Call page through a page-fetching tool that returned the sentence). The Roll Call quote is a fragment inside the reporter's sentence, which reads: Barrasso 'said discussions around AI are ongoing, but that \"I don't see a solution to the point that it's going to have a vote,\" noting the tight timeline this work period and pointing to other legislative priorities'; the parts outside the quotation marks are the reporter's paraphrase. The Deseret article also quotes him: 'We’ve been having meetings about AI for several years, trying to figure out the best thing to do about it'. The same Deseret remark appears in shortened form on a news aggregator (streamlinefeed.co.ke), which appears to trace it to a Politico article of 15 September 2026 ('Inside John Thune's AI dilemma') that I did not open. 23 September 2026 letter urging AI talks with China: news reports describe the 17 signers as Democrats led by Sen. Van Hollen, and Barrasso is not named in any report I saw, but I did not open the letter's signature page, so his absence is inferred rather than confirmed from the signature list. Ban Artificial Superintelligence Act: sources show only Sen. Sanders as Senate sponsor; no source shows Barrasso as a co-sponsor, and I did not check the Congress.gov co-sponsor list. A search result listed a 10 July 2025 press release titled 'Barrasso Bill Stops Foreign and Artificial Intelligence Influence on Energy and Federal Lands Policy'; I could not locate or open that release, so it is not in the record. The first official-site search failed with a rate-limit error and was re-run with a slightly different query. Pre-2025 items (2023 and 2024 Energy Committee remarks and a letter on protecting national laboratory AI research from China) were found but are outside the date range."
+}

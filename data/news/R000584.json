@@ -1,0 +1,73 @@
+{
+ "bioguide": "R000584",
+ "member": "Jim Risch",
+ "searches": [
+  "Risch artificial intelligence (restricted to risch.senate.gov and foreign.senate.gov)",
+  "Senator Jim Risch superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+  "Senator Jim Risch AI extinction OR \"existential risk\" OR \"existential threat\" artificial intelligence",
+  "Jim Risch AI pause OR slowdown OR moratorium artificial intelligence 2026",
+  "Risch China artificial intelligence agreement OR treaty OR talks AI chips Foreign Relations chairman statement",
+  "\"Risch\" \"AI safety\" senator Idaho"
+ ],
+ "statements": [
+  {
+   "date": "2025-05-13",
+   "venue": "Press release introducing the TEST AI Act of 2025",
+   "quote": "While AI offers an opportunity to revolutionize American research and innovation, we must be cognizant of bad actors and potential threats to privacy and national security,",
+   "context": "Risch was announcing a bill with Sen. Luján to have the National Institute of Standards and Technology and the Department of Energy build testing facilities for AI systems.",
+   "source_label": "Risch Senate press release",
+   "url": "https://www.risch.senate.gov/news/press-releases/risch-lujan-introduce-legislation-to-improve-ai-testing-and-evaluation-systems/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He names threats to national security from AI and bad actors in general terms, with no catastrophic harm stated; this sits between C and D because the concern is mostly misuse by bad actors."
+  },
+  {
+   "date": "2025-05-15",
+   "venue": "Senate Foreign Relations Committee nominations hearing, opening statement as chairman",
+   "quote": "Its military is rapidly modernizing, its shipbuilding capacity makes us look weak, and its development of dual-use artificial intelligence is growing more advanced by the day.",
+   "context": "Risch was describing the military challenge from China to a State Department nominee for political-military affairs.",
+   "source_label": "Senate Foreign Relations Committee press release",
+   "url": "https://www.foreign.senate.gov/press/rep/release/chairman-risch-opening-statement-at-nominations-hearing5-15-25",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "This is about military competition with China, which the rubric places outside catastrophic risk from AI itself."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter urging AI talks with China, and no statement for or against such talks was found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on a ban on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Sen. Luján, the Testing and Evaluation Systems for Trusted Artificial Intelligence (TEST AI) Act of 2025, which would set up a pilot program of AI testing facilities at the national laboratories; the release lists Sens. Blackburn, Durbin and Welch as joining.",
+   "Risch Senate press release, 2025-05-13",
+   "https://www.risch.senate.gov/news/press-releases/risch-lujan-introduce-legislation-to-improve-ai-testing-and-evaluation-systems/"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His only statement since January 2025 that touches risk from AI is a general remark about bad actors and threats to national security when introducing an AI testing bill. It is a borderline C; a reviewer could reasonably call it D.",
+ "notes": "Six web searches ran, none refused. Both quotes were checked against the page text downloaded directly from the official sites. The C quote ends with a comma because the release breaks the sentence with 'said Risch'; the second half ('...establish safeguards to prevent misuse of this growing technology.') is a separate passage and was not joined. The D statement's quote is included for the reviewer although the rubric file says D quotes are left empty. Not a signer of the 23 September 2026 China letter (per the verified list). No source found showing him co-sponsoring the Ban Artificial Superintelligence Act; coverage names only Sanders in the Senate, but I did not open a co-sponsor list on congress.gov. Left out as before 2025: his November 2023 Foreign Relations hearing statement on AI (cyberattacks, adversary use) and the 2023 version of the TEST AI Act. Three Idaho news site articles on Congress and AI risk appeared in results; the one I opened does not mention Risch, the other two were not opened. No searches were run on hearing transcripts or floor speeches beyond the above, so remarks made only orally could have been missed."
+}

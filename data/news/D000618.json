@@ -1,0 +1,148 @@
+{
+ "bioguide": "D000618",
+ "member": "Steve Daines",
+ "searches": [
+  "Steve Daines artificial intelligence statement (restricted to daines.senate.gov)",
+  "Senator Steve Daines superintelligence AI",
+  "Steve Daines AI \"extinction\" OR \"existential risk\" senator Montana",
+  "Steve Daines AI pause OR slowdown OR moratorium state AI laws",
+  "Steve Daines China AI agreement OR treaty OR talks artificial intelligence Beijing visit",
+  "\"Daines\" \"AI safety\" senator",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-15",
+   "venue": "Fox News interview with Harris Faulkner (transcript in Senate press release)",
+   "quote": "But we should not be blind to the fact there are some downside risks, you know, bio-terrorism, other things that we need to be very concerned about.",
+   "context": "He was arguing against heavy regulation of AI, after praising its potential to help cure cancer.",
+   "source_label": "Senate press release",
+   "url": "https://www.daines.senate.gov/2026/09/15/daines-on-fox-news-we-need-to-be-gold-medalists-in-the-ai-race/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He names bioterrorism as a downside risk of AI that 'we need to be very concerned about', which is a catastrophic harm, though it is a brief mention without elaboration (could be read as C)."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "Fox News interview with Harris Faulkner (transcript in Senate press release)",
+   "quote": "All these predictions never came true. I hear a little bit of that right now from some of my colleagues on the left side of the aisle who are creating hysteria and want to create this to be a political issue versus thoughtfulness here in Washington",
+   "context": "Discussing the AI debate in Washington, he compared current warnings from Democratic colleagues to past 'climate change hysteria' that 'the world was going to end'.",
+   "source_label": "Senate press release",
+   "url": "https://www.daines.senate.gov/2026/09/15/daines-on-fox-news-we-need-to-be-gold-medalists-in-the-ai-race/",
+   "read_at_source": true,
+   "level": "F",
+   "flags": [
+    "boundary",
+    "unsure"
+   ],
+   "reason": "He likens colleagues' AI warnings to end-of-the-world climate predictions that 'never came true' and calls them hysteria, which dismisses alarm about AI; the transcript does not show the host's question, so exactly which warnings he meant is inferred from context."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "Fox News interview with Harris Faulkner (transcript in Senate press release)",
+   "quote": "We cannot go down the left’s call to stop or put a moratorium in AI. That hands this race right to China.",
+   "context": "Closing his argument for light-touch 'appropriate guardrails' rather than halting AI development.",
+   "source_label": "Senate press release",
+   "url": "https://www.daines.senate.gov/2026/09/15/daines-on-fox-news-we-need-to-be-gold-medalists-in-the-ai-race/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Opposes a stop or moratorium on AI on competition grounds; no catastrophic risk is acknowledged in this passage."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Fox News interview with Harris Faulkner (transcript in Senate press release)",
+   "quote": "The recursive nature of AI, what that means is AI is now programming AI. It’s becoming less about humans generating the next frontier models as AI generating the next AI models.",
+   "context": "Explaining why AI is moving too fast for Washington to keep up, before asking how to set guardrails that protect the public without inhibiting innovation.",
+   "source_label": "Senate press release",
+   "url": "https://www.daines.senate.gov/2026/09/23/daines-previews-xi-summit-on-fox-news-we-want-to-see-strategic-stability/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Describes AI building the next AI models as a matter of speed and mentions 'possible downsides' and guardrails, but states no consequence or catastrophic harm."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Fox Business interview with Stuart Varney (transcript in Senate press release)",
+   "quote": "Slow down is a mistake. When you’re running a race, last time I checked, Stuart, a winning strategy is not to slow down.",
+   "context": "Discussing the AI race with China and the debate in Washington over AI policy.",
+   "source_label": "Senate press release",
+   "url": "https://www.daines.senate.gov/2026/09/16/daines-on-fox-business-we-cannot-slow-down-in-the-race-against-china/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Rejects slowing AI development on competition grounds; no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "no",
+   "note": "He said those who assert the US should slow down AI are talking 'nonsense' (Fox News, 15 Sept 2026) and that 'Slow down is a mistake' (Fox Business, 16 Sept 2026), arguing the US is in a race with China.",
+   "sources": [
+    [
+     "Daines Senate press release (Fox News transcript), 2026-09-15",
+     "https://www.daines.senate.gov/2026/09/15/daines-on-fox-news-we-need-to-be-gold-medalists-in-the-ai-race/"
+    ],
+    [
+     "Daines Senate press release (Fox Business transcript), 2026-09-16",
+     "https://www.daines.senate.gov/2026/09/16/daines-on-fox-business-we-cannot-slow-down-in-the-race-against-china/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "no",
+   "note": "He said 'We cannot go down the left's call to stop or put a moratorium in AI' because it would hand the race to China (Fox News, 15 Sept 2026).",
+   "sources": [
+    [
+     "Daines Senate press release (Fox News transcript), 2026-09-15",
+     "https://www.daines.senate.gov/2026/09/15/daines-on-fox-news-we-need-to-be-gold-medalists-in-the-ai-race/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found for or against an agreement or talks with China on the pace of AI development. He did not sign the 23 September 2026 senators' letter. He led delegations to China in 2025 and 2026 and speaks of 'strategic stability', but frames AI as a race the US must win.",
+   "sources": [
+    [
+     "Daines Senate press release (Fox News transcript), 2026-09-23",
+     "https://www.daines.senate.gov/2026/09/23/daines-previews-xi-summit-on-fox-news-we-want-to-see-strategic-stability/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "He described AI 'now programming AI' on 23 Sept 2026 but did not call for or against any ban on self-improving AI.",
+   "sources": [
+    [
+     "Daines Senate press release (Fox News transcript), 2026-09-23",
+     "https://www.daines.senate.gov/2026/09/23/daines-previews-xi-summit-on-fox-news-we-want-to-see-strategic-stability/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Did not sign the 23 September 2026 letter from 17 Senate Democrats urging AI talks with China (not on the verified signer list).",
+   "Van Hollen Senate press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Said in Fox News and Fox Business interviews that the US must not slow down or put a moratorium on AI, and called for light 'adaptive governance' with 'appropriate guardrails'.",
+   "Daines Senate press releases, 2026-09-15, 2026-09-16 and 2026-09-23",
+   "https://www.daines.senate.gov/2026/09/15/daines-on-fox-news-we-need-to-be-gold-medalists-in-the-ai-race/"
+  ],
+  [
+   "Told Semafor, on federal action over state AI laws, that he would 'rather see Congress sort this out'.",
+   "Semafor, 2025-12-09",
+   "https://www.semafor.com/article/12/09/2025/ai-regulation-delays-plague-congress"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "His one acknowledgment of catastrophic risk is a brief mention of bioterrorism as an AI downside 'we need to be very concerned about' (B, borderline C). In the same interview he compared colleagues' AI warnings to climate 'hysteria' whose predictions 'never came true' (F, uncertain); under the brief's rule the B outranks the F, but a reviewer should weigh both.",
+ "notes": "Seven web searches ran, none refused. All four Daines press release pages (15 Sept, 16 Sept, 23 Sept, 1 Oct 2026) were downloaded and every quote was checked by script to be an exact continuous passage of the page text; the quotes are from the office's own transcripts of TV interviews, not checked against the video. The transcripts omit the host's questions and use ellipses between passages, so the F statement's target (which warnings he called hysteria) is inferred: the section is headed 'Daines on the AI race versus China' and follows mid-September 2026 news of AI researchers' extinction warnings. The full sentence before the F quote, cut for the 300-character limit, is: 'It reminds me a bit, Harris, remember the days of the climate change hysteria coming from the left about the world was going to end, the polar ice caps were going to be gone and so forth.' Also in the 15 Sept interview, not quoted as a statement: a hypothetical about a news article on 'how your company destroyed part of this economy or humanity because of your technology', used to argue that companies police themselves. The 1 Oct 2026 Nixon Foundation remarks mention AI only as adoption and competition with China (D, not included). The Semafor article (9 Dec 2025) was read through a summarising fetch tool, so its wording ('We've got senators for sure who have very thoughtful views on both sides of the issue. I'd rather see Congress sort this out.') is not verified character for character and is left out of statements; it concerns state versus federal AI rules (D). Ban Artificial Superintelligence Act: no source found showing Daines as a co-sponsor; Congress.gov was not checked, and the search results on its co-sponsor list conflicted with each other. No statements by him found on superintelligence, extinction or a China AI agreement. News coverage of his 2026 China trips (SCMP and others) was seen only in search results and not opened."
+}

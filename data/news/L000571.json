@@ -1,0 +1,119 @@
+{
+  "bioguide": "L000571",
+  "member": "Cynthia Lummis",
+  "searches": [
+    "Cynthia Lummis artificial intelligence statement site:lummis.senate.gov",
+    "Senator Cynthia Lummis superintelligence",
+    "Cynthia Lummis AI \"existential\" OR \"extinction\" risk",
+    "Cynthia Lummis AI pause OR slowdown OR moratorium",
+    "Cynthia Lummis AI China agreement OR treaty OR talks",
+    "\"Lummis\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2025-06-12",
+      "venue": "Findings section of the RISE Act of 2025 (S. 2081), the bill she introduced as sole sponsor",
+      "quote": "The development of artificial intelligence systems that may significantly impact the future of human civilization warrants a governance approach that balances innovation incentives with robust transparency requirements",
+      "context": "The findings of her liability bill say industry leaders are discussing artificial general intelligence and superintelligence, and that such systems call for transparency rules and a clear allocation of responsibility.",
+      "source_label": "Bill text, govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2081is/html/BILLS-119s2081is.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action",
+        "boundary"
+      ],
+      "reason": "The bill says AI may significantly impact the future of human civilization and mentions superintelligence, but it names no harm or risk of catastrophe, so it sits between C and D and is placed at D."
+    },
+    {
+      "date": "2025-05-08",
+      "venue": "Senate Commerce Committee hearing, \"Winning the AI Race: Strengthening U.S. Capabilities in Computing and Innovation\"",
+      "quote": "So, I would like to ask a few questions about how we can make sure we get the full benefit of this technology and accelerate its development.",
+      "context": "Lummis was questioning Sam Altman and other industry witnesses about state AI rules, permitting and energy for data centers, after contrasting European regulation with China's fast build-out.",
+      "source_label": "Hearing transcript, govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119shrg61426/html/CHRG-119shrg61426.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She promotes faster AI development and competition with China and does not mention catastrophic risk (rulings 5 and 6)."
+    },
+    {
+      "date": "2025-09-23",
+      "venue": "Op-ed in Cowboy State Daily, reposted as a Senate press release on 2025-09-25",
+      "quote": "If we don’t power America’s AI with Wyoming energy, China will build their AI dominance on their coal instead.",
+      "context": "Lummis argued that Wyoming coal, gas and uranium should power American AI data centers to beat China in AI.",
+      "source_label": "Senate press release (reposting Cowboy State Daily op-ed)",
+      "url": "https://www.lummis.senate.gov/press-releases/icymi-op-ed-from-senator-lummis-in-csd-wyoming-baseload-energy-is-trumps-secret-weapon-in-ai-war-against-china/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "It treats AI as a race with China and an energy question, which the rubric places at D (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "She has not spoken against a safety slowdown as such, so this stays 'none', but a reviewer should know she said at an 8 May 2025 hearing that she wants to 'accelerate its development', and her op-eds call for winning an AI race with China.",
+      "sources": [
+        [
+          "Hearing transcript, govinfo.gov",
+          "https://www.govinfo.gov/content/pkg/CHRG-119shrg61426/html/CHRG-119shrg61426.htm"
+        ],
+        [
+          "Fox News op-ed, 2025-08-18",
+          "https://www.foxnews.com/opinion/trumps-ai-plan-bulwark-against-rising-threat-from-china"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement for or against this policy was found in the six web searches or the pages opened. Her December 2025 remark that a federal 'moratorium' is a mistake was about a moratorium on state AI regulation, not a pause on AI development.",
+      "sources": [
+        [
+          "Semafor, 2025-12-04",
+          "https://www.semafor.com/article/12/04/2025/debatable-state-level-ai-regulations"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement on talks or an agreement with China on AI pacing was found; she did not sign the 23 September 2026 letter, and her op-eds frame China only as a rival to beat.",
+      "sources": [
+        [
+          "Van Hollen press release, 2026-09-23",
+          "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement for or against this policy was found in the six web searches or the pages opened.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the Responsible Innovation and Safe Expertise (RISE) Act of 2025, S. 2081, as sole sponsor: a conditional liability safe harbor for AI developers whose tools are used by licensed professionals, requiring public model cards and specifications.",
+      "Senate press release, 2025-06-12",
+      "https://www.lummis.senate.gov/press-releases/lummis-introduces-ai-legislation-to-foster-development-strengthen-professional-responsibility/"
+    ],
+    [
+      "The RISE Act's findings mention 'artificial general intelligence and superintelligence that could fundamentally reshape the society of the United States' and AI systems 'that may significantly impact the future of human civilization'.",
+      "Bill text as introduced, govinfo.gov, 2025-06-12",
+      "https://www.govinfo.gov/content/pkg/BILLS-119s2081is/html/BILLS-119s2081is.htm"
+    ],
+    [
+      "Said a federal moratorium on state AI regulation 'is a mistake' and called for a national baseline standard that lets states go further.",
+      "Semafor, 2025-12-04",
+      "https://www.semafor.com/article/12/04/2025/debatable-state-level-ai-regulations"
+    ],
+    [
+      "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+      "Van Hollen press release, 2026-09-23",
+      "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Across her bill, a hearing, two op-eds and two interviews, Lummis treats AI as an economic opportunity, a liability question and a race with China, and never names a catastrophic risk. The closest she comes is her bill's finding that AI 'may significantly impact the future of human civilization', which names no harm.",
+  "notes": "All 6 required web searches ran this time (none refused); the search is complete to the brief's standard. Pages opened and read: the RISE Act text and the 8 May 2025 Commerce hearing transcript on govinfo.gov, the Fox News op-ed, Semafor, Raw Story, NBC News, Peter Wildeford's blog post and The Decoder; the two lummis.senate.gov pages were read in the earlier run. All quotes were checked by exact match against the downloaded pages; the bill and hearing quotes run across line breaks in the govinfo text, so line breaks and indentation were collapsed to single spaces, with no other change. BOUNDARY CASE for the reviewer: the bill finding is graded D, but a reviewer could read 'may significantly impact the future of human civilization' together with the superintelligence finding as a general acknowledgment (C); the other superintelligence finding reads 'Industry leaders have publicly acknowledged the development of increasingly powerful artificial intelligence systems, with some discussing the potential for artificial general intelligence and superintelligence that could fundamentally reshape the society of the United States.' Bill text is treated as her words because she is the sole sponsor. D statements are capped at three, so these verified D-level remarks were left out of 'statements': the RISE press release quote kept in the earlier file ('Wyoming values both innovation and accountability; the RISE Act creates predictable standards that encourage safer AI development while preserving professional autonomy', https://www.lummis.senate.gov/press-releases/lummis-introduces-ai-legislation-to-foster-development-strengthen-professional-responsibility/); Fox News op-ed of 2025-08-18 ('The AI arms race is on — and America doesn't lose races.', https://www.foxnews.com/opinion/trumps-ai-plan-bulwark-against-rising-threat-from-china); Semafor 2025-12-04 ('I think there needs to be a base standard that applies nationally, but that doing a moratorium at the federal level on state regulation, I believe, is a mistake.'; Semafor does not say whether this was written or spoken, and the page carries both 4 and 5 December dates); Raw Story 2026-05-08 ('But on this, I get the point that there needs to be a certain base level of protection for artificial intelligence.', https://www.rawstory.com/raw-investigates/i-m-normally-a-states-rights-girl-trump-and-ted-cruz-team-up-to-state-ai-regs/), where she did not comment on the Anthropic model the article is headlined on. Paraphrase left out: crypto news sites (for example hokanews, 2026-08-19) report without a quote that she said AI would be Congress's next priority after the CLARITY Act. Ban Artificial Superintelligence Act: no source shows her as a co-sponsor; The Decoder (2026-09-24, https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/) names only Sen. Sanders and Rep. Casar, and congress.gov returned HTTP 403 again, so the official co-sponsor list was not checked. Not signing the China letter is taken from the addendum's verified list. The 'AI've Got a Plan' Commerce subcommittee hearing transcript (S. Hrg. 119-284) lists her as a member but contains no remarks by her. Nothing found on extinction, loss of control, bioweapons, a pause, or talks with China. Items before 1 January 2025 (2022 hearing video, 2024 deepfake bill, 2024 Gemini letter) were left out."
+}

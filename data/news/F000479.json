@@ -1,0 +1,143 @@
+{
+ "bioguide": "F000479",
+ "member": "Sen. John Fetterman (Democrat, Pennsylvania)",
+ "searches": [
+  "Fetterman artificial intelligence (restricted to fetterman.senate.gov)",
+  "Senator John Fetterman superintelligence AI",
+  "John Fetterman AI \"extinction\" OR \"existential\" risk",
+  "Fetterman AI pause OR moratorium OR slowdown data centers artificial intelligence",
+  "Fetterman China AI agreement OR treaty OR talks artificial intelligence senator",
+  "\"Fetterman\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Fetterman"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-01",
+   "venue": "Op-ed 'How to Regulate AI' in The Free Press, co-written with Sen. Dave McCormick (as quoted by The Center Square)",
+   "quote": "The federal government must also work hand in hand with industry to increase its oversight of models that pose credible biological, cyber, or nuclear risks",
+   "context": "The two senators were setting out how they think Congress should regulate AI, days after a voluntary White House accord on safety reviews of new AI models.",
+   "source_label": "The Center Square (via Just the News), quoting the Free Press op-ed",
+   "url": "https://justthenews.com/index.php/nation/states/center-square/fetterman-and-mccormick-team-how-regulate-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "Says some AI models pose credible biological, cyber or nuclear risks, which are catastrophic risks, without any extinction framing."
+  },
+  {
+   "date": "2026-10-01",
+   "venue": "Op-ed 'How to Regulate AI' in The Free Press, co-written with Sen. Dave McCormick (as quoted by The Center Square)",
+   "quote": "If a company develops an extraordinarily powerful AI system that causes catastrophic harm, there has to be accountability",
+   "context": "The op-ed was arguing for explicit legal liability for AI companies, including when 'a model goes rogue'.",
+   "source_label": "The Center Square (via Just the News), quoting the Free Press op-ed",
+   "url": "https://justthenews.com/index.php/nation/states/center-square/fetterman-and-mccormick-team-how-regulate-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Treats catastrophic harm from an extraordinarily powerful AI system as a real possibility that the law must cover, though it is phrased as a conditional and does not name the harm."
+  },
+  {
+   "date": "2026-10-01",
+   "venue": "Op-ed 'How to Regulate AI' in The Free Press, co-written with Sen. Dave McCormick (as quoted by The Center Square)",
+   "quote": "We cannot dismiss workers who fear they’ll be replaced, parents worried about their children, or the growing dangers of biological, cyber, and nuclear attacks",
+   "context": "The op-ed was listing the risks of AI after describing its benefits and saying 'the risks are bracing'.",
+   "source_label": "The Center Square (via Just the News), quoting the Free Press op-ed",
+   "url": "https://justthenews.com/index.php/nation/states/center-square/fetterman-and-mccormick-team-how-regulate-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "Names growing dangers of biological, cyber and nuclear attacks as AI risks that cannot be dismissed, which is mass-casualty risk without extinction framing."
+  },
+  {
+   "date": "2026-08-22",
+   "venue": "Post on X, as quoted by Fox News",
+   "quote": "I reject the political pandering and hyperbole over data centers or AI doomsdaying.",
+   "context": "He was sharing an article about the AI race between the United States and China and arguing against pulling back on AI and data centers.",
+   "source_label": "Fox News",
+   "url": "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction",
+   "read_at_source": true,
+   "level": "F",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Rejects 'AI doomsdaying' as hyperbole, which reads as dismissing warnings of catastrophe, although it does not argue against any specific risk and is mainly about data centers and China."
+  },
+  {
+   "date": "2026-08-10",
+   "venue": "Post on X, as quoted by The National News Desk (KUTV) and Fox News",
+   "quote": "America must lead in the development of AI, otherwise we live under China's rules",
+   "context": "He was responding to Sen. Bernie Sanders's open letter asking AI companies to pause AI development.",
+   "source_label": "KUTV / The National News Desk",
+   "url": "https://kutv.com/news/nation-world/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About competition with China and opposition to a pause, with no acknowledgment of catastrophic risk; included because it is his clearest statement on a pause."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "no",
+   "note": "He rejected Sanders's call to pause AI development ('That must not happen'), rejected 'AI doomsdaying', and the op-ed says the moment requires 'not histrionics and moratoriums' and that 'It is not enough to say 'slow down' to American developers'. The op-ed wording alone is closer to 'slowing is insufficient' than outright opposition, so a reviewer may prefer 'mixed'.",
+   "sources": [
+    [
+     "KUTV / The National News Desk, 11 Aug 2026",
+     "https://kutv.com/news/nation-world/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china"
+    ],
+    [
+     "Fox News, 23 Aug 2026",
+     "https://www.foxnews.com/politics/fetterman-aligns-trump-ai-push-warns-china-benefits-us-overreaction"
+    ],
+    [
+     "The Center Square, 1 Oct 2026",
+     "https://justthenews.com/index.php/nation/states/center-square/fetterman-and-mccormick-team-how-regulate-ai"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "no",
+   "note": "Responding to Sanders's call to pause AI development, he wrote that America must lead in AI 'otherwise we live under China's rules' and 'That must not happen'; he also called a data center moratorium 'China First'.",
+   "sources": [
+    [
+     "KUTV / The National News Desk, 11 Aug 2026",
+     "https://kutv.com/news/nation-world/senator-john-fetterman-rejects-bernie-sanderss-call-to-pause-ai-development-must-not-happen-china"
+    ],
+    [
+     "Fox News, 26 Mar 2026",
+     "https://www.foxnews.com/politics/fetterman-slams-ai-data-center-moratorium-proposal-china-first"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found for or against coordinating with China on the pace of AI; he is not among the signers of the 23 September 2026 letter.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Co-wrote the op-ed 'How to Regulate AI' with Sen. Dave McCormick, calling for legal liability for AI companies and more federal oversight of models posing biological, cyber or nuclear risks, while opposing moratoriums.",
+   "The Free Press, 1 Oct 2026 (paywalled; read through The Center Square report)",
+   "https://www.thefp.com/p/john-fetterman-dave-mccormick-ai-policy-data-centers"
+  ],
+  [
+   "Introduced with Sen. Ted Budd the National Programmable Cloud Laboratories Network Act, to create a national network of AI-enabled automated research labs (not about AI risk).",
+   "Fetterman Senate press release, seen in search results only, about December 2025",
+   "https://www.fetterman.senate.gov/fetterman-budd-introduce-legislation-to-create-first-national-network-of-ai-enabled-automated-labs/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China.",
+   "Van Hollen press release, 23 Sep 2026 (signer list verified by the project)",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In an October 2026 op-ed co-written with Sen. McCormick he says AI models can pose credible biological, cyber or nuclear risks and could cause catastrophic harm, without extinction framing. He also rejected 'AI doomsdaying' in August 2026 and opposes any pause, so the reviewer should weigh the F-level remark against the later op-ed.",
+ "notes": "Seven web searches ran, all succeeded. The op-ed quotes were read in The Center Square's report (republished on Just the News), not in The Free Press itself, which is paywalled after the introduction; the op-ed date shown there is 10.01.26. The op-ed is co-authored with Sen. Dave McCormick, so the words are joint. Other op-ed wording seen in the same report but not used as separate statements: the 'existential stakes of the AI race with China' (about the race, not AI itself, so level D), 'Congress should clarify the responsibilities that AI developers and hosts have when a model goes rogue', and 'not histrionics and moratoriums'. The August and March remarks are X posts as quoted in news articles; the posts themselves were not opened. The 22 August post was also quoted identically by the Washington Examiner (https://www.washingtonexaminer.com/?p=4697477). The March post ('A moratorium is China First') was reported by Fox News on 26 March 2026; its exact post date (25 or 26 March) was not confirmed and it is not listed as a statement. The date 2026-08-10 for the pause remark comes from KUTV saying 'Monday' in an article dated Tuesday 11 August 2026. No source found showing he co-sponsored the Ban Artificial Superintelligence Act (S. 5493); the cosponsor list on congress.gov was not checked. Nothing found from him on superintelligence, extinction, or a China agreement. The Fetterman-Budd press release was seen only in search results and not opened."
+}

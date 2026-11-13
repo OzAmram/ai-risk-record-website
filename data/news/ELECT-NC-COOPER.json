@@ -1,0 +1,106 @@
+{
+ "bioguide": "ELECT-NC-COOPER",
+ "member": "Roy Cooper",
+ "searches": [
+  "NOT RUN (web search budget refused): Roy Cooper artificial intelligence Senate campaign 2026",
+  "NOT RUN (refused): \"Roy Cooper\" superintelligence",
+  "NOT RUN (refused): \"Roy Cooper\" \"AI safety\"",
+  "NOT RUN (refused): \"Roy Cooper\" AI extinction OR \"existential risk\"",
+  "NOT RUN (refused): \"Roy Cooper\" AI pause OR moratorium OR slowdown data centers",
+  "NOT RUN (refused): \"Roy Cooper\" AI China agreement OR treaty",
+  "NOT RUN (refused): site-restricted roycooper.com artificial intelligence",
+  "roycooper.com site search: artificial intelligence (no results)",
+  "roycooper.com site search: AI (10 results, none about the technology)",
+  "roycooper.com site search: superintelligence (no results)",
+  "roycooper.com site search: China (no results)",
+  "roycooper.com site search: data centers (7 results, all about electricity costs)",
+  "roycooper.com pages opened: home, press releases (page 1 of 34), FAQ, energy plan, 18 March 2026 Asheville utility-plan release",
+  "cardinalpine.com site search: Cooper artificial intelligence",
+  "cardinalpine.com site search: Cooper AI",
+  "wunc.org site search: Roy Cooper artificial intelligence",
+  "wunc.org site search: Cooper \"data centers\" AI Senate",
+  "wfae.org site search: Cooper \"artificial intelligence\"",
+  "bpr.org site search: Cooper data centers AI",
+  "theassemblync.com site search: Cooper artificial intelligence (no results)",
+  "indyweek.com site search: Roy Cooper questionnaire (no results)",
+  "carolinajournal.com site search: Cooper artificial intelligence (returned only cartoons)",
+  "Wikipedia: 2026 United States Senate election in North Carolina (whole page scanned for AI, debates, questionnaires)",
+  "FAILED to load: wral.com search, ncnewsline.com search (403), newsobserver.com search (blocked), politico.com search (blocked), axios.com search (403), ballotpedia.org Roy Cooper and race pages (empty)"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-14",
+   "venue": "Interview with Cardinal & Pine after a campaign event in Greensboro, North Carolina",
+   "quote": "I think everybody who’s involved in it right now is really concerned about the negative potential for the human race, and we’ve gotta make sure we have guardrails in place that can protect people and then leverage the good that can come out of it",
+   "context": "Asked about AI after President Trump said federal rules were not needed, Cooper said talks with China and other countries were needed because people working on AI are worried about it.",
+   "source_label": "Cardinal & Pine",
+   "url": "https://cardinalpine.com/news/elections/roy-cooper-ai-war-healthcare-greensboro/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "He relays the concern of people involved in AI about its 'negative potential for the human race' and calls for guardrails, which acknowledges serious risk in general terms; it stops short of saying AI threatens human survival or control, so it sits between C and A (ruling 1)."
+  },
+  {
+   "date": "2026-10-14",
+   "venue": "Interview with Cardinal & Pine after a campaign event in Greensboro, North Carolina",
+   "quote": "I think it’s gonna be important for us to get independent, knowledgeable people together and to put guardrails in place to protect people.",
+   "context": "Responding to President Trump's position that federal AI rules are not needed and that companies will police themselves.",
+   "source_label": "Cardinal & Pine",
+   "url": "https://cardinalpine.com/news/elections/roy-cooper-ai-war-healthcare-greensboro/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Calls for federal AI guardrails drawn up by independent experts without naming any catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing AI development. His data center position (data centers should pay the full cost of their power and local communities should be involved in siting) is about electricity bills, not risks from AI itself.",
+   "sources": [
+    [
+     "Cooper campaign energy plan",
+     "https://roycooper.com/costless/energy/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause on frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "yes",
+   "note": "On 14 October 2026 he said \"we’re gonna need people to meet with the Chinese leader and other countries about what they are doing with AI\", tying this to concern about AI's negative potential for the human race. This is a statement supporting direct talks with China on AI, not a signed letter or bill, and he did not mention the pace of development, a pause or a treaty, so a reviewer may prefer \"none\".",
+   "sources": [
+    [
+     "Cardinal & Pine, 14 October 2026",
+     "https://cardinalpine.com/news/elections/roy-cooper-ai-war-healthcare-greensboro/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "As a candidate and not a sitting senator, he could not sign the 23 September 2026 letter from 17 senators urging AI talks with China or co-sponsor the Ban Artificial Superintelligence Act; no source was found showing him commenting on or endorsing either.",
+   "No source; inference from his status as senator-elect (elected 3 November 2026)",
+   ""
+  ],
+  [
+   "Campaign energy plan says data centers should pay the full cost of the power they use and that local communities should be fully involved in decisions about data centers (electricity cost, not AI risk).",
+   "Cooper campaign website, plan announced 18 March 2026",
+   "https://roycooper.com/costless/energy/"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His one substantive remark on AI found (14 October 2026) relays that people involved in AI are 'really concerned about the negative potential for the human race' and calls for guardrails and talks with China. That acknowledges serious risk in general terms; a reviewer could read 'the human race' as reaching level A under ruling 1.",
+ "notes": "All seven general web searches were refused (shared search budget used up), so the required searches on superintelligence, extinction, pause, China and \"AI safety\" did not run; they are listed in `searches` as NOT RUN. Coverage instead comes from the campaign site's own search and a handful of North Carolina news sites' own search pages, so it is thin and statements may have been missed, especially in the News & Observer, WRAL, NC Newsline, Politico and Axios, whose pages could not be opened. Both quotes were checked character for character against the downloaded article page (curly apostrophes as published). Both come from one interview; the level C quote and the China wording quoted in the `intl` note are parts of the same sentence. The article's own narration (not Cooper's words) says 26 state attorneys general asked Congress for international cooperation on artificial superintelligence; Cooper was not quoted on that. A second Cardinal & Pine item (21 October 2026, https://cardinalpine.com/news/video/roy-cooper-says-guardrails-are-needed-for-artificial-intelligence/) is a video (YouTube id 98abDo9XpPk) whose page text only paraphrases him as discussing guardrails and global cooperation; I could not watch or transcribe the video, so it may contain further wording. A Cardinal & Pine newsletter of 15 October 2026 has the preview line 'Roy Cooper zeroes in on AI' and appears to point to the same interview; not opened. The campaign website has no AI content at all (issues are groceries, health care, energy, child care, housing). No general election debate, and no candidate questionnaire answered by Cooper mentioning AI, was found; Wikipedia's race page lists none, and Ballotpedia could not be loaded. Statements before 2025 from his time as governor were out of scope and not searched."
+}

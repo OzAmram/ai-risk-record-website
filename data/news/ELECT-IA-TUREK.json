@@ -1,0 +1,77 @@
+{
+  "bioguide": "ELECT-IA-TUREK",
+  "member": "Josh Turek",
+  "searches": [
+    "Josh Turek artificial intelligence (web search; ran, returned nothing relevant)",
+    "\"Turek\" Iowa Senate \"AI safety\" (web search; REFUSED, search budget used up)",
+    "Josh Turek superintelligence (web search; REFUSED)",
+    "Josh Turek AI extinction OR \"existential risk\" (web search; REFUSED)",
+    "Josh Turek AI pause OR slowdown OR moratorium data centers (web search; REFUSED)",
+    "Josh Turek AI China agreement OR treaty (web search; REFUSED)",
+    "site:turek4iowa.com AI OR \"artificial intelligence\" (web search; REFUSED)",
+    "Direct page: https://turek4iowa.com/ (home page; no mention of AI)",
+    "Direct page: https://turek4iowa.com/platform (no mention of AI, technology, data centers or China)",
+    "Direct page: https://turek4iowa.com/news (all press release titles, 12 April 2025 to 29 October 2026; none about AI)",
+    "Direct page: https://turek4iowa.com/news/what-iowans-are-hearing-three-takeaways-from-last-nights-ia-sen-debate (no mention of AI)",
+    "Direct page: https://en.wikipedia.org/wiki/Josh_Turek (used only to find sources; has an 'Artificial intelligence' section citing C-SPAN, USA Today and Newsweek)",
+    "Direct page: Newsweek report on the 7 October 2026 debate (opened and read)",
+    "Site search: bleedingheartland.com ?s=Turek artificial intelligence (one unrelated 2023 result)",
+    "Site search: iowapublicradio.org search 'Turek artificial intelligence' (first page of results; none name Turek)",
+    "Site search: radioiowa.com ?s=Turek artificial intelligence (no results)",
+    "Site search: kscj.com ?s=Turek AI (opened the two debate reports of 8 and 14 October 2026)",
+    "Site search: iowacapitaldispatch.com ?s=Turek artificial intelligence (FAILED, HTTP 403)",
+    "Site search: iowapbs.org search 'Turek Hinson debate' (page returned no results to the fetch tool)"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-07",
+      "venue": "Iowa PBS general election debate with Ashley Hinson, Johnston, Iowa",
+      "quote": "I agree we should not cede the ground to China",
+      "context": "Answering a debate question on technology and artificial intelligence; Newsweek reports he also said AI will fundamentally transform society and that Americans need protections for jobs.",
+      "source_label": "Newsweek",
+      "url": "https://www.newsweek.com/iowa-senate-debate-ashley-hinson-josh-turek-polls-watch-12536792",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "This is about competing with China on AI, with jobs the only harm named; no catastrophic risk from AI is acknowledged."
+    },
+    {
+      "date": "2026-10-07",
+      "venue": "Iowa PBS general election debate with Ashley Hinson, Johnston, Iowa",
+      "quote": "I am absolutely in favor of some regulations on data centers",
+      "context": "Same debate answer on technology and artificial intelligence; Newsweek reports he also called for no more tax breaks for the companies involved.",
+      "source_label": "Newsweek",
+      "url": "https://www.newsweek.com/iowa-senate-debate-ashley-hinson-josh-turek-polls-watch-12536792",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Regulating data centers and ending their tax breaks is outside the scope of catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development for safety reasons. KSCJ radio reported (in its own words, not a quote) that both candidates opposed a federal moratorium on data center construction at the final debate; that concerns data center siting, not risks from AI itself, so it is not counted.",
+      "sources": [["KSCJ, 14 October 2026", "https://kscj.com/2026/10/14/hinson-turek-take-part-in-final-u-s-senate-debate/"]]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a halt to building more capable AI systems.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an agreement or talks with China on the pace of AI development. His only China remark found is that the United States should not cede ground to China, which is about competition and is not a statement against an agreement.",
+      "sources": [["Newsweek, 7 October 2026", "https://www.newsweek.com/iowa-senate-debate-ashley-hinson-josh-turek-polls-watch-12536792"]]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remarks found are from the 7 October 2026 debate and concern jobs, competition with China, and data center regulation and tax breaks. Nothing found acknowledges catastrophic risk from AI. The search was incomplete (see notes), so this is a weak result.",
+  "notes": "SEARCH WAS INCOMPLETE. Only one web search ran (\"Josh Turek artificial intelligence\", nothing relevant); the six others, including the required ones on superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement or treaty, \"AI safety\", and the campaign-site-restricted search, were refused because the shared search budget was used up. I substituted direct page visits and news sites' own search pages, listed in `searches`. Pages I could not open: (1) the C-SPAN clip titled \"Josh Turek says Congress has a role in regulating A.I.\", dated 21 September 2026 per Wikipedia's footnote, https://www.c-span.org/clip/campaign-2026/josh-turek-says-congress-has-a-role-in-regulating-ai/5206891 (redirected to a bot paywall; not read). This is probably his most substantial AI statement and a reviewer should watch it; I do not know what he says in it beyond the title. (2) USA Today, 30 September 2026, \"Democrats are running against data centers in key Senate races\", https://www.usatoday.com/story/news/politics/elections/2026/09/30/democrats-data-centers-regulation-ohio-iowa-texas/91498159007/ (fetch blocked). A summary of the Wikipedia page attributed to this article a Turek quote about large corporations paying their fair share and not getting tax breaks; I could not verify the wording at source so it is left out; it would be level D in any case. (3) The Gazette report on the May 2026 Democratic primary debate with Zach Wahls (rate-limited; not read). (4) Iowa Capital Dispatch site search (HTTP 403). (5) No debate transcript from Iowa PBS was found. Des Moines Register was not checked. Paraphrases left out of `statements`: Newsweek says Turek said AI will fundamentally transform society and that Americans need protections for jobs and more; Wikipedia says he criticised the concentration of AI among a few corporations and is concerned about AI job losses; KSCJ says both candidates said local officials should decide where data centers are built and both opposed a federal data center moratorium (final debate, reported 14 October 2026; exact debate date not confirmed). The Newsweek quotes were read through a page-fetching tool that summarises pages; the two quotes were returned identically on two separate reads, but a reviewer should confirm them on the page. Newsweek gives the debate date as 7 October 2026. The 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: Turek was not a senator in September 2026 and so could not have signed or co-sponsored; I found no source showing he commented on either, but the searches that would have checked this did not run. The campaign site's platform page and all press release titles (April 2025 to October 2026) contain nothing on AI. No candidate questionnaire mentioning AI was found."
+}

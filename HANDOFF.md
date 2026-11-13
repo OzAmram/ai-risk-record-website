@@ -7,7 +7,7 @@ Handoff from a planning session on 11 November 2026. Read this first, then `xris
 A public website recording what US politicians have said about catastrophic and existential risk from AI. Each politician gets:
 
 1. A letter grade for how explicitly they acknowledge the risk.
-2. Yes / No / Mixed / No stated position on three policies: a pause, a slowdown, an international agreement that includes China.
+2. Yes / No / Mixed / No stated position on four policies: a slowdown, a pause, international coordination with China on pacing or pausing, a ban on self-improving AI.
 3. Their most relevant statements, dated, quoted and linked to a source.
 
 Scope for now: the US Senate (100 members). The House, governors and state legislators come later.
@@ -26,7 +26,7 @@ The gap is a maintained, per-politician record focused on catastrophic risk.
 ## Current state
 
 - `xrisk-record.html`: single-file prototype. Index, five senator pages, methodology page. All data is in the `S` array in the script; rubric in `RUBRIC`; field definitions in `FIELDS`.
-- Five draft records: Sanders (A), Blumenthal (B), Hawley (B), Cruz (C), Slotkin (C). These are first-pass drafts with no second human check.
+- Five draft records: Sanders (A), Blumenthal (B), Hawley (C), Cruz (C), Slotkin (D), as revised by Oz on 11 November 2026. Individual quotes still need checking against their sources.
 - Nothing has been collected from X yet. Three quotes are X posts cited through news reports.
 
 ## Next task: collect posts through the X API
@@ -71,24 +71,42 @@ For the Senate only, divide by roughly five.
 
 AI, "artificial intelligence", superintelligence, AGI, "frontier AI", "AI safety", chatbot, OpenAI, Anthropic, "data center". Broaden after looking at what the pilot misses. Extra matches cost little.
 
-## Rubric (draft v0.1)
+## Rubric (draft v0.2)
 
 | Grade | Criterion |
 |---|---|
 | A | Explicitly says AI could cause human extinction or permanent loss of human control. |
 | B | Says advanced AI poses catastrophic risks (mass casualties, bioweapons, loss of control) without the extinction framing. |
 | C | Acknowledges serious risks from advanced AI in general terms, or relays others' warnings without stating them as their own view. |
-| D | Discusses only present-day harms (jobs, deepfakes, children, data centers). |
+| D | Catastrophic AI risk not acknowledged. Has spoken about AI, but not about catastrophic risk. |
 | F | Dismisses or mocks catastrophic risk. |
 | None | No relevant statement found. Silence is not dismissal. |
 
 The grade measures acknowledgment, not policy. A politician can acknowledge the risk and oppose every measure.
 
+This record tracks one thing: what politicians have said about catastrophic risk from AI. Other consequences of AI, such as job loss, economic disruption, the impact of data centers and concentration of power, are real and important. They are outside the scope of this record, and a grade says nothing about a politician's record on them.
+
+Rulings by Oz on 11 November 2026 (v0.2):
+
+- Military use of AI (autonomous weapons, nuclear launch, calls for human oversight) is D unless a catastrophic consequence is named. This reverses an earlier ruling of the same day, after Oz reviewed Slotkin's page.
+- "Rogue AI" is not a rubric category. Grade by the harm named: cybercrime alone is D.
+- AI as a tool of surveillance or control if China wins the race is not AI safety risk: D.
+- "AI must benefit everyone, not just billionaires" with no catastrophic harm named: D.
+- "Threatens the future of humanity" and similar wording is A.
+- A relayed warning that the politician endorses counts as their own statement.
+- A co-signed letter counts as the signer's statement, graded on the letter's own wording. The 23 September 2026 letter is A (Oz, later on 11 November 2026; first ruled B).
+- Statements from 2026 count for much more than statements from 2025 (Oz, 12 November 2026). Not yet built into the drafted grades as a rule; applied by hand to Murphy.
+- When a person both acknowledges catastrophic risk and dismisses talk of extinction or "doomerism", the acknowledgment decides the grade if it names a real catastrophic harm (Oz, 12 November 2026: Warner, Fetterman, McCormick, Daines are B). If the person mocks the warnings and never says what the serious risk is, the grade is F (Moreno). Grades ruled by a person are kept in `data/grade_overrides.csv`.
+- A bill or investigation about catastrophic risk does not by itself earn B; a statement in the politician's own words is needed (inferred from Oz grading Hawley C).
+- Grades after Oz's review of the five pages: Sanders A, Blumenthal B, Hawley C, Cruz C, Slotkin D. Cruz is No on coordination with China.
+
 ## Position fields
 
 - **Pause:** a halt to building more capable frontier systems. A pause conditional on other countries joining, or on safety rules, is Mixed.
 - **Slowdown:** slowing frontier capability progress for safety reasons. Data center moratoria motivated by electricity cost or local impact do not count.
-- **International agreement including adversaries:** a safety agreement or treaty that includes China. Coordinating with allies to out-compete China does not count.
+- **International coordination with China on pacing or pausing:** coordinating with China on the pace of frontier AI development, including a mutual slowdown or pause, through an agreement, treaty or direct talks. Coordinating with allies to out-compete China does not count.
+
+- **Ban on self-improving AI** (added 11 November 2026): a ban on AI systems that improve themselves or carry out AI research without human direction, often called recursive self-improvement. A ban on superintelligence alone does not count. Not yet part of the post labelling instructions.
 
 "No" requires a statement against the policy. Silence is always "No stated position".
 

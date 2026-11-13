@@ -1,0 +1,169 @@
+{
+ "bioguide": "M001169",
+ "member": "Chris Murphy",
+ "searches": [
+  "Chris Murphy superintelligence AI senator statement",
+  "Chris Murphy AI extinction OR \"existential risk\" OR \"existential threat\" artificial intelligence (failed: rate limited)",
+  "Chris Murphy AI pause OR slowdown OR moratorium artificial intelligence development",
+  "senators letter AI talks China September 23 2026 17 senators Murphy",
+  "\"Ban Artificial Superintelligence Act\" cosponsors",
+  "\"Murphy\" \"AI safety\" senator Connecticut",
+  "site murphy.senate.gov: Murphy artificial intelligence superintelligence OR \"AI safety\" OR extinction (failed: rate limited)",
+  "Chris Murphy AI \"extinction\" OR \"existential\" senator warns artificial intelligence humanity",
+  "site murphy.senate.gov: Murphy artificial intelligence superintelligence \"AI safety\" catastrophic",
+  "Three further searches (Van Hollen letter signer list; Murphy China agreement Munich 2026; Murphy \"death machine\") were not performed because the session search budget ran out",
+  "Browsed murphy.senate.gov press release listing pages 1-5 directly for AI releases"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-27",
+   "venue": "NBC News interview with Garrett Haake (podcast 'Here's the Scoop: Election Edition'), transcript in Senate press release",
+   "quote": "this coming generation of AI that is going to essentially, you know, be super genius-level intelligence, is fundamentally different than any other technology that man has ever created. It's not just another version of the printing press. It is something brand new, and it's an existential threat.",
+   "context": "Asked why industry cannot be left to regulate itself after a former Anthropic employee's warning, Murphy compared advanced AI with nuclear energy as a 'potentially life-destroying' invention that must be regulated.",
+   "source_label": "Senate press release (interview transcript)",
+   "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-deems-artificial-intelligence-an-existential-threat-rejects-republican-fearmongering-calls-for-immediate-action-heading-into-the-midterms",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He calls coming super-genius-level AI an existential threat and likens it to life-destroying technologies, but does not say outright that it threatens humanity or extinction, and later in the same interview uses 'existential threat' for spiritual and social harm."
+  },
+  {
+   "date": "2026-10-27",
+   "venue": "NBC News interview with Garrett Haake, transcript in Senate press release",
+   "quote": "right now you are on the verge of having AI company-built models that escape human control. And they can't seem to fix that on their own.",
+   "context": "Asked what Congress could pass first, Murphy said models escaping containment may be the most immediate problem and called for government approval of models.",
+   "source_label": "Senate press release (interview transcript)",
+   "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-deems-artificial-intelligence-an-existential-threat-rejects-republican-fearmongering-calls-for-immediate-action-heading-into-the-midterms",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "States in his own words that AI models are close to escaping human control, a loss-of-control risk, without extinction framing."
+  },
+  {
+   "date": "2026-10-27",
+   "venue": "NBC News interview with Garrett Haake, transcript in Senate press release",
+   "quote": "I don't know that any of them are science fiction threats any longer.",
+   "context": "Reply to a question asking him to separate actual threats of unregulated AI from 'science fiction threats'; he then listed jobs, politics and spiritual harm.",
+   "source_label": "Senate press release (interview transcript)",
+   "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-deems-artificial-intelligence-an-existential-threat-rejects-republican-fearmongering-calls-for-immediate-action-heading-into-the-midterms",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Declines to dismiss the dramatic threats as science fiction, a general acknowledgment, but the harms he then names are jobs, politics and spiritual harm."
+  },
+  {
+   "date": "2026-09-22",
+   "venue": "Foreign Policy forum at the United Nations General Assembly ('Securing the Stack')",
+   "quote": "I don't think there's any path forward without us being in a conversation with the Chinese",
+   "context": "Answering how far the US can trust China on AI, Murphy said talks with China and others on basic AI safety guidelines, above all keeping human control over these systems, are necessary.",
+   "source_label": "Senate press release, 23 September 2026",
+   "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-joins-united-nations-general-assembly-event-on-artificial-intelligence",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "unsure"
+   ],
+   "reason": "Treats keeping human control of AI as a serious safety matter needing talks with China, without naming a catastrophic outcome in the wording I could see."
+  },
+  {
+   "date": "2026-09-10",
+   "venue": "Public reaction (most likely an X post) to former Anthropic researcher Jacob Coxon's warning",
+   "quote": "race to build a death machine first",
+   "context": "Reacting to an ex-Anthropic researcher's warning about the race to superintelligence, Murphy said a regulatory system could deal with the competitive race while letting research continue.",
+   "source_label": "Anadolu Agency factbox, 10 September 2026",
+   "url": "https://aa.com.tr/en/world/factbox-ai-researchers-sound-extinction-alarm-as-us-lawmakers-demand-action/4053312",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary",
+    "unsure",
+    "relayed_warning"
+   ],
+   "reason": "Calling what AI companies are racing to build a 'death machine' endorses a warning of mass death, but only this fragment of his wording could be read at a source."
+  },
+  {
+   "date": "2025-06-17",
+   "venue": "Substack essay, excerpted in Senate press release",
+   "quote": "Every single executive I met with admitted that they had built a machine that they could not understand or control.",
+   "context": "Essay arguing that AI companies are racing to deploy AGI for profit and that unregulated AI threatens the economy and culture.",
+   "source_label": "Senate press release",
+   "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-unregulated-ai-will-destroy-our-economy-and-culture",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "relayed_warning"
+   ],
+   "reason": "Relays executives' admission that they cannot understand or control their systems, but the harms the essay names are jobs and values, not catastrophe."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI for safety reasons. He calls for regulation, licensing and government approval of models, and Anadolu paraphrases him as wanting a system that lets research continue under safeguards. He said a data center moratorium may make sense without federal rules, but tied it to job loss, which does not count.",
+   "sources": [
+    [
+     "Senate press release, 27 Oct 2026",
+     "https://www.murphy.senate.gov/newsroom/press-releases/murphy-deems-artificial-intelligence-an-existential-threat-rejects-republican-fearmongering-calls-for-immediate-action-heading-into-the-midterms"
+    ],
+    [
+     "Anadolu Agency, 10 Sep 2026",
+     "https://aa.com.tr/en/world/factbox-ai-researchers-sound-extinction-alarm-as-us-lawmakers-demand-action/4053312"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a halt to frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "He said there is no path forward without talks with China on basic AI safety guidelines such as human control, but in the wording I could see he did not call for coordinating the pace of development or a mutual slowdown or pause, and he did not sign the 23 September 2026 letter. A reviewer may judge this closer to 'mixed'.",
+   "sources": [
+    [
+     "Senate press release, 23 Sep 2026",
+     "https://www.murphy.senate.gov/newsroom/press-releases/murphy-joins-united-nations-general-assembly-event-on-artificial-intelligence"
+    ],
+    [
+     "Letter PDF with signature block",
+     "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the AI Agent Accountability Act with Sen. Hawley, making operators and developers of AI agents criminally and civilly liable for hacking by their agents.",
+   "Senate press release, 1 October 2026",
+   "https://www.murphy.senate.gov/newsroom/press-releases/murphy-hawley-announce-breakthrough-bipartisan-legislation-to-force-ai-developers-to-prioritize-safety-or-face-prison-time"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China: his name is not among the 17 signatures on the letter (Blumenthal, the other Connecticut senator, did sign).",
+   "Letter PDF, Senate Commerce Committee Democrats, 23 September 2026",
+   "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+  ],
+  [
+   "Introduced legislation with Sen. Schatz to reverse the Trump executive order blocking state AI laws (seen in search results only, page not opened).",
+   "Senate press release, about April 2026",
+   "https://www.murphy.senate.gov/newsroom/press-releases/murphy-schatz-introduce-legislation-to-reverse-trumps-state-ai-law-moratorium"
+  ],
+  [
+   "Co-sponsored the bipartisan GUARD Act restricting AI companion chatbots for minors (seen in search results only, page not opened).",
+   "Blumenthal press release, about October 2025",
+   "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-murphy-cosponsor-bipartisan-bill-protecting-children-from-ai-chatbots"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In an October 2026 NBC interview he called coming super-genius-level AI 'an existential threat' and said models are on the verge of escaping human control. He stops short of saying AI threatens humanity or extinction in his own words, and often uses 'existential' for economic and spiritual harm, so B rather than A; this is a boundary call.",
+ "notes": "A/B boundary: the 27 October 2026 press release headline and a staff-written line say Murphy sees AI as 'an existential threat to humanity', but 'to humanity' is the press office's wording, not his; a reviewer could reasonably raise the first statement to A. The statement date 2026-10-27 is the release date; the interview was recorded shortly before. 'Death machine': search results summarising a Courthouse News article give the fuller wording 'in a blind race to build a death machine first', but Courthouse News returned an access error (403) both times, so only the fragment printed by Anadolu Agency is quoted. The original is probably an X post of 10 September 2026, which this search does not cover. UN forum quote: the Murphy release page blocked direct download, so I read it through the page-fetch tool, which returned only short excerpts; the quoted words were returned as exact but may be part of a longer sentence, and I could not machine-check them. Other excerpts returned from that page: 'the most important of which is maintaining human control over these systems' and 'jump out of containment'. All other quotes were checked character for character against the downloaded page text (curly quotes normalised). Left out as level D: 16 September 2026 X video text ('we are cooked, as an economy and a culture, if we leave it to the industry to protect us', via IBTimes UK); the interview passage where 'existential threat' refers to spiritual emptiness; June 2025 essay lines about AGI destroying jobs and values; June 2025 Paris speech. Paraphrases left out: IBTimes says that at the Munich Security Conference in February 2026 he said governments needed to work together to regulate AI; a 1 October 2026 release says he spoke at the UN about 'humanity losing control over the technology' (staff wording). Ban Artificial Superintelligence Act: no source found showing Murphy as a co-sponsor; the Congress.gov cosponsor page could not be opened (403), so this is unconfirmed rather than ruled out. Two of the first searches failed from rate limiting and were rerun; three planned follow-up searches could not be run because the shared search budget was used up. Pages that could not be opened: courthousenews.com, bizpacreview.com (18 Sept 2026 article on senators and a superintelligence ban, may mention Murphy), congress.gov."
+}

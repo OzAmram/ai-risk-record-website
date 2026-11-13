@@ -1,0 +1,184 @@
+{
+ "bioguide": "W000805",
+ "member": "Sen. Mark Warner (Democrat, Virginia)",
+ "searches": [
+  "Mark Warner artificial intelligence risk statement 2026 (restricted to warner.senate.gov)",
+  "Senator Mark Warner superintelligence",
+  "Mark Warner AI \"extinction\" OR \"existential\" risk senator",
+  "Mark Warner AI pause OR slowdown OR moratorium 2026",
+  "Mark Warner AI China agreement OR treaty OR talks artificial intelligence",
+  "\"Mark Warner\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Warner"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-15",
+   "venue": "PBS NewsHour interview",
+   "quote": "I don't believe imminent existential threat, but potentially catastrophic threat, yes.",
+   "context": "Asked whether AI poses an imminent existential threat, after an Anthropic researcher's resignation and warning.",
+   "source_label": "PBS NewsHour transcript",
+   "url": "https://www.pbs.org/newshour/show/sen-mark-warner-says-u-s-can-strengthen-ai-safety-without-losing-race-to-china",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "He says in his own words that AI is potentially a catastrophic threat, while declining the existential framing."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "PBS NewsHour interview",
+   "quote": "I do think some of these companies believe that we are so close to being on the cusp of potentially these models going beyond humans' ability to control them, that I think we have to act with a sense of urgency.",
+   "context": "Asked what AI legislation could realistically pass this year.",
+   "source_label": "PBS NewsHour transcript",
+   "url": "https://www.pbs.org/newshour/show/sen-mark-warner-says-u-s-can-strengthen-ai-safety-without-losing-race-to-china",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "He relays the companies' belief that models may soon go beyond human control and endorses it by calling for urgent action; loss of control is named but not called permanent, so B rather than A."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "PBS NewsHour interview",
+   "quote": "You can't do voluntary when there's at least a reasonable chance of a catastrophic risk that might currently disrupt the financial markets or disrupt water systems or electric systems.",
+   "context": "Responding to the Trump administration's view that AI companies can handle safety voluntarily.",
+   "source_label": "PBS NewsHour transcript",
+   "url": "https://www.pbs.org/newshour/show/sen-mark-warner-says-u-s-can-strengthen-ai-safety-without-losing-race-to-china",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "He says there is a reasonable chance of a catastrophic risk from AI, naming disruption of financial markets, water and electric systems."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Reuters interview",
+   "quote": "This talk about human extinction is over the top.",
+   "context": "Reuters interview in which he urged Congress to pass AI safety standards by the end of the year.",
+   "source_label": "Reuters, republished by Virginia Business",
+   "url": "https://virginiabusiness.com/us-senator-mark-warner-urges-fast-ai-safety-legislation/",
+   "read_at_source": true,
+   "level": "F",
+   "flags": [
+    "boundary",
+    "unsure"
+   ],
+   "reason": "Taken on its own the sentence dismisses the risk of human extinction from AI, although in the same interview he argued for urgent safety rules, so it dismisses the extinction framing rather than catastrophic risk as a whole."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Press release introducing the Artificial Intelligence Risk Management and Security Act of 2026",
+   "quote": "If a model is capable of finding and exploiting vulnerabilities in a bank, a water system, or our electric grid, we ought to know that before it is released to the public – not after something goes catastrophically wrong.",
+   "context": "Announcing his bill to set enforceable safety and security standards for the most advanced AI models.",
+   "source_label": "Senate press release",
+   "url": "https://www.warner.senate.gov/newsroom/press-releases/warner-schatz-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "The harm named is AI-enabled hacking of banks, water systems and the electric grid, a serious threat to critical infrastructure stated in general terms rather than a named mass-casualty outcome."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Press statement on President Trump's executive order renaming artificial intelligence",
+   "quote": "But leadership also means making sure these systems are safe, secure, and remain under human control.",
+   "context": "Criticising an executive order that renamed AI and left safety to the companies.",
+   "source_label": "Senate press release",
+   "url": "https://www.warner.senate.gov/newsroom/press-releases/warner-statement-on-president-trumps-executive-order-to-rebrand-artificial-intelligence/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "He says AI systems must remain under human control and elsewhere in the statement that the risks are no longer theoretical, without naming a catastrophic outcome."
+  },
+  {
+   "date": "2026-07-21",
+   "venue": "Senate floor speech",
+   "quote": "And I share the concern of many Americans that the impacts of this technology on our country and our culture could be catastrophic.",
+   "context": "Floor speech unveiling his AI legislative agenda on jobs, data centers and national security.",
+   "source_label": "Senate press release (floor remarks as posted)",
+   "url": "https://www.warner.senate.gov/newsroom/press-releases/warner-unveils-comprehensive-ai-agenda-focused-on-impact-on-the-economy-national-security-competition-and-american-workers/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says AI's impacts on the country and culture could be catastrophic, but in general terms that in context cover jobs and society rather than mass casualties or loss of control."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "mixed",
+   "note": "Uncertain call. To Reuters (16 September 2026) he said \"I don't think whether we call it a pause or pacing means that we're going to stop innovation\", which reads as accepting some pacing of AI for safety; his bill would make frontier developers give a federal safety board access 45 days before release. But his 21 July 2026 floor speech described his agenda as \"Not slowing innovation but guiding it\", and on PBS he said he wants America to win the race. A reviewer may prefer \"none\".",
+   "sources": [
+    [
+     "Reuters via Virginia Business, 17 September 2026",
+     "https://virginiabusiness.com/us-senator-mark-warner-urges-fast-ai-safety-legislation/"
+    ],
+    [
+     "Senate press release, 21 July 2026",
+     "https://www.warner.senate.gov/newsroom/press-releases/warner-unveils-comprehensive-ai-agenda-focused-on-impact-on-the-economy-national-security-competition-and-american-workers/"
+    ],
+    [
+     "PBS NewsHour, 15 September 2026",
+     "https://www.pbs.org/newshour/show/sen-mark-warner-says-u-s-can-strengthen-ai-safety-without-losing-race-to-china"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a halt to frontier AI development. His only remark using the word is the ambiguous Reuters line about \"a pause or pacing\". On PBS he said that a catastrophe leading politicians to \"shut it all down\" would not be good for America or innovation, which is about a reaction to a disaster rather than a pause policy. His reported description of a data center construction moratorium as \"idiocy\" (Axios, 25 March 2026, page not opened) concerns data centers and does not count under the rubric.",
+   "sources": [
+    [
+     "Reuters via Virginia Business, 17 September 2026",
+     "https://virginiabusiness.com/us-senator-mark-warner-urges-fast-ai-safety-legislation/"
+    ],
+    [
+     "PBS NewsHour, 15 September 2026",
+     "https://www.pbs.org/newshour/show/sen-mark-warner-says-u-s-can-strengthen-ai-safety-without-losing-race-to-china"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter urging AI talks with China. To Reuters he said \"This is really one where we have to go back to a level of international collaboration\", and Reuters paraphrased him as wanting the US to work with China and other nations on AI as the world tries to thwart bad actors; that is collaboration on safety, not an agreement on pacing or pausing development.",
+   "sources": [
+    [
+     "Reuters via Virginia Business, 17 September 2026",
+     "https://virginiabusiness.com/us-senator-mark-warner-urges-fast-ai-safety-legislation/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the Artificial Intelligence Risk Management and Security Act of 2026 with Sens. Schatz and Kim (original co-sponsors); it would create an AI Safety Board in the Commerce Department, require frontier developers to give it model access at least 45 days before release, and covers risks including cyberattacks, models evading developer control, and help with chemical, biological, radiological or nuclear weapons.",
+   "Senate press release, 24 September 2026",
+   "https://www.warner.senate.gov/newsroom/press-releases/warner-schatz-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation/"
+  ],
+  [
+   "Asked unanimous consent on the Senate floor, with Sens. Schatz and Kim, to pass that bill; the request was blocked by a Republican objection (Sen. Cruz, according to the floor-remarks release).",
+   "Senate press releases, 29 September 2026",
+   "https://www.warner.senate.gov/newsroom/press-releases/warner-statement-on-president-trumps-executive-order-to-rebrand-artificial-intelligence/"
+  ],
+  [
+   "Unveiled an AI legislative agenda on the Senate floor including the Secure AI Development Act (mandatory secure testing of the most advanced models, voluntary safety incident reporting) and the Data Center Tax Accountability and Disclosure Act.",
+   "Senate press release, 21 July 2026",
+   "https://www.warner.senate.gov/newsroom/press-releases/warner-unveils-comprehensive-ai-agenda-focused-on-impact-on-the-economy-national-security-competition-and-american-workers/"
+  ],
+  [
+   "With four Democratic colleagues, wrote to the Trump administration about its oversight of new AI models' national security risks (release title seen in the site's press release list; the page itself could not be opened).",
+   "Senate press release, 4 August 2026",
+   "https://www.warner.senate.gov/newsroom/press-releases/warner-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "On PBS NewsHour (15 September 2026) he said AI is a \"potentially catastrophic threat\" and spoke of models going beyond humans' ability to control them, while explicitly rejecting the existential framing. A day later he told Reuters that talk of human extinction is \"over the top\", so he does not reach A.",
+ "notes": "Seven web searches ran (the six required plus one on the Ban Artificial Superintelligence Act); none was refused. All seven quotes were checked character for character against downloaded copies of the pages. The Reuters quote is taken from the Virginia Business republication; the gvwire.com and whbl.com copies carry the same wording. The interview date 2026-09-16 is inferred from Reuters saying \"Wednesday\" in a story dated Thursday 17 September. The F label on the extinction quote is a judgment call under ruling 6: he dismisses extinction talk but not catastrophic risk; the full Reuters sentence is: \"I'm not a doomer,\" the Virginia Democrat said in the interview on Wednesday. \"This talk about human extinction is over the top.\" (two separate quoted passages, so only the second is used). Ban Artificial Superintelligence Act: no source found showing Warner co-sponsored it; coverage names Sanders and Rep. Casar plus House Democrats, and congress.gov was not checked. 23 September 2026 China letter: not a signer per the verified list. Left out: (1) 29 September 2026 floor remarks (https://www.warner.senate.gov/newsroom/press-releases/on-senate-floor-warner-discusses-urgent-need-to-pass-ai-security-legislation/), which I could only read through a summarising fetch tool, not directly; it reported him saying \"We've already seen not tens but thousands of examples where these models go beyond what humans want them to do\" and that innovation could stop \"if an AI tool took over a hospital or water system\" - wording not verified by me, worth a manual look. (2) Reuters paraphrase that he warned about AI agents taking over banking, water or hospital systems. (3) Big Technology interview, 27 March 2026 (https://www.bigtechnology.com/p/senator-mark-warner-on-ais-risks), reported quote \"I want to be more optimistic,\" he said. \"But I am terrified.\" - seen only through the fetch tool and apparently about jobs. (4) Search-result summaries say he told Semafor (April 2026) he is an AI optimist in the long run and called job disruption a 'hair on fire' moment; not opened. (5) Axios 25 March 2026 data center moratorium \"idiocy\" story returned an access error. In the PBS interview he also said (not used, D-level or duplicative) that AI agents \"hid information from the humans\" in an OpenAI incident. The slowdown value of \"mixed\" is my least certain call."
+}

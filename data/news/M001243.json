@@ -1,0 +1,200 @@
+{
+ "bioguide": "M001243",
+ "member": "Dave McCormick",
+ "searches": [
+  "Dave McCormick senator artificial intelligence statement (restricted to mccormick.senate.gov)",
+  "Sen. Dave McCormick superintelligence AI",
+  "Dave McCormick AI \"extinction\" OR \"existential risk\" senator Pennsylvania",
+  "Dave McCormick AI pause OR slowdown OR moratorium senator",
+  "Dave McCormick AI China agreement OR treaty OR talks senator",
+  "\"McCormick\" senator \"AI safety\"",
+  "McCormick \"some channel on AI is necessary\" Center Square",
+  "\"Ban Artificial Superintelligence Act\" Senate cosponsors September 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-01",
+   "venue": "Op-ed in The Free Press, co-written with Sen. John Fetterman (\"How to Regulate AI\")",
+   "quote": "We cannot dismiss workers who fear they’ll be replaced, parents worried about their children, or the growing dangers of biological, cyber, and nuclear attacks.",
+   "context": "The two senators were listing the risks of AI that they say justify guardrails, after saying the race with China does not justify unchecked AI development.",
+   "source_label": "The Free Press op-ed, as reposted on mccormick.senate.gov",
+   "url": "https://www.mccormick.senate.gov/news/op-eds/john-fetterman-and-dave-mccormick-how-to-regulate-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Names biological and nuclear attacks as growing dangers of AI, which is a mass-casualty risk, but in a single clause without elaboration, so it sits between B and C."
+  },
+  {
+   "date": "2026-10-01",
+   "venue": "Op-ed in The Free Press, co-written with Sen. John Fetterman (\"How to Regulate AI\")",
+   "quote": "If a company develops an extraordinarily powerful AI system that causes catastrophic harm, there has to be accountability.",
+   "context": "They were arguing for explicit legal liability for AI companies and targeted government oversight, including for when \"a model goes rogue\".",
+   "source_label": "The Free Press op-ed, as reposted on mccormick.senate.gov",
+   "url": "https://www.mccormick.senate.gov/news/op-eds/john-fetterman-and-dave-mccormick-how-to-regulate-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Treats catastrophic harm from a very powerful AI system as a real possibility needing liability rules, without saying what the harm would be."
+  },
+  {
+   "date": "2026-10-01",
+   "venue": "Op-ed in The Free Press, co-written with Sen. John Fetterman (\"How to Regulate AI\")",
+   "quote": "Social media zealots and politicians who parrot hysterical claims that AI will kill us all will not lead us to the answers—nor will those who say the technology poses zero risks entirely.",
+   "context": "The op-ed responded to a viral post by an Anthropic employee saying AI could end humanity, and called for a bipartisan approach instead of \"histrionics and moratoriums\".",
+   "source_label": "The Free Press op-ed, as reposted on mccormick.senate.gov",
+   "url": "https://www.mccormick.senate.gov/news/op-eds/john-fetterman-and-dave-mccormick-how-to-regulate-ai/",
+   "read_at_source": true,
+   "level": "F",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls the claim that AI could kill everyone hysterical, which dismisses the extinction risk, although the same sentence also rejects the view that AI poses no risk."
+  },
+  {
+   "date": "2026-09-20",
+   "venue": "Fox News Sunday interview, as quoted by The Center Square",
+   "quote": "It also poses risk in terms of disruption in the economy, the job market, in terms of wealth concentration, possibly in terms of bioterror or something like that",
+   "context": "Asked about calls for federal AI regulation, he listed the risks of AI alongside its benefits before arguing that industry rather than government should lead oversight.",
+   "source_label": "The Center Square, 22 September 2026",
+   "url": "https://www.thecentersquare.com/pennsylvania/article_1330aee7-a8bd-4bd7-a073-6afb140d73c8.html",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Names bioterror as a possible risk of AI, which is a mass-casualty harm, but tentatively and in a list led by economic effects, so it sits between B and C."
+  },
+  {
+   "date": "2026-07-29",
+   "venue": "Speech at the Manhattan Institute (\"Master of Our Fate: America and the AI Revolution\"), remarks as prepared for delivery",
+   "quote": "Any regulatory review should be swift and light, except for models posing credible biological, cyber, or nuclear risks, which demand extraordinary scrutiny.",
+   "context": "He was setting out his national security approach to AI, with innovation and open-source development as the default.",
+   "source_label": "Senate office remarks page",
+   "url": "https://www.mccormick.senate.gov/news/remarks/master-of-our-fate-america-and-the-ai-revolution-manhattan-institute/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Acknowledges that some AI models may pose biological or nuclear risks serious enough for strict review, in general terms and as an exception to light regulation."
+  },
+  {
+   "date": "2026-09-18",
+   "venue": "Interview reported by The Center Square (apparently the 1210 WPHT radio interview of Friday 18 September 2026; the article does not say which interview)",
+   "quote": "And what we're learning with AI is sometimes these things happen without us having adequate controls.",
+   "context": "He was explaining why the United States needs an open channel of communication with China on AI, so that an AI incident is not assumed to be deliberate.",
+   "source_label": "The Center Square, 22 September 2026",
+   "url": "https://www.thecentersquare.com/pennsylvania/article_1330aee7-a8bd-4bd7-a073-6afb140d73c8.html",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "unsure"
+   ],
+   "reason": "Acknowledges in general terms that AI systems can do things without adequate human control, without naming a catastrophic consequence."
+  },
+  {
+   "date": "2026-09-20",
+   "venue": "Fox News Sunday interview, as quoted by The Center Square",
+   "quote": "I think we need to guide and guard against some of these worst case scenarios",
+   "context": "He was arguing that AI companies and an industry-led body, not the federal government, should take the lead on oversight.",
+   "source_label": "The Center Square, 22 September 2026",
+   "url": "https://www.thecentersquare.com/pennsylvania/article_1330aee7-a8bd-4bd7-a073-6afb140d73c8.html",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "Acknowledges worst case scenarios from AI that need guarding against, in general terms without saying what they are."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "no",
+   "note": "The op-ed says \"It is not enough to say “slow down” to American developers\" and argues against betting that China would slow if America did.",
+   "sources": [
+    [
+     "The Free Press op-ed, as reposted on mccormick.senate.gov",
+     "https://www.mccormick.senate.gov/news/op-eds/john-fetterman-and-dave-mccormick-how-to-regulate-ai/"
+    ],
+    [
+     "The Center Square report on the op-ed, as carried by Just The News, 1 October 2026",
+     "https://justthenews.com/nation/states/center-square/fetterman-and-mccormick-team-how-regulate-ai"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "no",
+   "note": "In a September 2026 interview he said: \"if you basically say we're going to just stop, as some people have called for a pause on AI development: you can do that, but the Chinese, who are our biggest adversary, are going to take the lead.\" The 1 October 2026 op-ed also says the moment requires \"a bipartisan, clear-eyed approach, not histrionics and moratoriums\", and in the July speech he rejected data center moratoria.",
+   "sources": [
+    [
+     "The Center Square, 22 September 2026",
+     "https://www.thecentersquare.com/pennsylvania/article_1330aee7-a8bd-4bd7-a073-6afb140d73c8.html"
+    ],
+    [
+     "The Free Press op-ed, as reposted on mccormick.senate.gov",
+     "https://www.mccormick.senate.gov/news/op-eds/john-fetterman-and-dave-mccormick-how-to-regulate-ai/"
+    ],
+    [
+     "Senate office remarks page",
+     "https://www.mccormick.senate.gov/news/remarks/master-of-our-fate-america-and-the-ai-revolution-manhattan-institute/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "mixed",
+   "note": "He supports a communication channel with China on AI (\"I do think some channel on AI is necessary\"; \"But I do think engaging on this most important thing going on in the world right now is an important part of protection.\"), citing Cold War contact with the Soviet Union, but in the same remarks he rejected a pause because China would take the lead, and he said nothing in favour of an agreement on the pace of AI development. A Fox Business video caption (May 2026) says he condemned Sen. Sanders's call for US-China cooperation on AI regulation; no quote was available. He did not sign the 23 September 2026 letter. A reviewer should decide whether a communication channel alone counts; if not, this is \"none\".",
+   "sources": [
+    [
+     "The Center Square, 22 September 2026",
+     "https://www.thecentersquare.com/pennsylvania/article_1330aee7-a8bd-4bd7-a073-6afb140d73c8.html"
+    ],
+    [
+     "Whatfinger page embedding the Fox Business 'Mornings with Maria' video, 1 May 2026 (caption only)",
+     "https://money.whatfinger.com/2026/05/01/its-crazy-senator-rejects-including-chinese-ai-leaders-in-us-planning/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "Nothing found on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Co-wrote an op-ed with Sen. Fetterman calling for stronger legal liability for AI companies and more federal oversight of models posing credible biological, cyber or nuclear risks, while opposing a slowdown and moratoriums.",
+   "The Free Press op-ed reposted on mccormick.senate.gov, 1 October 2026",
+   "https://www.mccormick.senate.gov/news/op-eds/john-fetterman-and-dave-mccormick-how-to-regulate-ai/"
+  ],
+  [
+   "Gave a speech setting out an AI framework: light regulation except for models with biological, cyber or nuclear risks, an industry standards body, child protections, and a data center 'covenant' instead of a moratorium.",
+   "Senate office remarks page, 29 July 2026",
+   "https://www.mccormick.senate.gov/news/remarks/master-of-our-fate-america-and-the-ai-revolution-manhattan-institute/"
+  ],
+  [
+   "In interviews on Fox News Sunday and 1210 WPHT radio, backed an industry-led oversight body modelled on the financial industry's self-regulator, further legislation placing liability on AI companies, a possible dedicated cabinet department for AI, and a communication channel with China on AI, while opposing a pause.",
+   "The Center Square, 22 September 2026",
+   "https://www.thecentersquare.com/pennsylvania/article_1330aee7-a8bd-4bd7-a073-6afb140d73c8.html"
+  ],
+  [
+   "Sponsor, with Sen. Wyden, of the Remote Access Security Act to extend export controls to access to advanced chips through cloud services (aimed at China; not about AI safety).",
+   "Senate office press release (page dated 21 December 2025)",
+   "https://www.mccormick.senate.gov/news/press-releases/senators-mccormick-and-wyden-introduces-remote-access-security-act-to-extend-export-controls-for-critical-technology-access-through-cloud-services/"
+  ],
+  [
+   "Co-sponsor of a Senate resolution led by Sens. Coons and Cotton on keeping US primacy in AI and limiting sales of advanced AI chips to China (about competition with China, not AI safety).",
+   "Roll Call, 6 November 2025",
+   "https://rollcall.com/2025/11/06/senate-measure-would-support-limits-on-ai-chip-sales-to-china/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China.",
+   "Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In a 1 October 2026 op-ed he named the growing dangers of biological, cyber and nuclear attacks and catastrophic harm from very powerful AI systems as real risks, and on Fox News Sunday on 20 September 2026 he listed bioterror as a possible risk of AI. The same op-ed calls claims that AI will kill us all hysterical, so he acknowledges catastrophic risk but rejects the extinction framing; all three B statements are borderline with C.",
+ "notes": "Search complete: 8 web searches ran on 11 November 2026 (the six required ones plus two follow-ups); none was refused. An earlier run had covered only his own website; its four statements are kept unchanged. New material comes from one Center Square article (22 September 2026) reporting two interviews: Fox News Sunday (20 September 2026) and 1210 WPHT radio ('Friday', taken as 18 September 2026). The article does not say which interview the China channel and 'adequate controls' remarks came from; I dated them 18 September and flagged the statement unsure. I did not see a transcript or recording of either interview, so the wording is as transcribed by The Center Square. The Gateway Pundit (20 September 2026, https://thegatewaypundit.com/2026/09/senator-dave-mccormick-weighs-ai-race-china-video) transcribes the Fox bioterror line slightly differently ('disruption in the economy and the job market ... possibly in terms of bio terror'), so the exact spoken words should be checked against the video before publishing. All seven quotes were checked by a script to appear character for character in the linked pages (the four earlier ones on his site in the earlier run; the three new ones in the Center Square page in this run). The op-ed quotes 'We cannot dismiss workers...' and 'If a company develops...' also appear with the same wording (apart from the final punctuation mark) in The Center Square's report of the op-ed (https://justthenews.com/nation/states/center-square/fetterman-and-mccormick-team-how-regulate-ai); thefp.com itself shows only the opening of the op-ed without a subscription, so the full text was not checked there. The op-ed is co-written with Sen. Fetterman, so the words are jointly his. Ban Artificial Superintelligence Act (S. 5493, Sanders, with Rep. Casar in the House): no source seen showing McCormick co-sponsored it; coverage names no Senate co-sponsors, and congress.gov was not opened. Not verified either way. Pages that could not be opened (error 403): Axios, 15 April 2026 (https://axios.com/2026/04/15/mccormick-ai-revolution-risks-energy); Pennsylvania Capital-Star on his 18 May 2026 Pennsylvania Press Club speech; Mediaite on Nvidia chip sales. A search result said he is an original co-sponsor of the GAIN AI Act and the SAFE Chips Act (chip export limits on China); I could not open a page confirming this, so it is not in the record. Left out as level D: Axios event, 15 April 2026, 'That offers enormous opportunity, but it's also enormous disruption and risk, so it's scary' (read at https://okcfox.com/news/nation-world/republican-senator-dave-mccormick-says-ai-technology-could-cause-enormous-disruption; about economic and social disruption); Hudson Institute remarks reported by Nextgov on 19 October 2026 (permitting, energy and data centers only); speech line 'I am skeptical of both the doomers who predict mass unemployment' (jobs); 'America is in an existential race with Communist China' and the op-ed's 'If we cede AI leadership to totalitarian China, we risk surrendering our way of life' (competition with China); the Hudson Institute China speech on his site. Paraphrase left out: the Fox Business caption saying he condemned Sanders's call for US-China cooperation on AI regulation (video only, no text quote; date of remarks not shown). Several search results about an 'AI moratorium' concern Rep. Rich McCormick of Georgia, a different person, and were ignored. Judgment calls for the reviewer: the F label (the sentence rejects both extremes); B versus C for the three B statements; and whether support for a communication channel with China makes the international position 'mixed' or 'none'."
+}

@@ -1,0 +1,186 @@
+{
+ "bioguide": "K000367",
+ "member": "Amy Klobuchar",
+ "searches": [
+  "Klobuchar artificial intelligence statement 2026 [restricted to klobuchar.senate.gov]",
+  "Amy Klobuchar superintelligence",
+  "Amy Klobuchar AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+  "Klobuchar AI pause OR slowdown OR moratorium 2026",
+  "Klobuchar AI China agreement OR treaty OR talks 2026",
+  "\"Klobuchar\" \"AI safety\"",
+  "Klobuchar Cruz Thune AI safety bill introduced lame duck November 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-11",
+   "venue": "Written statement to Nextgov/FCW",
+   "quote": "We cannot allow the release of dangerous models, including those that evade the control of their developers.",
+   "context": "She was describing the AI safety bill she was negotiating with Senators Thune and Cruz, which would require developers to have models verified and tested with government experts.",
+   "source_label": "Nextgov/FCW",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She says in her own words that some AI models are dangerous and can evade their developers' control, a serious threat from the AI itself, but she names no catastrophic consequence, so under ruling 4 this is C, on the boundary with B."
+  },
+  {
+   "date": "2026-09-11",
+   "venue": "Written statement to Nextgov/FCW (the same sentence was also given to Reuters, reported 14 September 2026)",
+   "quote": "I’m continuing to work toward a bipartisan agreement on legislation for government oversight of the greatest risks posed by AI models",
+   "context": "She was confirming that she was negotiating an AI safety bill with Senators Thune and Cruz.",
+   "source_label": "Nextgov/FCW",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "She acknowledges that advanced AI models pose serious risks needing government oversight, in general terms and without naming a catastrophic harm."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Remarks to Semafor at the Capitol",
+   "quote": "This bill is focused on getting approvals, presenting your models to government experts, [and] alerting of imminent harm, like we’ve seen recently.",
+   "context": "She was describing what the AI safety bill under negotiation with Senators Cruz and Thune would require of AI developers.",
+   "source_label": "Semafor",
+   "url": "https://www.semafor.com/article/09/16/2026/bipartisan-ai-safety-talks-accelerate-in-senate",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "She speaks of 'imminent harm' from AI models that government experts should be alerted to, a general acknowledgment of serious risk with no specific harm named, so this sits between C and D."
+  },
+  {
+   "date": "2025-12-09",
+   "venue": "New York Times op-ed, reposted in a Senate press release",
+   "quote": "And tech leaders — who once warned that “mitigating the risk of extinction from A.I. should be a global priority” — are at best divided on what to do or, at worst, actively lobbying against proposals they think will thwart their short-term interests.",
+   "context": "She was arguing that states must keep their own AI laws because Congress has not passed federal standards and industry is lobbying against rules.",
+   "source_label": "Senate press release (text of New York Times op-ed)",
+   "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/12/icymi-klobuchar-op-ed-in-the-new-york-times-state-a-i-laws-keep-us-safe-trump-s-next-move-could-upend-that",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "She relays tech leaders' past warning about extinction risk from AI to criticise their lobbying, without saying in her own words that she shares it."
+  },
+  {
+   "date": "2025-05-08",
+   "venue": "Senate Commerce Committee hearing \"Winning the AI Race\"",
+   "quote": "I think David Brooks put it the best when he said, “I found it incredibly hard to write about AI because it is literally unknowable whether this technology is leading us to heaven or hell.” We want it to lead us to heaven",
+   "context": "She was opening her questions to Sam Altman and other technology executives about rules for AI.",
+   "source_label": "Senate press release (rough transcript)",
+   "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-presses-for-bipartisan-path-forward-on-safe-ai-development-highlights-need-for-legislation-to-give-americans-control-over-their-voice-and-likeness",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "She endorses a columnist's remark that AI could lead to 'heaven or hell', a general acknowledgment of serious risk, but the harms she names herself are scams and misuse, so this sits between C and D."
+  },
+  {
+   "date": "2025-12-09",
+   "venue": "New York Times op-ed, reposted in a Senate press release",
+   "quote": "After all, how can you expect us to believe you’re on the precipice of creating groundbreaking superintelligence if you can’t manage to comply with a handful of state laws?",
+   "context": "She was telling AI companies to accept state safety laws until Congress passes federal standards.",
+   "source_label": "Senate press release (text of New York Times op-ed)",
+   "url": "https://www.klobuchar.senate.gov/public/index.cfm/2025/12/icymi-klobuchar-op-ed-in-the-new-york-times-state-a-i-laws-keep-us-safe-trump-s-next-move-could-upend-that",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "She mentions superintelligence only as a rhetorical point about complying with state laws; no catastrophic risk is named and the risk is not dismissed either."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement for or against slowing frontier AI development was found. The bill she was negotiating would have models tested with government experts and could block the release of unsafe models, which is oversight of releases, not a call to slow capability progress.",
+   "sources": [
+    [
+     "Nextgov/FCW, 11 September 2026",
+     "https://www.nextgov.com/artificial-intelligence/2026/09/lawmakers-clash-safety-testing-language-development-ai-legislation-people-familiar-say/415948/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement for or against a pause was found; no source shows her co-sponsoring the Ban Artificial Superintelligence Act.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "She is not among the 17 signers of the 23 September 2026 letter urging AI talks with China, and no statement on an agreement with China was found. She co-sponsored a November 2025 resolution backing limits on AI chip sales to China, which is competition with China and does not count.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement on banning self-improving AI was found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Negotiated a bipartisan AI safety bill with Majority Leader Thune and Commerce Chair Cruz in September 2026, described by Cruz as addressing 'catastrophic risks involving biological or nuclear threats'; it would require developers of the most powerful models to work with government experts to verify and test them. No source found shows it was introduced.",
+   "Semafor, 10 September 2026",
+   "https://www.semafor.com/article/09/10/2026/bipartisan-ai-safety-bill-gains-momentum-on-the-hill"
+  ],
+  [
+   "Reuters reported the draft under discussion included a 'duty of care' for AI developers, government testing of models, a way for the government to seek to block release of unsafe models, and limits on state enforcement; Klobuchar was named as the top Democrat in the negotiations.",
+   "Reuters via The Star, 14 September 2026",
+   "https://www.thestar.com.my/tech/tech-news/2026/09/15/us-senators-weigh-requiring-ai-giants-to-commit-to-preventing-catastrophe"
+  ],
+  [
+   "The bipartisan talks stalled with no committee action before the election; she said she still hoped to 'pass strong safeguards' on AI by the end of the year and blamed President Trump's opposition.",
+   "Semafor, 29 September 2026",
+   "https://www.semafor.com/article/09/29/2026/bipartisan-ai-safety-talks-stall-out-in-senate"
+  ],
+  [
+   "Said at a 30 July 2026 hearing that she and Majority Leader Thune would advance a bill to address AI risks 'immediately' after the August recess.",
+   "MLex, 30 July 2026 (only the opening summary is visible without a subscription)",
+   "https://www.mlex.com/mlex/artificial-intelligence/articles/2508002"
+  ],
+  [
+   "Co-sponsored a resolution led by Senator Coons, with Senators Cotton and McCormick, supporting limits on sales of advanced AI chips to China.",
+   "Roll Call, 6 November 2025",
+   "https://rollcall.com/2025/11/06/senate-measure-would-support-limits-on-ai-chip-sales-to-china/"
+  ],
+  [
+   "Wrote a New York Times op-ed, 'State A.I. Laws Keep Us Safe. Trump's Next Move Could Upend That', opposing federal preemption of state AI laws.",
+   "Senate press release, 9 December 2025",
+   "https://www.klobuchar.senate.gov/public/index.cfm/2025/12/icymi-klobuchar-op-ed-in-the-new-york-times-state-a-i-laws-keep-us-safe-trump-s-next-move-could-upend-that"
+  ],
+  [
+   "Questioned Sam Altman and others at the Senate Commerce hearing 'Winning the AI Race' about risk-based AI rules, hallucinations and deepfakes.",
+   "Senate press release, 8 May 2025",
+   "https://www.klobuchar.senate.gov/public/index.cfm/2025/5/klobuchar-presses-for-bipartisan-path-forward-on-safe-ai-development-highlights-need-for-legislation-to-give-americans-control-over-their-voice-and-likeness"
+  ],
+  [
+   "Questioned the Federal Communications Commission chairman about President Trump's executive order preempting state AI laws, which she called 'dangerous and likely illegal'.",
+   "Senate press release, 17 December 2025",
+   "https://www.klobuchar.senate.gov/public/index.cfm/2025/12/klobuchar-questions-carr-on-censorship-and-free-speech-at-fcc-oversight-hearing"
+  ],
+  [
+   "Sent a letter with Senators Cantwell and Markey raising concerns about AI in children's toys.",
+   "Senate press release, 15 January 2026",
+   "https://www.klobuchar.senate.gov/public/index.cfm/2026/1/klobuchar-cantwell-markey-raise-concerns-on-the-use-of-ai-in-toys"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).",
+   "Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "The Sanders press release introducing the Ban Artificial Superintelligence Act names only Sanders and Rep. Casar and does not name Klobuchar; the Congress.gov co-sponsor list was not opened.",
+   "Sanders press release, 23 September 2026",
+   "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "Her strongest statement, made while negotiating a bipartisan AI safety bill in September 2026, is that dangerous models, including ones that evade their developers' control, must not be released; she names no catastrophic consequence in her own words. A reviewer could read that statement as B, since the rubric lists loss of control as a catastrophic risk.",
+ "notes": "Seven web searches ran on 11 November 2026 (the six required, plus one on whether the bill was introduced after September); none was refused. The first three statements are new in this run; the other three, and the record items from her own site, were verified in the earlier run from her press release pages and were not re-opened. New quotes were checked by script against the downloaded Nextgov and Semafor pages. BOUNDARY CALL FOR THE REVIEWER: the Nextgov quote about models that 'evade the control of their developers' was graded C under ruling 4 (no consequence named beyond 'dangerous'), but B is arguable. The Nextgov statement is three sentences split by 'Klobuchar said'; the first and third are quoted separately, and the middle one reads 'That includes requiring developers to work with government experts to verify and test models to make sure AI is safe.' The Semafor quote contains '[and]' inserted by Semafor; it is copied as printed. Left out because they are fragments or paraphrases: Semafor 10 September 2026 quoted her statement as 'legislation for commonsense guardrails to address the risks posed by AI systems … it’s clear we need to act now and not wait' (the ellipsis is Semafor's); Nextgov paraphrased her as saying AI with little oversight carries 'significant risk'; Semafor 16 September also quoted 'Because it is targeted at these immediate risks, it is something we could proceed on sooner rather than later' and reported that she and Cantwell argued Congress must act now on urgent potential threats; Semafor 29 September quoted the fragments 'pass strong safeguards' and 'opposition to common-sense, bipartisan guardrails has complicated the negotiations'. The descriptions of the bill as targeting catastrophic, biological or nuclear risks are Cruz's and reporters' words, not hers. No source found shows the bill was introduced or any statement by her after 29 September 2026, including during or after her campaign for governor; the search for later news returned nothing newer. Pages not opened: gvwire.com (HTTP 403), Punchbowl, the full MLex article (paywall), Congress.gov, nytimes.com. The Roll Call and KFGO pages were read through a summarising page reader. The op-ed date is the date of the Senate 'ICYMI' release (9 December 2025); the New York Times publication date may be a day earlier. The 2025 hearing quote stops before the rest of her sentence, which says rules are needed so AI is not set back by scams or by people who want to do harm; it is from the office's 'rough transcript'. Other AI items on her site in the window are level D topics: NO FAKES Act, deepfakes, Preparing Election Administrators for AI Act, Artificial Intelligence Scam Prevention Act, TAKE IT DOWN Act. Ban Artificial Superintelligence Act: no source shows her as a co-sponsor, but the full co-sponsor list was not verified."
+}

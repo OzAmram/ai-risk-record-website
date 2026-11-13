@@ -1,0 +1,137 @@
+{
+ "bioguide": "K000377",
+ "member": "Mark Kelly",
+ "searches": [
+  "Mark Kelly AI roadmap \"AI for America\" superintelligence OR \"artificial general intelligence\" (failed: rate limit)",
+  "Mark Kelly artificial intelligence, restricted to kelly.senate.gov (failed: rate limit; replaced by reading the kelly.senate.gov press release sitemap directly)",
+  "Senator Mark Kelly AI extinction OR \"existential risk\" OR \"loss of control\" (failed: rate limit)",
+  "Senator Mark Kelly AI pause OR slowdown OR moratorium",
+  "senators letter AI talks with China September 23 2026 17 senators Kelly (failed: rate limit)",
+  "\"Mark Kelly\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+  "senators letter urging AI talks with China September 2026 17 senators signed",
+  "Senator Mark Kelly superintelligence OR \"artificial general intelligence\" OR AGI",
+  "Senator Mark Kelly AI \"threat to humanity\" OR extinction OR \"existential\" floor speech (failed: search budget used up)",
+  "Van Hollen letter Trump Xi AI agreement 17 senators signed list of signers September 2026 (failed: search budget used up)",
+  "Mark Kelly China AI agreement OR treaty OR talks superintelligence ban Sanders bill asked (failed: search budget used up)",
+  "kelly.senate.gov Kelly AI risks guardrails frontier models catastrophic (failed: search budget used up)"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-22",
+   "venue": "Senate floor speech",
+   "quote": "These last few weeks—as engineers, researchers, and CEOs have all been shouting about AI becoming a threat to humanity’s very survival—I feel like I’m back in that seat, with the Master Alarm blaring and systems failing. And nobody is steering the ship.",
+   "context": "Kelly was calling on Congress to regulate AI and announcing his Make AI Work for Americans Act, comparing the moment to a space shuttle emergency.",
+   "source_label": "Senate press release",
+   "url": "https://www.kelly.senate.gov/newsroom/press-releases/watch-on-senate-floor-kelly-calls-for-urgent-action-on-ai-announces-new-make-ai-work-for-americans-act/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "He relays warnings from engineers, researchers and company heads that AI is becoming a threat to humanity's survival and endorses them in his own words (the alarm is blaring and nobody is steering); if a reviewer judges this as relaying without endorsement, the level would be C."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "CNN, Anderson Cooper 360 interview",
+   "quote": "As a former test pilot and astronaut, even the stuff that’s low probability with a catastrophic result, you got to come up with some mitigation for that and try to prevent it from happening.",
+   "context": "Kelly was explaining why AI needs guardrails even while the US competes with China, ahead of introducing his Make AI Work for Americans Act.",
+   "source_label": "Senate press release",
+   "url": "https://www.kelly.senate.gov/newsroom/press-releases/icymi-kellys-new-ai-bill-puts-american-workers-first/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says low-probability catastrophic results from AI must be guarded against, but does not name the catastrophe, and the specific harm he goes on to stress is job loss."
+  },
+  {
+   "date": "2026-08-03",
+   "venue": "Letter to the Secretaries of State, Treasury and Commerce and White House officials, signed by five senators",
+   "quote": "We support serious, technically informed action to prevent frontier AI from being misused by adversaries or criminals and to mitigate risks posed by misalignment in the models themselves.",
+   "context": "The letter asked the administration to explain how it decides that a frontier AI model is a national security risk, after it restricted access to Anthropic and OpenAI models.",
+   "source_label": "Senate press release",
+   "url": "https://www.kelly.senate.gov/newsroom/press-releases/kelly-colleagues-press-trump-administration-on-opaque-oversight-of-new-artificial-intelligence-models/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter acknowledges serious risks from the AI models themselves (misalignment, and a model escaping its test environment) in general terms, without naming a catastrophic consequence."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI progress; he calls for guardrails and restrictions on companies while saying he wants the US to lead.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause. No source shows him co-sponsoring the Sanders bill that would pause advanced AI development.",
+   "sources": [
+    [
+     "Sanders press release, 23 Sep 2026",
+     "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on an agreement or talks with China on the pace of AI. The news report on the 23 September 2026 letter does not list its signers, so whether he signed is not established.",
+   "sources": [
+    [
+     "NBC Montana, 23 Sep 2026",
+     "https://nbcmontana.com/news/nation-world/democrats-call-on-trump-to-establish-agreement-with-xi-jinping-to-slow-ai-development-maryland-chris-van-hollen"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed a letter with Senators Gillibrand, Coons, Schiff and Warner asking the administration to explain its oversight of frontier AI models; the letter supports action to mitigate risks from misalignment in the models.",
+   "Letter text (PDF), 3 Aug 2026",
+   "https://www.kelly.senate.gov/wp-content/uploads/2026/08/Senate-AI-Model-Access-Letter.pdf"
+  ],
+  [
+   "Introduced the Advanced AI Security Readiness Act with Sen. Todd Young, directing the National Security Agency to issue guidance on protecting advanced AI systems from theft or sabotage.",
+   "Senate press release, 19 Nov 2025",
+   "https://www.kelly.senate.gov/newsroom/press-releases/kelly-young-introduce-legislation-to-protect-american-ai-innovation/"
+  ],
+  [
+   "Announced the Make AI Work for Americans Act (a fund paid for by AI companies to support workers) in a Senate floor speech calling for urgent action on AI.",
+   "Senate press release, 22 Sep 2026",
+   "https://www.kelly.senate.gov/newsroom/press-releases/watch-on-senate-floor-kelly-calls-for-urgent-action-on-ai-announces-new-make-ai-work-for-americans-act/"
+  ],
+  [
+   "Wrote that a reported voluntary process for agencies to evaluate frontier AI systems before release did not go nearly far enough, after the President dropped the planned executive order.",
+   "Senate press release, 22 May 2026",
+   "https://www.kelly.senate.gov/newsroom/press-releases/read-kelly-posts-piece-on-trump-folding-to-big-tech-on-ai/"
+  ],
+  [
+   "Secured amendments in the fiscal year 2027 intelligence bill on oversight of AI use by intelligence agencies, including studies of AI-on-AI attacks and inadvertent escalation.",
+   "Senate press release, 27 May 2026",
+   "https://www.kelly.senate.gov/newsroom/press-releases/kelly-secures-ai-oversight-provisions-in-annual-intelligence-bill-passed-out-of-committee/"
+  ],
+  [
+   "Introduced bills on AI in the military (human responsibility for use of force; warfighter skills).",
+   "Senate press release, 5 Jun 2026",
+   "https://www.kelly.senate.gov/newsroom/press-releases/kelly-introduces-bills-to-smartly-integrate-ai-into-u-s-military/"
+  ],
+  [
+   "Ban Artificial Superintelligence Act: the Sanders press releases (3 and 23 Sep 2026) name no Senate co-sponsors, and Semafor reported only that Kelly planned his own separate AI bill; no source shows him co-sponsoring.",
+   "Semafor, 23 Sep 2026",
+   "https://www.semafor.com/article/09/23/2026/progressive-democrats-push-superintelligence-ban"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In a 22 September 2026 floor speech he cited warnings that AI is becoming a threat to humanity's very survival and treated them as a blaring alarm that Congress must answer. This rests on reading the passage as an endorsed relayed warning; if not, his record supports C.",
+ "notes": "Web search was rate-limited for most of the run: only five searches returned results, so the brief's separate searches on extinction or existential risk and on the China letter signers did not complete; I compensated by reading every AI-related entry in the kelly.senate.gov press release sitemap for 2025-2026 directly. The A statement is a boundary case: the threat-to-humanity wording is attributed to engineers, researchers and company heads, and the excerpt in the press release follows an ellipsis; the full floor remarks (linked from the release on box.com) were not opened and should be checked. The CNN quote is dated by the press release (23 Sep 2026); the interview may have aired the evening before. In the same answer he said he wants guardrails 'so we don't have a catastrophic outcome', right after talking about job loss. A Oneindia video page (25 Sep 2026) is headlined with the words 'Will Kill Us All' and paraphrases Kelly as saying AI could become a threat to humanity; I found no source attributing those headline words to him, so they are left out. ABC15 (16-17 Sep 2026) asked him about a poll on AI destroying humanity; his quoted answers ('We have to be able to mitigate for bad outcomes before they actually happen') do not name a catastrophic risk and were left out as level D, as were his many remarks on jobs, data centers, seniors, military use and competition with China. 23 September 2026 China letter: the only coverage I could open (NBC Montana syndication of a Politico report) names Van Hollen as lead and no other signers; no release about it appears in the Kelly press release sitemap, which suggests but does not prove he did not sign. The 3 Aug 2026 letter date comes from the letter PDF; the press release is dated 4 Aug 2026."
+}

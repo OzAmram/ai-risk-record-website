@@ -1,0 +1,43 @@
+{
+  "bioguide": "H000601",
+  "member": "Bill Hagerty",
+  "searches": [
+    "Hagerty artificial intelligence site:hagerty.senate.gov",
+    "Senator Bill Hagerty superintelligence",
+    "Bill Hagerty AI \"extinction\" OR \"existential risk\" OR \"existential\" (failed: rate limit, rerun as next query)",
+    "Senator Bill Hagerty AI extinction OR \"existential risk\" OR \"existential threat\"",
+    "Bill Hagerty AI pause OR slowdown OR moratorium state AI laws (failed: rate limit, rerun as next query)",
+    "Senator Hagerty AI moratorium OR pause OR slowdown state AI laws preemption",
+    "Hagerty AI China agreement OR treaty OR talks senators letter September 2026 (failed: rate limit, rerun as next query)",
+    "17 senators letter Trump AI talks China September 23 2026 signers",
+    "\"Hagerty\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+    "Sen. Bill Hagerty artificial intelligence 2026 statement risks \"Hagerty said\"",
+    "Hagerty AI chips China Nvidia export \"Hagerty\" 2025 OR 2026 AI race",
+    "Hagerty \"Sunday Briefing\" AI \"serious threats\" first large-scale attack carried out by AI Anthropic China (not performed: session search budget used up)"
+  ],
+  "statements": [
+    {
+      "date": "2025-11-30",
+      "venue": "HuffPost interview (remark to reporters; article published 30 November 2025, exact day of the remark not given)",
+      "quote": "This is going to be an extraordinarily disruptive technology. But I'm also very optimistic about the productivity gains that we're going to experience.",
+      "context": "A HuffPost article on Republican unease about AI asked senators about the technology's effects and the lack of regulation in Congress.",
+      "source_label": "HuffPost, syndicated on Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/maga-pumps-brakes-ai-trump-110017564.html",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He calls AI disruptive and is optimistic about productivity; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement with China about the pace of AI. He is not shown as a signer of the 23 September 2026 letter, which coverage describes as signed by 17 Democratic senators.", "sources": [["NewsChannel 9 report on the letter", "https://newschannel9.com/news/nation-world/democrats-call-on-trump-to-establish-agreement-with-xi-jinping-to-slow-ai-development-maryland-chris-van-hollen"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only statement about AI found since 1 January 2025 is a general remark that AI will be disruptive but productive. Nothing found acknowledges or dismisses catastrophic risk.",
+  "notes": "Thin result, and the search was cut short: three of the first batch of searches hit a rate limit (rerun successfully) and the session's web search budget ran out before a final follow-up search, so the search is less complete than the brief intends. (1) Fox News video, 17 November 2025, headlined \"Sen. Hagerty highlights 'serious threats' AI poses as US, China competition escalates\" (https://www.foxnews.com/video/6385210856112): Hagerty discussed 'the first large-scale attack carried out by AI' on The Sunday Briefing. The page has no transcript, so his words could not be checked and nothing is quoted; the headline is Fox's framing. A reviewer should watch this video, since it is his most relevant remark and might be D (cyberattack, China competition) or possibly C. (2) The HuffPost quote was read through a page-fetching tool that summarises pages; the wording should be checked against the page. The two quoted sentences are continuous in the article; an earlier sentence (\"Any new technology is going to be disruptive,\") is separated by the attribution and was left out rather than joined. The date given is the article's publication date. (3) 23 September 2026 China letter: coverage says all 17 signers were Democrats, led by Van Hollen; I did not see the full signature list (the Cantwell press release page does not list names), so Hagerty's absence is inferred from party, not confirmed from the list. (4) Ban Artificial Superintelligence Act: no source found showing any Senate co-sponsor besides Sanders; no source ties Hagerty to it. (5) The search of hagerty.senate.gov returned only 2023-2024 items (opposing 'heavy-handed' AI regulation in a Rules Committee hearing, and opposing the Securities and Exchange Commission's predictive analytics rule), which are before the 1 January 2025 cutoff and were not included. (6) No statements found on superintelligence, extinction, AI safety, pause or moratorium."
+}

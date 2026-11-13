@@ -1,0 +1,103 @@
+{
+ "bioguide": "C001075",
+ "member": "Sen. Bill Cassidy (Republican, Louisiana)",
+ "searches": [
+  "Bill Cassidy artificial intelligence statement (restricted to cassidy.senate.gov)",
+  "Senator Bill Cassidy superintelligence",
+  "Senator Bill Cassidy AI \"extinction\" OR \"existential risk\"",
+  "Senator Bill Cassidy AI pause OR slowdown OR moratorium",
+  "Senator Bill Cassidy AI China agreement OR treaty",
+  "\"Cassidy\" senator \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2025-10-09",
+   "venue": "Opening remarks as chair, Senate Health, Education, Labor and Pensions Committee hearing on AI's impact on families and workers",
+   "quote": "Government should not stifle innovation in AI, but it should absolutely make sure that privacy is protected, that families are protected, that children are safe and that there are safeguards in place between AI and workers. A one-size-fits-all approach will not work. But something is needed.",
+   "context": "Cassidy opened a committee hearing on how AI affects health care, education, children and the workforce.",
+   "source_label": "Senate HELP Committee press release",
+   "url": "https://www.help.senate.gov/rep/newsroom/press/chair-cassidy-delivers-remarks-during-hearing-on-ais-impact-on-american-families-workers",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "He names privacy, children's safety and workforce disruption as the risks, not catastrophic harm from AI."
+  },
+  {
+   "date": "2025-05-07",
+   "venue": "Press release on the Protection Against Foreign Adversarial Artificial Intelligence Act of 2025",
+   "quote": "AI is a powerful tool which can be used to enhance things like medicine and education. But in the wrong hands, it can be weaponized. By feeding sensitive data into systems like DeepSeek, we give China another weapon,",
+   "context": "Cassidy and Sen. Rosen introduced a bill barring federal contractors from using DeepSeek and similar foreign AI for government work.",
+   "source_label": "Cassidy Senate press release",
+   "url": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-rosen-introduce-legislation-to-protect-sensitive-federal-data-from-deepseek-adversarial-ai-technologies/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The concern is data security and competition with China, which the rubric places at D."
+  },
+  {
+   "date": "2025-10-02",
+   "venue": "Press release on letters with Sen. Hawley to AI developers about children",
+   "quote": "The safety of AI tools, particularly those available to children and teenagers, is paramount. It is unacceptable that AI tools do not have robust policies in place to ensure that they do not support or encourage harm,",
+   "context": "Cassidy and Hawley wrote to OpenAI, Anthropic, Character.AI and Alphabet after reports of children's deaths linked to chatbots.",
+   "source_label": "Senate HELP Committee press release",
+   "url": "https://www.help.senate.gov/rep/newsroom/press/chair-cassidy-hawley-sound-alarm-on-dangers-of-children-using-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter is about harm to children from chatbots, which is outside the rubric's catastrophic-risk scope."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Sen. Rosen, the Protection Against Foreign Adversarial Artificial Intelligence Act of 2025, barring federal contractors from using DeepSeek for government work.",
+   "Cassidy Senate press release, 2025-05-07",
+   "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-rosen-introduce-legislation-to-protect-sensitive-federal-data-from-deepseek-adversarial-ai-technologies/"
+  ],
+  [
+   "Sent letters with Sen. Hawley to OpenAI, Anthropic, Character.AI and Alphabet asking how they protect children from harm by AI tools.",
+   "Senate HELP Committee press release, 2025-10-02",
+   "https://www.help.senate.gov/rep/newsroom/press/chair-cassidy-hawley-sound-alarm-on-dangers-of-children-using-ai"
+  ],
+  [
+   "Chaired a Senate HELP Committee hearing on AI's impact on American families and workers.",
+   "Senate HELP Committee press release, 2025-10-09",
+   "https://www.help.senate.gov/rep/newsroom/press/chair-cassidy-delivers-remarks-during-hearing-on-ais-impact-on-american-families-workers"
+  ],
+  [
+   "Introduced legislation to bar federal agencies and contractors from using humanoid robots made in China, Russia, Iran or North Korea (date and details from search results only; page not opened).",
+   "Cassidy Senate press release, 2025-11-21",
+   "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-introduces-legislation-to-protect-americans-from-foreign-robots/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Cassidy has spoken about AI often (children's safety, workforce, health care, Chinese AI and data security) but no statement found acknowledges catastrophic risk from AI. His most general remark is that AI \"carries risks\", illustrated with harm to children.",
+ "notes": "Seven web searches ran, none refused. Three official pages were opened and quotes checked character for character against the page text (curly apostrophes and quotation marks as on the page; the two press-release quotes end with a comma because that is how the release prints them). Not a signer of the 23 September 2026 China letter (per the verified list, all Democrats). No source found showing he co-sponsored the Ban Artificial Superintelligence Act; search results on its co-sponsors were inconsistent and name only others, and Congress.gov was not checked. Left out: (1) Punchbowl News, 2025-10-14, paraphrases him as thinking regulators eyeing AI will need AI's help; the article is paywalled and no direct quote was visible. A syndicated aggregator piece of the same date attributes to him the words that a universal framework would \"stifle, not foster, innovation\"; not opened or verified, so not used. (2) A search result (cpo.soar.com, 'Experts tell Senate HELP committee unchecked AI development could threaten humanity') suggests HELP committee members asked witnesses about existential risk at a hearing; the page could not be opened (host not found), the snippet does not name Cassidy, and the hearing date is unknown. A reviewer may want to check the hearing transcript for any remarks by Cassidy as chair. (3) The 2025-10-09 remarks also include 'AI holds enormous potential to improve people's lives, but it carries risks', followed directly by the example of children exploited by chatbots; judged D rather than C because the risk named is harm to children. The 2025-10-02 quote is presented in the release as the senators' joint wording from their letters."
+}

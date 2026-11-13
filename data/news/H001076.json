@@ -1,0 +1,86 @@
+{
+ "bioguide": "H001076",
+ "member": "Sen. Maggie Hassan (Democrat, New Hampshire)",
+ "searches": [
+  "Maggie Hassan artificial intelligence (restricted to hassan.senate.gov)",
+  "Senator Maggie Hassan superintelligence AI",
+  "Maggie Hassan AI extinction OR \"existential risk\" OR \"loss of control\" OR bioweapons",
+  "Maggie Hassan AI pause OR slowdown OR moratorium",
+  "Maggie Hassan AI China agreement OR treaty OR talks",
+  "\"Hassan\" senator \"AI safety\" 2025 OR 2026"
+ ],
+ "statements": [
+  {
+   "date": "2025-12-05",
+   "venue": "Senate press release",
+   "quote": "This bipartisan bill invests in research that makes AI harder to manipulate and easier to predict, so that we can also strengthen our defenses against bad actors and foreign adversaries like China, who may utilize AI to hurt Americans.",
+   "context": "Announcing the Reliable Artificial Intelligence Research Act of 2025, which funds research competitions on AI interpretability and resistance to manipulation.",
+   "source_label": "Hassan Senate press release",
+   "url": "https://www.hassan.senate.gov/news/press-releases/senators-hassan-banks-introduce-bipartisan-legislation-to-increase-ai-security",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "She says adversaries may use AI to hurt Americans and that AI must be secure and reliable, but names no catastrophic harm from AI; close to C because the bill is about AI security."
+  },
+  {
+   "date": "2025-12-03",
+   "venue": "Letter to the National Cyber Director, with Sen. Ernst",
+   "quote": "The emerging threat to U.S. cybersecurity posed by foreign adversaries deploying autonomous AI systems requires a robust response from your office and other federal agencies.",
+   "context": "Letter asking the National Cyber Director how the government is responding to a reported Chinese state-sponsored cyberattack carried out largely by an AI system.",
+   "source_label": "Hassan Senate press release",
+   "url": "https://www.hassan.senate.gov/news/press-releases/senators-hassan-ernst-sound-alarm-on-chinese-ai-enabled-hackers",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The only harm named is cyberattacks by autonomous AI, which the rubric (ruling 4) places at D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "Not a signer of the 23 September 2026 letter urging AI talks with China; no other statement found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Sen. Banks, the Reliable Artificial Intelligence Research Act of 2025 (S.3336), funding $10 million of research competitions on AI interpretability and adversarial robustness.",
+   "Hassan Senate press release, 2025-12-05",
+   "https://www.hassan.senate.gov/news/press-releases/senators-hassan-banks-introduce-bipartisan-legislation-to-increase-ai-security"
+  ],
+  [
+   "Sent a letter with Sen. Ernst to National Cyber Director Sean Cairncross about a Chinese state-sponsored cyberattack carried out largely autonomously by an AI system.",
+   "Hassan Senate press release, 2025-12-03",
+   "https://www.hassan.senate.gov/news/press-releases/senators-hassan-ernst-sound-alarm-on-chinese-ai-enabled-hackers"
+  ],
+  [
+   "Before the search window: co-introduced the Preserving American Dominance in AI Act with Romney, Reed, Moran and King, aimed at extreme AI risks (chemical, biological, radiological, nuclear, cyber).",
+   "Hassan Senate press release, 2024-12-19",
+   "https://www.hassan.senate.gov/news/press-releases/romney-reed-moran-king-hassan-introduce-legislation-to-mitigate-extreme-ai-risks"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Since 1 January 2025 her AI statements found concern AI security, AI-enabled cyberattacks, scams and workforce, without acknowledging catastrophic risk. Her clearest engagement with extreme AI risk (a December 2024 bill and a 2023 hearing) predates the search window.",
+ "notes": "Six web searches ran, none refused. Both quotes were checked character for character against the downloaded press release pages. Not on the verified signer list of the 23 September 2026 China letter. No source found showing she co-sponsored the Ban Artificial Superintelligence Act; this was not checked against the bill's co-sponsor list on congress.gov. Left out as outside the date window: the 19 December 2024 Preserving American Dominance in AI Act release (her quote there was only seen truncated) and her September 2023 subcommittee hearing remarks on AI safety and jailbreaks; a reviewer may want to consider whether pre-2025 material should count, since it would likely reach B or C. The December 2025 release describes that 2024 bill as mitigating 'AI-enabled extreme risks such as chemical, biological, and cyber-attacks by our foreign adversaries', but that is the release's wording, not a quote from her. Other 2025 AI items seen in search results only and not opened: AI Workforce PREPARE Act (December 2025), letter with Sen. Hawley to AI companies on scams (December 2025), letter on Meta data center tax credits; all outside the catastrophic-risk scope. No floor speeches, interviews or 2026 statements on AI risk were found."
+}

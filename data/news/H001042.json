@@ -1,0 +1,134 @@
+{
+ "bioguide": "H001042",
+ "member": "Sen. Mazie Hirono (D-HI)",
+ "searches": [
+  "Hirono artificial intelligence (restricted to hirono.senate.gov)",
+  "Mazie Hirono superintelligence \"Ban Artificial Superintelligence Act\"",
+  "Mazie Hirono AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+  "Mazie Hirono AI pause OR slowdown OR moratorium",
+  "Hirono AI China agreement OR treaty OR talks senators letter Trump Xi guardrails",
+  "\"Hirono\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump, led by Sen. Van Hollen",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "The letter she signed urged President Trump to negotiate an AI agreement with China's President Xi at their planned summit.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter she signed says frontier AI development could enable biological weapons and other activities that threaten humanity as a whole, which is level A under the threat-to-humanity ruling; a reviewer could read it as B (mass-casualty misuse) instead."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump, led by Sen. Van Hollen",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "The letter compared an AI agreement with China to nuclear arms control agreements between the US and the Soviet Union.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she signed calls advanced AI a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump, led by Sen. Van Hollen",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "The letter was closing its comparison between AI safety talks and nuclear arms control.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she signed says the stakes of advanced AI are existential."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump, led by Sen. Van Hollen",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "The letter cited warnings from AI company employees and, two sentences later, said \"We should take these warnings seriously.\"",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "The letter relays and endorses experts' warning that AI may go beyond human control, but does not say the loss of control would be permanent, so B rather than A."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development for safety reasons; no statement in her own individual words was found.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks for an agreement that would \"potentially enact a mutual pause\" in frontier AI development, which is a pause conditional on China joining.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the letter urging direct talks and a formal agreement with China to slow, and potentially pause, frontier AI development.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI. The letter she signed mentions that automation of AI research may speed up progress but does not call for a ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate an AI agreement with China, including a slowdown and a possible mutual pause in frontier AI development.",
+   "Sen. Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Introduced the Workforce of the Future Act with Sens. Blunt Rochester and Schiff, requiring a study of AI's effect on jobs and authorizing education and worker training grants (about jobs, not catastrophic risk).",
+   "Sen. Hirono press release, 4 December 2025",
+   "https://www.hirono.senate.gov/news/press-releases/hirono-blunt-rochester-schiff-introduce-bill-to-protect-and-prepare-workers-as-ais-economic-impact-grows"
+  ],
+  [
+   "Her statement on the Senate Armed Services Committee's fiscal year 2027 defense bill lists AI provisions, including a review process for autonomous weapon systems and security standards for AI agents in the Defense Department (military use, not catastrophic risk).",
+   "Sen. Hirono press release, 12 June 2026",
+   "https://www.hirono.senate.gov/news/press-releases/hirono-statement-on-committee-passage-of-fy27-national-defense-authorization-act"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only evidence is the 23 September 2026 letter she co-signed, which calls advanced AI an existential threat and says frontier AI could enable activities that threaten humanity. No statement in her own individual words about catastrophic AI risk was found.",
+ "notes": "Six web searches ran, none refused. All four statements are the words of a co-signed letter, not Hirono's own; the letter text and the signer list (which includes Mazie Hirono) were read on the Van Hollen press release page. Searches found no statement of her own on superintelligence, extinction, a pause or AI safety. No source showed her co-sponsoring the Ban Artificial Superintelligence Act (coverage names only Sen. Sanders and Rep. Casar); I did not check the Congress.gov co-sponsor list. Her own remarks on AI found on hirono.senate.gov are about jobs (Workforce of the Future Act, 4 Dec 2025: \"we must ensure advances enabled by AI are used to strengthen, not weaken, the workforce\"), the use of AI chatbots at the Education Department (seen in search results only, page not opened), and AI-driven disinformation at a Judiciary hearing after the Maui wildfires (before 2025); all would be level D and are left out of statements. I did not find or look for a press release on her own site about the China letter."
+}

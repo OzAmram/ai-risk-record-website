@@ -1,0 +1,189 @@
+{
+ "bioguide": "M001111",
+ "member": "Patty Murray",
+ "searches": [
+  "Patty Murray artificial intelligence statement (restricted to murray.senate.gov)",
+  "Senator Patty Murray superintelligence",
+  "Patty Murray AI \"extinction\" OR \"existential risk\" senator",
+  "Patty Murray AI moratorium OR pause OR slowdown statement",
+  "17 senators letter AI talks with China September 23 2026 signers",
+  "\"Patty Murray\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+  "Patty Murray AI China agreement OR treaty letter Trump Xi \"Murray\"",
+  "\"Murray\" senator Washington AI \"humanity\" OR \"catastrophic\" OR \"bioweapons\" OR \"loss of control\" 2026 statement Anthropic researchers warning",
+  "\"Ban Artificial Superintelligence Act\" Senate cosponsors Murray OR Merkley OR Markey OR Welch",
+  "(not a web search) listed all murray.senate.gov press releases from 1 August to 11 November 2026 by date and read every one with AI in the title",
+  "(not a web search) paged through vanhollen.senate.gov press releases to find the 23 September 2026 letter and its signer list"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump from 17 senators",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "Letter led by Sen. Van Hollen and signed by Murray and 15 other senators, urging President Trump to negotiate an AI safety agreement with China's President Xi at their summit.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she signed says frontier AI development could enable bioweapons and other activities that threaten humanity as a whole, which is level A under the threat-to-humanity ruling."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump from 17 senators",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "Letter led by Sen. Van Hollen and signed by Murray and 15 other senators, urging President Trump to negotiate an AI safety agreement with China's President Xi at their summit. This passage compares AI talks to Cold War nuclear arms control.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she signed calls advanced AI a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump from 17 senators",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "Letter led by Sen. Van Hollen and signed by Murray and 15 other senators, urging President Trump to negotiate an AI safety agreement with China's President Xi at their summit. The letter follows this passage, two sentences later, with \"We should take these warnings seriously.\"",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "The letter relays experts' warning that AI may escape human understanding or control and endorses it, so it takes the level of the warning; whether loss of control here is 'permanent' (A) or not (B) is a judgment call."
+  },
+  {
+   "date": "2026-10-08",
+   "venue": "Roundtable with state leaders in Olympia, Washington (remarks as published by her office)",
+   "quote": "I recently spoke with the so-called godfather of AI, Geoffrey Hinton, he made it absolutely clear that there are real safety risks that require urgent action. When the stakes are this high, we cannot take safety for granted.",
+   "context": "Murray was arguing that Congress should set basic federal safety rules for AI rather than rely on companies' promises.",
+   "source_label": "Senate press release",
+   "url": "https://www.murray.senate.gov/in-olympia-murray-hears-from-state-leaders-on-wa-efforts-to-regulate-ai-murray-emphasizes-need-for-federal-action-without-preemption/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "She endorses Hinton's warning of real safety risks and high stakes but names no catastrophic harm, so this is a general acknowledgment of serious risk."
+  },
+  {
+   "date": "2026-10-08",
+   "venue": "Roundtable with state leaders in Olympia, Washington (remarks as published by her office)",
+   "quote": "No one would say nuclear plants can regulate themselves—or drug companies. Why would we ignore something as powerful and potentially dangerous as AI?",
+   "context": "Murray was explaining why AI companies should not be left to regulate themselves.",
+   "source_label": "Senate press release",
+   "url": "https://www.murray.senate.gov/in-olympia-murray-hears-from-state-leaders-on-wa-efforts-to-regulate-ai-murray-emphasizes-need-for-federal-action-without-preemption/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "She calls AI powerful and potentially dangerous and compares it to nuclear plants, which acknowledges serious risk in general terms without naming a catastrophe."
+  },
+  {
+   "date": "2026-10-08",
+   "venue": "Roundtable with state leaders in Olympia, Washington (remarks as published by her office)",
+   "quote": "We can’t afford to regulate AI with nothing but a pinky promise. We cannot just wait for the worst risks of this technology to become reality before we take action.",
+   "context": "Murray was criticising President Trump for calling AI risks a hoax and letting companies regulate themselves.",
+   "source_label": "Senate press release",
+   "url": "https://www.murray.senate.gov/in-olympia-murray-hears-from-state-leaders-on-wa-efforts-to-regulate-ai-murray-emphasizes-need-for-federal-action-without-preemption/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "She refers to 'the worst risks of this technology' as something to act on in advance, without saying what they are."
+  },
+  {
+   "date": "2026-10-08",
+   "venue": "Roundtable with state leaders in Olympia, Washington (remarks as reported by an attendee organisation)",
+   "quote": "We have a president who says AI risks are a hoax, which is not helpful, and is totally wrong.",
+   "context": "Murray was calling for Congress to hold hearings and pass basic bipartisan AI rules.",
+   "source_label": "Transparency Coalition news article, 9 October 2026",
+   "url": "https://www.transparencycoalition.ai/news/sen-patty-murray-hosts-transparency-coalition-for-ai-policy-talk-predicts-federal-action-2027",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She rejects the claim that AI risks are a hoax, a general acknowledgment that the risks are real; the same article shows the risks she listed aloud were mostly children's safety, mental health, cyberattacks and deepfake scams, so this sits between C and D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter, which asks for a formal agreement with China \"that would slow down\" frontier AI development for safety reasons. This is a signed letter, not a statement in her own words.",
+   "sources": [
+    [
+     "17-senator letter of 23 September 2026 (Van Hollen press release)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks the President to work toward an agreement with China that would \"potentially enact a mutual pause\" in frontier AI development; that is a possible pause conditional on China joining, not a call for an unconditional halt. Signed letter, not her own words.",
+   "sources": [
+    [
+     "17-senator letter of 23 September 2026 (Van Hollen press release)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter calling for a formal, verified agreement with China to slow, and possibly mutually pause, frontier AI development. Her office's 8 October 2026 release also says she \"sent a letter urging him to take the threat seriously and work out real AI safeguards with China.\"",
+   "sources": [
+    [
+     "17-senator letter of 23 September 2026 (Van Hollen press release)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Senate press release, 8 October 2026",
+     "https://www.murray.senate.gov/in-olympia-murray-hears-from-state-leaders-on-wa-efforts-to-regulate-ai-murray-emphasizes-need-for-federal-action-without-preemption/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI. The letter she signed mentions that \"increased automation of AI research may lead to even faster advancement\" but does not call for a ban."
+  }
+ },
+ "record": [
+  [
+   "Signed the letter led by Sen. Van Hollen (17 senators in total) urging President Trump to negotiate with President Xi a formal agreement on frontier AI guardrails, including slowing down and potentially a mutual pause in frontier AI development.",
+   "Sen. Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Official copy of the same letter, hosted by the Senate Commerce Committee Democrats; a search result summary showed Murray in its signature block, but I could not extract the PDF's text myself.",
+   "Senate Commerce Committee PDF, 23 September 2026",
+   "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+  ],
+  [
+   "Joint statement with Senators Coons, Reed, Shaheen, Warner, Warren and Kim before President Xi's state visit, saying the President \"must end China's access to the advanced chips and manufacturing equipment it needs to build dangerous AI systems\" and criticising him for dismissing \"commonsense AI guardrails at home\" (about competition with China and export controls, so not graded as an AI risk statement).",
+   "Senate press release, 22 September 2026",
+   "https://www.murray.senate.gov/senators-murray-coons-reed-shaheen-warner-warren-kim-statement-ahead-of-president-xi-jinpings-state-visit/"
+  ],
+  [
+   "Held an AI safety and transparency roundtable with Washington state officials in Olympia and called for a federal floor of bipartisan AI guardrails without overriding state laws.",
+   "Senate press release, 8 October 2026",
+   "https://www.murray.senate.gov/in-olympia-murray-hears-from-state-leaders-on-wa-efforts-to-regulate-ai-murray-emphasizes-need-for-federal-action-without-preemption/"
+  ],
+  [
+   "Held an AI roundtable in Seattle focused on workers and the economy; her office says that as Appropriations vice chair she negotiated a fiscal year 2026 spending bill with up to $10 million for the federal Center for AI Standards and Innovation and at least $55 million for AI research at the National Institute of Standards and Technology.",
+   "Senate press release, 9 July 2026",
+   "https://www.murray.senate.gov/in-seattle-murray-highlights-urgent-need-to-deploy-ai-safely-transparently-and-to-benefit-working-people-murray-says-pro-worker-pro-family-policies-dont-have-to-wait/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "She signed the 23 September 2026 letter to President Trump, which says uncontrolled frontier AI development could threaten \"humanity writ large\" and calls AI \"a technology that poses an existential threat\". In her own words she has only gone as far as general warnings (level C): \"real safety risks\", \"the worst risks of this technology\", \"potentially dangerous\".",
+ "notes": "REVIEWER: the A grade rests entirely on a letter she co-signed; nothing found in her own words goes above C. Signature confirmed from Sen. Van Hollen's press release, which names her first among the co-signers and reproduces the full letter; Murray's own site has no release for the letter, though her 8 October release refers to it. Ban Artificial Superintelligence Act (S. 5493): no source found showing she co-sponsored it; coverage names only Sen. Sanders as Senate sponsor. The Congress.gov cosponsor page blocked automated access and a bill-tracking site (fastdemocracy.com) showed a blank sponsor list, so the cosponsor list is unverified either way. Paraphrases left out of statements: Reuters (carried by CP24, 10 September 2026, https://www.cp24.com/news/world/2026/09/10/ai-could-kill-all-humans-us-lawmakers-call-for-new-rules-after-warnings-from-researchers/) lists her among Democrats who called for new AI rules after Anthropic researchers' extinction warnings, without quoting her; the underlying statement is probably an X post (her office links x.com/PattyMurray/status/2097721427348611452 as where she 'called for Congress to regulate AI'), which I did not open because X is out of scope. The Transparency Coalition article headline-quotes her calling AI a technology with \"great benefits, horrible risks\"; that is a four-word fragment, so not used. The same article's as-delivered version of her Hinton remark lists the risks as children's safety, mental health, cyberattacks and deepfake scams, which is narrower than the wording in her office's release; both are from the same 8 October event. Her other 2026 AI material (Medicare prior-authorization AI program, Seattle roundtable on workers, 10 November remarks on 'a responsible framework for AI regulation') is level D and not listed. Ten web searches ran in total; a targeted search for her own words on catastrophic risk, humanity, bioweapons or loss of control found nothing beyond the letter. The official PDF of the letter (https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf) downloaded but its text could not be extracted here (no PDF tool installed), so quotes were copied from the full letter text in Sen. Van Hollen's press release. Press releases before August 2026 were covered only through the web searches, not by reading the full listing. Pages were read by direct download; the murray.senate.gov pages could not be read by the page-fetch tool (truncated) but downloaded in full."
+}

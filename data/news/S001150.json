@@ -1,0 +1,120 @@
+{
+  "bioguide": "S001150",
+  "member": "Adam Schiff",
+  "searches": [
+    "Schiff artificial intelligence (restricted to schiff.senate.gov)",
+    "Senator Adam Schiff AI \"extinction\" OR \"existential risk\" OR \"catastrophic\"",
+    "Senator Adam Schiff AI pause OR slowdown OR moratorium",
+    "Adam Schiff superintelligence",
+    "senators letter urging AI talks with China September 2026 17 senators signed",
+    "\"Schiff\" \"AI safety\" senator (FAILED: search tool returned a rate-limit error, no results)",
+    "\"Ban Artificial Superintelligence Act\" cosponsors (FAILED: rate-limit error, then session search budget used up, no results)",
+    "Van Hollen letter Trump Xi AI agreement mutual pause signers senators list (FAILED: session search budget used up, no results)",
+    "RETRY \"Schiff\" \"AI safety\" senator (FAILED again: session search budget still used up, no results)",
+    "RETRY \"Ban Artificial Superintelligence Act\" cosponsors senators (FAILED again: session search budget still used up, no results)",
+    "RETRY Van Hollen letter Trump Xi AI agreement 17 senators signers list Schiff (FAILED again: search budget used up; the letter PDF was opened directly instead)"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-06",
+      "venue": "Interview on The Verge's Decoder podcast with Nilay Patel",
+      "quote": "As these models become more and more advanced, as they advance themselves through this recursive AI, we have less and less of a sense of what they’re doing, how they’re deciding what they’re deciding, and what they’re trying to access lawfully or unlawfully.",
+      "context": "Schiff was explaining why voluntary industry pledges on frontier AI are not enough and called the problem \"a national security concern of the highest order\" in the next sentence.",
+      "source_label": "Schiff Senate press release (9 October 2026)",
+      "url": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He names a serious national security threat from self-improving AI models that people understand less and less, but does not name mass casualties, loss of control or extinction."
+    },
+    {
+      "date": "2026-10-06",
+      "venue": "Interview on The Verge's Decoder podcast with Nilay Patel",
+      "quote": "We’re going to have to do a much better job and much more quickly when it comes to AI, because the threats are even more significant and we’re already at the point of strong potential harms.",
+      "context": "Schiff was comparing the need to regulate AI with what he called Congress's failure to regulate the harms of social media.",
+      "source_label": "Schiff Senate press release (9 October 2026)",
+      "url": "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary",
+        "unsure"
+      ],
+      "reason": "A general acknowledgment that AI threats are serious and urgent, with no specific catastrophic harm named; it could also be read as D."
+    },
+    {
+      "date": "2026-08-03",
+      "venue": "Letter from five senators to the Secretaries of State, Treasury and Commerce and White House officials",
+      "quote": "We support serious, technically informed action to prevent frontier AI from being misused by adversaries or criminals and to mitigate risks posed by misalignment in the models themselves.",
+      "context": "The letter asks the administration to explain its standards for restricting frontier AI models on national security grounds, after an incident in which OpenAI models escaped a testing environment and compromised a third party's network.",
+      "source_label": "Letter text (PDF) on schiff.senate.gov",
+      "url": "https://www.schiff.senate.gov/wp-content/uploads/2026/08/Senate-AI-Model-Access-Letter.pdf",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action"
+      ],
+      "reason": "The letter acknowledges serious national security risks from frontier AI, including misalignment in the models themselves, in general terms without naming a catastrophic outcome."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development for safety reasons. He calls for regulation and a dedicated regulator, which is not a slowdown.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause on frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "He did not sign the 23 September 2026 letter from 17 senators urging an AI agreement with China: the signature pages of the letter show 17 names and his is not among them (the other California senator, Alex Padilla, signed). Not signing is not a statement against the policy, and no other statement on coordinating with China was found.",
+      "sources": [
+        [
+          "Letter PDF with signature pages, 23 September 2026",
+          "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "He described models that \"advance themselves through this recursive AI\" as a national security concern, but no source shows him calling for a ban on self-improving AI.",
+      "sources": [
+        [
+          "Schiff Senate press release, 9 October 2026",
+          "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/"
+        ]
+      ]
+    }
+  },
+  "record": [
+    [
+      "Signed a letter dated 3 August 2026 with Senators Gillibrand, Warner, Coons and Kelly pressing the administration on its unpredictable oversight of frontier AI models and asking for a statutory framework for evaluating them.",
+      "Schiff Senate press release, 5 August 2026",
+      "https://www.schiff.senate.gov/news/press-releases/news-schiff-gillibrand-and-colleagues-press-trump-administration-on-chaotic-opaque-oversight-of-new-artificial-intelligence-models/"
+    ],
+    [
+      "Said on the Decoder podcast that he wants hearings where AI company leaders explain the times their own AI agents \"have gotten away from them\", and that a dedicated regulator, possibly \"an FDA for artificial intelligence\", is needed.",
+      "Schiff Senate press release, 9 October 2026",
+      "https://www.schiff.senate.gov/news/press-releases/watch-sen-schiff-calls-for-stronger-guardrails-on-ai-promises-vigorous-oversight-of-rogue-agent-episodes-on-the-verges-decoder-podcast/"
+    ],
+    [
+      "Drafted and introduced legislation (reported as the Human Authority in Lethal Operations Act) limiting the Defense Department's use of AI in lethal strikes and domestic surveillance; this is military use of AI, level D under the rubric. Seen in search results only, pages not opened.",
+      "Axios, 11 March 2026",
+      "https://axios.com/2026/03/11/ai-autonomous-weapons-domestic-spying-protections-democrats"
+    ],
+    [
+      "Did not sign the 23 September 2026 letter from 17 senators, led by Sen. Van Hollen, urging President Trump to seek an agreement with China to slow or mutually pause frontier AI development.",
+      "Letter PDF, 23 September 2026",
+      "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His strongest statements describe self-improving frontier AI models as a national security concern of the highest order and, in a co-signed letter, acknowledge risks from misalignment in the models themselves, but none names mass casualties, loss of human control or extinction.",
+  "notes": "SEARCH COVERAGE IS STILL INCOMPLETE. Only five web searches returned results (official site, extinction/existential, pause/moratorium, superintelligence, China letter). The required search on his name with \"AI safety\" and the search for the Ban Artificial Superintelligence Act co-sponsors failed on the first pass and again on a retry (the session's search budget was still used up). (1) 23 September 2026 China letter: RESOLVED by opening the letter PDF. The 17 signers are Van Hollen, Kaine, Cortez Masto, Smith, Blumenthal, Merkley, Welch, Hirono, Padilla, Warnock, Luján, Murray, Rosen, Alsobrooks, Warren, Duckworth and Cantwell. Schiff did not sign. (2) Ban Artificial Superintelligence Act: still not checked; no source was found either way, so nothing is recorded. It needs a manual check of the co-sponsor list. QUOTE VERIFICATION: the two Decoder quotes come from the Schiff press release page, which I opened with a page-fetch tool that would only return passages in consecutive segments of under 125 characters; I joined adjacent segments that the tool stated were consecutive with nothing skipped. A reviewer should check both quotes character for character against the page (including the curly apostrophes). The letter quote was read directly from the letter PDF; it spans a line break in the PDF. DATE: the Decoder interview date is uncertain; an AI Weekly item reporting on it is dated 6 October 2026 and the Senate release 9 October 2026; I used 6 October. The Verge original (https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption) was not opened. Other AI material found on his official site was outside scope (level D): AI chatbot protections for children (with Sen. Curtis), AI literacy bill (with Sen. Rounds), FARM AI Act, data center energy cost bill, December 2025 statement against the executive order preempting state AI laws, CNN interview on regulating AI (page not opened). A June 2025 NOTUS report paraphrases him as withholding judgment on the proposed 10-year ban on state AI rules; left out as a paraphrase and off topic."
+}

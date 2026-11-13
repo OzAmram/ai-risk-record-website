@@ -1,0 +1,48 @@
+{
+  "bioguide": "B000944",
+  "member": "Sherrod Brown",
+  "searches": [
+    "NOT RUN (web search budget exhausted): Sherrod Brown artificial intelligence 2026 Senate campaign",
+    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" superintelligence",
+    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" AI extinction OR \"existential risk\"",
+    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" AI pause OR slowdown OR moratorium data centers",
+    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" AI China agreement OR treaty",
+    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" \"AI safety\"",
+    "NOT RUN (web search budget exhausted): Sherrod Brown AI (restricted to sherrodbrown.com)",
+    "Opened directly: https://www.sherrodbrown.com/ , /issues/ and /news/ (campaign site; no AI content visible)",
+    "statenews.org site search: Sherrod Brown artificial intelligence",
+    "statenews.org site search: Sherrod Brown data centers",
+    "statenews.org site search: Sherrod Brown AI",
+    "wosu.org site search: Sherrod Brown artificial intelligence",
+    "wosu.org site search: Sherrod Brown data centers AI",
+    "ideastream.org site search: Sherrod Brown AI data centers",
+    "signalohio.org site search: Sherrod Brown artificial intelligence (nothing found)",
+    "news5cleveland.com site search: Sherrod Brown artificial intelligence",
+    "news5cleveland.com site search: Sherrod Brown data centers",
+    "FAILED to open: ohiocapitaljournal.com site search (403), nbc4i.com site search (403), cleveland.com site search (blocked), dispatch.com site search (blocked), apnews.com site search (rate-limited), congress.gov search for Ban Artificial Superintelligence Act (403)"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-17",
+      "venue": "Interview with the Statehouse News Bureau (Ohio public radio), quoted in a news report",
+      "quote": "I've made clear from the beginning that Jon Husted is the point man for these 230 or 240 new data centers in Ohio",
+      "context": "Brown was attacking his opponent Jon Husted over tax breaks for data centers in Ohio during the 2026 Senate campaign.",
+      "source_label": "Statehouse News Bureau",
+      "url": "https://www.statenews.org/government-politics/2026-08-17/ohios-u-s-senate-candidates-recalibrate-their-stances-on-data-centers",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "The remark is about data centers, tax subsidies and his opponent; it does not mention AI itself or any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development. His data center criticism is about tax subsidies, electricity rates, land and water use and local input, not risks from AI itself, and no source showed him calling for a moratorium.", "sources": [["Statehouse News Bureau, 17 August 2026", "https://www.statenews.org/government-politics/2026-08-17/ohios-u-s-senate-candidates-recalibrate-their-stances-on-data-centers"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an AI agreement or talks with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-adjacent material found since 1 January 2025 is campaign criticism of data center tax breaks and electricity costs, which does not acknowledge catastrophic risk from AI. This rests on an incomplete search (general web search did not run), so 'none found' is weakly supported.",
+  "notes": "IMPORTANT: all seven general web searches were refused (shared search budget used up), so none of the required topic searches (superintelligence, extinction, pause, China agreement, 'AI safety', official-site search) actually ran. Coverage comes only from the campaign site and the site search pages of Statehouse News Bureau, WOSU, Ideastream, Signal Ohio and News 5 Cleveland; Ohio Capital Journal, NBC4, cleveland.com, Columbus Dispatch, AP and congress.gov could not be opened. A reviewer should rerun the searches before treating this as a finding of nothing. The campaign site (sherrodbrown.com home, /issues/, /news/) showed only donation content to the fetch tool and no AI text. 23 September 2026 China letter and Ban Artificial Superintelligence Act: no source was found either way; Brown was not a sitting senator in September 2026, so he could not have signed or co-sponsored as a senator, but that is my inference, not something a source showed. The single statement: the page fetch tool returned the quote consistently on two separate reads but would not reproduce the full paragraph, so please check the wording against the page; the interview is described as an 'August interview' and the date given (2026-08-17) is the article's publication date, not the confirmed interview date. Whether a data center remark that never mentions AI belongs as level D or should be dropped (making the grade 'none') is a judgment call; I flagged it 'unsure'. Left out because the fetch tool returned only fragments, not continuous passages I could verify: Brown's remarks to News 5 Cleveland (two undated 2026 articles, https://www.news5cleveland.com/news/politics/ohio-politics/ohio-u-s-senate-candidates-make-their-case-to-voters-weary-of-data-centers and https://www.news5cleveland.com/news/local-news/data-centers-remain-a-flashpoint-in-ohios-u-s-senate-race) saying, in paraphrase, that data center tax subsidies should be removed, local communities should decide whether data centers come, and ratepayers should not pay higher electric bills for them; and an X post quoted by AP/Scripps around 2 October 2026 about Husted giving tax breaks to Big Tech for data centers (X is out of scope here). None of these mention AI risk. Related coverage with no Brown quotes: WOSU 'Sherrod Brown Takes On Data Centers' (9 July 2026) and 'Ad targets Husted on data center support' (16 July 2026); Statehouse News Bureau candidate comparison (29 October 2026)."
+}

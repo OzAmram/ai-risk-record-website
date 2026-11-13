@@ -1,0 +1,40 @@
+{
+  "bioguide": "C000880",
+  "member": "Mike Crapo",
+  "searches": [
+    "Crapo artificial intelligence (restricted to crapo.senate.gov)",
+    "Senator Mike Crapo superintelligence OR \"artificial general intelligence\"",
+    "Mike Crapo AI \"existential risk\" OR extinction OR \"loss of control\"",
+    "Mike Crapo AI moratorium OR pause OR slowdown 2025 2026",
+    "Mike Crapo China AI agreement OR treaty OR talks artificial intelligence",
+    "\"Crapo\" \"AI safety\" senator Idaho",
+    "\"Ban Artificial Superintelligence Act\" cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-01",
+      "venue": "Press release statement after voting for the Ratepayer Protection Act",
+      "quote": "The U.S. must remain globally competitive in the advancement of artificial intelligence, which requires supporting the infrastructure and energy resources necessary for this growing technology",
+      "context": "Crapo explained his vote to advance a bill making large data centers pay for the electricity infrastructure they need, rather than ratepayers.",
+      "source_label": "Senate press release (crapo.senate.gov)",
+      "url": "https://www.crapo.senate.gov/media/newsreleases/crapo-statement-on-support-for-ratepayer-protection-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The statement is about AI competitiveness and data center electricity costs and does not acknowledge any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development; his data center remarks concern electricity costs, not risks from AI itself.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; he is not among the signers of the 23 September 2026 letter.", "sources": [["Van Hollen press release listing the signers", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Voted on 1 October 2026 to advance the Ratepayer Protection Act (data centers of 100 megawatts or more to pay their own grid costs); the cloture vote failed 57-43.", "Senate press release, 2026-10-01", "https://www.crapo.senate.gov/media/newsreleases/crapo-statement-on-support-for-ratepayer-protection-act"],
+    ["Introduced a bipartisan homelessness bill whose summary says it supports better use of data, including artificial intelligence tools, to direct resources.", "Senate press release, 2025-07-11", "https://www.crapo.senate.gov/media/newsreleases/crapo-and-bipartisan-senators-introduce-bill-to-empower-states-and-communities-to-reduce-homelessness"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only statement about AI found since 1 January 2025 is about staying competitive in AI and who pays for data center electricity. Nothing found acknowledges or dismisses catastrophic risk from AI.",
+  "notes": "Seven web searches ran; none was refused. No statement by Crapo on superintelligence, extinction, loss of control, bioweapons, AI safety, a pause, or a China agreement was found. He did not sign the 23 September 2026 letter (not on the verified signer list). No source found shows him co-sponsoring the Ban Artificial Superintelligence Act (reported sponsors are Sanders and Casar); the official co-sponsor list on congress.gov was not checked. Older AI material on his site is outside the date range and not included as statements: a 9 November 2023 Crapo-Wyden letter to federal agencies on their AI use, a 2024 Finance Committee hearing statement on AI in health care, and a 7 August 2024 Crapo-Wyden letter on AI safeguards at the Social Security Administration; all concern government use of AI, not catastrophic risk. Pages opened: the Ratepayer Protection Act release (wording read directly from the page), the homelessness bill release, and the 2023 and 2024 letters (read through a summarising fetch tool). Hearing transcripts and floor speeches were not searched separately, so remarks there could have been missed."
+}

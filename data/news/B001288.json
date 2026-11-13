@@ -1,0 +1,136 @@
+{
+ "bioguide": "B001288",
+ "member": "Sen. Cory Booker (Democrat, New Jersey)",
+ "searches": [
+  "Cory Booker artificial intelligence statement (restricted to booker.senate.gov)",
+  "Cory Booker superintelligence AI",
+  "Cory Booker AI \"extinction\" OR \"existential\" risk",
+  "Cory Booker AI pause OR slowdown OR moratorium",
+  "Cory Booker AI China agreement OR treaty OR talks",
+  "\"Cory Booker\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Booker"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-17",
+   "venue": "Senate floor speech (remarks as prepared for delivery)",
+   "quote": "Serious people, including researchers and leaders inside the companies developing the most advanced AI, are warning about dangerous biological or cyber capabilities—and the emergence of systems that behave in ways humans cannot reliably predict or control.",
+   "context": "Booker was asking President Trump to convene a special session of Congress on AI and listed catastrophic harms as the first of three challenges.",
+   "source_label": "Booker Senate press release",
+   "url": "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "He relays expert warnings of biological and cyber capabilities and of systems humans cannot control, and in the surrounding sentences says government must act on them, without an extinction framing."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Senate floor speech (remarks as prepared for delivery)",
+   "quote": "We do not know whether the most catastrophic scenarios will ever occur. But when credible experts warn of consequences this grave, responsible government does not panic and it does not dismiss them. It gets to work.",
+   "context": "The sentences immediately after the relayed warning in the same speech, giving his own view of how to respond.",
+   "source_label": "Booker Senate press release",
+   "url": "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "He endorses the experts' catastrophic warnings in his own words as grounds for action, while saying it is unknown whether the worst scenarios will occur."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Senate floor speech (remarks as prepared for delivery)",
+   "quote": "First, we must protect against potentially catastrophic harms.",
+   "context": "The first of three challenges he said a special session of Congress on AI should address.",
+   "source_label": "Booker Senate press release",
+   "url": "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "In his own words he says AI poses potentially catastrophic harms that must be guarded against."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Senate floor speech (remarks as prepared for delivery)",
+   "quote": "And yes, put the brakes on the development of capabilities whose risks outrun our ability to manage them",
+   "context": "The last item in his list of AI safety measures that he said the country should adopt.",
+   "source_label": "Booker Senate press release",
+   "url": "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says some AI capabilities carry risks beyond our ability to manage, a serious risk stated in general terms; the line is mainly evidence for the slowdown position."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "In his 17 September 2026 floor speech he called for putting 'the brakes on the development of capabilities whose risks outrun our ability to manage them' and for 'a careful and disciplined approach to the pace of AI development'. This is a statement, not a bill.",
+   "sources": [
+    [
+     "Booker Senate press release, 17 Sep 2026",
+     "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No call for a halt to frontier AI development was found. 'Put the brakes on' is read here as slowing certain capabilities, not a pause; a reviewer may judge otherwise. Axios (23 Aug 2026, not opened) reportedly says his team did not take a position on the Sanders pause proposal.",
+   "sources": [
+    [
+     "Booker Senate press release, 17 Sep 2026",
+     "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter urging AI talks with China. His speech lists 'International coordination' without naming China or pacing. A 15 May 2026 statement he led welcomed US-China talks on keeping advanced AI models from non-state actors but warned that 'AI safety talks cannot serve as a Trojan Horse for technological surrender'; that is not about pacing or pausing.",
+   "sources": [
+    [
+     "Booker Senate press release, 17 Sep 2026",
+     "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai"
+    ],
+    [
+     "Booker and Senate Foreign Relations Democrats statement, 15 May 2026 (copy on pubt.io)",
+     "https://pubt.io/view/4D4234FE9F8FFA0C43896C3817F25679B5A82BF8"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "His speech says the country should 'Prepare for the potential emergence of AI systems capable of autonomously improving themselves', which is preparation, not a ban. No source shows him co-sponsoring the Ban Artificial Superintelligence Act.",
+   "sources": [
+    [
+     "Booker Senate press release, 17 Sep 2026",
+     "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Senate floor speech asking President Trump to convene a special session of Congress on AI under Article II, Section 3, listing safety measures (pre-deployment testing, audits, incident investigation body, whistleblower protections, securing model weights).",
+   "Booker Senate press release, 17 Sep 2026",
+   "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai"
+  ],
+  [
+   "Led a statement with nine other Senate Foreign Relations Committee Democrats on the Trump-Xi summit, welcoming US-China talks on keeping advanced AI models from non-state actors and calling for strict chip export controls.",
+   "Booker statement as republished by Public Technologies, 15 May 2026",
+   "https://pubt.io/view/4D4234FE9F8FFA0C43896C3817F25679B5A82BF8"
+  ],
+  [
+   "Co-sponsored Sen. Markey's States' Right to Regulate AI Act, to block the executive order pre-empting state AI regulation.",
+   "Markey Senate press release, 17 Dec 2025",
+   "https://www.markey.senate.gov/news/press-releases/senator-markey-introduces-legislation-to-block-trumps-executive-order-blocking-state-ai-regulation"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In a 17 September 2026 Senate floor speech he said government must protect against potentially catastrophic harms from AI, citing biological and cyber capabilities and systems humans cannot reliably control. He did not mention extinction or a threat to humanity.",
+ "notes": "Seven web searches ran, none refused. All four quotes come from the 'Remarks as Prepared for Delivery' text on his Senate press release, which I opened; the wording as delivered on the floor may differ slightly and was not checked against video or the Congressional Record. The second quote contains three consecutive sentences that appear on separate lines on the page. The 15 May 2026 Foreign Relations statement was read through a page-summarising tool on a republished copy (pubt.io), not on booker.senate.gov, so the two phrases quoted from it in the positions note are not character-verified by me and it is not used as a statement. Not opened: Axios 23 Aug 2026 (blocked, HTTP 403), which search results say reports his team answering a question on the Sanders pause proposal by pointing to a data center energy-cost bill (paraphrase, left out). Not on the verified signer list of the 23 September 2026 China letter. No source found showing him as a co-sponsor of the Ban Artificial Superintelligence Act; the full co-sponsor list was not checked on Congress.gov. Bills such as the AI Grand Challenges Act (reintroduced, date not verified) and Algorithmic Accountability Act are outside the catastrophic-risk scope and were not opened. The July 2023 letter to the White House he refers to predates the 2025 cut-off."
+}

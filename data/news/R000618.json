@@ -1,0 +1,66 @@
+{
+  "bioguide": "R000618",
+  "member": "Pete Ricketts",
+  "searches": [
+    "Pete Ricketts artificial intelligence site:ricketts.senate.gov",
+    "Senator Pete Ricketts superintelligence",
+    "Pete Ricketts AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+    "Pete Ricketts AI pause OR slowdown OR moratorium",
+    "Pete Ricketts AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Ricketts\" \"AI safety\" senator Nebraska"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-05",
+      "venue": "Senate Foreign Relations Committee hearing with Secretary of State Rubio, as quoted in Ricketts press release",
+      "quote": "A world where Communist China is dominant in AI is very bad for the United States and for the entire world,",
+      "context": "Ricketts was arguing that the United States and its allies must win the AI competition with China, with a focus on semiconductor supply chains.",
+      "source_label": "Ricketts Senate press release",
+      "url": "https://www.ricketts.senate.gov/?p=12552",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The remark is about competition with China over AI, which the rubric (ruling 5) places outside catastrophic risk from AI itself."
+    },
+    {
+      "date": "2025-12-04",
+      "venue": "Press release introducing the SAFE Chips Act with Sen. Coons",
+      "quote": "Denying Beijing access to these AI chips is essential to our national security.",
+      "context": "Ricketts was explaining a bill to write into law the current limits on sales of advanced AI chips to China.",
+      "source_label": "Ricketts Senate press release",
+      "url": "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The statement concerns chip export limits and competition with China, not catastrophic risk from AI itself."
+    },
+    {
+      "date": "2025-06-04",
+      "venue": "AI+ Expo fireside chat, as quoted in Ricketts press release",
+      "quote": "What we have to do is create an environment where American innovators are the ones who can continue to innovate,",
+      "context": "Ricketts was arguing that innovation and adoption, not restrictive rules, are how the United States wins the AI competition with China.",
+      "source_label": "Ricketts Senate press release",
+      "url": "https://www.ricketts.senate.gov/?p=11624",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The remark promotes AI innovation and does not acknowledge catastrophic risk; promoting AI is D, not F (ruling 6)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons; his remarks favour faster American innovation but do not address a slowdown as a policy.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found for or against coordinating with China on the pace of AI development; he did not sign the 23 September 2026 letter, and his remarks are about out-competing China and restricting chip sales to it.", "sources": [["Van Hollen press release listing the letter's signers (Ricketts not among them), 23 Sep 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found for or against a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the SAFE Chips Act with Sen. Coons, to write into law current limits on sales of advanced AI chips to China.", "Ricketts Senate press release, 4 December 2025", "https://www.ricketts.senate.gov/news/press-releases/ricketts-coons-introduce-safe-chips-act/"],
+    ["Chaired a Senate Foreign Relations subcommittee hearing on American AI leadership and countering China.", "Ricketts Senate press release, 3 December 2025 (page could not be opened; seen in search results)", "https://www.ricketts.senate.gov/?p=12062"],
+    ["Led a letter to Commerce Secretary Lutnick calling for a stable regulatory environment to win the AI race, including know-your-customer and security controls on technology used to train frontier AI models.", "Ricketts Senate press release, 16 July 2025", "https://www.ricketts.senate.gov/?p=11717"],
+    ["Led a letter to Commerce Secretary Lutnick urging reform of the Biden administration's AI Diffusion Rule.", "Ricketts Senate press release, 14 April 2025 (seen in search results, not opened)", "https://www.ricketts.senate.gov/news/press-releases/ricketts-leads-letter-to-commerce-secretary-lutnick-calling-for-imminent-reform-to-biden-ai-diffusion-rule/"],
+    ["Introduced, with Sens. Rosen and Husted, a bill to bar the Chinese AI program DeepSeek from government devices.", "Rosen Senate press release, 27 February 2025 (seen in search results, not opened)", "https://www.rosen.senate.gov/es/2025/02/27/senators-rosen-husted-ricketts-introduce-bipartisan-bill-to-protect-american-government-devices-from-prc-controlled-ai-program"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Every statement found since January 2025 is about winning the AI competition with China, chip export limits or promoting American innovation. Nothing found acknowledges, or dismisses, catastrophic risk from AI itself.",
+  "notes": "Six web searches ran, all successfully; no further searches were made. 23 September 2026 China letter: not a signer (per the verified list). Ban Artificial Superintelligence Act: search results describe it as a Sanders and Casar bill and no source shows Ricketts as a co-sponsor; I did not check the Congress.gov co-sponsor list. Quote accuracy caveat: pages were read through a fetch tool that summarises the page with a small model, so the three quotes were returned by that tool rather than seen by me in raw page text. A reviewer should check them character for character, especially the SAFE Chips Act quote, which the tool returned as one sentence from a longer quote split into pieces. The trailing commas in two quotes are as the tool returned them (press release style, before 'Ricketts said'). The date 2026-06-05 is the press release date; the hearing itself may have been a day or more earlier. The date 2025-06-04 is likewise the press release date. Pages I could not open: the 3 December 2025 hearing press release (https://www.ricketts.senate.gov/?p=12062, 403 error), which is probably his longest statement on AI and should be read by a reviewer; a Husker Radio report on the AI+ Expo (403); and a podcast page 'Balancing AI Advancements With Public Safety and Transparency with Senator Pete Ricketts' (https://www.sanjaypuri.com/episodes/senator-pete-ricketts, 404, date unknown, possibly before 2025). A summary of the December hearing on a third-party site paraphrased him as stressing AI's significance for daily life and military capabilities; that is a paraphrase and was left out of statements. From the July 2025 letter (which he led), the fetch tool returned the fragments 'wisely limiting our foreign adversary's opportunities to develop frontier AI' and 'we could be at the mercy of Communist China for many critical industries'; these are competition with China (D) and were left out as fragments. A WOWT story of 18 September 2026 on a Nebraska lawmaker and AI safety is about Rep. Mike Flood, not Ricketts. Material from 2023 (deepfake watermark bill, AI scams letter) is before the search window and was left out."
+}

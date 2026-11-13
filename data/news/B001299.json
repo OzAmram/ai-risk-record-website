@@ -1,0 +1,154 @@
+{
+ "bioguide": "B001299",
+ "member": "Sen. Jim Banks (R-Indiana)",
+ "searches": [
+  "Jim Banks senator superintelligence AI",
+  "Sen. Jim Banks AI \"extinction\" OR \"existential\" risk",
+  "Jim Banks senator AI pause OR moratorium OR slowdown",
+  "Jim Banks senator AI China agreement OR treaty OR talks artificial intelligence",
+  "\"Jim Banks\" \"AI safety\"",
+  "artificial intelligence Banks (restricted to banks.senate.gov; the restriction did not take effect and results were unrelated)",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators September 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-05-13",
+   "venue": "Letter to Treasury Secretary Bessent, Secretaries Lutnick and Rubio, and Directors Cairncross and Kratsios",
+   "quote": "More broadly, there are unresolved questions about whether we currently have the ability to keep powerful AI systems under our control. These questions are especially salient as companies pursue artificial superintelligence—AI models that can do anything a human can do but much, much better.",
+   "context": "Banks was urging the administration to treat national security risks from advanced AI seriously while staying ahead of China, after the release of the Mythos model.",
+   "source_label": "Senate press release (full letter text)",
+   "url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "In his own words he names loss of human control over powerful AI and superintelligence as an unresolved serious risk, but he frames it as an open question and does not call it catastrophic, so it sits between B and C."
+  },
+  {
+   "date": "2026-05-13",
+   "venue": "Letter to Treasury Secretary Bessent, Secretaries Lutnick and Rubio, and Directors Cairncross and Kratsios",
+   "quote": "Our major AI companies believe superintelligence could pose significant risks that our current scientific understanding is not yet capable of addressing.",
+   "context": "Same letter, in the paragraph beginning 'We must also recognize that advanced AI presents serious risks.'",
+   "source_label": "Senate press release (full letter text)",
+   "url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "bill_or_action"
+   ],
+   "reason": "He relays the AI companies' warning about superintelligence without stating a catastrophic outcome himself."
+  },
+  {
+   "date": "2026-05-13",
+   "venue": "Letter to Treasury Secretary Bessent, Secretaries Lutnick and Rubio, and Directors Cairncross and Kratsios",
+   "quote": "How do we ensure that we have the insight required to assess models not only for cyber capabilities but also in areas like military applications, loss of control to AI systems themselves, automated AI research and development capabilities, and other security domains?",
+   "context": "One of six questions he asked the administration to consider, this one on government capacity to evaluate advanced AI models.",
+   "source_label": "Senate press release (full letter text)",
+   "url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "He lists loss of control to AI systems as a security area the government should be able to assess, a general acknowledgment of serious risk without a stated catastrophic consequence."
+  },
+  {
+   "date": "2026-08-05",
+   "venue": "Letter to Treasury Secretary Scott Bessent",
+   "quote": "What scenarios should the U.S. prepare for if the next generation of advanced AI systems attempts to circumvent its safeguards or escape containment in a manner similar to the recent OpenAI and Anthropic incidents?",
+   "context": "Banks was asking for oversight of AI models that companies use internally but have not released, after incidents in which OpenAI and Anthropic models accessed outside systems without authorization.",
+   "source_label": "Senate press release (full letter text)",
+   "url": "https://www.banks.senate.gov/news/press-releases/sen-banks-recommends-oversight-of-unreleased-ai-models/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "He raises AI systems escaping containment as a threat to national security and public safety in general terms, with no catastrophic consequence named (ruling 4)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement for or against slowing AI for safety reasons was found. His 13 May 2026 letter says the United States must reach key AI thresholds before China and criticises unnamed 'extremely heavy-handed approaches that would cede our lead to the PRC', which is not a statement about a slowdown specifically.",
+   "sources": [
+    [
+     "Senate press release, 14 May 2026",
+     "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement about a pause on frontier AI development was found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "mixed",
+   "note": "In his 13 May 2026 letter he rejected an AI 'grand bargain' or arms-control-style agreement with China, citing cheating and verification problems, but supported narrow talks on reciprocal action for policies the US would adopt anyway; his 5 August 2026 letter recommended raising risks from undisclosed models and autonomous agents with China. None of this is about coordinating the pace of AI development or a mutual pause.",
+   "sources": [
+    [
+     "Senate press release, 14 May 2026",
+     "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/"
+    ],
+    [
+     "Senate press release, 6 August 2026",
+     "https://www.banks.senate.gov/news/press-releases/sen-banks-recommends-oversight-of-unreleased-ai-models/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement on banning self-improving AI was found. He has asked the government to study and evaluate AI that automates AI research (letters of 3 March, 13 May and 5 August 2026) and wrote that 'America must reach this threshold before the PRC', but he did not address a ban.",
+   "sources": [
+    [
+     "Senate press release, 14 May 2026",
+     "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/"
+    ],
+    [
+     "Senate press release, 4 March 2026",
+     "https://www.banks.senate.gov/news/press-releases/banks-outlines-priorities-for-pentagons-u-s-china-ai-strategy-as-tech-rivalry-intensifies/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Sent a letter on 13 May 2026 to five senior administration officials asking how the government will evaluate advanced AI (including loss of control and automated AI research), what frontier AI companies should be required to report, and which narrow AI topics to raise with China.",
+   "Senate press release, 14 May 2026",
+   "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/"
+  ],
+  [
+   "Sent a letter on 5 August 2026 to Treasury Secretary Bessent recommending oversight of unreleased AI models after OpenAI and Anthropic incidents, and suggesting these risks be raised with China.",
+   "Senate press release, 6 August 2026",
+   "https://www.banks.senate.gov/news/press-releases/sen-banks-recommends-oversight-of-unreleased-ai-models/"
+  ],
+  [
+   "Sent a letter on 3 March 2026 to Secretary Hegseth suggesting the Pentagon's AI Futures Steering Committee study, among other things, China's views on artificial general intelligence and superintelligence and the possibility of 'recursive improvement'.",
+   "Senate press release, 4 March 2026",
+   "https://www.banks.senate.gov/news/press-releases/banks-outlines-priorities-for-pentagons-u-s-china-ai-strategy-as-tech-rivalry-intensifies/"
+  ],
+  [
+   "Introduced with Sen. Adam Schiff on 23 July 2026 the Collaboration on Adversarial Threats and Security Risks Act, which lets AI companies share information on security threats; the release lists AI-enabled chemical, biological, radiological, nuclear and cyber threats among its subjects.",
+   "Senate press release, 23 July 2026",
+   "https://www.banks.senate.gov/news/press-releases/sens-banks-and-schiff-introduce-bill-to-help-american-ai-companies-combat-chinese-espionage/"
+  ],
+  [
+   "Introduced the AI OVERWATCH Act (congressional review of advanced AI chip exports), announced 4 May 2026, and the GAIN AI Act (priority access to AI chips for US buyers), announced 6 November 2025; both concern competition with China, not AI risk.",
+   "Senate press release, 4 May 2026",
+   "https://www.banks.senate.gov/news/press-releases/banks-introduces-ai-overwatch-act/"
+  ],
+  [
+   "Not a signer of the 23 September 2026 letter urging AI talks with China (his name is not on the verified list of signers).",
+   "Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "His 13 May 2026 letter says in his own words that it is unresolved whether humans can keep powerful AI systems, including superintelligence, under control. This is a borderline B: he names loss of control but as an open question and never uses catastrophic or extinction language; a reviewer could reasonably choose C.",
+ "notes": "Seven web searches ran (the six required plus one on the Ban Artificial Superintelligence Act); none was refused. The search restricted to banks.senate.gov returned unrelated results, so I instead read the site's own press release, 'in the news' and op-ed listings directly and opened the AI-related pages. All four quotes were checked by program as exact continuous passages of the press release pages. The grade B is a boundary call (see grade_reason). Left out: (1) A letter of about 5 June 2026 asking agencies to consider AI that can improve itself without human involvement; I found only paywalled or paraphrased reports (Bloomberg Government, https://news.bgov.com/artificial-intelligence/ai-oversight-should-keep-up-with-latest-models-gop-senator-says) and no primary text on his site, so no quote is included. (2) A 7 October 2026 letter to Hegseth and Vought on insider threats to AI systems, reported by Inside AI Policy and reposted on his site (https://www.banks.senate.gov/news/in-the-news/sen-banks-flags-insider-threats-to-pentagon-ai-systems-while-praising-efforts-to-deploy-the-technology/); it is about espionage, level D. (3) Remarks at the Hill and Valley Forum (24 March 2026) and a Breitbart event (26 March 2026) about winning the AI race with China; level D. (4) A Punchbowl News item (reposted on his site, 15 September 2026) says AI companies want the Banks-Schiff bill's antitrust protection in order to coordinate on slowing frontier AI; that is the reporter's description, not a statement by Banks, and his own release frames the bill as a defence against Chinese espionage. On the Ban Artificial Superintelligence Act: no source I found lists Banks as a co-sponsor (reports name only Sanders in the Senate), but I did not check Congress.gov. I could not open the letter PDFs (hosted on Dropbox); the quotes come from the full letter text reproduced in the press releases. The 13 May letter date is taken from the release ('Yesterday', published 14 May 2026) and the 5 August date likewise."
+}

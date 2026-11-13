@@ -1,0 +1,70 @@
+{
+  "bioguide": "S001232",
+  "member": "Tim Sheehy",
+  "searches": [
+    "Sheehy artificial intelligence (restricted to sheehy.senate.gov)",
+    "Senator Tim Sheehy superintelligence",
+    "Tim Sheehy AI \"extinction\" OR \"existential\" risk senator Montana",
+    "Tim Sheehy AI moratorium OR pause OR slowdown senator",
+    "Tim Sheehy AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Sheehy\" \"AI safety\" senator Montana",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+    "Fox News \"AI safety scare sparks\" Capitol Hill fight over guardrails \"China's going to eat our lunch\" Sheehy"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-20",
+      "venue": "Remarks to Fox News Digital (Capitol Hill reaction piece)",
+      "quote": "But we also need to make sure that it's being done safely.",
+      "context": "Asked about warnings on AI danger and calls to slow AI development, Sheehy said guardrails are reasonable but the US should not slow down because China would win, then added this sentence.",
+      "source_label": "Fox News",
+      "url": "https://www.foxnews.com/politics/watch-ai-safety-scare-sparks-cap-hill-fight-over-guardrails-chinas-going-eat-our-lunch",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "He says AI should be developed safely and with some guardrails but names no risk or harm, so it falls just short of acknowledging serious risk in general terms (between C and D)."
+    },
+    {
+      "date": "2026-03-04",
+      "venue": "Press release introducing the AI Fraud Accountability Act",
+      "quote": "but we must ensure it is not a tool for fraud.",
+      "context": "Sheehy was announcing a bill with Sen. Blunt Rochester to make AI-enabled impersonation fraud a federal crime.",
+      "source_label": "Senate press release",
+      "url": "https://www.sheehy.senate.gov/news/press-releases/sheehy-blunt-rochester-introduce-ai-fraud-accountability-act/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The only harm named is fraud and scams, which is outside catastrophic risk under ruling 5."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "no",
+      "note": "In remarks published by Fox News on 20 September 2026 he said the US should not slow AI development because China would win, while also saying some guardrails are reasonable.",
+      "sources": [["Fox News, 20 September 2026", "https://www.foxnews.com/politics/watch-ai-safety-scare-sparks-cap-hill-fight-over-guardrails-chinas-going-eat-our-lunch"]]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found that addresses a halt to frontier AI development specifically; his opposition to a data center moratorium (August 2026) was argued on jobs, not on AI development policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI; he did not sign the 23 September 2026 letter.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    ["Introduced the AI Fraud Accountability Act with Sen. Lisa Blunt Rochester, making AI-enabled impersonation fraud a federal crime (not about catastrophic risk).", "Senate press release, 4 March 2026", "https://www.sheehy.senate.gov/news/press-releases/sheehy-blunt-rochester-introduce-ai-fraud-accountability-act/"],
+    ["Publicly opposed Sen. Sanders' call for a moratorium on new data centers, arguing it would destroy jobs.", "The Daily Wire, 24 August 2026", "https://www.dailywire.com/news/communist-lobbying-sheehy-blasts-left-wing-push-to-kill-data-centers"],
+    ["Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China (not on the verified signer list).", "Van Hollen press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His most substantial remark says AI needs some guardrails and must be done safely, but names no risk; everything else found is about fraud, jobs, data centers, energy and military competition with China. A reviewer could reasonably move the Fox remark to C.",
+  "notes": "Eight searches ran, none refused. Pages were read through a fetch tool that returns a model's extraction of the page, not raw text, so quotes should be checked character for character by the reviewer. The Fox News article gives no date for when Sheehy spoke; 2026-09-20 is the publication date. Other wording in the same Fox piece, as extracted: \"It's not unreasonable for us to expect to have some guardrails,\" and \"We don't wanna slow it down cause if we slow down, China will win,\"; the WFMD repost (https://www.wfmd.com/?p=82301) showed \"slowdown\" as one word in the second, so I did not use that sentence as a quote and based the slowdown position on it only in paraphrase. Ban Artificial Superintelligence Act: no source found showing Sheehy as a co-sponsor; the only Senate sponsor named in results was Sanders, and I did not find a full co-sponsor list. Left out as not about AI risk: a Fox News op-ed of 22 July 2026 (posted on his Senate site) mentioning China's investment in AI and autonomous weapons (military competition, ruling 3/5); a May 2025 Senate Commerce hearing where reports paraphrase him asking witnesses how to win the AI race (paraphrase only, not opened); a remark on AI driving energy demand. Daily Wire quotes on data centers were not included as statements because they are about jobs, not AI risk. The KTVH article on Montana Senate candidates and the NBC Montana piece on Republicans resisting AI safety laws do not mention Sheehy."
+}

@@ -1,0 +1,30 @@
+{
+  "bioguide": "H001082",
+  "member": "Kevin Hern",
+  "searches": [
+    "NOT RUN (web search budget exhausted): Kevin Hern artificial intelligence statement",
+    "NOT RUN (web search budget exhausted): Kevin Hern AI [restricted to hern.house.gov]",
+    "NOT RUN (web search budget exhausted): \"Kevin Hern\" superintelligence",
+    "NOT RUN (web search budget exhausted): \"Kevin Hern\" AI extinction OR \"existential risk\"",
+    "NOT RUN (web search budget exhausted): \"Kevin Hern\" AI moratorium OR pause OR slowdown",
+    "NOT RUN (web search budget exhausted): \"Kevin Hern\" AI China agreement OR treaty OR talks",
+    "NOT RUN (web search budget exhausted): \"Kevin Hern\" \"AI safety\"",
+    "Opened directly: https://hern.house.gov/news/documentquery.aspx?DocumentTypeID=27 (press release list, pages 1 to 5, covering 20 January 2025 to 22 July 2026)",
+    "Opened directly: https://hern.house.gov/news/documentsingle.aspx?DocumentID=4186 (FY27 defense bill release, 22 July 2026)",
+    "Opened directly: https://hern.house.gov/news/documentsingle.aspx?DocumentID=4140 (FY26 defense bill release, 10 December 2025)",
+    "Opened directly: https://hern.house.gov/issues/ (issue page list)",
+    "Opened directly: http://hernforsenate.com/ , https://hernforsenate.com/promises-kept/ , https://hernforsenate.com/meet-kevin/ (Senate campaign site)",
+    "Opened directly: https://www.publicradiotulsa.org/search?q=Hern+artificial+intelligence (Public Radio Tulsa site search, first page of results only)"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an AI agreement or talks with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement about AI by Kevin Hern since 1 January 2025 was found in the pages that could be opened. This is a weak 'none': all seven web searches were refused, so the check rests on his official press release list, his official issue list, his campaign site and one local news site search.",
+  "notes": "INCOMPLETE SEARCH. None of the seven required web searches ran: the shared web search budget for the session was used up, and every query was refused. What was checked instead, by opening pages directly: (1) hern.house.gov press release list, pages 1 to 5 (about 45 releases from 20 January 2025 to 22 July 2026): no title or visible excerpt mentions AI; only the two defense bill releases were opened in full, and neither mentions AI; the other releases were judged from titles and truncated excerpts only. (2) hern.house.gov issue list: seven issues, none about AI or technology. (3) Campaign site hernforsenate.com (home page, 'Promises Kept', 'Meet Kevin'): no mention of AI. (4) Public Radio Tulsa site search for 'Hern artificial intelligence': first page of results showed nothing linking Hern to AI; later pages not checked. Pages that could not be opened: hern.house.gov site search (403 error), congress.gov member page (403), govtrack.us member page (403), Oklahoma Voice search (403), NonDoc search (403), KOSU search (403), kevinhern.com (connection reset), News On 6 search (page fetch rate-limited). Because congress.gov and govtrack could not be opened, his bill sponsorships and co-sponsorships on AI were NOT checked. The 23 September 2026 letter from 17 senators urging AI talks with China and the 'Ban Artificial Superintelligence Act' (September 2026): no source was found or opened showing whether Hern signed or co-sponsored; neither was checked against a signatory or co-sponsor list. (He was a House member, not a senator, in September 2026, so signing a senators' letter would be unexpected, but this is an inference, not a verified fact.) Hearing remarks, floor speeches, interviews and op-eds were not searched. Recommend re-running the web searches when the search budget is available before treating 'none' as final."
+}

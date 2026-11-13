@@ -1,0 +1,97 @@
+{
+ "bioguide": "S001203",
+ "member": "Tina Smith",
+ "searches": [
+  "Tina Smith artificial intelligence (restricted to smith.senate.gov)",
+  "Senator Tina Smith superintelligence",
+  "Senator Tina Smith AI \"extinction\" OR \"existential risk\"",
+  "Senator Tina Smith AI pause OR slowdown OR moratorium",
+  "Senator Tina Smith AI China agreement OR treaty talks",
+  "\"Tina Smith\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump from 17 Senate Democrats, led by Sen. Van Hollen",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+   "context": "The letter urged the President to negotiate an agreement on AI guardrails with China's President Xi at their planned 24 September 2026 summit.",
+   "source_label": "Van Hollen Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter she signed says frontier AI development could enable biological weapons and other activities that threaten humanity as a whole, which is level A under the threat-to-humanity ruling; these are the letter's words, not her own, and a reviewer could read it as B (mass-casualty misuse)."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump from 17 Senate Democrats, led by Sen. Van Hollen",
+   "quote": "AI technology is too powerful, and its risks too many, for the U.S. and China to forgo discussions on parameters around its development and use.",
+   "context": "The closing passage of the same letter, arguing that the United States and China must talk directly about limits on AI development and use.",
+   "source_label": "Van Hollen Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "This passage of the letter she signed acknowledges serious risks from AI in general terms without naming a catastrophic harm."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development to prevent cyberattacks, bioweapons and other threats; this is a signed letter, not her own statement.",
+   "sources": [
+    [
+     "Van Hollen Senate press release",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks for an agreement that would 'potentially enact a mutual pause' in frontier AI development, so the pause is tentative and conditional on China joining.",
+   "sources": [
+    [
+     "Van Hollen Senate press release",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter urging direct talks and a formal agreement with China to slow, and possibly mutually pause, frontier AI development.",
+   "sources": [
+    [
+     "Van Hollen Senate press release",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Senate Democrats urging President Trump to negotiate an AI agreement with China, including a slowdown and possible mutual pause in frontier AI development.",
+   "Van Hollen Senate press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Asked the Joint Committee on Taxation to estimate how much the 2025 tax law has subsidised AI data center construction; the release is about cost, electricity and water bills, and says nothing about risks from AI itself.",
+   "Smith Senate press release, 2026-10-02",
+   "https://www.smith.senate.gov/u-s-senator-tina-smith-requests-cost-estimate-of-big-beautiful-bills-data-center-tax-incentives/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only evidence is the 23 September 2026 letter she co-signed, which says frontier AI development could enable activities that threaten humanity writ large. No statement in her own words about catastrophic AI risk was found.",
+ "notes": "All 6 required web searches have now run, over two runs. In the first run 5 ran and the 6th (her name with \"AI safety\") was refused with a too-many-requests error; it was run successfully in a second run on 11 November 2026 and returned nothing about her: every result was about Microsoft president Brad Smith or AI safety in general, plus one Senate hearing record from the 118th Congress (2023-2024), which is before the date range and was not opened. No lead appeared, so no follow-up search was run and nothing was added. In the first run I also opened her official site's own search page for 'artificial intelligence', which showed one relevant 2025-2026 item (the 2 October 2026 data center tax letter, level D, listed in record only). Both quotes were checked character for character against the Van Hollen press release page, which I downloaded directly; curly apostrophes on that page do not occur inside the quotes. The first quote starts mid-sentence (the sentence begins 'America leads in AI innovation, and we must lead the world in AI safety and international cooperation, including by working with China to develop'). The A level rests on the phrase 'humanity writ large' in a co-signed letter and is flagged boundary. Ban Artificial Superintelligence Act (September 2026): no source found showing she co-sponsored it; the coverage seen named only Sen. Sanders and Rep. Casar, and I did not check the bill's co-sponsor list on congress.gov. No press release on her own site about the China letter was found. Her other AI-related items on smith.senate.gov (AI in eviction filings, 2024; algorithmic rent pricing; DOGE use of AI on student loan data) are outside the date range or outside catastrophic risk."
+}

@@ -1,0 +1,114 @@
+{
+ "bioguide": "H001096",
+ "member": "Harriet Hageman",
+ "searches": [
+  "NOT RUN (web search budget refused): Harriet Hageman artificial intelligence courts bill March 2026",
+  "NOT RUN (web search budget refused): Hageman artificial intelligence [restricted to hageman.house.gov]",
+  "NOT RUN (web search budget refused): \"Hageman\" superintelligence AI",
+  "NOT RUN (web search budget refused): \"Harriet Hageman\" AI \"existential\" OR \"extinction\" risk",
+  "NOT RUN (web search budget refused): \"Hageman\" AI moratorium OR pause OR slowdown state AI laws",
+  "NOT RUN (web search budget refused): \"Hageman\" AI China agreement OR treaty OR talks artificial intelligence",
+  "NOT RUN (web search budget refused): \"Harriet Hageman\" \"AI safety\"",
+  "Opened directly: hageman.house.gov press release archive, listing pages 1 to 10 (30 October 2026 back to 7 January 2025), titles and teasers scanned for AI, technology, China",
+  "Opened directly: hageman.house.gov op-ed archive, listing pages 1 to 5",
+  "Opened directly: hageman.house.gov 'In the News' archive, listing pages 1 to 4",
+  "Opened directly: hagemanforwyoming.com home page and resources page",
+  "Opened directly: cowboystatedaily.com site search 'Hageman artificial intelligence' and 'Hageman AI' (returned only latest stories, none about Hageman and AI)",
+  "Opened directly: wyofile.com site search 'Hageman artificial intelligence' (nothing relevant)",
+  "Blocked (HTTP 403 or 404 or empty): hageman.house.gov site search, congress.gov member page, govtrack.us bill search for 'superintelligence', wicker.senate.gov search and press release list, wyomingpublicmedia.org search"
+ ],
+ "statements": [
+  {
+   "date": "2026-07-27",
+   "venue": "Op-ed, 'Reining in the censorship industrial complex in the age of AI' (as reposted on her House site; original outlet not shown)",
+   "quote": "Artificial intelligence is on the cusp of transforming everything, but we cannot allow the AI revolution to transform the Constitution into a mere suggestion. I am, however, still optimistic about AI’s potential for humanity despite these concerns about use in courts and censorship.",
+   "context": "Closing section of an op-ed arguing for her Preventing AI Censorship Act and her bill on AI in the courts.",
+   "source_label": "Hageman House site, op-ed",
+   "url": "https://hageman.house.gov/media/op-eds/reining-censorship-industrial-complex-age-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Her concerns are government censorship through AI and accuracy in courts, and she says she is optimistic about AI; no catastrophic risk is acknowledged."
+  },
+  {
+   "date": "2025-09-16",
+   "venue": "Press release introducing H.R. 5315, the Fair Artificial Intelligence Realization (FAIR) Act",
+   "quote": "AI is advancing faster than our institutions are prepared for, and we either allow technology to become a tool for propaganda or insist it serves the truth,",
+   "context": "Announcing a bill to require that AI bought by the federal government be truthful and politically neutral.",
+   "source_label": "Hageman House press release",
+   "url": "https://hageman.house.gov/media/press-releases/congresswoman-harriet-hageman-introduces-fair-act-safeguard-truth-and",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The harm named is AI as a tool for propaganda and political bias, which is outside catastrophic risk."
+  },
+  {
+   "date": "2026-03-19",
+   "venue": "Press release introducing the Research and Oversight of Artificial Intelligence (AI) in Courts Act of 2026",
+   "quote": "As an attorney for over three decades, I know our justice system demands precision and security. Congress must protect the integrity of our courts with vigorous oversight that remains up to date with emerging technologies.",
+   "context": "Announcing a bill with Senators Wicker and Welch to set up a task force on AI speech-to-text tools in federal courts.",
+   "source_label": "Hageman House press release",
+   "url": "https://hageman.house.gov/media/press-releases/rep-hageman-introduces-bipartisan-bill-sens-wicker-welch-examine-use-ai-speech",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About accuracy, privacy and security of AI transcription in courts, not catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development for safety reasons.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause on frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced H.R. 5315, the Fair Artificial Intelligence Realization (FAIR) Act, with Rep. Barry Moore, to require that AI bought by the federal government be truthful and politically neutral.",
+   "Hageman House press release, 16 September 2025",
+   "https://hageman.house.gov/media/press-releases/congresswoman-harriet-hageman-introduces-fair-act-safeguard-truth-and"
+  ],
+  [
+   "Introduced the Research and Oversight of Artificial Intelligence (AI) in Courts Act of 2026 with Senators Roger Wicker and Peter Welch, creating a 15-member task force to study AI speech-to-text tools in federal courts (bill number not stated in the release).",
+   "Hageman House press release, 19 March 2026",
+   "https://hageman.house.gov/media/press-releases/rep-hageman-introduces-bipartisan-bill-sens-wicker-welch-examine-use-ai-speech"
+  ],
+  [
+   "Introduced the Preventing AI Censorship Act, letting citizens sue federal employees who pressure AI providers to suppress or alter outputs based on viewpoint (bill number not stated in the release).",
+   "Hageman House press release, 11 June 2026",
+   "https://hageman.house.gov/media/press-releases/rep-hageman-introduces-bill-hold-federal-employees-accountable-ai-censorship"
+  ],
+  [
+   "Sent a letter to Meta's chief executive demanding answers about bacterial contamination of Cheyenne's reuse water system by Meta's data center (the release does not mention AI).",
+   "Hageman House press release, 9 July 2026",
+   "https://hageman.house.gov/media/press-releases/hageman-demands-answers-meta-over-data-center-water-contamination"
+  ],
+  [
+   "Said at a Powell town hall that she co-sponsored the Ratepayer Protection Act so that data centers do not raise local power rates (the article does not mention AI).",
+   "Cody Enterprise, 14 October 2026",
+   "https://www.codyenterprise.com/news/local/article_e83b6a4f-0b14-40cb-87d1-a698236dd5cf.html"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Everything found on AI concerns government censorship and political bias in AI, AI transcription in courts, and data centers. Nothing found acknowledges, or dismisses, catastrophic risk from AI.",
+ "notes": "IMPORTANT: none of the web searches ran. All seven attempted queries were refused because the shared search budget was used up, so the brief's requirement of six searches (including superintelligence, extinction, pause, China, 'AI safety') was NOT met. Findings rest only on pages opened directly: her House site's press release listings back to January 2025, op-ed and 'In the News' listings, her campaign site, and two Wyoming news sites' search pages (which returned little). The House site's own search, congress.gov, govtrack.us and wicker.senate.gov were blocked. So hearing remarks (she sits on House Judiciary), floor speeches, interviews, national news coverage, co-sponsorships of other members' bills, and her newsletters were not checked; a D here means 'nothing found in a limited search', not a confirmed absence. 23 September 2026 senators' letter on AI talks with China and the 'Ban Artificial Superintelligence Act': no source seen either way, so nothing is claimed; she is a House member, so she would not have been among 17 senators, but that is my inference, not something a source showed. The three quotes were copied from the House site pages, downloaded and checked by script as exact continuous passages. The two press release quotes are each one segment of a quotation that the release splits with 'said ...'; the FAIR Act quote ends with the comma that precedes that attribution. The op-ed's original outlet and the bill numbers for the courts bill and the censorship bill are not given on her site. The Wicker release mentioned in the task could not be opened; her own release on the same bill was used instead. The Cody Enterprise article was read only through an automated page summary, which quoted her as saying 'I also co-sponsored the Ratepayer Protection Act to require utility regulators to implement standards' and 'to make sure that data centers don't raise power rates in their communities'; it is about electricity rates, so it is in 'record' only and not in 'statements'. Her vote for the One Big Beautiful Bill Act in May 2025 (the House version reportedly contained a 10-year moratorium on state AI laws) is from my background knowledge, not verified this session, and no statement by her on that provision was found."
+}

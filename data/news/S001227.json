@@ -1,0 +1,64 @@
+{
+  "bioguide": "S001227",
+  "member": "Eric Schmitt",
+  "searches": [
+    "Eric Schmitt artificial intelligence (restricted to schmitt.senate.gov)",
+    "Senator Eric Schmitt superintelligence",
+    "Eric Schmitt senator AI \"existential\" OR \"extinction\" risk",
+    "Eric Schmitt AI moratorium OR pause OR slowdown senator 2026",
+    "Eric Schmitt China AI agreement OR treaty OR talks senator",
+    "\"Eric Schmitt\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+    "Cruz AI \"catastrophic risks\" bill 2026 cosponsors Schmitt"
+  ],
+  "statements": [
+    {
+      "date": "2025-10-14",
+      "venue": "Tech and AI Roundtable hosted by the KC Tech Council, Kansas City",
+      "quote": "Can you imagine Kansas has one set of rules for AI and Missouri has another? That’s not going to work.",
+      "context": "Schmitt was arguing that the federal government should override state-by-state AI rules.",
+      "source_label": "Startland News",
+      "url": "https://www.startlandnews.com/2025/10/eric-schmitt-ai-tech/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He talks about who should regulate AI but does not acknowledge any catastrophic risk from AI."
+    },
+    {
+      "date": "2025-10-14",
+      "venue": "Tech and AI Roundtable hosted by the KC Tech Council, Kansas City",
+      "quote": "That’s the kind of innovation and competition that’s going to make us win this really important AI race with China.",
+      "context": "Schmitt was saying large technology companies should not crowd out smaller AI firms.",
+      "source_label": "Startland News",
+      "url": "https://www.startlandnews.com/2025/10/eric-schmitt-ai-tech/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Competition with China and promotion of AI are outside the rubric's scope (ruling 5), with no catastrophic risk named."
+    },
+    {
+      "date": "2025-05-16",
+      "venue": "Senate press release",
+      "quote": "I am proud to be leading this bill that promotes competition, as well as encourages innovation so the U.S. can continue to lead A.I.",
+      "context": "Schmitt was reintroducing the Protecting AI and Cloud Competition in Defense Act, on how the Defense Department buys AI and cloud services.",
+      "source_label": "Senate press release",
+      "url": "https://www.schmitt.senate.gov/media/press-releases/senator-schmitt-renews-bipartisan-push-to-support-ai-cloud-computing-innovation/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The statement is about defense procurement competition and AI leadership, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "He did not sign the 23 September 2026 letter urging AI talks with China, and no statement for or against such an agreement was found; his remarks frame AI as a race with China.", "sources": [["Startland News, 16 October 2025", "https://www.startlandnews.com/2025/10/eric-schmitt-ai-tech/"]]},
+    "rsi": {"value": "none", "note": "No statement found for or against a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Reintroduced the Protecting AI and Cloud Competition in Defense Act, a bill on competition in Defense Department purchasing of AI and cloud services (not an AI safety bill).", "Senate press release, 16 May 2025", "https://www.schmitt.senate.gov/media/press-releases/senator-schmitt-renews-bipartisan-push-to-support-ai-cloud-computing-innovation/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His remarks on AI since January 2025 are about winning the AI race with China, federal preemption of state AI rules and defense procurement. Nothing found acknowledges catastrophic risk from AI, and nothing dismisses it.",
+  "notes": "All required searches have now run: 8 web searches across two runs (6 in the first run on 11 November 2026; in that run the search on extinction or existential risk was refused, and it was run successfully in a second run the same day, plus one follow-up). The extinction or existential risk search returned coverage of the September 2026 congressional debate on AI extinction warnings (naming Kelly, Cruz, Sanders and others) but no result mentioning Schmitt. The follow-up checked whether he is attached to the catastrophic-risk AI bill that Cruz said he was drafting with Thune and Klobuchar: no source names Schmitt as a co-sponsor, the bill text had reportedly not been released as of mid-September 2026, and the only mention of him was an advocacy post noting he sits on the Commerce Committee. Neither search produced a statement by him, so no pages from them were opened and nothing was added. Also in the first run I opened the official site's press release list (latest 10, 18 Sep to 9 Nov 2026: none about AI) and the site's own search for 'artificial intelligence' (12 results, 6 from 2025-2026: defense bills, a science foundation award, Medicare fraud; none titled as AI risk; only the 16 May 2025 release was opened). Not on the verified signer list of the 23 September 2026 China letter, so he did not sign. Ban Artificial Superintelligence Act: no source found showing him as a co-sponsor; the Sanders summary PDF could not be read as text, so co-sponsorship is unconfirmed rather than ruled out by a sponsor list. Quote caveats: the two Startland News quotes were read through a page-fetch tool that summarises pages; a second fetch confirmed each as one uninterrupted quotation, but I could not download the raw page (site blocked a direct download), so a reviewer should check them character for character, including the apostrophe style (curly vs straight). The event date 2025-10-14 is inferred from the article (published Thursday 16 October 2025, event 'Tuesday'). The 16 May 2025 quote was checked against the raw page text. Left out: other Startland quotes that the fetch tool truncated (including one beginning \"It’s probably important for the federal government to come in and preempt this,\"). Out of date range and not included: a 2023 Fox News interview after a classified AI briefing where he reportedly called the threat 'very existential because China's playing for keeps' (about China's military threat, not risk from AI itself; seen only in a search result). The search for 'AI safety' returned only results about Eric Schmidt, the former Google chief executive, a different person."
+}

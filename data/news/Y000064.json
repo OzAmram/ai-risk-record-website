@@ -1,0 +1,78 @@
+{
+  "bioguide": "Y000064",
+  "member": "Todd Young",
+  "searches": [
+    "Todd Young artificial intelligence statement (restricted to young.senate.gov)",
+    "Senator Todd Young superintelligence OR \"artificial general intelligence\" 2026",
+    "Senator Todd Young AI \"existential\" OR \"extinction\" risk",
+    "Todd Young AI pause OR slowdown OR moratorium",
+    "Todd Young AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Todd Young\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "venue": "Letter to National Security Advisor Marco Rubio",
+      "quote": "We cannot assume that future autonomous or AI-enabled attacks will not target hospitals, electric grids, water systems, or other critical infrastructure. Such an outcome would be unacceptable.",
+      "context": "Young alone wrote to the National Security Advisor asking the National Security Council to hold recurring discussions with AI developers and security experts about threats from advanced AI.",
+      "source_label": "Sen. Young letter to Sec. Rubio (PDF on young.senate.gov)",
+      "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["bill_or_action", "boundary"],
+      "reason": "Names autonomous or AI-enabled attacks on hospitals and power and water systems as a serious public safety threat, but does not state mass casualties or loss of control, so it sits between C and B."
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Letter to National Security Advisor Marco Rubio",
+      "quote": "We must also continue to improve our understanding of these increasingly complex systems, whose internal processes can be difficult even for experts to fully interpret, predict, and control.",
+      "context": "In the same letter, after describing frontier AI models getting around safeguards and strengthening offensive cyber capabilities.",
+      "source_label": "Sen. Young letter to Sec. Rubio (PDF on young.senate.gov)",
+      "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["bill_or_action"],
+      "reason": "Acknowledges in general terms that advanced AI systems are hard even for experts to predict and control, without naming a catastrophic outcome."
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Letter to National Security Advisor Marco Rubio",
+      "quote": "These incidents underscore the need for the U.S. government to better understand and address emerging threats before they result in more serious consequences.",
+      "context": "In the same letter, referring to recent incidents in which frontier AI models got around safeguards and strengthened offensive cyber capabilities.",
+      "source_label": "Sen. Young letter to Sec. Rubio (PDF on young.senate.gov)",
+      "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["bill_or_action"],
+      "reason": "Warns of more serious consequences from frontier AI in general terms, without saying what they would be."
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Letter to National Security Advisor Marco Rubio",
+      "quote": "AI offers tremendous benefits, but those benefits do not come without serious and evolving risks.",
+      "context": "Opening section of the same letter, before he describes AI-assisted espionage and AI agents acting in ways their users did not intend.",
+      "source_label": "Sen. Young letter to Sec. Rubio (PDF on young.senate.gov)",
+      "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["bill_or_action"],
+      "reason": "A general acknowledgment of serious risks from AI, with no catastrophic harm named."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development; his letter says protections should come 'without unnecessarily hindering American innovation', which is not a statement on a slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development. He did not sign the 23 September 2026 letter urging AI talks with China, and his public remarks frame China as a competitor.", "sources": [["Van Hollen press release listing the signers, 23 Sep 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Sent a letter, alone, asking the National Security Council to hold recurring roundtable discussions with frontier AI developers and security experts on emerging AI threats, including research on interpreting and controlling AI systems, and to brief the Senate Intelligence Committee.", "Sen. Young press release and letter, 24 Sep 2026", "https://www.young.senate.gov/newsroom/press-releases/young-calls-for-national-security-council-discussions-on-emerging-ai-threats/"],
+    ["Introduced, with Sen. Mark Kelly, the Advanced Artificial Intelligence Security Readiness Act, directing the National Security Agency's AI Security Center to write a playbook for protecting US AI systems from foreign theft and sabotage.", "Sen. Young press release, 19 Nov 2025", "https://www.young.senate.gov/newsroom/press-releases/young-kelly-introduce-legislation-to-protect-american-ai-innovation"],
+    ["Reintroduced, with Sen. Maria Cantwell, the Future of AI Innovation Act, which would write the Commerce Department's Center for AI Standards and Innovation into law to develop voluntary standards and testing environments.", "Sen. Young press release, 26 Feb 2026", "https://www.young.senate.gov/newsroom/press-releases/young-cantwell-reintroduce-future-of-ai-innovation-act/"],
+    ["Co-led reintroduction of the CREATE AI Act, which would establish the National AI Research Resource in law.", "Sen. Young press release, 29 Apr 2026", "https://www.young.senate.gov/newsroom/press-releases/young-colleagues-introduce-bill-to-advance-ai-innovation-reliability-for-americans/"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His 24 September 2026 letter acknowledges serious risks from advanced AI (systems that are hard to predict and control, possible autonomous or AI-enabled attacks on hospitals and power grids) but names neither mass casualties, loss of human control, nor extinction. Nothing found reaches A or B, and nothing dismisses the risk.",
+  "notes": "Seven web searches ran, none refused. All four statements come from one document, the 24 September 2026 letter, which I read in full as the PDF linked from his press release; quotes were copied from the PDF text with line breaks replaced by spaces. The letter is signed by Young alone, so it is not flagged cosigned_letter. The first quote is a boundary case: a reviewer could argue attacks on hospitals and water systems imply mass casualties (B), but the letter does not say so, and the harm is framed mainly as cyber attack. Left out as level D or too fragmentary: (1) the same letter's sentence that AI agents have 'demonstrated the ability to act in ways their users did not intend' (no consequence stated); (2) his 29 April 2026 press release line about harnessing AI's potential and mitigating its risks (too general); (3) remarks at an Indianapolis Business Journal breakfast, reported 10 March 2025, about AI under China's control enabling surveillance and censorship (China competition, level D); (4) an MLex report of 1 October 2026 (headline: Congress cannot be 'observers' of US AI response) that I could only partly read; it quotes only fragments ('superhuman level of virtue') and paraphrases him as saying a basic regulatory framework is needed, so nothing was quoted from it. Semafor (24 Sep 2026) reported the letter and matches the PDF. Could not open: the February 2025 National Review piece 'Todd Young's AI Playbook' (blocked, HTTP 403); it may contain further remarks on AI risk and is worth a manual check. Ban Artificial Superintelligence Act: sources found name only Sen. Sanders as Senate sponsor; no source shows Young co-sponsoring, and I did not check the official congress.gov cosponsor list. His position on the 2025 proposed moratorium on state AI laws was not established and is outside the positions tracked here. Statements before 2025 (for example the 2023 AI Insight Forums he co-hosted) were not included."
+}

@@ -1,0 +1,239 @@
+{
+ "bioguide": "K000394",
+ "member": "Sen. Andy Kim (Democrat, New Jersey)",
+ "searches": [
+  "Andy Kim artificial intelligence (restricted to kim.senate.gov)",
+  "\"Andy Kim\" senator superintelligence",
+  "\"Andy Kim\" senator AI extinction OR \"existential risk\" OR \"existential threat\"",
+  "\"Andy Kim\" senator AI pause OR slowdown OR moratorium",
+  "\"Andy Kim\" senator China AI agreement OR treaty OR talks",
+  "\"Andy Kim\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+  "\"Andy Kim\" AI industry slow down \"not nearly enough\" binding federal framework Politico",
+  "\"Kim\" \"Artificial Intelligence Risk Management and Security Act\" Senate floor Warner Schatz Cruz objected"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-14",
+   "venue": "Press release statement",
+   "quote": "AI is moving faster than anyone – including its creators – can understand or control.  We need to act and act now to ensure that humans remain in control of this technology and that all people – not just the elite few – benefit from it.",
+   "context": "A statement calling on the Senate to hold a chamber-wide discussion and pass AI legislation after what he called multiple concerning AI incidents.",
+   "source_label": "Senate press release",
+   "url": "https://www.kim.senate.gov/press_release/senator-kim-calls-on-senate-to-reassert-control-over-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says AI is moving faster than anyone, including its creators, can control and that action is needed for humans to remain in control, which names loss of control as a risk but does not say it could be permanent or threaten humanity."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Press release on introducing the Artificial Intelligence Risk Management and Security Act of 2026 (he also spoke on the Senate floor that day)",
+   "quote": "Control means making sure that the technology does not outpace safety and common sense. It means making sure it can be used to advance quality of life instead of hurdling us towards the doomsday scenarios we’ve been warned about.",
+   "context": "Introducing a bill with Senators Warner and Schatz to set enforceable safety and security standards for the most advanced AI systems.",
+   "source_label": "Senate press release",
+   "url": "https://www.kim.senate.gov/press_release/kim-warner-schatz-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He treats the 'doomsday scenarios we've been warned about' as a real outcome to be avoided, which endorses warnings of catastrophe, but he does not say what the scenarios are, so this sits between B and C."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release statement",
+   "quote": "But moving forward recklessly without sensible controls is a recipe for chaos and danger.",
+   "context": "Same statement calling on the Senate to reassert control over AI.",
+   "source_label": "Senate press release",
+   "url": "https://www.kim.senate.gov/press_release/senator-kim-calls-on-senate-to-reassert-control-over-ai/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "A general statement that uncontrolled AI progress is dangerous, with no specific catastrophic harm named."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release statement",
+   "quote": "The warnings we’ve gotten after multiple concerning AI incidents need to serve as a wake-up call to establish a comprehensive approach including government action to put guardrails on our own technology, and ensure that our competitors and adversaries aren’t able to develop dangerous technologies.",
+   "context": "Same statement, referring to warnings that followed AI incidents.",
+   "source_label": "Senate press release",
+   "url": "https://www.kim.senate.gov/press_release/senator-kim-calls-on-senate-to-reassert-control-over-ai/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "He cites others' warnings as a wake-up call and refers to dangerous technologies in general terms."
+  },
+  {
+   "date": "2026-09-30",
+   "venue": "Senate Homeland Security subcommittee hearing, 'Rogue AI: Securing the Homeland Against AI Agent Attacks' (questioning of witnesses)",
+   "quote": "Is human control possible? Is it possible for us to maintain control given what we've seen and what you've talked about with the speed in which it's going?",
+   "context": "A question to witness Daniel Kokotajlo about whether people can keep control of the most advanced AI systems.",
+   "source_label": "Tech Policy Press hearing transcript",
+   "url": "https://www.techpolicy.press/senate-hearing-on-rogue-ai-securing-the-homeland-against-ai-agent-attacks/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He raises loss of human control over AI as an open question rather than stating it as his own view, so this is a general acknowledgment of serious risk."
+  },
+  {
+   "date": "2026-09-30",
+   "venue": "Senate Homeland Security subcommittee hearing, 'Rogue AI: Securing the Homeland Against AI Agent Attacks' (questioning of witnesses)",
+   "quote": "I think that just gets even more worrisome when it comes to recursive self-improvement though, isn't that correct? If we are proceeding down that realm without identifying what these defects are and what's causing that type of rogue behavior, is that correct?",
+   "context": "A question to Daniel Kokotajlo about AI systems that improve themselves while the causes of their misaligned behaviour are not understood.",
+   "source_label": "Tech Policy Press hearing transcript",
+   "url": "https://www.techpolicy.press/senate-hearing-on-rogue-ai-securing-the-homeland-against-ai-agent-attacks/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He calls self-improving AI with unexplained rogue behaviour worrisome, a serious risk from the AI itself, but names no catastrophic consequence."
+  },
+  {
+   "date": "2026-09-30",
+   "venue": "Senate Homeland Security subcommittee hearing, 'Rogue AI: Securing the Homeland Against AI Agent Attacks' (questioning of witnesses)",
+   "quote": "it gets to this question of just how much are humans able to comprehend of what is actually happening when we reach that full level of RSI?",
+   "context": "A reply to witness Marius Hobbhahn about whether human evaluators could oversee an AI system that is improving itself.",
+   "source_label": "Tech Policy Press hearing transcript",
+   "url": "https://www.techpolicy.press/senate-hearing-on-rogue-ai-securing-the-homeland-against-ai-agent-attacks/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He doubts that humans could understand what a fully self-improving AI is doing, which acknowledges a serious risk in general terms without naming a catastrophic outcome."
+  },
+  {
+   "date": "2026-09-30",
+   "venue": "Senate Homeland Security subcommittee hearing, 'Rogue AI: Securing the Homeland Against AI Agent Attacks'",
+   "quote": "But the idea and the value of innovation and American technology pushing that frontier is not mutually exclusive with ensuring safety and security for the American people.",
+   "context": "Opening remarks as ranking member at a hearing on attacks by AI agents.",
+   "source_label": "Senate press release",
+   "url": "https://www.kim.senate.gov/press_release/senator-kim-co-leads-homeland-security-subcommittee-hearing-on-taking-control-of-ai/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "He calls for balancing innovation with safety and security but names no catastrophic consequence in the quoted remarks."
+  },
+  {
+   "date": "2026-05-15",
+   "venue": "Remarks to Semafor on planned US-China talks about AI guardrails",
+   "quote": "And I do have a lot of concerns about the use of AI and what comes next. So if there’s any space for that type of dialogue, I am not opposed to it but I would have to get a sense of what further is detailed about this.",
+   "context": "Asked about the administration's plan to begin talks with China on guardrails around AI.",
+   "source_label": "Semafor",
+   "url": "https://www.semafor.com/article/05/14/2026/debatable-can-the-us-and-china-really-talk-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "He voices unspecified concerns about AI and conditional openness to dialogue with China, without naming a catastrophic risk."
+  },
+  {
+   "date": "2026-08-06",
+   "venue": "Press release on introducing the BLADE Act",
+   "quote": "As we continue to set the global standard for innovation and unlock new opportunity through AI, it’s critical we have these tools to deter direct attacks on U.S. AI models and maintain as large a lead as possible over our competitors and adversaries,",
+   "context": "Introducing a bill to deter foreign actors from copying the capabilities of American AI models.",
+   "source_label": "Senate press release",
+   "url": "https://www.kim.senate.gov/press_release/senators-kim-and-hagerty-lead-colleagues-in-introducing-bill-to-protect-american-ai-technology-from-foreign-attacks/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About competition with China and protecting American AI models, not catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing AI development. He says innovation 'must move forward' but with controls. A search result summarised a 14 September 2026 Politico item as saying he called the industry's own commitment to slow down far from enough and wanted a binding federal framework; the article could not be opened, and wanting binding rules is not by itself a call to slow development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause. He has not co-sponsored the Ban Artificial Superintelligence Act as far as any source seen shows.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "He did not sign the 23 September 2026 letter. In May 2026 he told Semafor he was 'not opposed' to a dialogue with China on AI guardrails but wanted details; those talks were described as being about keeping AI models from non-state actors, not about the pace of development. His office's summary of his October 2026 Harvard remarks lists giving China 'clear messaging' about AI and bioweapons and building a platform for dialogue (the office's paraphrase). Neither is support for an agreement on pacing or pausing.",
+   "sources": [
+    [
+     "Semafor, 15 May 2026",
+     "https://www.semafor.com/article/05/14/2026/debatable-can-the-us-and-china-really-talk-ai"
+    ],
+    [
+     "Senate press release, 16 October 2026",
+     "https://www.kim.senate.gov/press_release/senator-kim-outlines-how-a-new-approach-to-u-s-competitiveness-and-pragmatic-competition-with-china-can-deliver-opportunity-for-the-american-people/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No call for a ban found. At the 30 September 2026 hearing he said misalignment 'gets even more worrisome when it comes to recursive self-improvement' and questioned whether humans could oversee it, but proposed evaluation and oversight, not a ban.",
+   "sources": [
+    [
+     "Tech Policy Press hearing transcript, 30 September 2026",
+     "https://www.techpolicy.press/senate-hearing-on-rogue-ai-securing-the-homeland-against-ai-agent-attacks/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Introduced the Artificial Intelligence Risk Management and Security Act of 2026 with Senators Warner and Schatz: a federal AI Safety Board, access to frontier models 45 days before release, enforceable standards and incident reporting; the release says it covers models evading the control of their developers and helping develop chemical, biological, radiological or nuclear weapons.",
+   "Senate press release, 24 September 2026",
+   "https://www.kim.senate.gov/press_release/kim-warner-schatz-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation/"
+  ],
+  [
+   "Joined Senators Warner and Schatz on the Senate floor in asking for unanimous consent to pass the Artificial Intelligence Risk Management and Security Act; Senator Cruz objected, blocking it.",
+   "Implicator.ai report on the 29 September 2026 floor action",
+   "https://www.implicator.ai/cruz-blocks-ai-bill-requiring-45-day-model-access-as-trump-backs-voluntary-accord/"
+  ],
+  [
+   "Co-led, as ranking member, a Homeland Security subcommittee hearing titled 'Rogue AI: Securing the Homeland Against AI Agent Attacks', with witnesses from METR, Apollo Research and the AI Futures Project.",
+   "Senate press release, 30 September 2026",
+   "https://www.kim.senate.gov/press_release/senator-kim-co-leads-homeland-security-subcommittee-hearing-on-taking-control-of-ai/"
+  ],
+  [
+   "Joined Senators Warren, Schumer and Slotkin at a press conference before President Xi's state visit calling for AI safety regulation and export controls, and urging passage of the AI OVERWATCH Act, the MATCH Act and the Chip Security Act.",
+   "Senate Banking Committee minority press release, 23 September 2026",
+   "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-state-visit-warren-schumer-kim-and-slotkin-call-for-ai-safety-regulations-export-controls"
+  ],
+  [
+   "Issued a statement calling for a Senate-wide discussion on how to 'reassert control over AI'.",
+   "Senate press release, 14 September 2026",
+   "https://www.kim.senate.gov/press_release/senator-kim-calls-on-senate-to-reassert-control-over-ai/"
+  ],
+  [
+   "Introduced the BLADE Act with Senator Hagerty to deter foreign actors from copying the capabilities of American frontier AI models.",
+   "Senate press release, 6 August 2026",
+   "https://www.kim.senate.gov/press_release/senators-kim-and-hagerty-lead-colleagues-in-introducing-bill-to-protect-american-ai-technology-from-foreign-attacks/"
+  ],
+  [
+   "Introduced the CHAT Act 2.0 with Senator Husted to protect minors from AI companion chatbots.",
+   "Senate press release, 30 July 2026",
+   "https://www.kim.senate.gov/press_release/senators-kim-and-husted-introduce-bipartisan-bill-to-protect-children-from-ai-companion-chatbots/"
+  ],
+  [
+   "Introduced, with Senators Ricketts, Schumer and Risch, the MATCH Act to align allied export controls on chip-making equipment.",
+   "Roll Call, 23 September 2026",
+   "https://rollcall.com/2026/09/23/ai-export-controls-debate-rages-as-trump-xi-meet/"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In September 2026 he said AI is moving faster than its creators can control, that action is needed so humans remain in control, and that AI must not hurtle toward 'the doomsday scenarios we've been warned about'. At a 30 September hearing he asked whether human control is possible and called recursive self-improvement worrisome. He names loss of control and catastrophe but not extinction or a threat to humanity.",
+ "notes": "Nine web searches ran on 11 November 2026 (the six required plus three follow-ups); none was refused. Pages opened and read this time: the Tech Policy Press transcript of the 30 September 2026 hearing, Semafor (15 May 2026), the Harvard Crimson report on his 8 October 2026 Institute of Politics forum, the Senate Banking minority release of 23 September 2026, Roll Call (23 September 2026), Civil Beat / News From The States (October 2026), Implicator.ai on the 29 September floor action, and his own press releases again. The four new quotes were extracted by script from the downloaded pages, so they match the page text character for character; the hearing quotes come from Tech Policy Press's transcript, which is not an official record and may differ slightly from the video. The quotes carried over from the earlier run were checked then in the same way (curly quotes and en dashes as on the site, non-breaking spaces replaced by ordinary spaces, which leaves a double space in one or two places; the 24 September quote has the site's spelling 'hurdling'). Grading: both B statements carry the boundary flag: the 14 September one could be argued up to A (he says no one can control AI and humans must remain in control, but not that loss of control could be permanent), and the 24 September one could be argued down to C (the doomsday scenarios are unspecified). The three hearing statements are questions or doubts put to witnesses, graded C with the boundary flag; under ruling 4 a reviewer could put them at D because no consequence is named. Could not open: Axios, 23 September 2026 ('Dems grapple with how to pace the AI race', https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation), CentralJersey.com on the Harvard speech (https://centraljersey.com/2026/10/17/sen-andy-kim-calls-for-a-middle-path-on-china-in-harvard-speech/) and Courthouse News, all refused with an access error; and the 14 September 2026 Politico item, seen only as a search-result summary (the aggregator page it pointed to no longer shows it). The search summary said he called the industry's self-imposed commitment to slow down far from enough, wanted a binding federal framework and rejected the argument that rules would hand the race to China; this is a paraphrase and is not in statements. The full text of his 24 September floor remarks was not found (the Congressional Record was not searched). 23 September 2026 China letter: he is not on the verified signer list, so he did not sign; that day he instead appeared with Warren, Schumer and Slotkin on export controls (his remarks there are not reproduced in the release). Ban Artificial Superintelligence Act: the search found only Senator Sanders named as Senate sponsor and no source showing Kim as a co-sponsor; the official co-sponsor list on congress.gov was not checked. A search summary said he co-sponsored Senator Schatz's GUARDRAILS Act to repeal the executive order against state AI laws; not confirmed on a page opened, and outside the topic. Floor dates: his office's 24 September release says the three senators spoke on the floor that day; news reports place the unanimous consent request and Senator Cruz's objection on 29 September. Paraphrases and lower-level remarks left out of statements: the 16 October 2026 release on his Harvard Kennedy School remarks lists, in the office's words, 'provide clear messaging to China about AI, bioweapons, and other topics ... while attempting to build a platform for more robust dialogue'; his directly quoted AI remark there is level D. At the 8 October Harvard forum the Crimson quotes him saying Trump's comments make it hard to engage Republicans 'on what should be really a common sense understanding of how we approach AI safety and security' (D). At the hearing he also said voluntary company commitments are not enough and that open-weight models will soon match today's frontier, threatening critical infrastructure (cyber harm, D). The 14 September statement mentions a protocol to 'Mythos-proof' critical infrastructure (D). In the 24 September release, the statements about models going rogue and things going 'catastrophically wrong' are by Senators Schatz and Warner, not Kim. A 15 January 2025 statement praising the Biden AI diffusion rule, a 9 May 2025 release on high-skilled immigration and AI, and a 13 June 2026 visit to CoreWeave are about competitiveness (D) and were left out."
+}

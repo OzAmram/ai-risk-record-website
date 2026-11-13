@@ -1,0 +1,140 @@
+{
+ "bioguide": "W000790",
+ "member": "Sen. Raphael Warnock (Democrat, Georgia)",
+ "searches": [
+  "Warnock artificial intelligence (restricted to warnock.senate.gov)",
+  "Senator Raphael Warnock superintelligence",
+  "Raphael Warnock AI \"extinction\" OR \"existential risk\"",
+  "Warnock AI pause OR slowdown OR moratorium data centers",
+  "Warnock China AI agreement OR treaty OR talks letter senators Xi",
+  "\"Warnock\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "The letter he co-signed compares talks with China on AI to Cold War nuclear arms control between the US and the Soviet Union.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter calls AI a technology that poses an existential threat, which is a threat to humanity under ruling 1; these are the letter's words, not his own individual statement."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "The letter's opening paragraph states what agreement with China the senators want and which dangers it should prevent.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "Names biological weapons and dangers that threaten the lives of humanity writ large; the bioweapons part alone would be B, the threat to humanity wording supports A."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "The letter closes its comparison with nuclear arms control by urging the President to pursue AI diplomacy.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "Says the stakes of AI are existential, stated as the signers' own view."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump urging AI talks with China",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "The letter relays warnings from people building frontier AI and two sentences later says \"We should take these warnings seriously.\"",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "Relays and then endorses a warning about loss of control; it does not say the loss would be permanent, so B rather than A."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "Signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development; no individual statement of his own found. His August 2026 call for a Georgia data center moratorium is about bills, transparency and pollution, so it does not count.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release (full letter text)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter he signed asks for an agreement that would 'potentially enact a mutual pause' with China, which is a conditional pause; signed letter, not his own statement.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release (full letter text)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "Signed the 23 September 2026 letter urging the President to negotiate a formal US-China agreement on frontier AI development.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release (full letter text)",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "The letter mentions that automation of AI research may speed progress but does not call for a ban on self-improving AI; nothing else found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate a formal agreement with China to slow down and potentially mutually pause frontier AI development.",
+   "Sen. Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Called for a statewide moratorium on data center construction in Georgia after visiting the planned OpenAI site in Effingham County, citing transparency, utility bills, tax breaks and pollution (not risk from AI itself).",
+   "Sen. Warnock press release, 2026-08-28",
+   "https://www.warnock.senate.gov/newsroom/press-releases/warnock-visits-future-openai-data-center-site-calls-for-statewide-moratorium/"
+  ],
+  [
+   "Questioned Federal Reserve Chair Warsh at a Banking Committee hearing about a possible AI bubble, retirement savings and worker representation on the Fed's AI task force.",
+   "Sen. Warnock press release, 2026-07-16",
+   "https://www.warnock.senate.gov/newsroom/press-releases/warnock-pushes-federal-reserve-chair-kevin-warsh-to-implement-artificial-intelligence-policy-that-protects-all-americans-not-just-tech-executives/"
+  ],
+  [
+   "Released a video after AI-generated fake posts about his health, calling for labelling of AI content and for Congress to act.",
+   "Sen. Warnock press release, 2026-09-16",
+   "https://www.warnock.senate.gov/newsroom/press-releases/video-warnock-calls-out-ai-developers-social-media-companies-after-bizarre-health-hoax/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only evidence at A or B is the 23 September 2026 letter he co-signed, which calls AI a technology that poses an existential threat and names bioweapons and loss of control. No statement in his own individual words about catastrophic AI risk was found; his own remarks on AI are all level D.",
+ "notes": "Eight web searches ran in total (the seven listed; the brief's six required topics are covered, plus one on the Ban Artificial Superintelligence Act); none was refused. All four quotes were checked by script as exact continuous passages of the letter text on the Van Hollen page, downloaded directly. The second quote is a part of a longer sentence (the full sentence exceeds 300 characters); it starts mid-sentence after 'including by working with China to develop'. Ban Artificial Superintelligence Act: no source found showing Warnock as a co-sponsor; the search results named only Sanders, Casar and some House members, and I did not check Congress.gov, so this is unconfirmed rather than a verified 'no'. No press release on warnock.senate.gov about the China letter turned up in the site search. His own remarks, left out of statements because they are level D and less substantial than the letter (wording as returned by a page-reading tool, not verified character for character): in the 16 September 2026 video release he said 'We must deal with issues related to safety and jobs' and 'We need guardrails. We need regulations.' about AI deepfakes; at the July 2026 Banking hearing he said AI 'has both promise and peril' in the context of an AI bubble and jobs. The hearing date (probably 15 July 2026) is not stated on the page. A reviewer may want to weigh that the A grade rests entirely on a co-signed letter."
+}

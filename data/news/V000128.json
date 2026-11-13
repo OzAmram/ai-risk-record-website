@@ -1,0 +1,159 @@
+{
+ "bioguide": "V000128",
+ "member": "Chris Van Hollen",
+ "searches": [
+  "Van Hollen artificial intelligence AI safety (restricted to vanhollen.senate.gov)",
+  "\"Van Hollen\" superintelligence AI",
+  "\"Van Hollen\" AI \"extinction\" OR \"existential risk\" OR \"loss of control\"",
+  "\"Van Hollen\" AI pause OR slowdown OR moratorium data centers 2026",
+  "\"Van Hollen\" AI China agreement OR treaty guardrails Xi Trump letter senators",
+  "Senator Chris Van Hollen \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators, led by Van Hollen",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+   "context": "The senators urged the President to negotiate an AI agreement with China at the planned 24 September 2026 summit with Xi Jinping.",
+   "source_label": "Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter says frontier AI development could enable activities that threaten humanity as a whole, which the rubric's first ruling treats as level A."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators, led by Van Hollen",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "The letter compares a US-China AI agreement with Cold War nuclear arms control agreements.",
+   "source_label": "Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter calls AI a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators, led by Van Hollen",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "The letter cites warnings from AI company employees and then says 'We should take these warnings seriously.'",
+   "source_label": "Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "relayed_warning"
+   ],
+   "reason": "The letter relays experts' warning about loss of control and endorses it two sentences later, without extinction wording in this passage."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Press statement on OpenAI holding the release of GPT-6.1 Astra",
+   "quote": "I will keep pressing for critical guardrails to protect humanity from the threat of unregulated AI development.",
+   "context": "Van Hollen reacted to OpenAI's decision to hold the release of its GPT-6.1 Astra model after his earlier letter to the company.",
+   "source_label": "Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "In his own words he describes unregulated AI development as a threat to humanity; marked boundary because the threat is stated briefly and the harm is not spelled out."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Press statement on OpenAI holding the release of GPT-6.1 Astra",
+   "quote": "this decision should come as yet another warning sign to those who want to proceed recklessly with the continued development of frontier artificial intelligence.",
+   "context": "Same statement on OpenAI holding the release of GPT-6.1 Astra.",
+   "source_label": "Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "A general warning about reckless frontier AI development with no specific catastrophic harm named in this passage."
+  },
+  {
+   "date": "2026-09-10",
+   "venue": "Letter to OpenAI chief executive Sam Altman (Van Hollen alone)",
+   "quote": "Concerns about OpenAI’s ability to accurately understand, measure, monitor, and safely control AI models are not hypothetical.",
+   "context": "Van Hollen questioned OpenAI about the safety of its GPT-6 Astra model after two security incidents involving OpenAI AI agents.",
+   "source_label": "Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-presses-openai-ceo-sam-altman-on-alarming-new-ai-model-claims-calls-for-risk-assessment-of-ai-capabilities",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "He raises serious concern about the ability to control AI models, but the harms the letter names are mainly hacking and cybersecurity, so it sits between C and D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "He led and signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development to prevent catastrophic harms.",
+   "sources": [
+    [
+     "Senate press release, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter he led asks for an agreement that would 'potentially enact a mutual pause' with China, so the pause is conditional on China joining and is raised as a possibility; no call for a one-sided pause was found.",
+   "sources": [
+    [
+     "Senate press release, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "He led and signed the letter urging the President to negotiate a formal agreement with China to slow, and potentially mutually pause, frontier AI development.",
+   "sources": [
+    [
+     "Senate press release, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement for or against a ban on self-improving AI was found. The China letter mentions that automation of AI research may speed up progress, and his OpenAI letter asks how far AI is used to develop other AI models, but neither calls for a ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led a letter from 17 Democratic senators urging President Trump to negotiate a formal agreement with China to slow down, and potentially mutually pause, frontier AI development.",
+   "Senate press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Sent a letter to OpenAI chief executive Sam Altman with safety questions about the GPT-6 Astra model, asking that models be removed from public access if they cannot be monitored and that federal researchers be given access.",
+   "Senate press release, 10 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-presses-openai-ceo-sam-altman-on-alarming-new-ai-model-claims-calls-for-risk-assessment-of-ai-capabilities"
+  ],
+  [
+   "Issued a statement welcoming OpenAI's decision to hold the release of GPT-6.1 Astra and promising to press for guardrails.",
+   "Senate press release, 29 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The China letter he led says frontier AI development could enable activities that threaten 'humanity writ large' and calls AI 'an existential threat', and in his own 29 September 2026 statement he speaks of protecting 'humanity from the threat of unregulated AI development'.",
+ "notes": "Seven web searches ran; none was refused. All three press release pages were opened and the quotes were checked by a script to be exact continuous passages of the page text. Ban Artificial Superintelligence Act: no source found showing Van Hollen as a co-sponsor (the search named only Sanders in the Senate and listed no Senate co-sponsors), so nothing is recorded; a reviewer may wish to check Congress.gov. Paraphrase left out: an Anadolu Agency factbox of 10 September 2026 (https://aa.com.tr/en/world/factbox-ai-researchers-sound-extinction-alarm-as-us-lawmakers-demand-action/4053312) says he called for mandatory safeguards, testing and urgent talks with China, with no direct quote. The A grade rests mainly on a co-signed letter (which he led) plus one short sentence of his own; the single-sentence statement is flagged boundary. The pause position is a judgment call: the letter says 'potentially enact a mutual pause', graded mixed as conditional on China. Other AI letters on his site (Federal Aviation Administration AI tool, Defense Department use of Grok, political advertisements, Federal Reserve task force, data center electricity costs) are outside the scope and were not opened. No searches were made for hearing remarks, floor speeches or interviews beyond the seven queries, so earlier 2025 statements could have been missed."
+}

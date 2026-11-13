@@ -1,0 +1,216 @@
+{
+ "bioguide": "ELECT-MI-ELSAYED",
+ "member": "Abdul El-Sayed",
+ "searches": [
+  "[web search refused, not run] Abdul El-Sayed artificial intelligence superintelligence",
+  "[web search refused, not run] \"El-Sayed\" \"AI safety\" Michigan Senate",
+  "[web search refused, not run] Abdul El-Sayed AI extinction OR \"existential risk\" OR \"existential threat\"",
+  "[web search refused, not run] Abdul El-Sayed AI pause OR moratorium OR slowdown data centers",
+  "[web search refused, not run] Abdul El-Sayed AI China agreement OR treaty OR \"arms race\"",
+  "[web search refused, not run] site:abdulforsenate.com AI policy",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=artificial intelligence",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=AI",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=superintelligence",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=humanity",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=AI Under Democracy",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=data centers",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=pause",
+  "[campaign site's own search, ran] abdulforsenate.com/?s=China",
+  "[news site's own search, ran, no results] bridgemi.com/?s=El-Sayed artificial intelligence",
+  "[news site's own search, blocked with error 403] michiganadvance.com/?s=El-Sayed artificial intelligence",
+  "[news site's own search, ran, returned no usable results] newrepublic.com/search?q=El-Sayed AI plan",
+  "[news site's own search, ran, no El-Sayed results] washingtonsun.com/?s=El-Sayed",
+  "[opened directly] en.wikipedia.org/wiki/Abdul_El-Sayed (used only to find leads)"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-13",
+   "venue": "Campaign press release announcing the 'AI Under Control' plan",
+   "quote": "Right now, the whims of a few tech billionaires are the only thing stopping AI from developing to the point that it poses an existential threat to humanity. That is unacceptable. It’s time to get AI Under Control.",
+   "context": "His quoted statement in the campaign press release that launched his second AI plan.",
+   "source_label": "El-Sayed campaign press release",
+   "url": "https://abdulforsenate.com/2026/10/new-as-big-tech-billionaires-let-ai-wreak-havoc-abdul-el-sayed-releases-plan-to-get-ai-under-control/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "Says in his own words that AI could come to pose an existential threat to humanity."
+  },
+  {
+   "date": "2026-10-13",
+   "venue": "Campaign policy paper 'AI Under Control' (written in the first person)",
+   "quote": "Recent prognosticators and whistle-blowers put the odds as high as 10% that AI could end humanity within the next decade. That should send a shiver down our spines.",
+   "context": "Opening of his policy paper, explaining why he wants a pause on frontier AI.",
+   "source_label": "El-Sayed campaign policy paper",
+   "url": "https://abdulforsenate.com/2026/10/ai-under-control/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "Relays others' warning that AI could end humanity and endorses it in his own words."
+  },
+  {
+   "date": "2026-10-13",
+   "venue": "Campaign policy paper 'AI Under Control' (written in the first person)",
+   "quote": "The answer to what is stopping rogue AI agents from triggering a global nuclear crisis or deploying bioweapons cannot be the whims of a few billionaires in California.",
+   "context": "Same policy paper, arguing that AI companies cannot be left to police themselves.",
+   "source_label": "El-Sayed campaign policy paper",
+   "url": "https://abdulforsenate.com/2026/10/ai-under-control/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "Names catastrophic harms from AI agents (nuclear crisis, bioweapons) without the extinction framing."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "FOX 2 Detroit televised debate (opponent absent), as quoted in a campaign press release",
+   "quote": "This cannot continue to be a race to the bottom as the richest people in society make robots that could ultimately end humanity, as they’re now talking about, while the rest of us have to deal with these hulking data centers in our backyard raising our utility rates and destroying our water.",
+   "context": "His debate answer on artificial intelligence and data centers.",
+   "source_label": "El-Sayed campaign press release quoting the FOX 2 debate",
+   "url": "https://abdulforsenate.com/2026/09/the-elephant-was-not-in-the-room-abdul-lays-out-plans-to-bring-down-costs-for-michiganders-while-mike-rogers-no-shows-fox-2-debate/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "Says AI ('robots') could ultimately end humanity."
+  },
+  {
+   "date": "2026-09-09",
+   "venue": "Interview with The Washington Sun, as quoted in a campaign press release",
+   "quote": "I think it’s important for us to really hit pause, hit pause in a serious way, and fully understand what it is that is being built when it has so much potential spillover into irreversible damage for humanity",
+   "context": "His first public call for a pause in AI development, after reports from a former AI company researcher.",
+   "source_label": "El-Sayed campaign press release quoting The Washington Sun",
+   "url": "https://abdulforsenate.com/2026/09/new-dr-abdul-el-sayed-calls-for-pausing-ai-development/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says AI could do irreversible damage to humanity, which is close to the threat-to-humanity ruling but less explicit than 'end humanity'."
+  },
+  {
+   "date": "2026-09-13",
+   "venue": "CBS Face the Nation interview, as quoted in a campaign press release",
+   "quote": "We need to act, and we need to act now. So, we’ve also been calling for a pause on any of this frontier AI research until we can assure that this is being done safely.",
+   "context": "He had just described AI systems escaping a test environment and hacking a website.",
+   "source_label": "El-Sayed campaign press release quoting CBS Face the Nation",
+   "url": "https://abdulforsenate.com/2026/09/while-mike-rogers-looks-to-get-rich-off-ai-and-data-centers-abdul-calls-for-pause-in-ai-development/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Treats frontier AI as unsafe enough to pause, but the only harm he names in this passage is hacking, so it is a general acknowledgment."
+  },
+  {
+   "date": "2026-06-29",
+   "venue": "Campaign policy paper 'First, Do No Harm: AI Under Democracy'",
+   "quote": "But it also carries the ability to destroy us economically, socially, politically, and physically. And we can’t just sit back and ignore the risks.",
+   "context": "Introduction to the safety section of his first AI plan, which also covers bioweapons testing and limits on AI improving AI.",
+   "source_label": "El-Sayed campaign policy paper",
+   "url": "https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says AI could physically destroy us, a catastrophic harm stated in general terms without an explicit extinction claim."
+  },
+  {
+   "date": "2026-05-21",
+   "venue": "Campaign website priorities page, 'Artificial Intelligence' section (written in the first person)",
+   "quote": "Further, the speed and lack of transparency with which these technologies are being developed opens the door to serious risks that powerful AI may fall into the wrong hands or escape human control altogether.",
+   "context": "His standing issue statement on AI on the campaign website.",
+   "source_label": "El-Sayed campaign website",
+   "url": "https://abdulforsenate.com/priority/money-in-your-pocket/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "unsure"
+   ],
+   "reason": "Names loss of human control over powerful AI as a serious risk, without saying it would be permanent or fatal; the date is uncertain."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "His 13 October 2026 plan calls for freezing the training and release of the most powerful AI systems for safety reasons; a pause for safety reasons counts as yes here.",
+   "sources": [
+    [
+     "El-Sayed campaign policy paper 'AI Under Control', 13 October 2026",
+     "https://abdulforsenate.com/2026/10/ai-under-control/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "yes",
+   "note": "He has called for a pause on frontier AI development since 9 September 2026; the plan says 'Pause Frontier AI Now', to be lifted only once safety rules and enforcement exist and independent scientists certify safety. He calls for the pause to start now rather than making it depend on conditions, so this is recorded as yes, but a reviewer could read the lifting conditions as 'mixed'.",
+   "sources": [
+    [
+     "El-Sayed campaign policy paper 'AI Under Control', 13 October 2026",
+     "https://abdulforsenate.com/2026/10/ai-under-control/"
+    ],
+    [
+     "El-Sayed campaign press release, 9 September 2026",
+     "https://abdulforsenate.com/2026/09/new-dr-abdul-el-sayed-calls-for-pausing-ai-development/"
+    ],
+    [
+     "El-Sayed campaign press release (CBS Face the Nation), 13 September 2026",
+     "https://abdulforsenate.com/2026/09/while-mike-rogers-looks-to-get-rich-off-ai-and-data-centers-abdul-calls-for-pause-in-ai-development/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "The plan says 'We should negotiate a US-China treaty to pause and ban superintelligence', with inspections and a verification board. This is his own campaign proposal, not a letter or bill. His June 2026 plan also called for a binding international treaty with authority to pause dangerous development.",
+   "sources": [
+    [
+     "El-Sayed campaign policy paper 'AI Under Control', 13 October 2026",
+     "https://abdulforsenate.com/2026/10/ai-under-control/"
+    ],
+    [
+     "El-Sayed campaign policy paper 'AI Under Democracy', 29 June 2026",
+     "https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "yes",
+   "note": "The plan has a heading 'Completely Ban Artificial Superintelligence or Recursive Self-Improvement' and says 'That means banning recursive self-improvement'. This is his own campaign proposal, not a bill. His June 2026 plan only called for safety review and limits ('Self-acceleration Guardrails'), not a ban.",
+   "sources": [
+    [
+     "El-Sayed campaign policy paper 'AI Under Control', 13 October 2026",
+     "https://abdulforsenate.com/2026/10/ai-under-control/"
+    ],
+    [
+     "El-Sayed campaign press release on the 'Electronica' advertisement, 17 October 2026",
+     "https://abdulforsenate.com/2026/10/new-ad-electronica-lays-out-dr-abdul-el-sayeds-plan-to-protect-michiganders-from-ai/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Released 'Terms of Engagement for Data Centers', a campaign plan about electricity rates, water, jobs and local consent (not about risk from AI itself).",
+   "El-Sayed campaign policy paper, 8 January 2026",
+   "https://abdulforsenate.com/2026/01/datacenters/"
+  ],
+  [
+   "Released 'AI Under Democracy', a 22-point campaign plan including public ownership of frontier AI companies, an independent safety testing agency, bioweapons testing requirements, limits on AI improving AI, and an international treaty with authority to pause dangerous development.",
+   "El-Sayed campaign press release and policy paper, 29 June 2026",
+   "https://abdulforsenate.com/2026/06/dr-abdul-el-sayed-announces-ai-policy-platform-ai-under-democracy/"
+  ],
+  [
+   "Called for a pause in frontier AI development in a newspaper interview and repeated it on CBS Face the Nation.",
+   "El-Sayed campaign press releases, 9 and 13 September 2026",
+   "https://abdulforsenate.com/2026/09/new-dr-abdul-el-sayed-calls-for-pausing-ai-development/"
+  ],
+  [
+   "Released 'AI Under Control', a campaign plan calling for a pause on frontier AI, a permanent ban on superintelligence and on recursive self-improvement, a shutdown requirement, a cabinet-level AI safety agency, and a US-China treaty to pause and ban superintelligence; the plan says it builds on the Ban Artificial Superintelligence Act from Sen. Bernie Sanders and Rep. Greg Casar and goes further.",
+   "El-Sayed campaign policy paper, 13 October 2026",
+   "https://abdulforsenate.com/2026/10/ai-under-control/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In his own words, in a campaign press release, a televised debate and his policy paper, he says AI could pose an existential threat to humanity or end humanity. He pairs this with calls for a pause, a ban on superintelligence and self-improving AI, and a treaty with China.",
+ "notes": "SEARCHES THAT DID NOT RUN: all six required web searches (superintelligence; AI safety; extinction or existential risk; pause or slowdown or moratorium; China agreement or treaty; campaign-site-restricted search) were refused because the shared web search budget was used up. In their place I used the campaign website's own search box and opened pages directly. As a result, coverage of independent news is thin and there may be further statements I did not find. SOURCES ARE ALL THE CAMPAIGN'S OWN WEBSITE. Every quote was copied from the raw text of pages on abdulforsenate.com that I downloaded and read, and each was checked by script to be an exact continuous passage. Three quotes (The Washington Sun interview of 9 September, CBS Face the Nation of 13 September, FOX 2 debate of 15 September) are the campaign's transcription of his spoken words; I could not find or open the original interview, transcript or debate video, so the wording should be checked against those before publication. In the Face the Nation press release the quoted passage begins with an editorial '[We]'; the sentence I quote does not include it. The two policy papers and the priorities page are unsigned campaign documents written in the first person ('I’m calling for a pause'); I treated them as his own statements. The priorities page shows no date; 21 May 2026 is the date the site's search listing attaches to it, and the text may have been edited later, hence the 'unsure' flag. 23 SEPTEMBER 2026 LETTER AND BAN ARTIFICIAL SUPERINTELLIGENCE ACT: he was a candidate, not a senator, so he could not sign or co-sponsor, and I found no source showing that he did either. His plan says it builds on the Ban Artificial Superintelligence Act and goes further, which is support for the idea, not co-sponsorship. I found no mention of the 23 September letter on his site. NOT CHECKED OR NOT OPENED: his podcast (America Dissected) and any newsletter, and candidate questionnaires, were not searched because web search was unavailable. Michigan Advance (8 January 2026 article on his data center plan, and its site search) returned error 403. A New Republic article ('A Michigan Dem Just Dropped an AI Plan Even Tougher Than Bernie's', cited on Wikipedia) and an NPR piece of 8 August 2026 on data centers could not be located without search. I guessed one CBS transcript address and it did not exist. Wikipedia says he said union expansion is needed to protect 'worker dignity' as AI grows; that is a paraphrase and out of scope, so left out. LEFT OUT: the 15 September press release says in the campaign's voice that he 'laid out his plans to protect Americans from the existential risks of artificial intelligence'; that is the campaign's paraphrase, not his words. The 29 June press release says 'AI could be disastrous and fatal without the proper guardrails', attributed to company chief executives in the campaign's voice; left out. The plans describe AI security incidents (for example an 'OpenAI Hugging Face breach'); I did not verify those events and they do not affect the grading. OTHER QUOTABLE PASSAGES NOT INCLUDED BECAUSE OF THE EIGHT-STATEMENT LIMIT (all in the 13 October plan): 'At an absolute minimum, I’m calling for a pause in AI frontier development.' and the passage describing recursive self-improvement as 'a self-reinforcing doom loop that leads down the path of superintelligence'."
+}

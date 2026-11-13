@@ -1,0 +1,79 @@
+{
+  "bioguide": "T000250",
+  "member": "John Thune",
+  "searches": [
+    "Thune artificial intelligence (restricted to thune.senate.gov)",
+    "\"Thune\" \"AI safety\"",
+    "John Thune superintelligence",
+    "John Thune AI \"extinction\" OR \"existential risk\"",
+    "John Thune AI pause OR slowdown OR moratorium",
+    "17 senators letter AI talks with China September 23 2026 signers",
+    "\"Ban Artificial Superintelligence Act\" cosponsors senators",
+    "John Thune artificial intelligence statement 2026 frontier AI guardrails"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-14",
+      "venue": "Remarks to reporters at the Capitol, reported by Reuters",
+      "quote": "There is a way in which Congress can put guardrails around those types of more consequential threats without in any way harming our ability to stay ahead in the AI race",
+      "context": "Thune was asked about a bill he is negotiating with Senators Cruz and Klobuchar that would require large AI companies to take reasonable precautions against catastrophic harm.",
+      "source_label": "Reuters (republished by WHBL)",
+      "url": "https://whbl.com/2026/09/14/us-senators-weigh-requiring-ai-giants-to-commit-to-preventing-catastrophe/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["unsure"],
+      "reason": "He acknowledges \"more consequential threats\" from AI that warrant guardrails, in general terms, without naming a catastrophic harm."
+    },
+    {
+      "date": "2026-09-14",
+      "venue": "Remarks to reporters at the Capitol, reported by The National News Desk",
+      "quote": "You don’t want to stifle innovation, but I think you also want to make sure that the more advanced threats can be mitigated, and there’s a capability in place to do that",
+      "context": "Thune was telling reporters he would back regulatory safeguards for AI, after President Trump had dismissed the need for new AI legislation.",
+      "source_label": "The National News Desk (KUTV)",
+      "url": "https://kutv.com/news/nation-world/some-congressional-republicans-gop-split-from-president-trump-on-ai-anthropic-warnings-threats",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [],
+      "reason": "He says the \"more advanced threats\" from AI must be mitigated, a general acknowledgment of serious risk with no catastrophic harm named."
+    },
+    {
+      "date": "2026-09-19",
+      "venue": "Comments reported by KOTA / Dakota News Now (television news report)",
+      "quote": "but I also think that you have to mitigate against the I would say the sort of advanced. Um, risk systems when it with respect to AI which you want to call the frontier models.",
+      "context": "Thune was responding to the debate over AI oversight after President Trump said his own oversight was enough to keep AI models from going rogue; the same remarks began with him saying there is \"a lot of hyperbole around this issue\".",
+      "source_label": "Dakota News Now (KOTA)",
+      "url": "https://www.dakotanewsnow.com/2026/09/19/thune-weighs-ai-oversight-experts-warn-risks/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["boundary", "unsure"],
+      "reason": "He says risks from advanced frontier AI models must be mitigated, a general acknowledgment of serious risk, though in the same remarks he calls much of the debate hyperbole."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Axios interview",
+      "quote": "I do think that the threats are real",
+      "context": "Thune was discussing AI guardrails and President Trump, who had called fears about AI safety a hoax.",
+      "source_label": "Axios",
+      "url": "https://www.axios.com/2026/09/23/trump-thune-ai-regulations",
+      "read_at_source": false,
+      "level": "C",
+      "flags": ["unsure"],
+      "reason": "He says the threats from AI are real, in general terms, without naming a catastrophic harm."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development for safety reasons; his stated priority is that guardrails must not harm the US lead in AI. His 2025 support for a federal freeze on state AI laws is about state regulation, not the pace of AI development.", "sources": [["Reuters (WHBL), 14 September 2026", "https://whbl.com/2026/09/14/us-senators-weigh-requiring-ai-giants-to-commit-to-preventing-catastrophe/"]]},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found about coordinating with China on the pace of AI development. No source shows him signing the September 2026 letter from 17 senators, which coverage describes as a Democratic letter led by Senator Van Hollen; the full signer list was not seen. He said the US should not cede the future of AI to China, which is competition rather than a position on an agreement.", "sources": [["The National News Desk (KUTV), 23 September 2026", "https://kutv.com/news/nation-world/democrats-call-on-trump-to-establish-agreement-with-xi-jinping-to-slow-ai-development-maryland-chris-van-hollen"], ["Dakota News Now, 19 September 2026", "https://www.dakotanewsnow.com/2026/09/19/thune-weighs-ai-oversight-experts-warn-risks/"]]},
+    "rsi": {"value": "none", "note": "No statement found about banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Negotiating, with Senators Ted Cruz and Amy Klobuchar, a not-yet-introduced bill that would require large AI companies to show reasonable precautions against catastrophic harm, allow Commerce Department audits, and block states from enforcing their own laws on certain AI risks.", "Reuters (republished by WHBL), 14 September 2026", "https://whbl.com/2026/09/14/us-senators-weigh-requiring-ai-giants-to-commit-to-preventing-catastrophe/"],
+    ["Reuters reported that Thune told it in July 2026 that the bill he is writing with Klobuchar would target \"catastrophic risks\" posed by AI systems (two-word quote only).", "Reuters (republished by Zawya), about 11 September 2026", "https://www.zawya.com/en/special-coverage/technology-telecom/more-us-lawmakers-seek-new-ai-rules-after-anthropic-researchers-warn-of-human-extinction-559285"],
+    ["Told Roll Call the bill he is developing with Klobuchar is the \"right approach\" but was unsure it would get traction.", "Roll Call, 15 September 2026", "https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/"],
+    ["Punchbowl News reported the Thune-Cruz-Klobuchar agreement on advanced AI risks was on hold over disagreements with Anthropic and Senator Cantwell (no Thune quote).", "Punchbowl News, 30 July 2026", "https://punchbowl.news/article/tech/thune-anthropic/"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "In September 2026 Thune repeatedly said AI threats are real and that Congress should put guardrails around the \"more consequential\" and \"more advanced\" threats from frontier models, but in the wording found he never named a catastrophic harm such as mass casualties, loss of control or extinction in a full sentence of his own.",
+  "notes": "SEARCH STATUS: all required searches have now been run (eight in total; six of them were rerun on 11 November 2026 after failing earlier on rate limits). | THE TWO NAMED EVENTS: (1) China letter: coverage (The National News Desk, 23 September 2026) describes the 17-senator letter as from Democratic senators, led by Van Hollen, and does not mention Thune; I did not see the full signer list (the Politico original was not opened), so this is 'no source shows he signed', not a confirmed absence. (2) Ban Artificial Superintelligence Act: sources name only Senator Sanders and Representative Casar (plus House Democrats per one outlet) as sponsors; no source shows Thune as a co-sponsor; the official congress.gov cosponsor list was not checked. | LEAD A REVIEWER SHOULD CHASE (could raise the grade): a UNI India story dated 15 September 2026 (https://www.uniindia.com/world/us-sen-maj-leader-thune-ai-safety-congress/180436, paywalled after the opening) says: asked whether he believed AI could pose an existential threat to humanity, Thune said there were \"some potential...\" and the visible text cuts off there. The same story quotes him saying \"Congress has a job to do\" and that AI could pose \"consequential risks\". The likely original is Axios, 14 September 2026 (https://axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress), which returned HTTP 403. I did not include this as a statement because the quote is incomplete; if the full answer acknowledges an existential threat it could be level A or B. | QUOTE CAVEATS: Pages were read through a fetch tool that returns a model's reading of the page rather than raw text and limits verbatim excerpts to about 125 characters, so the Reuters, National News Desk and KOTA quotes were assembled from consecutive fragments and then confirmed by asking the tool to check the join (Reuters) or the whole passage (National News Desk and KOTA, both reported as exact matches). A reviewer should check all three against the pages character by character. The Reuters and National News Desk quotes are cut just before their closing punctuation (a comma in the National News Desk article). The tool reported a zero-width character before the word 'more' in the Reuters quote on the WHBL page. The Daily Caller (https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails) prints a longer version of the same Reuters remark beginning 'But I also think that there is a way in which Congress can put guardrails' with a comma after 'threats'; Deseret News (16 September) says he spoke on Tuesday 15 September, while Reuters, the Daily Caller and The National News Desk say Monday 14 September, which I used. The KOTA quote is a garbled automatic transcript of speech, copied as printed; the KOTA article gives only its publication date (19 September 2026), not the date he spoke. | The Axios quote 'I do think that the threats are real' was seen only in a search-result summary; all three Axios pages (14 and 23 September, 1 October 2026) returned HTTP 403, so the wording and what 'the threats' refers to are unverified. The Benton Institute summary of the 23 September Axios piece (https://www.benton.org/headlines/sen-thune-believes-trump-willing-listen-ai-guardrails) quotes only fragments: Trump is 'not really dug in', and some of Trump's pushback is aimed at 'paranoia and noise around the subject'. | Left out of statements: the first KOTA quote, 'I think there's a lot of hyperbole around this issue, but I don't think for a minute that we ought to cede the future when it comes to AI, to China, or any other adversary,' (assembled from fragments, not separately verified) - a reviewer may wish to consider whether 'hyperbole' and 'paranoia and noise' amount to dismissal (level F); I judged they do not, because he pairs them with saying the threats are real and need mitigating. Also left out: the Daily Caller quote 'Obviously, there's responsibility for the companies to do that when it comes to you know the frontier on some of these models,' (level D); Axios's 1 October report that he wants to 'codify' AI safeguards after Trump's AI summit (paraphrase); a Semafor report (10 September 2026, seen only via an aggregator) that the bill targets catastrophic biological or nuclear risks - wording not attributed to Thune; his June 2025 Axios comments urging a 'light touch' and backing a freeze on state AI laws (level D, about state regulation). | Pages that could not be opened (HTTP 403): the three Axios articles, and two BizPac Review pages including one headlined 'Senators not keen on banning AI from surpassing humans despite alarm bells' (18 September 2026), which may contain a Thune remark on a superintelligence ban. | The official-site search returned only pre-2025 AI material (the 2023 AI Research, Innovation, and Accountability Act with Klobuchar, out of date range) and the first page of his press releases showed nothing on AI."
+}

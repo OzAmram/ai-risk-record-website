@@ -1,0 +1,149 @@
+{
+ "bioguide": "A000382",
+ "member": "Sen. Angela Alsobrooks (D-MD)",
+ "searches": [
+  "Alsobrooks artificial intelligence (restricted to alsobrooks.senate.gov)",
+  "Angela Alsobrooks superintelligence \"Ban Artificial Superintelligence Act\" cosponsors",
+  "Senator Alsobrooks AI extinction OR \"existential risk\" OR \"loss of control\"",
+  "Senator Alsobrooks AI pause OR slowdown OR moratorium",
+  "Alsobrooks letter Trump Xi AI guardrails China agreement senators",
+  "\"Alsobrooks\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "Letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate an AI agreement with President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter"
+   ],
+   "reason": "The letter she signed calls advanced AI a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "develop a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+   "context": "Letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate an AI agreement with President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter says frontier AI could enable activities that threaten humanity as a whole, including biological weapons, and calls for a slowdown agreement with China."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "Letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate an AI agreement with President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter"
+   ],
+   "reason": "The letter says the stakes of AI are existential."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "Letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate an AI agreement with President Xi at their planned summit.",
+   "source_label": "Senate press release (Van Hollen)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "The letter relays experts' warning of AI beyond human control and, in a later sentence, says these warnings should be taken seriously; loss of control without explicit permanence or extinction wording is B."
+  },
+  {
+   "date": "2026-06-11",
+   "venue": "Senate Banking, Housing, and Urban Affairs Committee hearing",
+   "quote": "For American families, workers, small businesses, and communities, AI cannot just be happening around them or to them. It has to expand opportunity for them.",
+   "context": "Her remarks at a hearing titled \"AI and the American Dream\" on AI, the economy and consumer trust.",
+   "source_label": "Senate press release (Alsobrooks)",
+   "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-ai-cannot-be-happening-to-us-it-has-to-expand-opportunity/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About economic opportunity and trust in AI systems; no catastrophic risk is mentioned."
+  },
+  {
+   "date": "2026-03-13",
+   "venue": "Call with Maryland Eastern Shore Delegation, reported by The Baltimore Sun",
+   "quote": "We’re going to have to have workforce training and development, and just really plan for it. But all in all, it’s coming",
+   "context": "Asked about AI, she spoke of benefits for health care diagnosis and the need for workforce planning.",
+   "source_label": "The Baltimore Sun, reposted on alsobrooks.senate.gov",
+   "url": "https://www.alsobrooks.senate.gov/news/in-the-news/the-baltimore-sun-alsobrooks-discusses-ice-facilities-ai-watermen-aid-ed-dept/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About workforce and health care uses of AI; no catastrophic risk is mentioned."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development (signed letter, not her own statement).",
+   "sources": [
+    [
+     "Senate press release (Van Hollen), 2026-09-23",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks for an agreement with China that would \"potentially enact a mutual pause\" in frontier AI development; a pause that is only a possibility and depends on China joining is mixed under the rubric.",
+   "sources": [
+    [
+     "Senate press release (Van Hollen), 2026-09-23",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the letter urging President Trump to negotiate a formal agreement with China to slow, and potentially mutually pause, frontier AI development.",
+   "sources": [
+    [
+     "Senate press release (Van Hollen), 2026-09-23",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI. The letter mentions automation of AI research only as a reason progress may speed up, not as something to ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed a letter with 16 other Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate an AI agreement with China, including a slowdown and a possible mutual pause in frontier AI development.",
+   "Senate press release (Van Hollen), 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Spoke at the Senate Banking Committee hearing \"AI and the American Dream: Promoting Innovation, Affordability, and American Dominance\".",
+   "Senate press release (Alsobrooks), 2026-06-11",
+   "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-ai-cannot-be-happening-to-us-it-has-to-expand-opportunity/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "She signed the 23 September 2026 letter, which calls advanced AI a technology that poses an existential threat and a danger to humanity. All of the evidence for this grade is that one co-signed letter; her own remarks on AI found here are about opportunity, jobs and trust (level D).",
+ "notes": "Exactly 6 web searches ran; none was refused. Pages opened and read directly: the Van Hollen press release (letter text), Alsobrooks's 11 June 2026 press release, and the Baltimore Sun article reposted on her site. The A grade rests only on the co-signed letter; no statement in her own words about catastrophic AI risk was found. Ban Artificial Superintelligence Act: no source found showing her as a co-sponsor; the congress.gov cosponsor page for S. 5493 could not be opened (blocked, HTTP 403), so this is unconfirmed rather than ruled out, and the bill number S. 5493 comes from a search result summary only. The Baltimore Sun article is dated 14 March 2026 and says the call took place 'on Friday', so the statement date is given as 2026-03-13 (inferred). The Sun also paraphrases her as saying new technology could be a game-changer for the state if used responsibly; not quoted. Search results mentioned her bill on AI-generated election disinformation and a report with Sen. Wyden on AI use in Medicare; these are outside the scope (not catastrophic risk) and were not opened. The letter quote at level B is followed, in a separate paragraph on the page, by 'We should take these warnings seriously.'"
+}

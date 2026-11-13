@@ -1,0 +1,116 @@
+{
+ "bioguide": "H001104",
+ "member": "Jon Husted",
+ "searches": [
+  "Jon Husted artificial intelligence statement senator",
+  "site:husted.senate.gov artificial intelligence",
+  "Husted superintelligence",
+  "Senator Husted AI \"extinction\" OR \"existential\" risk",
+  "Senator Husted AI pause OR slowdown OR moratorium",
+  "Husted China AI talks senators letter September 2026",
+  "\"Husted\" \"AI safety\" senator Ohio",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators (NOT RUN: search budget exhausted)",
+  "Jon Husted superintelligence OR \"artificial general intelligence\" OR \"loss of control\" AI (NOT RUN: search budget exhausted)"
+ ],
+ "statements": [
+  {
+   "date": "2025-09-08",
+   "venue": "Press release introducing the CHAT Act of 2025",
+   "quote": "America has to lead the world in developing, applying and safely stewarding AI. Like any technology, some AI products put innocent users—especially children—at risk.",
+   "context": "Husted was introducing his bill requiring age verification and safeguards for AI companion chatbots used by minors.",
+   "source_label": "Senate press release",
+   "url": "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-children-from-ai-companion-chatbots-sexual-content/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The risk named is harm to children from chatbots, which is outside catastrophic risk."
+  },
+  {
+   "date": "2026-07-29",
+   "venue": "Press release introducing the CHAT Act 2.0",
+   "quote": "As AI becomes more advanced and more accessible, we have a responsibility to make sure these tools are not exposing children to dangerous, manipulative or inappropriate interactions.",
+   "context": "Husted and Sen. Andy Kim were introducing a tiered framework to protect minors from AI companion chatbots.",
+   "source_label": "Senate press release",
+   "url": "https://www.husted.senate.gov/media/press-releases/husted-kim-lead-bipartisan-bill-to-protect-children-from-ai-companion-chatbots/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Mentions AI becoming more advanced but the only harm named is to children using chatbots."
+  },
+  {
+   "date": "2026-05-13",
+   "venue": "Press release on joining the CREATE AI Act",
+   "quote": "As AI continues to transform the world on a global and economic scale, it’s critical to our innovation and national security that America leads—and wins—the race.",
+   "context": "Husted was announcing his support for a bill establishing the National AI Research Resource; the same statement goes on to mention advancing \"safe AI development\".",
+   "source_label": "Senate press release",
+   "url": "https://www.husted.senate.gov/media/press-releases/husted-joins-bill-to-advance-ai-for-americans/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Frames AI as a race to win against rivals and promotes AI research; no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development; his statements stress that America must lead and win the AI race, which is not a statement against a slowdown as such.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on AI pace; not among the signers of the 23 September 2026 letter as reported (signers reported as 17 Democrats led by Sen. Van Hollen).",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Sen. Rosen, a bill to ban the Chinese AI app DeepSeek from government devices and networks.",
+   "Senate press release, 2025-02-27",
+   "https://www.husted.senate.gov/press-releases/husted-rosen-lead-effort-to-protect-us-government-devices-from-communist-chinese-controlled-ai-bot-deepseek"
+  ],
+  [
+   "Signed a letter with other Republican senators (led by Sen. Budd) asking Commerce Secretary Lutnick to evaluate security vulnerabilities and backdoors in Chinese open-source AI models such as DeepSeek R1; the letter notes R1 likely lacked red-teaming and safety tests.",
+   "Senate press release, 2025-08-05",
+   "https://www.husted.senate.gov/media/press-releases/husted-republicans-to-commerce-secretary-safeguard-american-data-and-innovation-from-communist-china/"
+  ],
+  [
+   "Introduced the CHAT Act of 2025, requiring age verification and safeguards for AI companion chatbots used by minors.",
+   "Senate press release, 2025-09-08",
+   "https://www.husted.senate.gov/media/press-releases/husted-leads-bill-to-protect-children-from-ai-companion-chatbots-sexual-content/"
+  ],
+  [
+   "Joined the CREATE AI Act, establishing the National AI Research Resource, described as also advancing safe, reliable and trustworthy AI.",
+   "Senate press release, 2026-05-13",
+   "https://www.husted.senate.gov/media/press-releases/husted-joins-bill-to-advance-ai-for-americans/"
+  ],
+  [
+   "Co-led the SIMS Act, setting penalties for sexually explicit AI chatbots that simulate children.",
+   "Senate press release, 2026-06-10",
+   "https://www.husted.senate.gov/media/press-releases/husted-introduces-bill-to-protect-kids-from-sexually-explicit-ai-chatbots/"
+  ],
+  [
+   "Introduced the CHAT Act 2.0 with Sen. Andy Kim, a tiered framework to protect minors from AI companion chatbots.",
+   "Senate press release, 2026-07-29",
+   "https://www.husted.senate.gov/media/press-releases/husted-kim-lead-bipartisan-bill-to-protect-children-from-ai-companion-chatbots/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Husted is active on AI (child safety with chatbots, Chinese AI models, scams, AI education and research) but no statement was found acknowledging catastrophic risk from AI. All statements found are level D.",
+ "notes": "Web search budget ran out after seven successful searches, so the dedicated search for the Ban Artificial Superintelligence Act co-sponsor list was NOT run; no source seen shows Husted co-sponsoring it, but this is unverified either way and a reviewer should check congress.gov. The 23 September 2026 China letter: search results summarised reports (e.g. Morung Express 'US senators seek AI safety pact with China', CBS Austin) saying it was signed by 17 Democratic senators led by Van Hollen; I did not open the letter itself to confirm the signer list, so Husted's absence rests on those summaries. Could not open: Axios 7 May 2025 'Freshman wishlist: Husted wants Congress to embrace AI' (403), and two Citizen Portal pages (cpo.soar.com) about a Senate HELP committee hearing where experts warned unchecked AI could threaten humanity (domain did not resolve); Husted sits on that committee, so any remarks he made there are unchecked. The August 2025 Lutnick letter (cosigned) says DeepSeek R1 'has been found to produce potentially harmful content at higher rates than peer American models' and likely lacked red-teaming; I judged this D (security and competition with China) and listed it in record rather than statements. All three quotes were copied from page text fetched directly from husted.senate.gov. Other senators' quotes on those pages (e.g. Heinrich, Young) were not attributed to Husted."
+}

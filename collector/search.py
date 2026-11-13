@@ -70,6 +70,7 @@ def main():
     parser.add_argument("--endpoint", choices=ENDPOINTS, default="recent")
     parser.add_argument("--start-time", help="ISO time, e.g. 2025-01-01T00:00:00Z. Default: the API's own (seven days ago)")
     parser.add_argument("--end-time", help="ISO time. Default: now")
+    parser.add_argument("--batch", help="Only search accounts whose batch column has this value")
     parser.add_argument("--max-query-len", type=int, default=512)
     parser.add_argument("--max-posts", type=int, default=500, help="Stop after this many posts, as a cost guard")
     args = parser.parse_args()
@@ -79,7 +80,8 @@ def main():
         sys.exit("X_BEARER_TOKEN is not set")
 
     with open(args.accounts, newline="") as f:
-        accounts = list(csv.DictReader(f))
+        # rows with no handle record a member for whom no account was found
+        accounts = [a for a in csv.DictReader(f) if a["handle"] and (not args.batch or a.get("batch") == args.batch)]
     handle_by_id = {a["x_user_id"]: a["handle"] for a in accounts}
     queries = build_queries([a["handle"] for a in accounts], KEYWORDS, args.max_query_len)
 

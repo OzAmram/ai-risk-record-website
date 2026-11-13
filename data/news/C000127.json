@@ -1,0 +1,185 @@
+{
+ "bioguide": "C000127",
+ "member": "Maria Cantwell",
+ "searches": [
+  "Cantwell artificial intelligence (restricted to cantwell.senate.gov and commerce.senate.gov)",
+  "Senator Maria Cantwell superintelligence",
+  "Maria Cantwell AI \"extinction\" OR \"existential risk\" OR \"catastrophic\"",
+  "Maria Cantwell AI pause OR slowdown OR moratorium",
+  "Maria Cantwell AI China agreement OR treaty OR talks 2026",
+  "\"Cantwell\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors senators September 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump",
+   "quote": "China to develop a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "The senators urged the President to negotiate AI guardrails with Xi Jinping at the summit planned for 24 September 2026.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she signed says frontier AI development could enable activities that threaten humanity, which is level A under ruling 1; these are the letter's words, not her individual words."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "The letter compares a US-China AI agreement to Cold War nuclear arms control agreements.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she signed calls AI a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "Senate floor speech",
+   "quote": "The risks keep growing and now the very dangers we’ve warned about — autonomous cyberattacks and biological weapons — are no longer theoretical. It is time that we act and act aggressively.",
+   "context": "She was arguing that Congress lost three years by not passing her AI testing bills and should now set federal guardrails for frontier AI.",
+   "source_label": "Senate Commerce Committee (Democrats) press release with speech text",
+   "url": "https://www.commerce.senate.gov/press/dem/release/ranking-member-cantwell-floor-speech-on-ai-risks-and-the-need-for-strong-federal-guardrails/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "In her own words she names biological weapons and autonomous cyberattacks as real dangers from advanced AI, without extinction framing."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "Senate floor speech",
+   "quote": "We are hearing that artificial superintelligence is coming. And this deep concern about the rapidly emerging artificial superintelligence is certainly well founded.",
+   "context": "She was opening a speech on AI safety, before turning to the risk from networked swarms of AI agents.",
+   "source_label": "Senate Commerce Committee (Democrats) press release with speech text",
+   "url": "https://www.commerce.senate.gov/press/dem/release/ranking-member-cantwell-floor-speech-on-ai-risks-and-the-need-for-strong-federal-guardrails/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She says concern about superintelligence is well founded but does not name a catastrophic consequence in this passage."
+  },
+  {
+   "date": "2026-10-07",
+   "venue": "Cantwell's six-principle frontier AI governance framework (press release)",
+   "quote": "Standards must address catastrophic risks, including AI-enabled cyberattacks; chemical, biological, radiological and nuclear threats; potential for loss of human control; and automated improvement and autonomous agents escaping secure testing environments",
+   "context": "This is a bullet point in the framework she published for regulating frontier AI.",
+   "source_label": "Senate Commerce Committee (Democrats) press release",
+   "url": "https://www.commerce.senate.gov/press/dem/release/cantwell-outlines-comprehensive-governance-framework-for-safe-and-secure-frontier-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Her framework names catastrophic risks including loss of human control and biological threats; it is the framework's wording rather than a spoken statement."
+  },
+  {
+   "date": "2026-07-30",
+   "venue": "Senate Commerce Committee hearing on AI and telecommunications networks",
+   "quote": "AI can design viruses, toxins, biological weapons that can be used to design entirely new pathogens that are difficult to detect and counter.",
+   "context": "She was arguing that federal agencies and national laboratories should lead testing of frontier AI models.",
+   "source_label": "Senate Commerce Committee (Democrats) press release",
+   "url": "https://www.commerce.senate.gov/press/dem/release/cantwell-says-its-essential-for-federal-agencies-to-lead-testing-of-frontier-ai-models-to-ensure-safety-protect-national-security/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "She states in her own words that AI can design biological weapons and new pathogens."
+  },
+  {
+   "date": "2026-10-07",
+   "venue": "Press release on her frontier AI governance framework",
+   "quote": "To manage risks from advanced AI systems we need clear safety standards, continuous testing, and reporting of serious failures,",
+   "context": "This is her quoted statement announcing the framework.",
+   "source_label": "Senate Commerce Committee (Democrats) press release",
+   "url": "https://www.commerce.senate.gov/press/dem/release/cantwell-outlines-comprehensive-governance-framework-for-safe-and-secure-frontier-ai/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "She acknowledges risks from advanced AI in general terms."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter calling for a formal agreement with China that \"would slow down\" frontier AI development to prevent dangers including biological weapons. This is a signed letter; I found no statement in her own words calling for a slowdown, and her own framework asks for standards, testing and audits before release rather than slower development.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks for an agreement with China that would \"potentially enact a mutual pause\" in frontier AI development; that is a pause conditional on China joining, and only a possible one. Signed letter, not her own words.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the letter urging a formal US-China agreement to slow, and possibly mutually pause, frontier AI development. Separately, her own framework proposes a US-China crisis channel \"like the Soviet era red phone\", which is about incident communication rather than pacing.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 Sep 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Senate Commerce (Democrats) press release, 7 Oct 2026",
+     "https://www.commerce.senate.gov/press/dem/release/cantwell-outlines-comprehensive-governance-framework-for-safe-and-secure-frontier-ai/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "Her framework asks for heightened oversight of systems capable of self-improvement, stress tests that systems halt self-modification that bypasses safety controls, and reporting of unsafe recursive self-improvement. That is regulation, not a ban, and I found no statement for or against a ban.",
+   "sources": [
+    [
+     "Senate Commerce (Democrats) press release, 7 Oct 2026",
+     "https://www.commerce.senate.gov/press/dem/release/cantwell-outlines-comprehensive-governance-framework-for-safe-and-secure-frontier-ai/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate a formal AI agreement with China, including a slowdown and possible mutual pause in frontier AI development.",
+   "Sen. Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Gave a Senate floor speech on AI risks, including swarms of AI agents, calling for federal standards and independent testing of frontier models.",
+   "Senate Commerce Committee (Democrats) press release, 2026-09-15",
+   "https://www.commerce.senate.gov/press/dem/release/ranking-member-cantwell-floor-speech-on-ai-risks-and-the-need-for-strong-federal-guardrails/"
+  ],
+  [
+   "Published a six-principle governance framework for frontier AI: federal standards for catastrophic risks, continuous testing, independent audits before release, incident reporting, and a US-China crisis channel.",
+   "Senate Commerce Committee (Democrats) press release, 2026-10-07",
+   "https://www.commerce.senate.gov/press/dem/release/cantwell-outlines-comprehensive-governance-framework-for-safe-and-secure-frontier-ai/"
+  ],
+  [
+   "At a Commerce Committee hearing, said federal agencies and national laboratories must lead testing of frontier AI models, citing biological weapons and cyberattack risks.",
+   "Senate Commerce Committee (Democrats) press release, 2026-07-30",
+   "https://www.commerce.senate.gov/press/dem/release/cantwell-says-its-essential-for-federal-agencies-to-lead-testing-of-frontier-ai-models-to-ensure-safety-protect-national-security/"
+  ],
+  [
+   "Co-led, with Sen. Blackburn, the amendment that removed a ten-year moratorium on state AI regulation from the budget reconciliation bill by a 99-1 vote (about state regulation, not a pause in AI development). Seen in search results only; page not opened.",
+   "Senate Commerce Committee (Democrats) press release, July 2025",
+   "https://www.commerce.senate.gov/2025/7/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The A rests only on the 23 September 2026 letter she co-signed, which says frontier AI could enable activities that threaten \"humanity writ large\" and calls AI \"a technology that poses an existential threat\". Her own individual words reach level B (biological weapons, loss of human control named as catastrophic risks), so a reviewer who discounts co-signed letters should use B.",
+ "notes": "Seven web searches ran; none was refused. All four quoted pages were downloaded and each quote was checked by exact string match against the page text. The search tool's page reader could not open the GeekWire article on the floor speech (error 403), so it was not used. Left out because they are not her own words: in the floor speech she read out warnings by Bill Gates (\"we could lose control\") and Dario Amodei (a swarm \"could have caused catastrophic damage\") and then said \"We know that these threats are real\"; a reviewer may wish to count these as endorsed relayed warnings at level B. The framework quotes are the published wording of her framework, not speech. Ban Artificial Superintelligence Act: search results name only Sen. Sanders as Senate sponsor (with Rep. Casar); no source shows Cantwell as a co-sponsor, and I did not check congress.gov. Not verified at source (search results only): a Semafor report of 10 Sep 2026 saying she wants a stricter version of a bipartisan AI safety bill; a report that she and Sen. Rounds asked the administration to expand federal AI safety testing (about 14 Oct 2026); her reintroduction of the Future of AI Innovation Act in 2026; and the 2025 state-moratorium item in the record list. The floor speech date (15 Sep 2026) is the date shown on the press release."
+}

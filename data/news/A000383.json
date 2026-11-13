@@ -1,0 +1,87 @@
+{
+ "bioguide": "A000383",
+ "member": "Alan Armstrong",
+ "searches": [
+  "Senator Alan Armstrong Oklahoma artificial intelligence (restricted to armstrong.senate.gov)",
+  "Senator Alan Armstrong superintelligence",
+  "Sen. Alan Armstrong AI extinction OR \"existential risk\"",
+  "Sen. Alan Armstrong AI pause OR slowdown OR moratorium data centers",
+  "Sen. Alan Armstrong China AI agreement OR treaty OR talks",
+  "\"Alan Armstrong\" senator \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-07-13",
+   "venue": "Video released by his Senate office, quoted in a press release",
+   "quote": "If America wants to lead the world in energy, manufacturing, and artificial intelligence, we need to be able to actually build things again.",
+   "context": "He was arguing for faster federal permitting of energy and infrastructure projects.",
+   "source_label": "Senate press release",
+   "url": "https://www.armstrong.senate.gov/press-releases/new-video-sen-armstrong-makes-the-case-for-permitting-reform-expresses-commitment-to-getting-it-done/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes American leadership in AI and does not mention any risk from AI."
+  },
+  {
+   "date": "2026-08-31",
+   "venue": "Op-ed in 535 News, reposted on his Senate site",
+   "quote": "America’s 21st-century ambitions—from leading the artificial intelligence boom to revitalizing domestic manufacturing—rest on an aging physical foundation designed for the 20th century.",
+   "context": "He was arguing that slow permitting holds back the power grid that AI and manufacturing depend on.",
+   "source_label": "Senate site repost of 535 News op-ed",
+   "url": "https://www.armstrong.senate.gov/icymi-sen-armstrong-outlines-urgency-of-permitting-reform-to-boost-energy-grid-and-national-security-in-535-news-editorial/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Treats AI as an economic opportunity that needs infrastructure; no risk from AI is acknowledged."
+  },
+  {
+   "date": "2026-06-17",
+   "venue": "Op-ed in the Tulsa World, reposted on his Senate site",
+   "quote": "Today, we are also helping power the future through AI infrastructure, advanced manufacturing and aerospace innovation.",
+   "context": "He was describing why companies such as Meta are building data centers and factories in Oklahoma.",
+   "source_label": "Senate site repost of Tulsa World op-ed",
+   "url": "https://www.armstrong.senate.gov/icymi-armstrong-in-the-oklahoman-on-oklahomas-pro-growth-environment/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes AI data center investment in Oklahoma; no risk from AI is acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found for or against this policy.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Not among the 17 signers of the 23 September 2026 letter urging AI talks with China (all signers were Democrats).",
+   "Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Introduced the American Energy and Mineral Infrastructure Act (permitting reform; AI appears only as a source of power demand).",
+   "Senate press release, 2026-07-13 (bill introduced 2026-06-25)",
+   "https://www.armstrong.senate.gov/press-releases/new-video-sen-armstrong-makes-the-case-for-permitting-reform-expresses-commitment-to-getting-it-done/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Every AI remark found treats AI as an economic and energy-demand matter tied to permitting reform and data centers. Nothing found acknowledges, or dismisses, catastrophic risk from AI.",
+ "notes": "Six web searches ran, none refused. The searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing mentioning Armstrong. Four armstrong.senate.gov pages were then downloaded directly and read, plus the site's own search for 'artificial intelligence' and its business issues page (data centers, Tulsa applied AI cluster; all promotional). Ban Artificial Superintelligence Act: no source found showing him as a co-sponsor; I did not check the bill's co-sponsor list on congress.gov, so this is 'no evidence', not a verified 'no'. Left out: a Columbia Energy Exchange podcast summary on his site (2026-07-31, https://www.armstrong.senate.gov/senator-alan-armstrong-outlines-country-first-energy-principles-and-urgent-need-for-permitting-reform-on-columbia-energy-exchange-podcast/) quotes him saying slow permitting 'should scare us as Americans when we're in a race right now to be able to have the best computing power in the world'; the office's version has an ellipsis and is about competition, so it would be D and was not used as a quote. Dates: the 535 News op-ed date is the date of the Senate site repost; the original publication may be a few days earlier. The Tulsa World op-ed date is as shown on the Senate site (the page URL says 'Oklahoman' but the byline says Tulsa World)."
+}

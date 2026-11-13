@@ -1,0 +1,39 @@
+{
+  "bioguide": "H001061",
+  "member": "John Hoeven",
+  "searches": [
+    "Hoeven artificial intelligence (restricted to hoeven.senate.gov)",
+    "Senator John Hoeven superintelligence OR \"artificial general intelligence\"",
+    "Senator John Hoeven AI \"extinction\" OR \"existential risk\" OR \"loss of control\"",
+    "John Hoeven AI moratorium OR pause OR slowdown 2025 2026",
+    "John Hoeven AI China agreement OR treaty OR talks artificial intelligence",
+    "\"Hoeven\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Senate September 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-05",
+      "venue": "Remarks to Fox News Digital (Capitol hallway interviews with senators)",
+      "quote": "So we want to develop it. Obviously, we need to stay ahead of adversaries like China, but we need to do it safely.",
+      "context": "Senators were asked about Bill Gates' warning on NBC's Meet the Press that AI could cause a billion deaths; the article groups Hoeven with Republicans concerned that China could pull ahead.",
+      "source_label": "Fox News",
+      "url": "https://www.foxnews.com/politics/gop-senators-skeptical-bill-gates-fearmongering-ai-warning-democrats-sound-alarm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary", "unsure"],
+      "reason": "He says AI should be developed safely and ahead of China but names no risk from AI itself, neither acknowledging nor dismissing the catastrophic warning he was asked about; it sits between C and D."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development; he said the US should develop AI and stay ahead of China, which is not an explicit statement against a slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement or talks with China on AI; he is not among the signers of the 23 September 2026 letter.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Did not sign the 23 September 2026 letter from 17 Senate Democrats urging AI talks with China (not on the verified signer list).", "Van Hollen Senate press release, 2026-09-23", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only remark found on AI risk is a brief Fox News comment that the US should develop AI, stay ahead of China and 'do it safely', which does not acknowledge catastrophic risk. Nothing else on AI risk was found on his official site or in news coverage.",
+  "notes": "Seven web searches ran, none refused. The Fox News article (published 2026-10-05; the date he spoke is not given, so the publication date is used) was opened through a page-fetch tool that returns excerpts via a summarising model rather than the raw page: it returned the quote above as one passage, and the same wording appeared in the search result snippet, but a reviewer should confirm character-for-character on the page. In the article his remarks open with a separate quoted sentence, \"Look, I think we need to use common sense,\" followed by the attribution and then the quoted passage; I did not join them. The exact question he was asked is not stated in the article; the piece is framed around Bill Gates' 'a billion deaths' warning. Level is a judgement call between C and D: 'do it safely' could be read as a general acknowledgment of risk, but no risk is named. Ban Artificial Superintelligence Act (reported as S. 5493, sponsor Sanders): no source found showing Hoeven as a co-sponsor; the congress.gov cosponsor page could not be opened (HTTP 403), so co-sponsorship is unverified rather than ruled out, and it is not listed in the record. His official site search returned only press releases on unmanned and autonomous military systems (for example Project ATLAS, October 2026) and data processing for hypersonic test ranges, which mention AI only as a tool and are outside scope. No statements found on superintelligence, extinction, pause, or a China agreement."
+}

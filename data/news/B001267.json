@@ -1,0 +1,142 @@
+{
+ "bioguide": "B001267",
+ "member": "Sen. Michael Bennet (D-CO)",
+ "searches": [
+  "Michael Bennet artificial intelligence (restricted to bennet.senate.gov)",
+  "Senator Michael Bennet superintelligence",
+  "Michael Bennet AI \"extinction\" OR \"existential risk\" senator",
+  "Michael Bennet AI pause OR slowdown OR moratorium 2026",
+  "Michael Bennet AI China agreement OR treaty artificial intelligence talks",
+  "\"Michael Bennet\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Bennet"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-24",
+   "venue": "CNN interview, The Source with Kaitlan Collins",
+   "quote": "When there are people in these companies saying that there might be a 10 percent chance, or a 15 or 20 percent chance that humanity could be destroyed by AI, we need to listen to that. We need to pay attention to that, and we need to deal with it in an orderly way",
+   "context": "Bennet was explaining why he proposed an independent federal agency to regulate frontier AI models.",
+   "source_label": "Bennet Senate press release (interview transcript excerpt)",
+   "url": "https://www.bennet.senate.gov/2026/09/25/icymi-bennet-calls-for-new-federal-agency-to-prevent-catastrophic-ai-risk/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "He relays AI company insiders' warning that humanity could be destroyed by AI and endorses it in his own words (\"we need to listen to that\")."
+  },
+  {
+   "date": "2026-09-25",
+   "venue": "Bloomberg interview, Balance of Power",
+   "quote": "that’s got the teeth to be able to find these guys if they are pursuing models that could threaten, for example, the extinction of humanity. I mean, this is something that we have to grapple with. We have to get a hold of it.",
+   "context": "Bennet was describing the regulatory agency he proposed and why it needs enforcement power.",
+   "source_label": "Bennet Senate press release (interview transcript excerpt)",
+   "url": "https://www.bennet.senate.gov/2026/09/25/icymi-bennet-calls-for-new-federal-agency-to-prevent-catastrophic-ai-risk/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "unsure"
+   ],
+   "reason": "He says in his own words that AI models could threaten the extinction of humanity and that this must be dealt with; the flag is only for the exact interview date."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "CNN interview, The Source with Kaitlan Collins",
+   "quote": "we would have clear pre-clearance for these frontier models before they escape from these companies and wreak havoc throughout our world potentially",
+   "context": "Bennet was describing the pre-release review of frontier AI models in his proposal.",
+   "source_label": "Bennet Senate press release (interview transcript excerpt)",
+   "url": "https://www.bennet.senate.gov/2026/09/25/icymi-bennet-calls-for-new-federal-agency-to-prevent-catastrophic-ai-risk/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Taken alone this warns of frontier models escaping and causing havoc worldwide, a serious but general harm; it sits between B and C."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Press release announcing the AI Regulator Act proposal",
+   "quote": "The Federal Digital Commission would keep pace with innovation, act before serious harm occurs, and have the authority to hold companies accountable when they break the rules.",
+   "context": "Bennet and Sen. Welch announced a proposal for a federal commission with power to review frontier AI models and delay releases that could pose catastrophic risk.",
+   "source_label": "Bennet Senate press release",
+   "url": "https://www.bennet.senate.gov/2026/09/23/bennet-welch-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "His own quoted words speak only of \"serious harm\" in general terms; the catastrophic-risk wording is in the release's headline and description of the proposal, not in his quote."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "mixed",
+   "note": "His AI Regulator Act proposal would require pre-clearance of frontier AI models and let a commission delay public release of models with potential catastrophic risk for up to six months or until safeguards exist, but he also said \"we should innovate\" and \"I want us to lead the Chinese\". This is a conditional brake on release, not a call to slow capability progress in general; a reviewer may prefer \"none\".",
+   "sources": [
+    [
+     "Bennet Senate press release, 23 Sep 2026",
+     "https://www.bennet.senate.gov/2026/09/23/bennet-welch-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/"
+    ],
+    [
+     "Bennet Senate press release, 25 Sep 2026",
+     "https://www.bennet.senate.gov/2026/09/25/icymi-bennet-calls-for-new-federal-agency-to-prevent-catastrophic-ai-risk/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "The proposed power to pause is over public release of specific risky models, not a halt to building more capable frontier AI; no statement for or against a development pause was found.",
+   "sources": [
+    [
+     "Bennet Senate press release, 23 Sep 2026",
+     "https://www.bennet.senate.gov/2026/09/23/bennet-welch-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "He is not among the signers of the 23 September 2026 letter urging AI talks with China. He said no one but President Trump thinks the US and China see eye to eye on AI, which is not a statement against an agreement.",
+   "sources": [
+    [
+     "Van Hollen press release listing signers",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Bennet Senate press release, 25 Sep 2026",
+     "https://www.bennet.senate.gov/2026/09/25/icymi-bennet-calls-for-new-federal-agency-to-prevent-catastrophic-ai-risk/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Announced with Sen. Welch the proposed AI Regulator Act: a five-member Federal Digital Commission with pre-certification of frontier AI models, power to pause public release of models with potential catastrophic risk for up to six months, catastrophic-risk incident reporting, and penalties up to 15 percent of prior-year global revenue.",
+   "Bennet Senate press release, 2026-09-23",
+   "https://www.bennet.senate.gov/2026/09/23/bennet-welch-release-proposal-to-establish-new-federal-agency-to-prevent-catastrophic-ai-risk-regulate-big-tech/"
+  ],
+  [
+   "Issued a statement opposing President Trump's executive order blocking state AI laws (about protecting children and consumers, not catastrophic risk).",
+   "Bennet Senate press release, 2025-12-16",
+   "https://www.bennet.senate.gov/2025/12/16/bennet-statement-on-president-trumps-executive-order-blocking-state-level-ai-laws/"
+  ],
+  [
+   "Joined a statement with Sens. Shaheen, Coons and others opposing the export of Nvidia H200 AI chips to China (page title only; not opened).",
+   "Bennet Senate press release, 2025-12-08",
+   "https://www.bennet.senate.gov/2025/12/08/bennet-shaheen-coons-national-security-democrats-statement-on-president-trumps-decision-to-allow-the-export-of-advanced-nvidia-h200-ai-chips-to-china/"
+  ],
+  [
+   "Joined Sen. Schatz and colleagues in a letter pressing Meta on children's use of AI chatbots (page title only; not opened).",
+   "Bennet Senate press release, 2025-08-20",
+   "https://www.bennet.senate.gov/2025/08/20/bennet-schatz-colleagues-press-meta-for-safeguards-around-childrens-engagement-with-ai-chatbots"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In two September 2026 interviews, reproduced on his own Senate site, he said AI models could threaten the extinction of humanity and that warnings that humanity could be destroyed by AI must be heeded.",
+ "notes": "Seven web searches ran, none refused. Both A quotes come from interview excerpts on Bennet's own Senate press release of 25 Sep 2026, which I read in full; I did not view the CNN or Bloomberg video. The quotes use the release's punctuation (curly apostrophes) and its transcription, including \"find these guys\" (probably \"fine\"). The CNN interview is dated 2026-09-24 because the 25 Sep release says \"last night\". The Bloomberg interview date is not given on the release (only \"this week\"); 2026-09-25 is the release date, so the interview was on or shortly before it. Not on the verified signer list of the 23 Sep 2026 China letter. No source found showing he co-sponsored the Ban Artificial Superintelligence Act (reported sponsors are Sanders and Casar); the congress.gov cosponsor page could not be opened (403), so co-sponsorship is unconfirmed either way. The Axios Denver article of 17 Sep 2026 could not be opened (403); a search summary attributed to him the words \"Congress will never be able to move fast enough\", left out as unverified and not about catastrophic risk. Colorado Politics (1 Nov 2026) mentions his vote on the Ratepayer Protection Act, with no quote from him. The 16 Dec 2025 statement on the state-law executive order and the China chip-export statements are level D and were left out of statements. The slowdown value of \"mixed\" is a judgment call explained in its note."
+}

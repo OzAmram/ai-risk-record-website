@@ -1,0 +1,91 @@
+{
+  "bioguide": "M001244",
+  "member": "Sen. Ashley Moody (R-FL)",
+  "searches": [
+    "Ashley Moody artificial intelligence (restricted to moody.senate.gov)",
+    "Sen. Ashley Moody superintelligence AI",
+    "Ashley Moody AI \"extinction\" OR \"existential risk\" senator",
+    "Ashley Moody AI pause OR slowdown OR moratorium senator",
+    "Ashley Moody AI China agreement OR treaty OR talks senator",
+    "\"Ashley Moody\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors",
+    "Florida attorney general sues OpenAI ChatGPT \"ignored internal and external safety warnings\""
+  ],
+  "statements": [
+    {
+      "date": "2026-10-01",
+      "venue": "Press release on her remarks at a Senate Homeland Security subcommittee hearing held 30 September 2026",
+      "quote": "We must continue our work in Congress to ensure it never gets out of control. We must win the AI race against China, but we need to do it in a way that protects America’s most vulnerable from AI’s dangerous potential",
+      "context": "She was describing AI being used to scam seniors, drive addictive algorithms and steal children's image and likeness.",
+      "source_label": "Senate press release",
+      "url": "https://www.moody.senate.gov/press-releases/video-in-homeland-security-subcommittee-senator-moody-questions-witnesses-on-potential-threats-posed-to-americas-children-and-seniors-from-ai/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "The harms she names are scams, addictive algorithms and misuse of children's likeness, which are outside the rubric's scope; 'never gets out of control' and 'dangerous potential' are not tied to any catastrophic consequence."
+    },
+    {
+      "date": "2026-06-18",
+      "venue": "Press release on Senate Judiciary Committee passage of the NO FAKES Act",
+      "quote": "With artificial intelligence advancing at a rapid pace, it is becoming harder for people to know what is real and what is not.",
+      "context": "She was applauding committee passage of a bill against unauthorized AI-generated replicas of a person's voice or likeness.",
+      "source_label": "Senate press release",
+      "url": "https://www.moody.senate.gov/press-releases/video-senator-moody-advances-no-fakes-act-out-of-committee-to-protect-americans-from-deceptive-ai/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The statement is about deepfakes and scams, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; her data center bill support is about electricity costs, which does not count.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development. No source seen shows her co-sponsoring the Ban Artificial Superintelligence Act, which includes a pause.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "Not a signer of the 23 September 2026 letter urging AI talks with China (per the verified signer list); the only related remark found is that the US must 'win the AI race against China', which is not a statement against talks.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Original cosponsor of the NO FAKES Act (unauthorized AI replicas of voice and likeness), advanced by the Senate Judiciary Committee in June 2026, according to her office.",
+      "Senate press release, 2026-06-18",
+      "https://www.moody.senate.gov/press-releases/video-senator-moody-advances-no-fakes-act-out-of-committee-to-protect-americans-from-deceptive-ai/"
+    ],
+    [
+      "Cosponsor of the Ratepayer Protection Act (Sen. Husted) on electricity costs from new data centers, according to her office.",
+      "Senate press release, 2026-09-25",
+      "https://www.moody.senate.gov/press-releases/senator-moody-cosponsors-legislation-to-protect-ratepayers-from-energy-consuming-data-centers/"
+    ],
+    [
+      "Questioned witnesses at a Senate Homeland Security subcommittee hearing on AI threats to children and seniors on 30 September 2026.",
+      "Senate press release, 2026-10-01",
+      "https://www.moody.senate.gov/press-releases/video-in-homeland-security-subcommittee-senator-moody-questions-witnesses-on-potential-threats-posed-to-americas-children-and-seniors-from-ai/"
+    ],
+    [
+      "Introduced S. 4067, the Land Grant Research Prioritization Act of 2026, with Sens. Rick Scott, Ossoff and Warnock; it would fund farm technology research including AI in agriculture, according to her office (not about AI risk).",
+      "Senate press release, 2026-03-25",
+      "https://www.moody.senate.gov/press-releases/news-release-senator-moody-colleagues-introduce-bipartisan-legislation-to-strengthen-florida-agriculture-by-supporting-new-farming-technology-to-lower-costs-and-increase-efficiency/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI remarks found concern scams against seniors, deepfakes, children's online safety and data center electricity costs. Nothing found acknowledges or dismisses catastrophic risk from AI.",
+  "notes": "Eight web searches ran on 11 November 2026 (the six required, one on the Ban Artificial Superintelligence Act, one to check a misattribution); none was refused. They turned up no statement by her on superintelligence, extinction or existential risk, a pause or slowdown of AI development, or AI talks with China; the superintelligence, extinction and pause searches returned no result mentioning her at all. The two statements and first three record items are carried over from the earlier run, which read them on moody.senate.gov; I did not reopen those three pages this time. MISATTRIBUTION TO AVOID: a completeaitraining.com article dated 7 June 2026 says 'Florida AG Ashley Moody is suing OpenAI' and attributes to her the words 'OpenAI and Altman ignored internal and external safety warnings, put children at great risk'. This is wrong: search results summarising the Associated Press report of 1 June 2026 (seen in the search summary, not opened) attribute the lawsuit and those words to Attorney General James Uthmeier; Moody left that office for the Senate in January 2025. Not used. Ban Artificial Superintelligence Act: coverage opened (Common Dreams; Forkast, 25 September 2026) names only Sen. Sanders and Rep. Casar, plus Rep. Ocasio-Cortez and nine unnamed House Democrats; Moody is not mentioned and no source shows her as a cosponsor. The official cosponsor list was not checked (congress.gov refused the page in the earlier run; the Akin Gump tracker page returned error 403). She is not on the verified signer list of the 23 September 2026 China letter. The 1 October 2026 quote is a boundary case: 'ensure it never gets out of control' could be read as general concern about AI (level C), but the surrounding sentences name only scams, addictive algorithms and children's likeness, so it is graded D. Releases opened this time that mention AI only in unattributed background text, so left out of statements: 'Works to Protect Floridians Online' (2026-10-20, her quote does not mention AI), seniors scams release (2025-12-12, 'generative AI and voice deepfakes'), and the Land Grant bill release (2026-03-25). Also left out as before: Kids Online Safety Act release (2025-06-17) and Air Force Blue Horizons release (2026-09-21). Pre-2025 material found (as Florida Attorney General she joined 53 other attorneys general in 2023 asking Congress to study AI and child exploitation) is before the 1 January 2025 cutoff and outside scope. The Florida Politics article on her support for local control over data center siting (https://floridapolitics.com/archives/817705-ashley-moody-backs-local-control-on-data-center-question/) could not be opened (error 402, payment required). No interviews, floor speeches or hearing transcripts surfaced in the searches."
+}

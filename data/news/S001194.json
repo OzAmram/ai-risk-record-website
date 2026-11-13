@@ -1,0 +1,189 @@
+{
+ "bioguide": "S001194",
+ "member": "Brian Schatz",
+ "searches": [
+  "Brian Schatz superintelligence AI",
+  "Schatz artificial intelligence risk (restricted to schatz.senate.gov)",
+  "Senator Brian Schatz AI \"extinction\" OR \"existential risk\"",
+  "Brian Schatz AI pause OR slowdown OR moratorium 2026",
+  "Brian Schatz AI China agreement OR treaty OR talks",
+  "\"Schatz\" \"AI safety\" senator",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-29",
+   "venue": "Honolulu Civil Beat interview (published 5 October 2026)",
+   "quote": "I think the risk is acute. It’s our obligation not to quibble with someone’s phrasing, but to try to reduce the risk of something really terrible happening. I don’t know if it’s a 10% chance or a 2% chance, but I’m not really willing to tolerate that level of catastrophic risk.",
+   "context": "He was asked where he falls between people who warn that AI could end humanity and President Trump, who calls that narrative a hoax.",
+   "source_label": "Honolulu Civil Beat",
+   "url": "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says in his own words that AI carries an acute catastrophic risk; the question was about AI ending humanity, but his answer does not itself say extinction, so it sits between A and B."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Honolulu Civil Beat interview (published 5 October 2026)",
+   "quote": "My hope is that this all is able to pass before a catastrophic event because I think it will be easier to pass a bill after a catastrophic event. Again, these systems are quite dangerous. The problem with a catastrophic event in the AI space is that it may remain ongoing.",
+   "context": "He was asked what it will take for Congress to pass AI safety legislation.",
+   "source_label": "Honolulu Civil Beat",
+   "url": "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "He says AI systems are dangerous and could cause a catastrophic event that keeps going, without an extinction framing."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Honolulu Civil Beat interview (published 5 October 2026)",
+   "quote": "These things are escaping human control prior to that, and so we need third-party testing from the very, very beginning.",
+   "context": "He was asked what specific AI guardrails are needed and argued that testing only before public release is too late.",
+   "source_label": "Honolulu Civil Beat",
+   "url": "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He says AI systems are escaping human control but names no catastrophic consequence in this passage."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Honolulu Civil Beat interview (published 5 October 2026)",
+   "quote": "But I think AI escaping human control has lots of concerning implications for anybody who depends on, for instance, their utilities, which all sit on digital infrastructure.",
+   "context": "He was asked why people in Hawaii should care about AI safety, and went on to describe a cyber attack on internet, water or electricity.",
+   "source_label": "Honolulu Civil Beat",
+   "url": "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He names a serious threat to public safety from AI escaping control (utilities and infrastructure), short of mass casualties."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Honolulu Civil Beat interview (published 5 October 2026)",
+   "quote": "But it is weird that a technology that is comparable to the nuclear power industry in terms of its potential for harm has nothing like a Nuclear Regulatory Commission, has nothing like a U.S. Department of Energy, has really no federal oversight.",
+   "context": "He was answering Sen. Cruz's argument that guardrails could stifle innovation.",
+   "source_label": "Honolulu Civil Beat",
+   "url": "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "He compares AI's potential for harm to nuclear power, which acknowledges serious risk in general terms."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Senate floor remarks, as quoted by Honolulu Civil Beat",
+   "quote": "something really horrifying happening to the people of the United States of America.",
+   "context": "On the Senate floor he urged colleagues to pass the Artificial Intelligence Risk Management and Security Act quickly; this is a fragment quoted by the newspaper, not the full sentence.",
+   "source_label": "Honolulu Civil Beat",
+   "url": "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "unsure"
+   ],
+   "reason": "A general warning of serious harm from AI; only a fragment of the floor remark is available, so the full sentence was not checked."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Senate press release",
+   "quote": "Our bill is about making sure humans remain in control of AI models and preventing future breaches with rigorous standards, testing, and oversight. Immediate risk requires immediate action.",
+   "context": "Announcing that he and Sen. Warner would go to the Senate floor to demand passage of the Artificial Intelligence Risk Management and Security Act of 2026.",
+   "source_label": "Schatz Senate press release",
+   "url": "https://www.schatz.senate.gov/news/press-releases/schatz-warner-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "He frames the bill as keeping humans in control of AI, but the only harm he names here is hacking and breaches, so this sits between C and D."
+  },
+  {
+   "date": "2025-12-12",
+   "venue": "Letter to eight AI companies, signed with Sens. Britt, Lankford and Coons",
+   "quote": "In particular, companies have disclosed how advanced models may pose misuse risks in areas including cybersecurity and biosecurity.",
+   "context": "A letter asking AI companies to commit to timely and consistent public safety disclosures about their models.",
+   "source_label": "Schatz Senate press release",
+   "url": "https://www.schatz.senate.gov/news/press-releases/schatz-britt-colleagues-press-ai-companies-to-commit-to-timely-consistent-safety-disclosures-on-models",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "relayed_warning"
+   ],
+   "reason": "The letter relays companies' own disclosures of biosecurity and cybersecurity misuse risks in general terms."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI progress; he calls for mandatory testing and oversight, not a slowdown.",
+   "sources": [
+    [
+     "Honolulu Civil Beat",
+     "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause. The 'moratorium' he opposes is the federal block on state AI laws, which is a different thing.",
+   "sources": [
+    [
+     "Schatz Senate press release",
+     "https://www.schatz.senate.gov/news/press-releases/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "He is not among the 17 signers of the 23 September 2026 letter urging AI talks with China, and no statement by him on such an agreement was found.",
+   "sources": [
+    [
+     "Van Hollen Senate press release",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Lead sponsor, with Sens. Warner and Kim, of the Artificial Intelligence Risk Management and Security Act of 2026, which would create an AI Safety Board in the Commerce Department, require frontier developers to give it model access 45 days before release, and names risks including evading developer control and help with chemical, biological, radiological or nuclear weapons.",
+   "Schatz Senate press release, 2026-09-24",
+   "https://www.schatz.senate.gov/news/press-releases/schatz-warner-to-take-to-senate-floor-to-demand-passage-of-new-ai-security-legislation"
+  ],
+  [
+   "Sought unanimous consent on the Senate floor to pass that bill on 29 September 2026; Sen. Cruz objected.",
+   "Honolulu Civil Beat, 2026-10-05",
+   "https://www.civilbeat.org/2026/10/schatz-pushes-ai-oversight-as-tech-goes-rogue-humans-in-control/"
+  ],
+  [
+   "Introduced the GUARDRAILS Act to repeal President Trump's executive order aimed at blocking state AI laws, with Sens. Coons, Murphy, Duckworth, Blunt Rochester and Kim.",
+   "Schatz Senate press release, 2026-03-27",
+   "https://www.schatz.senate.gov/news/press-releases/schatz-colleagues-introduce-legislation-to-repeal-trumps-ai-moratorium"
+  ],
+  [
+   "Signed a letter with Sens. Britt, Lankford and Coons asking eight AI companies for timely, consistent safety disclosures, including on national security, cybersecurity and biosecurity risks.",
+   "Schatz Senate press release, 2025-12-12",
+   "https://www.schatz.senate.gov/news/press-releases/schatz-britt-colleagues-press-ai-companies-to-commit-to-timely-consistent-safety-disclosures-on-models"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In a Civil Beat interview he said the risk from AI is acute and that he is not willing to tolerate a 2% to 10% chance of catastrophe, and he warned of a catastrophic AI event. He did not himself say extinction or permanent loss of control, though he was answering a question about AI ending humanity.",
+ "notes": "Seven web searches ran, none refused. Pages opened and quotes checked against the page text: the Civil Beat interview, and three schatz.senate.gov press releases (24 Sep 2026, 27 Mar 2026, 12 Dec 2025). Reviewer decision needed on the first statement: the interviewer asked about warnings that AI 'could end humanity' and he replied that it is 'our obligation not to quibble with someone's phrasing'; under ruling 2 this could be read as endorsing an extinction warning (level A). I graded it B with the boundary flag because his own words say 'catastrophic risk' and 'something really terrible', not extinction. The Civil Beat interview date is taken as 29 September 2026 because he refers to that day's floor action as 'today'; the article is dated 3 and 5 October 2026 and says the interview was edited for length and clarity. The floor-remark statement is a fragment as quoted by Civil Beat; the Congressional Record was not checked. China letter: he is not on the verified list of signers. One search summary claimed a Kelly press release listed him as a signer; I opened it and it is an unrelated 30 July 2025 joint statement on export-control concessions to Beijing, so it was not used. Ban Artificial Superintelligence Act: no source found showing him as a cosponsor; congress.gov was not checked, so this is 'not shown', not 'confirmed absent'. Left out as paraphrase or too fragmentary: Civil Beat's own summary that he 'said that regulation is needed to reduce risk of catastrophe' and that he was encouraged by willingness 'to protect humanity' (the reporter's words); an Implicator report (30 Sep 2026, https://www.implicator.ai/cruz-blocks-ai-bill-requiring-45-day-model-access-as-trump-backs-voluntary-accord.md) that he told reporters the Senate should return if a 'catastrophic event' occurs before the election. Left out as level D: his GUARDRAILS Act release quote about Americans being 'vulnerable to its profound risks' (27 Mar 2026), and the 24 Sep 2026 release sentence about 'AI models going rogue and hacking systems'. Not opened: his statement on the Trump order on state AI laws, a Spectrum News story of 1 July 2026 on AI transparency, and his chatbot child-safety bill with Sen. Cruz (all appear to be outside catastrophic risk). The Civil Beat piece refers to events I could not independently verify (a 'Hugging Face incident')."
+}

@@ -1,0 +1,97 @@
+{
+ "bioguide": "P000614",
+ "member": "Chris Pappas",
+ "searches": [
+  "nhpr.org site search: Pappas artificial intelligence",
+  "nhpr.org site search: \"Pappas\" \"artificial intelligence\" (sorted by date)",
+  "nhpr.org site search: Pappas Sununu AI debate",
+  "wmur.com site search: Pappas artificial intelligence",
+  "wmur.com site search: Pappas AI",
+  "wmur.com site search: Pappas Sununu debate AI guardrails",
+  "concordmonitor.com site search: Pappas artificial intelligence (no results)",
+  "pappas.house.gov press release listing, pages 1 and 2 (29 September to 29 October 2026 and 17 to 28 September 2026), read for AI items",
+  "chrispappas.org home, priorities and news (first page) read for AI items"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-09",
+   "venue": "NHPR Morning Edition interview with Rick Ganley (transcript)",
+   "quote": "We have heard deeply concerning reports from people who are involved in the AI space. Designers, technicians, who are coming out and saying that there's potentially a 10% chance that this could obliterate humanity. Who wants to take that chance?",
+   "context": "Asked where he stands on AI regulation, Pappas explained why he wants Congress to pass safety rules for AI.",
+   "source_label": "New Hampshire Public Radio",
+   "url": "https://www.nhpr.org/2026-10-09/chris-pappas-nh-newhampshire-senate-2026-midterms-housing-affordability-ai-election",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "He relays AI workers' warning that AI could obliterate humanity, calls it deeply concerning and asks who wants to take that chance, which endorses a threat-to-humanity warning (rulings 1 and 2)."
+  },
+  {
+   "date": "2026-10-09",
+   "venue": "NHPR Morning Edition interview with Rick Ganley (transcript)",
+   "quote": "So we can't wait until the genie's out of the bottle. Congress needs to act to set up guardrails that will regulate big tech, that will regulate AI, that builds expertise within the federal government to ensure that there's an approval process before models are made public",
+   "context": "Continuing the same answer, Pappas listed the federal rules he wants, including approval of AI models before release, minimum safety standards and company liability.",
+   "source_label": "New Hampshire Public Radio",
+   "url": "https://www.nhpr.org/2026-10-09/chris-pappas-nh-newhampshire-senate-2026-midterms-housing-affordability-ai-election",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "On its own this passage treats advanced AI as a serious risk needing rules before release, without naming a catastrophic harm."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found calling for slowing AI capability progress for safety reasons. NHPR reports (as a paraphrase) that he supports a state-level moratorium on data center construction; his own remarks on data centers are about electricity costs and local control, which does not count under the rubric.",
+   "sources": [
+    [
+     "New Hampshire Public Radio, 30 October 2026",
+     "https://www.nhpr.org/politics/2026-10-30/where-do-nh-candidates-stand-on-ai-and-data-centers-election-2026-midterms"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a halt to frontier AI development. He called for a federal approval process before AI models are made public, which is not a pause.",
+   "sources": [
+    [
+     "New Hampshire Public Radio, 9 October 2026",
+     "https://www.nhpr.org/2026-10-09/chris-pappas-nh-newhampshire-senate-2026-midterms-housing-affordability-ai-election"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on an agreement or talks with China on AI. NHPR reports he said in a 13 October 2026 debate that the US should \"outcompete China\", which is not a statement against coordination.",
+   "sources": [
+    [
+     "New Hampshire Public Radio, 30 October 2026",
+     "https://www.nhpr.org/politics/2026-10-30/where-do-nh-candidates-stand-on-ai-and-data-centers-election-2026-midterms"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Helped introduce the Reverse Big Ugly Tax Breaks for Data Centers Act in the House, a bill about tax breaks for data center developers (not about catastrophic AI risk).",
+   "Pappas House press release, 17 September 2026",
+   "https://pappas.house.gov/media/press-releases/pappas-helps-introduce-new-legislation-to-stop-tax-giveaways-for-data-centers"
+  ],
+  [
+   "Signed a bipartisan letter to Treasury Secretary Scott Bessent raising concerns about Meta using a research tax credit for data centers (not about catastrophic AI risk).",
+   "Pappas House press release, 16 October 2026",
+   "https://pappas.house.gov/media/press-releases/pappas-joins-bipartisan-letter-raising-concerns-about-meta-s-use-of-research-tax-credit-for-data-centers"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In an NHPR interview published 9 October 2026 he cited AI workers' warning of a possible 10% chance that AI could obliterate humanity, called the reports deeply concerning, asked who wants to take that chance, and said Congress cannot wait to act. This is a single statement, a relayed warning that he endorses, so the grade rests on one source.",
+ "notes": "Web search was refused for the whole run (shared budget used up), so none of the six required web searches ran: superintelligence; extinction or existential risk; pause/slowdown/moratorium; China agreement or treaty; \"Chris Pappas\" \"AI safety\"; and the search restricted to pappas.house.gov. I used news sites' own search pages and read pages directly instead, so coverage is thin and limited to NHPR, WMUR, the Concord Monitor search, two pages of House press releases and the campaign site. Both quotes were checked character for character against the NHPR page's HTML; NHPR says the transcript was 'lightly edited for clarity'. The date given is the publication date; the interview may have been recorded a little earlier. 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: no source found showing he signed or co-sponsored either (he is a House member, and the letter was from senators); not verified either way because the searches could not run. Paraphrases left out of statements: NHPR (30 October 2026) reports he supports a state-level data center moratorium and said in the 13 October debate that the US should embrace the positive aspects of AI and \"outcompete China\" (only those two words are quoted). His 28 October 2026 WMUR debate answer on federal AI guardrails exists only as video (https://www.wmur.com/article/new-hampshire-us-senate-debate-guardrails-for-ai/74278823) with no transcript, so it was not reviewed; a reviewer should watch it. Pages that could not be opened: pappas.house.gov site search (403), congress.gov member page (403), govtrack.us (403), newhampshirebulletin.com search (403), unionleader.com search (rate-limited). His House record on AI bills was therefore not checked. The 17 September 2026 press release includes his remark \"The incentives are accelerating AI data center development.\", which is level D and left out."
+}

@@ -1,0 +1,79 @@
+{
+ "bioguide": "ELECT-KS-HAMILTON",
+ "member": "Adam Hamilton",
+ "searches": [
+  "KCUR site search (kcur.org/search): Adam Hamilton artificial intelligence",
+  "KCUR site search (kcur.org/search): Hamilton \"existential threat\" AI",
+  "Campaign site opened directly: hamiltonforkansas.com and hamiltonforkansas.com/issues (checked for AI, data centers, China)",
+  "Personal site opened directly: adamhamilton.com",
+  "Wikipedia pages opened directly: 2026 United States Senate election in Kansas; Adam Hamilton (American politician), then the debate, interview and questionnaire links cited there"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-21",
+   "venue": "Final US Senate debate with Sen. Roger Marshall, hosted by FOX4 television",
+   "quote": "This is a potential existential threat to the human race",
+   "context": "The candidates were asked about regulating artificial intelligence; Marshall had called for a \"light touch\" and Hamilton was responding.",
+   "source_label": "KCUR / Kansas News Service",
+   "url": "https://www.kcur.org/politics-elections-and-government/2026-10-21/control-of-the-senate-goes-through-kansas-marshall-and-hamilton-clash-at-last-debate",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "He says in his own words that AI is a potential existential threat to the human race, which is level A under ruling 1; the article's AI section makes clear that \"This\" refers to artificial intelligence, though the quote itself does not name it."
+  },
+  {
+   "date": "2026-10-21",
+   "venue": "Final US Senate debate with Sen. Roger Marshall, hosted by FOX4 television",
+   "quote": "We can’t just go with a light touch and hope everybody does their very best.",
+   "context": "The sentence that follows the quote above in the same article, rejecting Marshall's \"light touch\" approach to AI regulation.",
+   "source_label": "KCUR / Kansas News Service",
+   "url": "https://www.kcur.org/politics-elections-and-government/2026-10-21/control-of-the-senate-goes-through-kansas-marshall-and-hamilton-clash-at-last-debate",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "On its own this is a view about how much to regulate AI and names no catastrophic harm; included because it is the policy half of his most substantial AI remark."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing AI development. His campaign site wants data centers to pay their own electricity costs, which is about bills, not risks from AI itself.",
+   "sources": [
+    [
+     "Hamilton campaign issues page",
+     "https://hamiltonforkansas.com/issues"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a pause on frontier AI. KCUR reported he \"didn't have any specific policies he'd push for\" on AI.",
+   "sources": [
+    [
+     "KCUR, 21 October 2026",
+     "https://www.kcur.org/politics-elections-and-government/2026-10-21/control-of-the-senate-goes-through-kansas-marshall-and-hamilton-clash-at-last-debate"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on an agreement or talks with China about AI.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Campaign issues page (undated) proposes requiring data centers to pay their fair share of electricity costs, protecting workers from AI-only employment decisions (it names the No Robot Bosses Act), banning algorithmic price-fixing, and says AI is worsening voice-cloning scams against seniors; none of this concerns catastrophic risk.",
+   "Hamilton for Kansas issues page, undated, opened 11 November 2026",
+   "https://hamiltonforkansas.com/issues"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "At the 21 October 2026 debate he called AI \"a potential existential threat to the human race\", as quoted by KCUR. This rests on one quoted sentence from one news report; no other statement on catastrophic AI risk was found.",
+ "notes": "SEARCH COVERAGE WAS LIMITED. All six general web searches were refused (shared search budget used up), so none of these ran: \"Adam Hamilton Kansas Senate artificial intelligence\"; \"Adam Hamilton\" Senate Kansas superintelligence; \"Adam Hamilton\" Kansas \"AI safety\"; \"Adam Hamilton\" pastor AI extinction OR \"existential risk\" sermon; \"Adam Hamilton\" Senate AI pause OR moratorium OR slowdown data centers Kansas; \"Adam Hamilton\" Senate candidate China AI agreement OR treaty. The brief's required searches on superintelligence, extinction, pause, China agreement and \"AI safety\" were therefore not done; only direct page visits and KCUR's own site search were possible. Pages I could not open: Politico full interview transcript of 5 October 2026 (https://www.politico.com/blogs/politico-press/2026/10/05/full-transcript-kansas-democratic-senate-nominee-adam-hamilton-01106808); Topeka Capital-Journal report on the 12 September State Fair debate (cjonline.com); KSNT live updates of the 21 October debate (403); Kansas Reflector search (403); FOX4 search (403); Kansas City Star search; Church of the Resurrection site search (404). The two debate videos on YouTube (watch?v=pkv7_qEJltc and watch?v=GhQmoyhIWtE) gave no transcript. No sermons or writings were checked, so his pre-campaign statements on AI as a pastor are unknown. Pages opened that had nothing by Hamilton on AI: CBS News debate report (22 October), Emporia Gazette \"Meet the candidates\" (10 October), KWCH State Fair debate report (10 September), KCUR interviews of 10 June and 26 October, KCUR 19 October issues summary, his Wikipedia article. Quote check needed: I read the KCUR article through a page-fetching tool that relays text via a small model, which returned the AI section sentence by sentence; a reviewer should confirm both quotes character for character on the page (the second uses a curly apostrophe as relayed) and ideally check the debate video for his full answer. In the article the sentence before the level A quote is reporter paraphrase about AI regulation, so \"This\" refers to AI by context only. Paraphrases left out of statements: KCUR (21 October) reported that Hamilton \"doesn't want to overregulate it\" but wants to ensure AI \"won't harm future generations\", would like to work with AI experts on regulations, and had no specific policies to push; KCUR (16 October, https://www.kcur.org/politics-elections-and-government/2026-10-16/marshall-hamilton-everyday-issues) reported that both candidates largely agree data centers need to be regulated. Campaign issues page lines are in `record` rather than `statements` because the page is undated; a direct download for exact text was blocked (403), so only short fragments were confirmed. 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: he was a candidate, not a senator, and I found no source showing he endorsed either; this was not searched for specifically because search was unavailable."
+}

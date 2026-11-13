@@ -1,0 +1,202 @@
+{
+ "bioguide": "W000817",
+ "member": "Elizabeth Warren",
+ "searches": [
+  "Elizabeth Warren artificial intelligence (restricted to warren.senate.gov)",
+  "Elizabeth Warren superintelligence",
+  "Elizabeth Warren AI \"extinction\" OR \"existential risk\"",
+  "Elizabeth Warren AI pause OR slowdown OR moratorium",
+  "Elizabeth Warren China AI agreement OR treaty OR talks",
+  "Elizabeth Warren \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Warren"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-27",
+   "venue": "Letter to Anthropic chief executive Dario Amodei about its planned stock market listing",
+   "quote": "I am deeply troubled by the risks raised by Anthropic itself and question how it can act in a manner consistent with its stated public benefit and related fiduciary duties under Delaware law without mitigating these risks to humanity.",
+   "context": "Warren, as top Democrat on the Senate Banking Committee, was responding to Anthropic's stock filing, which said its AI models could \"pose catastrophic or existential risks to humanity\".",
+   "source_label": "Senate Banking Committee (minority) letter, PDF",
+   "url": "https://www.banking.senate.gov/imo/media/doc/2026.10.27%20Letter%20to%20Anthropic%20re%20IPO.pdf",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "She relays Anthropic's warning of existential risks to humanity and endorses it in her own words (\"deeply troubled\", \"these risks to humanity\"); boundary because the risk claim originates with the company and her focus is the stock listing."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump before his summit with Xi Jinping",
+   "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+   "context": "The letter compares AI to nuclear arms control and urges direct talks with China on AI safety.",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter"
+   ],
+   "reason": "A letter she signed calls the stakes of advanced AI existential and describes it as a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump before his summit with Xi Jinping",
+   "quote": "to develop a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "The letter urges Trump to negotiate an AI agreement with China; this passage is the end of a longer sentence that begins \"America leads in AI innovation, and we must lead the world in AI safety and international cooperation, including by working with China\".",
+   "source_label": "Sen. Van Hollen press release (full letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter"
+   ],
+   "reason": "A letter she signed says frontier AI development could enable biological weapons and activities that threaten humanity, and calls for an agreement with China to slow or pause it."
+  },
+  {
+   "date": "2026-10-27",
+   "venue": "Letter to Anthropic chief executive Dario Amodei about its planned stock market listing",
+   "quote": "In addition to the potentially catastrophic safety risks posed by Anthropic’s technology, the company’s launch into the public markets could inject extreme volatility and risk into the financial system, which threatens to undermine Americans’ economic security.",
+   "context": "Warren was turning from the safety risks disclosed in Anthropic's filing to the financial risks of its stock listing.",
+   "source_label": "Senate Banking Committee (minority) letter, PDF",
+   "url": "https://www.banking.senate.gov/imo/media/doc/2026.10.27%20Letter%20to%20Anthropic%20re%20IPO.pdf",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "In her own words she describes the safety risks of Anthropic's AI as potentially catastrophic, without extinction wording in this passage."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Press release statement",
+   "quote": "Frontier AI models are currently a dangerous technology without the safeguards needed to protect people from serious harm. We should immediately press pause on the development of advanced AI while lawmakers and regulators put systems in place to keep people safe.",
+   "context": "Warren was responding to AI industry leaders' calls to \"pace the frontier\" of AI development.",
+   "source_label": "Senate press release",
+   "url": "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-calls-for-pause-in-advanced-ai-development",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "She calls frontier AI dangerous and capable of serious harm in general terms; the harms she names later in the statement (cyberattack, economic crisis, national security disaster) are not stated as mass-casualty or loss-of-control risks."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Press conference with Senators Schumer, Kim and Slotkin",
+   "quote": "First, the United States has to address the very real risks created by increasingly powerful AI systems.",
+   "context": "Warren was calling for AI safety rules and limits on chip exports to China ahead of Xi Jinping's state visit.",
+   "source_label": "Senate Banking Committee (minority) press release",
+   "url": "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-state-visit-warren-schumer-kim-and-slotkin-call-for-ai-safety-regulations-export-controls",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "She acknowledges serious risks from increasingly powerful AI in general terms without naming a catastrophic outcome."
+  },
+  {
+   "date": "2026-10-05",
+   "venue": "Remarks to Fox News Digital on Capitol Hill",
+   "quote": "What worries me about that prediction is that the Republicans who are in control of the House and the Senate say ‘everybody go home and let AI do whatever they want to do,’",
+   "context": "Senators were asked about Bill Gates' warning that AI could cause \"a billion deaths\".",
+   "source_label": "Fox News",
+   "url": "https://www.foxnews.com/politics/gop-senators-skeptical-bill-gates-fearmongering-ai-warning-democrats-sound-alarm",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "She responds to Gates' warning by criticising Republican inaction and does not dismiss it, but does not state the warning as her own view."
+  },
+  {
+   "date": "2026-09-22",
+   "venue": "Letter to President Trump before his summit with Xi Jinping",
+   "quote": "to use your upcoming talks to insist that China impose restrictions to prevent the most dangerous uses of advanced AI",
+   "context": "Warren asked Trump to keep the Nvidia chief executive out of the talks with China; this passage is the end of a longer sentence.",
+   "source_label": "Senate Banking Committee (minority) press release",
+   "url": "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-visit-warren-presses-trump-to-confirm-nvidia-ceo-will-not-be-at-the-negotiating-table",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "She refers to dangerous uses of advanced AI in general terms without naming a harm; it sits between general acknowledgment and no acknowledgment."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "In her own 16 September 2026 statement she called for an immediate pause on advanced AI development until safeguards are in place, which counts as a slowdown for safety reasons; she also signed the 23 September 2026 letter calling for an agreement that would slow down frontier AI development.",
+   "sources": [
+    [
+     "Senate press release, 16 September 2026",
+     "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-calls-for-pause-in-advanced-ai-development"
+    ],
+    [
+     "Sen. Van Hollen press release, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "yes",
+   "note": "Her own statement: \"We should immediately press pause on the development of advanced AI while lawmakers and regulators put systems in place to keep people safe.\" Reviewer to decide whether a pause lasting until safety rules exist should instead be \"mixed\" under the rubric; I read it as an immediate, not conditional, pause.",
+   "sources": [
+    [
+     "Senate press release, 16 September 2026",
+     "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-calls-for-pause-in-advanced-ai-development"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter urging a formal agreement with China that would slow down, and potentially mutually pause, frontier AI development. Her own 22 September letter separately asked Trump to insist that China restrict the most dangerous uses of advanced AI.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Senate Banking Committee (minority) press release, 22 September 2026",
+     "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-visit-warren-presses-trump-to-confirm-nvidia-ceo-will-not-be-at-the-negotiating-table"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found for or against a ban on self-improving AI. Her Anthropic letter quotes the company's warning about recursive self-improvement but does not call for a ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Released a statement calling for an immediate pause on the development of advanced AI until lawmakers and regulators put safeguards in place.",
+   "Senate press release, 16 September 2026",
+   "https://www.warren.senate.gov/newsroom/press-releases/senator-warren-calls-for-pause-in-advanced-ai-development"
+  ],
+  [
+   "Wrote to President Trump asking him to keep Nvidia's chief executive out of talks with Xi Jinping and to insist that China restrict the most dangerous uses of advanced AI.",
+   "Senate Banking Committee (minority) press release, 22 September 2026",
+   "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-visit-warren-presses-trump-to-confirm-nvidia-ceo-will-not-be-at-the-negotiating-table"
+  ],
+  [
+   "Signed the letter from 17 Senate Democrats urging Trump to negotiate an AI agreement with China, including a possible mutual pause in frontier AI development.",
+   "Sen. Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Held a press conference with Senators Schumer, Kim and Slotkin urging passage of the AI OVERWATCH Act, MATCH Act and Chip Security Act (limits on chip exports to China) and calling for AI safety rules.",
+   "Senate Banking Committee (minority) press release, 23 September 2026",
+   "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-state-visit-warren-schumer-kim-and-slotkin-call-for-ai-safety-regulations-export-controls"
+  ],
+  [
+   "Wrote to Anthropic's chief executive questioning its planned stock listing given the company's own disclosure of catastrophic or existential risks to humanity, with questions on existential risk and biological weapons.",
+   "Senate Banking Committee (minority) letter, 27 October 2026",
+   "https://www.banking.senate.gov/imo/media/doc/2026.10.27%20Letter%20to%20Anthropic%20re%20IPO.pdf"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The strongest evidence is the 23 September 2026 letter she co-signed, which calls the stakes of AI existential and a threat to humanity, and her own 27 October 2026 letter to Anthropic, which says she is deeply troubled by the company's disclosed \"risks to humanity\". Her own stand-alone statements (the pause statement and press conference) are level C, so a reviewer who discounts co-signed and relayed wording might settle on B.",
+ "notes": "Seven web searches ran, none refused; all source pages were then opened directly and every quote was checked by program as an exact continuous passage of the downloaded page. Quotes from the Anthropic letter come from text extracted from the PDF, with line breaks replaced by spaces. Two quotes (second co-signed letter quote and the 22 September letter quote) are the ends of longer sentences, cut only to fit 300 characters. The Fox News article is dated 5 October 2026 and does not give the day Warren spoke or the exact question, so the statement date is the article date. Ban Artificial Superintelligence Act: I found no source listing Warren as a co-sponsor; search-result summaries of an Axios article of 16 September 2026 (https://www.axios.com/2026/09/16/warren-ai-pause, which I could not open: error 403) say she backed a pause but stopped short of endorsing a superintelligence ban. That is a paraphrase, so it is not in statements. Not opened, seen only in search results: a CNBC interview reported by Stocktwits in which she called for a national moratorium on AI data centers until they cover their full costs (cost-motivated, so not counted as a slowdown); a November 2025 letter with Sen. Markey opposing a federal moratorium on state AI regulation; a TIME op-ed on taxing AI; an April 2026 speech on financial risks of an AI crash. These are outside the catastrophic-risk scope (level D) and were left out. The search concentrated on 2026; 2025 material found was about competition, chip exports and state regulation only."
+}

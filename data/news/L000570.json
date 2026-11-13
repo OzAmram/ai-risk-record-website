@@ -1,0 +1,210 @@
+{
+ "bioguide": "L000570",
+ "member": "Sen. Ben Ray Luján (D-NM)",
+ "searches": [
+  "Luján artificial intelligence (restricted to lujan.senate.gov)",
+  "Senator Ben Ray Luján superintelligence AI",
+  "Ben Ray Luján AI \"extinction\" OR \"existential risk\"",
+  "Ben Ray Luján AI pause OR slowdown OR moratorium",
+  "Ben Ray Luján China AI agreement OR treaty OR talks",
+  "\"Ben Ray Luján\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-24",
+   "venue": "Letter from Luján alone to Senate leaders Thune and Schumer (dated 24 September 2026, released 28 September)",
+   "quote": "Researchers and leaders at top AI laboratories have also publicly raised the possibility of catastrophic outcomes, suggesting there’s a 10% to 20% chance of existential risks associated with these platforms.",
+   "context": "Luján was asking Senate leaders to create a bipartisan select committee on AI and listed the warnings that he said justify it.",
+   "source_label": "Luján Senate press release",
+   "url": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-calls-on-senate-leadership-to-establish-bipartisan-select-committee-on-ai/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning",
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "He relays experts' warning of existential risk and in the next sentence says these warnings deserve full attention and that Congress should listen, while adding that Congress need not assume any prediction is correct, so the endorsement is qualified (between A and C)."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Letter from Luján alone to Senate leaders Thune and Schumer (dated 24 September 2026, released 28 September)",
+   "quote": "At the same time, leading AI researchers and developers are publicly warning that this technology is advancing beyond our ability to reliably understand or control it.",
+   "context": "Same letter, describing why Congress needs a dedicated AI committee.",
+   "source_label": "Luján Senate press release",
+   "url": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-calls-on-senate-leadership-to-establish-bipartisan-select-committee-on-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "Relays a loss-of-control warning and treats it as deserving serious examination, without saying the loss would be permanent."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Letter from Luján alone to Senate leaders Thune and Schumer (dated 24 September 2026, released 28 September)",
+   "quote": "Just last week, Anthropic shared their threat intelligence report documenting AI-enabled cyber operations, influence operations, surveillance, biological misuse, conventional weapons development, and increasingly autonomous attacks.",
+   "context": "Same letter; the preceding sentence, in his own words, says the threat landscape continues to broaden.",
+   "source_label": "Luján Senate press release",
+   "url": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-calls-on-senate-leadership-to-establish-bipartisan-select-committee-on-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "Cites a report of AI-enabled biological misuse and weapons development as evidence of a broadening threat, which is catastrophic-type misuse without extinction framing; the harms are listed rather than described as mass-casualty, so it sits near C."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Letter from Luján alone to Senate leaders Thune and Schumer (dated 24 September 2026, released 28 September)",
+   "quote": "AI is accelerating faster than our existing legislative processes, committee structures, and technical capacity can consistently evaluate and respond. The recent news of increasing incidents makes it clear that this is no longer a theoretical concern.",
+   "context": "Same letter; this passage is also the quote attributed to him in the press release.",
+   "source_label": "Luján Senate press release",
+   "url": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-calls-on-senate-leadership-to-establish-bipartisan-select-committee-on-ai/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "His own words acknowledging serious risk from advancing AI in general terms."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+   "context": "The senators urged Trump to negotiate AI guardrails with Xi Jinping at the summit planned for 24 September 2026.",
+   "source_label": "Van Hollen Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter he signed says AI-enabled activities threaten humanity as a whole, which is level A under ruling 1."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "Same letter, comparing AI talks with China to Cold War nuclear arms control.",
+   "source_label": "Van Hollen Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter he signed calls AI a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed by 17 senators",
+   "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+   "context": "Same letter; a later sentence says \"We should take these warnings seriously.\"",
+   "source_label": "Van Hollen Senate press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "relayed_warning",
+    "bill_or_action"
+   ],
+   "reason": "Relays and endorses a loss-of-control warning without extinction framing in this passage."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "Signed the 23 September 2026 letter calling for a formal agreement with China that would slow down frontier AI development to prevent catastrophic harms; his own 24 September letter (released 28 September) also cites, approvingly, AI company employees' call to deliberately pace frontier AI development.",
+   "sources": [
+    [
+     "Van Hollen Senate press release, 2026-09-23",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Luján Senate press release, 2026-09-23",
+     "https://www.lujan.senate.gov/newsroom/press-releases/lujan-van-hollen-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi/"
+    ],
+    [
+     "Luján Senate press release, 2026-09-28",
+     "https://www.lujan.senate.gov/newsroom/press-releases/lujan-calls-on-senate-leadership-to-establish-bipartisan-select-committee-on-ai/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter he signed asks for an agreement with China that would \"potentially enact a mutual pause\" in frontier AI development; the pause is tentative and conditional on China joining. Evidence is a co-signed letter.",
+   "sources": [
+    [
+     "Van Hollen Senate press release, 2026-09-23",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Luján Senate press release, 2026-09-23",
+     "https://www.lujan.senate.gov/newsroom/press-releases/lujan-van-hollen-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "Signed the 23 September 2026 letter urging Trump to negotiate a formal agreement with China to slow down, and potentially mutually pause, frontier AI development.",
+   "sources": [
+    [
+     "Van Hollen Senate press release, 2026-09-23",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Luján Senate press release, 2026-09-23",
+     "https://www.lujan.senate.gov/newsroom/press-releases/lujan-van-hollen-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found about banning self-improving AI. The co-signed letter mentions that automation of AI research may speed up progress but does not call for a ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Wrote alone to Senate leaders Thune and Schumer (letter dated 24 September 2026, announced 28 September) urging a bipartisan Senate Select Committee on AI, citing AI safety incidents and expert warnings of existential risk.",
+   "Luján Senate press release, 2026-09-28",
+   "https://www.lujan.senate.gov/newsroom/press-releases/lujan-calls-on-senate-leadership-to-establish-bipartisan-select-committee-on-ai/"
+  ],
+  [
+   "Text of the select committee letter as signed, dated 24 September 2026.",
+   "Luján letter (PDF on his Senate site), 2026-09-24",
+   "https://www.lujan.senate.gov/wp-content/uploads/2026/09/2026.09.10-Letter-To-Senate-Leads-on-Select-Committee-on-AI_signed.pdf"
+  ],
+  [
+   "Signed the letter from 17 Senate Democrats, led by Van Hollen, urging Trump to negotiate an AI agreement with China, including a slowdown and possible mutual pause of frontier AI development.",
+   "Luján Senate press release, 2026-09-23",
+   "https://www.lujan.senate.gov/newsroom/press-releases/lujan-van-hollen-colleagues-push-trump-to-negotiate-ai-guardrails-with-xi/"
+  ],
+  [
+   "Introduced, with Blackburn, Durbin, Risch and Welch, the TEST AI Act of 2025 to create federal testbeds at the standards institute and Energy Department for evaluating AI systems.",
+   "Luján Senate press release, 2025-05-07",
+   "https://www.lujan.senate.gov/newsroom/press-releases/lujan-colleagues-introduce-bipartisan-legislation-to-improve-ai-testing-and-evaluation-systems-safeguard-americans-against-risks-2/"
+  ],
+  [
+   "As ranking member, helped lead a Commerce subcommittee hearing on AI in communications networks; his quoted remarks were about broadband and competitiveness, not catastrophic risk.",
+   "Luján Senate press release, 2026-07-30",
+   "https://www.lujan.senate.gov/newsroom/press-releases/ranking-member-lujan-leads-telecommunications-and-media-subcommittee-hearing-on-artificial-intelligence-in-communications-networks/"
+  ],
+  [
+   "With Heinrich and Rosen, wrote to Meta about antisemitic content on its platforms and in its AI models (outside this project's scope).",
+   "Luján Senate press release, 2025-12-16",
+   "https://www.lujan.senate.gov/newsroom/press-releases/lujan-heinrich-rosen-press-meta-on-dramatic-rise-in-antisemitism-on-their-social-media-platforms-and-artificial-intelligence-models/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "He signed the 23 September 2026 letter saying AI poses an existential threat and threatens humanity writ large, and the next day his own letter to Senate leaders relayed and took seriously lab leaders' estimate of a 10% to 20% chance of existential risk. The clearest A wording is from the co-signed letter; his solo letter's endorsement is qualified.",
+ "notes": "All six required web searches ran this time (11 November 2026), none refused; no further searches were made. They turned up no statement by Luján on AI risk beyond the two September 2026 letters already in the earlier file: no interview, floor speech, hearing remark or op-ed on superintelligence, extinction, a pause or China was found. The extinction search returned nothing that mentions him. Change from the earlier file: I opened the signed letter PDF on his site; it is dated September 24, 2026 (the PDF's file name says 2026.09.10 and the press release is dated 28 September), so the four solo-letter statements are now dated 2026-09-24 instead of 2026-09-28. Their quotes also match the PDF text as I read it. News coverage opened: Broadband Breakfast, 29 September 2026 (https://broadbandbreakfast.com/lujan-calls-for-bipartisan-senate-select-committee-on-ai/) reports the select committee letter, gives the same 24 September date, and quotes only short fragments of it (for example \"full attention and serious examination\"); it adds nothing new, so no statement was taken from it. Ban Artificial Superintelligence Act: no source shows he co-sponsored it. The PBS NewsHour and Al Jazeera reports of 23 September 2026 name only Sanders and Rep. Casar and do not mention Luján; neither lists co-sponsors, and congress.gov was not checked, so this is 'no evidence of co-sponsorship' rather than a confirmed no. He is also not named on Sanders's March 2026 data center moratorium announcement. Pages that could not be opened: two lujan.senate.gov short links from search results (?p=75740 and ?p=73676, error 403, contents unknown), two Durango Herald results (certificate error, contents unknown), and a cryptobriefing.com article on the select committee letter (not opened). A CyberScoop article of 14 October 2026 on an AI safety letter was opened and does not mention him. Left out as before 2025 or level D: 2023 and 2024 items (letter to the telecommunications agency on AI guardrails, the 2024 letter to OpenAI on safety practices and whistleblowers, the 2023 AI accountability bill); his 7 May 2025 TEST AI Act remarks (risks named are inaccurate or biased output and misuse by adversaries; re-read at source this run); the July 2026 hearing remarks; and releases on Grok sexual images (January 2026) and Meta data center tax credits (October 2026), still not opened. His press release list back to 28 October 2026 has nothing on AI. Carried over from the earlier run: the co-signed and solo-letter quotes were checked by program then as exact continuous passages of the downloaded page text (the first co-signed quote starts mid-sentence; the two A co-signed passages also appear on Luján's own release, re-confirmed this run). This run's page reads went through a summarising fetch tool, except the letter PDF, which I read directly. Grading judgment for review: the 10%-20% existential risk quote is a relayed warning whose endorsement is hedged ('not because Congress should assume any prediction to be correct'); I graded it A with the boundary flag, but a reviewer could reasonably make it C, which would not change the overall grade because of the co-signed letter."
+}

@@ -1,0 +1,165 @@
+{
+ "bioguide": "C001113",
+ "member": "Catherine Cortez Masto",
+ "searches": [
+  "Cortez Masto artificial intelligence AI risk (restricted to cortezmasto.senate.gov)",
+  "\"Cortez Masto\" superintelligence",
+  "\"Cortez Masto\" AI extinction OR \"existential risk\"",
+  "\"Cortez Masto\" AI pause OR slowdown OR moratorium",
+  "\"Cortez Masto\" AI China agreement OR treaty OR talks",
+  "\"Cortez Masto\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump before the summit with Xi Jinping",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large",
+   "context": "The letter urged the President to negotiate a formal agreement with China on guardrails and standards for frontier AI.",
+   "source_label": "Sen. Van Hollen press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "A letter she signed says frontier AI development could enable activities that threaten humanity writ large, including biological weapons, which is a threat-to-humanity statement under ruling 1."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter from 17 senators to President Trump before the summit with Xi Jinping",
+   "quote": "AI technology is too powerful, and its risks too many, for the U.S. and China to forgo discussions on parameters around its development and use.",
+   "context": "The letter's closing argument for direct US-China talks on AI.",
+   "source_label": "Sen. Van Hollen press release",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "Acknowledges serious risks from AI in general terms without naming a catastrophic outcome in this passage."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release statement",
+   "quote": "AI development is moving quickly and the safety risks for Americans are also increasing every day. Congress and the U.S. AI industry must take the lead to address these threats while preserving American innovation.",
+   "context": "Her own statement responding to reports of threats from rapidly developing AI, in which she called for immediate AI safety hearings.",
+   "source_label": "Sen. Cortez Masto press release",
+   "url": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "Her own words acknowledge growing safety risks from AI development in general terms, with no catastrophic outcome named."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release statement",
+   "quote": "While these tools hold immense potential, Congress has a role to play to protect Americans from AI-enabled threats ranging from cybercrime to terrorism.",
+   "context": "Same statement, on why Congress should act on frontier AI.",
+   "source_label": "Sen. Cortez Masto press release",
+   "url": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Names AI-enabled threats up to terrorism, which is a serious general threat but does not state mass casualties or loss of control; cybercrime alone would be D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "Signed the 23 September 2026 letter calling for a formal agreement with China 'that would slow down' frontier AI development.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Sen. Cortez Masto press release",
+     "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-van-hollen-colleagues-push-trump-to-negotiate-global-ai-guardrails-with-china/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks the President to work toward an agreement that would 'potentially enact a mutual pause' with China; this is a possible pause conditional on China joining, not a call for a unilateral pause.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "Signed the letter urging a formal US-China agreement on frontier AI, including slowing down and a possible mutual pause, with verification.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ],
+    [
+     "Sen. Cortez Masto press release",
+     "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-van-hollen-colleagues-push-trump-to-negotiate-global-ai-guardrails-with-china/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 Democratic senators urging President Trump to negotiate a formal AI agreement with China, including a slowdown and possible mutual pause in frontier AI development.",
+   "Sen. Van Hollen press release, 2026-09-23",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Issued her own press release on signing that letter, subtitled 'Senators call for global cooperation on AI development to preserve public safety, human control'.",
+   "Sen. Cortez Masto press release, 2026-09-23",
+   "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-van-hollen-colleagues-push-trump-to-negotiate-global-ai-guardrails-with-china/"
+  ],
+  [
+   "Called on congressional leaders of both parties to hold AI safety hearings immediately and pushed for chip export controls to be restored.",
+   "Sen. Cortez Masto press release, 2026-09-14",
+   "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-statement-on-reports-of-threats-posed-by-rapidly-developing-ai-technology/"
+  ],
+  [
+   "Introduced the FIGHT China Act with Sen. Cornyn (18 March 2025), which would let the Treasury prohibit, and require notification of, US investment in certain AI models and other sensitive technologies in China; her office said in December 2025 that outbound investment provisions modeled on it passed the House in the defense authorization bill, and in September 2026 that the act had become law. Bill text and final enactment not checked by me.",
+   "Sen. Cortez Masto press releases, 2025-03-18 and 2025-12-10",
+   "https://www.cortezmasto.senate.gov/?p=47763"
+  ],
+  [
+   "Her office says she introduced the BLADE Act with Senators Hagerty, Scott and Kim against theft of frontier AI companies' capabilities; I did not open the bill itself.",
+   "Sen. Cortez Masto press release, 2026-09-23",
+   "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-van-hollen-colleagues-push-trump-to-negotiate-global-ai-guardrails-with-china/"
+  ],
+  [
+   "With Senators Schumer, Wyden and Warren, urged the Trump administration to restore export controls after their suspension, warning that blacklisted foreign companies could obtain advanced US technology including cutting-edge AI chips (competition with China, outside this project's scope).",
+   "Sen. Cortez Masto press release, 2025-11-18",
+   "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-calls-for-trump-administration-to-restore-export-controls-after-transfers-of-sensitive-u-s-technology-to-china/"
+  ],
+  [
+   "Her office announced that the GUARD Act (Sen. Hawley's bill barring minors from AI companion chatbots and making companies criminally liable when chatbots steer children toward self-harm or violence), described as one of two 'Cortez Masto bills', cleared the Senate Judiciary Committee (child safety, outside this project's scope).",
+   "Sen. Cortez Masto press release, 2026-05-01",
+   "https://www.cortezmasto.senate.gov/?p=49857"
+  ],
+  [
+   "Introduced the FARM AI Act with Senators Budd, Schiff, Banks, Blunt Rochester and Rounds to expand use of AI in agriculture (promotes AI; no risk content).",
+   "Sen. Cortez Masto press release, 2026-05-21",
+   "https://www.cortezmasto.senate.gov/?p=49980"
+  ],
+  [
+   "Joined Rep. Horsford in a letter to Spirit Airlines and Google about selling employee data to train AI (privacy, outside this project's scope).",
+   "Sen. Cortez Masto press release, 2026-10-13",
+   "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-horsford-call-for-worker-privacy-protections-as-spirit-airlines-plans-to-sell-employee-data-to-train-google-ai/"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only A-level evidence is the co-signed 23 September 2026 letter, which says frontier AI development could enable activities that threaten 'humanity writ large'. Her own individual statements found reach only C (general safety risks, threats 'from cybercrime to terrorism'); the six web searches turned up no stronger statement in her own words.",
+ "notes": "All 6 required web searches ran on 11 November 2026 (none refused). They surfaced no new statement by her at level A, B, C or F; the four statements here are unchanged from the earlier run, which read the Van Hollen release and her own releases in full. The searches on superintelligence, extinction or existential risk, and pause or moratorium returned nothing about her (results were about Sanders, Ocasio-Cortez, whose surname matches, and Sen. Rosen); a Fox5 Vegas article on Rosen's call for an AI hearing (14 September 2026) was opened and does not mention her. Ban Artificial Superintelligence Act: no source shows her as a co-sponsor; the Sanders press release names only Sanders and Rep. Casar, and congress.gov was not checked, so this is 'no evidence', not a verified 'no'. New pages opened this run, all on her site, added to `record` only: 18 March 2025 (FIGHT China Act), 1 May 2025 (China tech bills), 18 November 2025 (export controls), 10 December 2025 (defense bill provisions), 1 May 2026 (GUARD Act), 21 May 2026 (FARM AI Act). Level D remarks left out of `statements` because they are not her most substantial: 1 May 2026, \"My priority is always to ensure Nevada families are protected, whether that's from violent criminals or the dangers of AI,\" (about children and chatbots); 18 March 2025, \"When it comes to cutting-edge technologies – such as AI and semiconductors – the United States must remain ahead of China,\" (competition with China). These two wordings came through a page-reading tool that shortens long passages, so check them at the source before any use. Whether the FIGHT China Act itself became law is unclear: her September 2026 release says it did, her December 2025 release says defense bill provisions were modeled on it. Could not open: the Commerce Committee PDF copy of the letter (unreadable binary), two pubt.io mirror pages (timed out). Several of her site's long-form addresses returned 'forbidden' on first try; the same releases opened through their short ?p= addresses or on retry. No interviews, floor speeches or hearing remarks by her on AI risk appeared in any search result; news articles about the China letter appeared in results (for example NBC Montana) but were not opened, since the letter itself was already read at source. The A grade rests on a co-signed letter, not her own words; a reviewer may prefer to weigh that. The letter quotes were checked against the Van Hollen page text in the earlier run; the same passages also appear in her own release. Her own release's summary sentence (activities 'that could threaten humanity') is office wording, not a quote of her, and was left out of statements."
+}

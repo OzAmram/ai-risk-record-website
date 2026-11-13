@@ -1,0 +1,52 @@
+{
+  "bioguide": "M000934",
+  "member": "Jerry Moran",
+  "searches": [
+    "Jerry Moran artificial intelligence (restricted to moran.senate.gov)",
+    "Senator Jerry Moran superintelligence",
+    "Senator Jerry Moran AI \"extinction\" OR \"existential risk\"",
+    "Jerry Moran AI pause OR slowdown OR moratorium",
+    "Jerry Moran AI China agreement OR treaty OR talks",
+    "\"Jerry Moran\" \"AI safety\"",
+    "Sen. Jerry Moran AI statement 2026 frontier AI risks \"Moran\" Kansas senator artificial intelligence hearing"
+  ],
+  "statements": [
+    {
+      "date": "2026-02-13",
+      "venue": "Press release",
+      "quote": "This legislation would help small businesses use AI to meet their needs, expand and innovate.",
+      "context": "Moran was introducing the Small Business Artificial Intelligence Training Act with Sen. Cantwell.",
+      "source_label": "Senate press release (moran.senate.gov)",
+      "url": "https://www.moran.senate.gov/public/index.cfm/2026/2/sens-moran-cantwell-introduce-legislation-to-help-small-businesses-leverage-ai-tools",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Promotes the use of AI by small businesses and does not mention any risk from AI."
+    },
+    {
+      "date": "2026-03-03",
+      "venue": "Statement quoted in a Bloomberg article, reposted on his Senate site",
+      "quote": "As the capabilities of AI increase, we must make certain the next generation can utilize its full potential",
+      "context": "Moran was commenting on a bill with Sen. Cantwell to let the National Science Foundation fund scholarships for students studying AI.",
+      "source_label": "Bloomberg, reposted on moran.senate.gov",
+      "url": "https://www.moran.senate.gov/public/index.cfm/in-the-news?ID=1145424D-4554-4F08-B840-8018C1D3B444",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About AI education and workforce; notes growing AI capabilities but names no risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "He is not among the signers of the 23 September 2026 letter urging AI talks with China, and no statement on an AI agreement with China was found.", "sources": [["Van Hollen press release listing the signers", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the Small Business Artificial Intelligence Training Act with Sen. Cantwell, to create AI training resources for small businesses.", "Senate press release, 2026-02-13", "https://www.moran.senate.gov/public/index.cfm/2026/2/sens-moran-cantwell-introduce-legislation-to-help-small-businesses-leverage-ai-tools"],
+    ["Introduced a bill with Sen. Cantwell to let the National Science Foundation award scholarships to students studying AI.", "Bloomberg, reposted on moran.senate.gov, 2026-03-03", "https://www.moran.senate.gov/public/index.cfm/in-the-news?ID=1145424D-4554-4F08-B840-8018C1D3B444"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only statements found since 1 January 2025 are about AI education and small-business use of AI, with no acknowledgment of catastrophic risk. His earlier work on extreme AI risks dates from 2024, before the search window.",
+  "notes": "Seven web searches ran, none refused. IMPORTANT for the reviewer, outside the window: on 16 April 2024 Moran joined Sens. Romney, Reed and King in a framework for federal oversight of frontier AI aimed at biological, chemical, nuclear and cyber threats (https://www.reed.senate.gov/news/releases/romney-reed-moran-king-unveil-framework-to-mitigate-extreme-ai-risks); search summaries say a bill version followed with Sen. Hassan, described by the group ARI as addressing existential risks (https://ari.us/senators-intro-bipartisan-ai-bill-to-mitigate-existential-risks/, not opened). Moran's own quote in the April 2024 release frames AI as an opportunity. I found no evidence that this bill was reintroduced since January 2025, but I did not check congress.gov. No source shows him co-sponsoring the Ban Artificial Superintelligence Act (reported as a Sanders and Casar bill). A States Newsroom article of 30 June 2025 (https://www.newsfromthestates.com/article/changes-made-ai-moratorium-amid-bills-vote-rama) says Moran was expected to vote against the 10-year moratorium on state AI laws; this is a report, not a quote, and I did not verify his vote, so it is left out of the record. Pages I could not open: cantechletter.com article of January 2025 on his AI risk management bills (blocked), askapol.com 2024 interview (not found). His press release index shows only the 10 most recent releases, so older 2025 to 2026 releases were not browsed page by page. Rep. Nathaniel Moran of Texas (AI Kill Switch Act) appears in many results and is a different person; nothing of his is attributed here. The two quotes were retrieved through a page-reading tool that returns extracted text, so a reviewer should confirm the exact wording on the pages."
+}

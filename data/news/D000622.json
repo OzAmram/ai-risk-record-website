@@ -1,0 +1,112 @@
+{
+ "bioguide": "D000622",
+ "member": "Sen. Tammy Duckworth (Democrat, Illinois)",
+ "searches": [
+  "Duckworth artificial intelligence (restricted to duckworth.senate.gov)",
+  "Tammy Duckworth superintelligence",
+  "Tammy Duckworth AI extinction OR \"existential risk\"",
+  "Tammy Duckworth AI pause OR slowdown OR moratorium",
+  "Tammy Duckworth AI China agreement OR treaty",
+  "Tammy Duckworth \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Duckworth"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "While advanced AI may be new, engagement between two superpowers over a technology that poses an existential threat is not.",
+   "context": "Letter from 17 Senate Democrats, led by Sen. Van Hollen, urging President Trump to negotiate an agreement on frontier AI with China's President Xi at their planned summit.",
+   "source_label": "Sen. Van Hollen press release (letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she signed describes advanced AI as a technology that poses an existential threat."
+  },
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump signed with 16 other senators",
+   "quote": "a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development",
+   "context": "The same letter asks the President to work with China on an agreement to slow frontier AI development; the page-reading tool reported that the sentence goes on to name cyberattacks and biological weapons.",
+   "source_label": "Sen. Van Hollen press release (letter text)",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The quoted passage on its own calls for slowing AI for safety without naming the harm; the rest of the sentence (not confirmed word for word in one piece by me) names bioweapons, which would make it B or A."
+  },
+  {
+   "date": "2026-07-06",
+   "venue": "Chicago Sun-Times interview",
+   "quote": "But again, like anything else, we must remain the master of the technology and not the other way around.",
+   "context": "Illinois Democrats in Congress were asked how they use AI; Duckworth described casual use and hopes for healthcare breakthroughs.",
+   "source_label": "Chicago Sun-Times",
+   "url": "https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "A general remark about keeping humans in charge of AI that names no catastrophic or serious harm; included as her most substantial individual remark on AI found."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter asking for an agreement with China that would slow down frontier AI development.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release with letter text, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "The letter she signed asks to 'potentially enact a mutual pause' with China, which is a conditional pause; no individual statement found.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release with letter text, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "She signed the 23 September 2026 letter urging a formal agreement with China on frontier AI development.",
+   "sources": [
+    [
+     "Sen. Van Hollen press release with letter text, 23 September 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI; the letter page does not call for such a ban.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the letter from 17 senators urging President Trump to negotiate an AI agreement with China, including a slowdown and a possible mutual pause in frontier AI development.",
+   "Sen. Van Hollen press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ],
+  [
+   "Introduced with Sen. Murkowski the Children's Artificial Intelligence Toy Safety Act of 2026, which passed committee (child safety, not catastrophic risk).",
+   "Duckworth press release, 5 August 2026",
+   "https://www.duckworth.senate.gov/news/press-releases/duckworth-murkowski-bipartisan-bill-to-protect-children-from-dangers-of-ai-toys-passes-committee"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "The only evidence at level A is a letter she co-signed that calls advanced AI a technology that poses an existential threat. No statement in her own individual words about catastrophic AI risk was found.",
+ "notes": "Seven web searches ran, none refused. The grade rests entirely on the co-signed letter. Quotes from the Van Hollen page and the Sun-Times article were read through a page-fetching tool that summarises pages; the existential-threat sentence was confirmed in a dedicated check, but the Sun-Times and slowdown quotes were returned once each as the tool's exact quotes and should be checked by eye. The tool would not print the full slowdown sentence in one piece, so only the confirmed fragment is quoted; the tool also reported the letter says AI capabilities may \"accelerate beyond our ability to understand or control them\" (fragment, not used as a statement). The letter PDF on commerce.senate.gov could not be read (no PDF reader available). Sun-Times date taken from the article URL. Ban Artificial Superintelligence Act: no source found showing Duckworth as a co-sponsor; the official cosponsor list on Congress.gov was not checked. A search result said she co-sponsored a bill to repeal the federal moratorium on state AI laws (Benton summary, not opened, not about catastrophic risk) and joined a May 2026 statement after the Trump-Xi summit (content not seen). Her other AI material (AI toys, data centers, military tech talent, algorithmic bias) is outside the project's scope."
+}

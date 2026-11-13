@@ -1,0 +1,95 @@
+{
+ "bioguide": "T000476",
+ "member": "Thom Tillis",
+ "searches": [
+  "Tillis artificial intelligence site:tillis.senate.gov",
+  "Thom Tillis superintelligence",
+  "Thom Tillis AI \"extinction\" OR \"existential risk\" OR \"existential threat\"",
+  "Thom Tillis AI pause OR slowdown OR moratorium",
+  "Thom Tillis AI China agreement OR treaty OR talks",
+  "Thom Tillis \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" Senate cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-15",
+   "venue": "Remarks to reporters at the Capitol (C-SPAN video, transcribed by Mediaite)",
+   "quote": "It’s not a hoax. It’s a real thing. This is something that I’ve spent a lot of my professional career in, in terms of advanced technology.",
+   "context": "Tillis was responding at the Capitol to President Trump's posts the day before calling predictions of AI taking over the world or destroying humanity a hoax, days after Anthropic researchers and its chief executive issued warnings.",
+   "source_label": "Mediaite",
+   "url": "https://www.mediaite.com/media/tv/come-on-republican-senator-scoffs-at-trumps-claim-ai-threat-is-a-hoax/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "relayed_warning"
+   ],
+   "reason": "He rejects the claim that warnings about AI are a hoax and calls the concern real, but does not himself name extinction, loss of control or any other catastrophic outcome, so this is a general acknowledgment rather than A or B."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "Remarks to reporters at the Capitol (C-SPAN video, transcribed by Mediaite)",
+   "quote": "There are clearly guardrails that need to go around and anybody that told the president this is a hoax should look at some of the things that Anthropic and some of the other leaders have seen.",
+   "context": "Tillis was responding at the Capitol to President Trump's posts the day before calling predictions of AI taking over the world or destroying humanity a hoax, days after Anthropic researchers and its chief executive issued warnings.",
+   "source_label": "Mediaite",
+   "url": "https://www.mediaite.com/media/tv/come-on-republican-senator-scoffs-at-trumps-claim-ai-threat-is-a-hoax/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "He points to what Anthropic and other industry leaders have reported as grounds for guardrails, relaying their warnings in general terms without stating a catastrophic harm himself."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "Remarks to reporters at the Capitol, as quoted by The National News Desk",
+   "quote": "That by itself should invalidate any assertion that this is a hoax and something we shouldn't be concerned with.",
+   "context": "Tillis was responding at the Capitol to President Trump's posts the day before calling predictions of AI taking over the world or destroying humanity a hoax, days after Anthropic researchers and its chief executive issued warnings.",
+   "source_label": "The National News Desk (Sinclair)",
+   "url": "https://thenationaldesk.com/news/americas-news-now/some-congressional-republicans-gop-split-from-president-trump-on-ai-anthropic-warnings-threats",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning"
+   ],
+   "reason": "He says a chief executive's public call for guardrails shows AI risk is something to be concerned with, which is a general acknowledgment of serious risk with no catastrophic harm named."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found for or against slowing frontier AI development for safety reasons; he called for guardrails and industry self-regulation only.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found for or against a halt to building more capable AI systems.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating the pace of AI development with China; he did not sign the 23 September 2026 letter.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "On 1 July 2025 Tillis cast the only vote (99 to 1) to keep a temporary ban on states enforcing their own AI laws in the budget bill; this concerns state regulation, not a pause on AI development.",
+   "James Madison Institute commentary, 23 July 2025",
+   "https://jamesmadison.org/the-senate-flashed-a-yellow-light-on-ai-states-shouldnt-run-the-run/"
+  ],
+  [
+   "Did not sign the 23 September 2026 letter from 17 Senate Democrats urging AI talks with China (not on the verified signer list).",
+   "Van Hollen Senate press release, 23 September 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "On 15 September 2026 Tillis publicly rejected President Trump's claim that warnings about AI are a hoax, called the concern real and said guardrails are needed, but in the wording found he never names extinction, loss of control or mass-casualty harm himself. That is a general acknowledgment of serious risk (C).",
+ "notes": "Seven web searches ran, none refused. The Mediaite and National News Desk pages could not be read usefully through the page-fetch tool (one returned an error, the other would not return full wording), so I downloaded the pages directly and copied the quotes from the page text; Roll Call was read both ways. All three C statements come from the same set of remarks on Tuesday 15 September 2026; the first two are separate sentences of one passage transcribed by Mediaite from C-SPAN video, split because the whole passage is over 300 characters. I did not watch the video, so the wording rests on the Mediaite and National News Desk transcriptions, which differ slightly in punctuation. Boundary case for the reviewer: the claim he was rebutting was Trump's post that 'AI taking over the World, destroying Humanity' is a hoax, and Mediaite reports he also said 'Come on!'. If 'It's not a hoax. It's a real thing.' is read as endorsing the extinction warnings themselves, ruling 2 would make it A; I graded C because his own words name no catastrophic harm and the articles do not give the exact question he was asked. Roll Call (15 September 2026) quotes him, with an ellipsis inserted by the paper so not used as a quote field: “I think the industry needs to get a kind of Manhattan Project going, figure out what they need to do to self-regulate, and then what they need in order to enable them to have a consequence if people fall outside of those regulations. … We could codify some of them,” and, asked if senators understand AI, “No,” ... “A lot of them can’t spell it.” Roll Call does not give the day of these remarks; I used the article date. Left out: a MeriTalk report (publication date not confirmed, https://www.meritalk.com/?p=207369) quoting him at a Brookings Institution event about Chinese companies copying American AI models and a 'pacing threat'; that is competition with China (level D) and the quote contains editorial brackets. Ban Artificial Superintelligence Act (Sanders, S. 5493 per search results): no source found showing Tillis as a co-sponsor; I did not open Congress.gov to confirm the co-sponsor list. The official site search was thin: the search engine returned only a 2023 tillis.senate.gov release on AI, and the first page of his press release list (July to October 2026) has no AI item; I did not page through 2025 and earlier 2026 releases, so an AI press release from that period could have been missed. The 1 July 2025 vote is sourced to a think-tank commentary, not the Senate roll call record; a search result summary also attributed a quote to him about that vote which I did not verify and left out. Moved out of statements at build time because the searcher gave no quote for it: 2026-09-15, Remarks to a Roll Call reporter (https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/): Asked about federal AI rules after the industry warnings, Tillis said regulation should begin with the industry regulating itself, with Congress possibly writing some of those rules into law."
+}
