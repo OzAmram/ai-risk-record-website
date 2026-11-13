@@ -552,3 +552,23 @@
 **Next steps**
 1. Oz to rule on Ron Johnson and on the four records affected by the 2026 rule.
 2. Review of the remaining machine-drafted pages.
+
+## 2026-11-12 (addendum): Lankford, Risch, Budd to D; misuse-only ruling
+
+- Per Oz: Lankford D (the letter's "public safety" line is not about catastrophic risk), Risch D and Budd D (their statements date from 2025). Added to `data/grade_overrides.csv`; summaries rewritten. Blackburn (C, from a December 2025 bill summary) was not mentioned by Oz and is unchanged.
+- Per Oz: a record whose only named catastrophic risk is misuse of AI by people (bio, cyber) must say so in its summary, and Oz is hesitant to give it B. Recorded in `HANDOFF.md`. I read the strongest statements of all 15 B records and judged four to be misuse-only or mainly misuse: Daines and Ossoff (only misuse), Fetterman and McCormick (mainly; their op-ed also mentions "when a model goes rogue" once, checked on the Senate page on 12 November 2026). Their summaries now say so. Grades left at B, pending Oz, because Oz ruled Daines, Fetterman and McCormick B earlier the same day.
+- Rebuilt with the command in the entry above; render check passed (117 people). Current Senate: A 28, B 15, C 16, D 35, F 5, none 1. Next Senate: A 30, B 15, C 12, D 39, F 4.
+- Not committed (last commit `a24bcf3`).
+
+## 2026-11-12 (second addendum): misuse-only records to C, Blackburn D, Johnson B
+
+- Per Oz: Daines, Fetterman and McCormick drop from B to C (misuse only). Oz said "all 3"; I had listed four, and I also dropped Ossoff to C because he is the clearest misuse-only case. ASSUMPTION, to be confirmed by Oz.
+- Per Oz: Blackburn D; summary now says the bill is from December 2025 and that she has made no significant statement about AI risk in 2026 (her two 2026 statements in `data/news/B001243.json` are both level D).
+- Per Oz ("B I guess"): Ron Johnson A to B; summary rewritten. Oz floated a general rule, "maybe a dismissive statement should be minus one letter grade". Recorded in `HANDOFF.md` as tentative and NOT applied generally. If it were, among people with a dismissive statement and a grade above F: Warner B to C; Daines, Fetterman and McCormick C to D; Murphy's dismissive post is from 2025 and Oz already ruled him A.
+- All in `data/grade_overrides.csv` (12 rulings). Rebuilt with the same command; render check passed (117 people). Current Senate: A 27, B 12, C 19, D 36, F 5, none 1. Next Senate: A 29, B 13, C 14, D 40, F 4, none 0.
+- Not committed (last commit `a24bcf3`).
+
+## 2026-11-12 (third addendum): Ossoff confirmed, penalties do not stack, Warner to C; committed
+
+- Oz confirmed Ossoff at C and said not to stack the misuse and dismissal penalties. I read that as adopting the "dismissive statement lowers the grade one letter" rule, so Warner goes B to C (he was the only record it changes once stacking is ruled out); summary rewritten. Daines, Fetterman and McCormick stay C. To be confirmed by Oz, since Oz called Warner "a solid B" earlier the same day.
+- Rebuilt with the same command; render check passed.
