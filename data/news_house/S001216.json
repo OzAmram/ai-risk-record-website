@@ -1,0 +1,51 @@
+{
+  "bioguide": "S001216",
+  "member": "Kim Schrier",
+  "searches": [
+    "Kim Schrier artificial intelligence (restricted to schrier.house.gov)",
+    "Rep. Kim Schrier superintelligence",
+    "Kim Schrier AI extinction existential risk",
+    "Kim Schrier AI pause slowdown moratorium",
+    "Kim Schrier China AI agreement treaty",
+    "\"Kim Schrier\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-01",
+      "venue": "Press release",
+      "quote": "It is critical that doctors, not automated systems or AI-powered models, are in charge of critical healthcare decisions",
+      "context": "Introducing the bipartisan Doctors Not AI Act, which would require that insurers' medical-necessity denials be made by licensed health professionals rather than AI, with disclosure of AI use.",
+      "source_label": "schrier.house.gov press release, 1 September 2026",
+      "url": "https://schrier.house.gov/media/press-releases/congresswoman-schrier-introduces-bipartisan-legislation-keep-ai-making-health",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About AI in insurance claim decisions, with no acknowledgment of catastrophic risk from AI."
+    },
+    {
+      "date": "2025-05-21",
+      "venue": "Opening statement, Energy and Commerce Commerce, Manufacturing and Trade Subcommittee hearing \"AI Regulation and the Future of US Leadership\"",
+      "quote": "I agree with my colleagues that we need strong federal legislation to govern and guide the development of these powerful AI systems as they are rapidly incorporated into more and more aspects of our everyday lives.",
+      "context": "Opposing the proposed 10-year ban on enforcing state AI laws and calling for federal AI and data privacy legislation to protect consumers.",
+      "source_label": "House Energy and Commerce Democrats press release, 21 May 2025",
+      "url": "https://democrats-energycommerce.house.gov/media/press-releases/rep-schrier-opening-hearing-artificial-intelligence",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Calls for federal rules on powerful AI systems, but the harms she names are consumer harms (privacy, false information, discrimination, deepfakes), not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development. Her 2025 opposition to a moratorium on state AI laws is about state law enforcement, not about slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the bipartisan Doctors Not AI Act (with Reps. Landsman, Carter and Barrett) to keep AI from making insurers' medical-necessity denials.", "schrier.house.gov press release, 1 September 2026", "https://schrier.house.gov/media/press-releases/congresswoman-schrier-introduces-bipartisan-legislation-keep-ai-making-health"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken about AI in 2026 (AI in health insurance decisions) and 2025 (consumer harms and state AI laws), but no statement found acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus one extra search to check co-sponsorship of the Ban Artificial Superintelligence Act. The searches on superintelligence, extinction, pause, China and AI safety returned nothing about her. Ban Artificial Superintelligence Act (H.R. 10538, introduced September 2026 by Rep. Casar): she is not listed among the 12 cosponsors on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); congress.gov returned HTTP 403, so this was not confirmed on the official record. Paraphrases left out: a 13 September 2026 news article about her 9 September 2026 Leavenworth town hall (https://schrier.house.gov/media/in-the-news/rep-schrier-addresses-public-lands-voting-other-national-issues-leavenworth-town) says she \"called out healthcare systems and AI companies for taking advantage of the American public\" including over data center resource use, and that \"basic guardrails needed to be established to ensure innovation is safe\"; these are the reporter's words, not direct quotes, and would be D anyway. A 21 May 2025 States Newsroom article on her site quotes her calling the state-law moratorium \"Republicans' big gift to big tech\" (D). A search result also says she joined a Democratic bill (Seniors Deserve SMARTER Care Act) to repeal the Medicare WISeR model that uses AI for prior authorization (https://schrier.house.gov/media/in-the-news/democrats-introduce-legislation-block-wiseer-prior-authorization-model); that page was not opened, so it is not in the record. The page-fetch tool returns quotes in short segments; the 2025 hearing quote is one sentence reassembled from two consecutive segments, and the 2026 press release quote is the opening 119 characters of a longer sentence. From the earlier attempt: schrier.house.gov press release listings from 19 May to 9 November 2026 were checked by title and excerpt, and only the Doctors Not AI Act release mentions AI."
+}

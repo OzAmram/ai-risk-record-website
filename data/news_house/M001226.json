@@ -1,0 +1,99 @@
+{
+  "bioguide": "M001226",
+  "member": "Robert Menendez",
+  "searches": [
+    "Menendez artificial intelligence site:menendez.house.gov",
+    "Rob Menendez superintelligence",
+    "Rob Menendez \"AI safety\"",
+    "Rep. Rob Menendez AI existential risk extinction",
+    "Rob Menendez AI pause slowdown moratorium data centers",
+    "Rob Menendez China AI agreement treaty",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Menendez"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "venue": "Press release",
+      "quote": "Our legislation promotes the responsible use of AI while confronting the growing risks posed by its exploitation, including the potential for more sophisticated cyberattacks on the communications systems Americans rely on every day.",
+      "context": "His AI for Secure Networks Act (H.R. 7294, with Rep. Pfluger) passing the House Energy and Commerce Committee.",
+      "source_label": "Menendez House press release",
+      "url": "https://menendez.house.gov/media/press-releases/menendez-bills-to-combat-ai-driven-cyberattacks-and-protect-americans-from-scams-pass-out-of-committee",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The only AI risk named is misuse for cyberattacks on communications networks, which the rubric places at D; no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-02-03",
+      "venue": "Press release",
+      "quote": "Artificial intelligence holds tremendous potential to strengthen the security and resilience of the telecommunications networks Americans rely on every day,",
+      "context": "Introduction of the AI for Secure Networks Act, which asks for a report on using AI to defend telecommunications networks against cyberattacks.",
+      "source_label": "Menendez House press release",
+      "url": "https://menendez.house.gov/media/press-releases/menendez-pfluger-introduce-legislation-to-protect-communities-from-ai-driven-cyberattacks",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes AI as a cybersecurity tool; no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-01-08",
+      "venue": "Press release",
+      "quote": "New Jersey families have seen their electricity bills increased by 20% because of the rapid growth of energy-intensive AI data centers.",
+      "context": "Introduction, with Rep. Casar, of the PRICE Act and the Data Center Transparency Act on AI data center energy costs and environmental impact.",
+      "source_label": "Menendez House press release",
+      "url": "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About electricity bills and environmental effects of AI data centers, which the rubric places at D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; his data center bills are about electricity costs and the environment, not risks from AI itself.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored the AI for Secure Networks Act (H.R. 7294, with Rep. Pfluger) on using AI to defend telecommunications networks from cyberattacks; it passed the House Energy and Commerce Committee.",
+      "Menendez House press releases, 2026-02-03 and 2026-09-21",
+      "https://menendez.house.gov/media/press-releases/menendez-bills-to-combat-ai-driven-cyberattacks-and-protect-americans-from-scams-pass-out-of-committee"
+    ],
+    [
+      "Introduced, with Rep. Casar, the PRICE Act and the Data Center Transparency Act on AI data center energy use, electricity bills and environmental reporting.",
+      "Menendez House press release, 2026-01-08",
+      "https://menendez.house.gov/media/press-releases/-menendez-casar-introduce-groundbreaking-legislation-to-protect-americans-from-financial-and-environmental-impacts-of-ai-data-centers"
+    ],
+    [
+      "His Load Forecasting Enhancement Act (with Rep. Balderson), on grid planning amid demand growth from AI data centers, passed the House.",
+      "Menendez House press release, 2026-09-16",
+      "https://menendez.house.gov/media/press-releases/menendez-legislation-to-strengthen-electric-grid-planning-amid-rapidly-growing-energy-demand-passes-the-house"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 he spoke repeatedly about AI, but only about AI-driven cyberattacks, AI as a security tool and AI data center electricity costs, all level D. No statement acknowledging catastrophic AI risk was found in seven web searches or on his official site.",
+  "notes": "All seven web searches ran (the six required plus one on the Ban Artificial Superintelligence Act). None returned any statement by Rep. Rob Menendez on superintelligence, extinction or existential risk, AI safety, a pause, slowdown or moratorium, or an agreement with China on AI. Ban Artificial Superintelligence Act (H.R. 10538, introduced 23-24 September 2026 by Rep. Casar): no source seen names Menendez as a co-sponsor; Forkast names only Rep. Ocasio-Cortez among ten House Democratic co-sponsors, and the congress.gov co-sponsor page returned 403 Forbidden, so his co-sponsorship could not be ruled out completely. The site-restricted search also returned two WRNJ Radio items about Menendez questioning hearing witnesses on AI (consumer impacts; AI in health outcomes for underserved populations); both links returned 404 Not Found, their dates could not be checked, and nothing from them is quoted. From the earlier attempt (kept): the official site's press release listing pages 1 to 12 (12 Nov 2026 back to Nov 2023) were scanned and the four AI-related releases opened; quotes were copied from the page text. The site's own search page returned 403 Forbidden. The many-signer August and September 2026 House letters were not searched, per instructions. This is Rep. Rob Menendez (NJ-08), not his father, former Senator Bob Menendez; all quotes come from menendez.house.gov releases naming Congressman Rob Menendez (NJ-08)."
+}

@@ -1,0 +1,23 @@
+{
+  "bioguide": "B000740",
+  "member": "Stephanie I. Bice",
+  "searches": [
+    "Bice artificial intelligence (restricted to bice.house.gov)",
+    "Stephanie Bice superintelligence",
+    "Stephanie Bice AI extinction existential risk",
+    "Stephanie Bice AI pause slowdown moratorium",
+    "Stephanie Bice China AI agreement treaty",
+    "\"Bice\" \"AI safety\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in her own words about AI was found since January 2025, so there is nothing to grade.",
+  "notes": "All six required web searches ran in this rerun (an earlier attempt had five refused). The searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing mentioning her. The official-site search returned only two older office releases. Kept from the earlier attempt, which opened her press release listing directly: the three most recent pages (30 releases, 1 October 2025 to 29 October 2026, at https://bice.house.gov/media/press-releases, ?page=1 and ?page=2) had no titles or visible text about AI; several releases were shown only as summaries, so their full text was not checked. Left out: her 8 April 2025 press release on the National Security Commission on Emerging Biotechnology report (https://bice.house.gov/media/press-releases/report-report-national-security-commission-emerging-biotechnology-urges-swift), on which she serves; the sentence 'The intersection of artificial intelligence (AI) and biotechnology is accelerating this impact.' is press office text, and her quoted words there are about biotechnology and China, not AI. Her DOGE Act release (https://bice.house.gov/media/press-releases/rep-bice-introduces-doge-act-cut-federal-dollars) mentions a report on using AI to spot duplicate grant applications; it was seen only in a search result, appears to be from before 2025, and is not about AI risk. Ban Artificial Superintelligence Act: the Congress.gov cosponsor page (H.R. 10538) returned an access error (HTTP 403) again, so cosponsorship was not checked directly; no source seen shows her as a sponsor or cosponsor. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

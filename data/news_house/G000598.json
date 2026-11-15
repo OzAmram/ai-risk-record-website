@@ -1,0 +1,24 @@
+{
+  "bioguide": "G000598",
+  "member": "Robert Garcia",
+  "searches": [
+    "site:robertgarcia.house.gov artificial intelligence",
+    "\"Robert Garcia\" congressman superintelligence",
+    "\"Robert Garcia\" AI extinction existential risk",
+    "\"Robert Garcia\" AI pause slowdown moratorium",
+    "\"Robert Garcia\" China AI agreement treaty talks",
+    "\"Robert Garcia\" \"AI safety\"",
+    "Garcia Bolduan CNN AI \"actual humanity\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed among the 12 cosponsors of H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (the only Garcia listed is Jesus 'Chuy' Garcia).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement on AI that could be confirmed as his, with exact wording and a date, was found. A possibly strong remark (a CNN clip in which a 'Dem Rep. Garcia' calls AI a threat to 'actual humanity') could not be tied to Robert Garcia or dated, so it is left out; if a reviewer confirms it is his and from 2026, it would likely be level A under ruling 1.",
+  "notes": "Seven web searches ran; none were refused. The search was thin on this person. REVIEWER PRIORITY: Grabien clip 'Dem Rep. Garcia: AI Is a Threat to Actual Humanity' (https://grabien.com/story?id=610120) has a transcript labelled only 'GARCIA' in conversation with 'BOLDUAN' (likely CNN's Kate Bolduan), with fragments 'it's a threat to — to actual humanity' and 'We're talking about a real threat.' The page shows no first name, state or date, and the fetch tool gave inconsistent pronouns, so it may be Robert Garcia (CA, Oversight ranking member), Sylvia Garcia (TX) or Chuy Garcia (IL). The page summary also says the speaker called for public hearings on AI, possibly through oversight or a special select subcommittee, which fits Robert Garcia as Oversight ranking member but is not proof. Left out of statements because the speaker and date are unconfirmed and only fragments were read. Also seen only in a search summary (not opened): a Dailymotion video in which Robert Garcia, at an Oversight hearing, criticized HHS Secretary Kennedy's possible use of AI in the 'MAHA' report (https://www.dailymotion.com/video/x9kx5o4); undated, not about catastrophic risk (would be D). His official press release list (robertgarcia.house.gov/media/press-releases, April to October 2026) has no AI items; his Oversight committee work is published on the committee Democrats' site, which was not checked. A chuygarcia.house.gov AI press release in results is a different member and was ignored. Not a cosponsor of H.R. 10538 per FastDemocracy. Per instructions, the many-signer House letters of August and September 2026 were not searched."
+}

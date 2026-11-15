@@ -1,0 +1,25 @@
+{"bioguide": "M001206", "member": "Joseph D. Morelle (Joe Morelle), Democrat, New York district 25",
+ "searches": [
+  "site:morelle.house.gov artificial intelligence",
+  "Joe Morelle superintelligence",
+  "Morelle AI extinction OR \"existential risk\"",
+  "Morelle AI pause OR moratorium OR slowdown 2026",
+  "Morelle China AI agreement OR treaty",
+  "\"Joe Morelle\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors",
+  "Rep. Joe Morelle artificial intelligence 2026"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development; not a listed cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Introduced the Preventing Deepfakes of Intimate Images Act with Rep. Tom Kean, creating criminal and civil penalties for non-consensual deepfakes (not catastrophic risk; seen in a search summary only, page not opened).", "Search result summary, March 2025", "https://www.benton.org/author/rep-joe-morelle-d-ny"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Morelle has spoken about AI in 2025 and 2026, mainly deepfakes and AI in election advertising, but no statement about catastrophic risk from AI was found. He is not listed as a cosponsor of the Ban Artificial Superintelligence Act.",
+ "notes": "Eight web searches ran (the six required plus one for the bill's cosponsors and one general 2026 search); none returned any Morelle statement on superintelligence, extinction, loss of control, a pause or slowdown, or a China agreement. His AI work found: 2024 House Administration Committee hearing remarks on AI in the legislative branch (pre-2025, out of window), the Preventing Deepfakes of Intimate Images Act (March 2025), and an Axios report (20 May 2026, https://www.axios.com/2026/05/20/ai-ads-democrats-congress-2026-midterms-videos) in which, per the search summary, he said regulating AI in campaign ads will be a priority for him; that page returned 403 so no exact quote was recorded (it would be D anyway). Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy cosponsor list (12 members) does not include Morelle; congress.gov returned 403, so this is not confirmed against the official record. The first page of his official press releases (morelle.house.gov, Sept to Nov 2026) has nothing on AI; the site search page returned 403, so older press-release pages were not checked individually. No House letter on AI risk signed by him was found. The 2025 end-of-year report PDF on his site was not opened."
+}

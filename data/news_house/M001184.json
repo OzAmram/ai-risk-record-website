@@ -1,0 +1,24 @@
+{
+  "bioguide": "M001184",
+  "member": "Thomas Massie",
+  "searches": [
+    "Massie artificial intelligence (restricted to massie.house.gov)",
+    "Thomas Massie superintelligence",
+    "Thomas Massie AI extinction existential risk",
+    "Thomas Massie AI moratorium pause",
+    "Thomas Massie China AI agreement treaty",
+    "\"Massie\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, on his official site or in news coverage, so there is nothing to grade.",
+  "notes": "All six required web searches ran on 14 November 2026 (third attempt), plus one extra search on the Ban Artificial Superintelligence Act cosponsors; the searches are listed in 'searches'. None of the topic searches (superintelligence; extinction or existential risk; pause or moratorium; China agreement or treaty; 'AI safety') returned anything by or about Massie on AI; one moratorium result mentioned him only on an unrelated bill, and one China result was a headline about an unrelated personal story. The official-site search found no press release or statement on AI policy. Vote record: his site's vote record page (https://massie.house.gov/voterecord/?Page=4, opened in an earlier attempt) shows a Nay vote on 29 June 2026 (roll call 228) on H.R. 7757, the 'AI Warnings And Resources for Education Act', on a motion to suspend the rules and pass; no reason for the vote was given and the bill's content was not checked, so it is not recorded as a statement or position. His office's 2025 and 2026 art competition forms bar entries made with generative AI; not relevant to the rubric. From an earlier attempt: I opened massie.house.gov and the first three pages of his press releases (https://massie.house.gov/news/documentquery.aspx?DocumentTypeID=2362, pages 1 to 3), covering 30 releases from 12 February 2025 to 9 November 2026; none has an AI-related title or excerpt (only titles and truncated excerpts were checked, except one). The 2 September 2026 release on the Flock-Off Act with Rep. Burlison (https://massie.house.gov/news/documentsingle.aspx?DocumentID=395851, opened) says the bill 'Covers AI-augmented automated license plate readers and biometric cameras'; this is the release's own description of the bill, not Massie's words, and it is about surveillance, which would be level D at most. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened this time) lists 12 cosponsors, all Democrats, and Massie is not among them; news reports name Rep. Greg Casar as the lead sponsor. The official Congress.gov cosponsor page returned an error (403) in an earlier attempt and was not rechecked, so this relies on a third-party aggregator. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Not checked: his X posts (done separately) and any 2025 remarks on the proposed federal moratorium on state AI laws, which none of the searches surfaced."
+}

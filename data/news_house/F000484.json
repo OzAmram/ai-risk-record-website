@@ -1,0 +1,74 @@
+{
+ "bioguide": "F000484",
+ "member": "Randy Fine",
+ "searches": [
+  "site:fine.house.gov artificial intelligence",
+  "Randy Fine superintelligence",
+  "Randy Fine AI extinction existential risk",
+  "Randy Fine AI pause slowdown moratorium",
+  "Randy Fine China AI agreement treaty",
+  "\"Randy Fine\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Fine",
+  "Rep. Randy Fine artificial intelligence"
+ ],
+ "statements": [
+  {
+   "date": "2026-05-12",
+   "venue": "Press release",
+   "quote": "Artificial intelligence is reshaping our economy and our kids’ futures faster than anything since the internet, yet too many schools still don’t have the authority or the resources to keep up.",
+   "context": "Announcing his K-12 AI Literacy and Readiness Act, which lets schools use existing federal funds for AI instruction and teacher training.",
+   "source_label": "fine.house.gov press release, 12 May 2026",
+   "url": "https://fine.house.gov/news/documentsingle.aspx?DocumentID=209",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Talks about AI reshaping the economy and education but does not acknowledge catastrophic risk."
+  },
+  {
+   "date": "2026-05-11",
+   "venue": "Remarks reported by Florida's Voice",
+   "quote": "We can't afford for China to win the AI arms race; it has to be the United States",
+   "context": "Announcing several bills he framed as part of an AI arms race with China, including AI education measures and a dual-citizenship ban.",
+   "source_label": "Florida's Voice, 11 May 2026",
+   "url": "https://flvoicenews.com/u-s-rep-randy-fine-pushes-ai-education-measures-dual-citizenship-ban/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About winning the AI race against China, which ruling 5 places at D; no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on AI pace; he frames AI as an arms race China must not win, which is not a statement against an agreement.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the K-12 AI Literacy and Readiness Act of 2026, allowing federal education funds to be used for AI instruction and teacher training.",
+   "fine.house.gov press release, 2026-05-12",
+   "https://fine.house.gov/news/documentsingle.aspx?DocumentID=209"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 AI statements (May 2026) are about AI literacy in schools and winning the AI arms race with China; nothing found on catastrophic risk from AI, so D.",
+ "notes": "All 8 web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act and one general 'Rep. Randy Fine artificial intelligence'). The fine.house.gov site search returned no pages from his site; the earlier run had opened fine.house.gov directly (home page, all press release pages back to January 2025, 'In the News') and found only the 12 May 2026 release mentioning AI. No source shows him co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar; reported cosponsors are Democrats); congress.gov was not checked directly (it returned HTTP 403 in the earlier run). No other House AI-risk letter signed by him was found. Left out as paraphrase: a political.org article (22 September 2026) reports he said Beijing is waging 'AI sabotage' through proxies, opposes domestic data-center opposition as helping China, and backs promoting the 'U.S. AI stack'; it has no direct quote from him. Florida's Voice (11 May 2026) also quotes him: 'it's going to change the way we live' and an embedded post saying AI tools 'can be used for INCREDIBLE good, but they can be used for bad as well!'; these are D-level and not added. Florida's Voice quote was read via a page-fetch tool that summarizes pages; a reviewer should confirm the exact wording and the date the remarks were made (article date used). He sits on House Foreign Affairs and attended a field hearing with AI companies in California; hearing transcripts were not checked."
+}

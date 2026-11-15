@@ -1,0 +1,545 @@
+bioguide,member,chamber,party,state,handle,x_user_id,account_type,batch
+T000460,Mike Thompson,house,Democrat,CA,RepThompson,303861808,official,h1
+M001163,Doris O. Matsui,house,Democrat,CA,DorisMatsui,38254095,official,h1
+G000559,John Garamendi,house,Democrat,CA,RepGaramendi,88806753,official,h1
+H001090,Josh Harder,house,Democrat,CA,RepJoshHarder,1080851152151953410,official,h1
+O000019,Jay Obernolte,house,Republican,CA,JayObernolte,272482466,official,h1
+L000582,Ted Lieu,house,Democrat,CA,RepTedLieu,3044993235,official,h1
+J000305,Sara Jacobs,house,Democrat,CA,RepSaraJacobs,1345103905869455361,official,h1
+F000454,Bill Foster,house,Democrat,IL,RepBillFoster,1080509366,official,h1
+T000482,Lori Trahan,house,Democrat,MA,RepLoriTrahan,1079802482640019456,official,h1
+T000481,Rashida Tlaib,house,Democrat,MI,RepRashida,1079769536730140672,official,h1
+V000136,Gabe Vasquez,house,Democrat,NM,RepGabeVasquez,1610096539577487360,official,h1
+V000081,Nydia M. Velázquez,house,Democrat,NY,NydiaVelazquez,164369297,official,h1
+R000579,Patrick Ryan,house,Democrat,NY,RepPatRyanNY,1569400849130049537,official,h1
+M001206,Joseph D. Morelle,house,Democrat,NY,RepJoeMorelle,1064595993222615040,official,h1
+G000587,Sylvia R. Garcia,house,Democrat,TX,RepSylviaGarcia,1080587263132733442,official,h1
+C001131,Greg Casar,house,Democrat,TX,RepCasar,1499512178013057032,official,h1
+B001292,"Donald S. Beyer, Jr.",house,Democrat,VA,RepDonBeyer,2962868158,official,h1
+B001323,Nicholas J. Begich III,house,Republican,AK,RepNickBegich,1857837273603256320,official,h2
+F000481,Shomari Figures,house,Democrat,AL,repscfigures,1877805371114635264,official,h2
+R000575,Mike Rogers,house,Republican,AL,RepMikeRogersAL,33977070,official,h2
+A000055,Robert B. Aderholt,house,Republican,AL,Robert_Aderholt,76452765,official,h2
+S001220,Dale W. Strong,house,Republican,AL,RepDaleStrong,825191196775546883,official,h2
+P000609,Gary J. Palmer,house,Republican,AL,USRepGaryPalmer,2861616083,official,h2
+S001185,Terri A. Sewell,house,Democrat,AL,RepTerriSewell,381152398,official,h2
+C001087,"Eric A. ""Rick"" Crawford",house,Republican,AR,RepRickCrawford,233693291,official,h2
+H001072,J. French Hill,house,Republican,AR,RepFrenchHill,2953974395,official,h2
+W000809,Steve Womack,house,Republican,AR,rep_stevewomack,234469322,official,h2
+W000821,Bruce Westerman,house,Republican,AR,RepWesterman,2852998461,official,h2
+S001183,David Schweikert,house,Republican,AZ,RepDavid,229197216,official,h2
+C001132,Elijah Crane,house,Republican,AZ,RepEliCrane,1608891205902794753,official,h2
+A000381,Yassamin Ansari,house,Democrat,AZ,RepYassAnsari,1871623075822772224,official,h2
+S001211,Greg Stanton,house,Democrat,AZ,RepGregStanton,1080885078425784320,official,h2
+B001302,Andy Biggs,house,Republican,AZ,RepAndyBiggsAZ,816652616625168388,official,h2
+C001133,Juan Ciscomani,house,Republican,AZ,RepCiscomani,1603530970593775616,official,h2
+G000565,Paul A. Gosar,house,Republican,AZ,RepGosar,240760644,official,h2
+H001068,Jared Huffman,house,Democrat,CA,RepHuffman,1071102246,official,h2
+K000401,Kevin Kiley,house,Independent,CA,RepKiley,1610356961475809280,official,h2
+M001177,Tom McClintock,house,Republican,CA,RepMcClintock,50152441,official,h2
+B001287,Ami Bera,house,Democrat,CA,RepBera,950783972,official,h2
+D000623,Mark DeSaulnier,house,Democrat,CA,RepDeSaulnier,2968007206,official,h2
+P000197,Nancy Pelosi,house,Democrat,CA,SpeakerPelosi,15764644,official,h2
+S001231,Lateefah Simon,house,Democrat,CA,RepLSimon,1875918144654467072,official,h2
+G000605,Adam Gray,house,Democrat,CA,RepAdamGrayCA,1872779342784184320,official,h2
+M001225,Kevin Mullin,house,Democrat,CA,RepKevinMullin,1610411994888409088,official,h2
+L000607,Sam T. Liccardo,house,Democrat,CA,RepLiccardo,1875008939714056192,official,h2
+K000389,Ro Khanna,house,Democrat,CA,RepRoKhanna,816298918468259841,official,h2
+L000397,Zoe Lofgren,house,Democrat,CA,RepZoeLofgren,267938462,official,h2
+P000613,Jimmy Panetta,house,Democrat,CA,RepJimmyPanetta,796736612554117120,official,h2
+F000480,Vince Fong,house,Republican,CA,RepVinceFong,1798417305803669504,official,h2
+C001059,Jim Costa,house,Democrat,CA,RepJimCosta,245451804,official,h2
+V000129,David G. Valadao,house,Republican,CA,RepDavidValadao,1128514404,official,h2
+C001112,Salud O. Carbajal,house,Democrat,CA,RepCarbajal,816157667882373120,official,h2
+R000599,Raul Ruiz,house,Democrat,CA,RepRaulRuizMD,1089859058,official,h2
+B001285,Julia Brownley,house,Democrat,CA,RepBrownley,1243902714,official,h2
+W000830,George Whitesides,house,Democrat,CA,Rep_Whitesides,1872709283634397185,official,h2
+C001080,Judy Chu,house,Democrat,CA,RepJudyChu,193732179,official,h2
+R000620,Luz M. Rivas,house,Democrat,CA,RepLuzRivas,1869140751512391681,official,h2
+F000483,Laura Friedman,house,Democrat,CA,RepFriedmanCA,1618683941464195072,official,h2
+S000344,Brad Sherman,house,Democrat,CA,BradSherman,30216513,official,h2
+A000371,Pete Aguilar,house,Democrat,CA,RepPeteAguilar,3018670151,official,h2
+G000585,Jimmy Gomez,house,Democrat,CA,RepJimmyGomez,2371339658,official,h2
+T000474,Norma J. Torres,house,Democrat,CA,NormaJTorres,236279233,official,h2
+K000400,Sydney Kamlager-Dove,house,Democrat,CA,RepKamlagerDove,1613235716669988871,official,h2
+S001156,Linda T. Sánchez,house,Democrat,CA,RepLindaSanchez,312134473,official,h2
+T000472,Mark Takano,house,Democrat,CA,RepMarkTakano,1037321378,official,h2
+K000397,Young Kim,house,Republican,CA,RepYoungKim,1344677401465397249,official,h2
+C000059,Ken Calvert,house,Republican,CA,KenCalvert,22545491,official,h2
+G000598,Robert Garcia,house,Democrat,CA,RepRobertGarcia,1602792195878047744,official,h2
+W000187,Maxine Waters,house,Democrat,CA,RepMaxineWaters,36686040,official,h2
+B001300,Nanette Diaz Barragán,house,Democrat,CA,RepBarragan,816833925456789505,official,h2
+C001110,J. Luis Correa,house,Democrat,CA,RepLouCorrea,815985039485837312,official,h2
+I000056,Darrell Issa,house,Republican,CA,repdarrellissa,63650107,official,h2
+L000593,Mike Levin,house,Democrat,CA,RepMikeLevin,1072134139560620033,official,h2
+P000608,Scott H. Peters,house,Democrat,CA,RepScottPeters,1135486501,official,h2
+V000130,Juan Vargas,house,Democrat,CA,RepJuanVargas,1260172386,official,h2
+D000197,Diana DeGette,house,Democrat,CO,RepDianaDeGette,28599820,official,h2
+N000191,Joe Neguse,house,Democrat,CO,RepJoeNeguse,1078749802765139968,official,h2
+H001100,Jeff Hurd,house,Republican,CO,RepJeffHurd,1870164247419736064,official,h2
+B000825,Lauren Boebert,house,Republican,CO,RepBoebert,1342989756611907584,official,h2
+C001137,Jeff Crank,house,Republican,CO,RepJeffCrank,1875271096364331008,official,h2
+C001121,Jason Crow,house,Democrat,CO,RepJasonCrow,1080191866509901826,official,h2
+P000620,Brittany Pettersen,house,Democrat,CO,RepPettersen,1610014478405406720,official,h2
+E000300,Gabe Evans,house,Republican,CO,repgabeevans,1620505546913894401,official,h2
+L000557,John B. Larson,house,Democrat,CT,RepJohnLarson,50452197,official,h2
+C001069,Joe Courtney,house,Democrat,CT,RepJoeCourtney,85396297,official,h2
+D000216,Rosa L. DeLauro,house,Democrat,CT,rosadelauro,140519774,official,h2
+H001047,James A. Himes,house,Democrat,CT,jahimes,31611298,official,h2
+H001081,Jahana Hayes,house,Democrat,CT,RepJahanaHayes,1082086081238102018,official,h2
+D000628,Neal P. Dunn,house,Republican,FL,DrNealDunnFL2,815952318487298048,official,h2
+C001039,Kat Cammack,house,Republican,FL,RepKatCammack,1344325638983987201,official,h2
+B001314,Aaron Bean,house,Republican,FL,RepAaronBean,1604927550081359875,official,h2
+R000609,John H. Rutherford,house,Republican,FL,RepRutherfordFL,828977216595849216,official,h2
+M001216,Cory Mills,house,Republican,FL,RepMillsPress,1611138873496637440,official,h2
+H001099,Mike Haridopolos,house,Republican,FL,RepHaridopolos,1861318683475251201,official,h2
+S001200,Darren Soto,house,Democrat,FL,RepDarrenSoto,818713465653051392,official,h2
+F000476,Maxwell Frost,house,Democrat,FL,RepMaxwellFrost,1608494113174822925,official,h2
+W000806,Daniel Webster,house,Republican,FL,RepWebster,281540744,official,h2
+B001257,Gus M. Bilirakis,house,Republican,FL,RepGusBilirakis,26051676,official,h2
+L000596,Anna Paulina Luna,house,Republican,FL,RepLuna,1610230835289923584,official,h2
+C001066,Kathy Castor,house,Democrat,FL,USRepKCastor,1880674038,official,h2
+L000597,Laurel M. Lee,house,Republican,FL,RepLaurelLee,1608230657796227072,official,h2
+B001260,Vern Buchanan,house,Republican,FL,VernBuchanan,20467163,official,h2
+S001214,W. Gregory Steube,house,Republican,FL,RepGregSteube,1083125649609506816,official,h2
+F000472,Scott Franklin,house,Republican,FL,RepFranklin,1343664721384398849,official,h2
+D000032,Byron Donalds,house,Republican,FL,RepDonaldsPress,1343968646050283522,official,h2
+M001199,Brian J. Mast,house,Republican,FL,RepBrianMast,814103950404239360,official,h2
+F000462,Lois Frankel,house,Democrat,FL,RepLoisFrankel,1077121945,official,h2
+M001217,Jared Moskowitz,house,Democrat,FL,RepMoskowitz,1610009027743830018,official,h2
+W000808,Frederica S. Wilson,house,Democrat,FL,RepWilson,234014087,official,h2
+W000797,Debbie Wasserman Schultz,house,Democrat,FL,RepDWStweets,1140648348,official,h2
+D000600,Mario Diaz-Balart,house,Republican,FL,MarioDB,37094727,official,h2
+S000168,Maria Elvira Salazar,house,Republican,FL,RepMariaSalazar,1325928411689349120,official,h2
+G000593,Carlos A. Gimenez,house,Republican,FL,RepCarlos,1343679195034103808,official,h2
+C001103,"Earl L. ""Buddy"" Carter",house,Republican,GA,RepBuddyCarter,2973870195,official,h2
+B000490,"Sanford D. Bishop, Jr.",house,Democrat,GA,SanfordBishop,249410485,official,h2
+J000311,Brian Jack,house,Republican,GA,RepBrianJack,1872431129011130368,official,h2
+J000288,"Henry C. ""Hank"" Johnson, Jr.",house,Democrat,GA,RepHankJohnson,24745957,official,h2
+W000788,Nikema Williams,house,Democrat,GA,RepNikema,1345461797361504259,official,h2
+M001208,Lucy McBath,house,Democrat,GA,RepLucyMcBath,1082380458976051202,official,h2
+M001218,Richard McCormick,house,Republican,GA,RepMcCormick,1610689483929780225,official,h2
+S001189,Austin Scott,house,Republican,GA,AustinScottGA08,234797704,official,h2
+C001116,Andrew S. Clyde,house,Republican,GA,Rep_Clyde,1357017361568694274,official,h2
+C001129,Mike Collins,house,Republican,GA,RepMikeCollins,1601030771124408325,official,h2
+L000583,Barry Loudermilk,house,Republican,GA,RepLoudermilk,2914163523,official,h2
+A000372,Rick W. Allen,house,Republican,GA,RepRickAllen,2964287128,official,h2
+C001055,Ed Case,house,Democrat,HI,RepEdCase,1081350574589833221,official,h2
+T000487,Jill N. Tokuda,house,Democrat,HI,RepJillTokuda,1610730477563805699,official,h2
+M001215,Mariannette Miller-Meeks,house,Republican,IA,RepMMM,1345807954604412929,official,h2
+H001091,Ashley Hinson,house,Republican,IA,RepAshleyHinson,1340783304304410625,official,h2
+N000193,Zachary Nunn,house,Republican,IA,ZachNunn,1610323831809363971,official,h2
+F000469,Russ Fulcher,house,Republican,ID,RepRussFulcher,1078741899572240384,official,h2
+S001148,Michael K. Simpson,house,Republican,ID,CongMikeSimpson,76132891,official,h2
+K000385,Robin L. Kelly,house,Democrat,IL,RepRobinKelly,1339931490,official,h2
+R000617,Delia C. Ramirez,house,Democrat,IL,repdeliaramirez,1074354529787895808,official,h2
+G000586,"Jesús G. ""Chuy"" García",house,Democrat,IL,RepChuyGarcia,1082427779583541248,official,h2
+Q000023,Mike Quigley,house,Democrat,IL,RepMikeQuigley,56864092,official,h2
+C001117,Sean Casten,house,Democrat,IL,RepCasten,1083472286089396224,official,h2
+D000096,Danny K. Davis,house,Democrat,IL,RepDannyDavis,789244177,official,h2
+K000391,Raja Krishnamoorthi,house,Democrat,IL,CongressmanRaja,814179031956488192,official,h2
+S001145,Janice D. Schakowsky,house,Democrat,IL,janschakowsky,24195214,official,h2
+S001190,Bradley Scott Schneider,house,Democrat,IL,RepSchneider,1071840474,official,h2
+B001295,Mike Bost,house,Republican,IL,RepBost,2964877294,official,h2
+B001315,Nikki Budzinski,house,Democrat,IL,RepNikkiB,1603476713995911168,official,h2
+U000040,Lauren Underwood,house,Democrat,IL,RepUnderwood,1080539438508400642,official,h2
+M001211,Mary E. Miller,house,Republican,IL,RepMaryMiller,1343656635907125250,official,h2
+L000585,Darin LaHood,house,Republican,IL,RepLaHood,3686482216,official,h2
+S001225,Eric Sorensen,house,Democrat,IL,RepEricSorensen,1611441794704674828,official,h2
+M001214,Frank J. Mrvan,house,Democrat,IN,RepMrvan,1346205046036377601,official,h2
+Y000067,Rudy Yakym III,house,Republican,IN,RepRudyYakym,1605665632858607617,official,h2
+S001188,Marlin A. Stutzman,house,Republican,IN,RepStutzman,211901075,official,h2
+B001307,James R. Baird,house,Republican,IN,RepJimBaird,1086316494450032640,official,h2
+S000929,Victoria Spartz,house,Republican,IN,RepSpartz,1344845201479663621,official,h2
+S001229,Jefferson Shreve,house,Republican,IN,RepShreve,1868781678954450944,official,h2
+C001072,André Carson,house,Democrat,IN,RepAndreCarson,199325935,official,h2
+H001093,Erin Houchin,house,Republican,IN,RepHouchin,1603694348725526528,official,h2
+M000871,Tracey Mann,house,Republican,KS,RepMann,1345825008887721986,official,h2
+S001228,Derek Schmidt,house,Republican,KS,RepDerekSchmidt,1875994749443645440,official,h2
+D000629,Sharice Davids,house,Democrat,KS,RepDavids,1080516116395499522,official,h2
+E000298,Ron Estes,house,Republican,KS,RepRonEstes,854715071116849157,official,h2
+C001108,James Comer,house,Republican,KY,RepJamesComer,1274852794206388225,official,h2
+G000558,Brett Guthrie,house,Republican,KY,RepGuthrie,1908143071,official,h2
+M001220,Morgan McGarvey,house,Democrat,KY,RepMcGarvey,1610300298303787008,official,h2
+M001184,Thomas Massie,house,Republican,KY,RepThomasMassie,975200486,official,h2
+R000395,Harold Rogers,house,Republican,KY,RepHalRogers,550401754,official,h2
+S001176,Steve Scalise,house,Republican,LA,SteveScalise,1209417007,official,h2
+C001125,Troy A. Carter,house,Democrat,LA,RepTroyCarter,1352760304271241218,official,h2
+H001077,Clay Higgins,house,Republican,LA,RepClayHiggins,843636970538618880,official,h2
+F000110,Cleo Fields,house,Democrat,LA,RepFields,1868715744579489792,official,h2
+N000015,Richard E. Neal,house,Democrat,MA,RepRichardNeal,442824717,official,h2
+M000312,James P. McGovern,house,Democrat,MA,RepMcGovern,242426145,official,h2
+A000148,Jake Auchincloss,house,Democrat,MA,RepAuchincloss,1330278736554582016,official,h2
+M001196,Seth Moulton,house,Democrat,MA,RepMoulton,3091316093,official,h2
+P000617,Ayanna Pressley,house,Democrat,MA,RepPressley,1080584229510172678,official,h2
+L000562,Stephen F. Lynch,house,Democrat,MA,RepStephenLynch,310310133,official,h2
+K000375,William R. Keating,house,Democrat,MA,USRepKeating,232992031,official,h2
+H001052,Andy Harris,house,Republican,MD,RepAndyHarrisMD,960962340,official,h2
+O000176,"Johnny Olszewski, Jr.",house,Democrat,MD,RepJohnnyO,1858226214269272064,official,h2
+E000301,Sarah Elfreth,house,Democrat,MD,RepSarahElfreth,1875244261844668416,official,h2
+I000058,Glenn Ivey,house,Democrat,MD,RepGlennIvey,1610111693836664834,official,h2
+H000874,Steny H. Hoyer,house,Democrat,MD,RepStenyHoyer,22012091,official,h2
+M001232,April McClain Delaney,house,Democrat,MD,RepAprilDelaney,1874580463752196096,official,h2
+M000687,Kweisi Mfume,house,Democrat,MD,RepKweisiMfume,1276209702322438148,official,h2
+R000606,Jamie Raskin,house,Democrat,MD,RepRaskin,806906355214852096,official,h2
+P000597,Chellie Pingree,house,Democrat,ME,chelliepingree,14984637,official,h2
+G000592,Jared F. Golden,house,Democrat,ME,RepGolden,1080891667308298240,official,h2
+B001301,Jack Bergman,house,Republican,MI,RepJackBergman,815241612154417152,official,h2
+M001194,John R. Moolenaar,house,Republican,MI,RepMoolenaar,2696643955,official,h2
+S001221,Hillary J. Scholten,house,Democrat,MI,RepScholten,1609941568869335041,official,h2
+H001058,Bill Huizenga,house,Republican,MI,RepHuizenga,233949261,official,h2
+W000798,Tim Walberg,house,Republican,MI,RepWalberg,237862972,official,h2
+D000624,Debbie Dingell,house,Democrat,MI,RepDebDingell,2970279814,official,h2
+B001321,Tom Barrett,house,Republican,MI,RepTomBarrett,1859761953725624320,official,h2
+M001237,Kristen McDonald Rivet,house,Democrat,MI,RepKMR,1871605623496097792,official,h2
+M001136,Lisa C. McClain,house,Republican,MI,RepLisaMcClain,1344032292432437248,official,h2
+J000307,John James,house,Republican,MI,RepJames,1609056891547668480,official,h2
+S001215,Haley M. Stevens,house,Democrat,MI,RepHaleyStevens,1076161611033968640,official,h2
+T000488,Shri Thanedar,house,Democrat,MI,RepShriThanedar,1610719275265802253,official,h2
+F000475,Brad Finstad,house,Republican,MN,RepFinstad,1563316176717246464,official,h2
+C001119,Angie Craig,house,Democrat,MN,RepAngieCraig,1080222360643485698,official,h2
+M001234,Kelly Morrison,house,Democrat,MN,KellyMorrisonMN,1863695408653889536,official,h2
+M001143,Betty McCollum,house,Democrat,MN,BettyMcCollum04,516880804,official,h2
+O000173,Ilhan Omar,house,Democrat,MN,Ilhan,1082334352711790593,official,h2
+F000470,Michelle Fischbach,house,Republican,MN,RepFischbach,1344375287484723205,official,h2
+S001212,Pete Stauber,house,Republican,MN,RepPeteStauber,1075830599007510535,official,h2
+B001324,Wesley Bell,house,Democrat,MO,RepWesleyBellMO,1875208198166122496,official,h2
+W000812,Ann Wagner,house,Republican,MO,RepAnnWagner,1051446626,official,h2
+O000177,"Robert F. Onder, Jr.",house,Republican,MO,RepBobOnder,1872324445055987712,official,h2
+A000379,Mark Alford,house,Republican,MO,RepMarkAlford,1612483604071727104,official,h2
+C001061,Emanuel Cleaver,house,Democrat,MO,repcleaver,163570705,official,h2
+G000546,Sam Graves,house,Republican,MO,RepSamGraves,29766367,official,h2
+B001316,Eric Burlison,house,Republican,MO,RepEricBurlison,1606342594765590528,official,h2
+S001195,Jason Smith,house,Republican,MO,RepJasonSmith,1623308912,official,h2
+K000388,Trent Kelly,house,Republican,MS,RepTrentKelly,3317799825,official,h2
+T000193,Bennie G. Thompson,house,Democrat,MS,BennieGThompson,82453460,official,h2
+G000591,Michael Guest,house,Republican,MS,RepMichaelGuest,1081243468327018496,official,h2
+E000235,Mike Ezell,house,Republican,MS,RepEzell,1602788004749344768,official,h2
+Z000018,Ryan K. Zinke,house,Republican,MT,RepRyanZinke,2953494478,official,h2
+D000634,Troy Downing,house,Republican,MT,RepTroyDowning,1873876193960763392,official,h2
+D000230,Donald G. Davis,house,Democrat,NC,RepDonDavis,1610323296360210433,official,h2
+R000305,Deborah K. Ross,house,Democrat,NC,RepDeborahRoss,1348683154815655940,official,h2
+M001210,Gregory F. Murphy,house,Republican,NC,RepGregMurphy,1173978070535024642,official,h2
+F000477,Valerie P. Foushee,house,Democrat,NC,ValerieFoushee,1611471154732060692,official,h2
+F000450,Virginia Foxx,house,Republican,NC,virginiafoxx,16256269,official,h2
+M001240,Addison P. McDowell,house,Republican,NC,RepMcDowell,1787665552657264641,official,h2
+R000603,David Rouzer,house,Republican,NC,RepDavidRouzer,834069080,official,h2
+H001102,Mark Harris,house,Republican,NC,RepMarkHarrisNC,1874178374664323072,official,h2
+H001067,Richard Hudson,house,Republican,NC,RepRichHudson,935033864,official,h2
+H001101,Pat Harrigan,house,Republican,NC,RepPatHarrigan,1874879606525919233,official,h2
+A000370,Alma S. Adams,house,Democrat,NC,RepAdams,2916086925,official,h2
+K000405,Brad Knott,house,Republican,NC,RepKnott,1874964140105863168,official,h2
+M001236,Tim Moore,house,Republican,NC,RepTimMooreNC,282219422,official,h2
+F000482,Julie Fedorchak,house,Republican,ND,RepFedorchak,1869462860499501056,official,h2
+F000474,Mike Flood,house,Republican,NE,USRepMikeFlood,1547025742529167360,official,h2
+B001298,Don Bacon,house,Republican,NE,RepDonBacon,818975124460335106,official,h2
+S001172,Adrian Smith,house,Republican,NE,RepAdrianSmith,296245061,official,h2
+G000604,Maggie Goodlander,house,Democrat,NH,RepGoodlander,1874831517706256384,official,h2
+N000188,Donald Norcross,house,Democrat,NJ,DonaldNorcross,3122099613,official,h2
+V000133,Jefferson Van Drew,house,Republican,NJ,Congressman_JVD,1468677099594698757,official,h2
+C001136,"Herbert C. Conaway, Jr.",house,Democrat,NJ,RepHerbConaway,1872681063597887488,official,h2
+G000583,Josh Gottheimer,house,Democrat,NJ,RepJoshG,815310506596691968,official,h2
+P000034,"Frank Pallone, Jr.",house,Democrat,NJ,FrankPallone,31801993,official,h2
+K000398,"Thomas H. Kean, Jr.",house,Republican,NJ,CongressmanKean,1607422757670641665,official,h2
+M001226,Robert Menendez,house,Democrat,NJ,RepMenendez,1603468242852397057,official,h2
+M001229,LaMonica McIver,house,Democrat,NJ,RepLaMonica,1844608219865354246,official,h2
+W000822,Bonnie Watson Coleman,house,Democrat,NJ,RepBonnie,2968451607,official,h2
+S001218,Melanie A. Stansbury,house,Democrat,NM,Rep_Stansbury,1404519992582942724,official,h2
+L000273,Teresa Leger Fernandez,house,Democrat,NM,RepTeresaLF,1345147845926670337,official,h2
+T000468,Dina Titus,house,Democrat,NV,repdinatitus,122174004,official,h2
+A000369,Mark E. Amodei,house,Republican,NV,MarkAmodeiNV2,402719755,official,h2
+L000590,Susie Lee,house,Democrat,NV,RepSusieLee,1079061579973439488,official,h2
+H001066,Steven Horsford,house,Democrat,NV,RepHorsford,389840566,official,h2
+L000598,Nick LaLota,house,Republican,NY,RepLaLota,1588581125177442305,official,h2
+G000597,Andrew R. Garbarino,house,Republican,NY,RepGarbarino,1344349650447433729,official,h2
+S001201,Thomas R. Suozzi,house,Democrat,NY,RepTomSuozzi,816705409486618624,official,h2
+G000602,Laura Gillen,house,Democrat,NY,RepLauraGillen,1854256323547815957,official,h2
+M001137,Gregory W. Meeks,house,Democrat,NY,RepGregoryMeeks,22812754,official,h2
+M001188,Grace Meng,house,Democrat,NY,RepGraceMeng,1051127714,official,h2
+J000294,Hakeem S. Jeffries,house,Democrat,NY,RepJeffries,467823431,official,h2
+C001067,Yvette D. Clarke,house,Democrat,NY,RepYvetteClarke,240812994,official,h2
+G000599,Daniel S. Goldman,house,Democrat,NY,RepDanGoldman,1610019555371372544,official,h2
+N000002,Jerrold Nadler,house,Democrat,NY,RepJerryNadler,40302336,official,h2
+E000297,Adriano Espaillat,house,Democrat,NY,RepEspaillat,817076257770835968,official,h2
+O000172,Alexandria Ocasio-Cortez,house,Democrat,NY,RepAOC,1079104563280527364,official,h2
+T000486,Ritchie Torres,house,Democrat,NY,RepRitchie,1276403757224546304,official,h2
+L000606,George Latimer,house,Democrat,NY,RepGLatimer,1863611233230024704,official,h2
+L000599,Michael Lawler,house,Republican,NY,RepMikeLawler,1590372047015886853,official,h2
+T000469,Paul Tonko,house,Democrat,NY,RepPaulTonko,84119348,official,h2
+S001196,Elise M. Stefanik,house,Republican,NY,RepStefanik,2962813893,official,h2
+L000600,Nicholas A. Langworthy,house,Republican,NY,RepLangworthy,1611396007111057408,official,h2
+T000478,Claudia Tenney,house,Republican,NY,RepTenney,797201048490430465,official,h2
+K000402,Timothy M. Kennedy,house,Democrat,NY,RepTimKennedy,221176170,official,h2
+L000601,Greg Landsman,house,Democrat,OH,RepGregLandsman,1613637172346642432,official,h2
+T000490,David J. Taylor,house,Republican,OH,RepDaveTaylor,1874925648449355776,official,h2
+B001281,Joyce Beatty,house,Democrat,OH,RepBeatty,1531521632,official,h2
+J000289,Jim Jordan,house,Republican,OH,Jim_Jordan,18166778,official,h2
+L000566,Robert E. Latta,house,Republican,OH,boblatta,15394954,official,h2
+M001222,Max L. Miller,house,Republican,OH,RepMaxMiller,1610383926446489600,official,h2
+D000626,Warren Davidson,house,Republican,OH,WarrenDavidson,742735530287304704,official,h2
+K000009,Marcy Kaptur,house,Democrat,OH,RepMarcyKaptur,581141508,official,h2
+T000463,Michael R. Turner,house,Republican,OH,RepMikeTurner,51228911,official,h2
+B001313,Shontel M. Brown,house,Democrat,OH,RepShontelBrown,1456381091598700556,official,h2
+B001306,Troy Balderson,house,Republican,OH,RepBalderson,1037341536592310272,official,h2
+S001223,Emilia Strong Sykes,house,Democrat,OH,RepEmiliaSykes,1611527835742519297,official,h2
+J000295,David P. Joyce,house,Republican,OH,RepDaveJoyce,976969338,official,h2
+C001126,Mike Carey,house,Republican,OH,RepMikeCarey,1457745193197780993,official,h2
+B001317,Josh Brecheen,house,Republican,OK,RepBrecheen,1603032402942730248,official,h2
+L000491,Frank D. Lucas,house,Republican,OK,RepFrankLucas,242772524,official,h2
+C001053,Tom Cole,house,Republican,OK,TomColeOK04,23124635,official,h2
+B000740,Stephanie I. Bice,house,Republican,OK,RepBice,1344260196227555334,official,h2
+B001278,Suzanne Bonamici,house,Democrat,OR,RepBonamici,558769636,official,h2
+B000668,Cliff Bentz,house,Republican,OR,RepBentz,1345788865911656454,official,h2
+D000635,Maxine Dexter,house,Democrat,OR,RepDexterOR,1873797020143804416,official,h2
+H001094,Val T. Hoyle,house,Democrat,OR,RepValHoyle,1612865196489412608,official,h2
+B001326,Janelle S. Bynum,house,Democrat,OR,RepBynum,1875014393613688832,official,h2
+S001226,Andrea Salinas,house,Democrat,OR,RepSalinas,1611800554614755328,official,h2
+F000466,Brian K. Fitzpatrick,house,Republican,PA,RepBrianFitz,816303263586914304,official,h2
+B001296,Brendan F. Boyle,house,Democrat,PA,CongBoyle,4304448314,official,h2
+E000296,Dwight Evans,house,Democrat,PA,RepDwightEvans,90639372,official,h2
+D000631,Madeleine Dean,house,Democrat,PA,RepDean,567508925,official,h2
+S001205,Mary Gay Scanlon,house,Democrat,PA,RepMGS,1067541214671577093,official,h2
+H001085,Chrissy Houlahan,house,Democrat,PA,RepHoulahan,1052896620797460481,official,h2
+M001230,Ryan Mackenzie,house,Republican,PA,RepMackenzie,575398878,official,h2
+B001327,"Robert P. Bresnahan, Jr.",house,Republican,PA,RepBresnahan,1872398693837484032,official,h2
+M001204,Daniel Meuser,house,Republican,PA,RepMeuser,1080574793630527505,official,h2
+P000605,Scott Perry,house,Republican,PA,RepScottPerry,18773159,official,h2
+S001199,Lloyd Smucker,house,Republican,PA,RepSmucker,41417564,official,h2
+L000602,Summer L. Lee,house,Democrat,PA,RepSummerLee,999285287812558848,official,h2
+J000302,John Joyce,house,Republican,PA,RepJohnJoyce,1082311988926124036,official,h2
+R000610,Guy Reschenthaler,house,Republican,PA,GReschenthaler,4205133682,official,h2
+T000467,Glenn Thompson,house,Republican,PA,CongressmanGT,18967498,official,h2
+K000376,Mike Kelly,house,Republican,PA,MikeKellyPA,935368364,official,h2
+D000530,Christopher R. Deluzio,house,Democrat,PA,RepDeluzio,1608934316779921408,official,h2
+A000380,Gabe Amo,house,Democrat,RI,RepGabeAmo,1724849796496924672,official,h2
+M001223,Seth Magaziner,house,Democrat,RI,Rep_Magaziner,1615455207713808384,official,h2
+M000194,Nancy Mace,house,Republican,SC,RepNancyMace,1343597700542038017,official,h2
+W000795,Joe Wilson,house,Republican,SC,RepJoeWilson,254082173,official,h2
+B001325,Sheri Biggs,house,Republican,SC,RepSheriBiggs,1874221699253616640,official,h2
+T000480,William R. Timmons IV,house,Republican,SC,RepTimmons,1079770852302958592,official,h2
+N000190,Ralph Norman,house,Republican,SC,RepRalphNorman,880480631108644864,official,h2
+C000537,James E. Clyburn,house,Democrat,SC,RepJamesClyburn,188019606,official,h2
+F000478,Russell Fry,house,Republican,SC,RepRussellFry,1603514304354983941,official,h2
+J000301,Dusty Johnson,house,Republican,SD,RepDustyJohnson,1074782372594413569,official,h2
+H001086,Diana Harshbarger,house,Republican,TN,RepHarshbarger,1345787285179162624,official,h2
+B001309,Tim Burchett,house,Republican,TN,RepTimBurchett,1028854804087492613,official,h2
+F000459,"Charles J. ""Chuck"" Fleischmann",house,Republican,TN,RepChuck,235190657,official,h2
+D000616,Scott DesJarlais,house,Republican,TN,DesJarlaisTN04,235312723,official,h2
+O000175,Andrew Ogles,house,Republican,TN,RepOgles,1603110823014141952,official,h2
+R000612,John W. Rose,house,Republican,TN,RepJohnRose,1081312310059253763,official,h2
+K000392,David Kustoff,house,Republican,TN,RepDavidKustoff,816012124505931780,official,h2
+C001068,Steve Cohen,house,Democrat,TN,RepCohen,162069635,official,h2
+M001224,Nathaniel Moran,house,Republican,TX,RepNateMoran,1603470469608374272,official,h2
+C001120,Dan Crenshaw,house,Republican,TX,RepDanCrenshaw,1080894931311431682,official,h2
+S001224,Keith Self,house,Republican,TX,RepKeithSelf,1612430165585416192,official,h2
+F000246,Pat Fallon,house,Republican,TX,RepPatFallon,1343258042704527362,official,h2
+E000071,Jake Ellzey,house,Republican,TX,RepEllzey,1366523868253458437,official,h2
+F000468,Lizzie Fletcher,house,Democrat,TX,RepFletcher,1075904377221722113,official,h2
+L000603,Morgan Luttrell,house,Republican,TX,RepLuttrell,1603028043454447621,official,h2
+G000553,Al Green,house,Democrat,TX,RepAlGreen,156333623,official,h2
+M001157,Michael T. McCaul,house,Republican,TX,RepMcCaul,26424123,official,h2
+P000048,August Pfluger,house,Republican,TX,RepPfluger,1341120751399809026,official,h2
+G000601,Craig A. Goldman,house,Republican,TX,RepCraigGoldman,1875192416602599424,official,h2
+J000304,Ronny Jackson,house,Republican,TX,RepRonnyJackson,1341903465610686464,official,h2
+W000814,"Randy K. Weber, Sr.",house,Republican,TX,TXRandy14,1058051748,official,h2
+D000594,Monica De La Cruz,house,Republican,TX,RepMonicaDLC,1590396129094647814,official,h2
+E000299,Veronica Escobar,house,Democrat,TX,RepEscobar,1075517806551154689,official,h2
+S000250,Pete Sessions,house,Republican,TX,PeteSessions,24735461,official,h2
+A000375,Jodey C. Arrington,house,Republican,TX,RepArrington,816284664658874368,official,h2
+C001091,Joaquin Castro,house,Democrat,TX,JoaquinCastrotx,231510077,official,h2
+R000614,Chip Roy,house,Republican,TX,RepChipRoy,1082790600292925440,official,h2
+N000026,Troy E. Nehls,house,Republican,TX,RepTroyNehls,1347318288850825217,official,h2
+V000134,Beth Van Duyne,house,Republican,TX,RepBethVanDuyne,1339633259349745670,official,h2
+W000816,Roger Williams,house,Republican,TX,RepRWilliams,1077446982,official,h2
+G000603,Brandon Gill,house,Republican,TX,RepBrandonGill,1854919740554190848,official,h2
+C001063,Henry Cuellar,house,Democrat,TX,RepCuellar,210926192,official,h2
+C001130,Jasmine Crockett,house,Democrat,TX,RepJasmine,1609974443631157248,official,h2
+C001051,John R. Carter,house,Republican,TX,JudgeCarter,18030431,official,h2
+J000310,Julie Johnson,house,Democrat,TX,RepJulieJohnson,1861777824463376384,official,h2
+V000131,Marc A. Veasey,house,Democrat,TX,RepVeasey,1074129612,official,h2
+G000581,Vicente Gonzalez,house,Democrat,TX,RepGonzalez,818536152588238849,official,h2
+B001291,Brian Babin,house,Republican,TX,RepBrianBabin,2929491549,official,h2
+D000399,Lloyd Doggett,house,Democrat,TX,RepLloydDoggett,153944899,official,h2
+M001213,Blake D. Moore,house,Republican,UT,RepBlakeMoore,1337452596093587462,official,h2
+M001228,Celeste Maloy,house,Republican,UT,RepMaloyUtah,1746930615654449160,official,h2
+K000403,Mike Kennedy,house,Republican,UT,RepMikeKennedy,1875302141440749573,official,h2
+O000086,Burgess Owens,house,Republican,UT,RepBurgessOwens,1344481217685692416,official,h2
+W000804,Robert J. Wittman,house,Republican,VA,RobWittman,15356407,official,h2
+K000399,Jennifer A. Kiggans,house,Republican,VA,RepJenKiggans,1605275643523891201,official,h2
+S000185,"Robert C. ""Bobby"" Scott",house,Democrat,VA,BobbyScott,161791703,official,h2
+M001227,Jennifer L. McClellan,house,Democrat,VA,RepMcClellan,1633610542584659970,official,h2
+M001239,John J. McGuire III,house,Republican,VA,RepJohnMcGuire,1875020632024350720,official,h2
+C001118,Ben Cline,house,Republican,VA,RepBenCline,1072158357237174272,official,h2
+V000138,Eugene Simon Vindman,house,Democrat,VA,RepVindman,1873783602728595456,official,h2
+G000568,H. Morgan Griffith,house,Republican,VA,RepMGriffith,234057152,official,h2
+S001230,Suhas Subramanyam,house,Democrat,VA,RepSuhas,1861930573733986305,official,h2
+B001318,Becca Balint,house,Democrat,VT,RepBeccaB,1606115178210365448,official,h2
+D000617,Suzan K. DelBene,house,Democrat,WA,RepDelBene,995193054,official,h2
+L000560,Rick Larsen,house,Democrat,WA,RepRickLarsen,404132211,official,h2
+G000600,Marie Gluesenkamp Perez,house,Democrat,WA,RepMGP,1603127874512453632,official,h2
+N000189,Dan Newhouse,house,Republican,WA,RepNewhouse,2930635215,official,h2
+B001322,Michael Baumgartner,house,Republican,WA,RepBaumgartner,1869814916430888960,official,h2
+J000298,Pramila Jayapal,house,Democrat,WA,RepJayapal,815733290955112448,official,h2
+S001216,Kim Schrier,house,Democrat,WA,RepKimSchrier,1080462532815532032,official,h2
+S000510,Adam Smith,house,Democrat,WA,RepAdamSmith,58928690,official,h2
+S001159,Marilyn Strickland,house,Democrat,WA,RepStricklandWA,1343646545955213312,official,h2
+S001213,Bryan Steil,house,Republican,WI,RepBryanSteil,1075205691621720064,official,h2
+P000607,Mark Pocan,house,Democrat,WI,RepMarkPocan,1206227149,official,h2
+V000135,Derrick Van Orden,house,Republican,WI,RepVanOrden,1598778014401269760,official,h2
+M001160,Gwen Moore,house,Democrat,WI,RepGwenMoore,22669526,official,h2
+F000471,Scott Fitzgerald,house,Republican,WI,RepFitzgerald,1004891731,official,h2
+G000576,Glenn Grothman,house,Republican,WI,RepGrothman,2976606250,official,h2
+T000165,Thomas P. Tiffany,house,Republican,WI,RepTiffany,1267841066335682562,official,h2
+W000829,Tony Wied,house,Republican,WI,RepTonyWied,1857080132470452224,official,h2
+M001205,Carol D. Miller,house,Republican,WV,RepCarolMiller,1081318716573470720,official,h2
+M001235,Riley M. Moore,house,Republican,WV,RepRileyMoore,1875249747809710080,official,h2
+G000606,Adelita S. Grijalva,house,Democrat,AZ,Rep_Grijalva,1973490757026848768,official,h3
+G000606,Adelita S. Grijalva,house,Democrat,AZ,AdelitaForAZ,1906193081814388736,campaign,h3
+H001098,Abraham J. Hamadeh,house,Republican,AZ,RepAbeHamadeh,1849952301290504193,official,h3
+H001098,Abraham J. Hamadeh,house,Republican,AZ,AbrahamHamadeh,18458934,campaign,h3
+G000607,James Gallagher,house,Republican,CA,RepGallagherCA1,2075662648986021888,official,h3
+G000607,James Gallagher,house,Republican,CA,J_Gallagher4CA,512044262,campaign,h3
+W000832,Aisha Wahab,house,Democrat,CA,aishabbwahab,740358285287526400,campaign,h3
+C001123,"Gilbert Ray Cisneros, Jr.",house,Democrat,CA,RepGilCisneros,1080986167003230208,official,h3
+T000491,Derek Tran,house,Democrat,CA,RepDerekTranCA,1877088040453079040,official,h3
+T000491,Derek Tran,house,Democrat,CA,DerekTranCA45,1707910391844769792,campaign,h3
+M001241,Dave Min,house,Democrat,CA,CongressMin,1858680194112065536,official,h3
+M001241,Dave Min,house,Democrat,CA,DaveMinCA,48219458,campaign,h3
+M001238,Sarah McBride,house,Democrat,DE,Rep_McBride,1874886856942452736,official,h3
+M001238,Sarah McBride,house,Democrat,DE,SarahEMcBride,272191896,personal,h3
+P000622,Jimmy Patronis,house,Republican,FL,PatronisFL,1912210253841580032,official,h3
+P000622,Jimmy Patronis,house,Republican,FL,JimmyPatronis,33402633,personal,h3
+F000484,Randy Fine,house,Republican,FL,RepFine,1917684236557115396,official,h3
+F000484,Randy Fine,house,Republican,FL,VoteRandyFine,3030814395,campaign,h3
+B001328,Everton Blair Jr.,house,Democrat,GA,repevertonblair,2096985379991629824,official,h3
+B001328,Everton Blair Jr.,house,Democrat,GA,evertonblairjr,233266124,campaign,h3
+F000485,Clay Fuller,house,Republican,GA,RepClayFuller,2044823073799524352,official,h3
+F000485,Clay Fuller,house,Republican,GA,Clay4MainStreet,1218212301259640832,campaign,h3
+J000309,Jonathan L. Jackson,house,Democrat,IL,rep_jackson,1615455071801679874,official,h3
+M001233,Mark B. Messmer,house,Republican,IN,RepMessmer,1875298824387760128,official,h3
+J000299,Mike Johnson,house,Republican,LA,SpeakerJohnson,827279765287559171,official,h3
+J000299,Mike Johnson,house,Republican,LA,MikeJohnson,4849654052,campaign,h3
+C001101,Katherine M. Clark,house,Democrat,MA,WhipKClark,2293131060,official,h3
+C001101,Katherine M. Clark,house,Democrat,MA,TeamKClark,23201727,campaign,h3
+E000294,Tom Emmer,house,Republican,MN,GOPMajorityWhip,2914515430,official,h3
+E000294,Tom Emmer,house,Republican,MN,tomemmer,72431423,campaign,h3
+E000246,Chuck Edwards,house,Republican,NC,RepChuckEdwards,1602748099792879616,official,h3
+E000246,Chuck Edwards,house,Republican,NC,ChuckEdwards4NC,838404430793953280,campaign,h3
+P000621,Nellie Pou,house,Democrat,NJ,RepNellie,1876279166565515264,official,h3
+P000621,Nellie Pou,house,Democrat,NJ,NelliePou,1411017944,campaign,h3
+M001246,Analilia Mejia,house,Democrat,NJ,RepAnalilia,2046995891584720896,official,h3
+M001246,Analilia Mejia,house,Democrat,NJ,Analilia_Mejia,2269654426,personal,h3
+M000317,Nicole Malliotakis,house,Republican,NY,RepNicole,1344750588026900481,official,h3
+M000317,Nicole Malliotakis,house,Republican,NY,NMalliotakis,757862089,campaign,h3
+R000622,Josh Riley,house,Democrat,NY,RepRileyNY,1861770594108289025,official,h3
+R000622,Josh Riley,house,Democrat,NY,JoshRileyUE,360737087,campaign,h3
+R000619,Michael A. Rulli,house,Republican,OH,RepMichaelRulli,1808142093744852992,official,h3
+V000139,Matt Van Epps,house,Republican,TN,repvanepps,1999112199189766144,official,h3
+G000589,Lance Gooden,house,Republican,TX,RepLanceGooden,2049865679365406721,official,h3
+M001245,Christian D. Menefee,house,Democrat,TX,RepCDMenefee,2018044297250025472,official,h3
+M001245,Christian D. Menefee,house,Democrat,TX,CDMenefee,1310932410,campaign,h3
+C001115,Michael Cloud,house,Republican,TX,RepMichaelCloud,1039879658400112640,official,h3
+H001095,Wesley Hunt,house,Republican,TX,RepWPH,1602751001756311556,official,h3
+H001095,Wesley Hunt,house,Republican,TX,WesleyHuntTX,1112744620247662592,personal,h3
+W000831,James R. Walkinshaw,house,Democrat,VA,Rep_Walkinshaw,1222568492764975105,official,h3
+W000831,James R. Walkinshaw,house,Democrat,VA,JamesWalkinshaw,14229561,campaign,h3
+R000621,Emily Randall,house,Democrat,WA,EmilyRandallWA,950534709100011521,campaign,h3
+ELECT-AL-01-CARL,Jerry Carl,house,Republican,AL,CarlForAlabama,2237925464,campaign,h3
+ELECT-AZ-01-SHAH,Amish Shah,house,Democrat,AZ,DrAmishShah,2889026285,campaign,h3
+ELECT-AZ-05-LAMB,Mark Lamb,house,Republican,AZ,sherifflamb1,4102541472,campaign,h3
+ELECT-AZ-06-MENDOZA,JoAnna Mendoza,house,Democrat,AZ,Mendoza4AZ,1160419318351351809,campaign,h3
+ELECT-CA-01-MCGUIRE,Mike McGuire,house,Democrat,CA,ilike_mike,64295441,campaign,h3
+ELECT-CA-04-JONES,Eric Jones,house,Democrat,CA,ericjones_us,1956150763694252045,campaign,h3
+ELECT-CA-06-PAN,Richard Pan,house,Democrat,CA,DrPanMD,246961837,campaign,h3
+ELECT-CA-11-WIENER,Scott Wiener,house,Democrat,CA,Scott_Wiener,26703365,personal,h3
+ELECT-CA-22-VILLEGAS,Randy Villegas,house,Democrat,CA,Villegas_CA22,2264739169,campaign,h3
+ELECT-CA-26-IRWIN,Jacqui Irwin,house,Democrat,CA,jacquiirwin,37149107,campaign,h3
+ELECT-CA-34-GONZALESTORRES,Angela Gonzales-Torres,house,Democrat,CA,Angela4CA,1909311283750440960,campaign,h3
+ELECT-CA-38-SOLIS,Hilda Solis,house,Democrat,CA,HildaSolis,2377732207,official,h3
+ELECT-CA-48-WILPERT,Marni von Wilpert,house,Democrat,CA,marnivonwilpert,2802072711,campaign,h3
+ELECT-CO-01-KIROS,Melat Kiros,house,Democrat,CO,MelatKirosCO,1786238824646946816,campaign,h3
+ELECT-CO-04-LAUBACHER,Eileen Laubacher,house,Democrat,CO,EileenforCO,1918340566988779524,campaign,h3
+ELECT-CO-05-KILLIN,Jessica Killin,house,Democrat,CO,killinforco,1081221588559761408,campaign,h3
+ELECT-CO-08-RUTINEL,Manny Rutinel,house,Democrat,CO,MannyRutinel,35383188,personal,h3
+ELECT-CT-01-BRONIN,Luke Bronin,house,Democrat,CT,LukeBronin,4116724876,personal,h3
+ELECT-FL-02-ROGERS,Austin Rogers,house,Republican,FL,rogersforfl,2011961910158315520,campaign,h3
+ELECT-FL-07-ELIJAH,Ryan Elijah,house,Republican,FL,RyanElijah,36957386,personal,h3
+ELECT-FL-11-STRADA,Joe Strada,house,Republican,FL,VoteStrada,2064061151999066112,campaign,h3
+ELECT-FL-16-GRUTERS,Sydney Gruters,house,Republican,FL,SydneyGrutersFL,2059111898382041089,campaign,h3
+ELECT-FL-19-SCHWARTZEL,Jim Schwartzel,house,Republican,FL,JimSchwartzel,1892033509822431234,campaign,h3
+ELECT-FL-24-GILBERT,Oliver Gilbert III,house,Democrat,FL,Ogilbert,39555047,personal,h3
+ELECT-GA-01-KINGSTON,Jim Kingston,house,Republican,GA,JimKingstonGA,1945882096699920384,campaign,h3
+ELECT-GA-10-GAINES,Houston Gaines,house,Republican,GA,houstongaines,58114015,campaign,h3
+ELECT-GA-13-CLARK,Jasmine Clark,house,Democrat,GA,jasmineforga,1929178080301740032,campaign,h3
+ELECT-IA-01-BOHANNAN,Christina Bohannan,house,Democrat,IA,BohannanIowa,1255198692367388672,campaign,h3
+ELECT-IA-02-JAMES,Lindsay James,house,Democrat,IA,Lindsay4Iowa,861289199135227904,campaign,h3
+ELECT-IA-03-GARRIOTT,Sarah Trone Garriott,house,Democrat,IA,SarahforIowa,1144212414302445569,campaign,h3
+ELECT-IA-04-MCGOWAN,Chris McGowan,house,Republican,IA,McGowanForIowa,1936550957476651009,campaign,h3
+ELECT-IL-02-MILLER,Donna Miller,house,Democrat,IL,Donna4Congress,1942937440773181440,campaign,h3
+ELECT-IL-04-GARCIA,Patty Garcia,house,Democrat,IL,PattyforIL,1987205876936286215,campaign,h3
+ELECT-IL-07-FORD,La Shawn Ford,house,Democrat,IL,FordLaShawnK,28945952,personal,h3
+ELECT-IL-08-BEAN,Melissa Bean,house,Democrat,IL,Melissabeanil08,1965469074298916864,campaign,h3
+ELECT-IL-09-BISS,Daniel Biss,house,Democrat,IL,DanielBiss,7912512,personal,h3
+ELECT-IN-05-FORD,J.D. Ford,house,Democrat,IN,jdford4congress,2177361738,campaign,h3
+ELECT-KY-04-GALLREIN,Ed Gallrein,house,Republican,KY,EdGallrein,1979269067560431616,campaign,h3
+ELECT-KY-06-DEMBO,Zach Dembo,house,Democrat,KY,ZachDemboKY,1945550782629384192,campaign,h3
+ELECT-MA-06-KOH,Dan Koh,house,Democrat,MA,dank,16976132,personal,h3
+ELECT-MD-05-BOAFO,Adrian Boafo,house,Democrat,MD,AdrianBoafoMD,1922042651731263488,campaign,h3
+ELECT-MI-04-MCCANN,Sean McCann,house,Democrat,MI,SeanAMcCann,64216447,campaign,h3
+ELECT-MI-07-LAWRENCE,Will Lawrence,house,Democrat,MI,WeWillMi,776416297148096513,campaign,h3
+ELECT-MI-10-HINES,Christina Hines,house,Democrat,MI,cbhines586,1650652682753826819,campaign,h3
+ELECT-MI-11-MOSS,Jeremy Moss,house,Democrat,MI,JeremyAllenMoss,1587256842,personal,h3
+ELECT-MI-13-MCKINNEY,Donavan McKinney,house,Democrat,MI,DonavanMI13,1916226007436320768,campaign,h3
+ELECT-MN-02-LITTLE,Matt Little,house,Democrat,MN,LittleCongress,230268979,campaign,h3
+ELECT-MO-02-WELLMAN,Fred Wellman,house,Democrat,MO,WellmanForMO,1957481325994057728,campaign,h3
+ELECT-MO-02-WELLMAN,Fred Wellman,house,Democrat,MO,FPWellman,42518865,personal,h3
+ELECT-MO-06-STIGALL,Chris Stigall,house,Republican,MO,ChrisStigall,22008787,personal,h3
+ELECT-MT-01-FORSTAG,Sam Forstag,house,Democrat,MT,SamForstag,941524530379423745,campaign,h3
+ELECT-NC-03-SMITH,Raymond Smith,house,Democrat,NC,RayESmithJr,770081556908105728,campaign,h3
+ELECT-NC-09-OJEDA,Richard Ojeda,house,Democrat,NC,ojedafornc,1893092447367974912,campaign,h3
+ELECT-NC-11-AGER,Jamie Ager,house,Democrat,NC,JamieAgerNC,1915004223579922432,campaign,h3
+ELECT-NC-13-BARRINGER,Paul Barringer,house,Democrat,NC,PaulBarringerNC,1925186970294104064,campaign,h3
+ELECT-NC-14-WOMACK,LaKesha Womack,house,Democrat,NC,LaKeshaWomack,26179487,personal,h3
+ELECT-NE-02-POWELL,Denise Powell,house,Democrat,NE,DeniseForNE,1917760608717660161,campaign,h3
+ELECT-NH-01-SHAHEEN,Stefany Shaheen,house,Democrat,NH,Stefany4NH,1927666031952093184,campaign,h3
+ELECT-NJ-02-MULLOCK,Zack Mullock,house,Democrat,NJ,ZMullock,2166662212,campaign,h3
+ELECT-NJ-07-BENNETT,Rebecca Bennett,house,Democrat,NJ,RebeccaForNJ07,328064347,campaign,h3
+ELECT-NJ-12-HAMAWY,Adam Hamawy,house,Democrat,NJ,HamawyForNJ,1733904094870351872,campaign,h3
+ELECT-NY-07-VALDEZ,Claire Valdez,house,Democrat,NY,claireforny,1692287796004761600,campaign,h3
+ELECT-NY-10-LANDER,Brad Lander,house,Democrat,NY,bradlander,19170880,personal,h3
+ELECT-NY-12-LASHER,Micah Lasher,house,Democrat,NY,MicahLasher,587954258,personal,h3
+ELECT-NY-17-CONLEY,Cait Conley,house,Democrat,NY,CaitforNewYork,1894536431529254912,campaign,h3
+ELECT-OH-07-POINDEXTER,Brian Poindexter,house,Democrat,OH,bpforcongress,2004672112293019648,campaign,h3
+ELECT-OH-10-KNICKERBOCKER,Kristina Knickerbocker,house,Democrat,OH,KnickerbockerOH,1947009576542384128,campaign,h3
+ELECT-PA-01-HARVIE,Bob Harvie,house,Democrat,PA,Bobharvie_PA01,1907740076399812608,campaign,h3
+ELECT-PA-03-RABB,Chris Rabb,house,Democrat,PA,chrisrabb,9543342,campaign,h3
+ELECT-PA-07-BROOKS,Bob Brooks,house,Democrat,PA,VoteBobBrooks,1959274676468817921,campaign,h3
+ELECT-PA-08-COGNETTI,Paige Cognetti,house,Democrat,PA,PaigeGCognetti,3951356068,campaign,h3
+ELECT-PA-10-STELSON,Janelle Stelson,house,Democrat,PA,JanelleStelson,1708979827707981824,campaign,h3
+ELECT-SC-01-LACORE,Nancy Lacore,house,Democrat,SC,nancylacore,2013403394921123840,campaign,h3
+ELECT-SC-05-CLIMER,Wes Climer,house,Republican,SC,WesClimer,21599816,campaign,h3
+ELECT-SD-00-JACKLEY,Marty Jackley,house,Republican,SD,JackleyMar8682,1694026885603241995,personal,h3
+ELECT-TN-05-HATCHER,Charlie Hatcher,house,Republican,TN,HatcherforTN,1978468317749706752,campaign,h3
+ELECT-TN-06-GARRETT,Johnny Garrett,house,Republican,TN,JohnnyGarrett,467409801,campaign,h3
+ELECT-TN-09-TAYLOR,Brent Taylor,house,Republican,TN,BrentTaylorTN,1752093433215201280,campaign,h3
+ELECT-TX-02-TOTH,Steve Toth,house,Republican,TX,SteveTothTX,93902984,campaign,h3
+ELECT-TX-08-STEINMANN,Jessica Steinmann,house,Republican,TX,TeamSteinmann,1966468396570066944,campaign,h3
+ELECT-TX-10-GOBER,Chris Gober,house,Republican,TX,ChrisKGober,1072803127,campaign,h3
+ELECT-TX-15-PULIDO,Bobby Pulido,house,Democrat,TX,PulidoForTexas,1948882877178900481,campaign,h3
+ELECT-TX-15-PULIDO,Bobby Pulido,house,Democrat,TX,bobbypulido425,113812373,personal,h3
+ELECT-TX-19-SELL,Tom Sell,house,Republican,TX,SellForTexas19,1988768113312350208,campaign,h3
+ELECT-TX-21-TEIXEIRA,Mark Teixeira,house,Republican,TX,teixeiramark25,273483641,personal,h3
+ELECT-TX-22-NEHLS,Trever Nehls,house,Republican,TX,TreverNehls,64915810,campaign,h3
+ELECT-TX-23-STOUT,Katy Padilla Stout,house,Democrat,TX,katy4congress,1996087768070688768,campaign,h3
+ELECT-TX-32-YARBROUGH,Jace Yarbrough,house,Republican,TX,JaceYarbrough,390945947,personal,h3
+ELECT-TX-33-ALLRED,Colin Allred,house,Democrat,TX,ColinAllredTX,346964561,campaign,h3
+ELECT-TX-35-GARCIA,Johnny C. Garcia,house,Democrat,TX,johnnygarciatx,1990887812045176832,campaign,h3
+ELECT-TX-38-BONCK,Jon Bonck,house,Republican,TX,TeamBonck,1919078894423920640,campaign,h3
+ELECT-UT-01-MCADAMS,Ben McAdams,house,Democrat,UT,BenMcAdams,48255275,personal,h3
+ELECT-VA-01-TAYLOR,Shannon Taylor,house,Democrat,VA,ShannonTaylorVA,3379608347,campaign,h3
+ELECT-VA-02-LURIA,Elaine Luria,house,Democrat,VA,ElaineLuria,1080292515939565568,campaign,h3
+ELECT-WA-04-MCKINNEY,Amanda McKinney,house,Republican,WA,_AmandaMcKinney,1846441067455172611,campaign,h3
+ELECT-WI-01-BERMAN,Mitchell Berman,house,Democrat,WI,MBermanWI,1960093585237241857,campaign,h3
+ELECT-WI-03-COOKE,Rebecca Cooke,house,Democrat,WI,RebeccaforWI,1445874755127726080,campaign,h3
+ELECT-WI-07-ALFONSO,Michael Alfonso,house,Republican,WI,MikeAlfonsoWI,1962259289088688130,campaign,h3
+ELECT-NY-13-CHEVALIER,Darializa Avila Chevalier,house,Democrat,NY,DarializaforNY,1987890041583181825,campaign,h3

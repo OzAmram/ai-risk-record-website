@@ -1,0 +1,39 @@
+{"bioguide": "F000480", "member": "Vince Fong",
+ "searches": [
+  "Vince Fong artificial intelligence site:fong.house.gov",
+  "\"Vince Fong\" \"AI safety\"",
+  "\"Vince Fong\" superintelligence",
+  "\"Vince Fong\" AI extinction OR existential risk",
+  "\"Vince Fong\" AI pause OR moratorium OR slowdown",
+  "\"Vince Fong\" China AI agreement OR treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-03-17", "venue": "House Homeland Security subcommittee hearing, opening statement",
+   "quote": "Further reporting suggested that DeepSeek employees used third-party routers and networks of unauthorized resellers to circumvent existing safeguards, and may have sought to override safety protections around biological and chemical weapons research.",
+   "context": "Hearing on threats from Chinese AI, robotics and autonomous technologies; the statement is about DeepSeek's alleged theft of American models, data going to China, and vulnerabilities in Unitree robots.",
+   "source_label": "House Homeland Security Committee (Republican) press release, 17 March 2026",
+   "url": "https://homeland.house.gov/2026/03/17/rep-fong-delivers-opening-statement-in-hearing-on-threats-posed-by-prc-artificial-intelligence-robotics-and-autonomous-technologies/",
+   "read_at_source": true, "level": "D", "flags": ["boundary"],
+   "reason": "The statement is about competition with China, theft and data security; it relays reporting about a Chinese firm bypassing weapons-related safety protections but does not itself name a catastrophic harm from AI, so D (close to C misuse_only)."},
+  {"date": "2025-09-16", "venue": "Press release on the NSF AI Education Act of 2025 (H.R. 5351)",
+   "quote": "As emerging technologies like AI reshape the global economy, it’s critical that rural communities, like those in California’s Central Valley, are empowered,",
+   "context": "Introduction of his bill to fund AI education, scholarships and community college centers.",
+   "source_label": "fong.house.gov press release, 16 September 2025",
+   "url": "https://fong.house.gov/media/press-releases/congressman-fong-introduces-ai-education-act-2025-strengthen-americas",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About AI education and workforce, not catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Sponsored H.R. 5351, the National Science Foundation Artificial Intelligence Education Act of 2025, on AI education and workforce.", "fong.house.gov press release, 16 September 2025", "https://fong.house.gov/media/press-releases/congressman-fong-introduces-ai-education-act-2025-strengthen-americas"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "He has spoken about AI in 2025 and 2026 (education, competition with China, Chinese AI and robot security), but nothing found acknowledges catastrophic risk from AI.",
+ "notes": "Seven web searches ran, none refused. The searches on AI safety, superintelligence, extinction, pause and China agreement returned nothing about him. No source shows him as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 24 September 2026); the cosponsors named in reports are Democrats, but I did not open the full congress.gov cosponsor list. The 17 March 2026 hearing statement mentions DeepSeek possibly overriding safety protections around biological and chemical weapons research; a reviewer may judge this C with misuse_only, but it is framed as reporting about a Chinese company and the harms he stresses are theft, data and economic or military advantage, so I labelled it D with boundary. The hearing statement was published on the Homeland Security Committee's site, not fong.house.gov."
+}

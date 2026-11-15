@@ -1,0 +1,25 @@
+{
+  "bioguide": "G000591",
+  "member": "Michael Guest",
+  "searches": [
+    "site:guest.house.gov artificial intelligence",
+    "\"Michael Guest\" superintelligence",
+    "\"Michael Guest\" AI extinction OR \"existential risk\"",
+    "\"Michael Guest\" AI pause OR slowdown OR moratorium",
+    "Rep. Michael Guest China artificial intelligence agreement OR treaty",
+    "\"Michael Guest\" \"AI safety\"",
+    "Congressman Michael Guest Mississippi artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Michael Guest about AI, let alone catastrophic AI risk, was found in news coverage, his official site or bill records from 2025 to November 2026.",
+  "notes": "All 6 required web searches ran, plus 2 more (one general search on Guest and AI in 2026, one on Ban Artificial Superintelligence Act cosponsors); none returned a statement by him about AI. The site-restricted search returned no guest.house.gov pages, so his site was checked directly: in this run the 'In the news' page (https://guest.house.gov/media/in-the-news, page 1, items May 2026 back to July 2025) has no item about AI; in the earlier cut-short run, the press release list (https://guest.house.gov/media/press-releases, pages 1 and 2, March 2024 to 10 November 2026) was checked and no title or summary mentions AI. Only page 1 of 14 of 'In the news' was checked. Ban Artificial Superintelligence Act: the House bill (H.R. 10538) cosponsor list on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) shows 12 Democratic cosponsors and does not include Guest; congress.gov was not checked. No House letter on AI risk signed by him was found. The AFL-CIO scorecard (https://aflcio.org/scorecard/legislators/G000591) lists a vote on an amendment about state AI laws, but the search summary did not show how Guest voted, so it is not recorded. Hearing transcripts and floor speeches were not searched individually."
+}

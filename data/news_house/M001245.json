@@ -1,0 +1,24 @@
+{
+ "bioguide": "M001245",
+ "member": "Christian D. Menefee",
+ "searches": [
+  "Menefee artificial intelligence (restricted to menefee.house.gov)",
+  "Christian Menefee superintelligence",
+  "Christian Menefee AI extinction existential risk",
+  "Christian Menefee AI pause slowdown moratorium",
+  "Christian Menefee China AI agreement treaty",
+  "\"Menefee\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Menefee"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "The only AI-related material found is a 22 July 2026 press release describing him questioning an administration official at a House Science Committee hearing about the water and electricity demands of AI data centers in Texas, which is outside the project's scope (level D). That release paraphrases him and contains no quoted words of his, so no statement is recorded; a reviewer may prefer \"none\".",
+ "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (seven in total). None of the searches beyond the official-site search returned anything by or about Menefee on AI risk, superintelligence, extinction, a pause or slowdown, China talks or AI safety. From the earlier attempt (still valid): the official site was opened directly, including the home page, the votes and legislation page, and all six pages of press releases (about 57 releases, 2 February to 12 November 2026); the official-site search this time again surfaced only the same AI-related release. Paraphrase left out: 22 July 2026 press release (https://menefee.house.gov/media/press-releases/congressman-menefee-presses-trump-administration-on-false-chips-claims-and-ai-data-centers-impact-on-texas, opened in the earlier attempt) describes him raising AI data center water use and utility costs at a House Science, Space, and Technology Committee hearing and asking whether the administration would protect state authority over them; none of his words are in quotation marks; no mention of catastrophic risk, superintelligence or China. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 cosponsors and Menefee is not among them; the Congress.gov cosponsor page returned HTTP 403, so the list could not be confirmed there and may lag later additions. No House letter about AI risk led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). He took office on 2 February 2026, so there are no 2025 statements as a member. Search results did not surface any interviews or news coverage of him on AI."
+}

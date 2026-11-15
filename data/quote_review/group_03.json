@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "C001075",
+  "member": "Sen. Bill Cassidy (Republican, Louisiana)",
+  "url": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-rosen-introduce-legislation-to-protect-sensitive-federal-data-from-deepseek-adversarial-ai-technologies/",
+  "quote": "AI is a powerful tool which can be used to enhance things like medicine and education. But in the wrong hands, it can be weaponized. By feeding sensitive data into systems like DeepSeek, we give China another weapon,",
+  "result": "confirmed",
+  "evidence_url": "https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-rosen-introduce-legislation-to-protect-sensitive-federal-data-from-deepseek-adversarial-ai-technologies/",
+  "context": "ns have already moved to block DeepSeek from government devices due to critical security concerns. \"AI is a powerful tool which can be used to enhance things like medicine and education. But in the wrong hands, it can be weaponized. By feeding sensitive data into systems like DeepSeek, we give China another weapon,\" said Dr. Cassidy. \"The U.S. must take steps to ensure Americans' data and our government systems a",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording appears on the Cassidy press release, attributed to \"Dr. Cassidy\" (Senator Rosen is quoted separately). The page is dated May 7, 2025."
+ },
+ {
+  "bioguide": "ELECT-MI-ELSAYED",
+  "member": "Abdul El-Sayed",
+  "url": "https://abdulforsenate.com/2026/10/ai-under-control/",
+  "quote": "Recent prognosticators and whistle-blowers put the odds as high as 10% that AI could end humanity within the next decade. That should send a shiver down our spines.",
+  "result": "could_not_open",
+  "evidence_url": "",
+  "context": "",
+  "corrected_quote": "",
+  "date_ok": "unknown",
+  "explanation": "The campaign page returned a Cloudflare challenge (HTTP 403) to a plain download, and I did not try to get around it. Bridge Michigan and two Common Dreams articles downloaded but do not carry this wording; Metro Times and GV Wire returned 403. A search result summary says the page has the passage, but that is not evidence."
+ },
+ {
+  "bioguide": "K000384",
+  "member": "Tim Kaine",
+  "url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+  "quote": "develop a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large.",
+  "result": "confirmed",
+  "evidence_url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+  "context": " must lead the world in AI safety and international cooperation, including by working with China to develop a formal agreement that would slow down, and potentially enact a mutual pause in, frontier AI development to prevent cyberattacks, the development of biological weapons, and other dangerous activities that threaten the lives of the American people and humanity writ large. The development, release, and proper and improper use of AI present several risks unique to this te",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the letter text, dated September 23, 2026; Tim Kaine is listed as a signatory. It is a joint letter of 17 senators, not a personal statement."
+ },
+ {
+  "bioguide": "K000384",
+  "member": "Tim Kaine",
+  "url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+  "quote": "We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment.",
+  "result": "confirmed",
+  "evidence_url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+  "context": "ications for AI safety will require some of the smartest minds in the world committed to diplomacy. We encourage you to embrace these challenges because the stakes are existential, and our response must match the moment. The experts building frontier AI models have also been raising concerns for some time that the capa",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the letter text, dated September 23, 2026; Tim Kaine is a signatory of this joint letter."
+ },
+ {
+  "bioguide": "K000384",
+  "member": "Tim Kaine",
+  "url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+  "quote": "The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them.",
+  "result": "confirmed",
+  "evidence_url": "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf",
+  "context": "mbrace these challenges because the stakes are existential, and our response must match the moment. The experts building frontier AI models have also been raising concerns for some time that the capabilities of AI models may soon accelerate beyond our ability to understand or control them. In July, over 1,300 employees of frontier AI companies, who are uniquely aware of AI's potential an",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the letter text, dated September 23, 2026; Tim Kaine is a signatory of this joint letter."
+ }
+]

@@ -1,0 +1,79 @@
+{
+ "bioguide": "G000597",
+ "member": "Andrew R. Garbarino",
+ "searches": [
+  "Garbarino artificial intelligence (restricted to garbarino.house.gov)",
+  "Andrew Garbarino superintelligence",
+  "Garbarino AI extinction existential risk",
+  "Garbarino AI pause slowdown moratorium",
+  "Garbarino China AI agreement treaty",
+  "\"Garbarino\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House Garbarino"
+ ],
+ "statements": [
+  {
+   "date": "2026-04-29",
+   "venue": "Letter to Anysphere from Chairmen Garbarino (Homeland Security) and Moolenaar (Select Committee on China), quoted in committee press release",
+   "quote": "guardrails designed to prevent their models from being used to develop weapons, automate software vulnerability discovery and exploitation, generate tailored disinformation, or assist in the synthesis of dangerous chemical or biological agents",
+   "context": "Joint investigation into Chinese AI models built by distilling American frontier models and stripping out their safeguards, which the letter warns may then reach hostile states, terrorists and criminals.",
+   "source_label": "House Homeland Security Committee press release",
+   "url": "https://homeland.house.gov/2026/04/29/chairmen-garbarino-moolenaar-announce-joint-investigation-into-national-security-risks-posed-by-prc-ai-models/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "misuse_only",
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter names AI helping to make chemical or biological agents, but only as misuse by hostile states, terrorists and criminals, so ruling 1 makes it C; it sits near D because the danger is described through the guardrails labs build."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "no",
+   "note": "In his June 2026 Punchbowl remarks on federal AI policy he said \"I don’t think we should slow down\"; it is not fully clear whether he meant AI development or AI adoption and policy work, so a reviewer should check.",
+   "sources": [
+    [
+     "House Homeland Security Committee press release, 28 June 2026",
+     "https://homeland.house.gov/2026/06/28/we-need-to-be-able-to-defend-at-computer-speed-chairman-garbarino-joins-punchbowls-fly-out-day-to-talk-ai-and-cybersecurity/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development; his China AI work is about security risks of Chinese models.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "With Rep. Moolenaar, opened a joint investigation into national security risks of Chinese AI models, sending letters to Anysphere and Airbnb.",
+   "House Homeland Security Committee press release, 29 April 2026",
+   "https://homeland.house.gov/2026/04/29/chairmen-garbarino-moolenaar-announce-joint-investigation-into-national-security-risks-posed-by-prc-ai-models/"
+  ],
+  [
+   "With Rep. Moolenaar, continued the investigation into Chinese open-weight AI models with a letter to DoorDash calling for risk-based safeguards.",
+   "House Homeland Security Committee press release, 31 July 2026",
+   "https://homeland.house.gov/2026/07/31/chairmen-garbarino-moolenaar-continue-joint-investigation-into-security-risks-posed-by-prc-open-weight-ai-models/"
+  ],
+  [
+   "As committee chairman, held a hearing on securing AI in the US cybersecurity mission.",
+   "House Homeland Security Committee press release, 12 June 2025",
+   "https://homeland.house.gov/2025/06/12/adversaries-increasingly-weaponize-ai-chairman-garbarino-opens-hearing-on-securing-ai-in-the-us-cybersecurity-mission/"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His strongest 2026 statement is a co-signed letter naming AI-assisted synthesis of chemical or biological agents, which is misuse only and therefore C. His own remarks are about cyber threats (D), and he said he does not think we should slow down, which is a policy view, not a dismissal.",
+ "notes": "All seven web searches in this run ran (the six required plus one on the Ban Artificial Superintelligence Act). The searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing about Garbarino; the official-site search returned only security and cyber framing of AI, plus a 22 June 2022 emerging technologies hearing statement (opened; outside the 2025 onward window, so not included). The three statements and record entries are kept from an earlier run, which opened the House Homeland Security Committee pages directly and checked exact wording against them. The Punchbowl remarks were made 'last week' relative to the 28 June 2026 release; the exact day is not given, so the release date is used. The April 2026 letter quote is a shortened continuous passage (the full sentence is over 300 characters); the letter was signed by both chairmen, and the full letter PDF was not opened. Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar): no source found shows Garbarino as a cosponsor; the congress.gov cosponsor page returned 403, so this is not confirmed from the official list. No other House AI-risk letter led or signed by him was found. Whether his 'I don't think we should slow down' referred to AI development or to federal AI policy work is not fully clear; a reviewer should check the slowdown position. Statements recorded without a quote and so not shown: 2026-06-28 Punchbowl News Fly Out Day remarks, transcribed in committee press release (https://homeland.house.gov/2026/06/28/we-need-to-be-able-to-defend-at-computer-speed-chairman-garbarino-joins-punchbowls-fly-out-day-to-talk-ai-and-cybersecurity/); 2025-06-12 Opening statement, House Homeland Security Committee hearing on securing AI in the US cybersecurity mission (https://homeland.house.gov/2025/06/12/adversaries-increasingly-weaponize-ai-chairman-garbarino-opens-hearing-on-securing-ai-in-the-us-cybersecurity-mission/)"
+}

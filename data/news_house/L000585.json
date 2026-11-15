@@ -1,0 +1,90 @@
+{
+ "bioguide": "L000585",
+ "member": "Darin LaHood",
+ "searches": [
+  "Darin LaHood artificial intelligence site:lahood.house.gov",
+  "Darin LaHood superintelligence",
+  "Darin LaHood AI extinction existential risk",
+  "Darin LaHood AI pause slowdown moratorium",
+  "Darin LaHood China AI agreement treaty",
+  "\"LaHood\" \"AI safety\" 2026",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2025-06-12",
+   "venue": "Press release",
+   "quote": "As AI becomes an integrated part of society, Congress must ensure that the United States fortifies our technology defenses and remains the undeniable leader.",
+   "context": "Introducing the Advanced AI Security Readiness Act, which directs the National Security Agency to develop an AI security playbook against foreign adversaries.",
+   "source_label": "LaHood House press release",
+   "url": "https://lahood.house.gov/2025/6/lahood-bipartisan-colleagues-introduce-legislation-to-defend-american-ai-innovation",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About protecting American AI from theft by China and staying ahead; no catastrophic risk from AI is acknowledged."
+  },
+  {
+   "date": "2025-05-20",
+   "venue": "Press release",
+   "quote": "AI is one of the most high-stakes fronts in our strategic competition with the Chinese Communist Party,",
+   "context": "Introducing the Chip Security Act to stop smuggling of American AI chips to China.",
+   "source_label": "LaHood House press release",
+   "url": "https://lahood.house.gov/2025/5/lahood-bipartisan-colleagues-introduce-bill-to-stop-ai-chip-smuggling-to-china",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Competition with China and export control, which ruling 5 places at D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement, bill or letter by him on this policy was found in news searches or on his official site.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement, bill or letter by him on this policy was found in news searches or on his official site.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement, bill or letter by him on this policy was found in news searches or on his official site.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement, bill or letter by him on this policy was found in news searches or on his official site.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Joined Rep. Gottheimer in introducing the No DeepSeek on Government Devices Act.",
+   "LaHood House press release, February 2025",
+   "https://lahood.house.gov/2025/2/lahood-gottheimer-introduce-legislation-to-counter-ccp-s-deepseek-ai-software"
+  ],
+  [
+   "With Rep. Gottheimer, wrote to US governors urging them to ban DeepSeek from state government devices.",
+   "LaHood House press release, March 2025",
+   "https://lahood.house.gov/2025/3/lahood-gottheimer-urge-u-s-governors-to-ban-deepseek-from-government-devices"
+  ],
+  [
+   "Co-introduced the Advanced AI Security Readiness Act (NSA AI security playbook against foreign adversaries).",
+   "LaHood House press release, 2025-06-12",
+   "https://lahood.house.gov/2025/6/lahood-bipartisan-colleagues-introduce-legislation-to-defend-american-ai-innovation"
+  ],
+  [
+   "Joined colleagues in introducing the Chip Security Act (location verification for advanced AI chips to stop smuggling to China).",
+   "LaHood House press release, 2025-05-20",
+   "https://lahood.house.gov/2025/5/lahood-bipartisan-colleagues-introduce-bill-to-stop-ai-chip-smuggling-to-china"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His AI statements found are all from 2025 and about defending American AI from China (chip smuggling, an NSA security playbook, DeepSeek bans), with no acknowledgment of catastrophic risk; nothing about AI from him in 2026 was found.",
+ "notes": "All six required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (seven in total); the search is complete. None of the searches found any statement by him on superintelligence, extinction, loss of control, a pause or slowdown, an AI agreement with China, or AI safety. Sources for the House Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar) list only Democratic cosponsors (fastdemocracy names Hoyle, Lynch, Tonko; Forkast says Ocasio-Cortez and nine other Democrats); he is not shown as a cosponsor. No House letter on AI risk led by him was found. A Fox News article of 2025-06-12 (https://www.foxnews.com/politics/house-bipartisan-bill-directs-nsa-create-ai-security-playbook-amid-chinese-tech-race) quotes him at length on the AI race with China (e.g. it will be critical to future warfare capabilities and cybersecurity); read at source, all competition with China, so D and not added as a separate statement. The record entries for the February and March 2025 DeepSeek actions are from search result titles; those pages were not opened. Axios Pro (2025-06-17, 'LaHood on AI, China and export controls') is paywalled and was not read. From the earlier attempt: his official press release list pages 1 to 7 (November 2026 back to April 2025) were read directly and only the two releases quoted mention AI in that span; the 6/10/25 list entry carried the AI bill title with an Alzheimer's path, apparently a listing glitch, not used."
+}

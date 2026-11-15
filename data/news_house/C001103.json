@@ -1,0 +1,23 @@
+{
+  "bioguide": "C001103",
+  "member": "Earl L. \"Buddy\" Carter",
+  "searches": [
+    "site:buddycarter.house.gov artificial intelligence",
+    "Buddy Carter superintelligence",
+    "Buddy Carter AI extinction existential risk",
+    "Buddy Carter AI pause slowdown moratorium",
+    "Buddy Carter China AI agreement talks",
+    "\"Buddy Carter\" \"AI safety\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026 (H.R. 10538).", "sources": [["FastDemocracy, Ban Artificial Superintelligence Act cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement about AI since 1 January 2025 was found in searches or in his 2026 press releases, and he is not a cosponsor of the Ban Artificial Superintelligence Act of 2026.",
+  "notes": "All six required web searches ran; none was refused. None of them returned a statement by Carter on AI risk, superintelligence, a pause, or China talks. The only AI-related hit was an IAPP article (https://iapp.org/news/a/house-rep-federal-us-privacy-law-needed-to-build-confidence-in-ai). According to the search summary, it reports Carter saying that a federal privacy law could build public confidence in AI, at a Politico Live event. That is a paraphrase, the article returned HTTP 404 when opened, and its date is unknown (it may be from before 2025), so it was left out. If it were from 2025 or later, it would be level D (privacy). I opened his official press release listing, pages 1 to 6 (about 60 releases, 27 January 2026 to 11 November 2026). No title or visible excerpt mentioned AI. The 17 February 2026 letter asking the Department of Transportation to investigate Waymo's remote foreign drivers is about autonomous vehicles and was not opened. The 5 March 2026 children's online safety bill release was opened and does not mention AI. Not checked: 2025 press releases, hearing remarks (he sits on Energy and Commerce, which held AI hearings), floor speeches and interviews. The FastDemocracy page lists 12 cosponsors of H.R. 10538, all Democrats, with no Carter. Per the House instructions, the multi-signer House letters of August and September 2026 were not searched."
+}

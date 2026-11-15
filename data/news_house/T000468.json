@@ -1,0 +1,25 @@
+{
+  "bioguide": "T000468",
+  "member": "Dina Titus",
+  "searches": [
+    "Titus artificial intelligence site:titus.house.gov",
+    "Dina Titus superintelligence",
+    "Dina Titus AI extinction existential risk",
+    "Dina Titus AI pause slowdown moratorium",
+    "Dina Titus China AI agreement treaty",
+    "\"Dina Titus\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Rep. Dina Titus artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development. Her July and August 2026 call for a pause on state tax abatements for data centers on federal land was about water, energy, the grid and public review, not risks from AI, so it does not count.", "sources": [["Titus press release, 23 July 2026", "https://titus.house.gov/news/documentsingle.aspx?DocumentID=5922"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in her own words about AI was found in eight web searches or on her official site since January 2025; her many data center releases discuss water, energy, the grid and public review without mentioning AI in her own words.",
+  "notes": "All six required web searches ran this time, plus two extra (eight in total); none returned any statement by Dina Titus about AI risk, superintelligence, extinction, a pause, China talks or AI safety. The site-restricted search returned no titus.house.gov pages, so the earlier direct reading of titus.house.gov is kept: the home page and press release list pages 1 to 3 (releases from 30 April to 5 November 2026), and the data center releases of 9 July, 23 July, 17 August, 1 September and 16 September 2026; none of her quoted words mention AI. The 16 September 2026 release (https://titus.house.gov/news/documentsingle.aspx?DocumentID=5933), on her bill for transparency and environmental review of data centers on federal land, mentions AI only in its own narration (the Trump administration pushing rapid expansion of AI data centers), not in her words; at most this would be level D, and verbatim text was not extracted. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy cosponsor page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and she is not among them; Congress.gov was not checked (it returned 403 earlier), so a later cosponsorship cannot be fully ruled out. A 16 April 2026 article on a House AI roundtable about existential fears (reposted on min.house.gov) does not mention her. No House letter about AI risk led or signed by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Press releases before 30 April 2026 and all of 2025 on her own site were not read page by page, but the searches covered that period."
+}

@@ -1,0 +1,100 @@
+{
+  "bioguide": "J000298",
+  "member": "Pramila Jayapal",
+  "searches": [
+    "Jayapal artificial intelligence (restricted to jayapal.house.gov)",
+    "Pramila Jayapal superintelligence",
+    "Pramila Jayapal AI extinction existential risk",
+    "Jayapal AI pause slowdown moratorium",
+    "Jayapal China AI agreement treaty",
+    "\"Pramila Jayapal\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Jayapal"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "venue": "Opening remarks at a Monopoly Busters Caucus hearing she hosted, as given in her press release",
+      "quote": "now top researchers and even CEOs from those AI companies are also beginning to speak out about their own concerns that artificial intelligence is advancing so rapidly and recklessly that even they believe it could lead to the extinction of humanity.",
+      "context": "Opening a hearing on Big Tech and surveillance AI, she cited AI researchers' and company leaders' warnings before turning to breaking up AI market concentration.",
+      "source_label": "House press release",
+      "url": "https://jayapal.house.gov/2026/09/17/jayapal-hosts-hearing-on-big-tech-and-surveillance-ai/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "relayed_warning",
+        "boundary"
+      ],
+      "reason": "She relays others' warning that AI could cause human extinction; her own call to action is aimed at market concentration rather than clearly endorsing the warning, so C rather than A (boundary)."
+    },
+    {
+      "date": "2026-09-10",
+      "venue": "Post on X, as quoted by Newsweek",
+      "quote": "are out of control and a serious threat to our future.",
+      "context": "Reacting, amid warnings by a departing Anthropic researcher that AI could kill everyone by the end of the decade, she wrote that AI companies are dangerous and should have their dangerous models shut down.",
+      "source_label": "Newsweek",
+      "url": "https://newsweek.com/ai-researcher-warning-sparks-calls-for-regulation-midterms-12422040",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She calls AI companies a serious threat to our future in general terms without naming extinction or a specific catastrophic harm, so C; 'our future' falls short of the 'future of humanity' wording that ruling 1 makes A (boundary)."
+    },
+    {
+      "date": "2026-10-01",
+      "venue": "Press release introducing the National AI Charter Act framework",
+      "quote": "The crux of this bill is simple: if you want to be an AI company in this country, you have to obtain a public charter that has a broad set of terms and conditions to operate and ensure public benefit without the harms",
+      "context": "Announcing a framework requiring every AI company to hold a federal charter with safety testing, liability and structural separation from Big Tech.",
+      "source_label": "House press release",
+      "url": "https://jayapal.house.gov/2026/10/01/jayapal-introduces-legislative-framework-establishing-national-charter-system-to-rein-in-ai/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Her own quoted words in this release are about market power, surveillance, data and jobs and do not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development for safety reasons. Her X post (per Newsweek) says 'We need to shut down their dangerous models', which is about removing specific dangerous models rather than slowing capability progress. One search summary said she backed the Sanders/Ocasio-Cortez AI data center moratorium, but no source tying it to risks from AI itself was opened, so it does not count.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found calling for a halt to building more capable frontier AI; no source shows her cosponsoring the Ban Artificial Superintelligence Act.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; a China agreement search found only other members (Khanna, the 17 senators).",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; the charter framework bans systems 'capable of going rogue' but does not mention self-improvement.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the National AI Charter Act framework, which per her office would outlaw AI systems 'capable of going rogue, creating catastrophic hazards' and add government pre-release testing and a government-controlled kill switch",
+      "House press release, 2026-10-01",
+      "https://jayapal.house.gov/2026/10/01/jayapal-introduces-legislative-framework-establishing-national-charter-system-to-rein-in-ai/"
+    ],
+    [
+      "Hosted a Monopoly Busters Caucus hearing on Big Tech and surveillance AI",
+      "House press release, 2026-09-17",
+      "https://jayapal.house.gov/2026/09/17/jayapal-hosts-hearing-on-big-tech-and-surveillance-ai/"
+    ],
+    [
+      "Reintroduced the AI Civil Rights Act with Sen. Markey and others, on algorithmic discrimination",
+      "House press release, 2025-12-02",
+      "https://jayapal.house.gov/2025/12/02/jayapal-markey-clarke-lee-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination-and-enact-guardrails-on-use-of-algorithms-in-decisions-impacting-peoples-rights-civil-li/"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "Her strongest 2026 statements are C: at a 17 Sep 2026 hearing she relayed AI researchers' and CEOs' warning that AI could lead to human extinction without clearly stating it as her own view, and in an X post around 10 Sep 2026 she called AI companies 'a serious threat to our future'. Her charter framework (office text, not her quoted words) would ban AI 'capable of going rogue, creating catastrophic hazards'; a reviewer may judge that these together support B or A.",
+  "notes": "All 7 searches ran (6 required plus one on the Ban Artificial Superintelligence Act). No source names her as a sponsor or cosponsor of the Ban Artificial Superintelligence Act (Forkast says Ocasio-Cortez and nine other House Democrats cosponsored but does not list them); congress.gov returned 403 in an earlier attempt, so this stays unchecked. X post statement: wording seen in Newsweek (Andrew Stanton, undated page, September 2026); the exact post date is not given. The Anadolu Agency factbox dated 10 Sep 2026 already reports it, so the date is set to 2026-09-10 as the latest possible date; the post may be a day or two earlier. Newsweek also quotes from the same post: 'We need to shut down their dangerous models and push out the executives who are signing off on their creation' (not used as the main quote; the X search is done separately and should confirm the full post). KIRO 7 (11 Sep 2026) paraphrases her saying Congress should heed AI engineers' warnings; her direct quotes there are about constituents wanting regulation, no surveillance and democracy in the industry (D-level), so left out. Anadolu Agency paraphrases her calling for dangerous models to be shut down; not quoted. From the earlier attempt (pages opened directly): the 17 Sep 2026 hearing release and 1 Oct 2026 charter release were read in full. Boundary on the hearing quote: she says the warnings come amid 'threats of artificial intelligence' and calls the hearing timely, which could be read as endorsement (would make it A under ruling 2). Release text not in her quoted words, left out of statements: the hearing release says surveillance AI 'could pose a serious threat to human life'; the charter release says the framework outlaws AI systems 'capable of going rogue, creating catastrophic hazards' and 'protect[s] the public from dangerous AI models'. A Future of Life Institute supporter quote in the charter release praises her for addressing 'increasingly powerful and uncontrollable AI systems' (not her words). Common Dreams (1 Oct 2026) coverage of the charter bill has no quote from her on catastrophic risk. The many-signer House letters were not searched, per instructions. Her name is unique in Congress, so misattribution risk is low."
+}

@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-NY-10-LANDER",
+  "member": "Brad Lander",
+  "searches": [
+    "Brad Lander artificial intelligence AI safety",
+    "Brad Lander superintelligence",
+    "Brad Lander AI extinction existential risk",
+    "Brad Lander AI pause slowdown moratorium data centers",
+    "Brad Lander China AI agreement treaty",
+    "Brad Lander campaign artificial intelligence position NY-10",
+    "\"Lander\" AI regulation comptroller statement 2026 artificial intelligence risks"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development or on a data center moratorium tied to AI risk.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Lander has spoken about AI only in passing (saying in a June 2026 primary debate that he used an AI chatbot to check an opponent's vote, and a February 2025 comptroller-era plan to use AI responsibly in city government); no statement on catastrophic AI risk was found.",
+  "notes": "Seven web searches ran; none found any statement by Lander on AI risk, superintelligence, extinction, a pause or slowdown, or China talks. The only AI remark found is from the NY-10 Democratic primary debate on NY1, reported by Route Fifty / City & State on 2026-06-16 (https://www.route-fifty.com/artificial-intelligence/2026/06/how-are-new-yorks-congressional-candidates-using-ai-debate-moderators-want-know/414207/): \"I used it today to check on one of Rep. Goldman's votes.\" This is about his personal use of AI, too slight to list as a statement. A February 2025 campaign clip about a city technology plan (landerfornyc.com/clips/2025/2/10/brad-lander-unveils-comprehensive-plan-to-modernize-city-government-technology) reportedly says AI should be 'leveraged responsibly' for city services, but that page returned 404 and the wording was seen only in a search summary, so it is not quoted. As a non-member until 3 January 2027 he could not have co-sponsored the Ban Artificial Superintelligence Act and did not sign the House letters. 'D' rather than 'none' because he has mentioned AI; a reviewer could reasonably choose 'none' given how slight the mentions are. The search may have missed interviews or questionnaires not indexed."
+}

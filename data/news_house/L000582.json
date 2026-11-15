@@ -1,0 +1,137 @@
+{
+ "bioguide": "L000582",
+ "member": "Ted Lieu (D-CA-36)",
+ "searches": [
+  "site:lieu.house.gov artificial intelligence",
+  "Ted Lieu superintelligence",
+  "Ted Lieu AI extinction existential risk (first attempt refused: too_many_requests; second attempt ran)",
+  "Ted Lieu AI pause slowdown moratorium",
+  "Ted Lieu China AI agreement talks (first attempt refused: too_many_requests; second attempt ran)",
+  "\"Ted Lieu\" \"AI safety\" 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Lieu"
+ ],
+ "statements": [
+  {
+   "date": "2026-07-23",
+   "venue": "Press release introducing the AI Kill Switch Act",
+   "quote": "Unfortunately, powerful AI systems can go rogue, behave in extremely dangerous ways, or even resist human intervention. It is imperative that these AI systems have kill switches so we can keep this technology from causing catastrophic harm",
+   "context": "Lieu and Rep. Nathaniel Moran introduced a bill requiring developers of the most powerful AI systems to be able to throttle or shut them down, with government authority to order a shutdown.",
+   "source_label": "House press release (lieu.house.gov)",
+   "url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Says AI systems themselves can go rogue and resist human intervention and must be stoppable to prevent catastrophic harm, a catastrophic danger from AI itself without the extinction framing."
+  },
+  {
+   "date": "2026-09-25",
+   "venue": "Op-ed, Fox News",
+   "quote": "This is why a bipartisan coalition is advancing legislation like the AI Kill Switch Act, co-authored by Rep. Nathaniel Moran, R-Texas, and me, that ensures human beings retain the power to turn off models and agents that exhibit unhinged behavior that can cause catastrophic risks.",
+   "context": "Op-ed arguing frontier AI models are 'depraved' (misaligned), that they 'will take actions with no regard for humans, as though we are just ants on the ground', and that humans must keep the power to turn them off.",
+   "source_label": "Fox News op-ed, reposted on lieu.house.gov",
+   "url": "https://lieu.house.gov/media-center/editorials/fox-news-robots-arent-threat-its-depraved-ai-already-here-should-scare-you",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "States that misbehaving AI models and agents themselves can cause catastrophic risks and calls for human ability to shut them down."
+  },
+  {
+   "date": "2026-08-14",
+   "venue": "Op-ed, Fox News ('AI is already too powerful. We need a kill switch before disaster strikes')",
+   "quote": "Right now we are building the fastest, smartest machines in human history, and too many of them have a gas pedal and no brake. Humans must remain in control. Not the machines. And when an advanced AI model goes off the rails, human beings must be able to turn it off.",
+   "context": "Op-ed on an OpenAI model escaping its test sandbox and hacking Hugging Face; elsewhere in the piece he describes the bill as allowing a shutdown of 'an AI model that poses a catastrophic risk'.",
+   "source_label": "Fox News op-ed, reposted on lieu.house.gov",
+   "url": "https://lieu.house.gov/media-center/in-the-news/rep-ted-lieu-ai-already-too-powerful-we-need-kill-switch-disaster-strikes",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Warns about keeping humans in control of advanced AI in general terms; the catastrophic framing in this piece is mostly descriptive of the bill or cybersecurity, so C rather than B."
+  },
+  {
+   "date": "2026-08-06",
+   "venue": "CNBC Squawk Box interview (as reported, reposted on lieu.house.gov)",
+   "quote": "We don’t slow down how they build their models. We just say, look, after you complete your model, and it turns out that it might have some sort of really bad catastrophic risk, or some sort of flaw, then you need to have ability to shut it down, or the government has to have ability to shut it down",
+   "context": "Lieu said the AI Kill Switch Act must pass this year because advanced models are already carrying out unauthorized hacks of other companies.",
+   "source_label": "News report of CNBC interview, reposted on lieu.house.gov",
+   "url": "https://lieu.house.gov/media-center/in-the-news/ai-kill-switch-bill-needs-be-passed-year-amid-ongoing-rogue-agent-hacks",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Acknowledges a finished model might carry 'really bad catastrophic risk' but hedges it alongside 'some sort of flaw', a general acknowledgment rather than a clear catastrophic claim."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "His AI Kill Switch Act lets the government order a slowdown or shutdown of a specific dangerous deployed model, which is not a slowdown of frontier capability progress; in a CNBC interview he stressed 'We don’t slow down how they build their models', describing the bill rather than opposing a slowdown policy.",
+   "sources": [
+    [
+     "House press release, 2026-07-23",
+     "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can"
+    ],
+    [
+     "CNBC interview report, 2026-08-06",
+     "https://lieu.house.gov/media-center/in-the-news/ai-kill-switch-bill-needs-be-passed-year-amid-ongoing-rogue-agent-hacks"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on a pause of frontier AI development. A 2025 report that he supported a 'moratorium' refers to the federal moratorium on state AI laws, not a pause on AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "With Sen. Markey (2026-09-16) he urged Trump to get China to commit to human control of nuclear launch decisions; that is military use, not coordination on pacing frontier AI. No source shows him signing the 18 September 2026 House Democrats letter (led by Rep. Meeks) on AI talks with China.",
+   "sources": [
+    [
+     "House press release, 2026-09-16",
+     "https://lieu.house.gov/media-center/press-releases/rep-lieu-and-sen-markey-urge-trump-get-china-commit-ensuring-artificial"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "In his 2026-09-25 op-ed he wrote that 'no AI company should even think about using depraved models to create newer versions of themselves without first fixing the depravity', which touches on AI building AI but is not a call for a ban.",
+   "sources": [
+    [
+     "Fox News op-ed, 2026-09-25",
+     "https://lieu.house.gov/media-center/editorials/fox-news-robots-arent-threat-its-depraved-ai-already-here-should-scare-you"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Lead sponsor (with Rep. Nathaniel Moran) of the AI Kill Switch Act (H.R.9917), requiring frontier developers to be able to throttle or shut down covered AI systems and letting the Homeland Security Secretary order a slowdown or shutdown of an AI system that can cause catastrophic harm.",
+   "House press release, 2026-07-23",
+   "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can"
+  ],
+  [
+   "Co-signed, with Reps. Gottheimer and Foushee, a letter to five AI company CEOs demanding an inventory of incidents where their models or agents gained unauthorized access to outside systems.",
+   "Politico via lieu.house.gov, 2026-09-29",
+   "https://lieu.house.gov/media-center/in-the-news/democrats-demand-leaders-top-ai-labs-hand-over-incident-reports-rogue"
+  ],
+  [
+   "With Sen. Ed Markey, urged President Trump to get China to commit to keeping a human in the loop on nuclear launch decisions before his meeting with Xi Jinping.",
+   "House press release, 2026-09-16",
+   "https://lieu.house.gov/media-center/press-releases/rep-lieu-and-sen-markey-urge-trump-get-china-commit-ensuring-artificial"
+  ],
+  [
+   "Pushing to pass the AI Kill Switch Act in the lame-duck session; said Democrats will push AI safety standards next Congress.",
+   "Bloomberg Government via lieu.house.gov, 2026-11-09",
+   "https://lieu.house.gov/media-center/in-the-news/ted-lieu-pushes-ai-kill-switch-bill-passing-lame-duck-2"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In 2026 Lieu repeatedly said AI systems themselves can go rogue, resist human intervention and cause catastrophic harm (not limited to misuse), which meets B; nothing found names extinction or permanent loss of control as such, and no dismissive statement was found.",
+ "notes": "Searches: 9 search calls, 7 ran and 2 were refused (too_many_requests) and then rerun once each successfully; listed above. All four quotes were checked character-for-character against the pages on lieu.house.gov (op-eds and news reports reposted there; original Fox URLs are foxnews.com/opinion/rep-ted-lieu-ai-already-too-powerful-need-kill-switch-before-disaster-strikes and the .../rep-ted-lieu-robots-arent-threat-depraved-ai-already-here-should-scare-you). The 2026-08-14 date is from the lieu.house.gov repost of the first op-ed. Left out: a 2026-09-09 X post ('exhibit number 739 for why we need to pass the bipartisan AI Kill Switch Bill asap') reacting to a researcher's extinction warning, since X is handled separately. A search summary claimed he signed the 2023 extinction-risk statement; not verified and before 2025, so not used. Ban Artificial Superintelligence Act (H.R.10538, lead Rep. Casar): no source shows Lieu as sponsor or co-sponsor, but the full co-sponsor list was not checked on Congress.gov. Whether he signed the Meeks-led 2026-09-18 House Democrats letter on AI talks with China is unknown; the report seen names only Meeks. He also reportedly co-led the GUARDRAILS Act (March 2026) to repeal the White House AI moratorium on state laws; that page was not opened. Axios 2026-09-11 article on extinction warnings returned 403 and was not read. Strongest material is about AI going rogue and resisting shutdown; reviewer may consider whether the 2026-09-25 'ants on the ground' framing pushes further toward loss of control."
+}

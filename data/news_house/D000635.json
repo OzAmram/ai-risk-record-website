@@ -1,0 +1,40 @@
+{
+  "bioguide": "D000635",
+  "member": "Maxine Dexter",
+  "searches": [
+    "Maxine Dexter artificial intelligence (restricted to dexter.house.gov)",
+    "Rep. Maxine Dexter superintelligence",
+    "Maxine Dexter AI extinction existential risk",
+    "Maxine Dexter AI pause slowdown moratorium",
+    "Maxine Dexter China AI agreement treaty",
+    "\"Maxine Dexter\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement, bill or letter on this found in news searches or on her official site.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement, bill or letter on this found in news searches or on her official site.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement, bill or letter on this found in news searches or on her official site.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement, bill or letter on this found in news searches or on her official site.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement about AI by Rep. Dexter was found in seven web searches or on her official site (January 2025 to November 2026). Her data center bill and amendment are framed around water, land and grid concerns and do not mention AI, so they are not AI statements.",
+  "notes": "All 7 searches ran (the six required plus one on Ban Artificial Superintelligence Act cosponsors); none returned any AI risk statement by Rep. Dexter. Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 September 2026): FastDemocracy lists 12 cosponsors (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) and Dexter is not among them; Quiver Quantitative gives a count of 9 without names, so the lists disagree and may be out of date. congress.gov was not checked (it returned 403 Forbidden in the earlier attempt). Kept from the earlier attempt: press release listing pages on dexter.house.gov were checked by title and summary (about 19 January 2025 to 11 November 2026) with no AI mention; release bodies were mostly not opened. Data center items, opened and found not to mention AI: 11 November 2026 'Protecting Our Public Lands from Data Centers Act' (https://dexter.house.gov/media/press-releases/congresswoman-maxine-dexter-md-introduces-bill-ban-data-centers-federal-public), 5 September 2025 amendment on data center water use (https://dexter.house.gov/media/press-releases/dexters-amendment-protect-water-data-center-strain-passes-republican), and 9 July 2026 blog post 'Big Tech is draining our water' (https://dexter.house.gov/media/blog-post/big-tech-draining-our-water). Under the rubric a data center ban for local or environmental reasons is 'none' on slowdown. A search summary described a 17 January 2025 release as an 'AI safety research grant'; I opened it (https://dexter.house.gov/media/press-releases/dexter-announces-federal-investment-reed-college). It announces a National Science Foundation grant to Reed College to 'improve the safety of advanced computing systems' and does not mention AI; Dexter's own quoted words are about research and the economy, so it is not included."
+}

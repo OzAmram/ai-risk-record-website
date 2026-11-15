@@ -1,0 +1,23 @@
+{
+ "bioguide": "G000553",
+ "member": "Al Green",
+ "searches": [
+  "Al Green artificial intelligence site:algreen.house.gov",
+  "Rep. Al Green superintelligence",
+  "\"Al Green\" congressman AI existential risk extinction",
+  "\"Al Green\" AI pause moratorium slowdown Texas congressman",
+  "\"Al Green\" China AI agreement treaty congressman",
+  "\"Al Green\" \"AI safety\" Representative"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "He has acted on AI in 2026 (announcing a resolution condemning an AI-generated image of President Trump as Jesus Christ), but nothing found acknowledges catastrophic risk from AI; no quotable words of his own on AI were found, so statements is empty.",
+ "notes": "All six required web searches ran this time; none found any statement by Al Green (D-TX-9) on superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. Several results were about other members (Greg Casar, also D-TX, sponsor of the Ban Artificial Superintelligence Act, H.R. 10538; Mark Green, R-TN) and were not used. AI-related items found, both opened at source but neither containing his own words on AI: (1) press release of 23 April 2026, https://algreen.house.gov/media/press-releases/rep-al-green-file-resolution-condemning-president-trumps-despicable-depiction, says he announced in House floor remarks a resolution condemning President Trump's depiction of himself as Jesus Christ 'using artificial intelligence (AI)' (a deepfake topic, level D; paraphrase only, so not quoted); (2) press release of 4 December 2024, https://algreen.house.gov/media/press-releases/congressman-al-green-questions-witnesses-ais-threat-jobs-and-risk-racial-bias, headline says he questioned Financial Services hearing witnesses on AI's threat to jobs and racial bias (before 2025, out of scope, level D topic; remarks only on YouTube, not checked). From the earlier attempt: pages 1-3 of https://algreen.house.gov/media/press-releases (23 September to 12 November 2026) were opened and none mentions AI. Whether he cosponsored H.R. 10538 is unverified: the Congress.gov cosponsor page and GovTrack both returned HTTP 403, and no search result listed him as a cosponsor."
+}

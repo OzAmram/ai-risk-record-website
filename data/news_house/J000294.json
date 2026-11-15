@@ -1,0 +1,167 @@
+{
+  "bioguide": "J000294",
+  "member": "Hakeem S. Jeffries",
+  "searches": [
+    "Jeffries artificial intelligence (restricted to jeffries.house.gov)",
+    "Hakeem Jeffries superintelligence",
+    "Hakeem Jeffries AI extinction existential risk",
+    "Hakeem Jeffries AI pause slowdown moratorium",
+    "Hakeem Jeffries China AI agreement treaty",
+    "\"Jeffries\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Jeffries"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "venue": "Press availability with Whip Clark and Caucus Chair Aguilar (official press release)",
+      "quote": "the fact that we have an existential situation that has to be dealt with with respect to AI safety",
+      "context": "Jeffries criticized House Republicans for leaving Washington while, in his words, the country faced the cost-of-living crisis and an existential situation on AI safety.",
+      "source_label": "jeffries.house.gov press release, 2026-09-17",
+      "url": "https://jeffries.house.gov/2026/09/17/leader-jeffries-the-american-people-have-had-enough-of-donald-trump-and-the-failed-republican-economy/",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He calls AI safety an 'existential situation', which under ruling 1 is a threat-to-survival framing, but the phrase is brief and unexplained, so it sits between A and B."
+    },
+    {
+      "date": "2026-09-28",
+      "venue": "CNBC Squawk Box interview (transcript on official site)",
+      "quote": "as opposed to trying to save the American people from pending harm if this thing gets out of control with respect to AI safety",
+      "context": "Asked about regulation of agentic AI models 'getting out of sandboxes', Jeffries said Congress must act on AI safety and criticized Republicans for cancelling votes.",
+      "source_label": "jeffries.house.gov press release, 2026-09-28",
+      "url": "https://jeffries.house.gov/2026/09/28/leader-jeffries-on-squawk-box-people-are-drowning-in-this-failed-republican-economy/",
+      "read_at_source": true,
+      "level": "B",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He warns of harm 'if this thing gets out of control', a loss-of-control danger from AI itself, though the harm is not described as catastrophic in so many words."
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "ABC This Week interview (transcript on official site)",
+      "quote": "We should take decisive action now so that we can slow down, as the CEOs have recently acknowledged, slow down the pace of development in order to protect the American people and ensure that AI is proceeding safely.",
+      "context": "Asked what Democrats think must be done after 'remarkable warnings' about AI that week, Jeffries called for urgent action to slow AI development; he did not commit on a superintelligence ban or a kill switch.",
+      "source_label": "jeffries.house.gov press release, 2026-09-13",
+      "url": "https://jeffries.house.gov/2026/09/13/leader-jeffries-on-abc-donald-trump-has-broken-every-promise-that-hes-presented/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "relayed_warning"
+      ],
+      "reason": "He endorses slowing AI development for safety, citing AI company leaders, but names no catastrophic harm."
+    },
+    {
+      "date": "2026-09-14",
+      "venue": "Press conference remarks, official press release",
+      "quote": "it requires decisive congressional action immediately in a manner consistent with what some of the leading AI voices in the country are now saying needs to happen as it relates to slowing things down to protect the health, the safety and the well-being of the American people",
+      "context": "Jeffries said the challenges of AI's explosive growth are 'not a hoax' and called for immediate action to slow AI down, rebutting Trump.",
+      "source_label": "jeffries.house.gov press release, 2026-09-14",
+      "url": "https://jeffries.house.gov/2026/09/14/leader-jeffries-the-affordability-crisis-in-the-united-states-of-america-is-not-a-hoax/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "relayed_warning"
+      ],
+      "reason": "He treats AI safety concerns as very real and endorses slowing down, without naming a catastrophic harm."
+    },
+    {
+      "date": "2026-09-29",
+      "venue": "PBS News Hour interview (transcript on official site)",
+      "quote": "you have industry stakeholders raising alarms that the pace of AI development is going so fast that the ability to make sure we ensure the safety of the American people is in question",
+      "context": "Asked what AI safety guardrails Congress should set, Jeffries cited industry alarms about the pace of AI development, rejected self-policing, and also said innovation should outpace China.",
+      "source_label": "jeffries.house.gov press release, 2026-09-29",
+      "url": "https://jeffries.house.gov/2026/09/29/leader-jeffries-on-pbs-everyday-americans-need-us-to-decisively-act-in-order-to-make-life-more-affordable/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "relayed_warning"
+      ],
+      "reason": "He relays industry warnings that AI is moving too fast to ensure public safety and backs congressional action, in general terms."
+    },
+    {
+      "date": "2026-06-02",
+      "venue": "CNBC CEO Council Summit remarks (official press release)",
+      "quote": "the American people have dramatically turned against AI because of concerns around data centers, concerns around the job implications, concerns that it’s moving so fast and they’re unsure of the consequences",
+      "context": "Jeffries called for bipartisan, comprehensive AI regulation and criticized Trump's voluntary executive order.",
+      "source_label": "jeffries.house.gov press release, 2026-06-02",
+      "url": "https://jeffries.house.gov/2026/06/02/leader-jeffries-at-cnbc-ceo-summit-the-economy-is-a-disaster-and-the-american-people-know-it/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He describes public concerns about data centers, jobs and speed, without acknowledging catastrophic risk."
+    },
+    {
+      "date": "2025-12-09",
+      "venue": "Press release announcing House Democratic Commission on AI",
+      "quote": "Congress must consider what policies are needed to prevent bad actors from exploiting this transformative technology and inflicting harm upon the American people",
+      "context": "Jeffries launched a House Democratic Commission on AI and the Innovation Economy to meet through 2026.",
+      "source_label": "jeffries.house.gov press release, 2025-12-09",
+      "url": "https://jeffries.house.gov/2025/12/09/leader-jeffries-announces-new-house-democratic-commission-on-ai-and-the-innovation-economy/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He mentions harm from bad actors misusing AI in general terms, with no catastrophic harm named."
+    },
+    {
+      "date": "2026-02-27",
+      "venue": "Official statement",
+      "quote": "Donald Trump and the Department of Defense want to use powerful artificial intelligence technology to spy on American citizens through mass surveillance.",
+      "context": "Jeffries backed Anthropic in its dispute with the Defense Department over use of AI for mass surveillance.",
+      "source_label": "jeffries.house.gov press release, 2026-02-27",
+      "url": "https://jeffries.house.gov/2026/02/27/leader-jeffries-statement-on-trump-administrations-attack-on-civil-liberties-and-american-ai-leadership/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The statement is about AI used for surveillance and privacy, which ruling 5 places at D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "On 13 and 14 September 2026 he called for decisive action to 'slow down the pace of development' of AI to ensure it proceeds safely, citing AI company leaders.",
+      "sources": [
+        [
+          "ABC This Week, 13 Sep 2026",
+          "https://jeffries.house.gov/2026/09/13/leader-jeffries-on-abc-donald-trump-has-broken-every-promise-that-hes-presented/"
+        ],
+        [
+          "Press conference, 14 Sep 2026",
+          "https://jeffries.house.gov/2026/09/14/leader-jeffries-the-affordability-crisis-in-the-united-states-of-america-is-not-a-hoax/"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "Asked on ABC about Sanders's call to ban artificial superintelligence, he did not take a position; no statement for or against a pause was found.",
+      "sources": [
+        [
+          "ABC This Week, 13 Sep 2026",
+          "https://jeffries.house.gov/2026/09/13/leader-jeffries-on-abc-donald-trump-has-broken-every-promise-that-hes-presented/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; on PBS he said American innovation should outpace China, which does not count.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Launched the House Democratic Commission on AI and the Innovation Economy, to convene throughout 2026.",
+      "jeffries.house.gov press release, 9 Dec 2025",
+      "https://jeffries.house.gov/2025/12/09/leader-jeffries-announces-new-house-democratic-commission-on-ai-and-the-innovation-economy/"
+    ]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "His strongest 2026 statement calls AI safety 'an existential situation' (17 September 2026), which ruling 1 treats as A; it is a brief phrase, so a reviewer may judge it B, which his 28 September warning about AI getting 'out of control' supports. No dismissive statement was found.",
+  "notes": "All seven web searches ran in this second pass (the six required plus one on the Ban Artificial Superintelligence Act); the earlier pass had none, so the search is now complete. The statements come from the official site, read directly in the earlier pass (site search plus all 140 press releases from about mid-April to 12 November 2026); the 17 September 'existential situation' quote was re-checked at source in this pass. The news searches found coverage (Axios, PBS, ABC, Bloomberg Government, Michigan Advance, AI Weekly, BizPac Review, CryptoBriefing) of the same September 2026 remarks but no new statement stronger than those already recorded. Left out as paraphrase or too thin: news reports that he 'would not commit' to backing the Sanders-Casar superintelligence ban; the two-word phrase 'AI safety crisis' (AI Weekly, 19 October 2026, an aggregator; the Michigan Advance original returned HTTP 403); his remarks on rogue OpenAI agents ('That's like an organized crime family situation'), which name no harm (ruling 4, D); a partial quote reported from October 2026 supporting New York's one-year data center moratorium, not tied to AI risk; and his criticism of the voluntary industry AI safety pact as 'entirely unenforceable'. Ban Artificial Superintelligence Act (H.R. 10538): no source found showing him as sponsor or co-sponsor; the search found reports that he declined to commit to it, and Congress.gov could not be opened (HTTP 403 earlier), so the cosponsor list was not checked directly. No House letter about AI risk led by him was found; the many-signer August and September 2026 letters were not searched, per instructions. Also left out: the 11 June 2026 FISA statement and 9 November 2026 CBS interview (Nvidia chips and a Chinese spy), which are not about AI risk."
+}

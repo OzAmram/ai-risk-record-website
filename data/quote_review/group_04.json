@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "L000577",
+  "member": "Sen. Mike Lee (Republican, Utah)",
+  "url": "https://www.lee.senate.gov/services/files/45B94F3D-27F1-477F-8959-8711B918B848",
+  "quote": "As pricing migrates into automated systems, the line between independent judgment and unlawful coordination increasingly runs through the data those systems ingest, the vendors that supply them, and the signals they exchange.",
+  "result": "confirmed",
+  "evidence_url": "https://www.lee.senate.gov/services/files/45B94F3D-27F1-477F-8959-8711B918B848",
+  "context": "n, or reach the same result through a common vendor, a shared data feed, or any other intermediary. As pricing migrates into automated systems, the line between independent judgment and unlawful coordination increasingly runs through the data those systems ingest, the vendors that supply them, and the signals they exchange. Driver Compensation and Platform Rules Drivers decide when and where to work, whether to accept par",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording found in the text layer of the downloaded PDF letter dated July 14, 2026, signed 'Senator Mike Lee, Chairman, Subcommittee on Antitrust'; the automatic check likely failed on line breaks."
+ },
+ {
+  "bioguide": "M001242",
+  "member": "Bernie Moreno",
+  "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "quote": "We should not unnecessarily metastasize SI 'doomerism,' but rather recognize that SI, like any cutting-edge technology, presents risks that must be addressed by companies who are able to rise to the occasion.",
+  "result": "confirmed",
+  "evidence_url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "context": "ons to the real vulnerabilities SI has found in American critical infrastructure and cybersecurity. We should not unnecessarily metastasize SI 'doomerism,' but rather recognize that SI, like any cutting-edge technology, presents risks that must be addressed by companies who are able to rise to the occasion. I am sincerely hopeful you and your company will work to develop and propagate such solutions as op",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The PDF is a scanned image with no text layer; I rendered it and ran OCR (tesseract), and the exact wording appears in the body of the letter dated October 5, 2026, on Sen. Moreno's letterhead and signed by him. Confirmation rests on OCR of the official scan, which a human may want to eyeball."
+ },
+ {
+  "bioguide": "M001242",
+  "member": "Bernie Moreno",
+  "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "quote": "Rather than highlighting how SI could end humanity, public discourse around SI should focus on developing solutions to the real vulnerabilities SI has found in American critical infrastructure and cybersecurity.",
+  "result": "confirmed",
+  "evidence_url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "context": "ur adversaries, and ensure that the United States, not China, shapes the future of this technology. Rather than highlighting how SI could end humanity, public discourse around SI should focus on developing solutions to the real vulnerabilities SI has found in American critical infrastructure and cybersecurity. We should not unnecessarily metastasize SI 'doomerism,' but rather recognize that SI, like any cutt",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The PDF is a scanned image with no text layer; I rendered it and ran OCR (tesseract), and the exact wording appears in the body of the letter dated October 5, 2026, on Sen. Moreno's letterhead and signed by him. Confirmation rests on OCR of the official scan, which a human may want to eyeball."
+ },
+ {
+  "bioguide": "M001242",
+  "member": "Bernie Moreno",
+  "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "quote": "Anthropic's recent actions and statements reflect an alarmist approach to SI that places extraordinary emphasis on the technology's most catastrophic outcomes.",
+  "result": "confirmed",
+  "evidence_url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "context": "mes great responsibility, and in this case, I am concerned that you are failing to meet the moment. Anthropic's recent actions and statements reflect an alarmist approach to SI that places extraordinary emphasis on the technology's most catastrophic outcomes. As you know, SI researcher Jacob Coxon recently quit his job at Anthropic and accused your company ",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The PDF is a scanned image with no text layer; I rendered it and ran OCR (tesseract), and the exact wording appears in the body of the letter dated October 5, 2026, on Sen. Moreno's letterhead and signed by him. Confirmation rests on OCR of the official scan, which a human may want to eyeball."
+ },
+ {
+  "bioguide": "M001242",
+  "member": "Bernie Moreno",
+  "url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "quote": "We must address the risks associated with frontier SI. Doing so does not require halting its development or surrendering American technological dominance.",
+  "result": "confirmed",
+  "evidence_url": "https://www.moreno.senate.gov/wp-content/uploads/2026/10/10-5-26-Letter-from-Senator-Moreno-to-Dario-Amodei.pdf",
+  "context": " position the country to respond to our adversaries' increasingly sophisticated SI-enabled threats. We must address the risks associated with frontier SI. Doing so does not require halting its development or surrendering American technological dominance. It requires confronting those risks with the same ingenuity and creativity that have defined Americ",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The PDF is a scanned image with no text layer; I rendered it and ran OCR (tesseract), and the exact wording appears in the body of the letter dated October 5, 2026, on Sen. Moreno's letterhead and signed by him. Confirmation rests on OCR of the official scan, which a human may want to eyeball."
+ }
+]

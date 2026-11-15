@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-CA-04-JONES",
+  "member": "Eric Jones",
+  "searches": [
+    "Eric Jones California 4th congressional district 2026 venture capitalist",
+    "\"Eric Jones\" congress candidate AI safety",
+    "Eric Jones Napa congress campaign artificial intelligence issues ericjonesforcongress",
+    "\"Eric Jones\" Thompson superintelligence OR \"artificial general intelligence\"",
+    "\"Eric Jones\" congress AI extinction OR \"existential risk\"",
+    "\"Eric Jones\" CA-04 AI pause OR slowdown OR moratorium OR China agreement",
+    "\"Eric Jones\" Congress California AI regulation \"patchwork\" federal standard campaign website"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Reports say Jones has talked about AI (taxing AI companies more, preferring federal over state AI regulation), but only in paraphrase, and nothing found touches catastrophic risk. No direct quote of his on AI was found, so a reviewer may prefer \"none\".",
+  "notes": "Seven web searches ran; none were refused. Jones is a political newcomer with no prior office, so there are no official-record statements. His campaign site was not found by search, and guessed addresses (ericjonesforcongress.com, ericjonesforca.com) did not resolve, so his own issue pages were not read. Paraphrases left out of statements: (1) KPIX/CBS Bay Area story syndicated by KION, 29 Oct 2026, says he 'promised to take on major technology companies, including pushing for artificial intelligence companies to pay more in taxes' (reporter's words, not his) https://kioncentralcoast.com/news/top-stories/2026/10/29/rep-mike-thompson-faces-fellow-democrat-eric-jones-in-contentious-race-for-4th-district/ ; (2) an opinion series on the Davisite, 1 Jun 2026, says his website opposes state AI regulation as a 'patchwork' and wants federal regulation (critic's summary, unverified) https://davisite.org/2026/06/01/who-is-eric-jones-a-summary-of-the-series-with-a-quick-wrap-up/ . His former firm Dragoneer has invested in Anthropic, per that critic; not a statement by him. CalMatters (Sept 2026) and the KQED voter guide profiles contain nothing from him on AI. No sign he sponsored the Ban Artificial Superintelligence Act (he is not a sitting member). Search coverage of a newcomer is thin, so absence of statements is weak evidence."
+}

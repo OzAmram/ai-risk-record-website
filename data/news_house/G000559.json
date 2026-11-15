@@ -1,0 +1,28 @@
+{"bioguide": "G000559", "member": "John Garamendi",
+ "searches": [
+  "Garamendi artificial intelligence site:garamendi.house.gov",
+  "Garamendi superintelligence",
+  "Garamendi AI extinction existential risk",
+  "Garamendi AI pause moratorium slowdown",
+  "Garamendi China AI agreement treaty",
+  "\"Garamendi\" \"AI safety\"",
+  "Rep. John Garamendi \"artificial intelligence\" 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; he is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+ },
+ "record": [
+  ["Secured a National Defense Authorization Act amendment requiring the Defense Department to answer questions about the use of artificial intelligence in nuclear operations (military use of AI, level D under ruling 3).", "Garamendi press release, 18 July 2025", "https://garamendi.house.gov/2025/07/18/media-press-releases-top-democrat-house-armed-services-readiness-rep-garamendi-introduces-and/"],
+  ["Press release says he added a report to the defense bill conference report examining escalation risks of integrating artificial intelligence in nuclear decision-making (military use of AI, level D under ruling 3).", "Garamendi press release, 3 February 2026", "https://garamendi.house.gov/2026/02/03/media-press-releases-garamendi-pens-article-nuclear-weapons-oversight-harvard-law-school-journal/"],
+  ["Led a letter on nuclear nonproliferation funding that lists 'the risks posed by artificial intelligence to nuclear security' among national security challenges (level D).", "Garamendi press release, 7 May 2025", "https://garamendi.house.gov/2025/05/07/media-press-releases-garamendi-demands-president-trump-prioritize-us-leadership-nuclear/"],
+  ["Joined Rep. Tonko in introducing the Power for the People Act to shield consumers from energy cost increases driven by AI data centers (level D: electricity costs).", "Garamendi press release, 9 April 2026", "https://garamendi.house.gov/2026/04/09/media-press-releases-rep-garamendi-joins-tonko-introduce-bill-shield-consumers-data-center-driven/"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His AI-related record in 2025 and 2026 is about AI in nuclear weapons decisions (military use, which ruling 3 places at D) and data-center electricity costs; no statement acknowledging catastrophic risk from AI was found.",
+ "notes": "Eight web searches ran; all six required searches returned nothing tying Garamendi to superintelligence, extinction, a pause, a China agreement or AI safety. No direct Garamendi quotes about AI were found: the AI mentions on his site are in press-release narration or a letter he led, so no statements were entered. The 2025 letter wording ('the risks posed by artificial intelligence to nuclear security') was read at source but via a page-reading tool that returned it in fragments. The FastDemocracy cosponsor list for H.R. 10538 shows 12 names without Garamendi; it was not checked against Congress.gov. Searching his official site for 'artificial intelligence' returned 5 items, which I opened; one (17 November 2023) is outside the date range and not checked."
+}

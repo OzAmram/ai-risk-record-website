@@ -1,0 +1,72 @@
+{
+ "bioguide": "L000397",
+ "member": "Zoe Lofgren",
+ "searches": [
+  "site:lofgren.house.gov artificial intelligence",
+  "Zoe Lofgren \"AI safety\"",
+  "Zoe Lofgren superintelligence",
+  "Zoe Lofgren AI extinction OR \"existential risk\"",
+  "Zoe Lofgren AI pause OR slowdown OR moratorium",
+  "Zoe Lofgren AI China agreement OR treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Lofgren"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-15",
+   "venue": "Press release after House Science Committee roundtable with AI companies",
+   "quote": "I am concerned about recent loss-of-control incidents at OpenAI, Anthropic, and Meta",
+   "context": "As Ranking Member of the House Science Committee, she held a bipartisan roundtable with Hugging Face, METR, OpenAI and Anthropic on recent loss-of-control incidents and how to prevent them, calling for internal controls, cybersecurity and governance for frontier AI systems.",
+   "source_label": "Lofgren press release",
+   "url": "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "She acknowledges loss-of-control incidents at frontier AI companies as a serious problem needing safeguards, but does not describe catastrophic consequences such as mass casualties or permanent loss of human control, so C rather than B."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development; her 'moratorium' statements concern federal preemption of state AI laws, which she opposes.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "As Ranking Member, held a bipartisan House Science Committee roundtable with Hugging Face, METR, OpenAI and Anthropic on recent AI loss-of-control incidents.",
+   "Lofgren press release, 2026-09-15",
+   "https://lofgren.house.gov/media/press-releases/ranking-member-lofgren-meets-ai-companies-discuss-recent-loss-control-events"
+  ],
+  [
+   "Supported committee markup of 10 AI bills, including the AI Security and Innovation Act (Center for AI Security and Innovation to measure risks of advanced AI systems) and an AI flaw reporting database.",
+   "Lofgren press release, 2026-06-25",
+   "https://lofgren.house.gov/media/press-releases/ranking-member-lofgrens-opening-statement-full-committee-markup-10-ai-bills"
+  ],
+  [
+   "Introduced the Voluntary Consumer AI Disclosure Pilot Act on disclosing AI interactions to users.",
+   "Lofgren press release, 2026",
+   "https://lofgren.house.gov/media/press-releases/lofgren-introduces-legislation-aimed-improving-ai-labeling-practices"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "Her strongest 2026 statement expresses concern about loss-of-control incidents at frontier AI companies and calls for safeguards, which acknowledges serious risk from AI itself but does not name catastrophic outcomes. No dismissive statement was found.",
+ "notes": "Seven web searches ran; none was refused. The C label is a boundary call: 'loss-of-control incidents' points toward B's 'loss of control', but she describes concrete incidents and safeguards rather than catastrophic or permanent loss of human control; a reviewer may prefer B. The same release also says 'We share the concerns that Americans across the nation have on the risks of AI' (general). The 25 June 2026 markup statement describes a bill to 'measure risks of advanced AI systems', but that describes the bill rather than her own view, so it is in record, not statements. No source shows her as sponsor or co-sponsor of the Ban Artificial Superintelligence Act (search found Casar as House lead; cosponsor lists seen did not name her; congress.gov not checked). Left out: a San Francisco Chronicle report (page not opened) quoting her opposition to a federal moratorium on state AI laws; a December 2025 release calling the White House executive order on state AI laws unlawful (2025, preemption, level D); her 2024 opposition to California SB 1047 and praise of its veto (before 2025). A Quiver Quantitative summary paraphrases the 15 September release; the original release was read instead. Text of the two lofgren.house.gov releases and the January 2026 statement was read from raw page downloads. Statements recorded without a quote and so not shown: 2026-01-14 Opening statement, House Science Committee hearing on the AI Action Plan (https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-opening-statement-for-hearing-on-ai-action-plan)"
+}

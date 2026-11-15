@@ -1,0 +1,97 @@
+{
+ "bioguide": "N000193",
+ "member": "Zachary Nunn",
+ "searches": [
+  "site:nunn.house.gov artificial intelligence",
+  "Zach Nunn superintelligence",
+  "Zach Nunn AI extinction OR existential risk",
+  "Zach Nunn AI pause OR slowdown OR moratorium",
+  "Zach Nunn China AI agreement OR treaty",
+  "Zach Nunn \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Nunn"
+ ],
+ "statements": [
+  {
+   "date": "2026-05-13",
+   "venue": "Press release",
+   "quote": "Foreign adversaries like China are weaponizing artificial intelligence to manipulate financial markets",
+   "context": "Nunn's AI PLAN Act and GUARD Act passing the House Financial Services Committee; the AI PLAN Act requires a national strategy against AI-enabled fraud, misinformation and cyber threats to the financial system.",
+   "source_label": "Nunn House press release",
+   "url": "https://nunn.house.gov/2026/05/13/nunn-bills-to-protect-retirees-from-fraud-combat-ai-threats-pass-financial-services-committee/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The harms named are market manipulation, misinformation and fraud by foreign adversaries, which the rubric puts at D."
+  },
+  {
+   "date": "2026-01-21",
+   "venue": "Press release",
+   "quote": "To make sure this technology strengthens our workforce, AI policy must focus on opening doors—not replacing workers",
+   "context": "Introduction of the bipartisan Expanding AI Voices Act with Rep. Valerie Foushee to broaden AI research and workforce training.",
+   "source_label": "Nunn House press release",
+   "url": "https://nunn.house.gov/2026/01/21/nunn-introduces-bipartisan-bill-to-broaden-ai-research-and-workforce-pipeline/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About AI jobs and workforce access, with no catastrophic risk acknowledged."
+  },
+  {
+   "date": "2025-06-28",
+   "venue": "Newsletter post on official site",
+   "quote": "The CCP isn’t just investing in AI, they’re weaponizing it.",
+   "context": "Nunn warning about competition with China over AI at the Select Committee on the CCP and promoting his AI PLAN Act.",
+   "source_label": "Nunn House website",
+   "url": "https://nunn.house.gov/2025/06/28/%f0%9f%8c%90-chinas-ai-threat/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Competition with China and Chinese military use of AI are D under rulings 3 and 5."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI; his China remarks are about competition and trade.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on a ban on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Leads the AI PLAN Act, requiring Treasury, Commerce and Homeland Security to build a strategy against AI-enabled fraud, misinformation and cyber threats to the financial system; passed House Financial Services Committee unanimously.",
+   "Nunn House press release, 2026-05-13",
+   "https://nunn.house.gov/2026/05/13/nunn-bills-to-protect-retirees-from-fraud-combat-ai-threats-pass-financial-services-committee/"
+  ],
+  [
+   "Co-leads the Expanding AI Voices Act with Rep. Valerie Foushee to broaden AI research and workforce training.",
+   "Nunn House press release, 2026-01-21",
+   "https://nunn.house.gov/2026/01/21/nunn-introduces-bipartisan-bill-to-broaden-ai-research-and-workforce-pipeline/"
+  ],
+  [
+   "Introduced a bipartisan bill to put artificial intelligence to work on Iowa farms (page title only; not opened).",
+   "Nunn House press release, 2026-07-15",
+   "https://nunn.house.gov/2026/07/15/nunn-introduces-bipartisan-bill-to-put-artificial-intelligence-to-work-on-iowa-farms/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Nunn speaks often about AI in 2026, but only about fraud, misinformation, competition with China and jobs; nothing found acknowledges catastrophic risk from AI.",
+ "notes": "All 7 web searches ran in this run (the 6 required plus one on the Ban Artificial Superintelligence Act). None of the five topic searches (superintelligence, extinction or existential risk, pause or slowdown, China agreement, AI safety) returned any result mentioning Nunn. The Ban Artificial Superintelligence Act search found Rep. Casar as House sponsor (H.R. 10538) but no source listing Nunn as a cosponsor; the congress.gov cosponsor page returned HTTP 403, so the full cosponsor list could not be checked. No House letter on AI risk led by Nunn was found. The three statements and record entries are kept from the earlier attempt, in which nunn.house.gov pages were opened directly (press release listing 3 Sep to 27 Oct 2026, the site's search for 'artificial intelligence', and five pages); the 23 Sep 2026 Xi visit release does not mention AI. The page-reading tool returned quotes in segments; each quote is a single segment as returned, not joined. Left out: the 2025-09-18 'AI Guardrails' post (https://nunn.house.gov/2025/09/18/%f0%9f%92%bb-ai-guardrails/), about AI scams and adversary propaganda (D); a 2024 Federal AI Risk Management Act co-sponsorship (before 2025); and an August 2025 Nunn defense amendment on an AI plan against AI-enabled espionage and cyberattacks (amendments-rules.house.gov PDF could not be read, it is encrypted). The 2026-07-15 farm AI bill in the record was seen by title only."
+}

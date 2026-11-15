@@ -1,0 +1,65 @@
+{
+  "bioguide": "F000482",
+  "member": "Julie Fedorchak",
+  "searches": [
+    "site:fedorchak.house.gov artificial intelligence",
+    "Julie Fedorchak superintelligence",
+    "Julie Fedorchak AI existential risk extinction",
+    "Julie Fedorchak AI moratorium pause slowdown",
+    "Julie Fedorchak China AI agreement",
+    "Julie Fedorchak \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-03-20",
+      "venue": "Press release",
+      "quote": "There’s no doubt that AI is rapidly transforming how we live and work. The question now is whether America develops the rules of the road and leads the future of this extremely powerful tool, or if we let adversaries like China set the terms,",
+      "context": "Statement welcoming the White House National Policy Framework for Artificial Intelligence and calling for a national framework so the U.S. leads the global AI race.",
+      "source_label": "Fedorchak House press release",
+      "url": "https://fedorchak.house.gov/media/press-releases/fedorchak-applauds-white-house-ai-framework",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI policy and competition with China; does not acknowledge catastrophic risk from AI."
+    },
+    {
+      "date": "2025-06-05",
+      "venue": "House Energy and Commerce subcommittee hearing (quoted in press release)",
+      "quote": "AI has been described as not only a powerful tool, but an incredible weapon. And I don't feel like the public necessarily understands that or sees it exactly that way.",
+      "context": "Questioning a witness about China outpacing the U.S. in AI because of its larger electricity output.",
+      "source_label": "Fedorchak House press release",
+      "url": "https://fedorchak.house.gov/media/press-releases/fedorchak-highlights-urgent-need-beat-china-ai-race",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Calls AI a weapon in the context of the race with China and energy supply; names no catastrophic harm from AI itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI pacing; her remarks frame China as a competitor to beat.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken about AI in 2025 and 2026, framed around beating China, national rules and powering AI with energy, but no statement found acknowledges catastrophic risk from AI.",
+  "notes": "All 6 required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (7 total). The superintelligence, extinction, moratorium, China agreement and 'AI safety' searches returned nothing mentioning her; the site search returned only the two releases above (both re-checked at source; a capitolreleases.com copy confirms the 5 June 2025 release). Search results on the Ban Artificial Superintelligence Act (H.R. 10538, Casar) list only Democratic cosponsors and do not name her; congress.gov was not checked directly, so this is not a full cosponsor list. The 20 March 2026 release also says the White House framework protects 'online safety' (not catastrophic risk). An earlier run opened her press release index pages covering roughly 22 April to 12 November 2026 and found no further AI items (titles and excerpts only). She launched an AI and Energy Working Group in 2025 (energy supply for AI, not risk). Her 2025 remark calling AI 'an incredible weapon' is about the China race and energy; graded D."
+}

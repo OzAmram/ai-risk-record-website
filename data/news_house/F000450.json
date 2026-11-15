@@ -1,0 +1,36 @@
+{
+  "bioguide": "F000450",
+  "member": "Virginia Foxx",
+  "searches": [
+    "Virginia Foxx artificial intelligence (restricted to foxx.house.gov)",
+    "\"Virginia Foxx\" superintelligence",
+    "\"Foxx\" AI extinction OR \"existential risk\"",
+    "\"Virginia Foxx\" AI pause OR slowdown OR moratorium 2026",
+    "\"Virginia Foxx\" AI China agreement OR treaty",
+    "\"Virginia Foxx\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2025-06-05",
+      "venue": "House Oversight Committee hearing, \"The Federal Government in the Age of Artificial Intelligence\"",
+      "quote": "AI technology can be successful at streamlining tasks and boosting productivity. What kind of productivity gains and cost savings could we expect to see in the federal government?",
+      "context": "Questioning a witness about the productivity gains and cost savings from federal government use of AI.",
+      "source_label": "House Oversight Committee press release (wrap-up), 6 June 2025",
+      "url": "https://oversight.house.gov/release/wrap-up-congress-must-ensure-the-federal-government-has-tools-to-deploy-artificial-intelligence-effectively-and-efficiently",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She discusses AI only as a tool for government efficiency and does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI remark found is a June 2025 hearing question about AI making the federal government more productive, which does not acknowledge catastrophic risk; nothing about AI from 2026 was found.",
+  "notes": "All 6 required web searches ran this time (an earlier attempt ran only 1 of 6). None found any statement by her on superintelligence, extinction, a pause or slowdown, an agreement with China, or AI safety, and no source shows her co-sponsoring the Ban Artificial Superintelligence Act or signing a House letter on AI risk. The quote was checked word for word against the Oversight Committee press release (hearing held 5 June 2025, the day before the release); I did not open the official hearing transcript. The same release paraphrases her as emphasizing that the Trump Administration is working to maintain U.S. dominance in AI; that is a paraphrase and is not quoted. The earlier attempt opened her official site directly (home page, press releases pages 1 and 2 covering January 2025 to October 2026, op-eds, In the News) and found no titles or excerpts mentioning AI; full release texts were not opened. She chairs the House Rules Committee, so remarks in Rules meetings on AI bills may exist that these searches would not find."
+}

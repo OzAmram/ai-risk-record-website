@@ -1,0 +1,37 @@
+{
+  "bioguide": "ELECT-TX-08-STEINMANN",
+  "member": "Jessica Steinmann",
+  "searches": [
+    "Jessica Steinmann Texas 8th district AI",
+    "Jessica Steinmann artificial intelligence superintelligence",
+    "Steinmann for Congress campaign website AI issues",
+    "\"Steinmann\" congress Texas AI extinction OR \"existential risk\" OR \"loss of control\"",
+    "\"Jessica Steinmann\" AI pause OR moratorium OR slowdown OR regulation",
+    "\"Jessica Steinmann\" China AI agreement OR treaty",
+    "\"Jessica Steinmann\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-04-01",
+      "venue": "Campaign website, Issues page",
+      "quote": "America must lead the world in artificial intelligence — not China. To win that race, we need to cut the burdensome regulations that slow innovation and unleash pro-energy policies that power our economy and our tech sector.",
+      "context": "The Artificial Intelligence section of her campaign platform, calling for fewer AI regulations to beat China.",
+      "source_label": "Jessica Steinmann campaign website",
+      "url": "https://www.jessicasteinmann.com/issues",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI leadership over China and deregulation without acknowledging any catastrophic risk (ruling 5 and 6: promoting AI or opposing regulation is D, not F)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI for safety reasons.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing; her platform frames AI as a race to win against China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI statement found is her campaign platform calling for AI leadership over China and cutting AI regulations; it does not acknowledge or dismiss catastrophic risk.",
+  "notes": "Seven web searches ran; none was refused. The campaign Issues page is undated: the quote was copied from the page HTML on 2026-11-14, and the date 2026-04-01 is the date of a Texas Tribune article (https://www.texastribune.org/2026/04/01/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms/) that already described the page's AI section, so the text existed by then at the latest. Context, not statements: the Texas Tribune reports the AI-industry-linked super PAC American Mission spent about $511,000 supporting her in the primary, and that its ad says she will 'promote and advance American innovation' (ad wording, not hers). Branch.vote summarizes her as wanting to cut regulations for AI companies (a paraphrase, left out). No source showed her sponsoring the Ban Artificial Superintelligence Act or any AI-risk letter; as a representative-elect she held no House seat in 2026. Her 15 September 2025 campaign launch release (gilmermirror.com) returned HTTP 403 and could not be read. No statements found from her earlier government roles about AI."
+}

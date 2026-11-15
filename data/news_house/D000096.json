@@ -1,0 +1,24 @@
+{
+  "bioguide": "D000096",
+  "member": "Danny K. Davis",
+  "searches": [
+    "Danny Davis artificial intelligence (restricted to davis.house.gov)",
+    "Rep. Danny K. Davis superintelligence",
+    "\"Danny Davis\" Illinois AI extinction existential risk",
+    "\"Danny Davis\" congressman AI pause slowdown moratorium",
+    "\"Danny Davis\" congressman China AI agreement treaty",
+    "\"Danny K. Davis\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade.",
+  "notes": "All seven searches ran in this attempt (six required plus one on the Ban Artificial Superintelligence Act); none returned any statement by Rep. Danny K. Davis about AI risk, superintelligence, extinction, a pause or slowdown, an agreement with China, or AI safety. Results on superintelligence and China were about other members (for example Raja Krishnamoorthi, a different Illinois Democrat, and Ro Khanna). Ban Artificial Superintelligence Act (H.R. 10538, 2026): the fastdemocracy.com bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 House cosponsors and Davis is not among them; the Forkast article on the bill does not mention him. The Congress.gov cosponsor page could not be opened in the earlier attempt (HTTP 403), so this relies on a third-party tracker. Carried over from the earlier attempt: his official press release pages (first two pages, 20 releases, 29 September 2025 to 15 July 2026) had no titles or visible excerpts about AI. The only AI mention on his site is descriptive text, not his words, on his FY27 Community Project Funding page (https://davis.house.gov/i-wish-i-knew/fy27-community-project-funding-calendar-year-2026): a Malcolm X College lab project to train students in technologies 'including artificial intelligence, robotics, and related emerging technologies'. That is not his own statement and would be level D at most, so it is left out. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

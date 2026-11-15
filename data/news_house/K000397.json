@@ -1,0 +1,26 @@
+{
+  "bioguide": "K000397",
+  "member": "Young Kim",
+  "searches": [
+    "site:youngkim.house.gov artificial intelligence",
+    "\"Young Kim\" superintelligence",
+    "\"Young Kim\" AI extinction OR \"existential risk\"",
+    "Rep. \"Young Kim\" AI pause OR slowdown OR moratorium",
+    "Rep. \"Young Kim\" China AI agreement OR treaty OR talks",
+    "Rep. \"Young Kim\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; her AI-related China work is about tightening chip export controls.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Questioned Under Secretary Jeffrey Kessler at a House Foreign Affairs hearing on gaps in export controls on advanced AI chips and chipmaking equipment to China (press release titled 'Rep. Young Kim Confronts Export Control Gaps in the AI Arms Race').", "Rep. Young Kim press release, 2026-07-14", "https://youngkim.house.gov/2026/07/14/rep-young-kim-confronts-export-control-gaps-in-the-ai-arms-race-with-under-secretary-jeffrey-kessler/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Since 2025 she has engaged with AI only as a matter of competition with China (chip export controls, the Xi summit agenda), and no statement acknowledging catastrophic AI risk was found. No direct quotes on AI from 2025 or 2026 were found, so the D rests on paraphrased activity rather than quoted statements.",
+  "notes": "All 7 web searches ran; none was refused. Paraphrases left out of statements: (1) 2026-07-14 press release paraphrases her hearing questions on Chinese firms obtaining US-designed AI chips via overseas foundry subsidiaries and on aligning export controls with Japan and the Netherlands; it links to video of her remarks but quotes nothing (video not watched). (2) 2026-09-23 press release on a Newsmax interview says, in the article's words, 'She said topics could range from artificial intelligence to critical mineral supply chains and semiconductors' for the Trump-Xi summit; not her own quoted words. Her 2024 AI working group statements (opportunities and risks of AI in financial services) predate the 2025 window and were not included. No source shows her sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538); cosponsor lists found name Hoyle, Lynch, Tonko and possibly others, not Kim, but the lists conflict and congress.gov was not checked. A Senate press release from Sen. Andy Kim (kim.senate.gov) appeared in results and is a different person. Official site search for 'artificial intelligence' (youngkim.house.gov/?s=artificial+intelligence) returned 18 results, only one from 2025-2026."
+}

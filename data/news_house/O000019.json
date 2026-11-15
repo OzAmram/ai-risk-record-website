@@ -1,0 +1,66 @@
+{
+  "bioguide": "O000019",
+  "member": "Jay Obernolte (R-CA-23)",
+  "searches": [
+    "site:obernolte.house.gov artificial intelligence",
+    "Obernolte superintelligence",
+    "Obernolte AI existential risk extinction",
+    "Obernolte AI pause moratorium slowdown",
+    "Obernolte China AI agreement treaty talks",
+    "\"Obernolte\" \"AI safety\" 2026",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Obernolte interview AI \"loss of control\" OR \"catastrophic\" OR \"doomer\" 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "venue": "Press release introducing the FRONTIER Act",
+      "quote": "This legislation will protect Americans from catastrophic risk, provide developers with clear rules of the road, and ensure the United States remains the global leader in AI.",
+      "context": "Obernolte, lead sponsor with Rep. Lori Trahan, describing the FRONTIER Act, which sets transparency, audit and incident-reporting rules for the largest frontier AI developers.",
+      "source_label": "Obernolte House press release",
+      "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+      "read_at_source": true,
+      "level": "B",
+      "flags": ["bill_or_action", "boundary"],
+      "reason": "He says his frontier AI bill protects Americans from catastrophic risk, implying advanced AI poses catastrophic risk not limited to misuse, but names no specific harm, so it sits between B and C."
+    },
+    {
+      "date": "2026-10-01",
+      "venue": "Joint press statement with Rep. Lori Trahan on the White House AI Accord",
+      "quote": "It establishes uniform transparency and incident reporting, and emergency authority to stop a catastrophe before it happens.",
+      "context": "Joint statement by Obernolte and Trahan welcoming the voluntary White House Accord signed by leading AI companies and saying their FRONTIER Act would make it durable.",
+      "source_label": "Obernolte House press release",
+      "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-statement-white-house-ai-accord",
+      "read_at_source": true,
+      "level": "B",
+      "flags": ["bill_or_action", "boundary"],
+      "reason": "The statement backs emergency government authority over the most advanced AI models to stop a catastrophe, acknowledging catastrophic risk from advanced AI without naming its form, so it sits between B and C."
+    },
+    {
+      "date": "2026-06-04",
+      "venue": "Press release on the Great American AI Act discussion draft",
+      "quote": "This discussion draft is an important step toward building a clear federal framework that promotes innovation, protects Americans from emerging risks, and ensures the United States continues to lead the world in AI.",
+      "context": "Release of a 269-page bipartisan discussion draft of a federal AI framework with Rep. Lori Trahan.",
+      "source_label": "Obernolte House press release",
+      "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Mentions only unspecified emerging risks alongside innovation and leadership, with no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI. His 2025 support for a moratorium on state AI laws is about who regulates, not about slowing AI, and does not count.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on a pause. The FRONTIER Act's emergency authority to stop a catastrophe is not a general pause.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Lead sponsor, with Rep. Lori Trahan, of the FRONTIER Act (reported as H.R. 9925), requiring the largest frontier AI developers to publish risk-management frameworks, undergo independent audits and report serious safety incidents, with a uniform national standard on catastrophic risk that preempts state rules.", "Obernolte press release, 2026-07-23", "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight"],
+    ["Released, with Rep. Lori Trahan, a discussion draft of the Great American AI Act, a federal AI framework.", "Obernolte press release, 2026-06-04", "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act"],
+    ["Joint statement with Rep. Trahan welcoming the White House AI Accord and saying the FRONTIER Act would add emergency authority to stop a catastrophe.", "Obernolte press release, 2026-10-01", "https://obernolte.house.gov/media/press-releases/obernolte-trahan-statement-white-house-ai-accord"]
+  ],
+  "suggested_grade": "B",
+  "grade_reason": "Two 2026 statements tie his FRONTIER Act to protecting Americans from catastrophic risk and stopping a catastrophe, with no limit to misuse. Both are brief and do not say what the catastrophe would be, so C is also defensible.",
+  "notes": "Eight web searches ran (six required plus two); none were refused. Both B statements are short, bill-promotion lines with no specific harm named (no loss of control, extinction or bioweapons); a reviewer may prefer C. The 1 October 2026 statement is a joint statement with Rep. Trahan, not his words alone. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538, Rep. Casar); the cosponsor lists found were all Democrats, but I did not see a complete official list. No House letter on AI risk signed by him was found. In 2025 he defended the proposed 10-year moratorium on state AI laws (Washington Times, NOTUS, Broadband Breakfast, seen only in search summaries, not opened); this is about preemption, not AI risk, so I left it out. His March 2023 remark that 'the chief dangers of AI will not come from evil robots with red lasers coming out of their eyes' (Breitbart, reposted on his site) is outside the 2025 window and was not used. Search summaries mentioned that the Alliance for Secure AI praised the FRONTIER Act's focus on catastrophic risk and loss of control, but those are a third party's words, not his. A cryptobriefing.com article on the Accord statement returned 404; I used his official release instead."
+}

@@ -1,0 +1,53 @@
+{
+  "bioguide": "W000816",
+  "member": "Roger Williams",
+  "searches": [
+    "Roger Williams artificial intelligence site:williams.house.gov",
+    "Rep. Roger Williams Texas superintelligence",
+    "\"Roger Williams\" congressman AI extinction OR existential risk",
+    "\"Roger Williams\" AI pause OR slowdown OR moratorium 2026",
+    "\"Roger Williams\" China artificial intelligence agreement OR treaty",
+    "\"Roger Williams\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2025-04-29",
+      "venue": "Press release",
+      "quote": "As technology advances, predators are using AI to create deceptive material and exploit victims",
+      "context": "Statement welcoming House passage of the TAKE IT DOWN Act on real and deepfake non-consensual intimate imagery.",
+      "source_label": "williams.house.gov press release",
+      "url": "https://williams.house.gov/media-center/press-releases/rep-williams-applauds-house-passage-bipartisan-take-it-down-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About deepfakes and online abuse, which the rubric places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI pacing.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remark found is a 2025 press release statement about predators using AI to make deceptive material, which is D; nothing on catastrophic AI risk was found in 2025 or 2026.",
+  "notes": "All 7 web searches ran this time (the six required plus one on Ban Artificial Superintelligence Act cosponsors); none returned any statement by Roger Williams on AI risk, superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. The site-restricted search did not stay on williams.house.gov and returned no AI material from his site. Results about Brandon Williams (NY-22), Greg Casar (TX-35) and Roger Wicker are other people and were ignored. Ban Artificial Superintelligence Act (H.R. 10538): reported House cosponsors (Hoyle, Lynch, Tonko, Ocasio-Cortez and other Democrats; one aggregator also names Whitesides and Moran) do not include Williams, but sources disagree and I did not open the official Congress.gov cosponsor list. No House letter on AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, as instructed). From the earlier attempt: the official press release listing pages (page=0 to page=3, about April 2025 to 11 November 2026) showed no 2026 release mentioning AI; releases between 12 March and 28 April 2026 did not appear in those pages. The 14 September 2026 Combating Foreign Threats to Main Street Act release names China but not AI. The D quote was re-read at source this time (29 April 2025 release); the source has a trailing comma after 'victims', left off the quote. Hearing remarks and floor speeches were not checked beyond these searches."
+}

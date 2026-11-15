@@ -1,0 +1,63 @@
+{
+  "bioguide": "M001199",
+  "member": "Brian J. Mast",
+  "searches": [
+    "site:mast.house.gov artificial intelligence",
+    "Brian Mast superintelligence",
+    "Brian Mast AI extinction existential risk",
+    "Brian Mast AI pause slowdown moratorium",
+    "Brian Mast China AI agreement talks treaty",
+    "\"Mast\" \"AI safety\" Foreign Affairs chairman"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-14",
+      "venue": "House Foreign Affairs Committee hearing opening remarks",
+      "quote": "They affect real wars, real weapons, real war powers, and they will be a part of bringing about real casualties.",
+      "context": "As committee chairman, opening a hearing on winning the AI arms race with China and promoting his AI Overwatch Act on chip exports.",
+      "source_label": "House Foreign Affairs Committee press release",
+      "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-delivers-opening-remarks-at-hearing-on-winning-the-ai-arms-race",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About military use of AI and competition with China, which the rubric grades D; no catastrophic risk from AI itself is acknowledged."
+    },
+    {
+      "date": "2026-01-14",
+      "venue": "House Foreign Affairs Committee hearing opening remarks",
+      "quote": "That is why I wrote a bill called AI overwatch that ensures our cutting-edge AI chips cannot be used by the Chinese military.",
+      "context": "Explaining his AI Overwatch Act, which would give Congress review of advanced AI chip sales to adversaries.",
+      "source_label": "House Foreign Affairs Committee press release",
+      "url": "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-delivers-opening-remarks-at-hearing-on-winning-the-ai-arms-race",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Export controls and competition with China are D under ruling 5."
+    },
+    {
+      "date": "2026-05-19",
+      "venue": "Washington public discussion, reported by The Star",
+      "quote": "If they get the best chips, they win, and that is a real problem.",
+      "context": "Warning against letting American firms sell advanced AI chips to China.",
+      "source_label": "The Star (Malaysia), 24 May 2026",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/24/us-house-foreign-affairs-chair-warns-ai-sales-to-china-could-make-america-a-loser",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "About the AI race with China, not catastrophic risk; date inferred from the article saying he spoke on Tuesday."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement since 2025 found for or against slowing frontier AI development; a 2023 remark backing the pause letter is outside the search window.", "sources": []},
+    "pause": {"value": "none", "note": "No statement since 2025 found; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026.", "sources": [["FastDemocracy, Ban Artificial Superintelligence Act cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "He frames AI as an arms race with China and opposes chip sales to China, but no statement found for or against coordinating with China on the pace of frontier AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the AI Overwatch Act, giving Congress review of advanced AI chip exports to adversaries; advanced by the Foreign Affairs Committee.", "House Foreign Affairs Committee press release, 21 January 2026 (search result only; page could not be opened)", "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-hfac-advances-ai-overwatch-act"],
+    ["Chaired a House Foreign Affairs Committee hearing on winning the AI arms race.", "House Foreign Affairs Committee press release, 14 January 2026", "https://foreignaffairs.house.gov/news/press-releases/chairman-mast-delivers-opening-remarks-at-hearing-on-winning-the-ai-arms-race"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "As Foreign Affairs chairman he speaks often about AI in 2026, but only as an arms race with China, export controls and military use, never acknowledging catastrophic risk from AI itself. He is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "Six searches ran; none was refused for budget. My first three search attempts failed with a transient permission-check error (no verdict) and were retried once; they are listed once each. A Fox News article from 2023 reports Mast saying Elon Musk was 'rightfully being cautious' and that he agreed with putting the brakes on AI (the pause letter); this is before 2025 and was seen only as a search summary, so it is not included. A February 2026 Ripon Society item reports him calling it an 'AI arms race' (paraphrase; page could not be opened). The AI Overwatch Act committee page could not be opened (domain check failed). The hearing quotes were read through a page fetch tool's extraction of the press release and should be spot-checked against the page or video. The date of the Star quote (19 May 2026) is inferred. mast.house.gov news page 1 (Oct-Nov 2026) had no AI posts; older pages and his committee hearings beyond these were not checked. Not checked separately: hearing remarks at the CNAS fireside chat and a June 2026 Hudson Institute event."
+}

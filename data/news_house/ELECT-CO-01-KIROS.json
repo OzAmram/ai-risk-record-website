@@ -1,0 +1,46 @@
+{
+ "bioguide": "ELECT-CO-01-KIROS",
+ "member": "Melat Kiros",
+ "searches": [
+  "Melat Kiros AI artificial intelligence",
+  "Melat Kiros superintelligence",
+  "\"Melat Kiros\" Colorado congress campaign",
+  "\"Melat Kiros\" AI safety",
+  "\"Kiros\" Colorado extinction OR existential risk artificial intelligence",
+  "\"Melat Kiros\" AI pause OR moratorium OR \"data center\"",
+  "\"Melat Kiros\" China AI agreement OR treaty",
+  "Kiros artificial intelligence AI tech (restricted to kirosforco.com)"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "Her campaign fact sheet lists 'Supporting a moratorium on AI data centers' among things she is attacked for, but no source found ties this to risks from AI itself, so under the rubric it is not a slowdown position.",
+   "sources": [
+    [
+     "Kiros for CO campaign fact sheet (undated)",
+     "https://www.kirosforco.com/fact-sheet"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on AI.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her campaign material mentions AI (a data center moratorium, regulating AI companies, a 'Democratizing AI' heading) but nothing found addresses catastrophic risk from AI. No sponsorship of the Ban Artificial Superintelligence Act was found; as a first-time candidate she held no office in which to sponsor it.",
+ "notes": "Eight web searches ran (none refused); none of the name-plus-topic searches (superintelligence, extinction, AI safety, pause, China) found any result mentioning her. Campaign site checked directly: the fact sheet page (https://www.kirosforco.com/fact-sheet, undated) contains the lines 'Supporting a moratorium on AI data centers' (listed under 'What They're Attacking Melat For') and 'AI companies should be regulated, not handed blank checks' (listed under 'What a Majority of Denver Voters Believe'). These are short, undated campaign list items rather than statements with a date, and the moratorium's motivation is not stated, so they are left out of statements; they are the reason for D rather than none. The priorities page (https://www.kirosforco.com/priorities-2) has a 'DEMOCRATIZING AI' heading with no body text. The fact-sheets PDF could not be decoded. Colorado Politics Q&A of 9 July 2026 opened: no AI mentions. The search tool's own summary of the campaign site contradicted itself on whether she supports or opposes the data center moratorium; the page text read directly says 'Supporting'. Identity confirmed: Melat Kiros, Democratic socialist who beat Rep. Diana DeGette in the CO-01 primary on 30 June 2026."
+}

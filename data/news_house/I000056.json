@@ -1,0 +1,40 @@
+{
+  "bioguide": "I000056",
+  "member": "Darrell Issa",
+  "searches": [
+    "Issa artificial intelligence (restricted to issa.house.gov)",
+    "Darrell Issa superintelligence",
+    "Darrell Issa AI extinction existential risk",
+    "Darrell Issa AI pause slowdown moratorium",
+    "Darrell Issa China AI agreement treaty",
+    "\"Issa\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Rep. Darrell Issa AI hearing 2026 statement"
+  ],
+  "statements": [
+    {
+      "date": "2025-09-18",
+      "venue": "House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet hearing, opening statement as chair",
+      "quote": "Either we win in innovation, and we win in AI, or we lose our edge on the international stage.",
+      "context": "Opening statement at the hearing \"AI at a Crossroads: A Nationwide Strategy or Californication?\", arguing for federal rules that preempt a patchwork of state AI laws so the US stays ahead of China.",
+      "source_label": "Government Publishing Office hearing transcript (CHRG-119hhrg61690)",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About competition with China and against state AI regulation; it does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development; his remarks favour faster innovation and federal preemption of state AI laws, which is not a statement on a safety slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Chaired the 18 September 2025 Judiciary subcommittee hearing \"AI at a Crossroads: A Nationwide Strategy or Californication?\" on federal preemption of state AI laws.", "Government Publishing Office hearing transcript, 18 September 2025", "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He speaks about AI often as chair of the Judiciary subcommittee that covers AI, but only about competition with China, intellectual property and state regulation; no statement acknowledging catastrophic risk from AI was found. No 2026 statement in his own words about AI was found.",
+  "notes": "Eight web searches ran; none was refused. Search results were thin for 2026, so the search may be incomplete. The 18 September 2025 hearing transcript was opened and searched for catastrophe, existential and superintelligence wording; none appears in his remarks. In closing he spoke of 'our need to act with a restraint from some of the warnings that were given by Professor Richards', which concerns state-level harms, not catastrophic risk, so it was left out. A May 2025 report (Washington Times) paraphrases him at a 7 May 2025 hearing saying China is racing ahead in the contest for AI supremacy; paraphrase, not quoted, and level D at most. Ban Artificial Superintelligence Act (H.R. 10538, Rep. Casar): sources list Democratic cosponsors; no source shows Issa as sponsor or cosponsor, but the full Congress.gov cosponsor list was not checked. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). His press release page (10 most recent releases, November 2025 to September 2026) was opened; none is about AI. Two copies of an April 2026 article on a lawmakers' AI roundtable could not be opened (404 and 403); the copy on min.house.gov was opened and does not mention Issa."
+}

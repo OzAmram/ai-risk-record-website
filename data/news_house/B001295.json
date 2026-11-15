@@ -1,0 +1,24 @@
+{
+  "bioguide": "B001295",
+  "member": "Mike Bost",
+  "searches": [
+    "site:bost.house.gov artificial intelligence",
+    "\"Mike Bost\" \"AI safety\"",
+    "\"Bost\" superintelligence",
+    "\"Mike Bost\" AI extinction OR existential risk",
+    "\"Mike Bost\" AI pause OR slowdown OR moratorium",
+    "\"Mike Bost\" China AI agreement OR treaty",
+    "\"Rep. Mike Bost\" \"artificial intelligence\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Mike Bost about AI was found in news coverage or on his official press release pages from January 2025 to November 2026.",
+  "notes": "All 7 web searches ran (the 6 required plus one on his name with \"artificial intelligence\"). None returned a page quoting or naming Rep. Mike Bost (R-IL-12) on AI; results were about other members (Mike Johnson, Mike Lawler, Mike Flood) or, for \"Bost\" superintelligence, Nick Bostrom. The site:bost.house.gov search returned no pages from his site. I opened The Hill article on Mike Flood and a copy of the April 2026 AP story on a House AI roundtable (news4jax.com) because they appeared in results for his name; neither mentions Bost (the WTOP copy returned 404). No source showed him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act or leading a House letter on AI risk; co-sponsor lists were not checked directly on congress.gov. Carried over from the earlier attempt: bost.house.gov home page and press release listing pages 1 to 5 (https://bost.house.gov/press-releases?page=1 to 5, covering 13 Feb 2025 to 9 Nov 2026) were opened; no release title mentioned AI or technology, and the 23 Jul 2026 defense authorization release and 24 Feb 2026 State of the Union statement do not mention AI. Only titles were checked for the other releases, and House Veterans' Affairs Committee pages (he chairs that committee) and floor speeches were not checked."
+}

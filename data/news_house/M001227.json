@@ -1,0 +1,66 @@
+{
+  "bioguide": "M001227",
+  "member": "Jennifer L. McClellan",
+  "searches": [
+    "McClellan artificial intelligence site:mcclellan.house.gov",
+    "Jennifer McClellan superintelligence",
+    "Jennifer McClellan AI extinction existential risk",
+    "Jennifer McClellan AI pause slowdown moratorium",
+    "Rep. Jennifer McClellan China AI agreement treaty",
+    "\"Jennifer McClellan\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-05-05",
+      "venue": "Remarks at Virginia State University presenting federal funding for an AI and cybersecurity center, published on her official site",
+      "quote": "Just like any tool, AI can be used for good, but it can also be used for bad. This Center is to ensure that all of the policies, legal, and ethical frameworks that have governed human interactions also govern AI, and that human beings control AI, not the other way around.",
+      "context": "She presented $1.03 million in community project funding for a Center for Generative AI and Industrial Cybersecurity at Virginia State University, which the release says will study AI risks such as misinformation, copyright, bias and jobs.",
+      "source_label": "mcclellan.house.gov (In the News / VA-04 post)",
+      "url": "https://mcclellan.house.gov/2026/05/05/virginia-state-university-awarded-1-03-million-to-establish-center-for-ai-and-cybersecurity/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Saying humans must control AI 'not the other way around' acknowledges, in general terms, a risk of AI escaping human control, but names no catastrophic harm; it could also be read as a generic D remark, so it is marked boundary."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Secured $1.03 million in community project funding for a Center for Generative AI and Industrial Cybersecurity at Virginia State University.",
+      "mcclellan.house.gov, 5 May 2026",
+      "https://mcclellan.house.gov/2026/05/05/virginia-state-university-awarded-1-03-million-to-establish-center-for-ai-and-cybersecurity/"
+    ],
+    [
+      "Introduced H.R. 7783, the AI-Ready Networks Act, with Rep. Jay Obernolte, asking the National Telecommunications and Information Administration for a report on integrating AI into commercial telecommunications networks.",
+      "mcclellan.house.gov press release, 4 March 2026",
+      "https://mcclellan.house.gov/media/press-releases/mcclellan-obernolte-introduce-ai-ready-networks-act-assess-ai-usage-american"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "Her only AI-risk remark found is a 5 May 2026 statement that humans must control AI 'not the other way around', a general acknowledgment of risk with no catastrophic harm named (level C, boundary with D). Searches found nothing stronger and nothing dismissive.",
+  "notes": "All seven web searches ran this time (six required plus one on the Ban Artificial Superintelligence Act). None found any statement by her on superintelligence, extinction or existential risk, a pause or slowdown, an AI agreement with China, or AI safety; those searches returned only general material or other people. The 5 May 2026 quote was re-opened and confirmed on her official site; that page is filed under 'In the News' and reads like a Virginia State University release, but the quote is explicitly attributed to Congresswoman McClellan. Ban Artificial Superintelligence Act (H.R. 10538, September 2026): she is not a sponsor or co-sponsor according to the FastDemocracy cosponsor list (12 cosponsors, opened 14 November 2026: https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); the Congress.gov cosponsor page returned 403 and could not be opened. Other AI items, level D and not included as statements: the 4 March 2026 AI-Ready Networks Act release (her remarks are about workforce, telecommunications and transparency; added to record); a February 2026 robotics bill with Rep. Obernolte and a GUARD Act on Chinese-made robots (seen in search results only, not opened); the 17 September 2026 Ratepayer Protection Act statement mentions AI only as a driver of data center demand. From the earlier attempt: press release list pages 1 to 4 of 47 and the 2025 in Review page were checked on her site with no other AI-risk remarks; no House letter on AI risk led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Reviewer should decide C versus D for the single statement."
+}

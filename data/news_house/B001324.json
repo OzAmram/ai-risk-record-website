@@ -1,0 +1,60 @@
+{
+  "bioguide": "B001324",
+  "member": "Wesley Bell",
+  "searches": [
+    "site:bell.house.gov artificial intelligence",
+    "\"Wesley Bell\" superintelligence",
+    "\"Wesley Bell\" AI extinction OR existential risk",
+    "\"Wesley Bell\" AI pause OR slowdown OR moratorium",
+    "\"Wesley Bell\" China AI agreement OR treaty",
+    "\"Wesley Bell\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Rep. Wesley Bell artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2025-06-05",
+      "venue": "House Oversight Committee hearing, \"The Federal Government in the Age of Artificial Intelligence\"",
+      "quote": "Americans are concerned about AI and want protections from the risks it poses to their privacy, security, rights, and freedoms. Key AI guardrails that provided these protections at the Federal level were repealed.",
+      "context": "Questioning a witness about responsible federal use of AI, the proposed ten-year ban on state AI laws, and the Pentagon's AI-driven removal of web pages mentioning race.",
+      "source_label": "Hearing transcript, govinfo.gov (Serial No. 119-31)",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Names privacy, security, rights and bias risks from AI and opposes preempting state laws, but does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-sponsored H.R. 6356, the Artificial Intelligence Civil Rights Act of 2025 (led by Rep. Yvette Clarke per the Steptoe tracker), on algorithmic discrimination; not about catastrophic risk.",
+      "FastDemocracy bill page, introduced 2025-12-02",
+      "https://fastdemocracy.com/bill-search/us/119/bills/USB00100765"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found are from a June 2025 hearing and concern privacy, civil rights, bias and federal oversight, not catastrophic risk; his AI-related record (co-sponsoring the AI Civil Rights Act, December 2025) is also about discrimination. Nothing about AI risk was found from 2026.",
+  "notes": "All 6 required searches ran this time, plus 2 extra (8 total); none of the 6 topic searches returned any page mentioning Wesley Bell. The site:bell.house.gov search returned no pages from his site (the restriction was ignored). From the earlier run, kept: I read his official press release listing directly (bell.house.gov/media/press-releases, pages 1 to 4, covering 31 March to 26 October 2026; about 6 older pages not read): no 2026 release mentions AI; the closest is a 19 October 2026 bill on Defense Innovation Unit investment in Ukrainian defense technology (drones, unmanned systems), which is not about AI risk. Only listing summaries were read. He was on the roster of the 17 September 2025 Oversight subcommittee hearing 'Shaping Tomorrow: The Future of Artificial Intelligence' but is not listed as present and did not speak. Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 September 2026): reports say 9 to 10 House cosponsors, but no source I could open lists him; Congress.gov's cosponsor page returned 403, Quiver and Forkast do not name the cosponsors beyond Ocasio-Cortez, and FastDemocracy's (possibly partial) list shows Hoyle, Lynch and Tonko. So his co-sponsorship is unconfirmed either way and should be checked on Congress.gov. H.R. 6356 co-sponsorship is from the FastDemocracy cosponsor list (Bell listed); the sponsor name comes from the Steptoe tracker search snippet, not read at source. The hearing quote is copied from the transcript with its line wraps replaced by single spaces."
+}

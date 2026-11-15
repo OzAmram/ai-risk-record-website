@@ -1,0 +1,61 @@
+{
+  "bioguide": "A000375",
+  "member": "Jodey C. Arrington",
+  "searches": [
+    "Jodey Arrington artificial intelligence (restricted to arrington.house.gov)",
+    "Jodey Arrington superintelligence",
+    "Arrington AI extinction existential risk congressman",
+    "Jodey Arrington AI pause moratorium slowdown",
+    "Jodey Arrington China AI agreement treaty",
+    "\"Jodey Arrington\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-26",
+      "venue": "Texas Tribune Festival panel on AI regulation",
+      "quote": "Erring on the side of innovation and winning the race is the right initial posture,",
+      "context": "Arrington argued against heavy AI regulation, citing the race with China, and called United Nations-style global AI governance disastrous because he does not trust China.",
+      "source_label": "Texas Tribune (Emily Foxhall), republished by Click2Houston",
+      "url": "https://click2houston.com/news/texas/2026/09/26/us-should-err-on-the-side-of-innovation-in-ai-regulation-us-rep-arrington-says",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Favors innovation and winning the race with China over regulation without acknowledging or dismissing catastrophic risk; opposing regulation is D under ruling 6."
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Texas Tribune Festival panel on AI regulation",
+      "quote": "Managing the risk responsibly, that's right on. Winning the race, I think, is an imperative.",
+      "context": "Right after saying \"Zero risk means we lose,\" Arrington allowed that AI risk should be managed responsibly but said winning the race with China comes first; the article names no specific risk.",
+      "source_label": "Texas Tribune (Emily Foxhall), republished by Click2Houston",
+      "url": "https://click2houston.com/news/texas/2026/09/26/us-should-err-on-the-side-of-innovation-in-ai-regulation-us-rep-arrington-says",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "Mentions managing unspecified AI risk but names no serious or catastrophic danger, so it does not reach C."
+    },
+    {
+      "date": "2025-09-24",
+      "venue": "Press release on visit to the Stargate AI data center site in Abilene, Texas",
+      "quote": "From construction jobs to cutting-edge careers, this project means opportunities for our people, billions in private investment, and a powerful reminder that America - not China - will lead in the technologies of tomorrow.",
+      "context": "Arrington welcomed OpenAI and Oracle's Stargate AI infrastructure project to his district and framed it as jobs, investment and leadership over China.",
+      "source_label": "Arrington House press release",
+      "url": "https://arrington.house.gov/news/documentsingle.aspx?DocumentID=4145",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI investment and competition with China without acknowledging any catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development for safety reasons. He argued against heavy regulation, but that is not a statement about slowing capability progress.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI. He called United Nations-style global AI governance disastrous because he does not trust China (reported as paraphrase only), which is close to but not explicitly a statement against US-China pacing talks.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 remarks on AI (Texas Tribune Festival, 26 September 2026) favor innovation and winning the race with China over regulation and mention only unspecified risk; nothing found acknowledges or dismisses catastrophic risk.",
+  "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act. The 26 September 2026 Texas Tribune article (republished at https://www.newsfromthestates.com/article/us-should-err-side-innovation-ai-regulation-us-rep-arrington-says, which returned 403 to my fetch) was read through Click2Houston via a fetch tool that summarizes pages; the two quotes match the wording in the search results, but a reviewer should confirm them at the source. The same article quotes him saying \"Zero risk means we lose\" and \"If that's the game we're going to play, we will lose\"; these oppose a zero-risk approach to regulation but do not dismiss catastrophic risk, so they are not F. The article paraphrases him calling United Nations-style AI governance \"disastrous\" because he does not trust China; only the word was quoted, so it is not included as a statement. No source showed him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (reported House cosponsors did not include him) or signing a House letter on AI risk of his own. An earlier run opened his official site: the 60 most recent press releases (late 2025 to 27 October 2026) contain no mention of AI. A 1 August 2025 Avalanche-Journal article republished on his site (https://arrington.house.gov/news/documentsingle.aspx?DocumentID=3973) has him saying West Texas can power AI data centers; also D, not quoted. He is not seeking reelection; his term ends January 2027."
+}

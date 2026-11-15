@@ -1,0 +1,66 @@
+{
+  "bioguide": "L000273",
+  "member": "Teresa Leger Fernandez",
+  "searches": [
+    "artificial intelligence site:fernandez.house.gov",
+    "\"Leger Fernandez\" superintelligence",
+    "\"Leger Fernandez\" AI extinction existential risk",
+    "\"Leger Fernandez\" AI pause moratorium slowdown",
+    "\"Leger Fernandez\" China AI agreement treaty",
+    "\"Leger Fernandez\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Leger Fernandez"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "venue": "Press release quoting her social media post from earlier that week",
+      "quote": "how to address new technologies that could destroy our world. What we do now will matter. We cannot just let AI and data centers regulate themselves or depend on their goodwill to lower utility costs and limit the most destructive possibilities inherent in this rapidly evolving technology.",
+      "context": "Responding to President Trump calling AI concerns a hoax, while unveiling her data center principles; the same passage says Americans want government to do its job 'protecting humanity' and that 'Safety must always be our first mandate.'",
+      "source_label": "Leger Fernández press release, 24 September 2026",
+      "url": "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=663",
+      "read_at_source": true,
+      "level": "B",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She places AI among new technologies that could destroy our world and calls for limiting its most destructive possibilities, a catastrophic risk from the technology itself, not limited to misuse; it sits between A and B because the world-destroying framing is indirect."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "She called for a moratorium on new data center development in New Mexico, but its conditions are electricity bills, water, clean energy, union jobs, community approval and subsidies, not risks from AI itself, so it does not count.",
+      "sources": [
+        [
+          "Leger Fernández press release, 24 September 2026",
+          "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=663"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development; the data center moratorium is about local impact.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Called for a moratorium on new data center development in New Mexico until companies meet her six 'No Blank Checks for Data Centers' principles (local-impact grounds).",
+      "Leger Fernández press release, 24 September 2026",
+      "https://fernandez.house.gov/news/documentsingle.aspx?DocumentID=663"
+    ]
+  ],
+  "suggested_grade": "B",
+  "grade_reason": "Her strongest 2026 statement says AI is among new technologies that could destroy our world and that its most destructive possibilities must be limited, which is catastrophic risk from AI itself (B, possibly A). No dismissive statement was found.",
+  "notes": "All required web searches ran this time (7 in total, none refused). None of them returned anything by or about her on superintelligence, extinction or existential risk, pause or slowdown, a China agreement, or AI safety; the site-restricted search returned no pages from fernandez.house.gov. An earlier run had also opened her official press release list (16 July to 29 October 2026) and her site's news filter for 'artificial intelligence'; the only AI-related release found was the 24 September 2026 data center release. In this run I re-opened that release and confirmed the quoted passage matches the page text exactly. The quote is from a social media post she made 'earlier this week', reproduced in that release; the exact post date is not given, so the release date is used. A reviewer may check the original X post. Reviewer judgment needed: 'new technologies that could destroy our world' together with 'protecting humanity' could be read as A under ruling 1 (threat to humanity); I chose B with boundary because the destruction framing is stated indirectly about new technologies in general. It is not limited to misuse, so ruling 1 (misuse only) does not apply. Ban Artificial Superintelligence Act: news reports say Ocasio-Cortez and nine other House Democrats co-sponsored it, but no source found names the other nine, so whether she co-sponsored it is unconfirmed; the congress.gov cosponsor list was not checked. No House letter on AI risk of her own (other than the many-signer letters excluded by the instructions) was found. 2025 releases were not checked page by page."
+}

@@ -1,0 +1,38 @@
+{
+  "bioguide": "ELECT-NH-01-SHAHEEN",
+  "member": "Stefany Shaheen",
+  "searches": [
+    "Stefany Shaheen artificial intelligence",
+    "Stefany Shaheen AI safety",
+    "Stefany Shaheen superintelligence",
+    "Stefany Shaheen AI existential risk extinction",
+    "Stefany Shaheen AI pause moratorium regulation data centers",
+    "Stefany Shaheen China AI agreement",
+    "Stefany Shaheen for Congress campaign issues technology AI debate",
+    "\"Stefany Shaheen\" \"artificial intelligence\" OR \"AI\" New Hampshire 1st district"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-10",
+      "venue": "Interview with The Dartmouth (\"A Sit-Down with The Dartmouth\")",
+      "quote": "We should ban artificial intelligence from making benefit or eligibility decisions.",
+      "context": "Answering a question on health care priorities, alongside lowering prescription drug prices and Wall Street consolidation in health care.",
+      "source_label": "The Dartmouth",
+      "url": "https://www.thedartmouth.com/article/2026/04/stefany-shaheen-presses-for-health-care-reform-in-nh-01-bid",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI in health care benefit decisions; does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI remark found since 2025 is a 2026 call to ban AI from making health benefit or eligibility decisions, which does not acknowledge catastrophic risk.",
+  "notes": "Representative-elect; not a sitting member, so no bills, co-sponsorships or House letters. Eight web searches ran, none refused. Campaign site stefanyshaheen.com home page was opened and showed no issue pages or AI content. NHPR 5 November 2026 article on her first-term priorities was opened and does not mention AI. Several results concerned her mother, Sen. Jeanne Shaheen (for example AI chip export controls and a deepfake robocall letter); those are not hers and were excluded. No source found showing she backed the Ban Artificial Superintelligence Act."
+}

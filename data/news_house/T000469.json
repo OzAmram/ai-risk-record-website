@@ -1,0 +1,93 @@
+{
+  "bioguide": "T000469",
+  "member": "Paul Tonko",
+  "searches": [
+    "Tonko artificial intelligence (restricted to tonko.house.gov)",
+    "Paul Tonko superintelligence",
+    "Paul Tonko AI extinction existential risk",
+    "Paul Tonko AI pause slowdown moratorium",
+    "Paul Tonko China AI agreement treaty",
+    "\"Tonko\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Tonko"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-09",
+      "venue": "Press release introducing the Power for the People Act",
+      "quote": "Our Power for the People Act balances the need for data center development without pushing those costs onto consumers.",
+      "context": "Tonko introduced a bill making data centers, whose growth the release attributes to the rise of artificial intelligence models, pay for the grid expansion they require.",
+      "source_label": "House press release (tonko.house.gov), 9 April 2026",
+      "url": "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About the electricity costs of AI data centers, which the rubric places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act, which imposes a mandatory pause on advanced AI systems; a pause for safety reasons counts as yes here. Co-sponsorship, not a statement of his own.",
+      "sources": [
+        [
+          "FastDemocracy cosponsor list for H.R. 10538",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ],
+        [
+          "H.R. 10538 bill text as introduced (govinfo.gov)",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "Co-sponsor of H.R. 10538; its pause on advanced AI lasts until the new Department of Artificial Intelligence is fully staffed and has issued rules (Section 8(b)), i.e. conditional on safety rules, which the rubric treats as mixed. No statement of his own on a pause found.",
+      "sources": [
+        [
+          "FastDemocracy cosponsor list for H.R. 10538",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ],
+        [
+          "H.R. 10538 bill text as introduced (govinfo.gov)",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "H.R. 10538 Section 15(a) directs pursuit of 'international agreements and allied coordination to prevent the development of artificial superintelligence' but does not name China or pacing talks with China; no statement of his own found. Same reading as other co-sponsors' files.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "yes",
+      "note": "Co-sponsor of H.R. 10538 (not his own statement). Its Section 9(a) bans systems with 'superintelligence precursor characteristics', defined in Section 3(6)(A) to include 'The capacity to automate or greatly accelerate the process of artificial intelligence research and development', and its mandatory pause covers training 'including through recursive self-improvement'. Same reading as other co-sponsors' files; a reviewer should confirm it.",
+      "sources": [
+        [
+          "H.R. 10538 bill text as introduced (govinfo.gov)",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ],
+        [
+          "FastDemocracy cosponsor list for H.R. 10538",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    }
+  },
+  "record": [
+    [
+      "Co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (introduced 24 September 2026 by Rep. Casar), which bans artificial superintelligence and its precursor capabilities, imposes a mandatory pause on advanced AI until a new federal Department of Artificial Intelligence issues rules, and directs pursuit of international agreements. He is not among the original co-sponsors named in the introduced text, so he joined later; the date he joined was not found.",
+      "FastDemocracy cosponsor list, checked 14 November 2026",
+      "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ],
+    [
+      "Introduced the Power for the People Act, requiring data centers rather than consumers to pay for the grid expansion their electricity demand causes.",
+      "Tonko press release, 9 April 2026",
+      "https://tonko.house.gov/news/documentsingle.aspx?DocumentID=4569"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "No statement in his own words acknowledging catastrophic AI risk was found; his only AI remark found from 2026 is about data center electricity costs (D). His record does include co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538) in 2026, a strong action on catastrophic risk, so a reviewer may want to grade higher on the record.",
+  "notes": "All seven web searches ran (six required plus one on the Ban Artificial Superintelligence Act). Six of them found nothing by Tonko about superintelligence, extinction, a pause, a China agreement or AI safety. Co-sponsorship of H.R. 10538 comes from the FastDemocracy bill page (opened), which lists 'Rep. Tonko, Paul' as a cosponsor; congress.gov was not checked (it returned HTTP 403 in the earlier attempt). The introduced bill text on govinfo.gov (opened) does not name him among original co-sponsors, so he was added later; date unknown. Bill provisions are taken from the govinfo.gov text and a news report (The Decoder); a reviewer should confirm the rsi reading. No Tonko press release or statement about the bill was found. From the earlier attempt: his press release listing pages 1 to 6 (3 September 2025 to 9 November 2026) were read; only the Power for the People Act release (9 April 2026) relates to AI. His other quote in that release is also D and was left out. Search results also show older AI work on his site (AI Education Act, 2020-2021, before this project's period) and a SAFE Bet Act framework that would ban sportsbooks' use of AI to target gamblers (date not confirmed; D at most, not added). Hearing remarks (he sits on Energy and Commerce) and floor speeches were not checked in transcripts. The many-signer August and September 2026 House letters were not searched, per instructions."
+}

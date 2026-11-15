@@ -1,0 +1,90 @@
+{
+  "bioguide": "F000477",
+  "member": "Valerie P. Foushee",
+  "searches": [
+    "Foushee artificial intelligence (restricted to foushee.house.gov)",
+    "Valerie Foushee superintelligence",
+    "Foushee AI extinction existential risk",
+    "Foushee AI pause slowdown moratorium",
+    "Foushee China AI agreement treaty",
+    "\"Foushee\" \"AI safety\"",
+    "Rep. Valerie Foushee AI commission interview frontier AI risks 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-02-26",
+      "venue": "Press release statement",
+      "quote": "I urge Secretary Hegseth and the Department to withdraw any demands that would undermine established AI safety guardrails. The United States must lead in responsible AI, not in abandoning safeguards or automating life-and-death decisions.",
+      "context": "Her statement on reports that the Pentagon was pressuring Anthropic over mass surveillance and autonomous weapons and that the company was revising its safety commitments.",
+      "source_label": "Foushee press release",
+      "url": "https://foushee.house.gov/media/press-releases/ai-commission-co-chair-foushee-slams-pentagon-pressure-on-anthropic-over-mass-surveillance-and-autonomous-weapons-raises-alarm-over-safety-rollbacks",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She defends AI company safety commitments, but the harms she names are mass surveillance, autonomous weapons and civil liberties (military use is D under ruling 3), with no catastrophic risk from AI itself."
+    },
+    {
+      "date": "2026-06-26",
+      "venue": "Press release statement",
+      "quote": "I’m also proud to have advanced measures that will improve federal capacity to test and evaluate frontier AI systems and measure the real energy and water impacts of data centers on our communities.",
+      "context": "House Science Committee advanced her bills, including H.R. 9363, which directs a NIST center to measure risks from frontier AI systems.",
+      "source_label": "Foushee press release",
+      "url": "https://foushee.house.gov/media/press-releases/rep-foushee-led-generative-ai-labeling-frontier-ai-safety-and-data-center-measures-advance-through-house-science-committee",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Supports testing and evaluating frontier AI systems but does not say what danger they pose, so no serious or catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-03-20",
+      "venue": "Press release statement",
+      "quote": "This proposal lacks meaningful guardrails and ignores the real impacts AI is already having on jobs, communities, and local resources––from rising energy demand and skyrocketing costs to increased water use.",
+      "context": "Her response to the White House National AI Legislative Framework.",
+      "source_label": "Foushee press release",
+      "url": "https://foushee.house.gov/media/press-releases/congresswoman-foushee-blasts-white-house-ai-framework-that-fails-to-put-people-first",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Concerns are jobs, energy costs, water use and state preemption, which are outside the project's scope."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-introduced H.R. 9363, the AI Security and Innovation Act (with Rep. Obernolte), authorizing the NIST Center for AI Security and Innovation to measure risks related to frontier AI systems; passed the Science Committee 29 to 0, and her amendment adding explainability and interpretability research for frontier AI passed by voice vote.",
+      "Foushee press release, 2026-06-26",
+      "https://foushee.house.gov/media/press-releases/rep-foushee-led-generative-ai-labeling-frontier-ai-safety-and-data-center-measures-advance-through-house-science-committee"
+    ],
+    [
+      "Statement urging the Defense Department to drop demands that would undermine AI companies' safety guardrails, after reports that Anthropic was revising its safety commitments.",
+      "Foushee press release, 2026-02-26",
+      "https://foushee.house.gov/media/press-releases/ai-commission-co-chair-foushee-slams-pentagon-pressure-on-anthropic-over-mass-surveillance-and-autonomous-weapons-raises-alarm-over-safety-rollbacks"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She speaks often about AI in 2026 (as co-chair of the House Democratic Commission on AI), including support for frontier AI testing and AI company safety commitments, but no statement found acknowledges catastrophic risk; the harms she names are jobs, children, deepfakes, surveillance, autonomous weapons and data center impacts.",
+  "notes": "All six required web searches ran in this second attempt, plus one extra search for interviews (seven in total); the earlier attempt had all searches refused. The searches on superintelligence, extinction or existential risk, pause or moratorium, China agreement, and \"AI safety\" returned nothing about her. The site search and the extra search returned only her own press releases and commission releases on jobs, labeling, child safety, chatbots, HBCU research and the White House framework, all level D topics. From the earlier attempt (kept): her official press release index was read back to mid-2024 and about 16 AI-related releases from 2025 and 2026 were read; none of her own words mention catastrophe, extinction, loss of control, superintelligence, bioweapons, a pause or China agreements. Opened this time: the 8 May 2026 Gottheimer release on the AI commission co-chairs' Bay Area trip (her quote is about jobs, civil rights and responsible policy; D) and the 4 June 2026 Gun Violence Prevention Task Force letter to OpenAI and Google DeepMind she signed with Rep. Mike Thompson (chatbots giving hazardous information to shooters, self-harm, AI-induced psychosis; D, not a catastrophic-risk letter). The 4 June 2026 House AI Commission statement rejecting the Obernolte-Trahan AI discussion draft is a commission statement, not her own words, and names no catastrophic risk. Ban Artificial Superintelligence Act (H.R. 10538): she is not among the 12 cosponsors listed by FastDemocracy (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened in the earlier attempt); congress.gov returned 403 and GovTrack was blocked, so this was not confirmed there. No other House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). No news interview, hearing remark or floor speech of hers on catastrophic AI risk turned up in the searches, but hearing transcripts were not checked directly. Quotes were checked character for character against page text in the earlier attempt."
+}

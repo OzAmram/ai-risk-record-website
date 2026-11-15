@@ -1,0 +1,102 @@
+{
+ "bioguide": "ELECT-NY-12-LASHER",
+ "member": "Micah Lasher",
+ "searches": [
+  "Micah Lasher AI safety",
+  "Micah Lasher superintelligence",
+  "\"Lasher\" Assembly artificial intelligence extinction OR existential risk",
+  "Micah Lasher artificial intelligence RAISE Act Congress",
+  "Micah Lasher AI pause slowdown moratorium data centers",
+  "Micah Lasher China AI agreement treaty",
+  "Lasher artificial intelligence (restricted to nyassembly.gov, assembly.state.ny.us, micahlasher.com)",
+  "Micah Lasher NY-12 congressional candidate AI technology position"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-05",
+   "venue": "Op-ed on his own Substack newsletter, Into the Weeds (\"Tie Them to the Mast\")",
+   "quote": "But we may well face the moment of gravest danger in AI’s development in a matter of months, not years, and many experts’ p(doom) exceeds my own p(Congress and this president agreeing quickly on AI regulation with real teeth).",
+   "context": "Arguing that Congress must regulate AI and that, until it does, state attorneys general should use multistate investigations to impose enforceable safety requirements on all major AI companies.",
+   "source_label": "Into the Weeds by Micah Lasher (Substack)",
+   "url": "https://substack.micahlasher.com/p/tie-them-to-the-mast",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says in his own words that AI's moment of gravest danger may be months away and invokes experts' probability of doom; catastrophic risk from AI itself, between A and B because extinction or permanent loss of control is implied rather than stated."
+  },
+  {
+   "date": "2026-10-05",
+   "venue": "Op-ed on his own Substack newsletter, Into the Weeds (\"Tie Them to the Mast\")",
+   "quote": "And so, Big AI hurtles on, risks to civilization notwithstanding.",
+   "context": "Same op-ed, on AI companies continuing development while Congress fails to act.",
+   "source_label": "Into the Weeds by Micah Lasher (Substack)",
+   "url": "https://substack.micahlasher.com/p/tie-them-to-the-mast",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "States in his own voice that frontier AI development carries risks to civilization; between A and B because it is a civilizational rather than explicit extinction or humanity-ending framing."
+  },
+  {
+   "date": "2026-11-14",
+   "venue": "Campaign website, Platform and Policies page (undated; date given is the date it was read)",
+   "quote": "Cooperate with partners and experts across the globe to minimize artificial general intelligence- and superintelligence-related risks, including through potential binding international treaties.",
+   "context": "One of his pledges for Congress under the campaign's AI platform section, alongside a national data center moratorium and protections against AI mass surveillance.",
+   "source_label": "Lasher for Congress campaign site",
+   "url": "https://micahlasher.com/platform-and-policies/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "Acknowledges risks from artificial general intelligence and superintelligence in general terms without naming a catastrophic harm."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No explicit call to slow frontier AI for safety. His platform backs a national data center moratorium, but tied to environment and costs, which does not count. His op-ed favors enforceable 'restrictions' and 'guardrails' and says U.S. guardrails 'need not set us back' against China.",
+   "sources": [
+    [
+     "Lasher for Congress platform",
+     "https://micahlasher.com/platform-and-policies/"
+    ],
+    [
+     "Into the Weeds, 5 Oct 2026",
+     "https://substack.micahlasher.com/p/tie-them-to-the-mast"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on a pause of frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "Platform pledges 'potential binding international treaties' on AGI and superintelligence risks with 'partners and experts across the globe', but does not mention China or pacing; the op-ed's China discussion is about export controls and pressure on Beijing, not an agreement. Reviewer may consider 'mixed'.",
+   "sources": [
+    [
+     "Lasher for Congress platform",
+     "https://micahlasher.com/platform-and-policies/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Co-sponsor in the New York State Assembly of A6453, the RAISE Act on safety of frontier AI models (sponsor Alex Bores); passed in substituted Senate form and was signed into law on 19 December 2025.",
+   "New York State Assembly bill page, 2025",
+   "https://nyassembly.gov/leg/?default_fld=&leg_video=&bn=A06453&term=2025&Summary=Y&Actions=Y"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "His 5 October 2026 op-ed says in his own words that AI's 'moment of gravest danger' may be months away and that AI development carries 'risks to civilization', a catastrophic risk not limited to misuse. Nothing dismissive was found.",
+ "notes": "Eight web searches ran; none were refused. Micah Lasher (NY Assembly District 69, Manhattan) won the NY-12 primary against Alex Bores in a race with heavy AI-industry spending. The op-ed was read in full at its source (downloaded page text). The campaign platform page blocked direct download (Cloudflare); its wording was obtained through a page-fetch tool that returned the passage in two consecutive chunks, so exact spacing should be checked by a reviewer; the page has no date, so the date is the date read. The op-ed also relays others' warnings: CEOs believe guardrails are needed so products 'don’t do vast damage', and quotes Florida's Attorney General on 'potentially civilization-ending endeavors' (not his words, so not quoted). He mentions tools 'that may take on lives of their own'. News reports (Route Fifty, WTOP, Fox News, City & State) describe him as a supporter of AI regulation and say he pointed to his record standing up to Big Tech; I did not find direct quotes from him on catastrophic risk there. A webpronews article could not be opened (403). No evidence found of sponsoring the Ban Artificial Superintelligence Act. Consider whether 'risks to civilization' plus 'p(doom)' should be A under ruling 1; I chose B with boundary."
+}

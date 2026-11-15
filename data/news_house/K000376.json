@@ -1,0 +1,66 @@
+{
+  "bioguide": "K000376",
+  "member": "Mike Kelly",
+  "searches": [
+    "Mike Kelly artificial intelligence (restricted to kelly.house.gov)",
+    "Rep. Mike Kelly Pennsylvania superintelligence",
+    "Rep. Mike Kelly AI extinction existential risk",
+    "Congressman Mike Kelly AI pause slowdown moratorium",
+    "Rep. Mike Kelly China AI agreement treaty",
+    "\"Mike Kelly\" \"AI safety\" congressman",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Kelly"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-13",
+      "venue": "Press release",
+      "quote": "This legislation would leverage artificial intelligence to strengthen patient care and patient outcomes.",
+      "context": "Kelly introducing the bipartisan Accelerating Innovation (AI) for Kids Act with Reps. McCaul and Bera to speed the use of AI in pediatric cancer research.",
+      "source_label": "kelly.house.gov press release",
+      "url": "https://kelly.house.gov/media/press-releases/kelly-introduces-bipartisan-bill-advance-ai-driven-pediatric-cancer-research-0",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes AI as a tool for cancer research and does not acknowledge any catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; his data center bill support is about electricity costs, which does not count.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored the bipartisan Accelerating Innovation (AI) for Kids Act to use AI in pediatric cancer research.",
+      "kelly.house.gov press release, 13 July 2026",
+      "https://kelly.house.gov/media/press-releases/kelly-introduces-bipartisan-bill-advance-ai-driven-pediatric-cancer-research-0"
+    ],
+    [
+      "Backed the Ratepayer Protection Act so data center companies pay for their own electricity.",
+      "kelly.house.gov press release, 17 September 2026",
+      "https://kelly.house.gov/media/press-releases/kelly-backs-ratepayer-protection-act-calls-data-center-companies-pay-their-own"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only remarks on AI found in 2026 promote it as a medical research tool (the AI for Kids Act), with no acknowledgment of catastrophic risk. None of seven web searches found any statement by him on catastrophic AI risk, superintelligence, a pause or slowdown, or China talks.",
+  "notes": "All seven web searches ran (six required plus one on Ban Artificial Superintelligence Act cosponsors). None found any statement by Rep. Mike Kelly (R-PA) about catastrophic AI risk, superintelligence, extinction, a pause or slowdown, or AI talks with China. Name confusion: most 'Kelly' results on AI safety are Sen. Mark Kelly (D-AZ) or Rep. Robin Kelly (D-IL), not this person. The April 2026 Fitzpatrick-Kelly letter on AFL-CIO AI principles (fitzpatrick.house.gov) was opened and is with Sen. Mark Kelly, so it was left out. A 15 September 2026 Route Fifty roundup of Pennsylvania politicians reacting to calls for an AI slowdown was opened; he is not mentioned in it. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page lists 12 cosponsors (all Democrats) and he is not among them; Congress.gov was not checked (returned 403 Forbidden in the earlier attempt), so a later cosponsorship cannot be fully ruled out. No House letter about AI risk signed or led by him was found (many-signer August and September 2026 letters were not searched, per instructions). From the earlier attempt (kept): his site was browsed directly (press release listing pages 0 to 6, about 70 releases from 12 November 2026 back to 25 March 2026, plus the editorials list of 46 titles, none about AI). The 17 September 2026 Ratepayer Protection Act release quotes him only on data center electricity costs (\"Pennsylvania families shouldn't be footing the bill to power data centers\"); a search summary said the release frames AI leadership as critical to economic and national security, but the earlier read found that wording only in unattributed background text, so it was left out of statements (and would be D under ruling 4 anyway). Pages were read through a fetch tool that summarizes them, so the one quote should be rechecked at the source by a reviewer."
+}

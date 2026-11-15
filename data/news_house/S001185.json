@@ -1,0 +1,39 @@
+{
+ "bioguide": "S001185",
+ "member": "Terri A. Sewell",
+ "searches": [
+  "site:sewell.house.gov artificial intelligence",
+  "Terri Sewell superintelligence",
+  "Terri Sewell AI existential risk extinction",
+  "Terri Sewell AI pause slowdown moratorium",
+  "Terri Sewell China AI agreement treaty",
+  "\"Sewell\" \"AI safety\" congresswoman 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Sewell"
+ ],
+ "statements": [
+  {
+   "date": "2026-07-21",
+   "venue": "Press release on cosponsoring the AI Data Center Moratorium Act",
+   "quote": "I am not anti-AI, and I am certainly not anti-innovation,",
+   "context": "Sewell explained why she cosponsored a bill pausing large AI data center construction until federal rules on water, energy, environmental impact, labor and community benefit are in place.",
+   "source_label": "Sewell press release, 21 July 2026",
+   "url": "https://sewell.house.gov/2026/7/rep-sewell-cosponsors-legislation-to-pause-ai-data-center-construction-until-federal-guardrails-are-established",
+   "read_at_source": true,
+   "level": "D",
+   "flags": ["bill_or_action"],
+   "reason": "About local water, energy and community impacts of data centers, not catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "She cosponsored the AI Data Center Moratorium Act (July 2026), but her stated reasons are water, energy, environmental and local community impacts, not risks from AI itself, so under the rubric this is none.", "sources": [["Sewell press release, 21 July 2026", "https://sewell.house.gov/2026/7/rep-sewell-cosponsors-legislation-to-pause-ai-data-center-construction-until-federal-guardrails-are-established"]]},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Cosponsored the AI Data Center Moratorium Act, which would pause large AI data center construction until federal rules on environment, energy, water, labor and community engagement exist.", "Sewell press release, 21 July 2026", "https://sewell.house.gov/2026/7/rep-sewell-cosponsors-legislation-to-pause-ai-data-center-construction-until-federal-guardrails-are-established"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only substantial 2026 AI remarks concern the local water, energy and community impacts of AI data centers; no statement acknowledging catastrophic AI risk was found.",
+ "notes": "All 7 searches ran; none were refused. The press release page was opened, but the fetch tool returned only short excerpts, so the quote was checked against a summarized page rather than the full raw text. No source shows her cosponsoring the Ban Artificial Superintelligence Act (H.R. 10538); search results listed other House cosponsors but the list may be incomplete and congress.gov was not checked. Large multi-signer House letters were excluded per instructions."
+}

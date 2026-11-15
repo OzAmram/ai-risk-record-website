@@ -1,0 +1,37 @@
+{
+  "bioguide": "A000371",
+  "member": "Pete Aguilar",
+  "searches": [
+    "Aguilar artificial intelligence (restricted to aguilar.house.gov)",
+    "Pete Aguilar superintelligence",
+    "Pete Aguilar AI extinction existential risk",
+    "Pete Aguilar AI pause slowdown moratorium",
+    "Pete Aguilar China AI agreement treaty",
+    "\"Aguilar\" \"AI safety\" House Democratic Caucus",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Aguilar"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "venue": "House Democratic leadership press conference on cancelling the recess to legislate on AI",
+      "quote": "legitimate real AI safety, not allowing industry to decide their own rules",
+      "context": "Speaking alongside Hakeem Jeffries and Katherine Clark, who were pressing Speaker Johnson to keep the House in session to vote on AI safeguards.",
+      "source_label": "The Next Web, 17 September 2026",
+      "url": "https://thenextweb.com/news/house-democrats-cancel-recess-ai-safety-jeffries",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "He calls for real AI safety rules not set by industry but does not himself describe any catastrophic or serious danger from AI; the existential-threat remarks at the same event were made by Clark and Jeffries, not him."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only statement of his own on AI risk found (17 September 2026) calls for 'legitimate real AI safety' without describing a catastrophic or serious danger from AI, so it is D, on the boundary with C. His other AI material is press releases on AI education and workforce funding.",
+  "notes": "Seven web searches ran; none was refused. The quote comes from a secondary news report (The Next Web), not a transcript; the same article also quotes him: 'Retreating and failing is not an option in this area' and 'It's on us now to chart a course moving forward.' A reviewer may consider C, since he spoke at an event framed around AI as a serious threat, but the serious-threat wording ('a true threat to a global existence') was Katherine Clark's, not his. Many of his aguilar.house.gov press releases (2025 and 2026) announce federal money for AI education, workforce and research in the Inland Empire (for example https://aguilar.house.gov/2026/08/31/rep-aguilar-sen-schiff-deliver-more-than-1-million-for-cal-state-san-bernardino-ai-research-center/); these were seen only in search results, not opened, and are level D at most. Ban Artificial Superintelligence Act (H.R. 10538, Casar): no source found shows Aguilar as a sponsor or cosponsor, but the full cosponsor list was not checked on Congress.gov. As a member of Democratic leadership he may have signed the 16 September 2026 letter to Speaker Johnson; per instructions that letter was not searched and is left to the central build. No other House letter about AI risk signed or led by him was found."
+}

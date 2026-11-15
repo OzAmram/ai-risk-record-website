@@ -1,0 +1,54 @@
+{
+  "bioguide": "J000302",
+  "member": "John Joyce",
+  "searches": [
+    "John Joyce artificial intelligence (restricted to johnjoyce.house.gov)",
+    "Rep. John Joyce superintelligence",
+    "Rep. John Joyce AI extinction existential risk",
+    "Rep. John Joyce Pennsylvania AI pause slowdown moratorium",
+    "Rep. John Joyce China AI agreement treaty",
+    "\"John Joyce\" \"AI safety\" congressman",
+    "Chairman Joyce artificial intelligence 2026 hearing opening statement (restricted to energycommerce.house.gov)",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-12-17",
+      "venue": "Opening statement as chairman, Energy and Commerce Oversight and Investigations Subcommittee hearing \"Examining Biosecurity at the Intersection of AI and Biology\"",
+      "quote": "These risks are not theoretical. National security experts warn that adversarial nations—including China, North Korea, Iran, Russia, and others—may seek to exploit AI-enabled biological design tools for malicious purposes. We must take those warnings seriously.",
+      "context": "Joyce opened a hearing on how AI models and biological design tools could help people develop or modify dangerous pathogens, and whether federal biosecurity oversight keeps up.",
+      "source_label": "House Energy and Commerce Committee press release, 17 December 2025",
+      "url": "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-ai-and-biotechnology",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["misuse_only", "relayed_warning"],
+      "reason": "He endorses warnings that hostile states may use AI biological design tools for malicious purposes, a catastrophic harm limited to misuse by people, so C under the misuse-only ruling."
+    },
+    {
+      "date": "2025-11-21",
+      "venue": "Press release on introducing the Health Tech Investment Act",
+      "quote": "The bipartisan Health Tech Act will ensure that American patients, regardless of rural or urban care settings, can access new, innovative AI-enabled medical devices that are revolutionizing healthcare.",
+      "context": "Joyce introduced a bipartisan bill to give FDA-approved AI-enabled medical devices a temporary Medicare outpatient payment classification.",
+      "source_label": "Rep. John Joyce press release",
+      "url": "https://johnjoyce.house.gov/media/press-releases/dr-joyce-introduces-legislation-improve-access-ai-healthcare-devices",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Promotes access to AI medical devices and does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Chaired the Energy and Commerce Oversight and Investigations Subcommittee hearing \"Examining Biosecurity at the Intersection of AI and Biology\".", "House Energy and Commerce Committee, 17 December 2025", "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-ai-and-biotechnology"],
+    ["Chaired the Energy and Commerce Oversight and Investigations Subcommittee hearing \"Innovation with Integrity: Examining the Risks and Benefits of AI Chatbots\" (privacy, engagement design, self-harm and children).", "House Energy and Commerce Committee, 18 November 2025", "https://energycommerce.house.gov/posts/chairman-joyce-delivers-opening-statement-at-subcommittee-on-oversight-and-investigations-hearing-on-artificial-intelligence-ai-chatbots"],
+    ["Introduced the bipartisan Health Tech Investment Act with Reps. Peters, Van Duyne, Schneider, Obernolte and Craig, to give FDA-approved AI-enabled medical devices a New Technology payment classification in Medicare's hospital outpatient system for at least five years.", "Rep. John Joyce press release, 21 November 2025", "https://johnjoyce.house.gov/media/press-releases/dr-joyce-introduces-legislation-improve-access-ai-healthcare-devices"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His strongest remark, endorsing warnings that hostile states may misuse AI biological design tools, is from December 2025 and is C only (misuse only). No 2026 statement about AI was found, so under the 2026 ruling the suggestion is D.",
+  "notes": "All six required web searches ran this time, plus two extra (eight in total). The 17 December 2025 biosecurity statement was read in full at the source; it also says AI 'introduces profound new risks to the safety and security of the American people' and that 'Some LLMs have even been shown to outperform PhD-level virologists on advanced troubleshooting tasks', all framed around misuse. The 18 November 2025 chatbot hearing opening statement was opened only through a summarising fetch tool (a direct download of the page was refused by the permission system), so no quote from it is included; it was about privacy, engagement design, self-harm and children, which is D. A search result also says he called AI 'the defining technology of the next several decades' at an Energy and Commerce hearing on AI and global competitiveness; not opened, date not checked, left out. No 2026 AI statement was found on his official site (previous attempt checked his press release pages 1 to 5, back to January 2025) or the committee site. Ban Artificial Superintelligence Act (H.R. 10538, Casar): partial cosponsor lists seen show only Democrats; no source shows Joyce as sponsor or cosponsor, though no complete roster was checked (Congress.gov returned 403 earlier). No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

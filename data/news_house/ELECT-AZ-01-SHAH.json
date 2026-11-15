@@ -1,0 +1,22 @@
+{"bioguide": "ELECT-AZ-01-SHAH", "member": "Amish Shah",
+ "searches": [
+  "Amish Shah artificial intelligence AI safety",
+  "Amish Shah superintelligence",
+  "\"Amish Shah\" Arizona congress AI extinction OR existential risk",
+  "\"Amish Shah\" AI pause OR moratorium OR slowdown OR \"data center\"",
+  "\"Amish Shah\" China AI agreement OR treaty",
+  "site:amishshahforarizona.com artificial intelligence",
+  "\"Amish Shah\" Schweikert 2026 debate artificial intelligence"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI. His opposition to data centers in his district is about water and local wishes, not risk from AI itself, so it does not count.", "sources": [["Amish for Arizona issues page", "https://amishforarizona.com/issues"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "The only AI-related material found from 2026 is his campaign's opposition to AI data centers in his district on water grounds; nothing found on catastrophic risk from AI.",
+ "notes": "7 web searches ran, none refused. No direct quote by Shah on AI was found. His campaign issues page (https://amishforarizona.com/issues, read 2026-11-14, undated) criticises the Trump administration for \"pushing AI companies to build water-hungry data centers in the desert\" and pledges to \"stop data centers from being built in our district\"; it is campaign copy with no date, so it is left out of statements. Paraphrases only (not quotes): KJZZ, 8 October 2026 (https://www.kjzz.org/politics/2026-10-08/arizona-1st-congressional-district-candidates-share-different-views-on-data-centers-in-debate), reports that in the 7 October 2026 debate with Jay Feely he said he now opposes the data center tax credit he voted for in 2021, that the AI boom had not happened then, and that data centers belong in communities that want them; KTAR (https://ktar.com/arizona-politics-news/amish-shah-jay-feely-cd1-debate) reports he opposes data centers in the district over water. As a non-member he could not have co-sponsored the Ban Artificial Superintelligence Act; no House-letter or other record found. Several search results concerned other people named Shah (Chirag Shah, Rohin Shah) and were ignored. If the reviewer considers data-center opposition not to be 'about AI', the grade should be 'none'."
+}

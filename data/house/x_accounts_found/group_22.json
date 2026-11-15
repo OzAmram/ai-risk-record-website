@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ELECT-TX-22-NEHLS",
+    "name": "Trever Nehls",
+    "accounts": [
+      {
+        "handle": "TreverNehls",
+        "account_type": "campaign",
+        "evidence_url": "https://www.trevernehlsforcongress.com/",
+        "evidence": "His campaign site, titled 'Trever Nehls For Congress – CD 22', links to x.com/TreverNehls alongside his Facebook (ColTreverNehls) and Instagram (trevernehlsforcongress)."
+      }
+    ],
+    "notes": "Representative-elect, so no official House account yet. The handle is distinct from his twin brother Rep. Troy Nehls's accounts."
+  },
+  {
+    "id": "ELECT-TX-23-STOUT",
+    "name": "Katy Padilla Stout",
+    "accounts": [
+      {
+        "handle": "Katy4Congress",
+        "account_type": "campaign",
+        "evidence_url": "https://branch.vote/races/2026-texas-general-election-tx-state-us-representative-tx-congressional-23/candidates/katy-padilla-stout",
+        "evidence": "Her Branch.vote candidate profile (which lists katyforcongress.com as her site) gives her Twitter link as x.com/Katy4Congress."
+      }
+    ],
+    "notes": "Her own site katyforcongress.com links Facebook, Instagram, TikTok and Bluesky all under katy4congress but no X link, so the X handle rests on the Branch.vote listing; the matching handle pattern across her other accounts supports it. No official House account yet."
+  },
+  {
+    "id": "ELECT-TX-30-HAYNES",
+    "name": "Frederick D. Haynes III",
+    "accounts": [],
+    "notes": "Not found. His campaign site haynesforcongress.com has an X icon pointing only to the template placeholder 'https://x.com/candidate' (not a real account); it links Instagram and TikTok (haynesforcongress) and a Facebook page. Branch.vote, BallotReady, J Street PAC and the Friendship-West Baptist Church homepage show no X handle. A search surfaced @fhunscripted posting as 'Dr. Freddy Haynes' in 2017, but no opened page ties it to him, so it is not included. Ballotpedia blocked automated access (bot challenge), not worked around. Search budget (3) used."
+  },
+  {
+    "id": "ELECT-TX-32-YARBROUGH",
+    "name": "Jace Yarbrough",
+    "accounts": [
+      {
+        "handle": "JaceYarbrough",
+        "account_type": "personal",
+        "evidence_url": "https://branch.vote/races/2026-texas-general-election-tx-state-us-representative-tx-congressional-32/candidates/jace-yarbrough",
+        "evidence": "His Branch.vote candidate profile (which lists jaceforcongress.com as his site) gives his Twitter link as x.com/JaceYarbrough; his BallotReady profile also links twitter.com/JaceYarbrough."
+      }
+    ],
+    "notes": "His campaign site jaceforcongress.com shows no social links at all. account_type 'personal' is a guess: the handle is his name and seems to predate this campaign (he ran for Texas Senate District 30 in 2024); it may double as his campaign account. No official House account yet."
+  },
+  {
+    "id": "ELECT-TX-33-ALLRED",
+    "name": "Colin Allred",
+    "accounts": [
+      {
+        "handle": "ColinAllredTX",
+        "account_type": "campaign",
+        "evidence_url": "https://colinallred.com/",
+        "evidence": "His campaign site, titled 'Allred for Texas', links to twitter.com/ColinAllredTX and x.com/ColinAllredTX in its social links."
+      }
+    ],
+    "notes": "His House office account from his 2019-2025 term (likely RepColinAllred) was not checked and he does not hold office now; a new official account may be created after he is sworn in. I did not confirm his 3 November 2026 general-election win myself (searches only confirmed his May runoff win over Julie Johnson); the input lists him as representative-elect. I also recall an older @ColinAllred handle but did not verify it on any page, so it is not included."
+  },
+  {
+    "id": "ELECT-TX-35-GARCIA",
+    "name": "Johnny C. Garcia",
+    "accounts": [
+      {
+        "handle": "johnnygarciatx",
+        "account_type": "campaign",
+        "evidence_url": "https://www.votejohnnygarcia.com/",
+        "evidence": "His campaign site, titled 'Johnny Garcia For Congress | san antonio 2026 election', links to x.com/johnnygarciatx alongside Facebook and Instagram (johnnygarciaforcongress)."
+      }
+    ],
+    "notes": "Representative-elect, so no official House account yet."
+  }
+]

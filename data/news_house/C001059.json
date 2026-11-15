@@ -1,0 +1,51 @@
+{
+  "bioguide": "C001059",
+  "member": "Jim Costa",
+  "searches": [
+    "Costa artificial intelligence (restricted to costa.house.gov)",
+    "Rep. Jim Costa superintelligence",
+    "Jim Costa AI extinction existential risk",
+    "Jim Costa AI pause slowdown moratorium",
+    "Jim Costa China AI agreement treaty",
+    "\"Jim Costa\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Costa"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-03",
+      "venue": "The Business Journal news article, reposted on his House website",
+      "quote": "I don't want families in Fresno, and Tulare to have higher utility cost because we failed to plan for the growth,",
+      "context": "Costa promoting his bill to study the energy and water impacts of AI data centers.",
+      "source_label": "The Business Journal (repost on costa.house.gov)",
+      "url": "https://costa.house.gov/media/in-the-news/costa-touts-bill-study-ai-data-centers-energy-water-impacts",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About utility costs from AI data center growth, with no acknowledgment of catastrophic risk from AI."
+    },
+    {
+      "date": "2025-09-11",
+      "venue": "Press release",
+      "quote": "AI Data Centers are expanding rapidly and using more energy and water than entire cities.",
+      "context": "Announcing H.R. 5227, the Unleashing Low-Cost Rural AI Act, a bipartisan bill with Rep. Blake Moore to study AI data centers' impact on rural areas.",
+      "source_label": "House press release",
+      "url": "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About energy and water use of data centers, which is outside the scope of catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development; his data center bill is a study of energy, water and cost impacts, not a moratorium.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced H.R. 5227, the Unleashing Low-Cost Rural AI Act, with Rep. Blake Moore, to study how AI data centers affect rural energy, water and consumer costs.", "House press release, 11 September 2025", "https://costa.house.gov/media/press-releases/news-representatives-costa-moore-call-federal-study-ai-data-centers-impact"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2025 and 2026, but only about data centers' energy, water and utility-cost impacts on rural communities, never about catastrophic risk from AI.",
+  "notes": "Seven web searches ran; none was refused. Search results on Costa and AI were thin, so the search may be incomplete; results for the risk-specific queries did not mention him at all. Paraphrase left out: the 3 September 2026 Business Journal article paraphrases him saying AI could bring benefits in healthcare, education and agriculture while worrying about electricity and water demands. The 2025 press release quote was obtained through a page-fetch tool that returns extracted text; the wording should be spot-checked against the page. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar, September 2026): no source found shows Costa as a sponsor or cosponsor, but the full cosponsor list on Congress.gov was not checked. No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Only the two pages above on his site were opened directly."
+}

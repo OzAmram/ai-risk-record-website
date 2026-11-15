@@ -1,0 +1,53 @@
+{
+  "bioguide": "N000015",
+  "member": "Richard E. Neal",
+  "searches": [
+    "Richard Neal artificial intelligence site:neal.house.gov",
+    "Rep. Richard Neal superintelligence",
+    "Richard Neal AI extinction existential risk",
+    "Richard Neal AI pause slowdown moratorium",
+    "Richard Neal China AI agreement treaty",
+    "\"Richard Neal\" \"AI safety\"",
+    "\"Artificial Superintelligence\" Act Casar cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-01",
+      "venue": "Ways and Means Committee markup, opening statement (press release)",
+      "quote": "Like with any emerging technology, this bill seeks to thoughtfully deploy AI with clear guardrails to establish a limited pilot program at the IRS, focused on narrow areas to help improve tax administration.",
+      "context": "Neal supported H.R. 9501, a bill led by Rep. Horsford creating a limited AI pilot program at the IRS to detect identity theft, ghost preparers and fraudulent claims.",
+      "source_label": "Neal press release",
+      "url": "https://neal.house.gov/2026/07/01/neal-opening-statement-at-markup-of-h-r-9501/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About using AI in tax administration with guardrails; no catastrophic risk from AI is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only substantive 2026 remark on AI found is about a limited AI pilot program at the IRS with guardrails, which does not acknowledge catastrophic risk. Nothing found at levels A, B, C or F.",
+  "notes": "All 7 web searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act). None returned any statement by Richard Neal on superintelligence, extinction or existential risk, a pause or slowdown, a China agreement, or AI safety; the 'superintelligence' search surfaced Rep. Neal Dunn (R-FL), a different member, whose remarks were not used. A May 2025 letter from Massachusetts state legislators opposing the federal 10-year moratorium on state AI laws was addressed to Neal among the delegation; he was a recipient, not a signer (checked at https://www.senatormikemoore.com/new-blog/2025/5/30/massachusetts-legislators-announce-opposition-to-federal-ai-regulation-moratorium), so it is not in his record. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar, about 9 cosponsors): could not confirm whether Neal co-sponsored it. Congress.gov cosponsor page returned 403; Quiver Quantitative and Forkast pages name no cosponsors besides Ocasio-Cortez. No source seen shows Neal as a cosponsor; a reviewer may want to check Congress.gov directly. From the earlier attempt (still valid): neal.house.gov home page, press releases page 1 (15 Aug to 15 Oct 2026, no AI items by title) and site searches for 'artificial intelligence' (found the 1 July 2026 markup statement and a 20 January 2026 item about a local teen's AI app, not a Neal statement), 'superintelligence' (no results) and 'AI' (not useful) were opened directly. The 28 September 2026 'Trump's China Capitulation' statement does not mention AI."
+}

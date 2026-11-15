@@ -1,0 +1,64 @@
+{
+  "bioguide": "C001129",
+  "member": "Mike Collins",
+  "searches": [
+    "site:collins.house.gov artificial intelligence",
+    "\"Mike Collins\" Georgia AI superintelligence",
+    "\"Mike Collins\" AI extinction existential risk",
+    "\"Mike Collins\" AI pause slowdown moratorium",
+    "\"Mike Collins\" China AI agreement treaty",
+    "\"Mike Collins\" \"AI safety\"",
+    "\"Rep. Mike Collins\" artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-02-23",
+      "venue": "House floor speech on H.R. 3679, the Small Business Artificial Intelligence Advancement Act",
+      "quote": "We will ensure small businesses have the ability to modernize and remain competitive against their larger counterparts.",
+      "context": "Speaking for his bill directing the National Institute of Standards and Technology to produce AI adoption resources for small businesses, which passed the House that day.",
+      "source_label": "FedScoop, 24 February 2026",
+      "url": "https://fedscoop.com/nist-bill-ai-assistance-small-businesses-passes-house/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Promotes AI adoption by small businesses and does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026 (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, Ban Artificial Superintelligence Act cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of frontier AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored, with Rep. Haley Stevens, H.R. 3679, the Small Business Artificial Intelligence Advancement Act (introduced 3 June 2025), which directs NIST to create AI adoption resources for small businesses; it passed the House on 23 February 2026.",
+      "FedScoop, 24 February 2026",
+      "https://fedscoop.com/nist-bill-ai-assistance-small-businesses-passes-house/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found since 2025 promote AI adoption by small businesses (2026 floor speech on his own bill); nothing found acknowledging or dismissing catastrophic risk from AI.",
+  "notes": "All 7 web searches ran (6 required plus 1 extra on his name with artificial intelligence 2026). The site-restricted search returned no collins.house.gov pages; the earlier attempt opened collins.house.gov/media/press-releases pages 1 to 3 (January 2025 to 14 July 2026) and found no press release mentioning AI. The searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing about this Mike Collins (results were about other people, such as Speaker Mike Johnson, Victoria Collins and Tantum Collins). He is not among the 12 listed cosponsors of the Ban Artificial Superintelligence Act (H.R. 10538) on FastDemocracy. The quoted floor remark was read via a page-fetch tool that summarizes pages, so a reviewer should confirm the exact wording against the FedScoop article or the Congressional Record for 23 February 2026. His October 2023 Science Committee hearing statement on AI risk management is before 2025 and was not included. He is believed to have run for US Senate in Georgia in 2026; campaign statements were not specifically checked."
+}

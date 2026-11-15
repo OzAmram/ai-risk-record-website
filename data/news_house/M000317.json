@@ -1,0 +1,61 @@
+{
+ "bioguide": "M000317",
+ "member": "Nicole Malliotakis",
+ "searches": [
+  "Malliotakis artificial intelligence (restricted to malliotakis.house.gov)",
+  "Nicole Malliotakis superintelligence",
+  "Malliotakis AI extinction existential risk",
+  "Malliotakis AI pause slowdown moratorium",
+  "Malliotakis China AI agreement treaty",
+  "\"Malliotakis\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-24",
+   "venue": "Press release",
+   "quote": "As this technology continues to rapidly develop, Congress must ensure we have the appropriate safeguards in place to protect consumers, our privacy and national security while giving American companies the certainty they need to continue innovating and competing on the world stage,",
+   "context": "Statement announcing her cosponsorship of H.R. 9925, the FRONTIER Act, a national risk-based framework for frontier AI developers that would also preempt state rules.",
+   "source_label": "Malliotakis House press release",
+   "url": "https://malliotakis.house.gov/media/press-releases/malliotakis-cosponsors-bipartisan-frontier-act-establish-national-ai-framework",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "She calls for guardrails and safeguards for national security and consumers but describes no catastrophic danger from AI itself (ruling 4)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development; her only China mention is about staying ahead of China.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Cosponsored H.R. 9925, the FRONTIER Act (led by Reps. Obernolte and Trahan), which sets tiered requirements for frontier AI developers including risk-management frameworks, independent audits, incident reporting and a uniform national standard for reporting catastrophic risk, preempting state rules.",
+   "Malliotakis press release, 24 September 2026",
+   "https://malliotakis.house.gov/media/press-releases/malliotakis-cosponsors-bipartisan-frontier-act-establish-national-ai-framework"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI statement found (September 2026, cosponsoring the FRONTIER Act) talks about guardrails, consumers, privacy and national security without describing catastrophic danger from AI, which is D. The bill itself covers catastrophic-risk reporting, but her own words do not acknowledge that risk.",
+ "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 searches in total). None of them surfaced any statement by her on superintelligence, extinction or existential risk, a pause or slowdown, a China AI agreement, or AI safety. The official-site search found only the FRONTIER Act release as substantively about AI (another release mentions H.R. 9339 on using AI to improve the power grid, an energy-cost item, not included). The FRONTIER Act press release was re-opened this session; the quote matches, and the release date is 24 September 2026. The same release also says she wants AI guardrails 'ensuring the United States stays ahead of China', which is competition, not coordination. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): search results describe its cosponsors as House Democrats; no source shows her as a sponsor or cosponsor, but the full congress.gov cosponsor list was not opened. An undated Google document from the moratorium search lists her among New York House Republicans next to text about the 2025 ten-year moratorium on state AI regulation, but it does not say what she argued, so it is left out. From the earlier attempt: her press release archive pages 1 to 4 (about 19 March to 12 November 2026) were opened directly and only the FRONTIER Act release mentioned AI; the official site's own search page returned HTTP 403. The quote ends with a comma because the press release's sentence continues into the attribution."
+}

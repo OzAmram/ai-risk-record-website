@@ -1,0 +1,24 @@
+{
+  "bioguide": "E000235",
+  "member": "Mike Ezell",
+  "searches": [
+    "Mike Ezell artificial intelligence (restricted to ezell.house.gov)",
+    "Rep. Mike Ezell superintelligence AI",
+    "Mike Ezell AI existential risk extinction",
+    "Mike Ezell AI pause moratorium slowdown",
+    "Mike Ezell China AI agreement treaty",
+    "\"Mike Ezell\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Ezell"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by him about AI was found: none of seven web searches returned anything linking him to AI, and his official press releases from April 2025 to October 2026 do not mention artificial intelligence.",
+  "notes": "All 6 required web searches ran this time, plus one extra search on the Ban Artificial Superintelligence Act cosponsors (7 in total); none returned any result mentioning Mike Ezell in connection with AI. The ezell.house.gov-restricted search returned only his home page, issues, biography and unrelated news pages. Results on pause, superintelligence and China were about other members (Speaker Mike Johnson, Mike Flood, Greg Casar, Ro Khanna), not him. The bill search found no source listing him as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538); news reports describe it as led by Sanders and Casar with Democratic cosponsors. This was not confirmed against the Congress.gov cosponsor page, which returned HTTP 403 in the earlier attempt. Kept from the earlier attempt (still valid): the press release listing pages 1 to 7 on ezell.house.gov (https://ezell.house.gov/news/documentquery.aspx?DocumentTypeID=27), covering 70 releases from 14 April 2025 to 13 October 2026, show no title or excerpt about artificial intelligence (one release on 'artificial reefs' is unrelated); only listing excerpts were read, not full texts. Topics are mostly the Coast Guard, ports, fisheries, flood insurance, disaster relief and shipbuilding. He sits on the House Homeland Security Committee, but no AI-related hearing remarks by him were found. The 'In the News' and hearing pages on his site were not opened. The many-signer August and September 2026 House letters were not searched, per instructions."
+}

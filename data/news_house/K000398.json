@@ -1,0 +1,100 @@
+{
+  "bioguide": "K000398",
+  "member": "Thomas H. Kean, Jr.",
+  "searches": [
+    "Kean artificial intelligence (restricted to kean.house.gov)",
+    "Rep. Tom Kean Jr. superintelligence",
+    "Tom Kean Jr. AI existential risk extinction",
+    "Tom Kean Jr. AI pause moratorium slowdown",
+    "Tom Kean Jr. China AI agreement treaty",
+    "\"Tom Kean\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Kean"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "venue": "Press release introducing the AI Emergency Button Act",
+      "quote": "While AI can be a helpful tool, it is essential that humans remain in control of complex artificial intelligence systems,",
+      "context": "Kean introduced the AI Emergency Button Act, which would require developers of advanced AI systems to build in a way for a human operator to shut the system down (companion to a Senate bill by Sen. John Kennedy).",
+      "source_label": "Kean House press release",
+      "url": "https://kean.house.gov/media/press-releases/kean-introduces-ai-kill-switch-legislation",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "bill_or_action",
+        "boundary"
+      ],
+      "reason": "Says humans must stay in control of advanced AI and backs a mandatory shutdown capability, a general acknowledgment of loss-of-control risk, but names no catastrophic consequence."
+    },
+    {
+      "date": "2025-12-03",
+      "venue": "Press release introducing the Stop Stealing Our Chips Act",
+      "quote": "I introduced the Stop Stealing Our Chips Act to help authorities identify and mitigate those threats.",
+      "context": "A bill with whistleblower incentives to stop China and other adversaries from evading export controls on advanced American AI chips.",
+      "source_label": "Kean House press release",
+      "url": "https://kean.house.gov/media/press-releases/kean-johnson-introduce-bill-protect-american-ai-chips-strengthening-export",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About competition with China and export control enforcement, which ruling 5 places at D."
+    },
+    {
+      "date": "2025-09-26",
+      "venue": "Press release reintroducing the LIFT AI Act",
+      "quote": "The LIFT AI Act establishes a strong foundation by bringing AI education into classrooms,",
+      "context": "A bipartisan bill with Rep. Amo to improve AI literacy in kindergarten through 12th grade.",
+      "source_label": "Kean House press release",
+      "url": "https://kean.house.gov/media/press-releases/kean-amo-reintroduce-bill-improve-artificial-intelligence-literacy-k-12",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI education and preparing students to use AI, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; his China-related AI work is about export controls.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI. The AI Emergency Button Act requires a shutdown capability, not a ban.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the AI Emergency Button Act, requiring advanced AI systems to include a capability for a human operator to shut them down.",
+      "Kean press release, 2026-09-24",
+      "https://kean.house.gov/media/press-releases/kean-introduces-ai-kill-switch-legislation"
+    ],
+    [
+      "Introduced the Stop Stealing Our Chips Act with Rep. Johnson, adding whistleblower incentives to enforce export controls on advanced AI chips.",
+      "Kean press release, 2025-12-03",
+      "https://kean.house.gov/media/press-releases/kean-johnson-introduce-bill-protect-american-ai-chips-strengthening-export"
+    ],
+    [
+      "Reintroduced the LIFT AI Act with Rep. Amo to improve AI literacy in schools.",
+      "Kean press release, 2025-09-26",
+      "https://kean.house.gov/media/press-releases/kean-amo-reintroduce-bill-improve-artificial-intelligence-literacy-k-12"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His strongest statement, from 2026, says it is essential that humans remain in control of advanced AI and comes with a bill requiring a shutdown switch. That is a general acknowledgment of loss-of-control risk with no catastrophic consequence named, so C (a boundary case).",
+  "notes": "All seven web searches ran this time (six required plus one on the Ban Artificial Superintelligence Act); none were refused. The searches found no statement by Kean on superintelligence, extinction or existential risk, a pause or slowdown, or an agreement with China on AI. No source shows he sponsored or co-sponsored the Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar; reported co-sponsors are Democrats), but the congress.gov co-sponsor list was not opened. The statements and record were carried over from an earlier run that opened kean.house.gov directly (press release listings October 2026 back to January 2025; about one listing page around mid-February 2025 was skipped). This run re-opened the 2026-09-24 AI Emergency Button Act release and confirmed the date and the quoted wording. Quotes were read through a page-fetch tool that returns short exact fragments; the reviewer should check the wording against the pages. Boundary call on the 2026-09-24 statement: it could be read as D under ruling 4 (AI acting on its own with no consequence stated), but it is framed as the general need for human control of advanced AI, so I chose C. Left out as out of date range: a 2024-12-11 press release in which Kean wrote to AI company CEOs about security lapses (theft of AI technology by China), which would be D anyway; the release paraphrases him rather than quoting him. The Center for AI Policy endorsed him in 2024 based on its AI safety questionnaire (not a statement in range). The Spot the Fakes Act (July 2026, AI content labels, with Gottheimer and Liccardo) would be D; no separate release was found. Hearing remarks and floor speeches were not specifically checked beyond what the searches returned."
+}

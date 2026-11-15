@@ -1,0 +1,63 @@
+{
+  "bioguide": "H001047",
+  "member": "James A. Himes",
+  "searches": [
+    "site:himes.house.gov artificial intelligence",
+    "Jim Himes superintelligence",
+    "Jim Himes AI extinction existential risk",
+    "Himes AI pause slowdown moratorium",
+    "Jim Himes China AI agreement treaty talks",
+    "\"Himes\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-10-21",
+      "venue": "Brookings Institution event, \"AI on the ballot: Data centres and the 2026 midterms\"",
+      "quote": "I don't believe for one second that we're going to maintain a lead over Chinese frontier models forever.",
+      "context": "Discussing US competition with China in frontier AI, he said the one real lever the US has is slowing the spread of advanced chips into China.",
+      "source_label": "South China Morning Post via The Star, 26 October 2026",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/top-democrat-says-chip-restrictions-are-key-lever-for-us-ai-edge-over-china",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "This is about competition with China and chip export controls, which ruling 5 places at D."
+    },
+    {
+      "date": "2026-05-12",
+      "venue": "Politico Security Summit panel",
+      "quote": "we ought to be cultivating — not damaging — our relationship with the producer of this remarkable new technology",
+      "context": "He argued that US intelligence agencies, especially the National Security Agency, should get early access to advanced AI models usable for hacking and cyber defense, amid the Pentagon's dispute with the model's developer.",
+      "source_label": "Nextgov/FCW, 12 May 2026",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/05/it-would-be-insane-spy-agencies-not-have-ai-model-early-access-lawmaker-says/413483/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He treats advanced AI as a national security capability to be used, without acknowledging catastrophic risk from AI."
+    },
+    {
+      "date": "2026-09-17",
+      "venue": "Press release on the TRAPS Act advancing in committee",
+      "quote": "AI-powered voice cloning and deepfakes have turbo-charged the tools they have at their disposal to swindle Americans",
+      "context": "Himes welcomed the Financial Services Committee's 49-0 vote advancing his bill to set up a federal task force on payment scams.",
+      "source_label": "Rep. Himes press release, 17 September 2026",
+      "url": "https://himes.house.gov/2026/09/17/himes-bill-to-combat-financial-scams-advances-with-bipartisan-support/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He mentions AI only as a tool for scams and fraud, which is not catastrophic risk (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development; his call to slow the spread of advanced chips into China is about competition, not slowing AI for safety.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on a pause; he is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Sponsored the TRAPS Act, a federal task force on payment scams, whose press release cites AI voice cloning and deepfakes; advanced 49-0 in the Financial Services Committee.", "Rep. Himes press release, 17 September 2026", "https://himes.house.gov/2026/09/17/himes-bill-to-combat-financial-scams-advances-with-bipartisan-support/"],
+    ["Co-signed, as Intelligence Committee ranking member, with Senators Warner and Padilla and Rep. Morelle, a letter urging tech companies to protect the midterm elections, including labelling AI-generated images and fixing chatbot errors; no catastrophic risk named.", "House Intelligence Committee Democrats press release, 20 October 2026", "https://democrats-intelligence.house.gov/news/documentsingle.aspx?DocumentID=1516"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 remarks on AI treat it as a national security capability, a race with China, a data center infrastructure question and a tool for scammers; none acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran (none refused); none found a statement by Himes on superintelligence, extinction, loss of control, a pause or slowdown, an AI agreement with China, or AI safety. Pages were read through a summarizing fetch tool, so quotes should be checked against the pages. The Brookings event date (21 October 2026) is inferred: The Star says it was the Wednesday before its 26 October article, and Nextgov dated its report on the same event 21 October 2026. The SCMP original (scmp.com/.../3371692) returned 403, so The Star's syndicated copy was used. The Nextgov 21 October 2026 article ('No question data centers will be considered critical infrastructure') has Himes saying data centers will be critical infrastructure and that 'the experts tell me that the underlying demand for compute still looks infinite' (D, left out). From the earlier attempt: a 11 December 2025 press release has Himes praising 'encouraging the development and implementation of artificial intelligence, biotechnology, and other emerging technologies' (promotion, D; left out); the 20 October 2026 election letter text says AI offerings carry 'substantial benefits and substantial risks' about election misinformation (D); the himes.house.gov site search for 'superintelligence' returned nothing; Himes is not among the 12 cosponsors of H.R. 10538. His 7 February 2025 Intelligence Committee opening remarks PDF could not be read as text and was not checked. The TRAPS quote is the middle of a longer sentence ('Scammers have always been ... but AI-powered voice cloning ... to swindle Americans – especially seniors – out of their hard-earned money'). No House AI-risk letters were searched for, per instructions."
+}

@@ -1,0 +1,61 @@
+{
+ "bioguide": "L000557",
+ "member": "John B. Larson",
+ "searches": [
+  "site:larson.house.gov artificial intelligence",
+  "John Larson superintelligence",
+  "Rep. John Larson AI extinction existential risk",
+  "John Larson AI pause slowdown moratorium",
+  "Rep. John Larson China AI agreement treaty",
+  "\"John Larson\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2025-12-15",
+   "venue": "Press release announcing the Workforce of the Future Act",
+   "quote": "AI technology should work for us, not the other way around and this bill takes an important step in that direction.",
+   "context": "Larson announced a bill with Reps. Cleaver and McIver to prepare workers, teachers and students for changes AI brings to the job market.",
+   "source_label": "Larson House press release",
+   "url": "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The statement is about AI and jobs, workers and children; it does not acknowledge catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement or action by Rep. Larson on slowing frontier AI development was found.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement or action by Rep. Larson on pausing frontier AI development was found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement or action by Rep. Larson on coordinating with China on the pace of AI development was found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement or action by Rep. Larson on banning self-improving AI was found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the Workforce of the Future Act with Reps. Emanuel Cleaver and LaMonica McIver to prepare workers and students for AI-driven changes in the job market.",
+   "Larson House press release, 2025-12-15",
+   "https://larson.house.gov/media-center/press-releases/larson-announces-comprehensive-bill-prepare-americas-workforce-ai"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Rep. Larson's only AI statement found (December 2025) is about jobs, workers and children, not catastrophic risk, so D. No 2026 statement about AI was found.",
+ "notes": "All 6 required web searches ran this time, plus one more on the Ban Artificial Superintelligence Act's House cosponsors (7 in total). None of them found any statement by Rep. Larson on superintelligence, extinction or existential risk, a pause or slowdown, an AI agreement with China, or AI safety; results for his name on superintelligence and AI safety were about Erik J. Larson, a different person. The site search found only the December 2025 Workforce of the Future Act release, which I reopened and checked; the quote matches the page. In the same release he also said Congress urgently needs to pass nationwide AI regulations and standards that preserve jobs, protect children and advance competitiveness; that passage is split by attribution on the page, so it is not quoted. The FastDemocracy tracker page for H.R. 10538 (Ban Artificial Superintelligence Act of 2026) lists 12 cosponsors and Larson is not among them (congress.gov was not checked directly). No source shows him signing a House letter about AI risk outside the centrally handled multi-signer letters. From the earlier attempt: his official press release listing pages 1 to 3 (7 August to 19 October 2026) had no titles mentioning AI. Older 2026 release pages, hearing remarks and floor speeches were not read page by page, so a 2026 AI remark that search engines do not index could have been missed."
+}

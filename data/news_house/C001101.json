@@ -1,0 +1,55 @@
+{
+ "bioguide": "C001101",
+ "member": "Katherine M. Clark",
+ "searches": [
+  "site:katherineclark.house.gov artificial intelligence",
+  "Katherine Clark superintelligence",
+  "Katherine Clark AI extinction existential risk",
+  "Katherine Clark AI pause slowdown moratorium",
+  "Katherine Clark China AI agreement treaty",
+  "\"Katherine Clark\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-01",
+   "venue": "CNN News Central interview (excerpt in official press release)",
+   "quote": "Inviting in — not regulation and outside oversight over this powerful technology with all its benefits but its very real threats — instead, bringing in the heads of these companies and saying, ‘Okay guys, you just police yourselves. We’re sure that will work out fine.’",
+   "context": "Criticising Republicans and the president for refusing to regulate AI and data centers, alongside protecting jobs and children.",
+   "source_label": "House press release (katherineclark.house.gov), 1 October 2026",
+   "url": "https://katherineclark.house.gov/2026/10/01/whip-clark-on-cnn-democrats-are-putting-the-american-people-front-and-center/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She calls for regulation of AI and mentions its 'very real threats', but the only harms she names are jobs and children, so catastrophic or serious danger from AI itself is not described (a reviewer could argue C)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI remark found (October 2026, CNN) calls for regulating AI and mentions 'very real threats' without describing catastrophic or serious danger from AI itself, so D.",
+ "notes": "All 7 web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act). None returned a statement by Katherine Clark on superintelligence, extinction, a pause or slowdown, China talks or AI safety; most hits were about Jack Clark (Anthropic) or Rep. Yvette Clarke, a different member, and were ignored. The site-restricted search returned no katherineclark.house.gov pages; an earlier attempt had opened her site directly (home page, the 20 most recent press releases from 7 Jun to 5 Nov 2026, and the site search for 'artificial intelligence' and 'AI') and found only the 1 October 2026 CNN release mentioning AI. That page was re-opened this time and the start of the quote was confirmed; the full quote had been checked in the page HTML earlier. Ban Artificial Superintelligence Act (House bill H.R. 10538, Casar): search results gave conflicting cosponsor lists (one listing names Hoyle, Lynch and Tonko); none named Clark, but congress.gov was not checked, so her cosponsorship is unconfirmed rather than ruled out. A Massachusetts state legislators' letter opposing a federal moratorium on state AI regulation (2025) was addressed to the delegation including Clark; it is not her statement and was left out. Boundary case: 'very real threats' could be read as level C (serious risks in general terms); I chose D because the surrounding text names only jobs and children."
+}

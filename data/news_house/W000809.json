@@ -1,0 +1,25 @@
+{
+  "bioguide": "W000809",
+  "member": "Steve Womack",
+  "searches": [
+    "Womack artificial intelligence (restricted to womack.house.gov)",
+    "Steve Womack superintelligence",
+    "Steve Womack AI extinction existential risk",
+    "Steve Womack AI pause slowdown moratorium",
+    "Steve Womack China AI agreement treaty",
+    "\"Womack\" \"AI safety\" Arkansas congressman",
+    "Rep. Steve Womack artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade. The only AI mentions found on his official site are office narration (a defense authorization bill countering emerging threats including AI, an art competition rule against generative AI) rather than his own words, and would be level D at most.",
+  "notes": "Eight web searches ran; none was refused. Searches on superintelligence, extinction, pause and China returned nothing about Rep. Steve Womack (results matched Steve Wozniak and a Fox News editor named CJ Womack instead). Office-narration AI mentions left out: a womack.house.gov release on a defense authorization bill (https://womack.house.gov/news/documentsingle.aspx?documentid=405169, not opened, appears to be from before 2025) describing countering emerging threats including artificial intelligence; a search snippet said his 24 September 2025 release on hosting Acting MARAD Administrator Sang H. Yi (https://womack.house.gov/news/documentsingle.aspx?DocumentID=410415) notes a Fort Smith logistics company advancing AI, but the opened page text was truncated and showed no AI sentence. His House vote record lists a 2026 vote on the AI Warnings And Resources for Education Act (passed as amended); how he voted was not checked, and a vote is not a statement. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 24 September 2026): sources describe about nine or ten cosponsors, all Democrats; no source shows Womack as sponsor or cosponsor, but the full Congress.gov cosponsor list was not checked. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Only the first page of his news listing (7 releases, 15 September to 2 November 2026) was checked directly; no titles or summaries mentioned AI. Search coverage of his remarks was thin, so this result may be incomplete."
+}

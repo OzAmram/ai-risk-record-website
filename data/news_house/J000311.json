@@ -1,0 +1,24 @@
+{
+  "bioguide": "J000311",
+  "member": "Brian Jack",
+  "searches": [
+    "site:jack.house.gov artificial intelligence",
+    "\"Brian Jack\" superintelligence",
+    "\"Brian Jack\" AI extinction existential risk",
+    "\"Brian Jack\" AI pause slowdown moratorium",
+    "\"Brian Jack\" China AI agreement treaty",
+    "\"Brian Jack\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; he is not named as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538) in the sources seen, which describe its co-sponsors as Democrats.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Brian Jack about AI was found in news, his official press releases, or the two 2025 Oversight Committee AI hearings he sat on as a member.",
+  "notes": "Seven web searches ran, none refused. The site-restricted search returned no jack.house.gov pages; the other searches returned nothing about him. I opened his official press release listing (jack.house.gov/media/press-releases, pages 0-5, about 52 releases from his January 2025 swearing-in to 15 October 2026): no release title or teaser mentions AI or artificial intelligence (individual releases were not opened). He is listed as a member of the House Oversight Committee for two AI hearings, 'The Federal Government in the Age of Artificial Intelligence' (5 June 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm) and 'Shaping Tomorrow: The Future of Artificial Intelligence' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61734/html/CHRG-119hhrg61734.htm); a text search of both full transcripts shows no remarks by him (only a roll call with no response). Ban Artificial Superintelligence Act: search results name some House co-sponsors (all Democrats) but congress.gov was not checked, so his co-sponsorship is unlikely but not fully ruled out. Multi-signer House letters were not searched, per instructions. Social media, floor speeches beyond these, and local interviews were not covered beyond what the searches returned."
+}

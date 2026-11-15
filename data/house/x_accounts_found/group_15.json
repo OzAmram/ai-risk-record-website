@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ELECT-MO-06-STIGALL",
+    "name": "Chris Stigall",
+    "accounts": [
+      {
+        "handle": "ChrisStigall",
+        "account_type": "personal",
+        "evidence_url": "https://www.stigallforcongress.com/",
+        "evidence": "Stigall's campaign website (linked as his campaign site by KCUR) links to twitter.com/ChrisStigall."
+      }
+    ],
+    "notes": "This is his long-standing radio-host account, linked from the campaign site; no separate campaign-only X account was found. Ballotpedia could not be loaded."
+  },
+  {
+    "id": "ELECT-MT-01-FORSTAG",
+    "name": "Sam Forstag",
+    "accounts": [
+      {
+        "handle": "SamForstag",
+        "account_type": "campaign",
+        "evidence_url": "https://samformontana.com",
+        "evidence": "Forstag's campaign website (listed as his campaign link by the Montana Free Press election guide) links to x.com/SamForstag."
+      }
+    ],
+    "notes": "Account may double as personal and campaign account."
+  },
+  {
+    "id": "ELECT-NC-03-SMITH",
+    "name": "Raymond Smith",
+    "accounts": [
+      {
+        "handle": "RayESmithJr",
+        "account_type": "campaign",
+        "evidence_url": "https://raymondsmithfornc.com/",
+        "evidence": "Smith's campaign website (linked from his VoteVets candidate page) links to x.com/RayESmithJr."
+      }
+    ],
+    "notes": "The VoteVets candidate page (https://votevets.org/candidates/ray-smith) also links the same handle. Possibly also his personal account from his state legislature years."
+  },
+  {
+    "id": "ELECT-NC-06-JEFFERSON",
+    "name": "Cyril Jefferson",
+    "accounts": [
+      {
+        "handle": "jefferson_cyril",
+        "account_type": "campaign",
+        "evidence_url": "https://www.cyrilforcongress.com/cyril-for-congress-media-kit.pdf",
+        "evidence": "According to a web search summary, the campaign media kit lists X: https://x.com/jefferson_cyril among its official social links."
+      }
+    ],
+    "notes": "UNCERTAIN: I downloaded the media kit PDF but could not extract its text (it renders text as glyphs/images and no PDF reader was available), so I did not see the handle myself; it comes from the search tool's reading of that PDF. The campaign homepage links Facebook, Instagram, LinkedIn and YouTube but no X account. No mayoral X account found; the City of High Point uses @cityofhighpoint (a city account, not his). Verify before use."
+  },
+  {
+    "id": "ELECT-NC-09-OJEDA",
+    "name": "Richard Ojeda",
+    "accounts": [
+      {
+        "handle": "ojedafornc",
+        "account_type": "campaign",
+        "evidence_url": "https://ojedafornc.com",
+        "evidence": "Ojeda's campaign website 'Ojeda for NC09' links to x.com/ojedafornc in its header and footer."
+      }
+    ],
+    "notes": "He likely also has an older personal account from his West Virginia years, but no page I opened showed it, so it is not listed."
+  },
+  {
+    "id": "ELECT-NC-11-AGER",
+    "name": "Jamie Ager",
+    "accounts": [
+      {
+        "handle": "jamieagernc",
+        "account_type": "campaign",
+        "evidence_url": "https://agerforcongress.com",
+        "evidence": "Ager's campaign website (agerforcongress.com, the domain used in his Ballotpedia contact listing per search results) links to x.com/jamieagernc in its footer."
+      }
+    ],
+    "notes": ""
+  }
+]

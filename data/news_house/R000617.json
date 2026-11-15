@@ -1,0 +1,53 @@
+{
+ "bioguide": "R000617",
+ "member": "Delia C. Ramirez",
+ "searches": [
+  "site:ramirez.house.gov artificial intelligence",
+  "Delia Ramirez superintelligence",
+  "Delia Ramirez AI extinction existential risk",
+  "Delia Ramirez AI pause slowdown moratorium",
+  "Delia Ramirez China AI agreement treaty",
+  "\"Delia Ramirez\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2026-06-04",
+   "venue": "Hearing statement as Ranking Member, House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection",
+   "quote": "Artificial intelligence development is speeding ahead with nearly no standards, rules, or regulations for how powerful AI tools will be responsibly used.",
+   "context": "Opening statement for the hearing 'The AI Security Landscape: How Frontier Models, Agentic AI, and AI Coding Tools Are Reshaping Cybersecurity and Critical Infrastructure Resilience'; the rest focuses on surveillance, privacy, civil rights, state AI laws such as Illinois SB 315, and requiring companies to prove systems safe before release.",
+   "source_label": "House Homeland Security Committee Democrats (PDF)",
+   "url": "https://democrats-homeland.house.gov/imo/media/doc/ramirez-06042026.pdf",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Calls for AI rules and safety testing but names only surveillance, privacy and rights harms and general security risks, not catastrophic risk (rulings 4 and 5)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her own 2026 remarks on AI (June 2026 hearing statement) are about surveillance, privacy, civil rights and the need for safety rules, without acknowledging catastrophic risk. The 10 August 2026 letter she co-led is graded centrally and was not counted here.",
+ "notes": "All required searches ran this time (7 web searches). None of the searches on superintelligence, extinction/existential risk, pause/slowdown/moratorium, China agreement, or 'AI safety' returned anything by or about Delia Ramirez; the only AI material found was the June 2026 hearing statement and the 10 August 2026 letter to Speaker Johnson she co-led with Casar. That letter ('Advanced AI models pose a clear risk to the safety and security of the American people.') is one of the centrally handled House letters; her press release contains only letter text, no separate quote in her own words, so it is left out of statements and grade. The release also says she was on planned medical leave and the letter reflects her office's work. From the earlier attempt: her press release list (ramirez.house.gov/media/press-releases, about 29 January 2025 to 30 October 2026) had no other AI releases; her 28 April 2026 statement on becoming subcommittee Ranking Member is about cybersecurity, data and privacy, not AI. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and she is not among them; congress.gov was not checked, so this is not fully confirmed, but no source shows her co-sponsoring it. The June 2026 hearing quote was read at source in the earlier attempt; this run could not re-extract the PDF text (no PDF text tool available), so it was not re-checked character by character."
+}

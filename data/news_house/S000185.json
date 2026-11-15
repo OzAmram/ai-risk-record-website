@@ -1,0 +1,57 @@
+{
+  "bioguide": "S000185",
+  "member": "Robert C. \"Bobby\" Scott",
+  "searches": [
+    "site:bobbyscott.house.gov artificial intelligence",
+    "\"Bobby Scott\" superintelligence",
+    "\"Bobby Scott\" AI extinction OR \"existential risk\"",
+    "\"Bobby Scott\" AI pause OR slowdown OR moratorium",
+    "\"Bobby Scott\" China AI agreement OR treaty",
+    "\"Bobby Scott\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-01-14",
+      "venue": "Opening statement as ranking member, House Education and Workforce Committee hearing \"Building an AI-Ready America\"",
+      "quote": "This is why Congress must take an active role in shaping how AI is integrated into our lives and develop thoughtful regulations that balance protecting students, workers, and families, and fostering economic growth.",
+      "context": "He called for Congress to set rules on AI in schools, workplaces and healthcare, citing bias in hiring tools, worker surveillance, child safety and privacy, and opposed blocking state AI laws.",
+      "source_label": "House Education and Workforce Committee Democrats, opening statement (PDF)",
+      "url": "https://democrats-edworkforce.house.gov/download/03/06/2026/opening-statement-1?download=1",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The statement is about AI's effects on students, workers, privacy and child safety and does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026 (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, Ban Artificial Superintelligence Act cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His main 2026 remarks on AI (14 January 2026 committee hearing opening statement) are about schools, workers, bias, privacy and child safety, with no acknowledgment of catastrophic risk. He did not co-sponsor the Ban Artificial Superintelligence Act.",
+  "notes": "All 6 required web searches ran this time. The superintelligence, extinction, pause and China searches returned nothing about him (results mentioned Scott Bessent, Sen. Rick Scott and state Sen. Scott Wiener, who are different people). The site:bobbyscott.house.gov search returned no pages from his personal site; the earlier attempt opened his press release listing pages directly (10 Nov 2026 back to 10 Dec 2025) and found no release about AI by title or excerpt. The quote was copied from the hearing statement PDF (text extracted locally; PDF metadata shows it was created 14 January 2026); the committee press release for the same remarks is https://democrats-edworkforce.house.gov/media/press-releases/ranking-member-scott-delivers-opening-statement-on-the-importance-of-congress-putting-guardrails-on-artificial-intelligence. The statement also says AI 'poses significant risks to data privacy and child safety' and refers to 'the dangers posed by AI' in the context of states regulating AI; neither describes catastrophic risk, so both are D. A 2023 roundtable he hosted on AI in the workplace is before the 2025 cutoff and was left out. Re-confirmed via FastDemocracy that he is not among the 12 cosponsors of H.R. 10538 (introduced 24 September 2026). House letters signed by many members were not searched, per instructions."
+}

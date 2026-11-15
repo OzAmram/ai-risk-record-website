@@ -1,0 +1,52 @@
+{
+  "bioguide": "L000600",
+  "member": "Nicholas A. Langworthy",
+  "searches": [
+    "site:langworthy.house.gov artificial intelligence",
+    "Langworthy superintelligence",
+    "Langworthy AI extinction OR \"existential risk\"",
+    "Langworthy AI pause OR slowdown OR moratorium",
+    "Langworthy China AI agreement OR treaty",
+    "\"Langworthy\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Langworthy",
+    "Rep. Nick Langworthy artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-02-19",
+      "venue": "Joint press release with Rep. Gabe Evans on a letter to Commerce Secretary Howard Lutnick",
+      "quote": "The question is not whether AI will shape the future, it's who will set the standards that govern its development and use.",
+      "context": "Langworthy and Evans asked the Commerce Department to cite Colorado's AI Act and New York's RAISE Act as examples of state AI laws that a uniform federal framework should override.",
+      "source_label": "Rep. Gabe Evans House press release",
+      "url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About who sets AI rules, state regulation and competition with China, with no acknowledgment of catastrophic risk."
+    },
+    {
+      "date": "2026-06-30",
+      "venue": "Press release statement on House passage of the Kids Internet and Digital Safety Act",
+      "quote": "Families deserve real tools to shield children from online predators, addictive algorithms, scams, dangerous and illegal products, explicit content, and the emerging risks posed by AI.",
+      "context": "Statement welcoming House passage of the KIDS Act on children's online safety.",
+      "source_label": "Langworthy House press release",
+      "url": "https://langworthy.house.gov/media/press-releases/statement-on-passage-kids-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Mentions risks from AI only in the context of children's online safety, which the rubric places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing; his February 2026 remarks frame China as a rival setting rules, not a partner.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["With Rep. Gabe Evans, sent a letter to Commerce Secretary Howard Lutnick asking that Colorado's AI Act (SB 205) and New York's RAISE Act be cited as burdensome state AI laws, in support of a uniform federal AI framework.", "Rep. Gabe Evans press release, 2026-02-19", "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 remarks on AI are about federal preemption of state AI laws, competition with China and children's online safety; none acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus two more (Ban Artificial Superintelligence Act cosponsors; his name with artificial intelligence 2026); 8 searches in total. The superintelligence, extinction, pause, China agreement and AI safety searches returned nothing mentioning Langworthy. The site-restricted search returned no langworthy.house.gov pages. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538); reported House cosponsors are Democrats plus Reps. Whitesides and Moran, but the congress.gov cosponsor list was not opened. The February 2026 press release was read through a page-fetch tool that summarizes pages; the quote was checked as an exact sentence inside quotation marks attributed to him, but a reviewer may want to confirm it on the page. Left out: a Ripon Advance paraphrase/quote ('The U.S. can choose to lead the world in this transformative technology or we can regulate it into the hands of Communist China') seen only in a search summary and not opened; also a partisan watchdog site (langworthywatch.pages.dev) describing his preemption efforts. An April 2026 AP article on lawmakers' AI fears (wtop.com) returned 404 and it is unknown whether it mentions him. From the earlier attempt: the first three pages of his press release listing (11 June to 15 October 2026) were opened and only the KIDS Act statement mentioned AI; older releases, interviews and hearing remarks were not checked in detail. Large multi-signer House letters were excluded per instructions."
+}

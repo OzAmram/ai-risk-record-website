@@ -1,0 +1,87 @@
+{
+ "bioguide": "R000606",
+ "member": "Jamie Raskin",
+ "searches": [
+  "Jamie Raskin artificial intelligence site:raskin.house.gov",
+  "Jamie Raskin superintelligence",
+  "Jamie Raskin AI extinction existential risk",
+  "Jamie Raskin AI pause moratorium slowdown",
+  "Jamie Raskin China AI agreement treaty",
+  "\"Raskin\" \"AI safety\" 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Raskin"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-28",
+   "venue": "Press release on letters to five frontier AI companies (House Judiciary Democrats)",
+   "quote": "The letters follow an alarming rise in reports of AI models taking unintended and potentially unsafe actions during testing, raising questions about the safety of AI models as well as the adequacy of monitoring and evaluation at the frontier AI companies.",
+   "context": "Raskin, Pallone and Lofgren wrote to Anthropic, Google, Meta, OpenAI and SpaceXSI asking them to report AI model misalignment and safety incidents to Congress within 48 hours.",
+   "source_label": "House Judiciary Committee Democrats press release, 28 October 2026",
+   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/house-democratic-committee-leaders-request-frontier-ai-companies-report-misalignment-safety-incidents-to-congress-within-48-hours",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action",
+    "cosigned_letter",
+    "boundary"
+   ],
+   "reason": "Acknowledges in general terms that frontier AI models themselves are taking unsafe actions (misalignment) without naming a catastrophic consequence; boundary with D because the words are the press release's narration, not the letter's, and the harm is only 'potentially unsafe'."
+  },
+  {
+   "date": "2026-06-30",
+   "venue": "Opening statement, House Judiciary subcommittee hearing on protecting creators in the age of AI",
+   "quote": "The National Institute of Science and Technology should absolutely be allowed to test frontier models.",
+   "context": "Hearing on piracy, copyright and AI; Raskin opposed broad preemption of state AI law and supported federal testing of frontier models.",
+   "source_label": "House Judiciary Committee Democrats press release, 30 June 2026",
+   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-subcommittee-hearing-on-protecting-creators-in-the-age-of-ai-and-the-internet",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Supports testing frontier models but does not acknowledge catastrophic risk; the rest of the statement is about creators, deepfakes and preemption."
+  },
+  {
+   "date": "2025-09-18",
+   "venue": "Opening statement, House Judiciary hearing on federal preemption of state AI laws",
+   "quote": "Americans’ safety is not at odds with AI innovation.",
+   "context": "Hearing on whether federal law should preempt state AI laws; Raskin argued for keeping state guardrails.",
+   "source_label": "House Judiciary Committee Democrats press release, 18 September 2025",
+   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "General safety and guardrails language about deepfakes, surveillance and consumer harm, with no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement by Raskin on this policy found in 7 web searches or the official pages opened. His 2025 'moratorium' remarks were against a federal moratorium on state AI laws (preemption), which is not this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement by Raskin on this policy found in 7 web searches or the official pages opened.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement by Raskin on this policy found in 7 web searches or the official pages opened.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement by Raskin on this policy found in 7 web searches or the official pages opened.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Co-signed letters with Pallone and Lofgren to Anthropic, Google, Meta, OpenAI and SpaceXSI requesting reporting of AI misalignment and safety incidents within 48 hours.",
+   "House Judiciary Committee Democrats press release, 28 October 2026",
+   "https://democrats-judiciary.house.gov/media-center/press-releases/house-democratic-committee-leaders-request-frontier-ai-companies-report-misalignment-safety-incidents-to-congress-within-48-hours"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "Highest 2026 statement is a boundary C: the 28 October 2026 letter on misalignment and safety incidents at frontier AI companies acknowledges unsafe behaviour by AI models themselves without naming a catastrophic harm. A reviewer could reasonably make this D.",
+ "notes": "All 7 web searches ran this time (the 6 required plus one on Ban Artificial Superintelligence Act cosponsors). The site:raskin.house.gov search returned no pages from that domain; results were House Judiciary Democrats and Oversight pages. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy bill page lists 12 cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and Raskin is not among them; congress.gov returned HTTP 403 so the official list was not checked. Name confusion: the superintelligence, extinction and 'AI safety' searches surfaced Aza Raskin (Center for Humane Technology), a different person; the Masters of Scale quote about 'the recursive self-improvement loop' is his, not Jamie Raskin's, and was left out. No statement by Jamie Raskin on superintelligence, extinction, a pause or slowdown, or a China agreement was found. From the earlier attempt (pages opened directly, still valid): the C quote is the press release's narration of the 28 October 2026 letters, not the letter text; the letter PDFs were behind tracking links I did not open. The letter's quoted words ('that approach will not suffice; it relies too heavily on the consistent goodwill of all AI companies...') are about voluntary disclosure, not risk. 2025 statements (2 April: 'The dominance of a handful of AI companies presents a long-term threat to our national security'; 7 May: foreign theft of AI trade secrets) are D under rulings 4 and 5. Other 2026 items seen but not graded: 29 October 2026 request that the White House preserve Trump's AI chatbot conversations (Grok); 30 October 2026 court filing on AI training and New York Times copyright; 29 September 2026 letters to Amazon, Google, Meta and Oracle on data-center nondisclosure agreements (Political Wire, paraphrase only). He co-introduced the Federal AI Governance and Transparency Act with Comer (Oversight Committee release, date not confirmed, likely 2024; about federal government AI use, not catastrophic risk). The oversightdemocrats.house.gov AI page returned HTTP 410 in the earlier attempt."
+}

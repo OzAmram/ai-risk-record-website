@@ -1,0 +1,28 @@
+{"bioguide": "H001099", "member": "Mike Haridopolos",
+ "searches": [
+  "site:haridopolos.house.gov artificial intelligence",
+  "Haridopolos superintelligence",
+  "Haridopolos AI extinction existential risk",
+  "Haridopolos AI pause slowdown moratorium",
+  "Haridopolos China AI agreement treaty",
+  "\"Mike Haridopolos\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-07-24", "venue": "Press release introducing the LEARN AI Act (H.R. 9907)",
+   "quote": "The LEARN AI Act ensures our apprenticeship programs have the tools and resources to prepare workers for the jobs of tomorrow without creating new federal mandates or burdens on employers",
+   "context": "Introducing a bill encouraging the Department of Labor to promote AI workforce readiness through registered apprenticeships.",
+   "source_label": "House press release", "url": "https://haridopolos.house.gov/media/press-releases/rep-haridopolos-introduces-learn-ai-act",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About AI workforce training and competitiveness; no catastrophic risk is acknowledged."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [["Introduced the LEARN AI Act (H.R. 9907) on AI workforce readiness through apprenticeships.", "House press release, 2026-07-24", "https://haridopolos.house.gov/media/press-releases/rep-haridopolos-introduces-learn-ai-act"]],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI statement found is about workforce training and competitiveness (LEARN AI Act, July 2026), with no acknowledgment of catastrophic risk.",
+ "notes": "All 6 required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (7 total). None of the six name-based searches returned any page with Haridopolos speaking about AI risk; one result (Floridian Press, Aug 2025) quoted him on tariffs, not AI. Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 Sep 2026): coverage lists 9-10 cosponsors, all Democrats named, and none mentions Haridopolos; the congress.gov cosponsor page returned 403, so this is not confirmed from the official list. The LEARN AI Act release was re-opened this session: the quote is one continuous sentence in the release, which ends with a period that is left off the quote. Earlier run also checked haridopolos.house.gov directly (home page, press releases page 1, In the News page 1); only the LEARN AI Act release mentioned AI. Older press release pages and hearing remarks were not checked."}

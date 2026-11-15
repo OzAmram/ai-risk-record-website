@@ -1,0 +1,24 @@
+{
+ "bioguide": "J000307",
+ "member": "John James",
+ "searches": [
+  "John James artificial intelligence (restricted to james.house.gov)",
+  "Rep. John James superintelligence",
+  "Rep. John James Michigan AI existential risk extinction",
+  "Rep. John James AI pause slowdown moratorium",
+  "Rep. John James China AI agreement treaty",
+  "\"John James\" \"AI safety\" congressman",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement in his own words about AI was found in news coverage or on his official site, so there is nothing to grade. The only AI mention found is a passing one in the narration of a 2025 press release about a supply chain bill.",
+ "notes": "All seven web searches ran (six required plus one on the Ban Artificial Superintelligence Act); none returned a statement by Rep. John James (R-MI) about AI risk, superintelligence, extinction, a pause or slowdown, or a China agreement. Not a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538): the cosponsor list at https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/ (opened) lists 12 Democrats and not him; congress.gov returned 403 so the official list could not be opened. No House letter on AI risk led by him was found. Two news articles that came up were opened and do not mention him: the 14 September 2026 ClickOnDetroit article on Michigan lawmakers and AI risk (it covers state legislators and Senate candidates) and the April 2026 AP story on lawmakers meeting about AI fears (SecurityWeek copy; it names Rep. John McGuire, a different person). His 28 April 2025 press release on the Promoting Resilient Supply Chains Act (https://james.house.gov/news/documentsingle.aspx?DocumentID=243, opened) mentions artificial intelligence only in the release narration, as a tool the Commerce Department would use; his own quoted words in it do not mention AI, so it is not recorded as a statement. From the earlier attempt (kept): his press release listing (https://james.house.gov/media/press-releases and page 2) from 7 January to 8 October 2026 showed no AI-related titles; the 17 September 2026 data centers and electricity rates release (https://james.house.gov/news/documentsingle.aspx?DocumentID=1305, opened) does not mention AI and would be out of scope anyway; the 5 March 2026 App Store Accountability Act release concerns child online safety, not AI risk (not opened). Hearing transcripts, interviews and X posts were not checked here (X is searched separately)."
+}

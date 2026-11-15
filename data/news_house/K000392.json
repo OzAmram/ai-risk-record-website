@@ -1,0 +1,53 @@
+{
+  "bioguide": "K000392",
+  "member": "David Kustoff",
+  "searches": [
+    "Kustoff artificial intelligence (restricted to kustoff.house.gov)",
+    "David Kustoff superintelligence",
+    "Kustoff AI extinction existential risk",
+    "Kustoff AI pause slowdown moratorium",
+    "Kustoff China AI agreement treaty",
+    "\"Kustoff\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Kustoff"
+  ],
+  "statements": [
+    {
+      "date": "2025-12-04",
+      "venue": "Press release on reintroducing the DO NOT Call Act",
+      "quote": "Scammers are using artificial intelligence to mimic voices and spoof Caller ID, making these calls even harder to detect",
+      "context": "Announcing a bipartisan bill with Rep. Deborah Ross to raise penalties for illegal robocalls and phone fraud.",
+      "source_label": "House press release",
+      "url": "https://kustoff.house.gov/media/press-releases/reps-david-kustoff-deborah-ross-reintroduce-bipartisan-do-not-call-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The only harm named is AI-enabled scam calls, which is outside catastrophic risk (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remark found is from December 2025, about scammers using AI to mimic voices in robocalls, which is level D. No statement about catastrophic AI risk was found in 2025 or 2026.",
+  "notes": "All 7 web searches ran (the 6 required plus one on the Ban Artificial Superintelligence Act). Only the official-site search returned anything about him; the superintelligence, extinction, pause, China and AI safety searches returned no results mentioning him. I reopened the DO NOT Call Act release and confirmed the date (4 December 2025) and wording; the source sentence ends with a comma before an attribution, which the quote leaves out. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the congress.gov cosponsor page returned 403 Forbidden, but the FastDemocracy bill page lists 12 cosponsors, all Democrats, and he is not among them; news reports name no Republican House cosponsor besides a possible mention of Nathaniel Moran, whose chamber is unclear. So he does not appear to have cosponsored it, though this rests on a third-party tracker. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). The official-site search also showed a 2024 Congressional App Challenge winner whose app uses AI and a 2019 defense bill statement mentioning AI programs; both are outside the date range and are not his statements about AI risk."
+}

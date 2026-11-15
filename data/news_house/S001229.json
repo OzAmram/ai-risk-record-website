@@ -1,0 +1,53 @@
+{
+  "bioguide": "S001229",
+  "member": "Jefferson Shreve",
+  "searches": [
+    "Shreve artificial intelligence (restricted to shreve.house.gov)",
+    "Jefferson Shreve superintelligence",
+    "Rep. Jefferson Shreve AI extinction existential risk",
+    "Jefferson Shreve AI pause slowdown moratorium",
+    "Jefferson Shreve China AI agreement treaty",
+    "\"Jefferson Shreve\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Shreve"
+  ],
+  "statements": [
+    {
+      "date": "2025-10-30",
+      "venue": "Washington Examiner op-ed, reposted as a press release on his House site",
+      "quote": "These criminal operations have become increasingly sophisticated. They weaponize artificial intelligence, exploit stolen personal information, and disguise themselves in ways that make detection harder than ever.",
+      "context": "Op-ed on foreign scam centers in Southeast Asia, many tied to Chinese criminal networks, defrauding Americans.",
+      "source_label": "Shreve House press release (ICYMI op-ed), 30 October 2025",
+      "url": "https://shreve.house.gov/media/press-releases/icymi-rep-shreves-op-ed-washington-examiner-billions-us-dollars-are-being-lost",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The only harm named is AI used by criminals for scams and fraud, which the rubric places at D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; his China-related work is about export controls, apps on federal devices and scam networks.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remark found is in a 2025 op-ed about criminals using AI for scams, which is D; nothing found on catastrophic AI risk in 2025 or 2026.",
+  "notes": "All 6 required web searches ran this time, plus 1 more on Ban Artificial Superintelligence Act cosponsors (7 in total). The site-restricted search found only scam, China-technology and energy releases; the five topic searches (superintelligence, extinction or existential risk, pause or slowdown, China agreement, \"AI safety\") returned nothing mentioning him. An earlier run also opened his official press release listing pages 1 to 4 (late 2025 to 16 October 2026) and the 1 October 2026 scam call machine bill release; none mention AI risk. Ban Artificial Superintelligence Act (H.R. 10538, Casar, September 2026): no source shows him as a cosponsor; reports describe the cosponsors as about nine House Democrats, but the congress.gov cosponsor page returned 403 so the full list was not checked directly. A 27 June 2025 letter he signed to Secretary Rubio on Southeast Asian scam centers mentions AI-enabled calls (seen in search summaries, not opened; scam-related, so D at most, left out). Related bills (BIS STRENGTH Act, 9 January 2026; Securing Federal Devices from Chinese Applications Act, 16 January 2026; Protecting Domestic Mining Act of 2025, which mentions AI projects under permitting) are not about AI risk. Not checked: hearing remarks and floor speeches beyond what searches surfaced."
+}

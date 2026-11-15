@@ -1,0 +1,23 @@
+{"bioguide": "E000246", "member": "Chuck Edwards",
+ "searches": [
+  "site:edwards.house.gov artificial intelligence",
+  "\"Chuck Edwards\" superintelligence",
+  "\"Chuck Edwards\" AI extinction OR \"existential risk\"",
+  "\"Chuck Edwards\" AI pause OR slowdown OR moratorium",
+  "\"Chuck Edwards\" China AI agreement OR treaty",
+  "\"Chuck Edwards\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House",
+  "\"Rep. Chuck Edwards\" artificial intelligence"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement or action found on slowing frontier AI.", "sources": []},
+  "pause": {"value": "none", "note": "No statement or action found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement or action found on coordinating with China on AI pacing.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement or action found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Rep. Chuck Edwards about AI since 1 January 2025 was found in news, his press releases or hearing records searched.",
+ "notes": "8 web searches ran; none returned any AI statement by Edwards. The edwards.house.gov site search page returned HTTP 403; the first page of his press releases (10 items, 8 Jun to 15 Sep 2026) had nothing on AI, but the other 24 pages were not checked. The congress.gov cosponsor page for the Ban Artificial Superintelligence Act (H.R. 10538) returned HTTP 403; search results naming House cosponsors (Hoyle, Lynch, Tonko, Ocasio-Cortez, Whitesides, Moran, others) did not name Edwards, but this is not a complete cosponsor list. He sat on the House Oversight subcommittee on IT that held a 2023 AI hearing (outside the date window); he was not listed as present at its 17 Sep 2025 AI hearing (CHRG-119hhrg61734). A WLOS (Asheville) article on AI risks in Congress was checked and does not mention him. No House AI risk letter signed by him was found. Search was reasonably thorough but not exhaustive."
+}

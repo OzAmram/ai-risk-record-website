@@ -1,0 +1,21 @@
+{"bioguide": "E000296", "member": "Dwight Evans",
+ "searches": [
+  "site:evans.house.gov artificial intelligence",
+  "\"Dwight Evans\" superintelligence",
+  "\"Dwight Evans\" AI extinction OR \"existential risk\"",
+  "\"Dwight Evans\" AI pause OR slowdown OR moratorium",
+  "\"Dwight Evans\" China AI agreement OR treaty",
+  "\"Dwight Evans\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Dwight Evans about AI was found in seven web searches or on his official press release pages from February 2025 to November 2026.",
+ "notes": "All 6 required web searches ran this time, plus 1 extra search for the Ban Artificial Superintelligence Act cosponsors (7 in total). None returned anything by Dwight Evans about AI. The site:evans.house.gov search returned only pages about Rep. Gabe Evans (CO-08), a different member, which were ignored; the other name searches returned only general AI-risk material or people with similar names (Dylan Evans, James Evans, Scarlett Evans), all ignored. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Greg Casar on 24 September 2026): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), opened this run, lists 12 cosponsors and Evans is not among them; congress.gov was not checked (it returned 403 Forbidden in the earlier attempt). From the earlier attempt, still valid: evans.house.gov was opened directly (home page, no AI issue page; press release list pages ?page=0 to ?page=3, covering 27 February 2025 to 4 November 2026 by title and excerpt) and none is about AI; releases from January 2025 were not checked. The closest item is the 28 May 2026 release 'Evans, Dean Press for Answers, Transparency on Data Centers' (https://evans.house.gov/media/press-releases/evans-dean-press-answers-transparency-data-centers), a letter with Rep. Madeleine Dean to federal electricity regulators about grid reliability and affordability; it mentions 'artificial intelligence compute clusters' only as a source of electricity demand, so it is about data centers and electricity (level D at most) and was not included as a statement. Evans announced on 30 June 2025 that he is not seeking re-election; his term ends 3 January 2027. Multi-member House letters were not searched, per instructions."}

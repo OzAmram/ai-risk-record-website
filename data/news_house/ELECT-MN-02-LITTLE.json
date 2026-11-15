@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-MN-02-LITTLE",
+  "member": "Matt Little",
+  "searches": [
+    "\"Matt Little\" Minnesota congress artificial intelligence",
+    "\"Matt Little\" \"AI safety\"",
+    "Matt Little CD2 candidate superintelligence OR \"artificial general intelligence\"",
+    "Matt Little Lakeville AI extinction OR \"existential risk\"",
+    "Matt Little 2nd district AI pause OR moratorium OR slowdown",
+    "Matt Little congress candidate China AI agreement OR treaty",
+    "Matt Little for Congress Minnesota campaign site issues artificial intelligence guardrails"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI material found is a Newsweek paraphrase (around late September or early October 2026) saying he supports government guardrails, public-interest safety oversight and legal ways to hold AI companies accountable, plus deepfakes, identity theft and election disinformation; none of this mentions catastrophic risk. No direct quote was found, so this D rests on a paraphrase only.",
+  "notes": "Seven web searches ran; none was refused. Paraphrase left out of statements: Newsweek (Hannah Parry, https://newsweek.com/donald-trump-ai-guardrails-data-centers-candidate-map-12504150, no date shown on the page; it cites a Quinnipiac poll from 24-27 September 2026) says Little 'calls for government guardrails, public-interest safety oversight and legal avenues to hold AI companies accountable' and that his platform covers deepfakes, identity theft and election disinformation; these are Newsweek's words, not his. I could not find his campaign site: two guessed addresses (mattlittleforcongress.com, mattlittle.org) failed to load, so his campaign issue page, if it has an AI section, was not checked and the search is incomplete. No source showed him sponsoring the Ban Artificial Superintelligence Act (he was not in Congress) or saying anything about superintelligence, extinction, a pause, or a China agreement. Nothing found from his time as a Minnesota state senator in the 2025 onward period on AI."
+}

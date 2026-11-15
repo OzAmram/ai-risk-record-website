@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "D000197",
+  "member": "Diana DeGette",
+  "url": "https://www.congress.gov/119/meeting/house/118560/documents/HHRG-119-IF14-MState-D000197-20250903.pdf",
+  "quote": "But today, instead of focusing on the concerns that all our constituents have about the destruction of public health in this country, we are holding a broad hearing on AI that was hastily put together as a distraction.",
+  "result": "confirmed",
+  "evidence_url": "https://www.congress.gov/119/meeting/house/118560/documents/HHRG-119-IF14-MState-D000197-20250903.pdf",
+  "context": "r for next week. September 3, 2025 Page 2 Let's use it to get the answers our constituents deserve. But today, instead of focusing on the concerns that all our constituents have about the destruction of public health in this country, we are holding a broad hearing on AI that was hastily put together as a distraction. Mr. Chairman, my Democratic colleagues and I have been asking for months for this committee to do ",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording appears in DeGette's prepared opening statement as Health Subcommittee Ranking Member; the document is dated September 3, 2025."
+ },
+ {
+  "bioguide": "D000230",
+  "member": "Donald G. Davis",
+  "url": "https://dondavis.house.gov/media/press-releases/davis-nunn-introduce-bipartisan-bill-put-artificial-intelligence-work-north",
+  "quote": "Feeding America is national security, and the future of agriculture will depend on our ability to innovate.",
+  "result": "confirmed",
+  "evidence_url": "https://dondavis.house.gov/media/press-releases/davis-nunn-introduce-bipartisan-bill-put-artificial-intelligence-work-north",
+  "context": " agriculture by modernizing U.S. Department of Agriculture (USDA) research and workforce programs. \"Feeding America is national security, and the future of agriculture will depend on our ability to innovate,\" said Congressman Davis . \"We must strengthen research, expand workforce training, and give produc",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording appears in the press release, attributed to 'Congressman Davis' (on the page the sentence ends with a comma before 'said Congressman Davis', not a period); the release is dated July 16, 2026."
+ },
+ {
+  "bioguide": "ELECT-MI-07-LAWRENCE",
+  "member": "Will Lawrence",
+  "url": "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf",
+  "quote": "Now, AI experts are sounding the alarm, warning that their product is at risk of falling out of human control entirely and threatening our safety and the safety of our loved ones.",
+  "result": "confirmed",
+  "evidence_url": "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf",
+  "context": "hey're threatening Michigan jobs, driving up our energy costs, and contaminating our air and water. Now, AI experts are sounding the alarm, warning that their product is at risk of falling out of human control entirely and threatening our safety and the safety of our loved ones. We need to STOP this AI buildout to protect our towns, our livelihoods, our wallets, and our famil",
+  "corrected_quote": "",
+  "date_ok": "unknown",
+  "explanation": "Exact wording appears in the Stop Tech Overreach Plan PDF. The PDF text names no author and no date; only the upload path (2026/09) hints at the month, so attribution to Lawrence rests on the campaign site hosting it and the exact day is not supported by the text."
+ },
+ {
+  "bioguide": "ELECT-MI-07-LAWRENCE",
+  "member": "Will Lawrence",
+  "url": "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf",
+  "quote": "As tech giants speed forward on building infrastructure to fuel the AI arms race, experts are raising the possibility of rogue AI agents hacking global financial systems, undermining critical infrastructure, and being used to design bioweapons.",
+  "result": "confirmed",
+  "evidence_url": "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf",
+  "context": "with an immediate federal moratorium on new data center construction. Pause Advanced AI development As tech giants speed forward on building infrastructure to fuel the AI arms race, experts are raising the possibility of rogue AI agents hacking global financial systems, undermining critical infrastructure, and being used to design bioweapons. These dangerous possibilities are on top of already harmful deployments of AI in schools, hospital",
+  "corrected_quote": "",
+  "date_ok": "unknown",
+  "explanation": "Exact wording appears in the same Stop Tech Overreach Plan PDF (Pause Advanced AI development section). Same caveat: no author or date in the PDF text itself."
+ },
+ {
+  "bioguide": "ELECT-NY-07-VALDEZ",
+  "member": "Claire Valdez",
+  "url": "https://www.nysenate.gov/newsroom/press-releases/2025/kristen-gonzalez/senator-kristen-gonzalez-joint-elected-letter",
+  "quote": "The threats unregulated AI development poses are vast and are already being felt.",
+  "result": "could_not_open",
+  "evidence_url": "",
+  "context": "",
+  "corrected_quote": "",
+  "date_ok": "unknown",
+  "explanation": "The nysenate.gov page returned a Cloudflare 'Just a moment' challenge page with two tries; further attempts at the nysenate print PDF and a Google Docs copy were blocked by the permission system. A Route Fifty article on the same May 2025 letter was downloaded but does not contain this sentence or name Valdez, so neither the wording nor her signature was checked."
+ }
+]

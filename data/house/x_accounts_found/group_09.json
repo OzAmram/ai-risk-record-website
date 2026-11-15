@@ -1,0 +1,20 @@
+[
+ {"id": "ELECT-CO-05-KILLIN", "name": "Jessica Killin", "accounts": [
+  {"handle": "killinforco", "account_type": "campaign", "evidence_url": "https://www.killinforcolorado.com/", "evidence": "Her official campaign website links to x.com/killinforco alongside its matching Facebook, Instagram and YouTube accounts."}
+ ], "notes": "No separate personal or official House account was found; as a representative-elect she has no official House account yet."},
+ {"id": "ELECT-CO-08-RUTINEL", "name": "Manny Rutinel", "accounts": [
+  {"handle": "MannyRutinel", "account_type": "personal", "evidence_url": "https://mannyforcolorado.com/", "evidence": "His campaign website (mannyrutinel.com redirects to it) links to twitter.com/MannyRutinel in its social links."}
+ ], "notes": "The handle is his own name and is linked from the campaign site, so it serves as both personal and campaign account; classified as personal. No separate campaign-only X account was found."},
+ {"id": "ELECT-CT-01-BRONIN", "name": "Luke Bronin", "accounts": [
+  {"handle": "lukebronin", "account_type": "personal", "evidence_url": "https://www.broninforcongress.com/", "evidence": "His official campaign website links to x.com/lukebronin alongside his matching Instagram, Threads and Bluesky accounts."}
+ ], "notes": "Name-based account linked from the campaign site, likely used for both personal and campaign posts; no separate campaign-only or official House account found."},
+ {"id": "ELECT-FL-02-ROGERS", "name": "Austin Rogers", "accounts": [
+  {"handle": "rogersforfl", "account_type": "campaign", "evidence_url": "https://ivoterguide.com/candidate/93093/race/31333/election/1464", "evidence": "His iVoterGuide candidate profile for the Florida 2nd District race lists his website rogersforflorida.com and X account x.com/rogersforfl, matching his rogersforfl YouTube, Instagram and Truth Social accounts."}
+ ], "notes": "The campaign site rogersforflorida.com home page as fetched showed no social links (its footer may not have rendered), so evidence comes from iVoterGuide rather than his own site."},
+ {"id": "ELECT-FL-07-ELIJAH", "name": "Ryan Elijah", "accounts": [
+  {"handle": "ryanelijah", "account_type": "personal", "evidence_url": "https://www.elijahforcongress.com/", "evidence": "His campaign website ElijahforCongress.com links to x.com/ryanelijah in its social links."}
+ ], "notes": "Name-based account linked from the campaign site; may date from his TV anchor career. No separate campaign-only account found."},
+ {"id": "ELECT-FL-11-STRADA", "name": "Joe Strada", "accounts": [
+  {"handle": "VoteStrada", "account_type": "campaign", "evidence_url": "https://votestrada.com/", "evidence": "His campaign website votestrada.com links to x.com/VoteStrada along with facebook.com/votestrada."}
+ ], "notes": "No personal X account was found."}
+]

@@ -1,0 +1,55 @@
+{
+  "bioguide": "S001196",
+  "member": "Elise M. Stefanik",
+  "searches": [
+    "site:stefanik.house.gov artificial intelligence",
+    "Stefanik superintelligence",
+    "Elise Stefanik AI existential risk extinction",
+    "Stefanik AI pause moratorium slowdown",
+    "Stefanik China AI agreement treaty",
+    "\"Stefanik\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-22",
+      "venue": "House Intelligence Committee hearing opening statement (as prepared for delivery), 9/11 Commission hearing on emerging threats",
+      "quote": "Some of these threats include great power competition, artificial intelligence, foreign malign influence campaigns,",
+      "context": "Opening statement listing emerging national security threats; artificial intelligence appears once in a list alongside drones, biotechnology and critical infrastructure.",
+      "source_label": "Stefanik House press release",
+      "url": "https://stefanik.house.gov/press-releases?ID=BD2FE956-4299-4639-95F2-A51B441D44B3",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Names AI only as one item in a list of threats, with no catastrophic or specific danger described, so it is a general national security mention (ruling 4)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI pacing.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remarks found in 2026 are passing mentions (AI listed as a national security threat in a July 2026 hearing statement, and AI as a field quantum computing could accelerate in a June 2026 op-ed); nothing acknowledges catastrophic risk.",
+  "notes": "All seven web searches ran this time (the six required plus one on Ban Artificial Superintelligence Act cosponsors). None of them returned any statement by Stefanik on superintelligence, extinction, existential risk, AI safety, a pause or slowdown, or an AI agreement with China; the site: search returned no stefanik.house.gov pages, only coverage of her 2018 National Security Commission on Artificial Intelligence Act (outside the date range). Ban Artificial Superintelligence Act (H.R. 10538, introduced 2026-09-24 by Rep. Casar): sources describe its House cosponsors as Democrats (fastdemocracy lists Hoyle, Lynch, Tonko; Forkast says Ocasio-Cortez and nine other House Democrats); no source shows Stefanik as a cosponsor, though no full cosponsor list was read, so a reviewer could confirm on congress.gov. A Newsweek article by Tom O'Connor, 'Beijing looms large over American AI politics' (https://www.newsweek.com/ai-politics/beijing-china-us-government-ai-politics-artificial-intelligence-12501825, date not shown on the fetched page), lists 'Representatives Elise Stefanik of New York, who is retiring from the House' among Republicans skeptical of AI arrangements with China; it gives no words of hers, so this is the reporter's characterization, not a statement, and intl is left 'none'. A search snippet listed 'U.S Representative Elise Stefanik' in a Google Docs PDF titled 'Joint Elected Letter Opposing the Federal Moratorium on State and Local AI Regulation Proposed in the House Committee on Energy and Commerce Reconciliation Text' (2025); I could not extract the PDF text, so I could not see whether she signed it or is only named in it. It concerns preempting state AI laws, not catastrophic risk, so it would not change the grade. From the earlier attempt (kept): on stefanik.house.gov I opened the home page, press release listing pages 1-3 (releases from 2025-12-04 to 2026-07-22; none had AI in the title), the 2026-07-22 hearing release and the 2026-03-27 robotics bill release (Stefanik/Cotton; her quotes do not mention AI). The site search page returned 403. The page tool returned the hearing sentence in two pieces; only the first piece is used as the quote because I could not confirm the exact joining text. The June 15, 2026 RealClear Defense op-ed 'A Quantum Public Private Leap for America' (https://stefanik.house.gov/in-the-news?ID=0091BB04-6499-4B22-BB7E-9778B24543C4) mentions AI only as something quantum computing could accelerate; left out as not substantial. Releases older than early December 2025 were not reviewed."
+}

@@ -1,0 +1,31 @@
+{
+  "bioguide": "W000797",
+  "member": "Debbie Wasserman Schultz",
+  "searches": [
+    "Wasserman Schultz artificial intelligence (restricted to wassermanschultz.house.gov)",
+    "Debbie Wasserman Schultz superintelligence",
+    "Wasserman Schultz AI extinction existential risk",
+    "Wasserman Schultz AI pause slowdown moratorium",
+    "Wasserman Schultz China AI agreement treaty",
+    "\"Wasserman Schultz\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Casar"
+  ],
+  "statements": [
+    {"date": "2026-03-10", "venue": "Press release",
+     "quote": "And the-already grueling demands on the Task Forces are, tragically, only growing with AI simulations",
+     "context": "Announcing $535,000 in federal funding for the South Florida Internet Crimes Against Children task force to fight online child predators.",
+     "source_label": "Wasserman Schultz House press release", "url": "https://wassermanschultz.house.gov/news/documentsingle.aspx?DocumentID=3472",
+     "read_at_source": true, "level": "D", "flags": [],
+     "reason": "Mentions AI only as adding to child exploitation workloads, which is outside catastrophic risk."}
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only 2026 remark on AI found is about AI simulations adding to the workload of child predator task forces, which is level D. No statement about catastrophic risk from AI was found since January 2025.",
+  "notes": "Seven web searches ran; none was refused. Results were thin, so the search may be incomplete. Older AI material on her site (2023 online antisemitism task force meeting with the ADL on AI hazards, a December 2023 Newsweek op-ed with Anthony Housefather, a Wikimedia letter, and a polycystic kidney disease bill directing NIH to plan AI use in research) was not included: it is either before 2025, undated in what I saw, or about non-catastrophic uses; none was checked in detail. Ban Artificial Superintelligence Act (H.R. 10538, Casar, introduced 24 September 2026): sources report 9 or 10 cosponsors but name only Ocasio-Cortez; the Congress.gov cosponsor page returned 403, so whether Wasserman Schultz cosponsored could not be confirmed, though nothing found suggests she did. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Quote was verified against the page HTML, including the odd hyphen in 'the-already'."
+}

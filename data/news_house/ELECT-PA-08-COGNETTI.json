@@ -1,0 +1,29 @@
+{"bioguide": "ELECT-PA-08-COGNETTI", "member": "Paige Cognetti",
+ "searches": [
+  "Paige Cognetti artificial intelligence",
+  "Paige Cognetti AI safety",
+  "Cognetti Scranton mayor AI superintelligence",
+  "Cognetti congress PA-8 AI extinction existential risk",
+  "Cognetti data center moratorium pause AI Scranton",
+  "Paige Cognetti China AI agreement treaty",
+  "\"Cognetti\" campaign AI regulation Big Tech data centers congress Bresnahan"
+ ],
+ "statements": [
+  {"date": "2026-07-28", "venue": "Campaign TV ad",
+   "quote": "Don't raise our electric bills, don't poison our water.",
+   "context": "A House campaign ad attacking AI data center projects in Lackawanna County, demanding that Big Tech pay its own way, take no tax breaks and hire local union labor.",
+   "source_label": "Fortune (Associated Press), 28 July 2026",
+   "url": "https://fortune.com/2026/07/28/cognetti-bresnahan-pennsylvania-data-centers-ad/",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About the local costs of AI data centers (electricity bills, water), which the rubric places outside catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "She opposed specific local data center projects and asked to slow one down over stormwater and local impact, which is not slowing AI for safety reasons.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her only public remarks on AI found are 2026 campaign attacks on AI data centers over electricity bills, water, tax breaks and local jobs; nothing about catastrophic risk from AI was found.",
+ "notes": "Seven web searches ran; none were refused. She is a representative-elect (Mayor of Scranton), so there is no house.gov site and she could not have sponsored the Ban Artificial Superintelligence Act; no source shows any AI-risk letter or bill. The ad quote was read on the Fortune copy of the Associated Press story and matches a Broadband Breakfast copy dated 30 July 2026; the ad's exact air date is assumed to be on or just before 28 July 2026. Search summaries also paraphrased her saying residents, not only Silicon Valley headquarters, should benefit when a company comes to Lackawanna County, and that she wanted to slow a Ransom Township data center proposal over stormwater worries (golackawanna.com and WVIA); these were left out as paraphrase or non-AI, and golackawanna.com could not be opened (DNS failure). No campaign site was opened."}

@@ -1,0 +1,24 @@
+{
+  "bioguide": "P000621",
+  "member": "Nellie Pou",
+  "searches": [
+    "Nellie Pou artificial intelligence site:pou.house.gov",
+    "Rep. Nellie Pou superintelligence",
+    "Nellie Pou AI extinction existential risk",
+    "Nellie Pou AI pause slowdown moratorium",
+    "Nellie Pou China AI agreement treaty",
+    "\"Nellie Pou\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors list"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI was found in seven web searches or in her official press releases from January to November 2026. She is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+  "notes": "All 7 web searches ran (the 6 required plus one for the Ban Artificial Superintelligence Act co-sponsor list); none returned any page in which Nellie Pou speaks about AI. The site-restricted search returned no pou.house.gov pages. Ban Artificial Superintelligence Act: the FastDemocracy page for H.R. 10538 (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), opened 14 November 2026, lists 12 co-sponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and not Pou; congress.gov's co-sponsor page returned 403, so this was not checked against the official list. The Legiplex list of her bills appeared in search results but returned 403 when opened, so her full bill list was not checked for AI bills. Carried over from the earlier attempt: pou.house.gov home page and press release listing pages 1 to 7 (about 70 releases, 12 January to 11 November 2026) were checked by title and excerpt only; none mention artificial intelligence, superintelligence or China AI talks. Two releases (5 October 2026, https://pou.house.gov/media/press-releases/pou-demands-answers-after-5500-gallon-data-center-diesel-spill, and 14 October 2026) concern a diesel spill at an Equinix data center in Secaucus; the 5 October one was opened and does not mention AI. 2025 press releases were not individually checked. Multi-signer House letters were not searched, per instructions."
+}

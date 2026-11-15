@@ -1,0 +1,33 @@
+{"bioguide": "P000607", "member": "Mark Pocan",
+ "searches": [
+  "site:pocan.house.gov artificial intelligence",
+  "Mark Pocan superintelligence",
+  "Mark Pocan AI extinction existential risk",
+  "Mark Pocan AI pause slowdown moratorium data centers",
+  "Mark Pocan China AI agreement treaty",
+  "\"Pocan\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Pocan"
+ ],
+ "statements": [
+  {"date": "2026-03-05",
+   "venue": "Letter from the four Congressional Labor Caucus co-chairs to the House Democratic Commission on AI and the Innovation Economy",
+   "quote": "As the champions of working families, Democrats must take an active leadership role putting in place the AI guardrails the American public needs and demand",
+   "context": "The Labor Caucus co-chairs (Dingell, Horsford, Norcross and Pocan) urged pro-worker policy and strong labor standards in AI regulation.",
+   "source_label": "Congressional Labor Caucus press release, 6 March 2026",
+   "url": "https://laborcaucus.house.gov/media/press-releases/labor-caucus-co-chairs-outline-pro-worker-standards-in-ai-regulation",
+   "read_at_source": true, "level": "D", "flags": ["cosigned_letter", "bill_or_action"],
+   "reason": "The letter is about worker protections, civil rights and democracy in AI policy and does not acknowledge catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Co-signed, as a Labor Caucus co-chair, a letter urging the House Democratic Commission on AI to put pro-worker policy and strong labor standards into AI regulation.", "Congressional Labor Caucus press release, 6 March 2026 (letter dated 5 March 2026)", "https://laborcaucus.house.gov/media/press-releases/labor-caucus-co-chairs-outline-pro-worker-standards-in-ai-regulation"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI statement found is a March 2026 co-signed Labor Caucus letter about worker protections in AI regulation, which does not acknowledge catastrophic risk.",
+ "notes": "All 6 required web searches ran this time, plus one extra search on the Ban Artificial Superintelligence Act; no search was refused. None of the searches returned any statement by Pocan on superintelligence, extinction, a pause or slowdown, China talks or AI safety. Ban Artificial Superintelligence Act: the House bill is H.R. 10538; congress.gov returned HTTP 403, but the fastdemocracy.com listing (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) shows 12 cosponsors and Pocan is not among them (that listing could be out of date). From the earlier attempt, still valid: pocan.house.gov press release listing pages 1 to 6 (7 February 2025 to 29 October 2026) had no release title mentioning AI, artificial intelligence or data centers; only titles and short excerpts were checked, so an AI mention inside a release body could have been missed. The Labor Caucus letter quote is attributed to all four co-chairs jointly, not to Pocan individually. The many-signer House AI letters of August and September 2026 were not searched, as instructed."
+}

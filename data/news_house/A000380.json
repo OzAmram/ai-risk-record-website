@@ -1,0 +1,95 @@
+{
+  "bioguide": "A000380",
+  "member": "Gabe Amo",
+  "searches": [
+    "Gabe Amo artificial intelligence (restricted to amo.house.gov)",
+    "Rep. Gabe Amo superintelligence",
+    "Gabe Amo AI extinction existential risk",
+    "Gabe Amo AI pause slowdown moratorium",
+    "Gabe Amo China AI agreement treaty talks",
+    "\"Gabe Amo\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Amo"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-26",
+      "venue": "Press release",
+      "quote": "AI is here, it's here to stay, and we need to prepare the next generation for this new reality",
+      "context": "Announcing House Science Committee passage of his bipartisan LIFT AI Act on AI literacy for K-12 students.",
+      "source_label": "House press release (amo.house.gov)",
+      "url": "https://amo.house.gov/press-release/may-the-force-be-with-you-amo-secures-committee-passage-of-bipartisan-bill-to-improve-ai-literacy-for-k-12-students",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI education and preparing students; no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-11-09",
+      "venue": "Letter to Commerce Secretary Lutnick, announced in press release",
+      "quote": "As we previously warned, allowing China to obtain advanced U.S. AI chips puts our national security at risk.",
+      "context": "Letter from Reps. Meeks, Amo and Kamlager-Dove demanding answers over advanced AI chip exports to China amid reports of Chinese intelligence ties.",
+      "source_label": "House press release (amo.house.gov)",
+      "url": "https://amo.house.gov/press-release/amo-meeks-kamlager-dove-demand-answers-from-trump-administration-over-advanced-ai-chip-exports-amid-reports-of-chinese-intelligence-ties",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action",
+        "cosigned_letter"
+      ],
+      "reason": "Competition with China and a general national security risk from chip exports, which is D under rubric ruling 5 and House ruling 4."
+    },
+    {
+      "date": "2025-09-26",
+      "venue": "Press release",
+      "quote": "The rapid deployment and use of artificial intelligence isn't just the future, it's happening now.",
+      "context": "Reintroducing the bipartisan LIFT AI Act with Rep. Tom Kean to improve AI literacy in K-12 schools.",
+      "source_label": "House press release (amo.house.gov)",
+      "url": "https://amo.house.gov/press-release/amo-kean-reintroduce-bill-to-improve-artificial-intelligence-literacy-for-k-12",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI in education; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development; the chip letter asks to halt chip exports to China, which is not a pause of AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; his China statements are about restricting chip exports.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Lead sponsor, with Rep. Tom Kean, of the bipartisan LIFT AI Act on AI literacy for K-12 students (reintroduced, then passed by the House Science Committee).",
+      "amo.house.gov press releases, 26 September 2025 and 26 June 2026",
+      "https://amo.house.gov/press-release/may-the-force-be-with-you-amo-secures-committee-passage-of-bipartisan-bill-to-improve-ai-literacy-for-k-12-students"
+    ],
+    [
+      "Co-signed, with Reps. Meeks and Kamlager-Dove, a letter to Commerce Secretary Lutnick demanding answers on advanced AI chip exports to China.",
+      "amo.house.gov press release, 9 November 2026",
+      "https://amo.house.gov/press-release/amo-meeks-kamlager-dove-demand-answers-from-trump-administration-over-advanced-ai-chip-exports-amid-reports-of-chinese-intelligence-ties"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2026 (AI literacy in schools, and AI chip exports to China as a national security issue), but no statement found in seven web searches and a check of his official site acknowledges catastrophic risk from AI.",
+  "notes": "All seven web searches ran this time (one restricted to amo.house.gov, plus superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement or treaty, his name with \"AI safety\", and the Ban Artificial Superintelligence Act). None returned a statement by him on catastrophic AI risk, a pause or slowdown, talks with China on AI pace, or superintelligence. Ban Artificial Superintelligence Act: no source shows him as sponsor or cosponsor. Forkast (https://forkast.news/progressive-democrats-establish-prohibitionist-left-flank-on-artificial-superintelligence/) names only Casar and Ocasio-Cortez and says nine other House Democrats co-sponsor without naming them, so his status cannot be ruled out; Congress.gov was not checked. One search-result summary claimed he 'has listed slowing the rapid growth of artificial intelligence among his goals'; no source for this was found, and the pages opened do not say it, so it is left out. An American Bazaar interview (2 April 2025, https://americanbazaaronline.com/2025/04/02/the-future-is-now-congressman-gabe-amo-on-ai-policy-equity-and-education-461406/, read through a summarising fetch tool) quotes him as saying \"The AI Safety Institute [...] is a bold step towards addressing [...] the mitigation of risk\"; the article itself edits the quote with ellipses, so it cannot be given as one continuous passage, and it names no catastrophic risk (D at most; 2025). Left out. A 16 September 2026 House letter led by Rep. Beyer lists him as a signer (Common Dreams, https://www.commondreams.org/news/ai-regulations-don-beyer); per House instructions it is handled centrally and not included here. From the earlier attempt: official-site pages opened directly were press releases pages 1 and 2 (22 September to 12 November 2026, no AI-risk items), the 26 June 2026 and 26 September 2025 LIFT AI Act releases, the 9 November 2026 AI chip export letter, and the 12 November 2026 statement on Jensen Huang's resignation (about chip exports and national security, D-level, not included; excerpt: \"No CEO or government official should be allowed to put America's technological edge in jeopardy.\"). 2024 items (Boston Globe 1 August 2024 on AI literacy, Smithfield roundtable, 2024 committee passage) are before 2025 and not included. Page text was read through a fetch tool that summarises pages, so quotes should be spot-checked against the pages. Press release pages 3 to 45 were not checked."
+}

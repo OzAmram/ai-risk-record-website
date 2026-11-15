@@ -1,0 +1,53 @@
+{
+  "bioguide": "ELECT-NY-07-VALDEZ",
+  "member": "Claire Valdez",
+  "searches": [
+    "Claire Valdez Assembly Queens artificial intelligence",
+    "Claire Valdez \"AI safety\"",
+    "Claire Valdez superintelligence",
+    "Claire Valdez AI extinction existential risk",
+    "Claire Valdez AI pause moratorium data centers",
+    "Claire Valdez China AI agreement treaty",
+    "Claire Valdez artificial intelligence (restricted to nyassembly.gov, assembly.state.ny.us, assembly.ny.gov, clairevaldez.com)",
+    "Valdez Reynoso debate AI chatbots regulate NY-7"
+  ],
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "venue": "Joint letter from New York elected officials to Speaker Mike Johnson",
+      "quote": "The threats unregulated AI development poses are vast and are already being felt.",
+      "context": "Letter opposing the proposed 10-year federal moratorium on state and local AI laws; the threats it then names are a teenager's suicide after using a companion chatbot and AI-driven health insurance claim denials.",
+      "source_label": "New York State Senate press release (Senator Kristen Gonzalez)",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2025/kristen-gonzalez/senator-kristen-gonzalez-joint-elected-letter",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter", "bill_or_action"],
+      "reason": "The threats described are harms to children and patients and opposition to preemption, not catastrophic risk."
+    },
+    {
+      "date": "2026-06-15",
+      "venue": "NY-7 Democratic primary debate on NY1 (reported by City & State; debate date not stated, on or before this date)",
+      "quote": "But I do not use AI, I prefer to do things the old-fashioned way.",
+      "context": "Answer to the moderators' question about when each candidate last used an AI chatbot.",
+      "source_label": "City & State New York",
+      "url": "https://www.cityandstateny.com/politics/2026/06/how-are-new-yorks-congressional-candidates-using-ai-debate-moderators-want-know/414200/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Personal wariness about using AI, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Co-signed a joint letter of New York elected officials to Speaker Johnson opposing the proposed 10-year federal moratorium on state and local AI legislation.", "New York State Senate press release, 2025-05-15", "https://www.nysenate.gov/newsroom/press-releases/2025/kristen-gonzalez/senator-kristen-gonzalez-joint-elected-letter"],
+    ["Listed among introducers of New York Assembly bill A8884 (the \"New York AI Act\"), on algorithmic discrimination and transparency in AI systems used for decisions such as health care, employment and credit; referred to the Science and Technology committee, June 2025.", "New York Assembly bill search, 2025", "https://nyassembly.gov/leg/?Actions=Y&Committee=&Floor=&Memo=Y&Summary=Y&Text=Y&bn=A8884&default_fld=%0D%0A&leg_video=&nbspVotes=Y&nbspVotes=Y&term="]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken and acted on AI (a 2025 letter against federal preemption, a state AI anti-discrimination bill, and 2026 debate remarks), but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "8 web searches ran, none refused. Paraphrase left out: BK Reader (Emma Delahanty, 2026-06-18, https://www.bkreader.com/featured-news/meet-your-candidate-claire-valdez-for-ny-7-12433503) says issues she hopes to tackle in Congress include 'artificial intelligence safety'; this is the reporter's wording, not her quote, and does not say what she means by it. A page at voice-web-beta.vercel.app titled 'Valdez Says She's Never Used AI While Taking AI Money' gives no quotes or sources and was not used. The A8884 bill page was seen only in search results, not opened; her role (sponsor or co-sponsor) should be checked. The 2025 letter quote was read at the source, but the fetch tool would not reproduce the full letter text, so the surrounding examples come from its summary. No sign she sponsored the Ban Artificial Superintelligence Act (she was not in Congress). No campaign site was found by search; a campaign site and the NY1 debate video were not checked directly."
+}

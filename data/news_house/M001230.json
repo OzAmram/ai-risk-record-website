@@ -1,0 +1,37 @@
+{"bioguide": "M001230", "member": "Ryan Mackenzie",
+ "searches": [
+  "Ryan Mackenzie artificial intelligence (restricted to mackenzie.house.gov)",
+  "\"Ryan Mackenzie\" \"AI safety\"",
+  "Congressman Ryan Mackenzie superintelligence AI",
+  "Rep. Ryan Mackenzie AI extinction existential risk",
+  "Ryan Mackenzie AI pause slowdown moratorium",
+  "Ryan Mackenzie China AI agreement treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Mackenzie"
+ ],
+ "statements": [
+  {"date": "2026-09-16", "venue": "Press release on House passage of the Ratepayer Protection Act",
+   "quote": "Communities in the Lehigh Valley and the Poconos should not be footing the energy bill for data centers they never asked for",
+   "context": "Mackenzie applauded House passage of the Ratepayer Protection Act, which he co-sponsored, requiring data centers (the release cites AI data centers' electricity needs) to pay their share of energy costs.",
+   "source_label": "Mackenzie House press release", "url": "https://mackenzie.house.gov/media/press-releases/congressman-mackenzie-applauds-passage-ratepayer-protection-act",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action", "unsure"],
+   "reason": "The statement concerns electricity costs from data centers, which ruling 5 places at D; his own words do not mention AI, only the surrounding release does."},
+  {"date": "2025-05-19", "venue": "Press release on attending the White House signing of the TAKE IT DOWN Act",
+   "quote": "As a Pennsylvania State Representative, I led efforts to remove harmful deepfake images and protect individuals—especially young people—from AI-generated exploitation",
+   "context": "Mackenzie attended the signing of the federal TAKE IT DOWN Act, which lets people request removal of non-consensual AI-generated deepfake images.",
+   "source_label": "Mackenzie House press release", "url": "https://mackenzie.house.gov/media/press-releases/congressman-ryan-mackenzie-attends-white-house-signing-take-it-down-act",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Deepfakes and exploitation are outside catastrophic risk under ruling 5, so the level is D."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found; the data center cost bill is about electricity prices, not slowing AI.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Co-sponsored the bipartisan Ratepayer Protection Act, which requires data centers and other large energy consumers to pay their share of energy costs; it passed the House.", "Mackenzie House press release, 2026-09-16", "https://mackenzie.house.gov/media/press-releases/congressman-mackenzie-applauds-passage-ratepayer-protection-act"],
+  ["Attended the White House signing of the TAKE IT DOWN Act on AI-generated deepfake images, after leading a similar effort as a Pennsylvania state representative.", "Mackenzie House press release, 2025-05-19", "https://mackenzie.house.gov/media/press-releases/congressman-ryan-mackenzie-attends-white-house-signing-take-it-down-act"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "He has spoken about AI only in terms of deepfakes (2025) and data center electricity costs (2026), both D under ruling 5; nothing about catastrophic AI risk was found.",
+ "notes": "All required searches ran this time (7 web searches, all succeeded). None of the topic searches (AI safety, superintelligence, extinction, pause/slowdown, China agreement) found any statement by Rep. Ryan Mackenzie; results were about other people (for example Ryan Kidd, Tammy Mackenzie, Pat Ryan). The Ban Artificial Superintelligence Act search found no source naming Mackenzie as a co-sponsor (reported co-sponsors were Democrats plus, per one report, Rep. Nathaniel Moran), but the official congress.gov co-sponsor list was not opened. Not included as a statement: a 15 December 2025 release praising a conviction under Pennsylvania's AI deepfake law (Act 125 of 2024), which he first introduced as a state representative; his own quoted words there do not mention AI (https://mackenzie.house.gov/media/press-releases/congressman-mackenzie-applauds-use-ai-legislation-conviction-thanks-local-law). Earlier, the official site's press release listing pages 1-3 (16 Mar to 16 Oct 2026) were checked and showed no other AI-related release; the 8 Apr 2026 export control bill release with Rep. Castro does not mention AI. The 2026 D statement may arguably be off topic, since his own words mention data centers and not AI."}

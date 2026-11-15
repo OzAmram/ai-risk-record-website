@@ -1,0 +1,62 @@
+{
+  "bioguide": "M001246",
+  "member": "Analilia Mejia",
+  "searches": [
+    "Mejia artificial intelligence (restricted to mejia.house.gov)",
+    "Analilia Mejia superintelligence",
+    "Analilia Mejia AI extinction existential risk",
+    "Analilia Mejia AI pause slowdown moratorium data centers",
+    "Analilia Mejia China AI agreement treaty",
+    "\"Analilia Mejia\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Mejia",
+    "Rep. Analilia Mejia artificial intelligence AI"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Original co-sponsor (not her own statement) of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, whose Section 8 ('Pause on development of advanced artificial intelligence') pauses advanced AI until a new federal AI department issues rules; a pause for safety reasons counts as yes here. No statement of her own found.",
+      "sources": [
+        [
+          "Bill text as introduced, 2026-09-24 (govinfo.gov)",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "Original co-sponsor of H.R. 10538; the bill's pause on advanced AI lasts only until the new federal department issues rules, i.e. it is conditional on safety rules, which the rubric treats as mixed. No statement of her own found.",
+      "sources": [
+        [
+          "Bill text as introduced, 2026-09-24 (govinfo.gov)",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "H.R. 10538 directs pursuit of international agreements to prevent artificial superintelligence but (per other project files that read Section 15) does not name China or talks with China on pacing; no statement of her own found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "yes",
+      "note": "Original co-sponsor of H.R. 10538 (not her own statement). Its Section 3(6) defines 'superintelligence precursor characteristics' to include 'The capacity to automate or greatly accelerate the process of artificial intelligence research and development' and 'The capacity to independently modify or enhance its own functions', and the bill prohibits systems with such characteristics (Section 9(a), as read in other project files; the prohibition section was not re-read this run).",
+      "sources": [
+        [
+          "Bill text as introduced, 2026-09-24 (govinfo.gov)",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    }
+  },
+  "record": [
+    [
+      "Original co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (led by Rep. Greg Casar), which bans artificial superintelligence and its precursor characteristics (including automated AI research and self-modification) and pauses advanced AI development until a new federal AI department issues rules.",
+      "Bill text as introduced, 2026-09-24, listing 'Ms. Mejia' among original cosponsors (govinfo.gov); also on FastDemocracy cosponsor list checked 2026-11-14",
+      "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+    ]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in her own words about AI was found in 2025 or 2026, so there is no quote to grade. Her record is strong on action: she is an original co-sponsor of the Ban Artificial Superintelligence Act (September 2026), so a reviewer may want to grade on that record.",
+  "notes": "All six required web searches ran this time, plus two extra (bill cosponsors; her name with AI); none of the search results mentioned her in connection with AI. The earlier attempt's three searches were all refused, so they are not listed. From the earlier attempt (kept): her official site was opened directly, including the In the News page and all four pages of press releases (33 releases, 20 April to 12 November 2026; she was sworn in on 20 April 2026); no release mentions AI, artificial intelligence, data centers, superintelligence or China, though some release bodies were only partly visible on the listing pages. Co-sponsorship of H.R. 10538 was confirmed this run from the govinfo bill text (header: 'Mr. Casar (for himself, Mr. Khanna, Ms. Mejia, Ms. Ansari, ...)') and the FastDemocracy cosponsor list; the Congress.gov cosponsor page returned HTTP 403. The bill's text was read by a page-fetch tool that summarises pages, so the Section 3(6) wording should be checked by a reviewer. No House letter about AI risk led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Grade 'none' follows the convention in other co-sponsor files (e.g. Grijalva) because she has no statement of her own about AI."
+}

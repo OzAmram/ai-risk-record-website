@@ -1,0 +1,25 @@
+{
+  "bioguide": "ELECT-CA-01-MCGUIRE",
+  "member": "Mike McGuire",
+  "searches": [
+    "Mike McGuire AI safety",
+    "Mike McGuire artificial intelligence superintelligence",
+    "\"McGuire\" California senate pro tem AI bill SB 53 OR SB 1047 statement",
+    "site:sd02.senate.ca.gov McGuire artificial intelligence",
+    "Mike McGuire AI extinction OR existential risk OR \"loss of control\"",
+    "Mike McGuire congress campaign AI pause OR moratorium OR China agreement",
+    "\"Mike McGuire\" \"artificial intelligence\" 2026",
+    "McGuire for Congress California 1st district issues technology AI"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "Eight web searches and page checks found no statement by Mike McGuire about AI since 1 January 2025, in his role as California Senate leader or in his congressional campaign.",
+  "notes": "All 8 searches ran (none refused). No search result quoted McGuire on AI; results for his name mostly matched other people named Mike (Mike Johnson, Mike Rogers). The site-restricted search of his state senate site (sd02.senate.ca.gov) returned no pages from that site. FastDemocracy shows he voted yes on California SB 11 (Ashby, 2025, AI technology; vetoed), but a floor vote is not a statement and the bill is not about catastrophic risk, so it is not recorded. I did not verify how he voted on SB 53 (Wiener, frontier AI safety, 2025) and did not record it. Campaign coverage (Lost Coast Outpost, 13 November 2025 launch) mentions wildfire, schools, housing, health care and rural broadband, not AI. I could not find his campaign website; mikemcguire.com belongs to an unrelated keynote speaker. Coverage says he also ran in a special election for the seat after Rep. Doug LaMalfa's death; I did not check whether he already took office through it. The search was not exhaustive: a reviewer could check his campaign issues page and California Senate floor remarks on SB 53."
+}

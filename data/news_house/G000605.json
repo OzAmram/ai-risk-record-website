@@ -1,0 +1,22 @@
+{"bioguide": "G000605", "member": "Adam Gray",
+ "searches": [
+  "site:gray.house.gov artificial intelligence",
+  "\"Adam Gray\" congressman superintelligence",
+  "\"Adam Gray\" AI extinction existential risk",
+  "\"Adam Gray\" AI pause slowdown moratorium",
+  "\"Adam Gray\" China AI agreement treaty",
+  "\"Adam Gray\" \"AI safety\"",
+  "\"Rep. Adam Gray\" artificial intelligence"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Rep. Adam Gray about AI, let alone catastrophic AI risk, was found in news coverage or on his official site.",
+ "notes": "Seven web searches ran and none were refused; none returned anything by or about Rep. Adam Gray on AI (results for 'Adam Gray AI safety' were about Adam Gleave of FAR AI, a different person). The site: search on gray.house.gov returned no pages from that site. I opened https://gray.house.gov/media/press-releases directly: the ten most recent releases (8 June to 13 October 2026) are about immigration enforcement, permitting, farm relief, Medicaid and constituent matters, with nothing on AI. The site's own search page and the congress.gov search for the Ban Artificial Superintelligence Act both returned HTTP 403, so I could not check his cosponsorship of that bill or older press releases directly; no source found shows him as a sponsor or cosponsor. House multi-signer AI letters from August and September 2026 were not searched, as instructed."
+}

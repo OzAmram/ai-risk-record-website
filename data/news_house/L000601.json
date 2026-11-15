@@ -1,0 +1,76 @@
+{
+  "bioguide": "L000601",
+  "member": "Greg Landsman",
+  "searches": [
+    "Landsman artificial intelligence (restricted to landsman.house.gov)",
+    "Greg Landsman superintelligence",
+    "Greg Landsman AI extinction existential risk",
+    "Greg Landsman AI pause slowdown moratorium",
+    "Greg Landsman China AI agreement treaty",
+    "\"Landsman\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-01",
+      "venue": "Press release introducing the Doctors Not AI Act",
+      "quote": "When a computer system is making decisions about health care, people will get hurt.",
+      "context": "Introducing a bipartisan bill to keep AI from making health care and insurance coverage decisions without health care professionals.",
+      "source_label": "House press release (landsman.house.gov)",
+      "url": "https://landsman.house.gov/media/press-releases/landsman-introduces-bipartisan-legislation-to-keep-ai-from-making-health-care-decisions",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About harm to patients from AI in health care decisions, not catastrophic risk from advanced AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; his data center bills concern transparency and environmental effects, not risk from AI itself.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the bipartisan Doctors Not AI Act to keep AI from making health care decisions.",
+      "Landsman press release, 2026-09-01",
+      "https://landsman.house.gov/media/press-releases/landsman-introduces-bipartisan-legislation-to-keep-ai-from-making-health-care-decisions"
+    ],
+    [
+      "Introduced a bipartisan bill to ban non-disclosure agreements in AI data center deals with local officials.",
+      "Landsman press release, 2026-09-24",
+      "https://landsman.house.gov/media/press-releases/landsman-introduces-bipartisan-bill-to-ban-data-center-ndas"
+    ],
+    [
+      "Introduced a bill directing a National Academies study of the environmental effects of AI data centers (his third AI data center bill).",
+      "Landsman press release, 2026-07-10",
+      "https://landsman.house.gov/media/press-releases/landsman-introduced-third-ai-data-center-bill-in-congress"
+    ],
+    [
+      "Wrote to Innovaccer calling for an end to AI-assisted Medicare prior authorization denials under the WISeR model.",
+      "Landsman press release, 2026-09-25",
+      "https://landsman.house.gov/media/press-releases/landsman-calls-for-immediate-end-to-ai-medicare-denials"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 he spoke and legislated often about AI (AI denials in health care and Medicare, data center costs, transparency and pollution), but nothing found in his press releases or news coverage acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (seven in total). The searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement and AI safety returned nothing about Landsman; the pause search surfaced Rep. Greg Casar (a different member with a similar name), whose statements are not included. The official-site search returned only health care and data center items: the Doctors Not AI Act, AI Medicare denials (WISeR model), a Congressional Review Act effort with Rep. DelBene against the WISeR model, and data center bills including the No Harm Data Centers Act (Big Tech to pay for data centers, no NDAs); none mentions catastrophic risk, superintelligence, loss of control or a pause. The No Harm Data Centers Act page and the /posts/ version of the third data center bill page returned 404 when opened, so they are described from search results only and not added to the record beyond the earlier entries. The Doctors Not AI Act quote was re-opened at source this session and matches exactly. Ban Artificial Superintelligence Act (H.R. 10538, Casar, September 2026): a FastDemocracy cosponsor list (12 names) does not include Landsman, and no source shows him as sponsor or cosponsor; Congress.gov itself was not checked this session. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). From the earlier attempt: his press release list pages 1 to 3 of 25 (roughly April to November 2026) were read directly; pages 4 to 25 were not."
+}

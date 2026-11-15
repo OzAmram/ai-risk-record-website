@@ -1,0 +1,53 @@
+{
+  "bioguide": "M001208",
+  "member": "Lucy McBath",
+  "searches": [
+    "McBath artificial intelligence (restricted to mcbath.house.gov)",
+    "Lucy McBath superintelligence",
+    "Lucy McBath AI extinction existential risk",
+    "McBath AI pause slowdown moratorium",
+    "Rep. McBath China AI agreement treaty",
+    "\"McBath\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors McBath"
+  ],
+  "statements": [
+    {
+      "date": "2025-07-16",
+      "venue": "House Judiciary subcommittee hearing on AI and crime, as reported by The Well News",
+      "quote": "AI is only as good as the data on which it is trained",
+      "context": "At a hearing on criminals' use of AI, she warned that police use of AI could intrude on the privacy of law-abiding people and called for privacy safeguards.",
+      "source_label": "The Well News, reposted on mcbath.house.gov (In the News)",
+      "url": "https://mcbath.house.gov/2025/7/broadband-breakfast",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI in policing and privacy, with no mention of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remark found in her own words is from a July 2025 hearing on AI and crime, about policing and privacy, which is level D; no 2026 statement about AI and no statement about catastrophic AI risk was found.",
+  "notes": "All seven web searches ran in this second attempt (official-site search, superintelligence, extinction or existential risk, pause or moratorium, China agreement or treaty, 'AI safety', and the Ban Artificial Superintelligence Act); none returned any statement by McBath on catastrophic AI risk, superintelligence, a pause, or China talks. Ban Artificial Superintelligence Act (H.R. 10538, Sanders and Casar): no source found names McBath as a cosponsor. Coverage names Ocasio-Cortez and says nine other House Democrats cosponsored without naming them (Forkast article, opened); the Congress.gov cosponsor page returned HTTP 403 and could not be opened, so cosponsorship is not fully ruled out. From the first attempt: the official site home page and press release listing pages 1 and 2 (16 June to 27 October 2026) show no AI-related releases; the 26 August 2026 job training release does not mention AI. Press release pages 3 onward were not checked. The statement date is the article date on the repost (16 July 2025); the hearing is assumed to be the same day but this was not confirmed. Partial quote left out: the article quotes her saying lawmakers must determine \"what those guardrails should look like and put them in place\" (a fragment inside a paraphrase, so not used as a quote). Paraphrases left out: she cautioned that police use of AI could violate the privacy of law-abiding people and proposed privacy safeguards for AI tools used by police. A 2022 release welcoming a $65 million AI manufacturing grant to a Georgia Tech-led coalition is before 2025 and was not used. Many-signer House letters of August and September 2026 were not searched, per instructions."
+}

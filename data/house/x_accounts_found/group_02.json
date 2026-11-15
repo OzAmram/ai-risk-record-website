@@ -1,0 +1,56 @@
+[
+ {
+  "id": "M001241",
+  "name": "Dave Min",
+  "accounts": [
+   {"handle": "CongressMin", "account_type": "official", "evidence_url": "https://min.house.gov", "evidence": "The official House site links x.com/CongressMin in its social icons and embeds 'Tweets by Rep. Dave Min'."},
+   {"handle": "daveminCA", "account_type": "campaign", "evidence_url": "https://www.davemin.com", "evidence": "The 'Dave Min for Congress' campaign site, paid for by Dave Min for Congress, links x.com/daveminCA in its header and footer."}
+  ],
+  "notes": ""
+ },
+ {
+  "id": "M001238",
+  "name": "Sarah McBride",
+  "accounts": [
+   {"handle": "Rep_McBride", "account_type": "official", "evidence_url": "https://mcbride.house.gov", "evidence": "The official House site links x.com/Rep_McBride in its social media list."},
+   {"handle": "SarahEMcBride", "account_type": "personal", "evidence_url": "https://www.sarahmcbride.com", "evidence": "Her official campaign website links twitter.com/SarahEMcBride under 'Connect with us'."}
+  ],
+  "notes": "SarahEMcBride is linked from the campaign site but appears to be her long-standing personal account; it could also be classed as a campaign account."
+ },
+ {
+  "id": "P000622",
+  "name": "Jimmy Patronis",
+  "accounts": [
+   {"handle": "PatronisFL", "account_type": "official", "evidence_url": "https://patronis.house.gov", "evidence": "The official House site links x.com/PatronisFL in the header, the footer and the 'Stay Connected' section."},
+   {"handle": "JimmyPatronis", "account_type": "personal", "evidence_url": "https://dailycallernewsfoundation.org/?p=354816", "evidence": "A Daily Caller News Foundation article embeds a 25 November 2024 post from @JimmyPatronis replying to Trump's endorsement: 'Put me to work, Mr. President!'"}
+  ],
+  "notes": "The campaign site jimmypatronis.com failed to load because of a certificate error, so I could not confirm a separate campaign handle. The JimmyPatronis evidence dates from November 2024, when he was Florida's Chief Financial Officer; I did not confirm that the account is still active."
+ },
+ {
+  "id": "F000484",
+  "name": "Randy Fine",
+  "accounts": [
+   {"handle": "RepFine", "account_type": "official", "evidence_url": "https://fine.house.gov", "evidence": "The official House site links x.com/RepFine in its header and footer social menus."},
+   {"handle": "VoteRandyFine", "account_type": "campaign", "evidence_url": "https://www.voterandyfine.com", "evidence": "The 'Randy Fine for Congress' campaign site, paid for by Randy Fine for Congress, links x.com/VoteRandyFine."}
+  ],
+  "notes": "randyfine.com is a parked domain that is for sale, so it is not his site. I did not look for a separate personal account."
+ },
+ {
+  "id": "B001328",
+  "name": "Everton Blair Jr.",
+  "accounts": [
+   {"handle": "repevertonblair", "account_type": "official", "evidence_url": "https://blair.house.gov/", "evidence": "The official House site links x.com/repevertonblair in its social icons and X section."},
+   {"handle": "evertonblairjr", "account_type": "campaign", "evidence_url": "https://www.evertonblair.com", "evidence": "The 'Everton Blair for Congress' campaign site links x.com/evertonblairjr in its header and footer."}
+  ],
+  "notes": "The official handle is all lowercase as written in the site's link; the account's own display capitalization may differ."
+ },
+ {
+  "id": "F000485",
+  "name": "Clay Fuller",
+  "accounts": [
+   {"handle": "RepClayFuller", "account_type": "official", "evidence_url": "https://fuller.house.gov", "evidence": "The official House site links x.com/RepClayFuller in its header, footer and X section."},
+   {"handle": "Clay4MainStreet", "account_type": "campaign", "evidence_url": "https://clayfullerforgeorgia.com/", "evidence": "The 'Clay Fuller for Congress' campaign site, paid for by Clay Fuller for Congress, links x.com/Clay4MainStreet."}
+  ],
+  "notes": "clayfuller.com returned an empty page and is not his site; his campaign site was found through branch.vote."
+ }
+]

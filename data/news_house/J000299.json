@@ -1,0 +1,126 @@
+{
+  "bioguide": "J000299",
+  "member": "Mike Johnson",
+  "searches": [
+    "Mike Johnson artificial intelligence (restricted to mikejohnson.house.gov and speaker.gov)",
+    "Speaker Mike Johnson superintelligence",
+    "Mike Johnson AI extinction existential risk hoax",
+    "Speaker Johnson AI pause moratorium slowdown",
+    "Speaker Mike Johnson AI agreement treaty China talks",
+    "\"Mike Johnson\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "venue": "Remarks to reporters at a news conference",
+      "quote": "What the president is saying is, you're not all going to be dead in 10 years. That's a hoax.",
+      "context": "Asked about warnings from AI researchers that superintelligence could end humanity, Johnson echoed President Trump in calling the extinction warnings a hoax, comparing them to climate warnings and suggesting they were timed for the election.",
+      "source_label": "Courthouse News, 15 September 2026",
+      "url": "https://courthousenews.com/johnson-echoes-trump-hoax-claim-over-catastrophic-ai-warnings/",
+      "read_at_source": true,
+      "level": "F",
+      "flags": [],
+      "reason": "He calls warnings that AI could kill everyone within ten years a hoax, which dismisses catastrophic risk from AI itself."
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "CNN State of the Union interview",
+      "quote": "But we also, at the same time, have to resist Congress jumping in and imposing some sort of emergency moratorium,",
+      "context": "Asked about AI leaders' calls for a slowdown, he says companies may slow down if they wish but Congress must not impose a moratorium because China would overtake the US, and proposes a meeting with AI leaders instead.",
+      "source_label": "TheWrap, 13 September 2026",
+      "url": "https://www.thewrap.com/industry-news/tech/mike-johnson-punts-ai-regulation/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Opposing a moratorium is a policy position, not a dismissal of catastrophic risk, and he names no catastrophic risk."
+    },
+    {
+      "date": "2026-09-29",
+      "venue": "Press remarks after White House meeting with President Trump and superintelligence industry leaders",
+      "quote": "Safety and innovation are not mutually exclusive pursuits.",
+      "context": "Johnson describes the newly signed voluntary 'White House Accord on Super Intelligence' and says the companies are committed to product safety while the US keeps its edge over China.",
+      "source_label": "Rep. Mike Johnson press release, 29 September 2026",
+      "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2939",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He talks about product safety and voluntary commitments for superintelligence companies but names no catastrophic risk; the page contains no words about danger, threat, loss of control or catastrophe."
+    },
+    {
+      "date": "2026-09-29",
+      "venue": "CNBC Squawk Box interview",
+      "quote": "But I think a little oversight, little transparency, a little external auditing of what's going on",
+      "context": "Asked about balancing AI innovation and safety, he says he has resisted blanket moratoriums and hyper-regulation because the US cannot lose its edge to China, but some oversight would calm people's nerves.",
+      "source_label": "Rep. Mike Johnson press release (CNBC interview), 29 September 2026",
+      "url": "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2938",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Supports light oversight and safe products without acknowledging any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "no",
+      "note": "On 13 and 15 September 2026 and again on 28 and 29 September he said Congress must not impose a moratorium on AI development because the US would lose its edge to China. He also said 'If they want to slow it down, they should' about AI companies acting voluntarily, so he accepts voluntary company slowdowns but opposes a required one.",
+      "sources": [
+        [
+          "CNN State of the Union via TheWrap, 13 Sep 2026",
+          "https://www.thewrap.com/industry-news/tech/mike-johnson-punts-ai-regulation/"
+        ],
+        [
+          "Courthouse News, 15 Sep 2026",
+          "https://courthousenews.com/johnson-echoes-trump-hoax-claim-over-catastrophic-ai-warnings/"
+        ],
+        [
+          "Fox Business interview, 28 Sep 2026",
+          "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2937"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "no",
+      "note": "Same statements: 'we cannot have a moratorium on the development of AI because then we will lose our edge to China' (15 Sep 2026) and 'We do not need a moratorium' (28 Sep 2026).",
+      "sources": [
+        [
+          "Courthouse News, 15 Sep 2026",
+          "https://courthousenews.com/johnson-echoes-trump-hoax-claim-over-catastrophic-ai-warnings/"
+        ],
+        [
+          "CNN State of the Union via TheWrap, 13 Sep 2026",
+          "https://www.thewrap.com/industry-news/tech/mike-johnson-punts-ai-regulation/"
+        ],
+        [
+          "Fox Business interview, 28 Sep 2026",
+          "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2937"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; he speaks only of keeping an edge over China. A dedicated search found nothing.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Joint statement with Scalise, Guthrie, Jordan and Babin welcoming the Trump administration's national AI framework and pledging House legislation that gives innovators certainty, protects consumers and prioritizes kids' online safety (no catastrophic risk mentioned).",
+      "Rep. Mike Johnson press release, 20 March 2026",
+      "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2860"
+    ],
+    [
+      "House passed the Ratepayer Protection Act, making companies building data centers responsible for electricity and grid upgrades; Johnson's statement frames it as winning the AI race against China at home.",
+      "Rep. Mike Johnson press release, 16 September 2026",
+      "https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2935"
+    ]
+  ],
+  "suggested_grade": "F",
+  "grade_reason": "On 15 September 2026 he called warnings that AI could kill everyone within ten years 'a hoax', which dismisses catastrophic risk itself; no A, B or C statement was found. His other 2026 remarks (opposing a moratorium, voluntary safety commitments, light oversight) are D.",
+  "notes": "All 7 searches ran (6 required plus one on the Ban Artificial Superintelligence Act). The F quote was read through a page-fetching tool that returns text via a summarizing model; one fetch showed curly apostrophes, the other straight, so the reviewer should check apostrophes character by character. Truthout (citing a Politico live update of 15 Sep 2026, which could not be opened) gives a slightly different wording of the same remarks: 'Everybody says we're all ... going to be dead in 10 years,' and 'What the president is saying is you're not all going to be dead in 10 years.' Mediaite reports he told Fox Business that AI doomsday warnings are a 'Chinese psyop'; the page returned 403 and no other source confirmed it, so it is left out. Axios (13 Sep 2026) returned 403. On CNN (13 Sep 2026, via TheWrap) he also said 'We don't need everybody to panic right now,' which leans dismissive but does not dismiss catastrophic risk explicitly; left out. Other D material left out: Fox Business interview 28 Sep 2026 'We do not need a moratorium.' (https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2937); Hill and Valley Forum keynote 24 Mar 2026 (https://mikejohnson.house.gov/news/documentsingle.aspx?DocumentID=2862). Ban Artificial Superintelligence Act (H.R. 10538, Casar): FastDemocracy lists Reps. Hoyle, Lynch and Tonko as cosponsors and other reports name House Democrats; nothing shows Johnson as sponsor or cosponsor. No House letter about AI risk signed or led by him was found; many-signer letters addressed to him (10 August and 15 September 2026) were excluded per instructions. Statements from the earlier attempt (press releases of 28 and 29 Sep 2026) were kept; they were read via the same summarizing fetch tool and should be spot-checked."
+}

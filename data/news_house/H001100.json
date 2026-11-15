@@ -1,0 +1,24 @@
+{
+  "bioguide": "H001100",
+  "member": "Jeff Hurd",
+  "searches": [
+    "site:hurd.house.gov artificial intelligence",
+    "Rep. Jeff Hurd superintelligence",
+    "Jeff Hurd Colorado AI extinction existential risk",
+    "Jeff Hurd AI pause slowdown moratorium",
+    "Jeff Hurd China AI agreement treaty",
+    "\"Jeff Hurd\" \"AI safety\"",
+    "\"Rep. Jeff Hurd\" artificial intelligence"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Jeff Hurd about AI was found in news results or on his official site.",
+  "notes": "Seven web searches ran; none were refused. Every AI-related result was about Will Hurd, the former Texas congressman (for example his OpenAI board and 'extinction-level event' remarks), not Jeff Hurd of Colorado; these were excluded. The site search on hurd.house.gov returned nothing from that site. Opened https://hurd.house.gov/media and https://hurd.house.gov/media/press-releases directly: the newest items shown were dated February 2026 and none mentioned AI; later items (March to November 2026) did not appear in what was fetched, so the official-site check is incomplete. The site's own search page (https://hurd.house.gov/search) returned HTTP 403. No source showed him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act or signing a House letter on AI risk (not independently checked on congress.gov)."
+}

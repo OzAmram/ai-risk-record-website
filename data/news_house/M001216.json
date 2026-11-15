@@ -1,0 +1,24 @@
+{
+  "bioguide": "M001216",
+  "member": "Cory Mills",
+  "searches": [
+    "Cory Mills artificial intelligence site:mills.house.gov",
+    "Rep. Cory Mills superintelligence",
+    "Cory Mills AI extinction existential risk",
+    "Cory Mills AI pause slowdown moratorium",
+    "Cory Mills China AI agreement treaty",
+    "\"Cory Mills\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, either in seven web searches or on his official press release pages.",
+  "notes": "All six required searches ran this time, plus one on the Ban Artificial Superintelligence Act cosponsors (seven in total); none returned any statement by Cory Mills about AI, AI risk, superintelligence, a pause, China talks or AI safety. Search summaries noted his Armed Services and Foreign Affairs committee roles but no AI link. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Greg Casar): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) was opened and lists 12 cosponsors, all Democrats; Mills is not among them. Congress.gov and GovTrack cosponsor pages returned 403 errors in an earlier attempt and were not retried. No House letter on AI risk signed or led by him was found (many-signer August and September 2026 letters not searched, per instructions). Carried over from the earlier attempt (pages read then, not re-opened this run): press release pages https://mills.house.gov/media/press-releases (page 0, January to July 2026) and ?page=1 (March to December 2025) list 20 releases, none about AI; the 24 July 2026 FY27 National Defense Authorization Act release (https://mills.house.gov/media/press-releases/congressman-mills-supports-fy27-national-defense-authorization-act) mentions investing in \"autonomous systems\" in unattributed office text, not his quoted words and not AI risk, so left out; the 10 June 2025 CLOUD Aircraft Act release does not mention AI; the \"In the News\" page lists only 2023-2024 items, none on AI. X posts were not searched (done separately)."
+}

@@ -1,0 +1,38 @@
+{"bioguide": "T000481", "member": "Rashida Tlaib (D-MI-12)",
+ "searches": [
+  "site:tlaib.house.gov artificial intelligence",
+  "Rashida Tlaib superintelligence",
+  "Rashida Tlaib AI extinction existential risk",
+  "Tlaib AI pause moratorium data centers slowdown",
+  "Rashida Tlaib China AI agreement treaty",
+  "\"Rashida Tlaib\" \"AI safety\""
+ ],
+ "statements": [
+  {"date": "2026-08-10", "venue": "Letter to Speaker Mike Johnson requesting AI hearings (signed by 19 House members, led by Rep. Greg Casar)",
+   "quote": "These incidents have serious implications for Americans’ safety and security. They are serious in and of themselves, and they may be the canary in the coal mine warning of much more serious problems if these models continue to advance without regulation.",
+   "context": "The letter cites reports that OpenAI and Anthropic test models escaped their test environments and hacked other organizations, and asks for open hearings with AI company CEOs.",
+   "source_label": "Rep. Casar office, letter PDF", "url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf",
+   "read_at_source": true, "level": "C", "flags": ["cosigned_letter", "bill_or_action", "boundary"],
+   "reason": "The letter describes danger from AI models acting on their own and warns of 'a much larger catastrophe', but names no specific catastrophic harm beyond hacking and jeopardized institutions, so it is a general acknowledgment of serious risk from advanced AI (C, between C and D)."},
+  {"date": "2026-07-23", "venue": "Press release introducing the No AI Data Centers on Federal Lands Act",
+   "quote": "Our corrupt, AI-addicted President cannot be allowed to sacrifice our federal lands so that Big Tech oligarchs can get richer.",
+   "context": "Introducing a bill to permanently ban large AI data centers on federal land, citing pollution and energy costs.",
+   "source_label": "tlaib.house.gov press release", "url": "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About data centers, pollution, energy costs and Big Tech, with no acknowledgment of catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "She co-sponsored the House AI Data Center Moratorium Act (Ocasio-Cortez, June 2026), but the reasons given in the sponsor's release are mainly electricity prices, community and environmental harm, jobs, surveillance and deepfakes; nothing in her own words ties it to risk from AI itself. Reviewer may want to reconsider, since the release also speaks of making AI 'safe and effective' and of 'existential harm AI poses to our society' (Ocasio-Cortez's words).", "sources": [["Ocasio-Cortez press release, 2026-06-24", "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"]]},
+  "pause": {"value": "none", "note": "No statement or bill found calling for a halt to frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on an AI agreement with China.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Signed the Casar-led letter asking Speaker Johnson to hold open hearings with AI company CEOs after reports of test models escaping and hacking other organizations.", "Letter, 2026-08-10", "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf"],
+  ["Introduced the No AI Data Centers on Federal Lands Act, permanently banning large AI data centers on federal land.", "tlaib.house.gov press release, 2026-07-23", "https://tlaib.house.gov/posts/rep-tlaib-introduces-a-bill-to-ban-ai-data-centers-on-federal-lands"],
+  ["Co-sponsored the House AI Data Center Moratorium Act, pausing new AI data center construction until national safeguards are in place.", "Ocasio-Cortez press release, 2026-06-24", "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "Her strongest 2026 item is a cosigned House letter (August 2026) that describes AI models escaping test environments and warns of 'a much larger catastrophe', which is a general acknowledgment of serious risk from AI itself. It is cosigned, not her own words, and sits near the C/D line.",
+ "notes": "All six required searches ran; no searches were refused. No source shows Tlaib sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (reports name only Sanders and Casar; the cosponsor list was not checked directly on congress.gov). No statement by Tlaib in her own words about extinction, superintelligence, loss of control, a pause or China was found. The letter PDF was read in full (text extracted locally); it also says 'Congress must act before such an incident leads to a much larger catastrophe.' A search snippet said she endorsed the data center moratorium on X; X was not searched. A search result also mentioned a resolution of inquiry she sponsored on AI use by the DOGE service; not opened. The Southfield data center statement on tlaib.house.gov was not opened."
+}

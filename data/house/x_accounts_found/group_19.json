@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ELECT-PA-01-HARVIE",
+    "name": "Bob Harvie",
+    "accounts": [
+      {
+        "handle": "Bobharvie_PA01",
+        "account_type": "campaign",
+        "evidence_url": "https://whyy.org/articles/bob-harvie-congress-brian-fitzpatrick/",
+        "evidence": "The WHYY article's sentence 'Bucks County Commissioner Bob Harvie announced Thursday that he will run for Congress' links 'announced' to the post x.com/Bobharvie_PA01/status/1907795153437229088."
+      }
+    ],
+    "notes": "His campaign site bobharvieforcongress.com has no X link (checked homepage and subpages). Ballotpedia could not be fetched. Evidence is a news article linking his announcement post, not his own site. Capitalization copied from the article's link."
+  },
+  {
+    "id": "ELECT-PA-03-RABB",
+    "name": "Chris Rabb",
+    "accounts": [
+      {
+        "handle": "chrisrabb",
+        "account_type": "campaign",
+        "evidence_url": "https://chrisrabb.com/",
+        "evidence": "The 'Chris Rabb For Congress' campaign site links to https://x.com/chrisrabb alongside facebook.com/chrisrabbCD03 and instagram.com/chrisrabb."
+      }
+    ],
+    "notes": "Account is likely his long-standing personal account used by the campaign; labeled campaign because the campaign site links it. Did not look for a state-House official account, since that is not a federal office."
+  },
+  {
+    "id": "ELECT-PA-07-BROOKS",
+    "name": "Bob Brooks",
+    "accounts": [
+      {
+        "handle": "VoteBobBrooks",
+        "account_type": "campaign",
+        "evidence_url": "https://brooksforcongress.com/",
+        "evidence": "The 'Bob Brooks for Congress' campaign site (named by the firefighters' union as his campaign site) links to x.com/VoteBobBrooks and instagram.com/votebobbrooks."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "ELECT-PA-08-COGNETTI",
+    "name": "Paige Cognetti",
+    "accounts": [
+      {
+        "handle": "PaigeGCognetti",
+        "account_type": "campaign",
+        "evidence_url": "https://paigeforpa.com/",
+        "evidence": "The 'Paige Cognetti For Congress' campaign site links to https://x.com/PaigeGCognetti alongside facebook.com/PaigeForPA and instagram.com/PaigeForPA."
+      }
+    ],
+    "notes": "Possibly a personal account used by the campaign. Did not search for a Scranton mayoral office account."
+  },
+  {
+    "id": "ELECT-PA-10-STELSON",
+    "name": "Janelle Stelson",
+    "accounts": [
+      {
+        "handle": "janellestelson",
+        "account_type": "campaign",
+        "evidence_url": "https://janellestelson.com/",
+        "evidence": "The 'Janelle Stelson for Congress' campaign site links to https://x.com/janellestelson alongside facebook.com/janellestelson and instagram.com/janellestelson."
+      }
+    ],
+    "notes": "A search result showed a post at x.com/JanelleStelson, so capitalization on X is probably JanelleStelson; handle written here exactly as the campaign site writes it (X handles are case-insensitive)."
+  },
+  {
+    "id": "ELECT-SC-01-LACORE",
+    "name": "Nancy Lacore",
+    "accounts": [
+      {
+        "handle": "nancylacore",
+        "account_type": "campaign",
+        "evidence_url": "https://nancylacore.com/",
+        "evidence": "The 'Nancy Lacore for Congress | South Carolina SC-01' campaign site links to https://x.com/nancylacore alongside her Facebook, Instagram and Bluesky accounts."
+      }
+    ],
+    "notes": "News reports as of early November 2026 said the SC-1 race was razor-thin and possibly uncalled; her winner status is as given in the input, not verified here."
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "bioguide": "P000622",
+  "member": "Jimmy Patronis",
+  "searches": [
+    "Patronis artificial intelligence (restricted to patronis.house.gov)",
+    "Jimmy Patronis superintelligence",
+    "Patronis AI extinction existential risk",
+    "Patronis AI pause slowdown moratorium",
+    "Patronis China AI agreement treaty",
+    "\"Jimmy Patronis\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "venue": "Press release",
+      "quote": "If Big Tech wants to build a massive data center and use massive amounts of electricity, they should pay for the power and infrastructure they need, not hardworking families and small businesses.",
+      "context": "He voted to advance H.R. 9340, the Ratepayer Protection Act, meant to keep consumers from paying for rising utility costs caused by AI data centers.",
+      "source_label": "House press release",
+      "url": "https://patronis.house.gov/media/press-releases/congressman-patronis-votes-to-advance-legislation-to-protect-consumers-from-rising-utility-costs-driven-by-ai-data-centers",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About electricity costs of AI data centers, which is outside catastrophic risk, so D."
+    },
+    {
+      "date": "2026-09-14",
+      "venue": "Local TV news interview",
+      "quote": "but unfortunately there's a lot of unknowns, and I'm worried about our kids.",
+      "context": "In a story on AI power and safety, he praised AI as a technology that will develop cures, then voiced worry about children and pushed his bill to repeal Section 230 so AI and tech companies can be held responsible.",
+      "source_label": "WEAR News (Pensacola)",
+      "url": "https://weartv.com/news/local/northwest-florida-lawmakers-business-leaders-weigh-in-on-ai-power-and-safety",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The worry named is harm to children, which is outside catastrophic risk, so D."
+    },
+    {
+      "date": "2026-04-07",
+      "venue": "Press release",
+      "quote": "Now we’re learning the shooter may have interacted with ChatGPT before carrying this out.",
+      "context": "He called for accountability for Big Tech and repeal of Section 230 after a lawsuit linked ChatGPT to the April 2025 Florida State University shooting.",
+      "source_label": "House press release",
+      "url": "https://patronis.house.gov/media/press-releases/congressman-patronis-calls-for-accountability-as-lawsuit-linked-chatgpt-in-florida-state-university-shooting",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About a chatbot's possible role in one shooting and platform liability, not catastrophic risk from AI, so D."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development; his data center remarks are about electricity costs, not AI risk.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Voted to advance H.R. 9340, the Ratepayer Protection Act, on utility costs from AI data centers.", "House press release, 17 September 2026", "https://patronis.house.gov/media/press-releases/congressman-patronis-votes-to-advance-legislation-to-protect-consumers-from-rising-utility-costs-driven-by-ai-data-centers"],
+    ["Introduced H.R. 4873 to codify the executive order against 'woke' AI in the federal government (political bias in federal AI tools).", "House press release, 5 August 2025", "https://patronis.house.gov/media/press-releases/congressman-patronis-introduces-bill-to-prevent-woke-ai-in-the-federal-government"],
+    ["Sponsors the PROTECT Act (H.R. 7045) to repeal Section 230, which he links to harms from AI chatbots to children.", "House press release, 7 April 2026", "https://patronis.house.gov/media/press-releases/congressman-patronis-calls-for-accountability-as-lawsuit-linked-chatgpt-in-florida-state-university-shooting"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 remarks on AI are about children's safety, chatbot liability under Section 230 and data center electricity costs, all level D. No statement about catastrophic AI risk was found.",
+  "notes": "All six required web searches ran this time, plus one extra on the Ban Artificial Superintelligence Act. The superintelligence, extinction, pause and China searches returned nothing about him. The Ban Artificial Superintelligence Act (H.R. 10538, Casar) cosponsors found in search results were Democrats; no source shows Patronis sponsored or co-signed it or any other House letter on AI risk, though a full cosponsor list on congress.gov was not opened. The WEAR quote was read through a page tool that returns the article's quotations in fragments; the chosen fragment is one continuous quoted passage, but the tool may have straightened apostrophes, so a reviewer should confirm exact punctuation. In the same article he also said AI is 'fantastic' and will 'develop cures for the greatest diseases', and said not to expect Washington to be 'the creator of the solution'. The 17 September 2026 quote was assembled by an earlier run from two fetches of the same page; a reviewer should confirm the exact wording. The 8 June 2026 release on an AI chatbots town hall with Florida Attorney General Uthmeier contains no direct quote from him. The 2025 'woke AI' release is about political bias, level D. Earlier run checked press release pages 1 and 2 of 11 on patronis.house.gov (1 July to 12 November 2026)."
+}

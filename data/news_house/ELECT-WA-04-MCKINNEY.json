@@ -1,0 +1,56 @@
+{
+  "bioguide": "ELECT-WA-04-MCKINNEY",
+  "member": "Amanda McKinney",
+  "searches": [
+    "Amanda McKinney Yakima artificial intelligence",
+    "Amanda McKinney congress campaign AI safety",
+    "\"McKinney\" Washington 4th district superintelligence OR \"artificial intelligence\"",
+    "Amanda McKinney AI extinction OR existential risk",
+    "Amanda McKinney AI pause OR moratorium OR \"data center\"",
+    "Amanda McKinney China AI agreement OR treaty",
+    "Amanda McKinney Ban Artificial Superintelligence Act",
+    "Amanda McKinney for Congress issues technology AI",
+    "mckinneyforcongress Amanda McKinney official campaign site",
+    "artificial intelligence (restricted to mckinneyforwashington.com)"
+  ],
+  "statements": [
+    {
+      "date": "2026-11-14",
+      "venue": "Campaign website, issues section \"Innovation, Artificial Intelligence, and American Leadership\"",
+      "quote": "She believes the United States must lead in artificial intelligence and advanced technologies, not surrender leadership to China or other adversaries. Amanda opposes heavy-handed regulation that stifles innovation or drives jobs overseas.",
+      "context": "Her campaign's statement of her position on AI and technology policy, written in the third person.",
+      "source_label": "McKinney for Washington campaign website",
+      "url": "https://www.mckinneyforwashington.com/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes American leadership in AI over China and opposes heavy-handed regulation, without acknowledging catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; her campaign site frames AI as a race not to surrender to China.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only found remark on AI is campaign-site text calling for US leadership in AI and opposing heavy-handed regulation; nothing found about catastrophic risk.",
+  "notes": "10 web searches ran; none was refused. The domain-restricted search on mckinneyforwashington.com returned unrelated results, so the campaign homepage was opened directly (it has no separate issues pages). The campaign page is undated; the statement date given is the date it was read (2026-11-14), and it was presumably written during the 2026 campaign. The text is third-person campaign material, not a direct spoken quote. No source shows her co-sponsoring the Ban Artificial Superintelligence Act (she is not a sitting member) or signing any AI letter. No news, debate or county-commission statements about AI found. The iVoterGuide questionnaire page has no AI questions answered; Ballotpedia page returned empty content."
+}

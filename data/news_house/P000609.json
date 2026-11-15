@@ -1,0 +1,24 @@
+{
+ "bioguide": "P000609",
+ "member": "Gary J. Palmer",
+ "searches": [
+  "site:palmer.house.gov artificial intelligence",
+  "Gary Palmer superintelligence",
+  "Gary Palmer AI existential risk extinction",
+  "Rep. Gary Palmer AI pause slowdown moratorium",
+  "Gary Palmer China AI agreement treaty",
+  "\"Gary Palmer\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Palmer"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found since 1 January 2025.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found since 1 January 2025.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found since 1 January 2025.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found since 1 January 2025.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Palmer about AI made since 1 January 2025 was found in news or on his official site; his only AI remarks found are from December 2023 and concern military competition with China.",
+ "notes": "All 7 searches ran; none were refused. The search on the Ban Artificial Superintelligence Act (H.R. 10538) found no source naming Palmer as a cosponsor; reports describe House cosponsors as Democrats, but the congress.gov cosponsor page returned HTTP 403, so this was not confirmed at source. Outside the date window: a Fox News interview reprinted on palmer.house.gov, dated 18 December 2023 (https://palmer.house.gov/media-center/in-the-news/top-republican-talks-ai-arms-race-youll-have-machines-competing-each-other), has him saying 'We've got to develop it. It's got to be managed.' and 'Whoever controls artificial intelligence and quantum computing will control the battlefield.' This is military use and competition with China (level D under rulings 3 and 5) and predates 2025, so it is not included. The September 2025 Oversight subcommittee hearing on the future of AI lists Palmer only on the full committee roster; he did not speak. The ten most recent press releases on palmer.house.gov (April to September 2026) show no AI topic, though the page shows truncated text. Search results about 'Palmer' and AI risk concerned other people (Martha Palmer of CU Boulder, Lisa Palmer), not this representative."
+}

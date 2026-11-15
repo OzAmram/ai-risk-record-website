@@ -1,0 +1,21 @@
+{"bioguide": "B001301", "member": "Jack Bergman",
+ "searches": [
+  "site:bergman.house.gov artificial intelligence",
+  "\"Jack Bergman\" \"AI safety\"",
+  "Rep. Jack Bergman superintelligence AI 2026",
+  "\"Jack Bergman\" AI extinction OR \"existential risk\"",
+  "\"Jack Bergman\" AI pause OR slowdown OR moratorium",
+  "\"Jack Bergman\" China AI agreement OR treaty",
+  "Congressman Bergman \"artificial intelligence\" Michigan"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Bergman about AI was found in seven web searches or in the press release lists on his official site (October 2025 to November 2026).",
+ "notes": "All 7 web searches ran this time (the earlier attempt was cut short after 1). None returned any page with a statement by Bergman on AI; the site:bergman.house.gov search returned only pages from other domains, and the news coverage of the Ban Artificial Superintelligence Act and Stop Rogue AI Act found does not name him. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (September 2026); the full co-sponsor list was not checked on congress.gov. Kept from the earlier attempt: his press release list pages (https://bergman.house.gov/news, re-opened this time, and https://bergman.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=2 and Page=3) cover 35 releases from 9 October 2025 to 11 November 2026 and no title or excerpt mentions artificial intelligence, AI or superintelligence; full release texts were not opened. A ClickOnDetroit article of 14 September 2026 on Michigan lawmakers and AI risk was opened and does not mention him. Releases before October 2025, hearing remarks and floor speeches were not checked directly. The site search page (bergman.house.gov/search) returned HTTP 403 in the earlier attempt."}

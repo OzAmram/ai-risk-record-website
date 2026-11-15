@@ -1,0 +1,55 @@
+{
+  "bioguide": "E000301",
+  "member": "Sarah Elfreth",
+  "searches": [
+    "site:elfreth.house.gov artificial intelligence",
+    "Sarah Elfreth \"AI safety\"",
+    "Elfreth superintelligence",
+    "Rep. Sarah Elfreth AI existential risk extinction",
+    "Sarah Elfreth AI pause moratorium data centers",
+    "Congresswoman Elfreth China AI agreement treaty",
+    "\"Elfreth\" \"artificial intelligence\" Maryland congresswoman 2026"
+  ],
+  "statements": [
+    {
+      "date": "2025-12-10",
+      "venue": "Press release on the annual defense bill (National Defense Authorization Act)",
+      "quote": "Requires the Department to update its annual cybersecurity awareness training to include artificial intelligence.",
+      "context": "Her office's list of provisions she advanced in the annual defense bill, under the heading on cyber personnel and cyber and AI readiness.",
+      "source_label": "Elfreth House press release",
+      "url": "https://elfreth.house.gov/media/press-releases/elfreth-advances-maryland-priorities-annual-defense-legislation",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Mentions adding AI to Defense Department cybersecurity training without acknowledging catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI mentions found are lines in her office's 2025 press releases (July and December 2025) about adding AI to Defense Department cybersecurity training, with no acknowledgment of catastrophic risk. No 2026 statement about AI was found; this is a weak D and could reasonably be 'none'.",
+  "notes": "All six required web searches ran this time, plus one extra (seven in total); none was refused. The site-restricted search returned no pages from elfreth.house.gov, and the superintelligence, extinction, pause or moratorium, China agreement and 'AI safety' searches returned nothing mentioning her. The extra search found the December 2025 defense bill release already recorded and a July 2025 release ('Elfreth Votes to Advance Annual Bipartisan Defense Bill', https://elfreth.house.gov/media/press-releases/elfreth-votes-advance-annual-bipartisan-defense-bill, opened) with the same sentence about AI cybersecurity training; it is not added as a separate statement because it is identical. A Bluesky post from her official account (https://bsky.app/profile/elfreth.house.gov/post/3m5yxflbd2226) appeared in a search for her name with 'AI safety', but the page could not be read (no text returned), so its content is unknown. An AFL-CIO scorecard snippet mentions a June 2025 House amendment on banning state AI laws, but does not show how she voted; not recorded. The March 2026 GUARDRAILS Act release from Rep. McClain Delaney (MD-06) does not name Elfreth. No source found shows that she sponsored or co-sponsored the Ban Artificial Superintelligence Act or led or signed any other House letter about AI risk; co-sponsor lists were not checked directly on congress.gov. From the earlier attempt (kept): her official press release listing from 7 November 2026 back to 10 November 2025 was read page by page and no release title or excerpt is about AI; the listing jumped from 24 April 2026 to 27 March 2026 between pages, which may hide a few releases. The 27 July 2026 data center electricity cost release does not mention AI. The quote is the office's own description of a bill provision, not a personal remark by her."
+}

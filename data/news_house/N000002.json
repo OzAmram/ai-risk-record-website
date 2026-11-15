@@ -1,0 +1,60 @@
+{
+  "bioguide": "N000002",
+  "member": "Jerrold Nadler",
+  "searches": [
+    "Nadler artificial intelligence site:nadler.house.gov",
+    "Jerrold Nadler superintelligence",
+    "Nadler AI existential risk extinction",
+    "Nadler AI moratorium pause slowdown 2026",
+    "Nadler China AI agreement treaty",
+    "\"Nadler\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2025-04-02",
+      "venue": "House Judiciary antitrust subcommittee hearing, opening statement",
+      "quote": "it also poses tremendous risks that we are just beginning to grapple with",
+      "context": "Opening statement at a hearing on AI innovation and competition, arguing for a strong Federal Trade Commission and criticizing the administration for removing AI safeguards.",
+      "source_label": "House Judiciary Committee Democrats press release",
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/antitrust-subcommittee-ranking-member-nadler-s-opening-statement-at-hearing-on-artificial-intelligence-innovation-and-competition",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "The risks named in the statement are competition, consumer protection, privacy and algorithmic bias, not catastrophic risk; general wording about tremendous risks could be read as C, so marked boundary."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Filed an amicus brief with Raskin and Johnson in the OpenAI copyright case opposing a national security exception for AI training on copyrighted work (copyright, not catastrophic risk).",
+      "nadler.house.gov press release, 2026-10-30",
+      "https://nadler.house.gov/news/documentsingle.aspx?DocumentID=397539"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI (competition, consumer protection, privacy, copyright) but no statement found acknowledges catastrophic risk; his only general risk remark is from 2025 and is about competition and privacy.",
+  "notes": "All 6 required web searches ran. None found any statement by Nadler on superintelligence, extinction or existential risk, a pause or slowdown, an AI agreement with China, or AI safety beyond the 2 April 2025 hearing statement. The superintelligence search returned coverage of the Ban Artificial Superintelligence Act (Sanders and Casar, September 2026) that does not name Nadler; no source showed him as a co-sponsor, but the full co-sponsor list was not checked directly. In the earlier attempt I opened nadler.house.gov press release list pages 1 and 2 (22 May to 30 October 2026); only the 30 October 2026 copyright amicus release concerns AI, and it has no risk statement; the site search page returned 403. The 2025 quote was re-checked this time against the Judiciary Democrats page (through a page-fetch tool that summarizes pages, so a reviewer may still want to confirm character for character). The same page's introduction says the hearing examined how Trump dismantled AI safeguards, 'leaving Americans vulnerable to the growing dangers of unregulated AI', and the remarks say an AI experiment 'places all of our privacy and security at great risk'; neither names a catastrophic risk, so both are left out. He also gave an opening statement at an IP subcommittee hearing on AI and intellectual property (AI-assisted inventions and creative works), not about risk; not opened. Interviews and broader news coverage beyond these searches were not checked."
+}

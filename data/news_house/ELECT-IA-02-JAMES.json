@@ -1,0 +1,49 @@
+{
+  "bioguide": "ELECT-IA-02-JAMES",
+  "member": "Lindsay James",
+  "searches": [
+    "Lindsay James Iowa AI artificial intelligence",
+    "Lindsay James Congress campaign \"AI safety\"",
+    "Lindsay James Dubuque superintelligence OR \"artificial intelligence\" 2026",
+    "\"Lindsay James\" AI extinction OR \"existential risk\" OR \"loss of control\"",
+    "\"Lindsay James\" AI pause OR moratorium OR slowdown OR \"data center\"",
+    "\"Lindsay James\" China AI agreement OR treaty",
+    "Lindsay James for Congress Iowa campaign website issues technology"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-08",
+      "venue": "Iowa Press debate, Iowa's 2nd congressional district (Iowa PBS)",
+      "quote": "I'm a mom with kids, and so I feel deeply concerned about the advancement of technology.",
+      "context": "Asked whether she supports regulating AI, given President Trump's opposition; she called for guardrails to protect kids, jobs and consumers from rising energy costs, and named limits on endless scrolling and social media for kids.",
+      "source_label": "Iowa PBS, Iowa Press debate transcript",
+      "url": "https://www.pbs.org/video/iowa-press-debates-2nd-congressional-district-st6rnw/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She calls for AI guardrails for kids, jobs and energy costs but names no catastrophic risk."
+    },
+    {
+      "date": "2026-11-14",
+      "venue": "Campaign website, issues page (Kids Over Clicks)",
+      "quote": "With the rise of social media and AI – it’s never been scarier to be a parent.",
+      "context": "Campaign platform section on children's screen time and big tech.",
+      "source_label": "lindsayforiowa.com issues page",
+      "url": "https://lindsayforiowa.com/issues",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Concern about AI is limited to children and parenting, which is outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "In a 2026 debate and on her campaign site she supports AI guardrails for kids, jobs and energy costs, but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "Seven web searches ran; none was refused. As a state representative she is not in Congress, so she could not co-sponsor the Ban Artificial Superintelligence Act and did not sign the House letters. The debate transcript was read through a page-fetch tool that returned excerpts; the quote is as the tool gave it and the exact wording should be checked against the transcript. The campaign issues page date is the date viewed, not a publication date (unknown). A KTTC article (8 October 2026) lists regulating AI and data centers among debate topics but quotes nothing from her on AI. Her Iowa House legislative record on AI was not searched separately."
+}

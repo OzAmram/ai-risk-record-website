@@ -1,0 +1,79 @@
+{
+  "bioguide": "J000288",
+  "member": "Henry C. \"Hank\" Johnson, Jr.",
+  "searches": [
+    "Hank Johnson artificial intelligence (restricted to hankjohnson.house.gov)",
+    "Rep. Hank Johnson superintelligence",
+    "Hank Johnson AI extinction existential risk",
+    "Hank Johnson AI pause slowdown moratorium",
+    "Hank Johnson China AI agreement treaty",
+    "\"Hank Johnson\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Hank Johnson"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "venue": "House Judiciary subcommittee hearing, opening statement",
+      "quote": "This manufactured attack on international cooperation comes at a time when our world faces threats that no one country can solve alone – from climate change to the increasingly unchecked development of artificial intelligence.",
+      "context": "At a hearing on the International Criminal Court, he cited an OpenAI test in which agents hacked Hugging Face's servers and an Anthropic model hacking an external system unprompted, and called for robust safety standards and cooperation with allies.",
+      "source_label": "Rep. Hank Johnson press release",
+      "url": "https://hankjohnson.house.gov/media-center/press-releases/subcommittee-ranking-member-johnsons-opening-statement-hearing-trumps-0",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He names unchecked AI development as a world threat no country can solve alone, alongside climate change, and describes AI acting without instruction, but names no catastrophic consequence beyond hacking, so it sits between C and D."
+    },
+    {
+      "date": "2025-09-18",
+      "venue": "House Judiciary subcommittee hearing, opening statement",
+      "quote": "But caveat emptor is effectively what advocates of a moratorium are suggesting we revert to when we talk about an AI moratorium.",
+      "context": "Hearing on federal preemption of state AI laws; the moratorium he opposes is a moratorium on state AI laws, not on AI development.",
+      "source_label": "House Judiciary Committee Democrats press release",
+      "url": "https://democrats-judiciary.house.gov/media-center/press-releases/subcommittee-ranking-member-johnson-s-opening-statement-at-hearing-on-federal-preemption-of-state-ai-laws",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About consumer protection and preemption of state AI laws, with no mention of catastrophic risk."
+    },
+    {
+      "date": "2025-05-07",
+      "venue": "House Judiciary subcommittee hearing, opening statement",
+      "quote": "But I think it’s a false choice to say we can succeed, but only if we do so irresponsibly.",
+      "context": "Hearing on trade secrets and the global AI race with China; he called for minimum cybersecurity standards and intellectual property protections.",
+      "source_label": "Rep. Hank Johnson press release",
+      "url": "https://hankjohnson.house.gov/media-center/press-releases/subcommittee-ranking-member-johnsons-opening-statement-hearing",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About competition with China, cybersecurity and intellectual property, not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development. His 2025 remarks against a 'moratorium' concern a moratorium on state AI laws, not on AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; in September 2026 he called for collaborating with allies on AI-augmented cybersecurity and autonomous weapons, which does not count.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "C",
+  "grade_reason": "His strongest statement, from 15 September 2026, calls the increasingly unchecked development of AI a threat no one country can solve alone and cites AI systems hacking servers without instruction; this is a general acknowledgment of serious risk (C), marked boundary because the only concrete harm named is hacking, which ruling 4 would put at D.",
+  "notes": "Seven web searches ran; none was refused. Many results concerned Speaker Mike Johnson (R-LA), who dismissed catastrophic AI warnings; those are a different person and were excluded. A reviewer should decide the C versus D boundary on the 15 September 2026 statement: he names AI acting on its own (OpenAI agents hacking Hugging Face, an Anthropic model hacking an external system), then asks 'what happens when these same capabilities are in the hands of someone who intends harm?' (misuse, no catastrophic harm named) and calls for 'robust safety standards'. If judged D, the suggested grade becomes D. Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar): no source found shows Johnson as a cosponsor, but the full cosponsor list on Congress.gov was not checked. No House letter about AI risk led by him was found (many-signer August and September 2026 letters not searched, per instructions). Not included: his 30 June 2026 hearing remarks on protecting creators in the age of AI (copyright and privacy, level D), seen only in a search summary and a press release title. Press release listing pages 0 to 5 on hankjohnson.house.gov were scanned for AI titles."
+}

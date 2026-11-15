@@ -1,0 +1,37 @@
+{
+  "bioguide": "D000197",
+  "member": "Diana DeGette",
+  "searches": [
+    "site:degette.house.gov artificial intelligence",
+    "Diana DeGette superintelligence",
+    "Diana DeGette AI extinction existential risk",
+    "Diana DeGette AI pause moratorium slowdown",
+    "Diana DeGette China AI agreement treaty",
+    "\"DeGette\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-09-03",
+      "venue": "Energy and Commerce Health Subcommittee hearing, opening statement as prepared for delivery",
+      "quote": "But today, instead of focusing on the concerns that all our constituents have about the destruction of public health in this country, we are holding a broad hearing on AI that was hastily put together as a distraction.",
+      "context": "As ranking member, she opened a hearing on AI in health care by criticizing the majority for holding it instead of oversight hearings on the Department of Health and Human Services and the CDC.",
+      "source_label": "congress.gov hearing document (Energy and Commerce opening statement)",
+      "url": "https://www.congress.gov/119/meeting/house/118560/documents/HHRG-119-IF14-MState-D000197-20250903.pdf",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Her only AI remark found is about committee priorities, not about any risk from AI, and it does not dismiss catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken about AI only in a September 2025 health hearing, calling the AI hearing a distraction from public health oversight; no statement about catastrophic AI risk was found in 2025 or 2026.",
+  "notes": "Seven web searches ran, none refused. The official site press release page (June to October 2026) showed no AI releases; earlier pages were not checked. She is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act, on fastdemocracy.com (12 cosponsors listed); congress.gov returned 403 so the official list was not checked. Search summaries paraphrased her hearing remarks (AI merits study; AI should augment, not replace, clinicians); these paraphrases come from AI-generated search summaries of trade press (Medical Economics, AMCP update) and were not turned into quotes. A search snippet mentioned a 2026 primary opponent claiming she took campaign money from industries including AI; this is not her statement. Her questioning of witnesses at the 3 September 2025 hearing was not read in the transcript."
+}

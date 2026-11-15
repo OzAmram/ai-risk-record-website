@@ -1,0 +1,60 @@
+{
+  "bioguide": "V000134",
+  "member": "Beth Van Duyne",
+  "searches": [
+    "Van Duyne artificial intelligence (restricted to vanduyne.house.gov)",
+    "Beth Van Duyne superintelligence",
+    "Beth Van Duyne AI extinction existential risk",
+    "Beth Van Duyne AI pause slowdown moratorium",
+    "Beth Van Duyne China AI agreement treaty",
+    "\"Van Duyne\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-06-03",
+      "venue": "Press release introducing the CREATOR Act",
+      "quote": "Artists, illustrators, and designers in every district are watching their livelihoods be undercut by AI tools deliberately impersonating them, but right now, the law has no answer for it.",
+      "context": "Introducing the bipartisan CREATOR Act with Reps. Clarke and Foushee, which would give visual artists a federal right against commercial use of AI-generated works that impersonate their style.",
+      "source_label": "House press release",
+      "url": "https://vanduyne.house.gov/2026/6/reps-van-duyne-clarke-and-foushee-introduce-bipartisan-creator-act-to-protect-creators-with-visual-artistic-protections",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The statement is about AI impersonating artists and harming their income, which is outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the bipartisan CREATOR Act with Reps. Clarke and Foushee, giving visual artists a federal right against commercial use of AI-generated works that impersonate their style.",
+      "House press release, 3 June 2026",
+      "https://vanduyne.house.gov/2026/6/reps-van-duyne-clarke-and-foushee-introduce-bipartisan-creator-act-to-protect-creators-with-visual-artistic-protections"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI remarks found in 2026 concern AI tools impersonating artists (the CREATOR Act), with no acknowledgment of catastrophic risk.",
+  "notes": "All 6 required web searches ran this time (official-site search plus superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement or treaty, and name plus 'AI safety'). Only the official-site search returned anything about her and AI: the CREATOR Act release (3 June 2026) and the 2025 Creators Caucus launch, which does not mention AI. The other five returned nothing mentioning her. An earlier attempt also opened page 1 of 22 of her official press releases (10 releases, 21 May to 5 October 2026); none mentions AI risk. The CREATOR Act page was reopened this time; the page-reading tool again returned the quote in two consecutive pieces (split at 'AI tools'), rejoined with a single space, so a reviewer should confirm the exact wording on the page. Ban Artificial Superintelligence Act: the Congress.gov cosponsor page (H.R. 10538) returned HTTP 403 again, so it could not be checked; no source found shows her as sponsor or cosponsor. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Not checked directly: hearing remarks and floor speeches beyond what the searches surfaced."
+}

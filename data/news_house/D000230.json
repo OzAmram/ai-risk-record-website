@@ -1,0 +1,66 @@
+{
+  "bioguide": "D000230",
+  "member": "Donald G. Davis",
+  "searches": [
+    "Don Davis artificial intelligence site:dondavis.house.gov",
+    "Rep. Don Davis North Carolina superintelligence",
+    "Congressman Don Davis AI extinction existential risk",
+    "Don Davis NC-01 AI pause slowdown moratorium data centers",
+    "Rep. Don Davis China AI agreement treaty talks",
+    "\"Don Davis\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-16",
+      "venue": "Press release",
+      "quote": "Feeding America is national security, and the future of agriculture will depend on our ability to innovate.",
+      "context": "Davis and Rep. Zach Nunn introduced the FARM AI Act to speed up the use of artificial intelligence in American agriculture through USDA research and workforce programs.",
+      "source_label": "House press release (dondavis.house.gov)",
+      "url": "https://dondavis.house.gov/media/press-releases/davis-nunn-introduce-bipartisan-bill-put-artificial-intelligence-work-north",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "He promotes the use of AI in farming and does not acknowledge any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development. His data center tax bill (H.R. 10448) asks for time to understand costs to power grids, water systems and utility bills, not risk from AI itself.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the bipartisan FARM AI Act with Rep. Zach Nunn to speed up AI adoption in agriculture (House companion to a Budd and Schiff Senate bill).",
+      "dondavis.house.gov press release, 16 July 2026",
+      "https://dondavis.house.gov/media/press-releases/davis-nunn-introduce-bipartisan-bill-put-artificial-intelligence-work-north"
+    ],
+    [
+      "Co-led with Rep. Kristen McDonald Rivet H.R. 10448, the Reverse Big Ugly Tax Breaks for Data Centers Act, to deny data centers two tax benefits, citing effects on power grids, water systems and utility costs.",
+      "dondavis.house.gov press release, 17 September 2026",
+      "https://dondavis.house.gov/media/press-releases/reps-davis-mcdonald-rivet-lead-new-push-stop-tax-giveaways-data-centers"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related material found in 2026 is a bill promoting AI in agriculture and a data center tax bill about local costs, neither of which acknowledges catastrophic risk from AI. Seven web searches found no statement by him on AI risk, superintelligence, a pause or China talks.",
+  "notes": "All seven required web searches ran (site search of dondavis.house.gov, superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement, name with 'AI safety', Ban Artificial Superintelligence Act cosponsors). None returned a statement by Rep. Don Davis of NC-01 on catastrophic AI risk; the 'AI safety' search returned only other people named Davis (Zack Davis, Ernie Davis), who are not him. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): congress.gov cosponsor page returned 403; the fastdemocracy.com bill page lists 12 cosponsors and Davis is not among them (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), so he is treated as not a cosponsor, though that list may lag congress.gov. No House AI-risk letter signed by him (outside the centrally handled many-signer letters) was found. Both press releases were reopened this run and match the stored wording and dates (16 July 2026 FARM AI Act; 17 September 2026 H.R. 10448). The page-fetch tool returns excerpts, so the FARM AI quote should still be spot-checked at the source. The data center release quotes him in fragments (for example 'we cannot give data centers a blank check' and 'We need time to fully understand the costs and consequences of these projects'); these concern local costs, not AI, and were left out of statements. An earlier pass opened his official press release listing for all of 2026 (about 68 releases) and found no other AI titles; release bodies were not all opened, and 2025 hearing remarks and floor speeches were not checked individually."
+}

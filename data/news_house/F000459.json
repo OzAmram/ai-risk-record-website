@@ -1,0 +1,53 @@
+{
+  "bioguide": "F000459",
+  "member": "Charles J. \"Chuck\" Fleischmann",
+  "searches": [
+    "site:fleischmann.house.gov artificial intelligence",
+    "Chuck Fleischmann superintelligence",
+    "Chuck Fleischmann AI existential risk extinction",
+    "Fleischmann AI pause moratorium slowdown",
+    "Chuck Fleischmann China AI agreement treaty",
+    "\"Chuck Fleischmann\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-16",
+      "venue": "Press release on FY27 Department of Energy budget hearing",
+      "quote": "I am working with my colleagues to support the aggressive pace of the Administration to do just that, whether it’s unleashing our energy abundance or revolutionizing scientific discovery with artificial intelligence through the Genesis Mission,",
+      "context": "As Energy and Water Appropriations chairman, he praised the Energy Department's agenda, including the Genesis Mission to use AI for scientific discovery.",
+      "source_label": "House press release",
+      "url": "https://fleischmann.house.gov/media/press-releases/chairman-chuck-fleischmann-hosts-secretary-chris-wright-for-the-fy27-doe-budget-hearing",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI for scientific discovery without acknowledging any catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found in 2026 promote AI-driven science through the Energy Department's Genesis Mission; nothing acknowledging catastrophic risk was found.",
+  "notes": "All 7 web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act); none returned any statement by Fleischmann on superintelligence, extinction or existential risk, a pause or slowdown, a China AI agreement, or AI safety. The site-restricted search returned no fleischmann.house.gov pages, so the official site was checked directly in the earlier attempt: home page, page 1 of press releases (10 items, March to September 2026), page 1 of In the News (2025 items), the FY27 Energy and Water bill release of 15 May 2026 and the FY27 DOE budget hearing release of 16 April 2026 (re-opened this time; wording and date confirmed). The 15 May 2026 release mentions the Genesis Mission and AI only in press-office text, not in his words. The 16 April 2026 release also has him encouraged by the department's focus on research areas including artificial intelligence; not added as a separate statement. An In the News item of 30 April 2025 (op-ed 'The time to forge America's nuclear energy future is now') mentions advancements in AI in an energy context; not opened. Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 September 2026): search results name only Democratic cosponsors and none show Fleischmann; Congress.gov cosponsor list was not checked directly. No other House AI-risk letter signed by him was found. Older press release pages (64 pages in all) were not reviewed."
+}

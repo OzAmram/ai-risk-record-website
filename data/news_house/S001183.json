@@ -1,0 +1,40 @@
+{
+  "bioguide": "S001183",
+  "member": "David Schweikert",
+  "searches": [
+    "Schweikert artificial intelligence (restricted to schweikert.house.gov)",
+    "David Schweikert superintelligence",
+    "Schweikert AI extinction existential risk",
+    "Schweikert AI pause slowdown moratorium",
+    "Schweikert China AI agreement treaty",
+    "\"Schweikert\" \"AI safety\"",
+    "Schweikert AI 2026 \"Ban Artificial Superintelligence Act\" OR artificial intelligence risk"
+  ],
+  "statements": [
+    {
+      "date": "2025-03-27",
+      "venue": "Regulating AI podcast interview, reposted on his House website",
+      "quote": "I don’t think society is completely ready for a natural language voicemail you get that sounds like your grandma or a video like this where someone has taken our language and changed us, and I see chaos coming in society,",
+      "context": "Discussing AI voice cloning, deepfakes and society's readiness for AI adoption.",
+      "source_label": "schweikert.house.gov (In The News), 27 March 2025",
+      "url": "https://schweikert.house.gov/2025/03/27/were-in-trouble-congressman-david-schweikert-on-ai-adoption-societal-resistance-on-regulating-ai/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The 'chaos' he warns of comes from deepfakes and voice-cloning scams, which the rubric places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development. A 2025 article paraphrases him calling for international cooperation against malicious AI use, which is not about pacing frontier AI and is not his quoted words.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the Healthy Technology Act of 2025 (H.R. 238), which would let AI and machine learning technologies count as practitioners able to prescribe FDA-approved drugs; promotes AI, not about catastrophic risk.", "schweikert.house.gov press release, 5 February 2025", "https://schweikert.house.gov/2025/02/05/healthy-technology-act-of-2025-ai-prescribing-bill-introduced-in-congress/"],
+    ["Two amendments adopted in the fiscal year 2026 defense authorization bill, one directing the Defense Department to use AI to audit its financial statements; promotes AI use, not about catastrophic risk.", "schweikert.house.gov, 26 September 2025", "https://schweikert.house.gov/2025/09/26/congress-votes-yay-on-rep-schweikerts-ndaa-amendments-2025/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He speaks often about AI, mostly promoting its use in health care, government efficiency and auditing, but no statement acknowledging catastrophic AI risk was found. His strongest risk remark (2025) is about deepfakes and voice-cloning scams, which is level D.",
+  "notes": "Seven web searches ran; none was refused. Search results for Schweikert on catastrophic AI risk were empty, so the search may still be incomplete. Pages opened: the 27 March 2025 interview post (quote checked word for word against the page HTML), the site's Innovation & AI issue page, and page 1 of the 2026 post archive (posts from 10 June to 3 September 2026; none about AI). Only the first page of the 2026 archive was checked. Paraphrases left out: the 27 March 2025 article paraphrases him saying international cooperation is needed to curb malicious AI use and that regulations should be flexible; the Innovation & AI issue page says the technology is moving faster than regulatory rules (not graded; undated). A 2024 floor speech on foreign AI disinformation was seen only in a search summary and is before 2025. Ban Artificial Superintelligence Act (H.R. 10538, Casar): no source shows Schweikert as a sponsor or cosponsor; the full cosponsor list was not checked on Congress.gov. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

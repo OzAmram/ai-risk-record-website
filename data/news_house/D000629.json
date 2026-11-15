@@ -1,0 +1,29 @@
+{"bioguide": "D000629", "member": "Sharice Davids",
+ "searches": [
+  "Sharice Davids artificial intelligence site:davids.house.gov",
+  "Sharice Davids superintelligence",
+  "Sharice Davids AI extinction existential risk",
+  "Sharice Davids AI pause slowdown moratorium",
+  "Sharice Davids China AI agreement treaty",
+  "\"Sharice Davids\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-10-20", "venue": "Press release on roundtable with KC Tech Council and local business owners, Overland Park",
+   "quote": "Artificial intelligence holds incredible promise for our small businesses, but we cannot ignore the real dangers.",
+   "context": "A roundtable on AI, energy infrastructure and business innovation; the dangers she goes on to name are AI products putting kids at risk and communities paying for AI energy infrastructure.",
+   "source_label": "House press release", "url": "https://davids.house.gov/media/press-releases/davids-local-business-owners-discuss-responsible-ai-industry-growth",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "The dangers she names are harm to children and energy costs, which are outside catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "The 20 October 2026 release subtitle mentions tech executives advocating slowdowns to AI, but no slowdown position is attributed to Davids.", "sources": [["House press release, 2026-10-20", "https://davids.house.gov/media/press-releases/davids-local-business-owners-discuss-responsible-ai-industry-growth"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found; she is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her one AI statement found (October 2026) talks about real dangers but names only harm to children and energy costs, not catastrophic risk. Six required web searches found no statement by her on superintelligence, extinction, a pause, China talks or AI safety.",
+ "notes": "All six required web searches ran this time, plus one extra on Ban Artificial Superintelligence Act co-sponsors; none of the searches found a statement by Davids on catastrophic AI risk. Her davids.house.gov media page lists only one AI item, the 20 October 2026 roundtable release (one search result snippet dated it 6 October, but the page itself says 20 October). Other quoted sentences in that release (kids at risk, energy infrastructure bills, balancing economic growth and keeping families safe) are also D and were not added separately. Paraphrase left out: the release says the roundtable focused on balancing economic growth and safety regulations. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy bill page lists 12 co-sponsors and Davids is not among them; congress.gov returned 403, so the official list was not checked and she may have joined later. No other House AI-risk letter of her own was found. Older press releases from 2025 to mid-2026 were not reviewed page by page."
+}

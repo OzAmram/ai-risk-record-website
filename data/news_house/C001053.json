@@ -1,0 +1,24 @@
+{
+  "bioguide": "C001053",
+  "member": "Tom Cole",
+  "searches": [
+    "Tom Cole artificial intelligence (restricted to cole.house.gov)",
+    "\"Tom Cole\" superintelligence",
+    "\"Tom Cole\" AI extinction OR \"existential risk\"",
+    "\"Tom Cole\" AI pause OR slowdown OR moratorium",
+    "\"Tom Cole\" China AI agreement OR treaty",
+    "\"Tom Cole\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI since January 2025 was found in seven web searches or on his official site, so there is nothing to grade.",
+  "notes": "All seven searches ran this time (six required plus one on the Ban Artificial Superintelligence Act); none returned anything by Rep. Tom Cole about AI risk, superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. The official-site search found only old or unrelated pages: a 2024 Congressional App Challenge winner announcement (a student app that uses AI), a 'Cole on Congress' episode where the AI remark was made by guest Will Hurd, not Cole, and the Science and Technology issues page, which I opened and which does not mention AI. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats, and Cole is not among them; Congress.gov was not checked (it returned HTTP 403 in the earlier attempt). No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). From the earlier attempt: the press release listing on cole.house.gov (pages 1 to 5, 22 September 2025 to 11 November 2026, 50 releases) showed no title or visible text mentioning AI; full bodies of most releases were not opened. Hearing remarks and floor speeches were not checked directly; as Appropriations Committee chairman he may have made AI remarks in hearings that these searches would miss."
+}

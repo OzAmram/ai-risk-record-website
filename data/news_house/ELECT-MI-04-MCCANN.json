@@ -1,0 +1,25 @@
+{
+  "bioguide": "ELECT-MI-04-MCCANN",
+  "member": "Sean McCann",
+  "searches": [
+    "Sean McCann Michigan artificial intelligence",
+    "Sean McCann superintelligence",
+    "\"Sean McCann\" AI extinction OR \"existential risk\"",
+    "\"McCann\" Michigan congress AI pause OR moratorium OR slowdown OR \"data center\"",
+    "\"Sean McCann\" China AI agreement OR treaty",
+    "\"Sean McCann\" \"AI safety\"",
+    "Sean McCann state senator Kalamazoo artificial intelligence bill OR statement",
+    "Sean McCann 4th congressional district campaign AI"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Sean McCann about AI, let alone catastrophic AI risk, was found from 1 January 2025 onward in news, his state Senate pages, or campaign coverage.",
+  "notes": "8 web searches ran, none refused. No result tied McCann to AI. Opened WMUK's 28 August 2026 campaign profile (https://www.wmuk.org/wmuk-news/2026-08-28/sean-mccann-says-hell-fight-for-affordability-and-against-corruption-if-hes-elected-to-congress): his priorities were affordability and corruption, with no AI mention. ClickOnDetroit's 14 September 2026 Michigan AI risk article does not mention him. Axios 29 October 2026 'Dems to test AI backlash in key House races' returned 403; the Benton summary of it names Michigan but no districts or candidates. Did not search his state Senate bill list (senatedems.com/mccann) page by page; a state-level AI bill co-sponsorship could have been missed. No evidence he sponsored the Ban Artificial Superintelligence Act (he was not a House member)."
+}

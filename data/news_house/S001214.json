@@ -1,0 +1,24 @@
+{
+  "bioguide": "S001214",
+  "member": "W. Gregory Steube",
+  "searches": [
+    "Steube artificial intelligence (restricted to steube.house.gov)",
+    "Greg Steube superintelligence",
+    "Steube AI extinction existential risk",
+    "Steube AI pause slowdown moratorium",
+    "Steube China AI agreement treaty",
+    "\"Steube\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He has mentioned AI only in passing (a 2025 op-ed clause about adversaries exploiting AI advances, and a 2026 bill on AI-based license plate reader surveillance), never catastrophic risk. This is a borderline D; 'none' would also be defensible since none of it is a substantive statement about AI.",
+  "notes": "All seven web searches ran this time (six required plus one on the Ban Artificial Superintelligence Act). Only the official-site search returned anything about this Steube; the superintelligence, extinction, pause, China and 'AI safety' searches found nothing about him (one superintelligence result was about Rep. Greg Casar, a different member). Left out of statements: (1) his 10 September 2025 Washington Times op-ed on U.S. intelligence shortcomings, released on his site (https://steube.house.gov/press-releases/icymi-rep-steube-pens-op-ed-in-the-washington-times-on-u-s-intelligence-shortcomings/), says adversaries 'exploit advances in artificial intelligence, open-source data and cyber capabilities' while the intelligence community relies on legacy systems; a passing mention about intelligence modernization (D at most), and the fetch tool returned only part of the sentence, so the full exact wording was not confirmed. (2) The 24 September 2026 FLAFO Act release on Flock Safety license plate readers (https://steube.house.gov/press-releases/rep-steube-introduces-flafo-act-to-rein-in-warrantless-flock-safety-surveillance/) mentions AI and machine learning only in background narration and bill text, not in his quoted words; surveillance and privacy are D. (3) A FY2027 appropriations request (https://steube.house.gov/wp-content/uploads/2026/03/USF-Veterans-AI-FedNex.pdf) for $3.75 million for a University of South Florida AI training program for veterans; promoting AI is D and not a statement of belief. Ban Artificial Superintelligence Act (H.R. 10538, sponsor Rep. Greg Casar): no source shows Steube as a cosponsor; Congress.gov returned 403 and the Quiver Quantitative page gives a count of 9 cosponsors without names, so this was not fully verified. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Not checked in depth: hearing remarks and floor speeches beyond what the searches surfaced."
+}

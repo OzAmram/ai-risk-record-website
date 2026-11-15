@@ -1,0 +1,31 @@
+{"bioguide": "S001199", "member": "Lloyd Smucker",
+ "searches": [
+  "Smucker artificial intelligence site:smucker.house.gov",
+  "Lloyd Smucker superintelligence",
+  "Lloyd Smucker AI extinction existential risk",
+  "Lloyd Smucker AI pause slowdown moratorium",
+  "Lloyd Smucker China AI agreement treaty",
+  "\"Lloyd Smucker\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-09-16", "venue": "Press release",
+   "quote": "America should lead the world in artificial intelligence, but we must ensure hardworking families and small businesses",
+   "context": "Smucker backing the Ratepayer Protection Act (H.R. 9340), which would make large data centers cover the added electricity costs they cause.",
+   "source_label": "Smucker House press release", "url": "https://smucker.house.gov/media/press-releases/smucker-backs-bill-protect-ratepayers-data-center-energy-costs",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About data center energy costs and AI leadership, with no acknowledgment of catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found; the data center bill he backed is about electricity costs, not AI risk.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Voted for the Ratepayer Protection Act (H.R. 9340), requiring consideration of standards making large data centers pay for added grid costs; not about AI risk.", "Smucker House press release, 2026-09-16", "https://smucker.house.gov/media/press-releases/smucker-backs-bill-protect-ratepayers-data-center-energy-costs"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI remark found (September 2026) is about data center energy costs and American AI leadership, with nothing on catastrophic risk.",
+ "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 total). None of the five topic searches (superintelligence, extinction, pause, China agreement, AI safety) returned anything by or about Smucker. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy cosponsor page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 Democratic cosponsors and not Smucker; congress.gov returned 403, so this was not confirmed on the official record. From the earlier attempt (kept): smucker.house.gov media listing pages 1-5 (items from 21 Nov 2025 to 6 Oct 2026) were opened, and only the 16 Sep 2026 data center release mentions AI; earlier 2025 releases and hearing remarks were not checked page by page. The quote is the first part of a longer sentence; the page fetch tool truncated it, and the rest says families and small businesses should not pay for data centers' energy demand. A 118th Congress joint hearing on AI and economic growth lists him as a member, but it predates 2025 and his remarks were not seen."
+}

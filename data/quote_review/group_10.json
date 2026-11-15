@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "K000389",
+  "member": "Ro Khanna",
+  "url": "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake",
+  "quote": "we need to begin envisioning what an actual treaty to save humanity from unchecked AI would look like.",
+  "result": "wording_differs",
+  "evidence_url": "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake",
+  "context": "take today. ANTHROPIC CEO LIKENS AI FIGHT WITH CHINA TO COLD WAR, SEEKS 'DISARMAMENT NEGOTIATIONS' Critically, we also need to begin envisioning what an actual treaty to save humanity from unchecked AI would look like. The risk that humans will lose control of AI or that misaligned models could unleash biological ha",
+  "corrected_quote": "Critically, we also need to begin envisioning what an actual treaty to save humanity from unchecked AI would look like.",
+  "date_ok": true,
+  "explanation": "The op-ed, bylined Ro Khanna and dated October 2, 2026, has this sentence but with 'also' after 'we' ('we also need to begin envisioning...'), so the stored quote drops a word."
+ },
+ {
+  "bioguide": "P000034",
+  "member": "Frank Pallone, Jr.",
+  "url": "https://democrats-energycommerce.house.gov/sites/evo-subsites/democrats-energycommerce.house.gov/files/evo-media-document/2026.10.27-multi-committee-letter-re-ai-incident-reporting-to-openai.pdf",
+  "quote": "These incidents are driven both by behaviors within the models that allow them to act against the intent of their developer, often referred to as misalignment, and an insufficiency of guardrails implemented by the developer to prevent loss of control.",
+  "result": "confirmed",
+  "evidence_url": "https://democrats-energycommerce.house.gov/sites/evo-subsites/democrats-energycommerce.house.gov/files/evo-media-document/2026.10.27-multi-committee-letter-re-ai-incident-reporting-to-openai.pdf",
+  "context": "Some of these incidents also involved unauthorized access to AI companies' own internal 3 networks. These incidents are driven both by behaviors within the models that allow them to act against the intent of their developer, often referred to as misalignment, and an insufficiency of guardrails implemented by the developer to prevent loss of control. These guardrails, including monitoring and control techniques, are not mandated or deployed ubiqui",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The exact sentence is in the letter to Sam Altman dated October 27, 2026, signed by Frank Pallone, Jr., Zoe Lofgren and Jamie Raskin; it is a jointly signed letter, not Pallone alone."
+ },
+ {
+  "bioguide": "R000614",
+  "member": "Chip Roy",
+  "url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+  "quote": "I do think we must have some degree of guardrails and that the same laws and rules that apply to humans are going to have to apply to a world of AI, and there are other existential questions that have to be raised.",
+  "result": "confirmed",
+  "evidence_url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+  "context": "ism.\" \"I do not believe 'we're going to shut it all down' is either plausible or the best solution. I do think we must have some degree of guardrails and that the same laws and rules that apply to humans are going to have to apply to a world of AI, and there are other existential questions that have to be raised,\" Roy said. Republican Kentucky Rep. Thomas Massie mocked Trump's support for AI data centers. \"New",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The Daily Caller (September 15, 2026) quotes Rep. Chip Roy saying these exact words, citing his interview with Politico (the page has a comma, not a period, after 'raised' because the sentence continues with 'Roy said'). The Daily Caller page gives no interview date; a congress.net article dated September 13, 2026 covers the same Politico interview, which supports the September 13 date."
+ },
+ {
+  "bioguide": "R000617",
+  "member": "Delia C. Ramirez",
+  "url": "https://democrats-homeland.house.gov/imo/media/doc/ramirez-06042026.pdf",
+  "quote": "Artificial intelligence development is speeding ahead with nearly no standards, rules, or regulations for how powerful AI tools will be responsibly used.",
+  "result": "confirmed",
+  "evidence_url": "https://democrats-homeland.house.gov/imo/media/doc/ramirez-06042026.pdf",
+  "context": "hearing about the security concerns raised by artificial intelligence comes at an important moment. Artificial intelligence development is speeding ahead with nearly no standards, rules, or regulations for how powerful AI tools will be responsibly used. It does not seem to be a point of debate that we should do something about that… The advent of new",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The exact sentence is in the hearing statement of Subcommittee Ranking Member Delia Ramirez dated June 4, 2026."
+ },
+ {
+  "bioguide": "S000185",
+  "member": "Robert C. \"Bobby\" Scott",
+  "url": "https://democrats-edworkforce.house.gov/download/03/06/2026/opening-statement-1?download=1",
+  "quote": "This is why Congress must take an active role in shaping how AI is integrated into our lives and develop thoughtful regulations that balance protecting students, workers, and families, and fostering economic growth.",
+  "result": "confirmed",
+  "evidence_url": "https://democrats-edworkforce.house.gov/download/03/06/2026/opening-statement-1?download=1",
+  "context": "with big tech CEOs and preventing states from protecting Americans against the dangers posed by AI. This is why Congress must take an active role in shaping how AI is integrated into our lives and develop thoughtful regulations that balance protecting students, workers, and families, and fostering economic growth. Today, we stand at another crossroads of technological advancement, and it is up to Congress to en",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The exact sentence is in Ranking Member Bobby Scott's opening statement for the 'Building an AI-Ready America' hearing, dated Wednesday, January 14, 2026."
+ }
+]

@@ -1,0 +1,109 @@
+{
+ "bioguide": "E000299",
+ "member": "Veronica Escobar",
+ "searches": [
+  "site:escobar.house.gov artificial intelligence",
+  "Veronica Escobar superintelligence",
+  "Veronica Escobar AI extinction existential risk",
+  "Veronica Escobar AI pause slowdown moratorium",
+  "Veronica Escobar China AI agreement treaty",
+  "\"Veronica Escobar\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Escobar"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-17",
+   "venue": "Official website, Artificial Intelligence issue page",
+   "quote": "It would also give the Department of Homeland Security Secretary, Commerce Sectary, and the Director of National Intelligence the authority to slow down or shutdown an AI system that can cause catastrophic harm.",
+   "context": "Her issue page describes her cosponsorship of the AI Kill Switch Act (H.R. 9917), which requires developers of the most powerful AI systems to keep the ability to throttle, suspend or shut them down.",
+   "source_label": "escobar.house.gov issue page (undated)",
+   "url": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "In her own description of a bill she cosponsored, she names catastrophic harm from AI systems themselves, not limited to misuse; it is evidence of action rather than a direct statement of belief, so B/C boundary."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Official website, Artificial Intelligence issue page",
+   "quote": "Urged Speaker Mike Johnson to immediately reconvene the House of Representatives to enable Congress to take urgent action to address catastrophic risk posed by advanced artificial intelligence.",
+   "context": "Her own one-line summary of the 15 September 2026 letter to Speaker Johnson (one of the centrally handled multi-signer letters) on her issue page.",
+   "source_label": "escobar.house.gov issue page (undated)",
+   "url": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "In her own words she says advanced AI poses catastrophic risk, without limiting it to misuse."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Official website, Artificial Intelligence issue page",
+   "quote": "In fact, the U.S. and China should consider a treaty to slow down the AI race before it's too late.",
+   "context": "The introductory text of her AI issue page argues Congress must regulate AI companies and ends with this call for a U.S.-China treaty.",
+   "source_label": "escobar.house.gov issue page (undated)",
+   "url": "https://escobar.house.gov/issues/issue/?IssueID=15511",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "\"Before it's too late\" acknowledges serious risk from the AI race in general terms without naming a catastrophic harm; the surrounding paragraph is about privacy, jobs and accountability, so C/D boundary."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "Her issue page says the U.S. and China should consider a treaty to slow down the AI race before it's too late; the safety motive is implied by 'before it's too late' rather than stated, and 'should consider' is soft.",
+   "sources": [
+    [
+     "escobar.house.gov AI issue page",
+     "https://escobar.house.gov/issues/issue/?IssueID=15511"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "yes",
+   "note": "Her own words call for the U.S. and China to consider a treaty to slow down the AI race; she also co-signed the 17 September 2026 Ansari letter asking for strategic stability talks with the PRC (that letter alone would be about crisis communication rather than pacing).",
+   "sources": [
+    [
+     "escobar.house.gov AI issue page",
+     "https://escobar.house.gov/issues/issue/?IssueID=15511"
+    ],
+    [
+     "Ansari press release, 17 Sep 2026",
+     "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Cosponsored the AI Kill Switch Act (H.R. 9917), requiring developers of the most powerful AI systems to keep the ability to throttle, suspend or shut them down, and letting officials slow or shut down an AI system that can cause catastrophic harm.",
+   "escobar.house.gov AI issue page (undated; congress.gov page could not be opened)",
+   "https://escobar.house.gov/issues/issue/?IssueID=15511"
+  ],
+  [
+   "Co-signed Rep. Ansari's letter (45 signers) urging President Trump to start international AI negotiations, including strategic stability talks with the PRC and a consensus to keep AI out of domains with catastrophic risks such as nuclear or chemical weapons command and biohazard production.",
+   "Ansari press release, 2026-09-17",
+   "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "On her own 2026 AI issue page she describes advanced AI as posing catastrophic risk and an AI system that can cause catastrophic harm (not limited to misuse), and calls for a U.S.-China treaty to slow the AI race; no dismissive statements found. Both B statements are descriptions of actions (a bill and a letter), so a reviewer may prefer C.",
+ "notes": "All 6 required web searches ran this time, plus 1 on the Ban Artificial Superintelligence Act (7 total). None of them returned any page that mentions Escobar: the site: search returned only other house.gov domains, and the topic searches returned general coverage and other members (Casar, Khanna, Sanders, Ocasio-Cortez). So all statements come from her official AI issue page, which I re-downloaded on 2026-11-13 and checked that all three quotes still appear verbatim. The issue page has no date; 2026-09-17 is the earliest possible date, since it lists actions from 15-17 September 2026. Earlier run also opened her home page, press release list (latest 10, none on AI), the 17 Sep 2026 release (DocumentID=3364, Beyer letter, no quotes from her) and the 5 Oct 2026 Fort Bliss data center statement (no AI mention). Her issue page also lists the 15 Sep letter to Speaker Johnson (Liccardo release), the 16 Sep Beyer letter and the 18 Sep letter to Rubio and Bessent on U.S.-China talks; these are centrally handled multi-signer letters and are left out of the record, but her own one-line summary of the 15 Sep letter is included as a statement because it is her own wording. No source found showing she sponsored or co-sponsored the Ban Artificial Superintelligence Act (H.R. 10538); search results list Casar as House sponsor and report about ten House Democrat cosponsors without naming her, but the congress.gov cosponsor list was not checked (congress.gov returned 403 in the earlier run), so this is not confirmed either way. The H.R. 9917 introduction date and her cosponsorship date could not be confirmed. No interviews, floor speeches or news reports quoting her on AI risk were found. The first quote keeps the page's typo 'Sectary'."
+}

@@ -1,0 +1,25 @@
+{"bioguide": "D000399", "member": "Lloyd Doggett",
+ "searches": [
+  "site:doggett.house.gov artificial intelligence",
+  "Lloyd Doggett superintelligence",
+  "Lloyd Doggett AI extinction existential risk",
+  "Lloyd Doggett AI pause slowdown moratorium",
+  "Lloyd Doggett China AI agreement treaty",
+  "\"Doggett\" \"AI safety\"",
+  "Lloyd Doggett artificial intelligence 2026",
+  "\"Ban Artificial Superintelligence Act\" cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Listed as a cosponsor of H.R. 5360, a bill directing the Federal Trade Commission to develop educational resources on the safe and responsible use of AI chatbots by minors (child safety, not catastrophic risk).", "Congressional Record Index 2026, entry for Doggett, page H3395, 12 May 2026", "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-DOGGETT-LLOYD-6A3D96.htm"]
+ ],
+ "suggested_grade": "none",
+ "grade_reason": "All required searches ran and found no statement by Doggett about AI, and no remarks on AI in his 2026 Congressional Record index. His only AI-related record is co-sponsoring a bill on AI chatbots and minors, which is outside the project's scope; a reviewer could reasonably treat that as D instead of none.",
+ "notes": "All six required searches ran this time, plus two extra (eight in total); none returned anything by Doggett on AI risk, superintelligence, extinction, a pause or slowdown, or China talks. The Congressional Record Index 2026 entry for Doggett (govinfo) lists no AI remarks; its only AI item is the H.R. 5360 cosponsorship in `record`. Ban Artificial Superintelligence Act (H.R. 10538, Sanders/Casar, introduced 23 September 2026 per Akin Gump): no source shows Doggett as a cosponsor, but this is not confirmed either way. The congress.gov cosponsor page returned HTTP 403, and a Forkast article names only Ocasio-Cortez among the ten House Democratic cosponsors it reports. Official site: the press release listing page (https://doggett.house.gov/media/press-releases) was re-opened this time and its ten releases (31 July to 5 November 2026) have no AI topic. The earlier attempt also checked pages 1 to 3 of that listing (back to 22 September 2025), also with no AI titles; only titles were checked, not the full text. Releases before 22 September 2025, interviews and hearing remarks were covered only through the web searches. The one 'Doggett' plus 'AI safety' search returned nothing about him. No paraphrases were left out."
+}

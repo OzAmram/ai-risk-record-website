@@ -1,0 +1,65 @@
+{
+  "bioguide": "T000193",
+  "member": "Bennie G. Thompson",
+  "searches": [
+    "Bennie Thompson artificial intelligence (restricted to benniethompson.house.gov)",
+    "\"Bennie Thompson\" superintelligence",
+    "\"Bennie Thompson\" AI extinction OR \"existential risk\"",
+    "\"Bennie Thompson\" AI pause OR slowdown OR moratorium",
+    "\"Bennie Thompson\" AI China agreement OR treaty",
+    "\"Bennie Thompson\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-04",
+      "venue": "Homeland Security subcommittee hearing statement (The AI Security Landscape: How Frontier Models, Agentic AI, and AI Coding Tools Are Reshaping Cybersecurity and Critical Infrastructure Resilience)",
+      "quote": "To overcome these challenges, we are going need sustained attention on the cybersecurity threats posed by frontier AI models that remains in place even as the headlines fade.",
+      "context": "Opening statement as Ranking Member on frontier AI models finding and exploiting cybersecurity vulnerabilities, criticizing the Trump administration's executive order and cuts to the cybersecurity agency CISA.",
+      "source_label": "House Homeland Security Committee Democrats, hearing statement PDF",
+      "url": "https://democrats-homeland.house.gov/download/bgt-06042026?download=1",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The risks named are cybersecurity threats from frontier AI, which is not catastrophic risk under the rubric."
+    },
+    {
+      "date": "2026-03-17",
+      "venue": "Homeland Security subcommittee hearing statement (DeepSeek and Unitree Robotics: Examining the National Security Risks of PRC Artificial Intelligence, Robotics, and Autonomous Technologies)",
+      "quote": "The President has also recklessly ceded America’s competitive edge in AI by permitting the sale of high-powered AI chips to the PRC.",
+      "context": "Opening statement as Ranking Member on Chinese AI, intellectual property theft of US AI models, and cuts to CISA.",
+      "source_label": "House Homeland Security Committee Democrats, hearing statement PDF",
+      "url": "https://democrats-homeland.house.gov/download/bgt-03172026?download=1",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Competition with China over AI is not catastrophic AI risk under ruling 5."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; his March 2026 statement speaks of working with allies to keep a competitive edge, which does not count.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 he spoke about AI as Homeland Security ranking member, but only about cybersecurity threats from frontier models and competition with China; no statement acknowledging catastrophic risk was found.",
+  "notes": "7 web searches ran this time (the 6 required plus one on Ban Artificial Superintelligence Act cosponsors); none were refused, so the search is complete. An earlier attempt had all searches refused and only checked press release titles on benniethompson.house.gov and the Homeland Security Democrats site; nothing from it needed changing. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 Sep 2026 by Casar): Thompson is not on the cosponsor list shown by fastdemocracy.com (12 names); congress.gov returned 403, so not confirmed there. An ABC News / Good Morning America video dated 23 Sep 2026 (https://www.goodmorningamerica.com/video/136696954) is described as 'Rep. Bennie Thompson discusses potential AI safeguards and the technology's implications for national security', but no transcript was available, so his words could not be checked; a reviewer may want to watch it. A June 2025 statement (democrats-homeland.house.gov/download/bgt-ai-cyber-open-0612) returned HTTP 410 and was not read; search snippets suggest it was about AI security and safety risks in general. A December 2025 'Hour of AI' student event press release on his site is about AI education only. Search results also returned Rep. Mike Thompson (CA), a different member; nothing from him is used."
+}

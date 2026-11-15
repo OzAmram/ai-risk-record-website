@@ -1,0 +1,37 @@
+{
+  "bioguide": "ELECT-PA-01-HARVIE",
+  "member": "Bob Harvie",
+  "searches": [
+    "Bob Harvie artificial intelligence AI",
+    "Bob Harvie Congress campaign AI safety",
+    "\"Harvie\" Bucks County superintelligence OR \"existential risk\" OR extinction AI",
+    "\"Bob Harvie\" AI pause OR moratorium OR \"data center\"",
+    "\"Bob Harvie\" China AI agreement OR treaty",
+    "\"Bob Harvie\" \"AI safety\" OR \"artificial intelligence\" Fitzpatrick",
+    "Bob Harvie congressional campaign issues technology"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-10",
+      "venue": "Campaign TV ad",
+      "quote": "I don't want any more data centers. I want a moratorium. Big tech owns enough; they shouldn't own our congressman, too,",
+      "context": "His first general-election TV ad against Rep. Brian Fitzpatrick, calling for a moratorium on new data centers over land, water and electricity costs.",
+      "source_label": "Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/politics/election/bob-harvie-ai-data-centers-stance-tv-ad-20260910.html",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "A data center moratorium motivated by local costs and big tech influence, with no catastrophic risk from AI acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "He calls for a moratorium on new data centers, but ties it to energy costs, water, land, jobs and local control, not to risks from AI itself, so it does not count.", "sources": [["Philadelphia Inquirer, 10 Sep 2026", "https://www.inquirer.com/politics/election/bob-harvie-ai-data-centers-stance-tv-ad-20260910.html"], ["Campaign priorities page", "https://bobharvieforcongress.com/priorities/"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI-related issues in 2026 (a data center moratorium and a ban on AI-driven surveillance pricing) but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "Seven web searches ran; none was refused. Searches on superintelligence, extinction, pause, China and AI safety returned nothing about him. His campaign priorities page (bobharvieforcongress.com/priorities/, undated, read via page fetch) has 'Priority 10: Ban AI Price Manipulation' with the wording 'Increasingly, corporations are using artificial intelligence and personal data to adjust prices and maximize profits.' and a pledge to 'ban AI-driven surveillance pricing on essential goods like groceries' (level D, left out of statements because the page has no date). In an Inquirer interview he also said the data center buildout needs to be slowed down ('to slow down this genie getting out of the bottle'), about data centers, not AI risk. A search-engine summary claimed that at a town hall he said technology advances faster than laws, floated gathering tech CEOs, and said he did not know the right answer on AI; I could not find the source for this (the January 2026 town hall articles I opened in the Bucks County Beacon and Bucks Independence contain no AI remarks), so it is left out. No evidence he sponsored the Ban Artificial Superintelligence Act (he was not in Congress). Not confused with Patrick Harvie, a Scottish politician who shows up in data center searches. Quotes were read through a page-fetch tool that summarizes pages, so a reviewer should check exact wording at source."
+}

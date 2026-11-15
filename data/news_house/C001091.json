@@ -1,0 +1,25 @@
+{
+  "bioguide": "C001091",
+  "member": "Joaquin Castro",
+  "searches": [
+    "site:castro.house.gov artificial intelligence",
+    "Joaquin Castro superintelligence",
+    "Joaquin Castro AI extinction existential risk",
+    "Joaquin Castro AI pause slowdown moratorium",
+    "Joaquin Castro China AI agreement talks",
+    "\"Joaquin Castro\" \"AI safety\"",
+    "Rep. Joaquin Castro artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement by him on slowing AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement by him on pausing AI development was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement by him on coordinating with China on the pace of AI development was found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement by him on banning self-improving AI was found; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "All required searches ran and found no statement of his own about AI since January 2025; his only AI-related activity seen was co-signing the many-signer August 2026 letters led by Rep. Greg Casar, which are handled centrally and do not count here.",
+  "notes": "8 web searches ran this time, none refused (the 6 required plus 2 follow-ups); the earlier attempt had all searches refused. Every search on his name returned nothing about Joaquin Castro and AI; several hits were about Daniel Castro of the Information Technology and Innovation Foundation, a different person. Search results summarised Casar's office pages as listing Castro among signers of the 10 August 2026 letters to Speaker Johnson and to OpenAI/Anthropic led by Casar; these are many-signer letters excluded by instructions, and I did not open the signer lists to confirm. Ban Artificial Superintelligence Act (H.R. 10538): the fastdemocracy.com bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Castro is not among them; his 2026 Congressional Record index entry (https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-CASTRO-JOAQUIN-6A3D96.htm) has no AI-related bills and does not list H.R. 10538. The site: search returned no castro.house.gov pages; from the earlier attempt, the first page of castro.house.gov/media-center/press-releases (22 September to 10 November 2026) showed no AI mention, but older pages of the archive were not checked. No House letter about AI risk led by him was seen."
+}

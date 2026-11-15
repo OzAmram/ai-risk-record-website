@@ -1,0 +1,43 @@
+{
+  "bioguide": "G000606",
+  "member": "Adelita S. Grijalva",
+  "searches": [
+    "site:grijalva.house.gov artificial intelligence",
+    "Adelita Grijalva superintelligence",
+    "Adelita Grijalva AI extinction existential risk",
+    "Adelita Grijalva AI pause moratorium data centers",
+    "Adelita Grijalva China AI agreement treaty",
+    "\"Adelita Grijalva\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Grijalva"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Original co-sponsor (not her own statement) of H.R. 10538, the Ban Artificial Superintelligence Act, whose Section 8 puts every advanced AI system (at least 10^25 training operations) under a mandatory pause until a new federal department is staffed and has issued rules; a pause for safety reasons counts as yes here. Her co-sponsorship of the separate AI Data Center Moratorium Act is not counted, since that bill is motivated mainly by electricity cost, community and environmental impact.",
+      "sources": [["H.R. 10538 introduced text, govinfo.gov", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"]]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "Original co-sponsor of H.R. 10538; its pause on advanced AI systems lasts only until the federal regulator issues rules, i.e. it is conditional on safety rules, which the rubric treats as mixed. No statement of her own found.",
+      "sources": [["H.R. 10538 introduced text, govinfo.gov", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"]]
+    },
+    "intl": {
+      "value": "none",
+      "note": "H.R. 10538 Section 15 tells the Secretary to pursue international agreements and allied coordination to prevent artificial superintelligence, but it does not name China or pacing talks with China; nothing else found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "yes",
+      "note": "Original co-sponsor of H.R. 10538 (not her own statement). Section 9(a) prohibits developing or deploying systems with 'superintelligence precursor characteristics', which Section 3(6) defines to include 'the capacity to automate or greatly accelerate the process of artificial intelligence research and development' and 'the capacity to independently modify or enhance its own functions'; the mandatory pause also covers training 'including through recursive self-improvement'.",
+      "sources": [["H.R. 10538 introduced text, govinfo.gov", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"]]
+    }
+  },
+  "record": [
+    ["Original co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act (House version led by Rep. Greg Casar), which bans artificial superintelligence and its precursor characteristics, including self-improvement and automated AI research, and pauses advanced AI systems until a new federal AI department issues rules.", "Bill text as introduced, 2026-09-24 (govinfo.gov)", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"],
+    ["Co-sponsor of the House version of the Artificial Intelligence Data Center Moratorium Act (led by Rep. Ocasio-Cortez), which would halt new large AI data centers until Congress guarantees they do not raise electricity prices, harm communities or the environment.", "Rep. Ocasio-Cortez press release, 2026-06-24", "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in her own words about AI was found in 2025 or 2026, so there is nothing to grade. Her record is strong on action: she is an original co-sponsor of the Ban Artificial Superintelligence Act, so a reviewer may want to grade on that record.",
+  "notes": "Seven web searches ran (six required plus one on the Ban Artificial Superintelligence Act cosponsors); none was refused, and none returned a statement by Grijalva herself about AI. Her co-sponsorship of H.R. 10538 was confirmed from the bill text as introduced on govinfo.gov, which lists 'Mrs. Grijalva' among the original cosponsors; congress.gov returned 403. The bill's findings quote Hinton, Musk, Russell and Altman on extinction and loss of control, but these are the bill's findings, not her words, so they were not used as a statement. Her data-center moratorium co-sponsorship comes from Rep. Ocasio-Cortez's press release, which has no quote from Grijalva; that release's phrase 'existential harm AI poses to our society' is Ocasio-Cortez's wording. Pages 1 to 5 of grijalva.house.gov press releases (back to 22 June 2026) were checked by title and excerpt and none is about AI; older pages were not checked. Do not confuse her with her father, former Rep. Raul Grijalva (AZ-07, died 2025), who co-signed a December 2024 letter to DHS on AI in immigration decisions (outside the date range). Consistency note: the Velazquez file marks rsi as none for the same bill because the reports read there did not mention self-improvement; the bill text read here does, so rsi is yes here and the Velazquez file may need the same change."
+}

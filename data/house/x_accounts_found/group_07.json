@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ELECT-AZ-06-MENDOZA",
+  "name": "JoAnna Mendoza",
+  "accounts": [
+   {"handle": "Mendoza4AZ", "account_type": "campaign", "evidence_url": "https://joannamendoza.com", "evidence": "Her campaign website (listed as her campaign site on her Wikipedia page) links x.com/Mendoza4AZ in its header and footer."}
+  ],
+  "notes": "Representative-elect, so no official House account exists yet. Ballotpedia could not be opened (blocked)."
+ },
+ {
+  "id": "ELECT-CA-01-MCGUIRE",
+  "name": "Mike McGuire",
+  "accounts": [
+   {"handle": "ilike_mike", "account_type": "campaign", "evidence_url": "https://www.votemikemcguire.com/", "evidence": "His congressional campaign website, linked from his own senatormikemcguire.com as his new campaign site, links x.com/ilike_mike."}
+  ],
+  "notes": "The account is linked from his campaign site but is probably his long-running personal account rather than a campaign-only one; 'campaign' chosen because that is where it is linked. His state senate site (sd02.senate.ca.gov) and senatormikemcguire.com show no X link, so no separate official account was found. mikemcguireforcongress.com is an empty placeholder page."
+ },
+ {
+  "id": "ELECT-CA-04-JONES",
+  "name": "Eric Jones",
+  "accounts": [
+   {"handle": "ericjones_us", "account_type": "campaign", "evidence_url": "https://www.ericjones.us/", "evidence": "His campaign website (the address Ballotpedia and his Bluesky profile give for his campaign) links x.com/ericjones_us."}
+  ],
+  "notes": "Representative-elect; no official House account yet. News reports from 4 November described the CA-4 count as close (he narrowly led Mike Thompson); I did not confirm the final call."
+ },
+ {
+  "id": "ELECT-CA-06-PAN",
+  "name": "Richard Pan",
+  "accounts": [
+   {"handle": "DrPanMD", "account_type": "campaign", "evidence_url": "https://drpanforcongress.com/", "evidence": "His campaign website (drrichardpan.com, listed on Wikipedia, redirects here) links x.com/DrPanMD in its navigation and footer."}
+  ],
+  "notes": "This is likely also his long-standing personal account. Representative-elect; no official House account yet."
+ },
+ {
+  "id": "ELECT-CA-11-WIENER",
+  "name": "Scott Wiener",
+  "accounts": [
+   {"handle": "Scott_Wiener", "account_type": "personal", "evidence_url": "https://sd11.senate.ca.gov", "evidence": "His official California State Senate district site links twitter.com/Scott_Wiener; his campaign site scottwiener.com links the same account."}
+  ],
+  "notes": "Single account used both on his state senate site and campaign site; no separate official or campaign account found. Representative-elect; no official House account yet."
+ },
+ {
+  "id": "ELECT-CA-22-VILLEGAS",
+  "name": "Randy Villegas",
+  "accounts": [
+   {"handle": "Villegas_CA22", "account_type": "campaign", "evidence_url": "https://www.villegasforcongress.com", "evidence": "His campaign website (listed on his Wikipedia page) links x.com/Villegas_CA22."}
+  ],
+  "notes": "Representative-elect; no official House account yet. No separate personal account found."
+ }
+]

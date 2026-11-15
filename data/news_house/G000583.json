@@ -1,0 +1,175 @@
+{
+  "bioguide": "G000583",
+  "member": "Josh Gottheimer",
+  "searches": [
+    "Gottheimer artificial intelligence (restricted to gottheimer.house.gov)",
+    "Josh Gottheimer superintelligence",
+    "Gottheimer AI extinction existential risk",
+    "Gottheimer AI pause slowdown moratorium",
+    "Gottheimer China AI agreement treaty talks",
+    "\"Josh Gottheimer\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-18",
+      "venue": "Prepared remarks at Fairleigh Dickinson University, Teaneck, published as House press release",
+      "quote": "Two weeks ago, an engineer from Anthropic quit his job, declaring that this technology “could kill us all by the end of the decade.” As Bill Gates recently put it, “AI models could begin to act against our interests, and we could lose control.”",
+      "context": "Announcing the American AI Security Act, he cited warnings about AI from an Anthropic engineer and Bill Gates, then said of the dangers he has seen in briefings that 'This is not a hypothetical threat.'",
+      "source_label": "Gottheimer House press release",
+      "url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [
+        "relayed_warning",
+        "boundary"
+      ],
+      "reason": "He relays an extinction warning ('could kill us all') and a loss-of-control warning and endorses them later in the same speech ('This is not a hypothetical threat ... Congress needs to act like it'), so ruling 2 gives the warning's level, A; boundary because the endorsement is general and a few paragraphs away, and B would also be defensible."
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "Prepared remarks at Fairleigh Dickinson University, Teaneck, published as House press release",
+      "quote": "That is exactly the balance we need with AI: compete like hell to win, and put real safety rails in place so winning doesn’t destroy us in the process.",
+      "context": "Closing the speech by comparing the AI race to the Cold War nuclear race and the test ban treaty with the Soviet Union.",
+      "source_label": "Gottheimer House press release",
+      "url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security",
+      "read_at_source": true,
+      "level": "B",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "In his own words he says the AI race could 'destroy us' without limiting the danger to misuse, a catastrophic risk without explicit extinction framing; boundary between B and A (ruling 1) because 'us' may mean the country rather than humanity."
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "Prepared remarks at Fairleigh Dickinson University, Teaneck, published as House press release",
+      "quote": "This is not a hypothetical threat. I’ve concluded that we are at a critical crossroads … on the precipice of changes that none of us can even imagine … and either we are going to get it right, or the ramifications will be unimaginable.",
+      "context": "After describing AI agents escaping a sandbox and the race with China, citing intelligence briefings he has seen.",
+      "source_label": "Gottheimer House press release",
+      "url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [],
+      "reason": "Acknowledges serious risks from advanced AI in general terms without naming a specific catastrophic harm."
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "Press release quote at Fairleigh Dickinson University event",
+      "quote": "That doesn’t work in banking, it doesn’t work in food safety, it doesn’t work in medicine, and it sure as hell shouldn’t work with the technology that experts say could help build a bioweapon or take down our power grid.",
+      "context": "Making the case for the American AI Security Act, which would require national security review of frontier models before release.",
+      "source_label": "Gottheimer House press release",
+      "url": "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "misuse_only",
+        "bill_or_action"
+      ],
+      "reason": "Names AI helping build a bioweapon, a catastrophic harm through misuse only, so C under ruling 1."
+    },
+    {
+      "date": "2026-08-04",
+      "venue": "Press statement",
+      "quote": "The rapid advancement of AI tools is deeply concerning, and so are the serious warnings from the people building them. Just recently, OpenAI and Anthropic models escaped their secure training environments and indiscriminately hacked real-world organizations on their own.",
+      "context": "Statement supporting the 'Pacing the Frontier' letter from frontier AI lab employees calling for an international effort to manage the rate of automated AI development.",
+      "source_label": "Gottheimer House press release",
+      "url": "https://gottheimer.house.gov/posts/statement-gottheimer-supports-pacing-the-frontier-petition-future-of-responsible-ai-innovation",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "relayed_warning",
+        "boundary"
+      ],
+      "reason": "He endorses 'serious warnings from the people building' AI without stating the catastrophic harm himself; the only concrete harm named is hacking (D under ruling 4), so C with boundary."
+    },
+    {
+      "date": "2026-06-02",
+      "venue": "Press statement on White House AI executive order",
+      "quote": "Powerful AI frontier models that exhibit dangerous capabilities, including cybersecurity risks and the potential to create novel bioweapons, must be shared with the government and relevant critical infrastructure entities before they are released to the public.",
+      "context": "Responding to a voluntary White House AI executive order, calling for mandatory pre-release sharing of frontier models with government.",
+      "source_label": "Gottheimer House press release",
+      "url": "https://gottheimer.house.gov/posts/statement-gottheimer-statement-on-white-house-ai-executive-order",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "misuse_only"
+      ],
+      "reason": "Names bioweapons from frontier models, a catastrophic harm through misuse only, so C under ruling 1."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "mixed",
+      "note": "He supports the 'Pacing the Frontier' letter calling for an international effort to manage the rate of automated AI development (4 Aug 2026), but on 18 Sep 2026 he said stopping AI development is 'not a safeguard' because 'China is not slowing down for anybody.'",
+      "sources": [
+        [
+          "Gottheimer statement, 4 Aug 2026",
+          "https://gottheimer.house.gov/posts/statement-gottheimer-supports-pacing-the-frontier-petition-future-of-responsible-ai-innovation"
+        ],
+        [
+          "Gottheimer remarks at FDU, 18 Sep 2026",
+          "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "no",
+      "note": "On 18 Sep 2026 he said: 'The answer isn’t, like some have suggested, to just shut it all down. That’s not tenable.'",
+      "sources": [
+        [
+          "Gottheimer remarks at FDU, 18 Sep 2026",
+          "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "mixed",
+      "note": "Boundary call for the reviewer: he backs an international effort to manage the rate of automated AI development (4 Aug 2026) and cites the Cold War nuclear test ban treaty as the model for 'guardrails' with a rival (18 Sep 2026), but never explicitly calls for an agreement or talks with China on pacing, and he frames AI as a race China must not win. 'none' would also be defensible.",
+      "sources": [
+        [
+          "Gottheimer statement, 4 Aug 2026",
+          "https://gottheimer.house.gov/posts/statement-gottheimer-supports-pacing-the-frontier-petition-future-of-responsible-ai-innovation"
+        ],
+        [
+          "Gottheimer remarks at FDU, 18 Sep 2026",
+          "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No call for a ban on self-improving AI; the 'Pacing the Frontier' letter he supports is about managing the rate of automated AI development, not a ban.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the bipartisan Stop Rogue AI Act with Rep. Lawler, directing NIST to set standards for discovering, verifying, monitoring and controlling AI agents.",
+      "Gottheimer press release, 9 Sep 2026",
+      "https://gottheimer.house.gov/posts/release-gottheimer-introduces-bipartisan-bill-to-stop-rogue-ai-agents-and-keep-people-in-control"
+    ],
+    [
+      "Announced the bipartisan American AI Security Act with Rep. Lawler, requiring a mandatory 30-day national security review by the NSA of the most powerful AI models before release (cyberattack and chemical, biological, radiological weapon risks).",
+      "Gottheimer press release, 18 Sep 2026",
+      "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-on-ai-safety-to-protect-jersey-families-national-security"
+    ],
+    [
+      "Publicly supported the 'Pacing the Frontier' letter by frontier AI lab employees calling for an international effort to manage the rate of automated AI development (he did not sign it; it is an employee letter).",
+      "Gottheimer statement, 4 Aug 2026",
+      "https://gottheimer.house.gov/posts/statement-gottheimer-supports-pacing-the-frontier-petition-future-of-responsible-ai-innovation"
+    ],
+    [
+      "With Reps. Lieu and Foushee, sent a letter to the CEOs of OpenAI, Google, Anthropic, Meta and SpaceXAI demanding disclosure of every unauthorized break-in by their AI agents.",
+      "Gottheimer press release, 29 Sep 2026",
+      "https://gottheimer.house.gov/posts/release-gottheimer-lieu-and-fousheee-demand-answers-from-ai-giants-after-string-of-rogue-hacking-incidents"
+    ],
+    [
+      "Called for mandatory government review of frontier models before release, saying third-party audits alone are not enough, citing biosecurity among the stakes.",
+      "Gottheimer statement, 15 Sep 2026",
+      "https://gottheimer.house.gov/posts/statement-gottheimer-says-third-party-audits-alone-dont-meet-the-moment"
+    ]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "His strongest 2026 statement (18 Sep 2026 speech) relays an extinction warning and a loss-of-control warning and endorses them ('This is not a hypothetical threat'), which ruling 2 makes A; this is a boundary call, and if the reviewer does not accept the endorsement his own words ('so winning doesn’t destroy us') support B. No dismissive statement was found.",
+  "notes": "All seven web searches ran this time (official site, superintelligence, extinction/existential risk, pause/slowdown/moratorium, China agreement, his name with 'AI safety', and the Ban Artificial Superintelligence Act). They found no new statement stronger than or different from those already recorded, so the statements kept from the earlier run (all quotes checked character for character against his press release pages in that run) stand unchanged. In the earlier run I also listed about 700 press releases through his site's RSS feed and opened 17 AI-related ones. New pages opened this run: Al Jazeera 11 Sep 2026 (on his Stop Rogue AI Act; no Gottheimer quote; the search-result summary wrongly suggested his bill includes a pause, the article itself says the pause is in the separate Sanders-Casar bill); his 21 Sep 2026 release with Lawler (driver's-license-for-AI-agents quotes, about hacking/control of agents, D under ruling 4; in that release Lawler, not Gottheimer, argued against a pause); his 14 Sep 2026 'immediate guardrails' release (general call for mandatory guardrails and floor votes, D); Crypto Briefing 17 Jun 2026 (paraphrase only, no quotes). A Courthouse News article on the 'civilizational stakes' of the AI race returned 403 and was not read; a Sinclair-syndicated story quotes him only on bills needing floor votes (D). Ban Artificial Superintelligence Act: no source found shows him as a co-sponsor; Forkast names only Ocasio-Cortez plus nine unnamed House Democrats, and Nextgov (as relayed) names Whitesides and Moran; Congress.gov was not checked (403 in the earlier run), so his status is unknown rather than confirmed no. The many-signer August and September 2026 House letters were not searched, per instructions. Material left out: in the 18 Sep speech he also relays a researcher saying the industry is 'racing toward superintelligence and, in his words, gambling with our lives' (paraphrase mixed with a short quote, so not used as a statement); his 9 Sep 2026 Stop Rogue AI Act quote ('a five-alarm security risk') names only hacking, so D under ruling 4; his 21 Jul 2026 9/11 hearing quote ('AI is collapsing all of that, letting a small cell or a hostile government move at machine speed') is misuse/cyber, D; his 15 Sep statement lists biosecurity among the stakes (misuse, C at most, not added to keep the list short). The 18 Sep remarks are 'as prepared for delivery' in a press release; the delivered speech was not checked against video. Several dramatic events he cites (models escaping sandboxes, the Hugging Face incident) are his descriptions; I did not verify them. The A grade rests on ruling 2 (endorsed relayed extinction warning) and is a boundary call; B is defensible from his own words."
+}

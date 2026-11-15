@@ -1,0 +1,33 @@
+{"bioguide": "D000617", "member": "Suzan K. DelBene",
+ "searches": [
+  "DelBene artificial intelligence site:delbene.house.gov",
+  "Suzan DelBene superintelligence",
+  "Suzan DelBene AI existential risk extinction",
+  "DelBene AI pause slowdown moratorium",
+  "DelBene China AI agreement treaty",
+  "\"DelBene\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-10-05", "venue": "Press release on a Freedom of Information Act request",
+   "quote": "Washington seniors have borne the brunt of this experimental program's malfunctions",
+   "context": "DelBene sought records on the Medicare WISeR program, which uses AI to review claims, after high denial rates in Washington.",
+   "source_label": "DelBene House press release", "url": "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4468",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About AI used to deny Medicare claims, with no acknowledgment of catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Filed a Freedom of Information Act request for records on the AI-driven Medicare WISeR prior authorization program.", "DelBene House press release, 2026-10-05", "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4468"],
+  ["Op-ed criticizing the AI-driven Medicare WISeR pilot as a 'reckless AI experiment' affecting seniors' cancer treatments.", "DelBene House site (In The News), 2026-10-01", "https://delbene.house.gov/news/DocumentSingle.aspx?DocumentID=4480"],
+  ["Co-led a letter from 27 representatives to the Treasury on Meta's use of the research tax credit for its data center buildout; the release does not mention AI.", "DelBene House press release, 2026-10-15", "https://delbene.house.gov/news/documentsingle.aspx?DocumentID=4497"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her 2026 AI remarks are about AI being used to deny Medicare claims (and, earlier, privacy), not catastrophic risk. All required searches ran and found no statement on superintelligence, extinction, loss of control, a pause, or China talks.",
+ "notes": "All 7 web searches ran this time (6 required plus one on Ban Artificial Superintelligence Act cosponsors); none were refused. Ban Artificial Superintelligence Act (H.R. 10538, 2026-09-24): DelBene is not among the 12 cosponsors listed on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); that list may be incomplete (it omits lead sponsor Casar) and congress.gov was not checked. No other House letter on AI risk led by her was found. The official site news page was opened: recent AI items are all about the Medicare WISeR pilot (2026-09-19 eNewsletter, 2026-09-28 news item, 2026-10-01 op-ed). Search results also showed a 2026-03-31 release on stopping AI use to deny Medicare treatments, an older (likely 2023) Broadband Breakfast op-ed arguing a national privacy law is the first step for AI protection, and her sponsorship of the CREATE AI Act of 2025 (introduced 2025-03-27); these were not opened and not quoted. None of these relate to catastrophic risk."
+}

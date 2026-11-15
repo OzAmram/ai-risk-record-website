@@ -1,0 +1,27 @@
+{
+  "bioguide": "C001112",
+  "member": "Salud O. Carbajal",
+  "searches": [
+    "Carbajal artificial intelligence site:carbajal.house.gov",
+    "Rep. Salud Carbajal \"AI safety\"",
+    "Salud Carbajal superintelligence",
+    "Salud Carbajal AI extinction existential risk",
+    "Salud Carbajal AI pause moratorium slowdown",
+    "Salud Carbajal China AI agreement treaty",
+    "Congressman Carbajal artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Co-sponsored H.R. 10841, to prohibit the use of AI to deprive or defraud people of the right to vote (election integrity, not catastrophic risk).", "Congressional Record Index 2026", "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-CARBAJAL-SALUD-O-A735D0.htm"],
+    ["Co-sponsored H.R. 2385, to establish a National Artificial Intelligence Research Resource at the National Science Foundation (research funding, not catastrophic risk).", "Congressional Record Index 2026", "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-CARBAJAL-SALUD-O-A735D0.htm"]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statements by Carbajal about AI, in his own words, were found in news or official records since January 2025; the only AI-related items are two co-sponsorships of bills that are not about catastrophic risk.",
+  "notes": "Seven web searches ran, none refused; none returned any statement by Carbajal on AI. The site-restricted search returned no carbajal.house.gov pages; a direct fetch of his press release listing showed no AI-related titles on the first page only, so older releases were not fully checked. The 2026 Congressional Record Index for him (read via a page-summary tool, so bill titles are as summarized) lists two AI-related co-sponsorships and no sponsorship or co-sponsorship of the Ban Artificial Superintelligence Act. No House letter on AI risk signed by him was found outside the centrally handled multi-signer letters, which were not searched for."
+}

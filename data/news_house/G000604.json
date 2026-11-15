@@ -1,0 +1,53 @@
+{
+  "bioguide": "G000604",
+  "member": "Maggie Goodlander",
+  "searches": [
+    "Goodlander artificial intelligence (restricted to goodlander.house.gov)",
+    "Maggie Goodlander superintelligence",
+    "Maggie Goodlander AI extinction existential risk",
+    "Goodlander AI pause slowdown moratorium",
+    "Goodlander China AI agreement treaty",
+    "\"Maggie Goodlander\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-21",
+      "venue": "Press release",
+      "quote": "Hardworking Granite Staters should not be forced to pay for the massive power infrastructure that data centers demand,",
+      "context": "House passage of bills she backed, including the Ratepayer Protection Act, which the release describes as protecting ratepayers from AI datacenter-driven rate hikes.",
+      "source_label": "Goodlander House press release",
+      "url": "https://goodlander.house.gov/media/press-releases/goodlander-delivers-u-s-house-passes-5-goodlander-backed-bills-to-quadruple-authorized-nh-water-funding-stop-big-tech-from-jacking-up-utility-costs-protect-seniors-from-costly-scams-and-strengthe/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About electricity costs from AI data centers, which the rubric places at D; no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2025-06-12",
+      "venue": "House Armed Services Committee hearing (questioning Defense Secretary Hegseth), as given in her press release",
+      "quote": "Mr. Hegseth, should American AI dominance be up for negotiation with China, and any trade talks that are underway?",
+      "context": "Questioning the Defense Secretary on whether American AI leadership could be traded away in trade talks with China.",
+      "source_label": "Goodlander House press release",
+      "url": "https://goodlander.house.gov/media/press-releases/goodlander-pushes-hegseth-answers-delays-dod-budget-american-ai-dominance-over/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About competition with China over AI, which ruling 5 places at D; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development; her data center bill is about electricity costs, not AI risk.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; her China remarks are about keeping American AI dominance, which does not count.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Backed the Ratepayer Protection Act, passed by the House, to stop large data centers (including AI data centers) from pushing up household utility costs.", "Goodlander House press release, 2026-09-21", "https://goodlander.house.gov/media/press-releases/goodlander-delivers-u-s-house-passes-5-goodlander-backed-bills-to-quadruple-authorized-nh-water-funding-stop-big-tech-from-jacking-up-utility-costs-protect-seniors-from-costly-scams-and-strengthe/"],
+    ["Helped introduce the bipartisan MATCH Act to tighten export controls on chipmaking equipment, framed as winning the AI race against China.", "Goodlander House press release, 2026-04-03", "https://goodlander.house.gov/media/press-releases/goodlander-helps-introduce-bipartisan-bill-to-tighten-controls-on-sensitive-chipmaking-equipment/"],
+    ["Co-signed a letter with 40 colleagues urging the Medicare agency to reject a model that uses artificial intelligence for medical necessity decisions (prior authorization).", "Goodlander House press release, 2025-08-05", "https://goodlander.house.gov/media/press-releases/goodlander-urges-cms-to-reject-new-model-that-would-increase-medicare-patient-denials/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her AI-related remarks are about AI data centers raising electricity bills (2026), AI competition with China (2025 and 2026) and AI in Medicare coverage decisions (2025), all level D. No statement acknowledging catastrophic AI risk was found in seven web searches or on her official site.",
+  "notes": "All six required web searches ran this time, plus one to check Ban Artificial Superintelligence Act cosponsors (7 total). The searches on superintelligence, extinction, pause, China agreement and 'AI safety' returned nothing about her. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page lists 12 House cosponsors and Forkast names Ocasio-Cortez; Goodlander is not among them on either page, but congress.gov could not be checked (403 earlier), so the list may be incomplete. The 2026-04-03 MATCH Act release has her saying America should lead the world in AI and win the AI race against China (level D), but the page fetch tool returned trimmed wording, so no exact quote was taken. Her quoted words in the 2026-09-21 release say 'data centers', not 'AI'; the 'AI datacenter-driven rate hikes' wording is the press office's. The 2025-08-05 Medicare letter's AI wording comes from the letter and release, not her own words, so no quote was taken. Her 2025-06-12 hearing remark is also preceded in the release by 'American AI dominance is extremely important.' No House letter about AI risk led by her was found. The many-signer August and September 2026 letters were not searched, per instructions. Earlier attempt also checked the official site's own search (no results for 'superintelligence')."
+}

@@ -1,0 +1,24 @@
+{
+  "bioguide": "M001211",
+  "member": "Mary E. Miller",
+  "searches": [
+    "site:marymiller.house.gov artificial intelligence",
+    "\"Mary Miller\" congresswoman superintelligence",
+    "Rep. Mary Miller Illinois AI existential risk extinction",
+    "Rep. Mary Miller artificial intelligence pause moratorium",
+    "Rep. Mary Miller China AI agreement treaty",
+    "\"Mary Miller\" \"AI safety\" Illinois representative",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Casar"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; no source shows her co-sponsoring the Ban Artificial Superintelligence Act.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Mary Miller about AI was found in seven web searches or in her official press releases from July 2025 to November 2026.",
+  "notes": "All six required web searches ran this time, plus one on co-sponsors of the Ban Artificial Superintelligence Act (seven in total). None returned anything by Rep. Mary E. Miller about AI. The site-restricted search returned no pages from marymiller.house.gov (results were for Rep. Miller-Meeks, a different member, and committee pages). Other results were about different people: Rep. Yassamin Ansari (superintelligence ban), psychology professor Geoffrey Miller (superintelligence risk), and Illinois state Sen. Mary Edly-Allen (Illinois AI safety law); none of their words are attributed to her. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): search results say it has nine co-sponsors described as House Democrats (Forkast, Quiver Quantitative), so she is very likely not one of them, but no full co-sponsor list was seen; congress.gov returned HTTP 403 in the earlier attempt. From the earlier attempt (still valid): her press release listing pages (https://marymiller.house.gov/media/press-releases, ?page=1, ?page=2) covering 30 releases from 24 July 2025 to 2 November 2026 had no titles or summaries mentioning AI; the 29 June 2026 release on her SCREEN Act is about children's online content, not AI. Releases between 18 March and 30 April 2026 may not have been fully covered by those listing pages. No hearing remarks, floor speeches or interviews by her on AI were found."
+}

@@ -1,0 +1,63 @@
+{
+ "bioguide": "B001323",
+ "member": "Nicholas J. Begich III",
+ "searches": [
+  "site:begich.house.gov artificial intelligence",
+  "Nick Begich superintelligence",
+  "Nick Begich AI existential risk extinction",
+  "Begich AI pause slowdown moratorium",
+  "Begich China AI agreement treaty",
+  "\"Begich\" \"AI safety\" congressman Alaska",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-03-31",
+   "venue": "Lawfare / Scaling Laws podcast interview with Kevin Frazier (University of Texas AI Innovation and Law Program)",
+   "quote": "we can't afford to wait around and see where things land",
+   "context": "Begich argued against a state-by-state patchwork of AI rules and for federal action so the United States stays competitive.",
+   "source_label": "Lawfare, 31 March 2026 (auto-generated transcript)",
+   "url": "https://www.lawfaremedia.org/article/scaling-laws--how-to-use--govern--and-lead-on-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About federal versus state AI regulation and competitiveness; no catastrophic risk is acknowledged."
+  },
+  {
+   "date": "2026-03-31",
+   "venue": "Interview with Kevin Frazier (University of Texas), as reported by Alaska's News Source",
+   "quote": "The bill's essential premise is to reduce the amount of regulatory burden required for new AI data center capacity.",
+   "context": "Begich described his plan to bring Sen. Tom Cotton's data center power bill (the DATA Act) to the House.",
+   "source_label": "Alaska's News Source, 16 September 2026",
+   "url": "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": ["bill_or_action"],
+   "reason": "About reducing regulation for AI data centers; no catastrophic risk is acknowledged."
+  },
+  {
+   "date": "2025-04-25",
+   "venue": "Regulating AI podcast, as reported by The American Bazaar (episode date not stated; article date used)",
+   "quote": "Without global agreement, the only defense we have is speed,",
+   "context": "Begich argued the United States cannot slow AI development until international standards exist.",
+   "source_label": "The American Bazaar, 25 April 2025",
+   "url": "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About competing on AI speed absent a global agreement; no catastrophic risk is acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {"value": "mixed", "note": "In 2025 he said the United States cannot slow down AI development until international standards are achieved (American Bazaar report of a podcast); opposition to slowing down is conditional on there being no international agreement. Only 2025 evidence; reviewer may prefer 'no'.", "sources": [["The American Bazaar, 25 April 2025", "https://americanbazaaronline.com/2025/04/25/congressman-nick-begich-discusses-the-future-of-ai-regulation-462186/"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "He called for a 'globally harmonized set of rules of the road' in 2025, but not for coordination with China on pacing or pausing frontier AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Said he plans to introduce a House version of Sen. Tom Cotton's DATA Act to reduce regulatory barriers for AI data centers that supply their own power (no bill number found).", "Alaska's News Source, 16 September 2026; Lawfare, 31 March 2026", "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Begich has spoken about AI in 2025 and 2026, mainly about competitiveness, regulation and data centers, but no statement found acknowledges catastrophic risk from AI.",
+ "notes": "7 web searches ran, none refused. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538); available partial cosponsor lists name only Democrats. His official press release page (first page of 14) showed no AI releases; other pages not checked. Cato Institute blog (31 March 2026) returned 403 and could not be read. Left out because they contain editorial ellipses inserted by the reporter and so are not continuous passages: 'So, until (...) international standards (are) achieved, we cannot slow down on the development of AI.' and 'We need to have an effective set of regulations, (...) a globally harmonized set of rules of the road.' (American Bazaar, 2025). Lawfare transcript is auto-generated; he also said 'we only get one shot at this' about getting state-versus-federal AI regulation right, not about catastrophic risk. Alaska's News Source (September 2026) reports he did not return comment and describes him as a proponent of AI advancement. Quotes were obtained through a page-fetching tool that summarizes pages, so exact wording should be checked by the reviewer."
+}

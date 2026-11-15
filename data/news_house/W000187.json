@@ -1,0 +1,93 @@
+{
+  "bioguide": "W000187",
+  "member": "Maxine Waters",
+  "searches": [
+    "site:waters.house.gov artificial intelligence",
+    "Maxine Waters \"AI safety\"",
+    "Maxine Waters superintelligence",
+    "Maxine Waters AI extinction existential risk",
+    "Maxine Waters AI pause moratorium slowdown",
+    "Maxine Waters China AI agreement treaty",
+    "Maxine Waters Bessent hearing September 2026 AI \"slow down\" quote"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-26",
+      "venue": "Press release (statement as Ranking Member, House Financial Services Committee)",
+      "quote": "AI is growing more powerful and more capable of reaching into and disrupting the systems our government, economy, and financial markets depend on. The threat is not coming. It is here.",
+      "context": "Statement responding to reports that OpenAI agents targeted federal government websites, including the Securities and Exchange Commission.",
+      "source_label": "House Financial Services Committee Democrats press release, 26 September 2026",
+      "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415405",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["boundary"],
+      "reason": "Describes a serious, growing threat from increasingly powerful AI systems themselves to the systems government, economy and markets depend on, without naming a catastrophic outcome such as mass casualties or loss of control; sits between C and D."
+    },
+    {
+      "date": "2026-09-26",
+      "venue": "Press release (statement as Ranking Member, House Financial Services Committee)",
+      "quote": "Treasury and the rest of the government must use their authority to put a moratorium on the release of more advanced AI models until there is a full accounting of what happened and what safeguards are in place to prevent it from happening again.",
+      "context": "Same statement; her demand following the reported OpenAI agent activity on federal websites.",
+      "source_label": "House Financial Services Committee Democrats press release, 26 September 2026",
+      "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415405",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "A policy demand (moratorium on releasing more advanced models) that does not itself state a catastrophic risk; the risk acknowledgment is in the companion statement graded C."
+    },
+    {
+      "date": "2025-12-10",
+      "venue": "House Financial Services Committee hearing, opening statement",
+      "quote": "The stakes are too high, the risks are too great, and the consequences too real to hand this technology over to Big Tech billionaires with no guardrails and no accountability.",
+      "context": "Hearing on AI innovation in financial services; the harms she named were bias, harm to children, job loss and systemic risk in the financial system.",
+      "source_label": "House Financial Services Committee Democrats press release, 10 December 2025",
+      "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=414017",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Risks named are children, discrimination, jobs and financial-system risk, and who controls AI; no catastrophic risk from AI acknowledged."
+    },
+    {
+      "date": "2026-10-29",
+      "venue": "Press release on resolution she co-led with Rep. Greg Casar",
+      "quote": "Big tech and Wall Street are taking enormous risks with billions in borrowed money to fuel the A.I. boom, despite growing warning signs of a dangerous bubble.",
+      "context": "Introduction of a resolution opposing any bailout of AI companies if an AI asset bubble collapses.",
+      "source_label": "House Financial Services Committee Democrats press release, 29 October 2026",
+      "url": "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415413",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About financial and economic risk from an AI investment bubble, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "In her 26 September 2026 statement she called for a government moratorium on the release of more advanced AI models, motivated by the danger of AI systems (OpenAI agents reaching federal websites).",
+      "sources": [["House Financial Services Committee Democrats press release, 26 September 2026", "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415405"]]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "The moratorium she called for is on releases of more advanced models and is conditional: only until there is a full accounting of what happened and what safeguards are in place.",
+      "sources": [["House Financial Services Committee Democrats press release, 26 September 2026", "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415405"]]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    ["Issued a statement calling for a government moratorium on releasing more advanced AI models and for law enforcement investigations into OpenAI and its executives.", "House Financial Services Committee Democrats press release, 2026-09-26", "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415405"],
+    ["Co-led with Rep. Greg Casar a resolution opposing any bailout of AI companies if an AI asset bubble collapses.", "House Financial Services Committee Democrats press release, 2026-10-29", "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415413"],
+    ["Launched a committee Democrats' request for information on AI risks and modernization in financial services, citing Anthropic's warnings about cyber and systemic threats from advanced models.", "House Financial Services Committee Democrats press release, 2026-07-07", "https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=415374"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "Her strongest 2026 statement (26 September) calls AI a growing threat to the systems government and markets depend on and demands a moratorium on more advanced model releases, but names no catastrophic outcome such as mass casualties or loss of control, so C (a C/D boundary case). No dismissive statements found.",
+  "notes": "7 web searches ran, none refused. Pages read via WebFetch and direct download of official committee pages; one attempt to scan neighbouring committee press release IDs was blocked by a permission check and not retried. Not used as quotes: (1) theGrio (2026-09-16) paraphrases her at the 15 September 2026 hearing with Treasury Secretary Bessent pressing him on whether 'the moment is dangerous and warrants slowing down' after citing warnings from Dario Amodei and Bill Gates; only her question 'Did you hear what your friends had to say?' is directly quoted there. (2) A search-result summary attributed to her at that hearing the words 'while we dismiss the threat to workers and jobs, our financial system and even our very existence'; I could not find this in any page I opened (theGrio, American Banker, National Mortgage News, FedScoop, Implicator did not contain it; The Hill returned 403) and no official transcript or opening statement for the 15 September hearing was found on the committee site. If verified from the hearing video or transcript, a reference to 'our very existence' could raise her to A or B; a reviewer should check the 15 September 2026 hearing (https://democrats-financialservices.house.gov/events/EventSingle.aspx?EventID=415387). No source shows her sponsoring or co-sponsoring the Ban Artificial Superintelligence Act or signing any other House AI-risk letter outside the centrally handled multi-signer letters. waters.house.gov press release page showed no AI releases; her AI material is on the committee Democrats site. Older (2023-2024) AI work (AI working group, transparency bill) predates the search window."
+}

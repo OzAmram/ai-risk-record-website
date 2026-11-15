@@ -1,0 +1,24 @@
+{
+ "bioguide": "S001215",
+ "member": "Haley M. Stevens",
+ "searches": [
+  "Haley Stevens artificial intelligence site:stevens.house.gov",
+  "\"Haley Stevens\" \"AI safety\"",
+  "\"Haley Stevens\" superintelligence",
+  "\"Haley Stevens\" AI extinction OR existential risk",
+  "\"Haley Stevens\" AI pause OR slowdown OR moratorium",
+  "\"Haley Stevens\" China AI agreement OR treaty OR talks",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement by her on slowing AI development was found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement by her on pausing AI development was found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement by her on coordinating with China on the pace of AI was found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement by her on banning self-improving AI was found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "She speaks about AI regularly as the top Democrat on the House Science Committee, including a 14 January 2026 hearing statement on the AI Action Plan, but nothing found since 2025 acknowledges catastrophic risk from AI.",
+ "notes": "All seven searches ran this time (the earlier attempt had zero searches because they were refused). Since 1 January 2025 I found two AI hearing statements of hers. (1) 14 January 2026 opening statement, hearing on the AI Action Plan (https://democrats-science.house.gov/news/press-releases/ranking-member-stevens-opening-statement-for-hearing-on-ai-action-plan): opened; it has no sentence about AI risk, safety, national security, China or catastrophic harm (it is about NIST budget cuts and Michigan manufacturing), so no quote was included. (2) 8 April 2025 opening statement, DeepSeek hearing (https://democrats-science.house.gov/download/4825-rm-stevens-os_deepseek&download=1): could not open (HTTP 410); a search snippet only says it mentions bills to authorize evaluation work, including the AI Safety Institute at NIST. That would be D at most; not included. Her other AI material (2023 hearing on managing AI risks, which talks only about risk management standards and says nothing catastrophic; 2024 hearing on AI for science; December 2024 op-ed on AI and national security; 2024 Small Business AI Advancement Act; 2024 letter with Obernolte asking for $10 million for the AI Safety Institute) all predates 2025 and is outside the time window. A Transformer News piece on the 2026 Michigan Senate race says she 'hasn't been as critical of the industry' as Mallory McMorrow; that is a characterization, not her words. A 14 September 2026 ClickOnDetroit article on AI risk in the Michigan Senate race does not mention her (it names El-Sayed and Rogers as the candidates). Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Casar): no source shows her as a cosponsor, but no complete cosponsor list was available (partial lists name Hoyle, Lynch, Tonko, Ansari, Ocasio-Cortez), so this is not confirmed either way. The many-signer House letters were not searched, per instructions. Her press releases from 2025 to mid-2026 were not individually checked beyond what the searches surfaced."
+}

@@ -1,0 +1,40 @@
+{
+  "bioguide": "S000168",
+  "member": "Maria Elvira Salazar",
+  "searches": [
+    "Salazar artificial intelligence (restricted to salazar.house.gov)",
+    "Maria Elvira Salazar superintelligence",
+    "Maria Elvira Salazar AI extinction existential risk",
+    "Maria Elvira Salazar AI pause slowdown moratorium",
+    "Maria Elvira Salazar China AI agreement treaty",
+    "\"Salazar\" \"AI safety\" congresswoman",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-05-21",
+      "venue": "Press release",
+      "quote": "The NO FAKES Act is simple and sacred: you own your identity—not Big Tech, not scammers, not algorithms. Deepfakes are digital lies that ruin real lives, and it’s time to fight back.",
+      "context": "Salazar, as lead House sponsor, reintroduced the bipartisan NO FAKES Act to protect people's voice and likeness from unauthorized AI-generated replicas.",
+      "source_label": "Salazar House press release",
+      "url": "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About deepfakes and rights to one's voice and likeness, which ruling 5 places at D; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; a January 2025 report describes her stressing beating China in AI, which is competition, not coordination.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Lead House sponsor, with Rep. Madeleine Dean, of the reintroduced NO FAKES Act protecting voice and likeness from AI-generated replicas", "Salazar House press release, 2026-05-21", "https://salazar.house.gov/media/press-releases/salazar-dean-blackburn-coons-bipartisan-colleagues-reintroduce-no-fakes-act"],
+    ["Led the TAKE IT DOWN Act on non-consensual intimate imagery including AI deepfakes, which passed the House and became law", "Salazar House press release", "https://salazar.house.gov/media/press-releases/take-it-down-act-passes-house-and-heads-presidents-desk"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken repeatedly about AI in 2025 and 2026, but only about deepfakes, likeness rights and competition with China; nothing found acknowledges catastrophic risk from AI.",
+  "notes": "Seven web searches ran; none was refused. Quote checked against the page text of the 21 May 2026 press release. Left out: a January 2025 Floridian Press article ('Salazar Declares Trump to be Ahead of the Game on AI, Says it Must be In the Hands of the U.S.', https://floridianpress.com/2025/01/salazar-declares-trump-to-be-ahead-of-the-game-on-ai-says-it-must-be-in-the-hands-of-the-u-s) could not be opened (HTTP 403); search summaries paraphrase her as prioritizing beating China in AI, which would be D. Other AI-related releases on her site (No AI FRAUD Act, January 2024; GRAMMYS on the Hill honor, 2026) were seen only as search result titles and are about likeness rights. Ban Artificial Superintelligence Act (H.R. 10538, Rep. Casar, 24 September 2026): sources describe about nine or ten cosponsors, all Democrats; no source shows Salazar as a sponsor or cosponsor, but the full Congress.gov cosponsor list was not checked. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "Y000064",
+  "member": "Todd Young",
+  "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "quote": "AI offers tremendous benefits, but those benefits do not come without serious and evolving risks.",
+  "result": "confirmed",
+  "evidence_url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "context": "re, however, requires responsible stewardship of the development and deployment of this technology. AI offers tremendous benefits, but those benefits do not come without serious and evolving risks. As you know, bad actors are increasingly using AI tools to 1 steal and exploit sensitive informati",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact sentence appears in the body of the signed letter from Senator Todd Young, dated September 24, 2026."
+ },
+ {
+  "bioguide": "B001321",
+  "member": "Tom Barrett",
+  "url": "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf",
+  "quote": "Even employees from America’s top two AI labs warn that this technology is racing to a finish line for humanity.",
+  "result": "confirmed",
+  "evidence_url": "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf",
+  "context": "rgy grid, deliver a lethal biological weapon into our communities, or undermine our banking system. Even employees from America's top two AI labs warn that this technology is racing to a finish line for humanity.1 1 Ramkumar, Amrith. \"Anthropic Researcher Quits Over 'Out-of-Control' AI Fears.\" The Wall Street ",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact sentence appears in the signed letter from Rep. Tom Barrett, dated September 29, 2026 (followed by a footnote marker citing a Wall Street Journal article)."
+ },
+ {
+  "bioguide": "B001321",
+  "member": "Tom Barrett",
+  "url": "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf",
+  "quote": "The dangerous reality is that AI – in the wrong hands – can be used to carry out highly sophisticated cyberattacks on our energy grid, deliver a lethal biological weapon into our communities, or undermine our banking system.",
+  "result": "confirmed",
+  "evidence_url": "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf",
+  "context": "n, but to ensure our adversaries who wish to do us harm cannot weaponize the technology against us. The dangerous reality is that AI - in the wrong hands - can be used to carry out highly sophisticated cyberattacks on our energy grid, deliver a lethal biological weapon into our communities, or undermine our banking system. Even employees from America's top two AI labs warn that this technology is racing to a finish line",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact sentence appears in the signed letter from Rep. Tom Barrett, dated September 29, 2026."
+ },
+ {
+  "bioguide": "B001322",
+  "member": "Michael Baumgartner",
+  "url": "https://amendments-rules.house.gov/amendments/BAUMGA_062_xml260616150911571.pdf",
+  "quote": "the increasing use of generative artificial intelligence by foreign adversaries may represent a national security risk, and the challenges posed by such use is not well understood",
+  "result": "confirmed",
+  "evidence_url": "https://amendments-rules.house.gov/amendments/BAUMGA_062_xml260616150911571.pdf",
+  "context": "otential to provide substantial societal and economic benefits when developed and used responsibly, the increasing use of generative artificial intelligence by foreign adversaries may represent a national security risk, and the challenges posed by such use is not well understood; and (2) the Department of State, in consultation with the heads of other relevant Federal departme",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording appears in section (a)(1), sense of Congress, of the amendment offered by Mr. Baumgartner; in the PDF it is split by bill line numbers and a hyphenated line break (se-/curity), which explains the automatic miss. The PDF footer is dated June 16, 2026."
+ },
+ {
+  "bioguide": "B001323",
+  "member": "Nicholas J. Begich III",
+  "url": "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/",
+  "quote": "The bill's essential premise is to reduce the amount of regulatory burden required for new AI data center capacity.",
+  "result": "confirmed",
+  "evidence_url": "https://www.alaskasnewssource.com/2026/09/17/alaska-senators-open-ai-guardrails-congress-winds-down-midterms/",
+  "context": "ers for power consumption if they aren't taking power away from the grid, which all consumers use. \"The bill's essential premise is to reduce the amount of regulatory burden required for new AI data center capacity,\" he said. \"This would allow the data center community, if passed, to be able to say, look, incredi",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The article quotes Begich saying this sentence about a Senate bill by Sen. Cotton, from a March interview with Kevin Frazier; the linked Lawfare 'Scaling Laws' episode with Begich is dated March 31, 2026. The article ends the sentence with a comma before 'he said' rather than a period. Note the sentence is about data center permitting, not AI risk."
+ }
+]

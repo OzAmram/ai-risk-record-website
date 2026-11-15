@@ -1,0 +1,63 @@
+{
+ "bioguide": "P000034",
+ "member": "Frank Pallone, Jr.",
+ "searches": [
+  "site:pallone.house.gov artificial intelligence",
+  "Pallone superintelligence",
+  "Frank Pallone AI existential risk extinction loss of control",
+  "Frank Pallone AI moratorium pause slowdown 2026",
+  "Frank Pallone China AI agreement talks treaty",
+  "\"Pallone\" \"AI safety\" 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Pallone"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-27",
+   "venue": "Letter to OpenAI (identical letters to Anthropic, Google, Meta and SpaceXSI), co-signed with Ranking Members Zoe Lofgren and Jamie Raskin",
+   "quote": "These incidents are driven both by behaviors within the models that allow them to act against the intent of their developer, often referred to as misalignment, and an insufficiency of guardrails implemented by the developer to prevent loss of control.",
+   "context": "Oversight letter asking five frontier AI companies to report model misalignment and safety incidents (unauthorized network and internet access by models) to Congress within 48 hours.",
+   "source_label": "House Energy and Commerce Democrats, letter PDF (press release 28 October 2026)",
+   "url": "https://democrats-energycommerce.house.gov/sites/evo-subsites/democrats-energycommerce.house.gov/files/evo-media-document/2026.10.27-multi-committee-letter-re-ai-incident-reporting-to-openai.pdf",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "The letter acknowledges a serious danger from AI systems themselves (models acting against developer intent, loss of control) in general terms; the concrete harms named are network breaches and hacking, which alone would be D, so this sits between C and D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development for safety reasons. His June 2026 call for a national AI data center moratorium is motivated by air, water and power bills, so under the rubric it is 'none'.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on a pause of frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI; his China remarks found (April 2025, June 2026) are about economic and technological competition.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Co-signed (as Energy and Commerce Ranking Member, with Lofgren and Raskin) letters to Anthropic, Google, Meta, OpenAI and SpaceXSI requesting reporting of AI misalignment and safety incidents within 48 hours, and within 24 hours if critical infrastructure is involved.",
+   "House Energy and Commerce Democrats press release, 28 October 2026 (letters dated 27 October 2026)",
+   "https://democrats-energycommerce.house.gov/media/press-releases/house-democratic-committee-leaders-request-frontier-ai-companies-report"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "The highest statement is the October 2026 three-member letter, which names misalignment and loss of control as a danger from AI models themselves, but only in general terms and with hacking-type incidents as the concrete harm; it is a boundary case between C and D.",
+ "notes": "All 7 web searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act). No statement by Pallone on superintelligence, extinction, existential risk, a pause, or China AI talks was found. Ban Artificial Superintelligence Act (H.R. 10538, September 2026): no source shows Pallone as a sponsor or co-sponsor; a FastDemocracy page lists Hoyle, Lynch and Tonko and reports name Casar and Ocasio-Cortez, but the cosponsor list seen may be incomplete and Congress.gov was not checked. No House AI-risk letter signed by him was found other than the October 2026 three-member letter (the many-signer August and September 2026 letters were not searched, per instructions). The letter quote was read from the letter PDF in the earlier attempt; in this run the PDF could not be text-extracted (no PDF tools available) and the press release page does not contain that sentence, so the quote was not re-verified this time. Earlier attempt also opened pallone.house.gov press releases (Aug-Oct 2026) and Energy and Commerce Democrats press release listing pages 1-4 (about late June to November 2026); other AI items were about data centers and electricity (D). The June 2026 data center moratorium wording seen: 'I am in favor of a national AI data center moratorium until we can find a way to ensure they don't harm our nation's air, water, and power bills' (D, quote left empty per rubric). A Route Fifty article (December 2025) reports him favoring learning from state efforts over blanket moratoriums on state AI laws; this is a paraphrase about preemption, not a slowdown position, and was left out. The November 2025 D statement has an empty quote per the rubric; the passage seen was: 'There is no reason for Congress to stop states from regulating the harms of AI when Congress has not yet passed a similar law.' Reviewer should decide whether the letter's loss-of-control wording is enough for C under ruling 4, or should be D. Statements recorded without a quote and so not shown: 2026-06-24 Remarks at Energy and Commerce Energy Subcommittee markup (press release) (https://pallone.house.gov/media/press-releases/pallone-supports-national-ai-data-center-moratorium); 2025-11-18 Opening remarks, Energy and Commerce Oversight and Investigations Subcommittee hearing on AI chatbots (https://democrats-energycommerce.house.gov/media/press-releases/pallone-opening-remarks-oversight-hearing-ai-chatbots)"
+}

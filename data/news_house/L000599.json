@@ -1,0 +1,101 @@
+{
+  "bioguide": "L000599",
+  "member": "Michael Lawler",
+  "searches": [
+    "Mike Lawler superintelligence",
+    "Mike Lawler AI extinction existential risk",
+    "Lawler AI pause slowdown moratorium",
+    "Rep. Lawler China AI agreement treaty talks",
+    "\"Lawler\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Lawler",
+    "Lawler artificial intelligence AI (restricted to lawler.house.gov)"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-17",
+      "venue": "Capitol Hill press conference, quoted in press release",
+      "quote": "This isn’t about stopping AI or stifling innovation. It is about making sure we can safely deploy AI. A pause is not a safeguard.",
+      "context": "Lawler and Gottheimer promoting their Stop Rogue AI Act, which would have NIST set standards for finding, verifying and controlling AI agents.",
+      "source_label": "Lawler House press release, 17 September 2026",
+      "url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6483",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He argues against a pause and for safety standards for AI agents but does not acknowledge catastrophic risk; opposing a pause is D, not F."
+    },
+    {
+      "date": "2026-09-17",
+      "venue": "Capitol Hill press conference, quoted in press release",
+      "quote": "If the United States taps the brakes while others floor it, we do not get safer AI. We get someone else’s AI. We are not going to regulate ourselves into second place",
+      "context": "Same press conference; argues the United States should not slow down AI while other countries race ahead.",
+      "source_label": "Lawler House press release, 17 September 2026",
+      "url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6483",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "An argument against slowing down framed as competition, with no acknowledgment or dismissal of catastrophic risk."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Press release introducing the Stop Rogue AI Act",
+      "quote": "We need to make sure we know what these systems are, what they can access, and who is responsible for them. We can harness the benefits of AI while making sure these systems don’t operate in the shadows of the networks they have access to",
+      "context": "Introduction of the bipartisan Stop Rogue AI Act with Rep. Gottheimer on discovering and controlling AI agents on networks.",
+      "source_label": "Lawler House press release, 15 September 2026",
+      "url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6477",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action",
+        "boundary"
+      ],
+      "reason": "Concern about AI agents operating unseen on networks, with no consequence named beyond oversight and security (ruling 4: rogue AI with no catastrophic harm stated is D)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "no",
+      "note": "On 17 September 2026 he said that if the United States 'taps the brakes while others floor it, we do not get safer AI' and that the country will not 'regulate ourselves into second place'.",
+      "sources": [
+        [
+          "Lawler House press release, 17 September 2026",
+          "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6483"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "no",
+      "note": "On 17 September 2026 he said 'A pause is not a safeguard' and criticised state moratoria on AI infrastructure.",
+      "sources": [
+        [
+          "Lawler House press release, 17 September 2026",
+          "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6483"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-led with Rep. Gottheimer the Stop Rogue AI Act, directing NIST to set standards for discovering, verifying, monitoring and controlling AI agents, including letting people revoke an agent's access at any time.",
+      "Lawler House press release, 15 September 2026",
+      "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=6477"
+    ],
+    [
+      "With Rep. Gottheimer, sent a letter to the CEOs of OpenAI, Google, Microsoft, Anthropic, Meta, Perplexity and X Corp. on political bias and misinformation in AI ahead of the 2026 midterm elections.",
+      "Lawler House press release, 13 May 2026",
+      "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=5910"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He spoke about AI several times in 2026 (AI agent standards, elections, workforce, chatbots and children) but no statement found acknowledges catastrophic risk. He explicitly opposed a pause and a slowdown on 17 September 2026, which is D under ruling 6, not F, since he did not dismiss catastrophic risk itself.",
+  "notes": "All 7 web searches in this run went through, none refused. The searches on superintelligence, extinction or existential risk, pause or moratorium, a China agreement, and his name with 'AI safety' found no statement by Lawler on catastrophic AI risk. Ban Artificial Superintelligence Act: the House bill (H.R. 10538, introduced 24 September 2026) cosponsor list on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) shows 12 Democratic cosponsors and does not include Lawler. Congress.gov was not checked in this run; an earlier attempt got a 403 there. The three statements and the record entries come from the earlier attempt, which read his official press releases directly: press release pages 1 to 3 (12 November back to 4 August 2026) and the first page of 'In the News'. They were not re-opened in this run. Other AI items seen but not quoted: CLOUD AI Act co-sponsorship on blocking Chinese remote access to US AI chips (lawler.house.gov DocumentID=525; the search summary dates it to July 2023, which is outside the window); CHAT Act on AI companion chatbots and minors (DocumentID=5383, January 2026, not opened); AI Workforce Training Act with Gottheimer (DocumentID=5496, February 2026, not opened); July 2026 Lawler-Gottheimer letter urging agencies to watch AI election threats (DocumentID=6180 and 6193, no Lawler quote on catastrophic risk). The 3 September 2026 Axios piece and the 10 September Inside AI Policy piece on the Stop Rogue AI Act quote only Gottheimer ('five-alarm security risk'), not Lawler. The 17 September press release says the bill responds to AI agents 'acting autonomously' and 'taking actions beyond their intended scope'. That is press-office text, not his words. The 15 September quote is labelled boundary because it is about AI agents acting outside human view with no harm named. A 'Mike Sacks for Congress' page came up in the 'AI safety' search and criticises Lawler on AI regulation. It is a campaign page from his opponent's side, so it was not used. Not checked: interviews, floor speeches and hearing remarks outside his site, and press releases before 4 August 2026 beyond those the search returned."
+}

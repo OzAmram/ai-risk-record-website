@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "O000174",
+  "member": "Jon Ossoff",
+  "url": "https://www.ossoff.senate.gov/wp-content/uploads/2026/07/26.06.24_OSTP-AI-Letter.pdf",
+  "quote": "Without adequate safeguards, including both screening and traceability processes, malicious actors could use advances in AI to develop potentially dangerous pathogens and biological weapons.",
+  "result": "confirmed",
+  "evidence_url": "https://www.ossoff.senate.gov/wp-content/uploads/2026/07/26.06.24_OSTP-AI-Letter.pdf",
+  "context": "es, not all providers may thoroughly screen customers nor keep records of previous synthesis orders. Without adequate safeguards, including both screening and traceability processes, malicious actors could use advances in AI to develop potentially dangerous pathogens and biological weapons. Under the Biden Administration, Executive Order 14110 was issued in October 2023, titled, Safe, Se",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact sentence is in the letter text, which is dated June 24, 2026 and signed only by Jon Ossoff."
+ },
+ {
+  "bioguide": "S001150",
+  "member": "Adam Schiff",
+  "url": "https://www.schiff.senate.gov/wp-content/uploads/2026/08/Senate-AI-Model-Access-Letter.pdf",
+  "quote": "We support serious, technically informed action to prevent frontier AI from being misused by adversaries or criminals and to mitigate risks posed by misalignment in the models themselves.",
+  "result": "confirmed",
+  "evidence_url": "https://www.schiff.senate.gov/wp-content/uploads/2026/08/Senate-AI-Model-Access-Letter.pdf",
+  "context": "ill take to prevent U.S. policy from inadvertently strengthening PRC or other foreign AI ecosystems. We support serious, technically informed action to prevent frontier AI from being misused by adversaries or criminals and to mitigate risks posed by misalignment in the models themselves. The United States cannot afford to create a policy environment in which the most advanced American",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact sentence is in the letter dated August 3, 2026; it is a joint letter signed by Gillibrand, Schiff, Warner, Coons and Kelly, so the words are the signers' collective wording, not Schiff alone."
+ },
+ {
+  "bioguide": "S001198",
+  "member": "Dan Sullivan",
+  "url": "https://www.govinfo.gov/link/crec/172/s/1036",
+  "quote": "these technologies, in which we are in a race with China in terms of their development, might determine who controls the entire 21st century between the United States and China.",
+  "result": "confirmed",
+  "evidence_url": "https://www.govinfo.gov/link/crec/172/s/1036",
+  "context": "oday, might be considered more important than an aircraft carrier, a submarine, or an F–35, because these technologies, in which we are in a race with China in terms of their development, might determine who controls the entire 21st century between the United States and China. Fortunately, we are starting to focus on these. I am starting to focus on these, and I would say th",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact words appear in the Congressional Record for March 12, 2026, page S1036, in remarks begun by Mr. SULLIVAN (Senator from Alaska) with no other speaker in between. Text was extracted with PyMuPDF because the Ghostscript text interleaves the three columns."
+ },
+ {
+  "bioguide": "T000250",
+  "member": "John Thune",
+  "url": "https://whbl.com/2026/09/14/us-senators-weigh-requiring-ai-giants-to-commit-to-preventing-catastrophe/",
+  "quote": "There is a way in which Congress can put guardrails around those types of more consequential threats without in any way harming our ability to stay ahead in the AI race",
+  "result": "confirmed",
+  "evidence_url": "https://whbl.com/2026/09/14/us-senators-weigh-requiring-ai-giants-to-commit-to-preventing-catastrophe/",
+  "context": "tiations. A spokesperson for Cruz did not immediately respond to requests for comment from Reuters. “There is a way in which Congress can put guardrails around those types of more consequential threats without in any way harming our ability to stay ahead in the AI race,” Thune told reporters on Monday. “I’m continuing to work toward a bipartisan agreement on legisla",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Reuters story (published 2026-09-14, a Monday) quotes Thune saying this to reporters \"on Monday\"; the page has invisible zero-width characters inside the quote, which explains the automatic miss."
+ },
+ {
+  "bioguide": "T000250",
+  "member": "John Thune",
+  "url": "https://www.axios.com/2026/09/23/trump-thune-ai-regulations",
+  "quote": "I do think that the threats are real",
+  "result": "could_not_open",
+  "evidence_url": "",
+  "context": "",
+  "corrected_quote": "",
+  "date_ok": "unknown",
+  "explanation": "Axios returns a Cloudflare \"Just a moment\" challenge page to curl (tried twice). The Benton Institute summary of the interview and a Sinclair syndicated article (Sept 16) were downloaded but do not contain the words; search-engine summaries say the Axios piece has them, but that is not raw-page evidence."
+ }
+]

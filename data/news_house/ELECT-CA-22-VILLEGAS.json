@@ -1,0 +1,62 @@
+{
+  "bioguide": "ELECT-CA-22-VILLEGAS",
+  "member": "Randy Villegas",
+  "searches": [
+    "Randy Villegas artificial intelligence",
+    "\"Randy Villegas\" AI safety superintelligence",
+    "Randy Villegas congress campaign Bakersfield AI data centers",
+    "\"Randy Villegas\" extinction OR \"existential risk\" OR \"artificial intelligence\"",
+    "\"Randy Villegas\" AI pause OR moratorium OR regulation",
+    "\"Randy Villegas\" China AI agreement OR treaty",
+    "site:villegasforcongress.com artificial intelligence"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-26",
+      "venue": "Campaign press release and data center platform",
+      "quote": "The technology these facilities power cannot come at the expense of our personal information, our jobs, or our economic security. Congress needs strong rules governing how corporations collect and use our data and deploy AI.",
+      "context": "Announcing his call for a one-year moratorium on new data centers in the Central Valley and a platform that includes guardrails on AI.",
+      "source_label": "Villegas for Congress press release",
+      "url": "https://www.villegasforcongress.com/news/congressional-candidate-randy-villegas-calls-for-a-moratorium-on-new-data-centers",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Calls for AI rules on data, jobs and economic security, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "He called for a one-year moratorium on new data centers in the Central Valley, but tied it to utility bills, water, cost of living and local say, not to risks from AI itself, so it does not count.",
+      "sources": [
+        [
+          "Villegas for Congress press release, 2026-08-26",
+          "https://www.villegasforcongress.com/news/congressional-candidate-randy-villegas-calls-for-a-moratorium-on-new-data-centers"
+        ],
+        [
+          "KVPR, 2026-08-26",
+          "https://www.kvpr.org/environment/2026-08-26/democratic-house-candidate-in-swing-district-calls-for-moratorium-on-data-centers"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 his campaign spoke about AI (data privacy, jobs, children, guardrails, a data center moratorium) but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All 7 searches ran; none was refused. His campaign AI issue page (https://www.villegasforcongress.com/issues/artificial-intelligence, read at source, undated so not listed as a statement) says: \"Congress has been too slow to protect against the potential dangers of new AI technologies. Randy will fight to protect workers, families, and children from its risks.\" The dangers named there are about privacy, children and jobs, so it is D; a reviewer could consider whether 'potential dangers' is a general-risk C, but I judged it D because the risks are tied to workers, families and children. The data centers page says he supports AI policy 'focused on defending our data privacy, strengthening AI safety, and protecting families, children, and workers' (also D). The data center moratorium was motivated by cost, water and local control, so slowdown is 'none'. He was not in Congress in 2025-2026, so he did not co-sponsor the Ban Artificial Superintelligence Act and did not sign the House letters. Searches found nothing from him on superintelligence, extinction, a pause of AI development, or China. Local debate coverage and candidate questionnaires were not checked in depth."
+}

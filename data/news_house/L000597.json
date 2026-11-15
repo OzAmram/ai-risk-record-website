@@ -1,0 +1,66 @@
+{
+  "bioguide": "L000597",
+  "member": "Laurel M. Lee",
+  "searches": [
+    "site:laurellee.house.gov artificial intelligence",
+    "\"Laurel Lee\" superintelligence",
+    "\"Laurel Lee\" AI extinction existential risk",
+    "\"Laurel Lee\" AI pause slowdown moratorium",
+    "\"Laurel Lee\" China AI agreement talks",
+    "\"Laurel Lee\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "venue": "Press release introducing the Stealth Bot Prohibition Act",
+      "quote": "As artificial intelligence becomes more sophisticated, we must ensure innovation is accompanied by transparency and accountability.",
+      "context": "Introducing a bipartisan bill setting transparency standards for automated web crawlers and cracking down on deceptive AI bots that disguise their identity.",
+      "source_label": "House press release",
+      "url": "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-introduces-bipartisan-stealth-bot-prohibition-act-increase",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About transparency of AI web crawlers and protecting businesses' content; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development; in a Punchbowl News interview she stressed not stifling innovation, which is not a statement on a safety slowdown.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause; she is not shown as a cosponsor of the Ban Artificial Superintelligence Act of 2026 (H.R. 10538, introduced 24 September 2026 by Rep. Casar; the cosponsors named in sources are Democrats).",
+      "sources": [
+        [
+          "FastDemocracy, Ban Artificial Superintelligence Act cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of frontier AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the bipartisan Stealth Bot Prohibition Act, setting transparency standards for automated AI web crawlers (not about catastrophic risk).",
+      "House press release, 23 July 2026",
+      "https://laurellee.house.gov/media/press-releases/rep-laurel-lee-introduces-bipartisan-stealth-bot-prohibition-act-increase"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Rep. Lee spoke about AI in 2026 (the Stealth Bot Prohibition Act, on transparency of AI web crawlers) but no statement acknowledging catastrophic AI risk was found in seven web searches and her official press releases; she is not shown as a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All six required web searches ran in this attempt, plus one on the Ban Artificial Superintelligence Act House cosponsors (7 in total); none returned any statement by Laurel Lee on superintelligence, extinction or existential risk, a pause or moratorium, an agreement with China, or AI safety (the pause search returned only Rep. Summer Lee, a different member). The statement and record kept from the earlier attempt come from her official press release listing pages 1 and 2 (October 2026 back to March 2026), opened in that attempt; the only AI-related release there was the Stealth Bot Prohibition Act (23 July 2026); earlier listing pages were not checked. Ban Artificial Superintelligence Act: the House bill is H.R. 10538 (Casar); FastDemocracy and news reports list only Democratic cosponsors and do not include her; congress.gov was not checked directly. Not recorded: a Punchbowl News 'Advancing with AI' interview (undated, likely 2025) where she says AI will enhance rather than replace workers and warns against stifling innovation (D-level, read only through a summarizing fetch tool, https://punchbowl.news/the-ones-to-watch/advancing-with-ai/laurel-lee); two Floridian Press reports paraphrasing her at House Judiciary hearings on law enforcement countering criminal use of AI (July 2025) and on a federal standard for AI regulation (September 2025), which could not be opened in the earlier attempt (HTTP 403), so no quotes were taken (https://floridianpress.com/2025/07/lee-discusses-countering-criminal-use-of-ai/, https://floridianpress.com/2025/09/laurel-lee-discusses-the-federalization-of-ai-regulations/). She was appointed to the House AI Task Force in February 2024, before the search window. The many-signer House AI letters of August and September 2026 were not searched for, as instructed."
+}

@@ -1,0 +1,26 @@
+{
+  "bioguide": "ELECT-CA-38-SOLIS",
+  "member": "Hilda Solis",
+  "searches": [
+    "Hilda Solis artificial intelligence",
+    "Hilda Solis AI safety",
+    "Hilda Solis superintelligence OR \"artificial general intelligence\"",
+    "Hilda Solis AI extinction OR \"existential risk\"",
+    "Hilda Solis AI pause OR moratorium OR slowdown",
+    "Hilda Solis China AI agreement OR treaty",
+    "site:hildasolis.org artificial intelligence",
+    "site:hildalsolis.org AI",
+    "Supervisor Solis motion artificial intelligence Los Angeles County 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development. Her April 2026 data center study motion was about local health, environmental and community impacts, not risk from AI itself.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Hilda Solis about AI, let alone catastrophic AI risk, was found from 1 January 2025 onward.",
+  "notes": "Nine web searches ran; none was refused. The two site-restricted searches (hildasolis.org campaign site and hildalsolis.org supervisor site) returned no pages from those domains, so the official-site check is incomplete. The only related item found: on 14 April 2026, as Board Chair, she led an LA County motion to study the health and environmental impacts of hyperscale data centers (https://hildalsolis.org/los-angeles-county-advances-report-on-data-center-impacts-in-unincorporated-communities/, read at source). Her quoted remarks there do not mention AI; news coverage links the data centers to AI. She mentions a full moratorium lacked support, but the motivation is local impact, so positions stay none. Not a member of Congress in 2026, so she did not co-sponsor the Ban Artificial Superintelligence Act or sign House letters. A March 2026 Congressional Labor Caucus AI letter appeared in results but she was not a member then."
+}

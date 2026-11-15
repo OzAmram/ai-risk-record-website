@@ -1,0 +1,24 @@
+{
+  "bioguide": "M001233",
+  "member": "Mark B. Messmer",
+  "searches": [
+    "Messmer artificial intelligence (restricted to messmer.house.gov)",
+    "Rep. Mark Messmer superintelligence",
+    "Mark Messmer Indiana AI extinction existential risk",
+    "Mark Messmer AI pause slowdown moratorium",
+    "Mark Messmer China AI agreement treaty",
+    "\"Messmer\" \"AI safety\" congressman Indiana",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors list"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by him about AI since January 2025 was found in news, official releases or search results, so there is nothing to grade. His AI-related activity found is limited to defense bill provisions (Golden Dome Act funding for AI battle management and data fusion), which are not statements and are military use of AI.",
+  "notes": "All required searches ran this time (seven web searches, listed in 'searches'); an earlier attempt had all searches refused. Earlier direct check of the official site kept from that attempt: the home page and all seven pages of press releases (https://messmer.house.gov/news/documentquery.aspx?DocumentTypeID=27, January 2025 to 24 October 2026) showed no release about AI in titles or visible excerpts; the 22 July 2026 FY27 defense bill release (https://messmer.house.gov/news/documentsingle.aspx?DocumentID=323) was read in full and mentions only 'emerging technologies like hypersonics and autonomous systems'. The site-restricted search found the Golden Dome Act text (https://messmer.house.gov/uploadedfiles/golden_dome_act_text.pdf), which funds a 'machine learning and artificial intelligence information and data fusion platform' and lists 'artificial intelligence-driven battle management'; this is bill text about military use of AI (ruling 3, level D) and was not opened or recorded as a statement. A 'Messmer Report' on studying AI from his time as an Indiana state senator (https://indianasenaterepublicans.com/messmer-report-studying-artificial-intelligence) was opened; it has no date on the page, is signed 'State Sen. Mark Messmer', so it predates his January 2025 House term and is out of scope; it speaks only generally of AI's 'positive and negative impacts' and a state AI Task Force. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): partial cosponsor lists from search results (fastdemocracy, Forkast, Quiver Quantitative) name only Democrats and do not include him; the official Congress.gov cosponsor list was not opened (it returned HTTP 403 in the earlier attempt), so this is likely but not fully verified. No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Search results for the superintelligence, extinction, pause and China queries returned nothing mentioning him."
+}

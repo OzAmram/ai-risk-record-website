@@ -1,0 +1,100 @@
+{
+ "bioguide": "H001093",
+ "member": "Erin Houchin",
+ "searches": [
+  "site:houchin.house.gov artificial intelligence",
+  "Erin Houchin superintelligence",
+  "Erin Houchin AI extinction existential risk",
+  "Houchin AI pause slowdown moratorium",
+  "Erin Houchin China AI agreement treaty",
+  "\"Houchin\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors",
+  "Rep. Erin Houchin artificial intelligence 2026"
+ ],
+ "statements": [
+  {
+   "date": "2025-09-25",
+   "venue": "Press release introducing the AWARE Act",
+   "quote": "AI technology is advancing quickly, and it can offer real opportunities for learning and connection. But parents deserve clear tools to make sure their children are using it safely and at age-appropriate times,",
+   "context": "Introducing the AWARE Act, which directs the Federal Trade Commission to publish guidance on children's safe use of AI chatbot companions.",
+   "source_label": "Houchin House press release",
+   "url": "https://houchin.house.gov/media/press-releases/houchin-auchincloss-introduce-first-house-bill-ai-chatbot-companions",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About children's safe use of AI chatbots, which is outside catastrophic risk."
+  },
+  {
+   "date": "2025-12-11",
+   "venue": "Press release on subcommittee passage of her bills",
+   "quote": "These bills take on AI chatbot risks, strengthen transparency, and hold platforms accountable for whether children can access their apps.",
+   "context": "Energy and Commerce subcommittee passage of the AWARE Act, SAFEBOTs Act and Parents Over Platforms Act.",
+   "source_label": "Houchin House press release",
+   "url": "https://houchin.house.gov/media/press-releases/houchin-applauds-subcommittee-passage-three-kids-online-safety-bills",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "AI chatbot risks to children are outside the scope of catastrophic risk."
+  },
+  {
+   "date": "2026-06-08",
+   "venue": "Statement on the Great American AI Act discussion draft, reported by Ripon Advance",
+   "quote": "America should lead the world in artificial intelligence, not regulate ourselves into falling behind China through a patchwork of fifty different state laws,",
+   "context": "Supporting the Obernolte-Trahan discussion draft of a federal AI framework that would replace a state-by-state approach.",
+   "source_label": "Ripon Advance, 8 June 2026",
+   "url": "https://riponadvance.com/featured/obernolte-unveils-bipartisan-ai-framework/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About competition with China and state AI laws, with no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy in eight web searches and her official press releases.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy in eight web searches and her official press releases.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on this policy in eight web searches and her official press releases.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy in eight web searches and her official press releases.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sponsored the AWARE Act (H.R. 5360), directing the Federal Trade Commission to publish guidance on AI chatbot companions for parents, educators and minors.",
+   "Houchin House press release, 2025-09-25",
+   "https://houchin.house.gov/media/press-releases/houchin-auchincloss-introduce-first-house-bill-ai-chatbot-companions"
+  ],
+  [
+   "Authored the SAFEBOTs Act (chatbot disclosure to minors, crisis hotline information, break prompts); it and the AWARE Act were included in the KIDS Act (H.R. 7757), which passed the Energy and Commerce Committee.",
+   "Houchin House press release, 2026-03-06",
+   "https://houchin.house.gov/media/press-releases/houchin-bills-protect-children-ai-dangers-pass-energy-commerce-committee"
+  ],
+  [
+   "Listed among House members supporting the discussion draft of the Great American Artificial Intelligence Act of 2026 (Obernolte and Trahan), a federal AI framework setting a national standard over state laws.",
+   "Ripon Advance, 2026-06-08",
+   "https://riponadvance.com/featured/obernolte-unveils-bipartisan-ai-framework/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "She has spoken repeatedly about AI, but only about chatbot risks to children and about competing with China under one federal standard; nothing found acknowledges catastrophic risk. Her 2026 statements (KIDS Act, March 2026; Great American AI Act draft, June 2026) are level D.",
+ "notes": "All six required web searches ran this time, plus two more (Ban Artificial Superintelligence Act cosponsors; her AI remarks in 2026). None of the topic searches returned anything linking her to superintelligence, extinction, a pause or slowdown, China talks or AI safety in the catastrophic sense. Sources on the Ban Artificial Superintelligence Act (H.R. 10538, Casar) name only Democratic cosponsors; none shows her as a sponsor or cosponsor, though the full congress.gov cosponsor list was not opened. No House letter about AI risk signed by her was found (the many-signer letters are handled centrally and were not searched). Earlier run: the official press release listing at houchin.house.gov was read from November 2026 back to April 2025, and AI-related releases were opened and quotes checked; those quotes are kept. A November 2025 Kids Online Safety Caucus quote (D) was dropped to keep at most three D statements, in favour of the June 2026 one. The June 2026 quote is from a Ripon Advance news report dated 8 June 2026 (page text downloaded and checked); the statement may have been made a day or two earlier with the draft's release. Her 2026 KIDS Act release quote speaks of 'new technology powered by Big Tech' without naming AI, so it was left out. Her Breitbart op-ed (22 November 2025) and a Punchbowl News event remark (May 2026, seen only as a paraphrase in a search summary) concern children's safety, innovation and aligning with the Senate; not quoted."
+}

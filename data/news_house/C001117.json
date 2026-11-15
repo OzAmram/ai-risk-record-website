@@ -1,0 +1,26 @@
+{
+  "bioguide": "C001117",
+  "member": "Sean Casten",
+  "searches": [
+    "Casten artificial intelligence (restricted to casten.house.gov)",
+    "Sean Casten superintelligence",
+    "Sean Casten AI extinction existential risk",
+    "Sean Casten AI pause slowdown moratorium",
+    "Sean Casten China AI agreement treaty",
+    "\"Sean Casten\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Casten"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Co-led (with Takano, Foster, Beyer and Obernolte) a bipartisan bill, the Congressional Office of Technology Improvement and Enhancement Act, to create a Congressional Office of Technology; the release mentions artificial intelligence among emerging technologies but Casten's own quoted words do not mention AI or AI risk", "casten.house.gov press release, 2026-10-29", "https://casten.house.gov/media/press-releases/casten-takano-foster-beyer-and-obernolte-lead-bipartisan-coalition-to-create-the-congressional-office-of-technology"]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Casten about AI risk, catastrophic or otherwise, was found from 2025-2026 in web searches or his official press releases. His only AI-related activity found is a technology-assessment office bill and a letter about an AI data center's electricity use, neither containing his own words on AI risk.",
+  "notes": "All six required web searches ran in this attempt, plus one on Ban Artificial Superintelligence Act cosponsors (7 total); none returned any statement by Casten on AI risk, superintelligence, extinction, a pause, or China talks. Several results concerned Greg Casar (similar name), not Casten. Ban Artificial Superintelligence Act: the House version is H.R. 10538 (Casar, 24 September 2026); fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Casten is not among them; congress.gov returned 403 and could not be checked, so a later cosponsor cannot be ruled out. The site-restricted search also found a casten.house.gov release 'Casten, 17 House Democrats Scrutinize New Trump Coal Plant' about a plant tied to a 1-gigawatt AI data center (electricity and energy concern, would be level D; not opened, undated in results, not used). The 'Office of Technology Assessment' reintroduction release found by search is dated 2 February 2022 (outside the window) and Casten's quote there does not mention AI. From the earlier attempt: casten.house.gov press release listing pages were opened directly, covering about 21 February 2025 to 29 October 2026 (titles and excerpts only); releases from 1 January to about 20 February 2025 were not checked. Hearing remarks and floor speeches were not checked beyond what web search surfaced. Per instructions, the many-signer House letters of August-September 2026 were not searched; any signatures are left to the central build."
+}

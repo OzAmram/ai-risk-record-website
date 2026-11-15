@@ -1,0 +1,24 @@
+{
+  "bioguide": "H001052",
+  "member": "Andy Harris",
+  "searches": [
+    "Andy Harris artificial intelligence (restricted to harris.house.gov)",
+    "Rep. Andy Harris superintelligence",
+    "Andy Harris Maryland AI extinction existential risk",
+    "Andy Harris AI pause slowdown moratorium",
+    "Andy Harris China AI agreement treaty",
+    "\"Andy Harris\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, in searches or on his official press release pages, so there is nothing to grade.",
+  "notes": "All 6 required web searches ran this time, plus one on the Ban Artificial Superintelligence Act cosponsors (7 in total). None returned anything about Rep. Andy Harris (R-MD) and AI; results were about other people named Harris (Tristan Harris, Kamala Harris, Jeremie Harris), so no statements were recorded. The site-restricted search of harris.house.gov surfaced only a robocall bill statement about 'artificial or prerecorded voice' calls, which is a telemarketing measure, not AI. From the earlier attempt (still valid): his press release list (https://harris.house.gov/media/press-releases, pages 0 to 4, all 50 releases from 12 January 2026 to 5 November 2026) had no release mentioning AI in its title or summary, and the 9 June 2026 release on Maryland's power grid does not mention AI or data centers. Ban Artificial Superintelligence Act (H.R. 10538, sponsor Greg Casar): the Congress.gov cosponsor page still returned 403; news sources describe roughly nine to ten cosponsors, all named ones Democrats, and none shows Harris as a cosponsor. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Not checked: 2025 press releases page by page and hearing transcripts (he chairs the Agriculture-FDA appropriations subcommittee)."
+}

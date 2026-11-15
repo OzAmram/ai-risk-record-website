@@ -1,0 +1,24 @@
+{
+  "bioguide": "J000295",
+  "member": "David P. Joyce",
+  "searches": [
+    "Joyce artificial intelligence site:joyce.house.gov",
+    "Rep. David Joyce Ohio superintelligence",
+    "\"David Joyce\" AI extinction OR \"existential risk\"",
+    "\"David Joyce\" AI pause OR slowdown OR moratorium",
+    "\"David Joyce\" China AI agreement OR treaty",
+    "\"Dave Joyce\" \"AI safety\" OR \"artificial intelligence\" congressman Ohio",
+    "\"Rep. Dave Joyce\" artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by him about AI since January 2025 was found in seven web searches or on his official site, so there is nothing to grade.",
+  "notes": "All seven web searches ran (the six required plus one general search on his name with artificial intelligence in 2026); none returned anything by David P. Joyce (Ohio 14th) about AI. The site-restricted search returned no pages from joyce.house.gov at all, only pages about Rep. John Joyce of Pennsylvania (Energy and Commerce hearings on AI chatbots and on AI and biotechnology, an AI health-devices bill); those are a different person and were excluded. From an earlier attempt (whose web searches were all refused), the official site was opened directly: the home page, https://joyce.house.gov/press (renders no list without JavaScript), the RSS feed https://joyce.house.gov/feed, and the site search feed (https://joyce.house.gov/feed?s=...). Site search for \"artificial intelligence\" and \"superintelligence\" returned no posts; \"artificial\" returned only a 2019 impeachment statement; \"extinction\" and \"moratorium\" returned only unrelated older posts. Four 2025-2026 posts (10 Nov 2026 manufacturers bill, FY27 Financial Services appropriations bill release and markup, 2025 Congressional App Challenge) were opened and contain no mention of AI. Hearing transcripts and floor speeches were not searched beyond the web searches above. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy page (opened in the earlier attempt, not re-opened now) lists 12 cosponsors, all Democrats, and not Joyce; congress.gov returned 403 so the official list was not checked. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Not to be confused with Rep. John Joyce of Pennsylvania or Rep. Joyce Beatty of Ohio."
+}

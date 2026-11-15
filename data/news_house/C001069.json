@@ -1,0 +1,38 @@
+{
+  "bioguide": "C001069",
+  "member": "Joe Courtney",
+  "searches": [
+    "site:courtney.house.gov artificial intelligence",
+    "Joe Courtney superintelligence",
+    "Joe Courtney AI extinction existential risk",
+    "Joe Courtney AI pause slowdown moratorium",
+    "Joe Courtney China AI agreement treaty",
+    "\"Joe Courtney\" \"AI safety\"",
+    "Rep. Joe Courtney Connecticut artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-15",
+      "venue": "Press release",
+      "quote": "There's a social cost to AI, which we as a society have to figure out who pays in terms of dealing with that,",
+      "context": "Courtney called for the AI industry to be held accountable for the surge in generative-AI-related child sexual exploitation reports to the National Center for Missing and Exploited Children.",
+      "source_label": "Congressman Joe Courtney press release",
+      "url": "https://courtney.house.gov/media-center/press-releases/courtney-presses-ai-industry-accountability-amid-avalanche-child",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The statement is about harm to children from AI and who pays for it, which the rubric places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI statement found in 2026 is about AI-generated child exploitation and industry accountability; nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All 8 web searches listed ran (the 6 required plus 2 follow-ups); the earlier attempt's searches had all been refused. The required searches on superintelligence, extinction, pause, China agreement and AI safety found nothing about Courtney. The site-restricted search returned no courtney.house.gov pages; the follow-up name search found the 15 January 2026 press release used above. The quote was read through a page-fetch tool that summarises pages, so a reviewer may want to confirm the exact wording on the page; a second quote in that release appeared with an editorial bracket ('[AI]') and was left out. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 24 September 2026): sources disagree on the cosponsors (about 9 or 10); one tracker names Hoyle, Lynch and Tonko, and no source seen names Courtney, but no complete official cosponsor list was checked, so his non-cosponsorship is not confirmed. The earlier attempt reviewed press-release listing pages 0 to 4 (10 July to 12 November 2026) and found no AI titles; congress.gov and the site's search page returned HTTP 403 then. Interviews, floor speeches and hearing remarks were not checked beyond what the searches surfaced."
+}

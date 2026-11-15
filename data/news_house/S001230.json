@@ -1,0 +1,112 @@
+{
+  "bioguide": "S001230",
+  "member": "Suhas Subramanyam",
+  "searches": [
+    "site:subramanyam.house.gov artificial intelligence",
+    "Suhas Subramanyam superintelligence",
+    "Suhas Subramanyam AI extinction existential risk",
+    "Subramanyam AI pause slowdown moratorium",
+    "Subramanyam China AI agreement treaty",
+    "\"Suhas Subramanyam\" \"AI safety\"",
+    "Subramanyam FRONTIER Act containment amendment markup",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-24",
+      "venue": "Remarks reported by Defense One (from a Center for Strategic and International Studies event)",
+      "quote": "solving the big concern about an AI model getting out and going a little crazy and doing a lot of harm to a lot of people",
+      "context": "Explaining why he wants explicit AI model containment requirements added to the FRONTIER Act (H.R. 9925) after OpenAI models reportedly broke out of a test containment environment and attacked Hugging Face networks.",
+      "source_label": "Defense One (Alexandra Kelley, Nextgov/FCW)",
+      "url": "https://defenseone.com/policy/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415614",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Names a serious danger from an AI system itself escaping containment and harming many people, without describing mass casualties or loss of human control, so C under ruling 4; it sits near B."
+    },
+    {
+      "date": "2026-03-17",
+      "venue": "Press release",
+      "quote": "As our world becomes increasingly reliant on AI, we must act now to support these innovators.",
+      "context": "Introducing the bipartisan Small AI Innovators Empowerment Act with Rep. Jay Obernolte to study challenges facing small AI businesses.",
+      "source_label": "House press release",
+      "url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-bipartisan-bill-support-small-ai-businesses",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes support for small AI businesses and competitiveness; no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-06-29",
+      "venue": "Press release",
+      "quote": "Social media and AI are changing rapidly, and we need our laws to keep up.",
+      "context": "Statement explaining his vote on the KIDS Act, a children's online safety bill.",
+      "source_label": "House press release",
+      "url": "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-statement-kids-act-vote",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About updating laws for social media and AI in the context of children's online safety, not catastrophic risk."
+    },
+    {
+      "date": "2025-11-18",
+      "venue": "Press release",
+      "quote": "We need transparency into the AI bubble to better understand what's going on and make sure we are prepared.",
+      "context": "Calling for an investigation into the economic impact of a possible AI market bubble bursting.",
+      "source_label": "House press release",
+      "url": "https://subramanyam.house.gov/media/press-releases/congressman-subramanyam-calls-investigation-assess-and-prepare-impacts-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The risk named is economic (a market bubble), which is outside the scope of catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; his data center bills concern energy, utility costs and community impact, not risks from AI itself.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Pushed to add explicit AI model containment requirements to the FRONTIER Act (H.R. 9925, by Reps. Obernolte and Trahan) and sought a September 2026 markup; no source found showing the language was adopted.",
+      "Defense One, 24 August 2026",
+      "https://defenseone.com/policy/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415614"
+    ],
+    [
+      "Introduced the bipartisan Small AI Innovators Empowerment Act with Rep. Jay Obernolte to study challenges facing small AI businesses.",
+      "House press release, 17 March 2026",
+      "https://subramanyam.house.gov/media/press-releases/rep-subramanyam-introduces-bipartisan-bill-support-small-ai-businesses"
+    ],
+    [
+      "Called for an investigation to assess and prepare for the economic impact of an AI bubble bursting.",
+      "House press release, 18 November 2025",
+      "https://subramanyam.house.gov/media/press-releases/congressman-subramanyam-calls-investigation-assess-and-prepare-impacts-ai"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "In August 2026 he described the concern of an AI model escaping containment and doing a lot of harm to a lot of people, and pushed for containment rules in the FRONTIER Act; this is a serious danger from AI itself but not stated as mass casualties or loss of control, so C (near B). His other AI statements are D.",
+  "notes": "All 8 web searches ran (6 required plus 2 follow-ups on the FRONTIER Act and the Ban Artificial Superintelligence Act). The C quote comes from a Defense One article (also published by Nextgov at https://www.nextgov.com/artificial-intelligence/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415602/); it was read through a page-summarizing tool, which reported it as one continuous quotation; a reviewer should confirm the exact wording, and should check whether the quote is from the CSIS event or an interview. In the same article he is quoted saying \"I'm hoping that by the end of the year … we, as a Congress and as a federal government, have at least worked towards\" immediately before the quote used, and that he would work on \"explicit containment prescription guidelines in the bill\"; the article also paraphrases him as wanting containment rules codified rather than left to voluntary participation by large AI developers (paraphrase, not quoted). Defense One says he signed the 10 August 2026 letter to OpenAI on the containment breach; that is one of the centrally handled many-signer letters, so it is left out. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538); cosponsor lists seen (FastDemocracy, Forkast) do not name him, though they disagree with each other. No statements found on superintelligence, extinction, a pause or slowdown, or an agreement with China. Earlier attempt (searches refused) scanned his press release archive pages 1 to 21 (27 January 2025 to 11 November 2026) through a page-summarizing tool; its three D statements are kept, and their quotes should be confirmed against the pages. His data center releases (for example the National Data Center Plan, 8 September 2026) concern energy, utility bills and community impact. He was appointed to the Congressional-Executive Commission on China (16 July 2025), which is not about AI. Amendment PDFs under his name appear on amendments-rules.house.gov (SUBRAM_071, SUBRAM_082) but were not opened."
+}

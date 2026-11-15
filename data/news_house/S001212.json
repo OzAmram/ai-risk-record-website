@@ -1,0 +1,24 @@
+{
+  "bioguide": "S001212",
+  "member": "Pete Stauber",
+  "searches": [
+    "Pete Stauber superintelligence",
+    "Stauber artificial intelligence site:stauber.house.gov",
+    "Pete Stauber AI extinction existential risk",
+    "Pete Stauber AI pause slowdown moratorium data centers",
+    "Pete Stauber China AI agreement treaty",
+    "\"Stauber\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade.",
+  "notes": "All seven web searches in this run ran (six required plus one on the Ban Artificial Superintelligence Act); none returned any result mentioning Pete Stauber, and the site-restricted search returned no stauber.house.gov pages. Kept from the earlier, interrupted attempt: his official press release listing pages (https://stauber.house.gov/media/press-releases, ?page=1, ?page=2), covering 12 January to 28 October 2026, were opened and no title or excerpt mentions AI (only excerpts, not full texts, were visible); his 24 February 2026 State of the Union response does not mention AI. Only AI mention found: his 9 April 2025 press release on the coal executive order (https://stauber.house.gov/media/press-releases/stauber-applauds-trumps-executive-order-reinvigorate-coal-industry) has press office bullet text saying the order 'Pushes for using coal to power new artificial intelligence (AI) data'; not his own quoted words and level D at most, so left out. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 24 September 2026): search results describe its cosponsors as House Democrats (named examples: Ocasio-Cortez, Hoyle, Lynch, Tonko); no source shows Stauber as sponsor or cosponsor, but the full official cosponsor list on Congress.gov was not read (it returned HTTP 403 in the earlier attempt). No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

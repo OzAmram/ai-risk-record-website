@@ -1,0 +1,77 @@
+{
+  "bioguide": "L000562",
+  "member": "Stephen F. Lynch",
+  "searches": [
+    "Lynch artificial intelligence (restricted to lynch.house.gov)",
+    "Rep. Stephen Lynch superintelligence",
+    "Stephen Lynch AI extinction existential risk",
+    "Rep. Stephen Lynch AI pause slowdown moratorium",
+    "Stephen Lynch China AI agreement treaty",
+    "\"Stephen Lynch\" \"AI safety\"",
+    "Lynch Bessent artificial intelligence \"talk sense\""
+  ],
+  "statements": [
+    {
+      "date": "2025-02-11",
+      "venue": "Opening remarks, House Financial Services Subcommittee on Digital Assets, Financial Technology and Artificial Intelligence hearing",
+      "quote": "Last Congress, I was encouraged by the bipartisan approach to exploring artificial intelligence.",
+      "context": "As ranking member, opening a hearing on digital assets, he recalled the bipartisan AI working group he co-led and said competitors such as DeepSeek show the need to move quickly on US competitiveness.",
+      "source_label": "Rep. Lynch press release (opening remarks)",
+      "url": "https://lynch.house.gov/2025/2/congressman-lynch",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He speaks about AI policy work and competitiveness without acknowledging any catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Co-sponsor (not a statement of his own) of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, which would freeze high-level AI development until a new federal authority sets safety standards; a pause for safety reasons counts as yes here.",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ],
+        [
+          "ExecutiveGov on the bill, 2026-09-24",
+          "https://www.executivegov.com/articles/artificial-superintelligence-act-sanders-casar-proposed"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "Co-sponsor of H.R. 10538; its freeze on advanced AI development is conditional on a federal regulator setting safety standards, which the rubric treats as mixed. No statement of his own found.",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ],
+        [
+          "ExecutiveGov on the bill, 2026-09-24",
+          "https://www.executivegov.com/articles/artificial-superintelligence-act-sanders-casar-proposed"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "H.R. 10538 directs US policy toward international agreements, allied coordination and export controls to prevent superintelligence abroad, but the report read does not name China or pacing talks with China; nothing else found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "H.R. 10538 bans superintelligence; the report read does not mention a ban on self-improving AI or automated AI research, and a superintelligence ban alone does not count.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-sponsored H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (House version led by Rep. Greg Casar), which would permanently ban superintelligent AI and freeze high-level AI development until a new federal authority sets safety standards.",
+      "FastDemocracy cosponsor list; bill introduced 2026-09-24",
+      "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "No statement in his own words acknowledging catastrophic AI risk was found; the only quotable statement is from 2025 and is about AI policy and competitiveness (D). He co-sponsored the Ban Artificial Superintelligence Act in September 2026, and news reports say he pressed Treasury Secretary Bessent on existential AI risk in a 2026 hearing, so a reviewer may want to grade higher once his actual hearing words are checked.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra on his reported exchange with Treasury Secretary Bessent (7 in total); none was refused. Ban Artificial Superintelligence Act: the FastDemocracy page for H.R. 10538 (opened) lists 'Stephen F. Lynch' among 12 cosponsors, with no party, state or date; he is the only Lynch with that name in the House, but congress.gov (403 in the earlier attempt) was not checked to confirm. Paraphrases left out: Crypto Briefing (15 September 2026, https://cryptobriefing.com/lynch-urges-treasury-ai-regulation/, opened) says that at a House Financial Services Committee hearing Lynch pressed Treasury Secretary Scott Bessent to use Treasury's resources to investigate the existential risks posed by AI, and criticized the administration's AI Action Plan; it gives no direct quote and dates the hearing 14 July 2026, but the committee calendar shows Bessent's testimony was on 15 September 2026 (https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=411218; the 14 July hearing was the Federal Reserve report), so the article's date is probably wrong. The Hill (https://thehill.com/policy/technology/6090823-lynch-urges-bessent-trump-ai-regulation/) reported he urged Bessent to 'talk sense' into President Trump on AI regulation; The Hill page returned 403 and was seen only via a Digg summary, with no direct quote. The committee page lists no transcript, only a video (https://www.youtube.com/live/8NScG9dPgWs), which I could not watch. A reviewer should check the video for his exact words: if he said AI poses existential risk in his own words, that would be a 2026 A or B statement. The govinfo transcript of the 17 September 2025 Oversight hearing 'Shaping Tomorrow: The Future of Artificial Intelligence' (opened) has no remarks by Lynch. Kept from the earlier attempt: the 11 February 2025 opening remarks (https://lynch.house.gov/2025/2/congressman-lynch) were only partly returned verbatim; the rest of that paragraph (co-leading the AI working group with Chair Hill, an MIT roundtable, DeepSeek showing the need to move quickly) is paraphrase and not quoted. His press release listing (https://lynch.house.gov/press-releases, reopened, releases June 2025 to September 2026) shows no AI-related titles. Older AI items on his site (January 2024 working group, June 2024 MIT roundtable on AI benefits and risks, 2019 items) predate 2025 and were not graded. A May 2025 Massachusetts state legislators' letter opposing a federal moratorium on state AI laws was addressed to him among others; that is not his statement and is out of scope. No House letter about AI risk led by him was found; the many-signer August and September 2026 House letters were not searched, per instructions."
+}

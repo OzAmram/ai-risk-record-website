@@ -1,0 +1,24 @@
+{
+  "bioguide": "M001205",
+  "member": "Carol D. Miller",
+  "searches": [
+    "Carol Miller artificial intelligence (restricted to miller.house.gov)",
+    "Rep. Carol Miller West Virginia superintelligence",
+    "\"Carol Miller\" AI extinction OR \"existential risk\"",
+    "\"Carol Miller\" AI pause OR slowdown OR moratorium",
+    "\"Carol Miller\" China AI agreement OR treaty",
+    "\"Carol Miller\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in her own words about AI was found in her official press releases (February 2025 to September 2026) or in six required web searches plus one on the Ban Artificial Superintelligence Act. Her technology-related activity is about digital trade, cloud providers and digital health, not AI risk.",
+  "notes": "All seven web searches ran this time (six required plus one on the Ban Artificial Superintelligence Act); none found a statement by her about AI risk, superintelligence, extinction, a pause or slowdown, or a China agreement. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): search results named only Democratic cosponsors (for example Hoyle, Lynch, Tonko, Ocasio-Cortez, Ansari); no source shows Miller co-sponsoring, though congress.gov was not checked directly. A news report (newsfromthestates.com, 'WV lawmakers sign national letter opposing federal preemption over AI regulation') says she voted for the 2025 House tax and spending bill that contained a moratorium on state AI laws; this is a vote, not her own statement, and is not about catastrophic risk, so it is not recorded. Search results mentioning 'Miller' on AI extinction or a pause were about Geoffrey Miller, Carl Miller and Joseph Miller, different people. From the earlier attempt (still valid): miller.house.gov press release listing pages ?page=0 to ?page=8 were opened, covering 28 February 2025 to 4 September 2026; no title or excerpt mentioned AI. Releases opened: 14 January 2026 Ways and Means trade hearing on technology leadership (https://miller.house.gov/media/press-releases/miller-participates-hearing-maintaining-american-innovation-and-technology), about digital trade barriers in South Korea and the EU, no AI; 4 June 2026 coal release, no AI; 3 September 2026 letter on Australia and American digital companies (https://miller.house.gov/media/press-releases/miller-colleagues-call-ustr-push-back-against-australias-discriminatory), no AI in the release (letter text not opened). A South Korea cloud-provider letter she co-led was described by an industry group as affecting AI adoption, but that framing is not hers. Her 2022 data center visit release has no AI mention. Page reads came from a fetch tool that summarizes pages, so a passing AI mention inside a release body could have been missed; grade could be D if such remarks exist."
+}

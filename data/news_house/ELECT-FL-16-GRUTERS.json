@@ -1,0 +1,29 @@
+{"bioguide": "ELECT-FL-16-GRUTERS", "member": "Sydney Gruters",
+ "searches": [
+  "Sydney Gruters artificial intelligence",
+  "Sydney Gruters campaign Congress Florida 16 AI safety",
+  "\"Sydney Gruters\" superintelligence OR \"artificial intelligence\" OR AI",
+  "\"Gruters\" Steube FL-16 candidate AI extinction OR existential risk",
+  "\"Sydney Gruters\" AI pause OR moratorium OR slowdown OR China",
+  "\"Sydney Gruters\" \"AI safety\"",
+  "\"Sydney Gruters\" Congress candidate Sarasota"
+ ],
+ "statements": [
+  {"date": "2026-09-23", "venue": "League of Women Voters online candidate forum (Florida District 16)",
+   "quote": "Big Tech should pay their own way. They have the money. This should not be put on the consumers under any circumstances",
+   "context": "Asked about energy-intensive data centers proposed in the district, she said tech companies should cover their energy and water costs rather than consumers, and that local communities should decide whether to host them.",
+   "source_label": "WUSF, 24 September 2026",
+   "url": "https://www.wusf.org/politics-issues/2026-09-24/candidates-to-replace-vern-buchanan-in-congress-spar-in-an-online-forum",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About data center costs to consumers, which the rubric places outside catastrophic AI risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI; her data center remarks were about energy and water costs and local choice, not AI risk.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI-related remark found is about data centers' energy and water costs (September 2026 candidate forum); nothing about catastrophic AI risk was found.",
+ "notes": "Seven web searches ran; none was refused. Topic searches (superintelligence, extinction, pause, China, AI safety) returned nothing about her. No campaign site with AI positions was found. The forum date 2026-09-23 is inferred from the WUSF article (published Thursday 24 September, forum held 'Wednesday'). The quote was read via a page-fetch tool that summarises pages; a reviewer should confirm exact wording at the URL. The article does not quote her using the word 'AI'; opponent Kelly Kirschner raised AI data centers in Arcadia and Fort Meade, so treating this as an AI remark is a judgment call (if not counted, the grade would be 'none'). A WGCU profile (16 October 2026) listed no AI or technology positions. Not a House member, so no sponsorship of the Ban Artificial Superintelligence Act or House letters."}

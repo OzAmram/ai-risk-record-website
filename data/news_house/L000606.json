@@ -1,0 +1,22 @@
+{"bioguide": "L000606", "member": "George Latimer",
+ "searches": [
+  "site:latimer.house.gov artificial intelligence",
+  "George Latimer \"AI safety\"",
+  "Rep. George Latimer superintelligence",
+  "George Latimer AI extinction existential risk",
+  "George Latimer AI pause moratorium slowdown",
+  "George Latimer China AI agreement treaty",
+  "Rep. Latimer artificial intelligence bill 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement on slowing AI development was found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement on pausing AI development was found; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538) on FastDemocracy.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+  "intl": {"value": "none", "note": "No statement on an AI agreement with China was found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement on banning self-improving AI was found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "Eight web searches and his official press release pages turned up no statement by George Latimer about AI, and he is not listed as a cosponsor of the Ban Artificial Superintelligence Act.",
+ "notes": "All 8 web searches ran this time (6 required plus one general AI-bill search and one cosponsor search). None returned any statement by George Latimer about AI; results about 'Rep. George' superintelligence were about Rep. George Whitesides (D-CA), a different member, and were excluded. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026, Casar): congress.gov cosponsor page returned 403; FastDemocracy lists 12 cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and Latimer is not among them; Quiver Quant reported 9 cosponsors at an earlier date. A reviewer may want to confirm on congress.gov. Official site: the press release listing (latimer.house.gov/media/press-releases) still shows nothing after 11 March 2026 and no AI-related release; an earlier attempt also checked listing pages 1 to 5 (back to 7 February 2025), In the News page 1 and the 1 December 2025 task forces release, with no mention of AI. A legislative tracker (legiplex) listing his sponsored and co-sponsored bills showed no AI-related titles in the search snippet, but was not opened. House multi-signer AI letters were not searched, as instructed. Grade 'none' means nothing about AI was found, not a confirmed absence."}

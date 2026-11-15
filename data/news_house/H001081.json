@@ -1,0 +1,23 @@
+{
+  "bioguide": "H001081",
+  "member": "Jahana Hayes",
+  "searches": [
+    "Jahana Hayes artificial intelligence (restricted to hayes.house.gov)",
+    "Jahana Hayes superintelligence",
+    "Jahana Hayes AI extinction existential risk",
+    "Jahana Hayes AI pause slowdown moratorium",
+    "Jahana Hayes China AI agreement treaty",
+    "\"Jahana Hayes\" \"AI safety\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI material found is a report that she raised student safety risks of AI in classrooms at a 14 January 2026 House Education and Workforce hearing, which is outside catastrophic risk (level D). No statement in her own words on catastrophic AI risk was found.",
+  "notes": "All six required web searches ran in this attempt (an earlier attempt was cut short after two). None found any statement by her on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or catastrophic AI risk. The site-restricted search returned only unrelated press releases (defense bill amendment on military behavioral health, community project funding, a 2024 ARKA visit in Danbury). Paraphrase left out of statements: a Center for Democracy and Technology summary (https://cdt.org/?p=11531, opened) of the 14 January 2026 House Education and Workforce Committee hearing 'Building an AI-Ready America' lists Hayes among members who 'inquired about or made reference to potential student risks when deploying AI in the classroom' (student safety, loss of critical thinking); it does not quote her. A search-result summary of a Dailymotion video (https://www.dailymotion.com/video/x9h7p44, not opened) says she spoke about safety and privacy in classroom AI; no exact wording was taken from it. The suggested D rests on these paraphrased reports only; a reviewer may prefer 'none'. From the earlier attempt: her press release list (https://hayes.house.gov/press-releases, pages 1 and 2, 18 May to 10 November 2026) was checked by title only and none mention AI. Ban Artificial Superintelligence Act (September 2026, Sen. Sanders and Rep. Casar): the Common Dreams article (https://www.commondreams.org/news/sanders-casar-superintelligence-ban) names only Sanders and Casar; the Congress.gov cosponsor page for H.R. 10538 (bill number from another project file, not verified) returned HTTP 403 again, so whether Hayes cosponsored is unchecked. No House letter about AI risk led or signed by her was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

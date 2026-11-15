@@ -148,7 +148,7 @@ const XPOSTS = {}; /*XPOSTS*/
 const XSENATORS = []; /*XSENATORS*/
 // senators-elect and lame-duck senators, by page id; filled in by site/build.py from data/status.csv
 const STATUS = {}; /*STATUS*/
-const STATUS_NAME = {"senator-elect":"Senator-elect", "lame duck":"Lame duck"};
+const STATUS_NAME = {"senator-elect":"Senator-elect", "representative-elect":"Representative-elect", "lame duck":"Lame duck"};
 const POS = {yes:"Yes",no:"No",mixed:"Mixed / conditional",none:"No stated position"};
 const POS_SHORT = {yes:"Yes",no:"No",mixed:"Mixed",none:"Not stated"};
 const S = [
@@ -223,7 +223,7 @@ const S = [
       rsi:["none","None found. Only the collected X posts were searched for this."]},
  stmts:[
   ["12 Jun 2026","ChinaTalk podcast","A human being must be the decision maker","On rules for military and veterans' benefits uses of AI. She said Congress should be discussing AI every day.","ChinaTalk transcript","https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and",1,null,"D"],
-  ["17 Mar 2026","Press release, AI Guardrails Act","Congress is behind in putting left and right limits on the use of AI","Bill limits Pentagon use of AI in lethal force, domestic surveillance and nuclear weapons.","Senate press release","https://www.slotkin.senate.gov/?p=2567",0,null,"D"],
+  ["17 Mar 2026","Press release, AI Guardrails Act","Congress is behind in putting left and right limits on the use of AI","Bill limits Pentagon use of AI in lethal force, domestic surveillance and nuclear weapons.","Senate press release","https://www.slotkin.senate.gov/?p=2567","found on the page by a second check run by a language model",null,"D"],
   ["5 Sep 2025","Speech, Council on Foreign Relations","We need to get our ass in gear on the tech arms race","Called winning on AI the most important part of the technology race with China.","Senate press release","https://www.slotkin.senate.gov/2025/09/08/icymi-slotkin-lays-out-new-vision-for-american-national-security-keyed-to-middle-class-priorities",1,null,"D"]],
  record:[
   ["AI Guardrails Act provisions adopted in the Senate defense authorization markup, per her account.","ChinaTalk, 12 Jun 2026","https://www.chinatalk.media/p/sen-slotkin-ndaa-ai-guardrails-and"],
@@ -232,6 +232,11 @@ const S = [
 ];
 
 S.push(...XSENATORS);
+// records for members of the House, drafted by site/house_records.py and filled in by site/build.py
+const XHOUSE = []; /*XHOUSE*/
+S.push(...XHOUSE);
+const house = s => s.chamber === "house";
+let chamber = "senate";  // which chamber the index page lists
 // Alphabetical by last name. Last names of more than one word are listed here.
 const SURNAMES = ["Blunt Rochester", "Cortez Masto", "Van Hollen"];
 const surname = s => SURNAMES.find(n => s.name.endsWith(n)) || s.name.split(" ").pop();
@@ -247,17 +252,19 @@ const TIERS = {post:"original post", official:"official record", transcript:"tra
 function tier(url){
   const h = new URL(url).hostname.replace(/^www\./, "");
   const k = h === "x.com" ? "post"
-    : /(^|\.)senate\.gov$|govinfo\.gov$/.test(h) ? "official"
+    : /(^|\.)senate\.gov$|(^|\.)house\.gov$|govinfo\.gov$/.test(h) ? "official"
     : /techpolicy\.press$|chinatalk\.media$/.test(h) ? "transcript"
     : /cbsnews\.com$|axios\.com$|newsweek\.com$|forbes\.com$|wcax\.com$/.test(h) ? "major" : "other";
   return [k === "other" ? "warn" : "ok", TIERS[k]];
 }
-const elect = s => (STATUS[s.id] || {}).kind === "senator-elect";
+const elect = s => /-elect$/.test((STATUS[s.id] || {}).kind || "");
 const lame = s => (STATUS[s.id] || {}).kind === "lame duck";
 // Which Senate the map and the chart show: the current one, or the one seated on 3 January 2027.
 let senate = "current";
-const inSenate = s => senate === "current" ? !elect(s) : !lame(s);
-const stateOf = s => s.seat.split(" · ")[1];
+const inSenate = s => !house(s) && (senate === "current" ? !elect(s) : !lame(s));
+// The same choice for the House: the current House, or the one seated on 3 January 2027.
+const inHouse = s => house(s) && (senate === "current" ? !elect(s) : !lame(s));
+const stateOf = s => s.seat.split(" · ")[1].split(",")[0];
 const STATE_PATHS = {}; /*STATE_PATHS*/
 const GRADE_COLOR = {A:"var(--g5)", B:"var(--g4)", C:"var(--g3)", D:"var(--g2)", F:"var(--g1)"};
 const NO_GRADE = "var(--line)";
@@ -290,37 +297,42 @@ function tipFor(name){
   const missing = 2 - people.length;
   return `<strong>${esc(name)}</strong>${people.map(s => `<span class="who"><span class="grade ${gcls(s.grade)}">${s.grade}</span><span>${esc(s.name)}${STATUS[s.id] ? ` <span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}</span></span>`).join("")}${missing > 0 ? `<span class="sub">${missing === 2 ? "Senators" : "One senator"} not yet drafted</span>` : ""}`;
 }
-const toggle = () => `<div class="toggle" role="group" aria-label="Which Senate to show">${[["current", "Current Senate"], ["next", "Next Senate, from 3 January 2027"]]
+const toggle = () => `<div class="toggle" role="group" aria-label="Which Senate to show">${[["current", `Current ${chamber === "house" ? "House" : "Senate"}`], ["next", `Next ${chamber === "house" ? "House" : "Senate"}, from 3 January 2027`]]
   .map(t => `<button type="button" data-senate="${t[0]}" aria-pressed="${senate === t[0]}">${t[1]}</button>`).join("")}</div>`;
 // Bar chart: how many senators of the chosen Senate hold each grade.
 function viewHist(){
-  const people = S.filter(inSenate), count = g => people.filter(s => s.grade === g).length;
+  const people = chamber === "house" ? S.filter(inHouse) : S.filter(inSenate), count = g => people.filter(s => s.grade === g).length;
   const top = Math.max(...RUBRIC.map(r => count(r[0])));
-  return `<h2>Senators at each grade, ${senate === "current" ? "current Senate" : "next Senate (from 3 January 2027)"}</h2>
+  return `<h2>${chamber === "house" ? "Representatives" : "Senators"} at each grade, ${senate === "current" ? "current" : "next"} ${chamber === "house" ? "House" : "Senate"}${senate === "current" ? "" : " (from 3 January 2027)"}</h2>
     <div class="hist" role="img" aria-label="${esc(RUBRIC.map(r => `${count(r[0])} at ${r[0] === "–" ? "no statement found" : "grade " + r[0]}`).join(", "))}">${RUBRIC.map(r => `<div class="col" title="${count(r[0])} of ${people.length}: ${esc(r[2])}">
       <span class="n">${count(r[0])}</span><span class="bar" style="height:${count(r[0]) / top * 100}%;background:${GRADE_COLOR[r[0]] || NO_GRADE}"></span><span class="g">${r[0] === "–" ? "None" : r[0]}</span></div>`).join("")}</div>
-    <p class="sub">Number of senators out of ${people.length}. "None" means no relevant statement was found. Grades are machine-drafted unless a record says otherwise.</p>`;
+    <p class="sub">Number of ${chamber === "house" ? "representatives" : "senators"} out of ${people.length}. "None" means no relevant statement was found. Grades are machine-drafted unless a record says otherwise.</p>`;
 }
 const chip = k => `<span class="pos ${k}">${POS[k]}</span>`;
 
 function viewIndex(){
-  const shown = S.filter(matches);
+  // With search text, people from both chambers are listed; otherwise only the chosen chamber.
+  const H = chamber === "house", all = S.filter(s => house(s) === H);
+  const shown = query.trim() ? S.filter(matches) : all;
+  const chambers = `<div class="toggle" role="group" aria-label="Which chamber to show">${[["senate", "Senate"], ["house", "House of Representatives"]]
+    .map(t => `<button type="button" data-chamber="${t[0]}" aria-pressed="${chamber === t[0]}">${t[1]}</button>`).join("")}</div>`;
   const rows = shown.map(s => `<tr>
     <td><a class="name" href="#${s.id}">${esc(s.name)}</a>${STATUS[s.id] ? `<span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}<span class="sub">${esc(s.seat)}</span></td>
     <td><div class="ack"><span class="grade ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span><span>${esc(RUBRIC.find(r => r[0] === s.grade)[2])}</span></div></td>
     ${FIELDS.map((f, n) => `<td class="pol${n ? "" : " first"}"><span class="pos sm ${s.pos[f[0]][0]}">${POS_SHORT[s.pos[f[0]][0]]}</span></td>`).join("")}</tr>`).join("");
-  return `<section><span class="label">US Senate · ${S.filter(s => !elect(s)).length} of 100 sitting senators and ${S.filter(elect).length} senators-elect drafted</span>
-    <h1>What senators have said about catastrophic risk from AI</h1>
-    <p class="lede">Each record gives a grade for how explicitly the senator acknowledges catastrophic or existential risk, their stated position on four policies, and the dated statements behind both.</p></section>
-  ${query.trim() ? "" : `<section>${toggle()}${viewMap()}</section><section>${viewHist()}</section>`}
+  return `<section>${chambers}<span class="label">${H ? `US House · ${all.filter(s => !elect(s)).length} sitting representatives and ${all.filter(elect).length} representatives-elect drafted` : `US Senate · ${all.filter(s => !elect(s)).length} of 100 sitting senators and ${all.filter(elect).length} senators-elect drafted`}</span>
+    <h1>What ${H ? "representatives" : "senators"} have said about catastrophic risk from AI</h1>
+    <p class="lede">Each record gives a grade for how explicitly the ${H ? "representative" : "senator"} acknowledges catastrophic or existential risk, their stated position on four policies, and the dated statements behind both.</p>
+    ${H ? `<p class="sub">House records are drafted by rule from the statements found and have not been reviewed. Six sitting representatives who are senators-elect (Barr, Hageman, Hern, Letlow, Moore, Pappas) are listed under the Senate. "Representative-elect" marks winners of the 3 November 2026 elections who are not sitting members; "Lame duck" marks sitting members who were not among the winners. Seats whose races were not yet called on 14 November 2026 have no member-elect listed, and the sitting members for those districts are left unmarked.</p>` : ""}</section>
+  ${query.trim() ? "" : H ? `<section>${toggle()}${viewHist()}</section>` : `<section>${toggle()}${viewMap()}</section><section>${viewHist()}</section>`}
   <section>${query.trim() ? `<p class="sub">Showing ${shown.length} of ${S.length} for "${esc(query.trim())}". <a href="#index" id="clear">Clear search</a></p>` : ""}<div class="scroll"><table class="idx">
-    <thead><tr><th rowspan="2">Senator or senator-elect</th><th rowspan="2" class="main">Acknowledgment of catastrophic AI risk</th><th colspan="${FIELDS.length}" class="pol first">Stated policy positions</th></tr>
+    <thead><tr><th rowspan="2">${query.trim() ? "Member" : H ? "Representative or representative-elect" : "Senator or senator-elect"}</th><th rowspan="2" class="main">Acknowledgment of catastrophic AI risk</th><th colspan="${FIELDS.length}" class="pol first">Stated policy positions</th></tr>
       <tr>${FIELDS.map((f, n) => `<th class="pol${n ? "" : " first"}">${esc(f[3])}</th>`).join("")}</tr></thead>
     <tbody>${rows}</tbody></table></div>
-    <p class="sub">The grade measures acknowledgment of the risk, not policy. A senator can acknowledge the risk and oppose every measure listed.</p>
+    <p class="sub">The grade measures acknowledgment of the risk, not policy. A member can acknowledge the risk and oppose every measure listed.</p>
     <p class="sub">"Senator-elect" marks winners of the 3 November 2026 elections who take office on 3 January 2027. "Lame duck" marks sitting senators who will not be in the Senate after that date.</p></section>
   <section><h2>What this sample shows</h2><ul>
-    <li>${S.flatMap(s => Object.values(s.pos)).filter(p => p[0] === "none").length} of ${S.length * FIELDS.length} position cells are "No stated position".</li></ul></section>`;
+    <li>${all.flatMap(s => Object.values(s.pos)).filter(p => p[0] === "none").length} of ${all.length * FIELDS.length} position cells are "No stated position".</li></ul></section>`;
 }
 
 const MAX_STATEMENTS = 5;
@@ -356,7 +368,7 @@ function statements(s){
 }
 
 function viewSenator(s){
-  const i = S.indexOf(s), prev = S[i-1], next = S[i+1], x = XPOSTS[s.id], st = STATUS[s.id];
+  const L = S.filter(x => house(x) === house(s)), i = L.indexOf(s), prev = L[i-1], next = L[i+1], x = XPOSTS[s.id], st = STATUS[s.id];
   const crit = RUBRIC.find(r => r[0] === s.grade)[1];
   return `<section><span class="label">${esc(s.seat)}</span>
     <div class="head"><img class="photo" src="img/${s.bioguide}.jpg" alt="Official portrait of ${esc(s.name)}" onerror="this.remove()"><span class="grade big ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span>
@@ -423,7 +435,7 @@ function render(keepScroll){
   const s = S.find(x => x.id === id);
   document.getElementById("view").innerHTML = `<div class="wrap" style="gap:28px">${s ? viewSenator(s) : id === "methodology" ? viewMethod() : viewIndex()}</div>`;
   const cur = s ? "index" : (id === "methodology" ? id : "index");
-  document.getElementById("nav").innerHTML = [["index","Senators"],["methodology","Methodology"]]
+  document.getElementById("nav").innerHTML = [["index","Members"],["methodology","Methodology"]]
     .map(n => `<a href="#${n[0]}"${n[0] === cur ? ' aria-current="page"' : ""}>${n[1]}</a>`).join("");
   if (!keepScroll) window.scrollTo(0, 0);
 }
@@ -449,6 +461,8 @@ document.addEventListener("focusin", showTip);
 document.addEventListener("keydown", e => { if (e.key === "Enter" && stateAt(e)) search(stateAt(e).dataset.state); });
 document.addEventListener("click", e => {
   const b = e.target.closest && e.target.closest("button[data-senate]");
+  const c = e.target.closest && e.target.closest("button[data-chamber]");
+  if (c) { chamber = c.dataset.chamber; render(true); const again = document.querySelector(`button[data-chamber="${chamber}"]`); if (again) again.focus(); return; }
   if (b) { senate = b.dataset.senate; render(true); const again = document.querySelector(`button[data-senate="${senate}"]`); if (again) again.focus(); }
   else if (stateAt(e)) search(stateAt(e).dataset.state);
   else if (e.target.id === "clear") query = box.value = "";

@@ -1,0 +1,37 @@
+{
+  "bioguide": "B001327",
+  "member": "Robert P. Bresnahan, Jr.",
+  "searches": [
+    "Bresnahan artificial intelligence (restricted to bresnahan.house.gov)",
+    "Rob Bresnahan superintelligence",
+    "Bresnahan AI extinction existential risk congressman",
+    "Bresnahan AI pause slowdown moratorium",
+    "Bresnahan China AI agreement treaty",
+    "\"Bresnahan\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2025-08-11",
+      "venue": "Remarks at the AI4 conference in Las Vegas, reported by Forbes",
+      "quote": "Data centers aren’t going anywhere. But if we do this right, we can grow without pricing people out of their homes.",
+      "context": "Electricity demand from AI data centers in his district, permitting delays and protecting household power bills.",
+      "source_label": "Forbes, republished on bresnahan.house.gov (In the News), 11 August 2025",
+      "url": "https://bresnahan.house.gov/media/in-the-news/inside-washingtons-sprint-build-power-ais-demands",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About data centers, power supply and electricity bills, which the rubric places outside catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development; his data center remarks and bill are about power supply, bills and local control, not risks from AI.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI only in terms of data center power demand and electricity bills (2025), which is D; no statement about catastrophic AI risk was found in 2025 or 2026.",
+  "notes": "All seven web searches ran this time (six required plus one on Ban Artificial Superintelligence Act cosponsors); the earlier attempt's searches were all refused, so this replaces an incomplete search. Only the first search (restricted to his official site) returned material about him; the superintelligence, extinction, pause, China and 'AI safety' searches returned nothing about him (several hits were about the economist Timothy Bresnahan, a different person). Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar): cosponsor lists seen in search results (fastdemocracy.com, Forkast, Nextgov) do not include Bresnahan, though they conflict with each other and the Congress.gov list was not opened; no source shows him cosponsoring it. No House letter about AI risk led or signed by him was found; the many-signer August and September 2026 letters were not searched, per instructions. The one statement's date is the Forbes article date; the remarks were made at the AI4 conference shortly before, exact day not given. Other quotes in the same article ('We’re looking at an additional 11 gigawatts of demand in my district alone'; 'AI isn’t going anywhere') are also about power demand and would be D. A search-result summary (not opened) says he cosponsored H.R. 9734, the Protecting Patients from Automated Denials Act, on AI in Medicare Advantage prior authorization denials, and that he has said career and technical education leads to jobs AI will not replace; both would be D and were not verified at source. From the earlier attempt (still valid): the official press release listing pages 1 to 6 of 19 (6 March to 9 October 2026) were opened and no release title or summary mentions AI; the 11 June 2026 release 'Bresnahan Introduces Bill to Keep Data Center Decisions in Local Hands' (Local Control Protection Act, https://bresnahan.house.gov/media/press-releases/bresnahan-introduces-bill-keep-data-center-decisions-local-hands) is about protecting townships from lawsuits by data center companies and does not mention AI, so it was not recorded. No 2026 statement of his about AI was found."
+}

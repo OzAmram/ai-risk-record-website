@@ -1,0 +1,50 @@
+{
+  "bioguide": "ELECT-IA-04-MCGOWAN",
+  "member": "Chris McGowan",
+  "searches": [
+    "Chris McGowan Iowa 4th district artificial intelligence",
+    "Chris McGowan AI safety",
+    "\"McGowan\" Iowa congress superintelligence OR \"artificial general intelligence\"",
+    "\"Chris McGowan\" AI extinction OR existential risk",
+    "\"Chris McGowan\" AI pause OR moratorium OR regulation Iowa",
+    "\"Chris McGowan\" China AI agreement OR treaty",
+    "site:mcgowanforiowa.com AI OR technology",
+    "McGowan Dawson Iowa PBS debate 4th district technology AI"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-14",
+      "venue": "Iowa Press debate (Iowa PBS), 4th Congressional District",
+      "quote": "we're involved in an arms race on AI with the Chinese, and we must prevail in this.",
+      "context": "Answering the moderator's question on what the federal government should do to police artificial intelligence development.",
+      "source_label": "Iowa PBS, Iowa Press debate transcript",
+      "url": "https://www.pbs.org/video/iowa-press-debates-4th-congressional-district-oghkbq/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Frames AI as a race with China to win; competition with China is D under ruling 5 and no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-10-14",
+      "venue": "Iowa Press debate (Iowa PBS), 4th Congressional District",
+      "quote": "I have said on numerous occasions that there is a role for the federal government in policing AI",
+      "context": "Same answer on federal policing of AI development.",
+      "source_label": "Iowa PBS, Iowa Press debate transcript",
+      "url": "https://www.pbs.org/video/iowa-press-debates-4th-congressional-district-oghkbq/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Supports some federal role in policing AI but names no catastrophic or serious risk from AI itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "He said the US must prevail in an AI arms race with China, but no source shows an explicit statement against slowing AI for safety reasons.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing; his only China remark frames AI as a race to win.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found (October 2026 debate) call for a federal role in policing AI and for beating China in an AI arms race, without acknowledging catastrophic risk.",
+  "notes": "Eight web searches ran; none was refused. Representative-elect, so no House record; he could not have sponsored the Ban Artificial Superintelligence Act and none was found. Campaign site (mcgowanforiowa.com home and /vision pages) has no AI content; /vision mentions 'standing up to China, bringing jobs back to America'. Debate quotes come from the transcript on the PBS video page, read through a page-fetch tool that returned excerpts; the reviewer should confirm the exact wording against the video or captions. In the same debate he also said 'I think that data centers are coming.' and that they 'cannot negatively or adversely impact electricity on the grid or prices' (D, not included). The fetch tool summarized him as opposing a slowdown of AI because of China and as mentioning foreign-made goods with 'malware, listening devices, spyware'; those were not confirmed verbatim in a second read and are left out. Transformer's AI Campaign Finance Tracker reports spending by 'pro-innovation' super PACs supporting him ($34,665 in the primary; page later showed $103,970 total) - third-party spending, not his statement. A States Newsroom article on the debate (newsfromthestates.com/node/432817) returned 403 and could not be read."
+}

@@ -1,0 +1,24 @@
+{
+  "bioguide": "S001148",
+  "member": "Michael K. Simpson",
+  "searches": [
+    "Mike Simpson Idaho congressman superintelligence",
+    "Rep. Mike Simpson AI extinction existential risk",
+    "Mike Simpson Idaho AI pause slowdown moratorium",
+    "Rep. Mike Simpson China AI agreement treaty",
+    "\"Mike Simpson\" \"AI safety\"",
+    "Simpson artificial intelligence (restricted to simpson.house.gov)",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Simpson"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development. His September 2026 support for a data center ratepayer bill is about electricity costs, not AI risk.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025 across seven web searches and his official press releases. His only related release, on data center electricity costs, does not mention AI.",
+  "notes": "All six required searches ran this time, plus one on the Ban Artificial Superintelligence Act cosponsors (seven in total); none returned any statement by Rep. Mike Simpson (R-Idaho) on AI, superintelligence, extinction, pause, China talks or AI safety. The '\"Mike Simpson\" \"AI safety\"' search returned only other people (Morgan Simpson, Mike Rogers, Mike Johnson, Mike Flood). The official-site search returned only non-AI pages (a 2021 cybersecurity op-ed, PATRIOT Act and NSA pages, appropriations releases) and a 2026 art competition form that bans generative AI entries, which is not a statement by him. From the earlier attempt (still valid): press release list pages 1 and 2 on simpson.house.gov (19 items, 30 June to 11 November 2026) had no release mentioning AI; the 17 September 2026 release 'Rep. Simpson Supports Bill to Protect Ratepayers from Data Center Costs' (https://simpson.house.gov/news/documentsingle.aspx?DocumentID=402074, opened then) quotes him on data centers raising energy costs and 'establishing proper guardrails' for state and local control but does not mention AI, so it is outside scope. Not checked: his NDAA release (23 July 2026) and press releases older than June 2026. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 cosponsors, all Democrats, and Simpson is not among them; Congress.gov returned HTTP 403 in the earlier attempt, so the official cosponsor list was not checked directly. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

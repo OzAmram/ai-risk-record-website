@@ -1,0 +1,24 @@
+{
+  "bioguide": "D000600",
+  "member": "Mario Diaz-Balart",
+  "searches": [
+    "Mario Diaz-Balart artificial intelligence (restricted to mariodiazbalart.house.gov)",
+    "Mario Diaz-Balart \"AI safety\"",
+    "Diaz-Balart superintelligence",
+    "Diaz-Balart AI extinction existential risk",
+    "Diaz-Balart AI pause slowdown moratorium",
+    "Diaz-Balart China AI agreement treaty",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025; AI appears only in bill-summary text of his appropriations press releases, not in his quoted remarks.",
+  "notes": "All 7 searches ran; none were refused. His official-site results showed AI only in appropriations bill summaries: the 24 June 2026 release on the FY27 Department of War funding bill (https://mariodiazbalart.house.gov/media-center/press-releases/diaz-balart-commends-full-committee-passage-fy27-department-war-funding) lists 'Advancing the President's Executive Order 14409, Promoting Advanced Artificial Intelligence Innovation and Security' in its summary, but his own quoted statement does not mention AI (page opened). Search summaries also said his FY26 and FY27 Commerce-Justice-Science bill statements mention funding AI among emerging technologies; I did not open those pages and it is unclear whether that wording is his own or summary text. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538); named cosponsors found were Democrats, though no complete cosponsor list was opened. No House letter about AI risk signed by him was found. A reviewer could reasonably choose D instead of none if the appropriations releases are counted as speaking about AI."
+}

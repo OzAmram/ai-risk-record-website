@@ -1,0 +1,34 @@
+{"bioguide": "C001132", "member": "Elijah Crane",
+ "searches": [
+  "site:crane.house.gov artificial intelligence",
+  "Elijah Crane superintelligence",
+  "Eli Crane AI extinction existential risk",
+  "Eli Crane AI pause moratorium",
+  "Eli Crane China AI agreement treaty",
+  "\"Eli Crane\" \"AI safety\"",
+  "Rep. Eli Crane artificial intelligence 2026"
+ ],
+ "statements": [
+  {"date": "2026-04-16", "venue": "Congressional subcommittee roundtable on Artificial Intelligence and American Power (reported by the Associated Press)",
+   "quote": "we might be simultaneously engineering our own destruction?",
+   "context": "After saying \"I recognize AI is not going anywhere,\" Crane asked the panel whether anyone believed that, amid the AI race, we might be engineering our own destruction; the discussion followed news of Anthropic's restricted Mythos model.",
+   "source_label": "Associated Press (Matt Brown), republished on min.house.gov", "url": "https://min.house.gov/media/in-the-news/lawmakers-gathered-quietly-talk-about-ai-angst-and-fears-destruction-followed",
+   "read_at_source": true, "level": "C", "flags": ["boundary"],
+   "reason": "Raises the possibility that the AI race leads to our own destruction, but as a question to the panel rather than a stated view, so between A and C; C is what the text best supports."},
+  {"date": "2025-09-17", "venue": "House Oversight subcommittee hearing, Shaping Tomorrow: The Future of Artificial Intelligence",
+   "quote": "What do you think federal agencies should be doing to prevent the spreading of misinformation by these bots to sow discourse in our communities, in our country?",
+   "context": "Questioning witnesses about Chinese and Russian bots spreading inflammatory speech after the assassination of Charlie Kirk.",
+   "source_label": "House Oversight Committee hearing wrap-up, 18 September 2025", "url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About misinformation from foreign bots, which is not catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on AI coordination with China.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "C",
+ "grade_reason": "His one 2026 remark on AI risk asks whether the AI race might be engineering our own destruction; because it is phrased as a question to the panel rather than his stated view, it is graded C (boundary with A).",
+ "notes": "Seven web searches ran, none refused. The 16 April 2026 quote was read through a page-fetch tool that would not reproduce whole paragraphs; the short phrase was returned identically from two copies of the AP story (min.house.gov and theoutpost.ai), and the CTV News copy showed no body text. A reviewer should confirm the exact wording and punctuation in the original AP story; the AP paraphrase around it says he asked whether anyone on the panel believed this 'amid the AI race'. A reviewer could reasonably grade it A under ruling 1 (threat to our survival) if the question is read as endorsing the concern. No sign he sponsored or co-sponsored the Ban Artificial Superintelligence Act (the Casar press release names only Casar and Sanders). His press release page (crane.house.gov/media) lists no AI releases among the 10 most recent; crane.house.gov/media/press-releases returned 404. The September 2025 hearing also had him ask what AI regulations witnesses would consider responsible and how to balance AI use in schools; these are D and left out."}

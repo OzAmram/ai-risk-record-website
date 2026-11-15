@@ -1,0 +1,90 @@
+{
+  "bioguide": "D000631",
+  "member": "Madeleine Dean",
+  "searches": [
+    "site:dean.house.gov artificial intelligence",
+    "Madeleine Dean superintelligence",
+    "\"Madeleine Dean\" AI extinction existential risk",
+    "\"Madeleine Dean\" AI pause slowdown moratorium",
+    "\"Madeleine Dean\" China AI agreement treaty",
+    "\"Madeleine Dean\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-05-20",
+      "venue": "Press release on reintroducing the NO FAKES Act",
+      "quote": "The use of AI is only growing, and Congress must catch up with common sense, common ground regulations",
+      "context": "Announcing the bipartisan, bicameral NO FAKES Act, which gives people a federal right to control digital replicas of their voice and likeness, to protect against deepfakes.",
+      "source_label": "Dean House press release",
+      "url": "https://dean.house.gov/2026/5/dean-salazar-reintroduce-bill-to-protect-americans-from-ai-deepfakes",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Calls for AI regulation in the context of deepfakes and likeness rights, without acknowledging catastrophic risk."
+    },
+    {
+      "date": "2026-01-22",
+      "venue": "Press release on introducing the TRAIN Act",
+      "quote": "As AI rapidly evolves and becomes more present in our lives, our laws must catch up — that includes preserving the dignity of artists and the authenticity of their work",
+      "context": "Announcing the bipartisan TRAIN Act, which would let creators find out whether their work was used to train AI models.",
+      "source_label": "Dean House press release",
+      "url": "https://dean.house.gov/2026/1/ean-moran-introduce-bipartisan-bill-to-protect-creators-from-unauthorized-ai-training",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About copyright and transparency of AI training data, not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Led the House reintroduction of the NO FAKES Act with Rep. Salazar and Senators Blackburn and Coons, creating a federal right to control digital replicas of one's voice and likeness (deepfakes).",
+      "Dean House press release, 2026-05-20",
+      "https://dean.house.gov/2026/5/dean-salazar-reintroduce-bill-to-protect-americans-from-ai-deepfakes"
+    ],
+    [
+      "Introduced the bipartisan TRAIN Act with Rep. Moran, letting creators learn whether their work was used to train AI models.",
+      "Dean House press release, 2026-01-22",
+      "https://dean.house.gov/2026/1/ean-moran-introduce-bipartisan-bill-to-protect-creators-from-unauthorized-ai-training"
+    ],
+    [
+      "With Senator Klobuchar and Rep. Salazar, asked the Justice Department to investigate sexually explicit AI-generated images made with Grok.",
+      "Dean House press release, 2026-01-21",
+      "https://dean.house.gov/2026/1/dean-klobuchar-and-salazar-demand-doj-investigation-into-grok-s-sexually-explicit-ai-generated-images"
+    ],
+    [
+      "With Senator Warren, led a letter (26 signers) asking the Commerce Department inspector general to investigate Secretary Lutnick's family's conflicts of interest in AI data center decisions.",
+      "Dean House press release, 2025-12-18",
+      "https://dean.house.gov/2025/12/dean-warren-democrats-urge-commerce-department-watchdog-to-investigate-lutnick-family-s-conflicts-of-interest-impact-on-ai-data-center-decisions"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her 2026 AI work is substantial but concerns deepfakes, likeness rights, creators' copyright, explicit AI images and data center conflicts of interest; nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (7 total). None returned anything by or about Madeleine Dean on AI risk; the site: search returned no dean.house.gov pages. The FastDemocracy tracker page for the House Ban Artificial Superintelligence Act of 2026 (H.R. 10538, https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Dean is not among them (checked 2026-11-13; congress.gov not checked, and news reports give conflicting cosponsor lists). Statements and record items are kept from the earlier attempt, which read her press release listing pages 1 to 7 directly (releases from 2025-02-28 to 2026-10-07); her site search page returned 403. Interviews, hearing remarks and floor speeches were not checked beyond these web searches. The Grok letter quote is attributed to the lawmakers jointly, so it is not included as her own statement. The TRAIN Act quote was read through a page-summarizing fetch tool; a reviewer may want to confirm punctuation (the dash) at source."
+}

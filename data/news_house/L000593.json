@@ -1,0 +1,32 @@
+{"bioguide": "L000593", "member": "Mike Levin",
+ "searches": [
+  "site:levin.house.gov artificial intelligence",
+  "\"Mike Levin\" superintelligence",
+  "\"Mike Levin\" AI extinction OR \"existential risk\"",
+  "\"Mike Levin\" AI pause OR slowdown OR moratorium",
+  "\"Mike Levin\" China AI agreement OR treaty",
+  "\"Mike Levin\" \"AI safety\"",
+  "Rep. Mike Levin artificial intelligence data centers bill 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-09-22", "venue": "Axios interview",
+   "quote": "I'd rather use my brain",
+   "context": "In an interview about how he uses AI, Levin warned against relying on AI entirely and said Congress should pass AI guardrails while declining to back a full block on data center development.",
+   "source_label": "Axios", "url": "https://www.axios.com/2026/09/22/mike-levin-ai-guardrails-data-centers",
+   "read_at_source": false, "level": "D", "flags": [],
+   "reason": "He talks about personal reliance on AI and general guardrails but does not acknowledge catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI for safety; Axios reports he declined to support a full block on data center development, but that concerns data centers, not AI risk.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+ },
+ "record": [
+  ["Introduced the SHIELD Act with Rep. Kathy Castor to make the largest electricity users, such as data centers, pay for the grid infrastructure they need (electricity costs, not AI risk).", "Levin press release, 2026-01-14", "https://levin.house.gov/media/press-releases/rep-mike-levin-introduces-new-bill-to-stop-data-centers-from-driving-up-electricity-prices-for-consumers"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI remarks found (Axios interview, September 2026) are about personal reliance on AI, general guardrails and data centers; nothing acknowledges catastrophic risk.",
+ "notes": "8 web searches ran, none refused. The Axios page returned 403 and could not be opened; the quote 'I'd rather use my brain' comes from the article headline seen in search results (read_at_source false), and the date is the article date. Search summaries paraphrase him as saying Congress must pass AI 'guardrails', that he would pick never using AI over always using it, and that he declined to support a full block on data center development; these paraphrases were not turned into quotes. Congress.gov returned 403; the FastDemocracy cosponsor list for H.R. 10538 (12 names) does not include Levin, but sources disagree on the cosponsor count, so a reviewer may want to confirm on Congress.gov. His official press release index page showed no AI release. He also reportedly introduced the Energy Bills Relief Act (H.R. 7977) with Rep. Sean Casten and co-sponsored a data center siting bill (from search summary, not opened). Several search results concerned other people named Michael Levin (Tufts biologist), not this representative."
+}

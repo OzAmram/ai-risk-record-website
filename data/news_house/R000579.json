@@ -1,0 +1,31 @@
+{"bioguide": "R000579", "member": "Patrick Ryan (Pat Ryan), Democrat, New York district 18",
+ "searches": [
+  "site:patryan.house.gov artificial intelligence",
+  "\"Pat Ryan\" congressman superintelligence",
+  "\"Pat Ryan\" AI extinction OR \"existential risk\"",
+  "\"Pat Ryan\" AI pause OR slowdown OR moratorium data centers",
+  "\"Pat Ryan\" China AI agreement OR treaty",
+  "\"Pat Ryan\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House",
+  "\"Rep. Pat Ryan\" artificial intelligence"
+ ],
+ "statements": [
+  {"date": "2026-10-06",
+   "venue": "Statement in New York Governor's press release (Fishkill Farms roundtable on data centers)",
+   "quote": "We’re not going to let anyone — especially not a bunch of billionaire tech oligarchs — come in here and poison our water, drive up our utility bills, and build this powerful technology that even they acknowledge could have devastating impacts for humankind.",
+   "context": "Ryan joined Governor Hochul and Rep. Ocasio-Cortez to promote New York's one-year moratorium on hyperscale data center construction, mostly over water, land and electricity costs.",
+   "source_label": "New York Governor's Office press release, 6 October 2026",
+   "url": "https://www.governor.ny.gov/news/governor-hochul-and-representatives-ocasio-cortez-and-ryan-highlight-new-yorks-nation-leading",
+   "read_at_source": true, "level": "B", "flags": ["relayed_warning", "boundary"],
+   "reason": "He cites the tech industry's own acknowledgment that AI could have devastating impacts for humankind and uses it as a reason to oppose building it, which endorses a catastrophic-risk warning; it is a single clause in a statement mainly about local data center impacts, so C (relayed without clear endorsement) or A ('humankind' framing, ruling 1) are also defensible."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "He backs New York's data center construction moratorium and 'urgently needed action at the federal level', and lists AI's possible 'devastating impacts for humankind' alongside water and utility bills; the moratorium itself is motivated by local impacts, so I left this as none, but a reviewer could argue mixed or yes.", "sources": [["New York Governor's press release, 2026-10-06", "https://www.governor.ny.gov/news/governor-hochul-and-representatives-ocasio-cortez-and-ryan-highlight-new-yorks-nation-leading"]]},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "B",
+ "grade_reason": "His one 2026 statement relays and uses as an argument the industry's own acknowledgment that AI 'could have devastating impacts for humankind'. It is a single clause in a data-center statement, so this is a weak B on the boundary with C (or arguably A under ruling 1).",
+ "notes": "Eight web searches ran (six required plus two); none surfaced any other statement by Ryan on AI risk. Searches on his name with superintelligence, extinction, China agreement and 'AI safety' returned nothing about him. His house.gov press release list (page 1 of 45) had nothing on AI; the site's own search returned 403, so older press releases were not checked. He is NOT among the 12 cosponsors listed for H.R. 10538, the Ban Artificial Superintelligence Act (fastdemocracy.com/bill-search/us/119/bills/USB00108512/, checked 2026-11-12). Secondary source explainx.ai reported only a fragment of the same 6 October quote; I used the full text from the governor's page (downloaded and read directly). His phrase 'urgently needed action at the federal level' may refer to a federal data center moratorium bill, but I found no source showing he co-sponsored one. Not to be confused with former Ohio Rep. Tim Ryan or former Speaker Paul Ryan."}

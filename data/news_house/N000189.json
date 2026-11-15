@@ -1,0 +1,53 @@
+{
+  "bioguide": "N000189",
+  "member": "Dan Newhouse",
+  "searches": [
+    "Dan Newhouse artificial intelligence (restricted to newhouse.house.gov)",
+    "Dan Newhouse superintelligence",
+    "Rep. Dan Newhouse AI extinction existential risk",
+    "Newhouse AI pause slowdown moratorium congressman",
+    "Dan Newhouse China AI agreement treaty",
+    "\"Dan Newhouse\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Newhouse"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-16",
+      "venue": "Op-ed in The Center Square, reposted on his House website",
+      "quote": "The race to lead the world in artificial intelligence will not be won by algorithms alone",
+      "context": "He argues the Bonneville Power Administration must expand electricity supply for AI data centers so the United States, not China or other rivals, leads in AI.",
+      "source_label": "Newhouse House website, op-ed",
+      "url": "https://newhouse.house.gov/media/weekly-columns-and-op-eds/op-ed-powering-ai-bpa-must-play-critical-role",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The op-ed treats AI as an economic and national security race that needs electricity and does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 he has spoken about AI only as a matter of energy supply, economic growth and competition with China, without acknowledging catastrophic risk.",
+  "notes": "All 6 required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (7 total). None found any statement by Newhouse on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety; the superintelligence and AI-safety searches returned only Dan Hendrycks, a different person. The Ban Artificial Superintelligence Act search found the House bill (H.R. 10538, Casar, 24 September 2026); no source listed Newhouse as a cosponsor, but the full cosponsor list on Congress.gov was not opened. No House letter on AI risk signed or led by him was found. The op-ed quote was re-checked at source this session: the sentence continues with a comma ('alone, it will be won by the country...'), so the quote stops at 'alone' and is one continuous passage. The page lists 17 July 2026 as the posting date; the op-ed first appeared in The Center Square on 16 July 2026. From the earlier attempt: an 11 May 2026 press release on his Central Washington Energy Summit paraphrases him saying 'how the nation must meet this moment regarding artificial intelligence'; that is the office's paraphrase, so it is left out of statements. His site also mentions support for AI funding in the defense authorization and energy-and-water appropriations bills and a co-signed letter on the Rural Health Transformation Fund that mentions AI in passing; none has catastrophic-risk content, and these were not opened. One search summary described an unnamed Republican official saying he had no concerns about AI and human extinction; the snippet does not name him, so nothing is attributed to Newhouse."
+}

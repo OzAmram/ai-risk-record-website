@@ -1,0 +1,33 @@
+{"bioguide": "F000462", "member": "Lois Frankel",
+ "searches": [
+  "Lois Frankel artificial intelligence (restricted to frankel.house.gov)",
+  "Lois Frankel superintelligence",
+  "Lois Frankel AI extinction existential risk",
+  "Rep. Lois Frankel AI pause moratorium slowdown",
+  "Lois Frankel China AI agreement treaty",
+  "\"Lois Frankel\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House",
+  "\"Frankel\" congresswoman Florida artificial intelligence 2026 statement"
+ ],
+ "statements": [
+  {"date": "2026-08-04", "venue": "Letter from the Florida Democratic Congressional Delegation to Governor DeSantis's administration",
+   "quote": "The state is moving on an extraordinarily accelerated timeline to procure an AI vendor by September 1.",
+   "context": "Florida Democrats, led by Rep. Maxwell Alejandro Frost and including Frankel, questioned the state's plan to use AI in food assistance (SNAP) eligibility decisions.",
+   "source_label": "Rep. Frost press release, 4 August 2026",
+   "url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
+   "read_at_source": true, "level": "D", "flags": ["cosigned_letter", "bill_or_action"],
+   "reason": "The letter is about AI use in government benefit decisions, not catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Co-signed a Florida Democratic delegation letter questioning Florida's planned use of AI in SNAP eligibility determinations.", "Rep. Frost press release, 2026-08-04", "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "The only AI item found is a co-signed 2026 letter about AI in food assistance eligibility; nothing found about catastrophic AI risk.",
+ "notes": "8 web searches ran, none refused. The FastDemocracy cosponsor list for the Ban Artificial Superintelligence Act (H.R. 10538) does not include Frankel (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); not checked on Congress.gov. Her official site's AI hits were funding requests for AI learning labs and workforce programs (FY27 community project funding), not statements about risk. Only the first page of her press releases (15 July to 11 November 2026) was checked; no AI titles there. The quote was given by the page-reading tool; confirm the wording against the press release. The big House letters of August and September 2026 were not searched, as instructed."
+}

@@ -1,0 +1,25 @@
+{
+  "bioguide": "B001306",
+  "member": "Troy Balderson",
+  "searches": [
+    "Balderson artificial intelligence site:balderson.house.gov",
+    "Troy Balderson superintelligence",
+    "Balderson AI extinction existential risk",
+    "Rep. Troy Balderson AI pause slowdown moratorium",
+    "Troy Balderson China AI agreement treaty",
+    "\"Troy Balderson\" \"AI safety\"",
+    "Balderson artificial intelligence Energy and Commerce hearing 2026",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found in web searches or on his official site since January 2025, so there is nothing to grade.",
+  "notes": "All six required web searches ran this time, plus two more (eight in total, none refused). None returned a page with Balderson's own words on AI risk, superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. The site-restricted search returned no balderson.house.gov pages. One search found that his Load Forecasting Enhancement Act (an electricity demand forecasting bill) was on the agenda of the 29 April 2026 Energy and Commerce Energy Subcommittee hearing 'AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers' (https://docs.house.gov/meetings/IF/IF03/20260429/119189/HHRG-119-IF03-MState-A000370-20260429-U1.pdf, seen in search results only, not opened); this is about data center electricity demand, not AI risk, and no transcript of his remarks was found, so it is not recorded. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the Congress.gov cosponsor page returned HTTP 403 again; Forkast (https://forkast.news/progressive-democrats-establish-prohibitionist-left-flank-on-artificial-superintelligence/) describes the cosponsors as House Democrats and does not mention Balderson; no source seen shows him as a sponsor or cosponsor, but the full cosponsor list was not verified. From the earlier attempt (official site opened directly, still valid): press releases page 1 (2 October 2026 back to 20 March 2026) and page 2 (17 December 2025 back to 29 May 2025) and the 'Troy in the News' list (18 August 2026 back to 9 April 2025) had no item title mentioning AI. The 16 September 2026 release on his energy-cost bill (https://balderson.house.gov/news/documentsingle.aspx?DocumentID=3007) mentions data centers and 'emerging technologies' as electricity demand drivers in the release's own narrative, not in his quoted words, and does not mention AI; his 24 February 2026 Washington Times op-ed on wearables (https://balderson.house.gov/news/documentsingle.aspx?DocumentID=2927) and the 7 April 2026 Ohio Energy Summit item (https://balderson.house.gov/news/documentsingle.aspx?DocumentID=2935) do not mention AI. Not checked: older press release pages, his e-newsletter archive, and hearing transcripts from Energy and Commerce AI hearings (he sits on the committee). No House letter about AI risk led by him was found."
+}

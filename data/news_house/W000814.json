@@ -1,0 +1,85 @@
+{
+  "bioguide": "W000814",
+  "member": "Randy K. Weber, Sr.",
+  "searches": [
+    "Weber artificial intelligence (restricted to weber.house.gov)",
+    "Randy Weber superintelligence",
+    "Randy Weber AI extinction existential risk",
+    "Randy Weber AI pause slowdown moratorium",
+    "Randy Weber China AI agreement treaty",
+    "\"Randy Weber\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-18",
+      "venue": "e-newsletter, section titled \"The Future of American AI\"",
+      "quote": "If the companies building these powerful AI systems are concerned enough to ask Congress for guardrails, why aren’t they slowing down themselves?",
+      "context": "Writing about AI companies asking Congress for rules, he asks why they do not slow down, while warning against heavy-handed regulation and falling behind China.",
+      "source_label": "Rep. Weber e-Newsletter, weber.house.gov",
+      "url": "https://weber.house.gov/news/email/show.aspx?ID=DVKMLLBTOFY63FWS3QWVL72YQA",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He questions the pace of powerful AI development but names no catastrophic or serious danger from AI itself; the harms he lists are privacy, cybersecurity and critical infrastructure."
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "e-newsletter, section titled \"The Future of American AI\"",
+      "quote": "We need American companies leading the world, but that leadership also comes with a responsibility to take the risks surrounding this technology seriously.",
+      "context": "Same newsletter section; he says America cannot fall behind China in the AI race and that Congress should protect Americans and hold companies accountable.",
+      "source_label": "Rep. Weber e-Newsletter, weber.house.gov",
+      "url": "https://weber.house.gov/news/email/show.aspx?ID=DVKMLLBTOFY63FWS3QWVL72YQA",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "A general mention of unnamed risks, alongside privacy, cybersecurity and infrastructure concerns, without describing a serious or catastrophic danger from AI itself (ruling 4); the closest he comes to level C."
+    },
+    {
+      "date": "2025-12-05",
+      "venue": "e-newsletter on his speech at the 6th Energy Innovation and Artificial Intelligence Forum",
+      "quote": "The rise of AI is reshaping how America powers its grid, strengthens national security, and keeps our economy competitive.",
+      "context": "As chairman of the House Science Committee's Energy Subcommittee, he describes AI as a driver of energy demand and scientific breakthroughs and backs the Genesis Mission.",
+      "source_label": "Rep. Weber e-Newsletter, weber.house.gov",
+      "url": "https://weber.house.gov/news/email/show.aspx?ID=CTILT3FHBM4HQ",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI leadership and energy for AI; no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "mixed",
+      "note": "In his 18 September 2026 newsletter he asks why AI companies that want guardrails are not slowing down themselves, but in the same piece warns against heavy-handed regulation while the technology moves forward and says America cannot fall behind China in the AI race. This is a rhetorical question, not a clear call for a slowdown, so a reviewer may prefer \"none\".",
+      "sources": [
+        [
+          "Rep. Weber e-Newsletter, 18 September 2026",
+          "https://weber.house.gov/news/email/show.aspx?ID=DVKMLLBTOFY63FWS3QWVL72YQA"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; his remarks frame China only as a competitor to beat.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He talks about AI often in 2025 and 2026, mostly about energy, nuclear power and beating China. His strongest 2026 remarks question why AI companies are not slowing down and call for taking AI's risks seriously, but the only harms he names are privacy, cybersecurity and infrastructure. That is a D, close to C.",
+  "notes": "All 6 required web searches ran in this attempt (an earlier attempt had 5 of them refused). None of the 5 general searches returned any page connecting Randy Weber to superintelligence, extinction or existential risk, an AI pause or slowdown, a China AI agreement, or AI safety. The official-site search surfaced two newsletters not quoted before, both D and not included: an undated hurricane-season newsletter mentioning his fraud task force proposal to \"Utilize artificial intelligence and advanced tools to identify suspicious activity\", and an April 2026 committee wrap-up saying \"If we want to lead in artificial intelligence and outpace our adversaries, it starts with having the power to back it up.\" In this attempt I re-opened the 18 September 2026 newsletter and confirmed both quotes from it word for word. From the earlier attempt (kept): it scanned the text of all 100 e-newsletters (November 2024 to 6 November 2026) and about 60 press releases on weber.house.gov for AI terms, and no mention of superintelligence, extinction, existential risk, loss of control or a pause turned up. Not counted as statements: (1) His 18 September 2026 newsletter ran a reader survey asking whether the US should set AI guardrails; the 25 September 2026 newsletter reported 89.5% yes. Reporting a poll is not a position. (2) His 6 November 2026 newsletter lists \"H.R.10873 - AI Cyber Defense Act\" under \"Recent Legislation\". That suggests he sponsored or cosponsored it, but his role could not be confirmed (congress.gov returned 403), and a cybersecurity bill would be D anyway. (3) His 19 December 2025 newsletter says he took part in an Energy and Commerce Oversight Subcommittee hearing on biosecurity where AI and biology meet, but gives no words of his about the risks. His hearing remarks were not found and could be worth checking. (4) His 16 May 2025 newsletter mentions \"smart guardrails\" so that America, not China, leads in AI (D). Ban Artificial Superintelligence Act: no source found showing him as a sponsor or cosponsor, but the cosponsor list could not be checked on congress.gov. No House letter about AI risk led or signed by him was found outside the many-signer letters, which were not searched as instructed. The newsletters have no date in their text; dates come from the 'Posted on' dates in the weber.house.gov newsletter archive. The newsletters are written in his first person and published by his office."
+}

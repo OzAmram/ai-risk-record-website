@@ -1,0 +1,48 @@
+[
+ {
+  "id": "ELECT-NJ-12-HAMAWY",
+  "name": "Adam Hamawy",
+  "accounts": [
+   {"handle": "HamawyForNJ", "account_type": "campaign", "evidence_url": "https://hamawyfornj.com", "evidence": "Dr. Adam Hamawy's NJ-12 campaign website links x.com/HamawyForNJ in its social links and embeds a video post from that account."}
+  ],
+  "notes": "Only the campaign account was found; no separate personal X account was linked. He is a representative-elect, so no official House account exists yet."
+ },
+ {
+  "id": "ELECT-NV-02-BENITEZTHOMPSON",
+  "name": "Teresa Benitez-Thompson",
+  "accounts": [],
+  "notes": "Her campaign site electteresa.com links Facebook, Instagram (ElectTeresa) and TikTok (tbt_nv) but no X account. Wikipedia and the BOLD PAC candidate page list no X account, and Ballotpedia returned an empty page. Three searches found no handle. She may not have an active X account. No searches were refused."
+ },
+ {
+  "id": "ELECT-NY-07-VALDEZ",
+  "name": "Claire Valdez",
+  "accounts": [
+   {"handle": "claireforny", "account_type": "campaign", "evidence_url": "https://clairevaldezforcongress.com", "evidence": "The Claire Valdez for Congress (NY-7) campaign website links x.com/claireforny in its social links."}
+  ],
+  "notes": "No separate Assembly-office or personal X account was found. Her Bluesky and Facebook use 'claireforqueens', but no X account by that name was linked from any page I opened."
+ },
+ {
+  "id": "ELECT-NY-10-LANDER",
+  "name": "Brad Lander",
+  "accounts": [
+   {"handle": "bradlander", "account_type": "personal", "evidence_url": "https://bradlanderforcongress.com", "evidence": "Brad Lander's congressional campaign website links x.com/bradlander as his X account."}
+  ],
+  "notes": "This is his long-running personal account, now used for the campaign. The New York City Comptroller office account belongs to that office, not to him, so it was not included."
+ },
+ {
+  "id": "ELECT-NY-12-LASHER",
+  "name": "Micah Lasher",
+  "accounts": [
+   {"handle": "micahlasher", "account_type": "personal", "evidence_url": "https://micahlasher.com", "evidence": "Micah Lasher's campaign website links twitter.com/micahlasher in its social links."}
+  ],
+  "notes": "News coverage also reports Rep. Jerry Nadler tagging @micahlasher in his endorsement post. No separate Assembly-office X account was found."
+ },
+ {
+  "id": "ELECT-NY-13-CHEVALIER",
+  "name": "Darializa Avila Chevalier",
+  "accounts": [
+   {"handle": "darializaforny", "account_type": "campaign", "evidence_url": "https://www.darializaforcongress.com/", "evidence": "Her campaign website links x.com/darializaforny in its social links."}
+  ],
+  "notes": "News coverage writes the handle as @DarializaforNY; X handles are not case-sensitive. An amNY article says her earlier personal account @darializabonet was deleted in 2022, so it was not included."
+ }
+]

@@ -1,0 +1,25 @@
+{
+  "bioguide": "G000599",
+  "member": "Daniel S. Goldman",
+  "searches": [
+    "site:goldman.house.gov artificial intelligence",
+    "Dan Goldman superintelligence",
+    "Rep. Dan Goldman AI extinction existential risk",
+    "Rep. Dan Goldman AI pause moratorium slowdown",
+    "Rep. Dan Goldman China AI agreement treaty",
+    "\"Dan Goldman\" \"AI safety\"",
+    "\"Goldman\" \"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Rep. Dan Goldman artificial intelligence statement 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by him about AI risk, or about AI generally, was found in eight web searches, his press release list, or the one AI hearing record checked. He is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+  "notes": "All six required web searches ran on this rerun (14 Nov 2026), plus two more (eight in total); none was refused. No search returned any statement by Rep. Dan Goldman (NY-10) about AI; several results for 'Dan Goldman' were about Dan Hendrycks or Goldman Sachs and were ignored. The China search found only a trade comment by him (Trump-China trade truce 'just a charade', The Hill), which is not about AI and was left out. Ban Artificial Superintelligence Act: the FastDemocracy page for H.R. 10538 (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 House cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and not Goldman; congress.gov's cosponsor page returned HTTP 403, so this was not checked against the official record and the list may be out of date. Hearing check: he is listed on the Judiciary Committee roster for the 18 Sep 2025 subcommittee hearing 'AI at a Crossroads: A Nationwide Strategy or Californication?' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm), but the full transcript was read and he did not speak. Kept from earlier attempts: his press release list (https://goldman.house.gov/media/press-releases, pages 0 to 5) covering about 60 releases from 22 Dec 2025 to 21 Oct 2026 had no titles or summaries mentioning AI, superintelligence, AI safety or AI talks with China; two releases about Palantir surveillance technology used by ICE (16 Apr and 7 May 2026) were not quoted, as surveillance would be level D under ruling 5 anyway. The page fetch tool summarises pages, so only release titles and summaries were checked, not full text; releases before 22 Dec 2025 were not checked. goldman.house.gov/search returned HTTP 403 on an earlier attempt. Multi-signer House letters were not searched, per the House instructions."
+}

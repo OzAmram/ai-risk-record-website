@@ -1,0 +1,25 @@
+{
+  "bioguide": "M001188",
+  "member": "Grace Meng",
+  "searches": [
+    "site:meng.house.gov artificial intelligence",
+    "Grace Meng superintelligence",
+    "Grace Meng AI extinction existential risk",
+    "Grace Meng AI pause slowdown moratorium",
+    "Grace Meng China AI agreement treaty",
+    "\"Grace Meng\" \"AI safety\"",
+    "Rep. Grace Meng artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "All required web searches ran and found no statement by her about AI, and an earlier check of her official press releases from May 2025 to November 2026 found none either. She is not listed as a co-sponsor of the House Ban Artificial Superintelligence Act.",
+  "notes": "All 6 required web searches ran this time, plus 2 extra (8 in total); none returned any statement by Grace Meng about AI risk, superintelligence, a pause or slowdown, or China talks. Several results were about other people with similar names (Katja Grace, Nicole Meng), not her. Ban Artificial Superintelligence Act: the House bill (listed as H.R. 10538, introduced 24 September 2026, sponsor Rep. Greg Casar) has 12 co-sponsors on https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/ (opened), and Meng is not among them; congress.gov returned HTTP 403, so the official list was not checked. A news4jax/AP article from 17 April 2026 on a private House AI discussion (https://www.news4jax.com/news/politics/2026/04/17/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/) was opened and does not mention her. A search result snippet from the AFL-CIO vote scorecard (https://aflcio.org/scorecard/votes/2025/house/hr-1-one-big-beautiful-bill-act-cruz-amendment?page=13) lists her as voting no on a 2025 H.R. 1 vote tied to a ban on state AI laws; this is a vote, not a statement, was not opened, and is about state AI regulation (level D territory), so it is not recorded. Kept from the earlier attempt (not redone this time): that attempt opened https://meng.house.gov/media-center/press-releases pages ?page=0 to ?page=5 (60 releases, 28 May 2025 to 9 November 2026) and found no title or excerpt mentioning AI; only excerpts were visible, so full release texts were not checked, and the site's search page returned HTTP 403. Interviews and hearing remarks (she sits on Appropriations) were covered only through the general web searches above."
+}

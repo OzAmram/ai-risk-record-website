@@ -1,0 +1,54 @@
+[
+ {
+  "id": "G000606",
+  "name": "Adelita S. Grijalva",
+  "accounts": [
+   {"handle": "rep_grijalva", "account_type": "official", "evidence_url": "https://grijalva.house.gov", "evidence": "Her official House website links to x.com/rep_grijalva in its social media links."},
+   {"handle": "AdelitaForAZ", "account_type": "campaign", "evidence_url": "https://www.adelitaforcongress.com/meet-adelita", "evidence": "Her campaign website (Adelita for Congress) links to x.com/AdelitaForAZ."}
+  ],
+  "notes": ""
+ },
+ {
+  "id": "H001098",
+  "name": "Abraham J. Hamadeh",
+  "accounts": [
+   {"handle": "RepAbeHamadeh", "account_type": "official", "evidence_url": "https://hamadeh.house.gov", "evidence": "His official House website links to x.com/RepAbeHamadeh in its header and footer."},
+   {"handle": "AbrahamHamadeh", "account_type": "campaign", "evidence_url": "https://abeforaz.com/", "evidence": "His campaign website (paid for by Abe for Arizona; abehamadeh.com redirects here) links to x.com/AbrahamHamadeh."}
+  ],
+  "notes": "AbrahamHamadeh is linked from the campaign site; it may function as his personal account as well."
+ },
+ {
+  "id": "G000607",
+  "name": "James Gallagher",
+  "accounts": [
+   {"handle": "RepGallagherCA1", "account_type": "official", "evidence_url": "https://gallagher.house.gov/", "evidence": "His official House website links to x.com/RepGallagherCA1/."},
+   {"handle": "J_Gallagher4CA", "account_type": "campaign", "evidence_url": "https://electjamesgallagher.com/", "evidence": "His campaign website (paid for by The Gallagher Committee; address listed on the FEC Form 1 per a search summary) links to x.com/J_Gallagher4CA."}
+  ],
+  "notes": "Seen only through the page-reading tool (the site is script-rendered, so a raw download showed no link); a second read quoted the same href. A web search said his old state Assembly handle was J_GallagherAD3; not opened or verified, possibly the same account renamed. jamesgallagher.org is a different person (an artist)."
+ },
+ {
+  "id": "W000832",
+  "name": "Aisha Wahab",
+  "accounts": [
+   {"handle": "aishabbwahab", "account_type": "campaign", "evidence_url": "https://www.aishawahab.com", "evidence": "The 'Dr. Aisha Wahab for Congress' campaign website links to x.com/aishabbwahab."}
+  ],
+  "notes": "No official account found: wahab.house.gov (home and contact pages) links only to x.com/HouseDemocrats, not an account of her own. aishabbwahab is likely also her long-standing personal account (an Emerge America profile seen in search results listed it), but it is recorded here as campaign since that is the page that links it."
+ },
+ {
+  "id": "C001123",
+  "name": "Gilbert Ray Cisneros, Jr.",
+  "accounts": [
+   {"handle": "RepGilCisneros", "account_type": "official", "evidence_url": "https://cisneros.house.gov", "evidence": "His official House website links to x.com/RepGilCisneros and twitter.com/RepGilCisneros."}
+  ],
+  "notes": "Campaign site gilonthehill.com returned HTTP 403, so its links could not be checked. Search results show ProPublica Politwoops tracked a GilCisnerosCA account for him (2017-2020), but I could not open a page confirming it, or that it is still in use, so it is not listed."
+ },
+ {
+  "id": "T000491",
+  "name": "Derek Tran",
+  "accounts": [
+   {"handle": "RepDerekTranCA", "account_type": "official", "evidence_url": "https://tran.house.gov", "evidence": "His official House website links to twitter.com/RepDerekTranCA."},
+   {"handle": "DerekTranCA45", "account_type": "campaign", "evidence_url": "https://www.derektranforcongress.com/about", "evidence": "His campaign website (Derek Tran for Congress) About page links to twitter.com/DerekTranCA45."}
+  ],
+  "notes": ""
+ }
+]

@@ -1,0 +1,46 @@
+{
+  "bioguide": "M001220",
+  "member": "Morgan McGarvey",
+  "searches": [
+    "site:mcgarvey.house.gov artificial intelligence",
+    "Morgan McGarvey superintelligence",
+    "McGarvey AI extinction existential risk",
+    "Rep. Morgan McGarvey AI pause slowdown moratorium",
+    "McGarvey China AI agreement treaty",
+    "\"Morgan McGarvey\" \"AI safety\"",
+    "Rep. Morgan McGarvey artificial intelligence",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found. His 9 July 2026 letter opposing a Louisville data center is about electricity rates and local impact, not risk from AI, so it does not count.",
+      "sources": [
+        [
+          "McGarvey press release, 2026-07-09",
+          "https://mcgarvey.house.gov/media/press-releases/rep-mcgarvey-opposes-camp-ground-road-data-center-in-letter-to-lgande-dont-raise-louisvilles-rates-to-pay-for-it"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by McGarvey about AI, let alone catastrophic AI risk, was found in his official press releases or in eight web searches covering January 2025 to November 2026.",
+  "notes": "All 6 required web searches ran on 14 November 2026, plus 2 extra (his name with 'artificial intelligence', and the Ban Artificial Superintelligence Act cosponsors); 8 in total. None returned a statement by Morgan McGarvey about AI. The site-restricted search returned no pages from mcgarvey.house.gov. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy tracker page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 House cosponsors and McGarvey is not among them; a Forkast article (opened) does not mention him. Congress.gov was not checked directly, so a later cosponsorship cannot be fully ruled out. No House letter on AI risk led by him was found (the centrally checked group letters were not searched, per instructions). A search-result summary said the AFL-CIO scorecard (https://aflcio.org/scorecard/votes/2025/house/hr-1-one-big-beautiful-bill-act-cruz-amendment) lists McGarvey voting No on a 2025 measure to ban state and local AI laws; I did not open that page, and a vote on state preemption is not about catastrophic risk, so it is left out of record. Kept from the earlier attempt (not re-checked this time): his press release listing (mcgarvey.house.gov/media/press-releases, pages 1 to 6, about September 2024 to 11 November 2026) had no release title or excerpt mentioning AI; release bodies were not all opened, so an AI mention inside a body could be missed. The 9 July 2026 letter to LG&E opposing the Camp Ground Road data center is about electricity rates and does not mention AI. The 11 November 2026 veterans health innovation bill with Rep. Luttrell does not mention AI. Name check: results about Rep. Bob Morgan (Illinois state legislator) and Rep. Morgan Luttrell (R-TX) are not this person."
+}

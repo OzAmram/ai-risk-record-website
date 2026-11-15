@@ -1,0 +1,65 @@
+{
+  "bioguide": "F000469",
+  "member": "Russ Fulcher",
+  "searches": [
+    "site:fulcher.house.gov artificial intelligence",
+    "Russ Fulcher \"AI safety\"",
+    "Fulcher superintelligence",
+    "Russ Fulcher AI extinction existential risk",
+    "Russ Fulcher AI pause moratorium slowdown",
+    "Russ Fulcher China AI agreement treaty",
+    "Fulcher \"Are we at that point\" terrorists AI hearing Energy and Commerce"
+  ],
+  "statements": [
+    {
+      "date": "2025-05-15",
+      "venue": "Press release on Energy and Commerce Committee passage of reconciliation text",
+      "quote": "This legislation takes important steps to strengthen America’s leadership on the world stage by supporting rapid technological advancements in Artificial Intelligence",
+      "context": "Statement after the Energy and Commerce Committee passed its part of the 2025 reconciliation bill, whose provisions included a limit on state AI laws.",
+      "source_label": "fulcher.house.gov press release",
+      "url": "https://fulcher.house.gov/2025/05/15/id-e4bdc7a7-31f6-48b6-8edf-fd566f568620/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI advancement and American leadership; no catastrophic risk acknowledged."
+    },
+    {
+      "date": "2025-05-21",
+      "venue": "House Energy and Commerce subcommittee hearing on AI regulation and the future of US leadership",
+      "quote": "I'm concerned about the US' ability to maintain its leadership position if in fact we still have one.",
+      "context": "As subcommittee vice chairman, he questioned witnesses about European AI rules, a patchwork of state AI laws, and the AI race with China.",
+      "source_label": "Tech Policy Press hearing transcript",
+      "url": "https://techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About competition with China and regulation burdens; no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement on this policy found in any of the searches or pages checked.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement on this policy found in any of the searches or pages checked.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement on this policy found in any of the searches or pages checked.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement on this policy found in any of the searches or pages checked.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Both quotable remarks found are from 2025 and are about AI leadership, regulation and competition with China (D). A December 2025 hearing exchange on terrorists misusing AI could not be quoted; even if it were C with misuse_only, it is from 2025 with nothing in 2026 supporting it, so the suggestion would stay D.",
+  "notes": "All required searches ran this time: 7 web searches (listed in 'searches'), none refused. None of the topic searches (AI safety, superintelligence, extinction/existential risk, pause/slowdown/moratorium, China agreement/treaty) returned any result mentioning Fulcher. The site search found only one AI item on his own site (the 23 February 2026 page below) plus committee hearing pages. Earlier attempts opened fulcher.house.gov directly: the home page, the Press Releases listing (Feb to Oct 2026, no AI items), and the site's own search for 'artificial' (only the 15 May 2025 release is relevant), 'superintelligence' (no results) and 'AI' (first page only). An earlier attempt also opened the June 4, 2025 hearing record (govinfo CHRG-119hhrg60730, 'AI in the Everyday') where he is listed as a member but has no recorded remarks, and read the Tech Policy Press transcript of the 21 May 2025 hearing, from which his D statement is taken. Caution: that article's pull-quote box attributes 'A patchwork of various state laws is not good for innovation, for business or consumers, and that is what we're trying to avoid.' to Fulcher, but near-identical wording appears in another member's remarks in the transcript body and does not appear in Fulcher's own remarks there, so I did not use it. Lead for a reviewer: the site's In the News page ''Are We At That Point?': Fulcher Questions If Terrorists Can Use AI To Carry Out Attacks' (https://fulcher.house.gov/2026/02/23/are-we-at-that-point-fulcher-questions-if-terrorists-can-use-ai-to-carry-out-attacks/, posted 23 February 2026; reopened this run, it has only the headline and an embedded Forbes Breaking News video) points to a Forbes Breaking News video (https://www.youtube.com/watch?v=WMte73ak-0k, uploaded 2025-12-19 per the earlier attempt; description: 'At a House Energy Committee hearing on Wednesday, Rep. Russ Fulcher (R-ID) discussed potential misuse of AI.'). No transcript was available (the video page fetched this run gave only the title), and a targeted search did not find a hearing transcript, so no quote was recorded; if his words name catastrophic misuse (for example bioweapons), it would be C with misuse_only, dated about 17 December 2025, and per ruling 2 the grade would still be D. Ban Artificial Superintelligence Act (H.R. 10538): congress.gov cosponsor page and govtrack.us both returned 403 this run, so co-sponsorship could not be checked; no mention on his site or in any search result. No House letter on AI risk led by him was found."
+}

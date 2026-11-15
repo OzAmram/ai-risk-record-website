@@ -1,0 +1,67 @@
+{
+ "bioguide": "B001298",
+ "member": "Don Bacon",
+ "searches": [
+  "site:bacon.house.gov artificial intelligence",
+  "Don Bacon \"AI safety\"",
+  "Don Bacon superintelligence",
+  "Rep. Don Bacon AI existential risk extinction",
+  "Don Bacon AI pause moratorium slowdown",
+  "Don Bacon China artificial intelligence agreement treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-06-09",
+   "venue": "House Armed Services Committee markup of the FY27 defense policy bill (remarks on the Cyber, Information Technologies, and Innovation subcommittee print), published as a press release",
+   "quote": "The CITI print also streamlines adoption of new AI tools by directing the Chief Data and Artificial Intelligence Officer to establish a framework to enable rapid adoption and governance of AI systems across the DOD.",
+   "context": "Bacon describing AI provisions of the defense policy bill, including faster adoption of AI tools at the Pentagon and updated policy on autonomous weapon systems.",
+   "source_label": "Bacon press release, 9 June 2026",
+   "url": "https://bacon.house.gov/news/documentsingle.aspx?DocumentID=2900",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Promotes military adoption and governance of AI and mentions autonomous weapons policy, but names no catastrophic risk from AI (ruling 3 and 5)."
+  },
+  {
+   "date": "2025-08-11",
+   "venue": "NewsNation \"The Hill\" television interview with Chris Stirewalt, reported by The Hill",
+   "quote": "We’ve got to realize we’re in an intellectual war, a technology war with China, and we’re in an AI [artificial intelligence] competition,",
+   "context": "Bacon criticising the Trump administration's deal letting Nvidia and AMD sell AI chips to China in exchange for a revenue share.",
+   "source_label": "The Hill, 12 August 2025",
+   "url": "https://digital-release.thehill.com/homenews/house/5447693-don-bacon-donald-trump-nvidia-amd-chip-deal/amp",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Frames AI as a competition with China and opposes chip sales to China, which is not catastrophic risk (ruling 5)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement, bill or letter found on this policy in six web searches or on his official press release pages; no source shows him co-sponsoring the Ban Artificial Superintelligence Act.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement, bill or letter found on this policy in six web searches or on his official press release pages; no source shows him co-sponsoring the Ban Artificial Superintelligence Act.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement, bill or letter found on this policy in six web searches or on his official press release pages; no source shows him co-sponsoring the Ban Artificial Superintelligence Act.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement, bill or letter found on this policy in six web searches or on his official press release pages; no source shows him co-sponsoring the Ban Artificial Superintelligence Act.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His AI remarks found (June 2026 defense bill markup, August 2025 interview on AI chip sales to China) promote military AI adoption and competition with China without acknowledging catastrophic risk from AI.",
+ "notes": "All required searches ran this time: 7 web searches (the six required plus one on Ban Artificial Superintelligence Act cosponsors). The bacon.house.gov site search returned no pages from his site, so the official-site check relies on the earlier direct reading of his press release listing pages 1-6 (15 Dec 2025 to 10 Nov 2026): titles and excerpts only, plus full text of DocumentID 2900 and 2912; none mentions catastrophic AI risk, superintelligence, a pause or AI talks with China. Release 2900 quote rechecked at source on 13 Nov 2026. 2900 also has Bacon saying the print 'leverages the boundless potential of artificial intelligence'; it lists (in office text, not his quote) a Bacon-backed provision to keep adversary AI companies out of Defense systems. 2912 (19 Oct 2026, Ukraine defense innovation bill) mentions drones, not AI. Ban Artificial Superintelligence Act (H.R. 10538, Casar): sources list only Democratic cosponsors and no complete roster was found; no source shows Bacon as a cosponsor, but congress.gov was not checked. The Hill quote contains the outlet's bracketed insertion '[artificial intelligence]'; the comma at the end is part of the source text. No search result mentioned Bacon in coverage of the September 2026 extinction warnings or the April 2026 lawmaker AI roundtable. Interviews, floor speeches and pre-December-2025 press releases were not checked in full."
+}

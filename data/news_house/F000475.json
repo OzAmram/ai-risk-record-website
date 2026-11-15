@@ -1,0 +1,71 @@
+{
+  "bioguide": "F000475",
+  "member": "Brad Finstad",
+  "searches": [
+    "site:finstad.house.gov artificial intelligence",
+    "Brad Finstad superintelligence",
+    "Brad Finstad AI existential risk extinction",
+    "Brad Finstad AI pause moratorium slowdown",
+    "Brad Finstad China AI agreement treaty",
+    "\"Finstad\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Finstad"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-23",
+      "venue": "House floor remarks (as prepared for delivery), published in press release",
+      "quote": "AI could be a useful tool for the SBA to process information and ease its implementation, but it also raises questions about transparency, oversight, and risks.",
+      "context": "Speaking in support of House passage of his SBA Artificial Intelligence Utilization Act, which requires the Small Business Administration to report yearly to Congress on its use of AI.",
+      "source_label": "Finstad press release, 23 June 2026",
+      "url": "https://finstad.house.gov/2026/06/23/finstad-applauds-house-passage-of-his-legislation-the-sba-artificial-intelligence-utilization-act-of-2026/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Mentions unspecified risks of AI use in a government agency, which is about oversight and transparency, not catastrophic risk."
+    },
+    {
+      "date": "2026-05-20",
+      "venue": "Press release",
+      "quote": "In a time of increasing amounts of accessible artificial intelligence, it’s important to ensure our government agencies adopt AI responsibly and transparently,",
+      "context": "Applauding committee passage of his bill requiring the Small Business Administration to report its use of AI and machine learning to Congress.",
+      "source_label": "Finstad press release, 20 May 2026",
+      "url": "https://finstad.house.gov/2026/05/20/finstad-applauds-committee-passage-of-the-sba-artificial-intelligence-utilization-act-of-2026/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About responsible and transparent government use of AI, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored (with Rep. George Latimer) H.R. 8881, the SBA Artificial Intelligence Utilization Act of 2026, requiring the Small Business Administration to report yearly to Congress on its use of AI and machine learning; passed the House. This is about agency oversight, not catastrophic risk.",
+      "Finstad press releases, 20 May 2026 and 23 June 2026",
+      "https://finstad.house.gov/2026/06/23/finstad-applauds-house-passage-of-his-legislation-the-sba-artificial-intelligence-utilization-act-of-2026/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found (2026) are about responsible, transparent use of AI by the Small Business Administration; none acknowledge catastrophic risk.",
+  "notes": "All 7 web searches ran this time (6 required plus 1 on Ban Artificial Superintelligence Act cosponsors); none were refused. The official-site search returned only the 23 June 2026 SBA AI bill release; the searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement, and 'AI safety' returned nothing mentioning Finstad. The Ban Artificial Superintelligence Act search (House bill H.R. 10538, introduced 24 September 2026 by Rep. Casar) found no source listing Finstad as a sponsor or co-sponsor; congress.gov was not checked directly. No House letter about AI risk signed by him was found. From the earlier attempt: finstad.house.gov was opened directly (home page, press releases 7 Oct to 11 Nov 2026, and the site's own search for 'artificial intelligence', 'artificial', 'machine learning' and 'superintelligence'). Only the two Small Business Administration AI bill releases (20 May and 23 June 2026) mention AI; 'superintelligence' returned nothing. The 6 Oct 2026 Safeguarding Technology from CCP Influence Act release is about government purchases from Chinese-linked companies and does not mention AI. Quotes were copied from the downloaded page HTML (curly apostrophe as on the page). Rep. George Latimer, not Finstad, made the 'curiosity and apprehension about the future of AI' remark in the May release, so it was left out."
+}

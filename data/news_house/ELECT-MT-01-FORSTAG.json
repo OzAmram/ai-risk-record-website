@@ -1,0 +1,49 @@
+{
+  "bioguide": "ELECT-MT-01-FORSTAG",
+  "member": "Sam Forstag",
+  "searches": [
+    "Sam Forstag Montana AI artificial intelligence",
+    "Sam Forstag \"AI safety\"",
+    "Forstag superintelligence OR \"artificial general intelligence\" Montana congress",
+    "Sam Forstag AI extinction OR \"existential risk\"",
+    "Sam Forstag AI data center moratorium OR pause OR slowdown",
+    "Sam Forstag China AI agreement OR treaty",
+    "Sam Forstag campaign site issues technology \"artificial intelligence\""
+  ],
+  "statements": [
+    {
+      "date": "2026-10-09",
+      "venue": "Campaign website policy platform",
+      "quote": "This technology has the potential to pose an existential risk to our economy and to humanity itself. This is one of the most pressing issues that our country needs to face, and we need to create federal oversight and regulation of this industry now!",
+      "context": "The 'Rein in Artificial Intelligence (AI) Companies' plank of his campaign platform, under the heading 'Make Big Tech, AI, & Social Media Work For Us'.",
+      "source_label": "Sam for Montana campaign site, Policies page",
+      "url": "https://samformontana.com/policies/",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [],
+      "reason": "He says AI could pose an existential risk to humanity itself, which is a threat to humanity in his own words (ruling 1)."
+    },
+    {
+      "date": "2026-10-09",
+      "venue": "Campaign website policy platform",
+      "quote": "The advent of powerful artificial intelligence models is perhaps the most pressing issue facing our country. These technologies have the potential to concentrate an incredible amount of power in the hands of a few unelected executives",
+      "context": "Introduction to the AI and Big Tech section of his campaign platform, which goes on to name privacy, children and the economy.",
+      "source_label": "Sam for Montana campaign site, Policies page",
+      "url": "https://samformontana.com/policies/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Concentration of power, privacy, children and the economy are outside this project's scope, so this passage alone is D."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "His platform calls for strict federal requirements on new data centers (own power supply, water-efficient cooling, local union labor), motivated by power bills, water and labor, not by risk from AI itself, so this is not a slowdown position.", "sources": [["Sam for Montana campaign site, Policies page", "https://samformontana.com/policies/"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "A",
+  "grade_reason": "His 2026 campaign platform says AI has the potential to pose an existential risk to humanity itself and calls for strict federal oversight of such technologies; no dismissive statement was found.",
+  "notes": "Seven web searches ran; none was refused. Searches returned no news reports, interviews or debate remarks by Forstag on AI; the only material found is his campaign platform, read directly at https://samformontana.com/policies/ (raw HTML downloaded and the quotes checked character for character). The platform is undated per section: the page's metadata gives datePublished 2026-02-17 and dateModified 2026-10-09, so the date used is the last-modified date and the text may have been written earlier in 2026; either way it is a 2026 statement. A second bullet on the same page reads 'Strict Federal Oversight of technologies with the potential to pose an existential risk to our economy and to humanity.' (not listed separately, as it repeats the first). Reviewer judgement: the wording is hedged ('has the potential to pose') and pairs humanity with 'our economy'; I graded A under ruling 1 (threat to humanity), but B or a boundary flag is arguable. He holds no office yet, so he did not sponsor the Ban Artificial Superintelligence Act and no source shows he endorsed it. A PulseAugur aggregator page (https://pulseaugur.com/cluster/39163) said Forstag faced scrutiny over his stance on Montana AI data centers, but it returned HTTP 403 and was not used. No search was restricted to an official site because he has no house.gov site; the campaign site was opened directly instead."
+}

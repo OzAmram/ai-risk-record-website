@@ -1,0 +1,49 @@
+{
+  "bioguide": "O000086",
+  "member": "Burgess Owens",
+  "searches": [
+    "Burgess Owens artificial intelligence (restricted to owens.house.gov)",
+    "Burgess Owens superintelligence",
+    "Burgess Owens AI extinction existential risk",
+    "Burgess Owens AI pause moratorium slowdown",
+    "Burgess Owens China AI agreement treaty",
+    "\"Burgess Owens\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-03",
+      "venue": "Opening remarks at House Education and Workforce subcommittee hearing \"Building an AI-Ready America: Higher Education in the Age of AI\" (Owens chairing)",
+      "quote": "Higher education has both opportunity and obligation to help lead this transition rather than simply endure it.",
+      "context": "Owens opened a hearing on how colleges should prepare students for AI, noting that global competitors and employers are building around AI.",
+      "source_label": "owens.house.gov hearing recap, 3 June 2026",
+      "url": "https://owens.house.gov/posts/hearing-recap-owens-hearing-on-higher-education-in-the-age-of-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He discusses AI in education and workforce terms and does not acknowledge any catastrophic risk."
+    },
+    {
+      "date": "2025-04-02",
+      "venue": "Remarks at House Education and Workforce subcommittee hearing \"From Chalkboards to Chatbots: The Impact of AI on K-12 Education\"",
+      "quote": "That only happens if we adapt to new technology in a way that keeps humans—parents, teachers, and students—at the center.",
+      "context": "Owens spoke about AI in K-12 schools, arguing that local parents and teachers rather than federal officials should drive AI adoption.",
+      "source_label": "owens.house.gov hearing recap, 2 April 2025",
+      "url": "https://owens.house.gov/posts/hearing-recap-owens-questions-experts-on-innovation-in-k-12-schools",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The remark is about AI in classrooms and local control, not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Owens has spoken about AI in 2026 (chairing a June 2026 hearing on AI in higher education) and 2025, but only in terms of education, workforce and competitiveness; no statement acknowledging catastrophic risk was found.",
+  "notes": "All six required web searches ran this time, plus one extra search on the Ban Artificial Superintelligence Act cosponsors (7 total, none refused); the earlier attempt's refused searches are superseded. The superintelligence, extinction, pause, China-agreement and 'AI safety' searches returned nothing about Owens. The extra search found the House version (reported as H.R. 10538, led by Casar; cosponsor lists in sources conflict) and no source naming Owens as a sponsor or cosponsor; this was not checked on congress.gov, which returned 403 in the earlier attempt. No House letter on AI risk led or signed by Owens was found (the many-signer August and September 2026 letters were not searched, per instructions). Quotes were taken from the owens.house.gov hearing recaps via a page-fetch tool that summarizes pages; the wording was reported as exact but a reviewer may want to confirm it character for character. A second page, 'Rep. Owens Holds Hearing on Higher Education in the Age of AI' (3 June 2026), had no quotes from him on AI. His office's paraphrase that he stressed AI as a tool to augment rather than replace educators was left out as a paraphrase."
+}

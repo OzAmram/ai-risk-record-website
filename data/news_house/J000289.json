@@ -1,0 +1,35 @@
+{
+  "bioguide": "J000289",
+  "member": "Jim Jordan",
+  "searches": [
+    "Jim Jordan artificial intelligence (restricted to jordan.house.gov and judiciary.house.gov)",
+    "Jim Jordan superintelligence",
+    "Rep. Jim Jordan AI extinction existential risk",
+    "Jim Jordan AI pause moratorium state AI laws preemption",
+    "Jim Jordan China AI agreement treaty",
+    "\"Jim Jordan\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {"date": "2026-03-20", "venue": "Joint statement by House Republican leaders and committee chairs (press release)",
+     "quote": "To ensure we continue to harness its potential and beat China in the global AI race, Congress must take action.",
+     "context": "Joint statement by Scalise, Johnson, Guthrie, Jordan and Babin welcoming the Trump administration's national AI framework and promising legislation that gives innovators certainty while protecting consumers and children.",
+     "source_label": "House Judiciary Committee press release, 20 March 2026",
+     "url": "https://judiciary.house.gov/media/press-releases/jordan-scalise-johnson-guthrie-babin-house-will-work-implement-national-ai",
+     "read_at_source": true, "level": "D", "flags": ["cosigned_letter", "bill_or_action"],
+     "reason": "The statement is about winning the AI race with China and passing a national framework, and does not acknowledge catastrophic risk from AI."}
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; his only China reference is about beating China in the AI race, which does not count.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["As Judiciary Committee chairman, sent letters to 16 AI and technology companies (including Anthropic, OpenAI, Google and Meta) seeking documents on Biden-Harris administration pressure to censor or moderate AI outputs.", "House Judiciary Committee press release, 13 March 2025", "https://judiciary.house.gov/media/press-releases/chairman-jordan-seeks-documents-about-biden-harris-censorship-pressure"],
+    ["Joined Speaker Johnson, Majority Leader Scalise, and Chairs Guthrie and Babin in a joint statement backing the Trump administration's national AI framework and promising legislation.", "House Judiciary Committee press release, 20 March 2026", "https://judiciary.house.gov/media/press-releases/jordan-scalise-johnson-guthrie-babin-house-will-work-implement-national-ai"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His 2025 and 2026 AI activity is about censorship of AI models and winning the AI race with China through a national framework; nothing found acknowledges catastrophic risk from AI, and nothing dismisses it either.",
+  "notes": "All 7 web searches ran this time (6 required plus one on the Ban Artificial Superintelligence Act); none was refused. Searches on superintelligence, extinction, pause or moratorium, China agreement and 'AI safety' found no statement by Rep. Jim Jordan on catastrophic AI risk; superintelligence results were mostly about the computer scientist Michael I. Jordan, a different person. The 20 March 2026 quote is from a joint statement of five House Republican leaders, not attributed to Jordan alone, hence the cosigned_letter flag; the page was read through a fetch tool that returned the text in short segments, and the quoted sentence was returned as one segment. The 13 March 2025 press release contains no direct quote from Jordan, so it is listed in 'record' only. Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar): search results list only Democratic cosponsors and no source shows Jordan as sponsor or cosponsor; the Congress.gov cosponsor page returned HTTP 403 in the earlier attempt, so the full list was not checked directly. From the earlier attempt (still valid): jordan.house.gov press releases page 1, opinion pieces page 1 and in-the-news page 1 had no AI items, and republicans-judiciary.house.gov press releases page 1 (30 Sept to 2 Nov 2026) had no AI items. A newschannel9 article on top Republicans resisting AI safety laws quotes Speaker Johnson but, per the search result, does not name Jordan; it was not opened. The 2025 House Republican push for a 10-year moratorium on state AI laws was not tied to Jordan by any source found."
+}

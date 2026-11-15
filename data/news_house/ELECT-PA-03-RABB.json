@@ -1,0 +1,32 @@
+{"bioguide": "ELECT-PA-03-RABB", "member": "Chris Rabb",
+ "searches": [
+  "Chris Rabb artificial intelligence",
+  "Chris Rabb \"AI safety\"",
+  "Rep. Chris Rabb Pennsylvania AI bill data center 2026",
+  "Chris Rabb superintelligence",
+  "Chris Rabb AI extinction OR \"existential risk\"",
+  "Chris Rabb AI pause OR moratorium OR slowdown",
+  "Chris Rabb China AI agreement treaty",
+  "Chris Rabb for Congress campaign issues technology AI"
+ ],
+ "statements": [
+  {"date": "2026-08-01", "venue": "Campaign event with Rep. Ro Khanna on data centers (reported by Associated Press wire)",
+   "quote": "These data centers, this explosion of data centers is not to make us better compete against the Chinese,",
+   "context": "Rabb argued that the AI data center buildout is meant to displace American workers for the enrichment of the wealthy, and backed a federal moratorium on data centers.",
+   "source_label": "Lewistown Sentinel (AP wire), 1 August 2026", "url": "https://www.lewistownsentinel.com/news/pa-news-apwire/2026/08/khanna-proposes-data-center-bill/",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About AI data centers displacing workers and enriching the wealthy; no catastrophic risk from AI is acknowledged."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "He backs a federal moratorium on data centers, but the reported motive is job displacement and inequality (and climate, per Food & Water Action), not risk from AI itself, so it does not count under the rubric.", "sources": [["Lewistown Sentinel (AP), 1 Aug 2026", "https://www.lewistownsentinel.com/news/pa-news-apwire/2026/08/khanna-proposes-data-center-bill/"]]},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pace.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Listed as a Democratic co-sponsor of Pennsylvania HB 2150, the Data Center Energy and Water Reporting Act (energy and water reporting for large data centers); not about catastrophic AI risk.", "BillTrack50, 2026 (seen in search results only)", "https://www.billtrack50.com/billdetail/1942025"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 remarks on AI are about data centers displacing workers and enriching the wealthy; nothing found acknowledges catastrophic risk from AI.",
+ "notes": "8 web searches ran, none refused. Searches on superintelligence, extinction, pause, China agreement and AI safety found nothing about Rabb. No source shows him sponsoring the Ban Artificial Superintelligence Act (he was a state legislator, not a House member). The fetch tool would not reproduce the full sentence 'But here's the concern I have, I believe this massive explosion of AI data centers ... is meant to displace American workers forever, and I believe that's evil.' because the quoted wording was split by an ellipsis in its output, so I used a shorter passage confirmed exactly. The article's paraphrase that he 'supports a federal moratorium on data centers' was not turned into a quote. His May 2026 state House newsletter (pahouse.com/Rabb) reportedly flags AI image tools enabling exploitation and abuse; seen only in a search summary, not opened, and would be D anyway. His campaign website was not found or opened. HB 2150 co-sponsorship seen only in search results, not opened."
+}

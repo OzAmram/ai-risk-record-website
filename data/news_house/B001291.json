@@ -1,0 +1,100 @@
+{
+  "bioguide": "B001291",
+  "member": "Brian Babin",
+  "searches": [
+    "Brian Babin artificial intelligence (restricted to babin.house.gov)",
+    "Brian Babin superintelligence",
+    "Brian Babin AI extinction existential risk",
+    "Brian Babin AI pause slowdown moratorium",
+    "Brian Babin China AI agreement treaty",
+    "\"Brian Babin\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "venue": "House Science, Space, and Technology Committee press release",
+      "quote": "Like any new technology, AI presents both risks and opportunities.",
+      "context": "Statement as committee chairman after a bipartisan briefing with Hugging Face, METR, OpenAI and Anthropic on AI agent security incidents first disclosed by Hugging Face in July 2026.",
+      "source_label": "House Science Committee press release",
+      "url": "https://science.house.gov/press-releases?ID=AD1C1B60-70EA-40F5-814D-01FCD65209EF",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Mentions unspecified AI risks and the cyber incident but names no catastrophic harm, and frames the goal as America leading China in the AI race."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "House Science, Space, and Technology Committee press release",
+      "quote": "As AI becomes increasingly capable, we can promote the development of trustworthy and reliable systems without sacrificing the innovation that gives America a competitive edge.",
+      "context": "Same statement after the committee briefing on AI agent security incidents.",
+      "source_label": "House Science Committee press release",
+      "url": "https://science.house.gov/press-releases?ID=AD1C1B60-70EA-40F5-814D-01FCD65209EF",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Calls for trustworthy and reliable AI without acknowledging any catastrophic risk."
+    },
+    {
+      "date": "2026-06-25",
+      "venue": "House Science, Space, and Technology Committee press release",
+      "quote": "This bipartisan package expands access to cutting-edge research, strengthens our AI workforce, promotes responsible innovation, and bolsters our national security.",
+      "context": "Committee passage of ten AI bills, including the AI Security and Innovation Act and the AI Flaw Reporting and Security Enhancement Act.",
+      "source_label": "House Science Committee press release",
+      "url": "https://science.house.gov/press-releases?ID=C4CD3CA3-92B9-438B-BEAB-930F8A322F5F",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes AI research, workforce and leadership; no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI pacing; his stated goal is that America, not the Chinese Communist Party, leads the global AI race.",
+      "sources": [
+        [
+          "House Science Committee press release, 2026-09-15",
+          "https://science.house.gov/press-releases?ID=AD1C1B60-70EA-40F5-814D-01FCD65209EF"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "As Science Committee chairman, held a bipartisan committee-wide briefing with Hugging Face, METR, OpenAI and Anthropic on AI agent security incidents.",
+      "House Science Committee press release, 2026-09-15",
+      "https://science.house.gov/press-releases?ID=AD1C1B60-70EA-40F5-814D-01FCD65209EF"
+    ],
+    [
+      "As chairman, oversaw committee passage of ten AI bills, including the AI Security and Innovation Act (H.R. 9363) and the AI Flaw Reporting and Security Enhancement Act (H.R. 9333).",
+      "House Science Committee press release, 2026-06-25",
+      "https://science.house.gov/press-releases?ID=C4CD3CA3-92B9-438B-BEAB-930F8A322F5F"
+    ],
+    [
+      "With Rep. Rich McCormick, sent letters probing foreign influence in U.S. AI and energy policy, including opposition to data centers.",
+      "House Science Committee press release, 2026-09-10",
+      "https://science.house.gov/press-releases?ID=5F29DEDF-CD65-48DB-9EBB-2C93CF6D5898"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "As House Science Committee chairman he spoke about AI several times in 2026, including after a briefing on AI agent security incidents, but only of unspecified 'risks and opportunities', trustworthy systems and beating China; no catastrophic risk was acknowledged.",
+  "notes": "All 6 required web searches ran, plus one on Ban Artificial Superintelligence Act cosponsors (7 total). None found any statement by Babin on superintelligence, extinction or existential risk, a pause or slowdown, or a China AI agreement. The Ban Artificial Superintelligence Act (H.R. 10538, introduced 2026-09-24 by Rep. Casar) cosponsor lists seen in search results (Hoyle, Lynch, Tonko, Ansari, Ocasio-Cortez and other Democrats) do not include Babin; the full list was not checked on Congress.gov, so this is not shown by any source either way. No House letter on AI risk signed by Babin was found. Earlier run (searches refused) opened babin.house.gov home and press release pages 1-2 and found nothing about AI; it then read the three Science Committee releases cited here. This run re-opened the 2026-09-15 release and confirmed the two quotes. Pages were read through a fetch tool that returns processed text, so a reviewer should confirm quotes character for character. In the 2026-09-10 release the only quote is attributed jointly to 'the Chairmen' (Babin and McCormick), so it is left out of statements. Also seen but not included (D, 2025): 2025-07-25 Science Committee release praising the AI Action Plan ('AI is evolving at an unparalleled pace; we must seize the moment and act without delay.'), https://science.house.gov/2025/7/chairman-babin-praises-administration-s-bold-strategy-for-maintaining-american-ai-leadership. A GovTech Insider article (2026-07-02) says he backs legislation authorizing a federal Center for AI Security and Innovation but quotes him directly nowhere. Interviews and hearing transcripts were not checked individually."
+}

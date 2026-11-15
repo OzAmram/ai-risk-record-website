@@ -1,0 +1,53 @@
+{
+  "bioguide": "C001039",
+  "member": "Kat Cammack",
+  "searches": [
+    "site:cammack.house.gov artificial intelligence",
+    "Kat Cammack \"AI safety\"",
+    "Kat Cammack superintelligence",
+    "Cammack AI existential risk extinction",
+    "Kat Cammack AI pause OR moratorium OR slowdown 2026",
+    "Kat Cammack China AI agreement treaty",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Rep. Kat Cammack artificial intelligence 2026 hearing interview"
+  ],
+  "statements": [
+    {
+      "date": "2025-04-07",
+      "venue": "Press release announcing the Republican Study Committee Emerging Technologies Task Force",
+      "quote": "Whether the issues feature artificial intelligence, blockchain, robotics, quantum computing, 5G/spectrum, or something else,",
+      "context": "Cammack, as chair, announced the launch of the Republican Study Committee's Emerging Technologies Task Force, which covers AI among other technologies.",
+      "source_label": "Cammack House press release, 7 April 2025",
+      "url": "https://cammack.house.gov/media/press-releases/rep-cammack-announces-launch-rsc-emerging-tech-task-force",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She names AI as a policy area for a task force focused on innovation and US leadership, with no acknowledgment of catastrophic risk."
+    },
+    {
+      "date": "2025-08-13",
+      "venue": "Interview on the Regulating AI podcast, as reported by American Bazaar",
+      "quote": "AI… is not just interstate commerce. This is global. And so we have an obligation… to establish a national standard.",
+      "context": "Arguing for a single national AI regulatory standard instead of a patchwork of state laws.",
+      "source_label": "American Bazaar, 13 August 2025",
+      "url": "https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About regulatory structure and preemption of state laws, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development for safety reasons. In a 2025 interview the reporter paraphrases her as calling those who want to 'shut everything down' bad for innovation, but this is a paraphrase with quoted fragments, not a clear statement against a safety slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Chairs the Republican Study Committee Emerging Technologies Task Force (vice chair Jay Obernolte), which covers AI policy among other technologies.", "Cammack House press release, 7 April 2025", "https://cammack.house.gov/media/press-releases/rep-cammack-announces-launch-rsc-emerging-tech-task-force"],
+    ["Was a member of the House Bipartisan Task Force on Artificial Intelligence set up by Speaker Johnson and Leader Jeffries in the previous (118th) Congress.", "Cammack House press release (2024)", "https://cammack.house.gov/media/press-releases/congresswoman-cammack-tapped-join-speaker-johnsons-new-house-task-force"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her AI statements found are from 2025 and concern innovation, bias and a national regulatory standard, with no acknowledgment of catastrophic risk; nothing about AI from her in 2026 was found.",
+  "notes": "All 8 web searches in this run succeeded (the six required plus a Ban Artificial Superintelligence Act cosponsor check and a 2026 hearing/interview search). None of the searches found any statement by Cammack on superintelligence, extinction or existential risk, a pause or slowdown, or a China agreement. Possible dismissive remark left out of statements: American Bazaar (13 August 2025, https://americanbazaaronline.com/2025/08/13/congresswoman-kat-cammack-urges-healthy-and-smart-adoption-of-ai-466166/) writes that 'She stressed that without foresight, AI could easily slip into a “Wild West” scenario, with “doomsdayers… [wanting] to shut everything down,” which she argued is “terrible for innovation.”' This is the reporter's paraphrase stitched around her quoted fragments, with a bracketed insertion, so it is not an exact continuous quote; a reviewer may want to find the podcast audio. If confirmed it would be an F-type remark, but it is from 2025, so under the rulings it would not lower the grade. Ban Artificial Superintelligence Act (H.R. 10538, Casar): cosponsor lists found (fastdemocracy, Forkast, Nextgov via aiunderstanding.org) do not name Cammack, and no source shows she cosponsored; congress.gov was not checked directly in this run. She is listed as a member present at Energy and Commerce hearings 'AI Regulation and the Future of U.S. Leadership' (21 May 2025) and 'AI in the Everyday' (4 June 2025), but the govinfo transcripts contain no remarks by her beyond the rosters. A 17 April 2026 report on a House AI roundtable (WTOP) could not be opened (HTTP 404), so whether she spoke there is unknown. The earlier run's check of her official press release listings (6 March 2025 to 12 November 2026) found no 2026 AI release; that check was not repeated here. The 7 April 2025 task force quote is a short exact fragment because the page reader limited quote length."
+}

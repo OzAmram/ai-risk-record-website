@@ -1,0 +1,37 @@
+{
+  "bioguide": "ELECT-WI-07-ALFONSO",
+  "member": "Michael Alfonso",
+  "searches": [
+    "Michael Alfonso Wisconsin 7th district AI artificial intelligence",
+    "Michael Alfonso \"AI safety\"",
+    "Michael Alfonso superintelligence OR \"artificial general intelligence\"",
+    "Alfonso Fred Clark debate AI preemption data center moratorium Wisconsin",
+    "Michael Alfonso AI extinction OR \"existential\" OR \"China\" treaty",
+    "alfonsoforcongress.com OR site:michaelalfonso.com AI",
+    "Michael Alfonso AI pause OR \"Ban Artificial Superintelligence Act\" OR regulation Republican Wisconsin"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-07",
+      "venue": "WJFW 7th Congressional District Republican primary debate",
+      "quote": "The rise of AI is a very scary thing, especially to my generation.",
+      "context": "Answering a debate question on how the government should regulate large data centers; he went on to talk about job losses from AI.",
+      "source_label": "PolitiQuote (Gigafact) debate transcript excerpt",
+      "url": "https://politiquote.gigafact.org/quotes/mike-alfonso-4d6a9c/the-rise-of-ai-is-a-very-scary-b1d110/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The concern he names is job loss for his generation, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on AI coordination with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found (July 2026 primary debate) are about AI-driven job losses, which is outside the catastrophic-risk scope; nothing at A, B, C or F was found.",
+  "notes": "7 web searches ran, all returned results. The PolitiQuote page is an automated, unverified transcript of the debate video (https://www.youtube.com/watch?v=n29U1Cmmk-Y&t=1434s); I did not watch the video. That page mislabels him as a State Assembly District 7 candidate, but the clip is from the 7th Congressional District Republican primary debate, so it is the right person. The same page also lists 'We stand to lose so many jobs, we don't even know how many.' and later remarks on Americans losing jobs to AI (job-loss only, D). The PBS Wisconsin debate transcript file (mmingest.pbswi.wisc.edu) could not be opened (certificate error). Search results say that in an October 2026 general-election debate Democrat Fred Clark asked Alfonso whether he would tell the president he is wrong to preempt state AI regulation; Alfonso's answer was not found. Campaign site not found (alfonsoforcongress.com returned 404). No evidence found that he took a position on the Ban Artificial Superintelligence Act; as a representative-elect he could not have co-sponsored it."
+}

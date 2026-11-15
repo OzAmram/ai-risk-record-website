@@ -1,0 +1,66 @@
+{
+  "bioguide": "F000246",
+  "member": "Pat Fallon",
+  "searches": [
+    "Pat Fallon artificial intelligence site:fallon.house.gov",
+    "Rep. Pat Fallon superintelligence",
+    "Pat Fallon AI extinction existential risk",
+    "Pat Fallon AI pause slowdown moratorium",
+    "Pat Fallon China AI agreement treaty",
+    "\"Pat Fallon\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Fallon"
+  ],
+  "statements": [
+    {
+      "date": "2025-06-09",
+      "venue": "Press release",
+      "quote": "The FAST Act is the bold step our military needs to take to secure our nation's future through advanced AI capabilities.",
+      "context": "Introducing the FAST Act, which would let the Defense Department buy software and data as a service to support development of AI systems, framed as winning the AI race with China.",
+      "source_label": "fallon.house.gov press release",
+      "url": "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1598",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes military adoption of AI and competition with China without acknowledging any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; his AI remarks frame China as a race competitor.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the FAST Act, letting the Defense Department procure software and data as a service to support development of AI systems.",
+      "fallon.house.gov press release, 2025-06-09",
+      "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1598"
+    ],
+    [
+      "Led House introduction of the Protecting AI and Cloud Competition in Defense Act, on competition and resiliency in Defense Department AI and cloud contracting.",
+      "fallon.house.gov press release, 2025-05-15",
+      "https://fallon.house.gov/news/documentsingle.aspx?DocumentID=1592"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found (2025 press releases on military AI procurement and contracting) promote AI adoption and competition with China without acknowledging catastrophic risk. Nothing about AI from 2026 was found.",
+  "notes": "All seven web searches ran in this second attempt (the six required plus one on the Ban Artificial Superintelligence Act). None found any statement by Fallon on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety; results for those queries did not mention him. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 Sep 2026): the fastdemocracy.com bill page lists 12 cosponsors (all Democrats) and Fallon is not among them; Congress.gov itself was not checked. A September 2025 House Oversight subcommittee hearing on AI ('Shaping Tomorrow: The Future of Artificial Intelligence', govinfo CHRG-119hhrg61734) came up; Fallon was not present and said nothing in it. From the earlier attempt (still valid): fallon.house.gov press release list pages 1 to 4 (January 2025 to October 2026) were checked; the only AI releases were the two 2025 defense items in 'record'. The FAST Act quote was shown whole, but apostrophe style (straight or curly) was not verified. Left out: 15 May 2025 Protecting AI and Cloud Competition in Defense Act release quotes (about AI and cloud data needing to be secure against cyber threats for national security), because exact continuous wording could not be confirmed; they would be D under ruling 4. He also wrote a National Interest op-ed titled 'Free Market Involvement in AI Is the Key to the US Military's Future Success' (linked from the FAST Act release; not opened, date not checked). No House letter on AI risk led or signed by him was found."
+}

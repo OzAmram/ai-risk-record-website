@@ -1,0 +1,24 @@
+{
+ "bioguide": "K000375",
+ "member": "William R. Keating",
+ "searches": [
+  "Keating artificial intelligence (restricted to keating.house.gov)",
+  "Bill Keating superintelligence",
+  "Rep. Bill Keating AI extinction existential risk",
+  "Bill Keating AI pause slowdown moratorium",
+  "Rep. Keating China artificial intelligence agreement",
+  "\"Keating\" \"AI safety\" congressman Massachusetts",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Keating"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement about AI by Keating since January 2025 was found in seven web searches or on his official site's press releases and issue pages.",
+ "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act; none returned any statement by Keating about AI. The site-restricted search returned only his national security issue page (https://keating.house.gov/policy-work/issues/national-security), which per the search summary does not mention AI; it was not opened. Ban Artificial Superintelligence Act: the House bill is H.R. 10538 (24 September 2026); the FastDemocracy tracker page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), opened this session, lists 12 cosponsors and Keating is not among them, but that list may be partial and Congress.gov was not checked (it returned HTTP 403 in the earlier attempt). From the earlier attempt (official site opened directly): the home page, all three pages of the press release archive (https://keating.house.gov/media/press-releases, 26 releases from March 2024 to 15 September 2026), the RSS feed, the issues page (19 issue pages, none on AI or technology) and the sponsored-legislation page were checked; no press release title or excerpt mentions artificial intelligence, but release bodies were not opened one by one. The 7 February 2025 release on the Taxpayer Data Protection Act concerns Treasury payment-system access, not AI. No House letter about AI risk led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Keating's committee work is mostly foreign affairs, so remarks on AI in hearing transcripts are possible and were not checked directly."
+}

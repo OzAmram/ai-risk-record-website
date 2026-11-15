@@ -1,0 +1,66 @@
+{
+  "bioguide": "R000622",
+  "member": "Josh Riley",
+  "searches": [
+    "Josh Riley artificial intelligence (restricted to riley.house.gov)",
+    "Rep. Josh Riley superintelligence",
+    "Josh Riley AI extinction existential risk",
+    "Josh Riley AI pause slowdown moratorium",
+    "Josh Riley China AI agreement treaty",
+    "\"Josh Riley\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Riley"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-13",
+      "venue": "Press release introducing the FAIR Data Act",
+      "quote": "If out-of-state tech companies want to build data centers here, they can pay their own way",
+      "context": "Riley introduced a bill to stop data center projects, including planned AI data centers in his district named in the release, from raising residents' energy bills.",
+      "source_label": "Riley House press release",
+      "url": "https://riley.house.gov/2026/07/13/riley-introduces-bill-to-stop-data-center-projects-from-driving-up-energy-bills/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About who pays for data centers and electricity costs, which is outside catastrophic AI risk (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; his data center bills are about electricity costs, which do not count.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; no source shows him co-sponsoring the Ban Artificial Superintelligence Act.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the FAIR Data Act to stop data center projects from driving up energy bills.",
+      "Riley House press release, 2026-07-13",
+      "https://riley.house.gov/2026/07/13/riley-introduces-bill-to-stop-data-center-projects-from-driving-up-energy-bills/"
+    ],
+    [
+      "Helped pass the bipartisan Ratepayer Protection Act to hold data centers accountable for utility costs.",
+      "Riley House press release, 2026-09-19",
+      "https://riley.house.gov/2026/09/19/riley-helps-pass-bipartisan-bill-to-hold-data-centers-accountable-lower-utility-bills-for-upstate-new-yorkers/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related remarks found are about data centers raising electricity bills, which is level D; seven web searches found nothing from him about catastrophic AI risk. The D is thin: his own quoted words say data centers and Big Tech, while the AI framing comes from the release's background section.",
+  "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (seven in total). The site-restricted search returned only data center, semiconductor and committee pages; the superintelligence search returned a syndicated Sinclair article ('AI risks are getting harder for Congress to ignore') that, per the search summary, does not mention Riley; the extinction, pause, China and 'AI safety' searches returned nothing about him (other people named Riley appeared, e.g. Riley Harris of Oxford, unrelated). Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 September 2026): no source found naming Riley as a co-sponsor; Quiver Quant says 9 cosponsors without names, and congress.gov and govtrack returned 403, so the cosponsor list could not be checked directly. Treat as 'not shown', not as 'did not co-sponsor'. The FAIR Data Act quote was re-opened and confirmed on the 2026-07-13 release; the AI wording on that page is from Rep. Van Drew and the background section, not Riley. Earlier session (search refused) opened riley.house.gov press release list pages 1 to 3 (June 2025 to 9 November 2026); only data center releases touched AI. The 2026-09-19 Ratepayer Protection Act release quotes Riley but does not mention AI, so it is in record only. Not checked: release list pages 4 to 6, hearing remarks on the Science, Space and Technology Committee, floor speeches; the 2026-04-22 China and semiconductor export control release was not opened (title suggests D at most). Many-signer House letters were not searched, per instructions."
+}

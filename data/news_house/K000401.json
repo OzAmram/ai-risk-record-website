@@ -1,0 +1,85 @@
+{
+  "bioguide": "K000401",
+  "member": "Kevin Kiley",
+  "searches": [
+    "Kevin Kiley artificial intelligence site:kiley.house.gov",
+    "Kevin Kiley superintelligence",
+    "Kevin Kiley AI extinction existential risk",
+    "Kevin Kiley AI pause slowdown moratorium",
+    "Kevin Kiley China AI agreement treaty",
+    "\"Kevin Kiley\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Kiley"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "venue": "Post on X, reported by LiveNOW from FOX",
+      "quote": "Yet realizing this potential depends critically on ensuring models are safely under human control and aligned with human values.",
+      "context": "Kiley urged Congress to pass his SAFE AI Act on AI safety and alignment research, saying frontier AI capabilities are accelerating faster than many expected.",
+      "source_label": "LiveNOW from FOX",
+      "url": "https://www.livenowfox.com/video/fmc-rj5ivfipsqamof2z.amp",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He treats keeping frontier models under human control and aligned as a serious, urgent concern, but names no catastrophic outcome, so this is general acknowledgment (C) at the boundary with D."
+    },
+    {
+      "date": "2025-09-18",
+      "venue": "House Judiciary subcommittee hearing (Courts, Intellectual Property, Artificial Intelligence, and the Internet), 'AI at a Crossroads: A Nationwide Strategy or Californication?'",
+      "quote": "(2) You talk about experimentation, this is sort of something that we have to get right, and we only get one shot at.",
+      "context": "Arguing that frontier AI should be governed federally, he went on to cite a threshold such as recursive self-improvement creating an 'escape velocity' and asked whether the technology will be 'aligned with and beneficial to humanity'.",
+      "source_label": "Official hearing transcript, govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Says getting advanced AI right is a one-shot problem and raises alignment with humanity and recursive self-improvement, a general acknowledgment of serious risk without naming a catastrophe; boundary with B."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI; he calls for more safety and alignment research.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "A September 2026 report says Kiley and Rep. Liccardo propose a structured US-China AI dialogue framework, but it does not mention pacing or pausing frontier AI and no bill text or quote was found.",
+      "sources": [
+        [
+          "Crypto Briefing, 22 Sep 2026",
+          "https://cryptobriefing.com/liccardo-kiley-us-china-ai-dialogue/"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "He mentioned recursive self-improvement as a possible threshold at a 2025 hearing but did not call for a ban.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored the Ensuring Safe and Ethical AI Development Through Safe AI Research Grants Act (SAFE AI Research Grants Act), directing the National Academy of Sciences to run an AI safety research grant program; he urged its passage again in September 2026.",
+      "Kiley press release, 26 Oct 2023",
+      "https://kiley.house.gov/posts/representative-kiley-introduces-the-ensuring-safe-and-ethical-ai-development-through-safe-ai-research-grants-act"
+    ],
+    [
+      "Reported to be proposing, with Rep. Sam Liccardo, a framework for structured US-China dialogue on AI between officials and experts (no bill name given).",
+      "Crypto Briefing, 22 Sep 2026",
+      "https://cryptobriefing.com/liccardo-kiley-us-china-ai-dialogue/"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His strongest 2026 statement (September 2026) treats keeping frontier AI under human control and aligned with human values as urgent, a general acknowledgment of serious risk without naming a catastrophe; his September 2025 hearing remarks are similar.",
+  "notes": "Seven web searches ran, none refused. The 2026 statement is an X post known only as quoted in a LiveNOW from FOX video description (text read in the page source); the exact X post date may be a day earlier than the 13 Sep 2026 upload date, and reviewers may want to reconcile it with the separate X collection. The hearing quote is from the govinfo transcript; line breaks were joined with spaces. Other hearing passages worth reviewer attention: 'There is a widely shared view that once AI capability crosses a certain threshold, whether that be recursive self-improvement or some other threshold, there is sort of going to be an escape velocity' (framed partly in terms of which country leads) and 'is this technology going to be aligned with and beneficial to humanity?'. Both hearing statements could arguably be B; I chose C because no catastrophic outcome is named. A search headline 'Rep Kiley addresses risks of highly advanced AI' (irc.pcper.com) could not be opened (connection refused); its date and content are unknown. 2023 press release quote ('present unknown risks') is before 2025 and left out. No source shows Kiley co-sponsoring the Ban Artificial Superintelligence Act. Feb 2026 and Mar 2025 hearings he chaired on AI in K-12 education had no AI-risk quotes on the pages opened. Sources list his party as Independent (recent) and Republican (older)."
+}

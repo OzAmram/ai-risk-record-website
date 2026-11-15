@@ -1,0 +1,38 @@
+{
+  "bioguide": "C001110",
+  "member": "J. Luis Correa",
+  "searches": [
+    "site:correa.house.gov artificial intelligence",
+    "Lou Correa superintelligence",
+    "Lou Correa AI extinction existential risk",
+    "Lou Correa AI pause moratorium slowdown",
+    "Lou Correa China AI agreement treaty",
+    "\"Correa\" \"AI safety\" congressman 2026",
+    "Rep. Lou Correa artificial intelligence statement",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-09-18",
+      "venue": "House Judiciary subcommittee hearing, \"AI at a Crossroads: A Nationwide Strategy or Californication?\"",
+      "quote": "AI is moving faster than we imagined, or even expected just last year, touching every aspect of our lives. Most of our constituents, like many of us here, don't know a lot about it, but they know enough to expect that we here will protect them, their jobs, children, and intellectual property.",
+      "context": "Questioning witnesses on whether federal law should preempt state AI laws such as California's SB 53.",
+      "source_label": "Hearing transcript, govinfo.gov",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Talks about the speed of AI and protecting jobs, children and intellectual property, but does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found are from a September 2025 hearing on state versus federal AI laws, about protecting jobs, children and intellectual property; nothing on catastrophic risk and nothing on AI found from 2026.",
+  "notes": "8 web searches ran, none refused. Searches on superintelligence, extinction, pause, China and AI safety found nothing by Correa. His official press release list (correa.house.gov/news, latest items October-November 2026) showed no AI items in the visible portion. The same hearing remarks also appear, with slightly different wording, in a House Judiciary Democrats press release dated 2025-09-18 (https://democrats-judiciary.house.gov/media-center/press-releases/at-hearing-on-federal-preemption-of-state-ai-laws-subcommittee-democrats-underscore-need-for-guardrails-to-protect-americans-while-promoting-innovation); the quote here is from the official transcript. He was not listed among the 12 cosponsors of the Ban Artificial Superintelligence Act (H.R. 10538) on fastdemocracy.com; congress.gov was not checked directly. Mass-signed House AI letters of August-September 2026 were not searched, per instructions."
+}

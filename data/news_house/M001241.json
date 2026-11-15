@@ -1,0 +1,36 @@
+{"bioguide": "M001241", "member": "Dave Min",
+ "searches": [
+  "Dave Min artificial intelligence site:min.house.gov",
+  "Rep. Dave Min superintelligence",
+  "Dave Min AI extinction existential risk",
+  "Dave Min AI pause slowdown moratorium",
+  "Dave Min China AI agreement treaty",
+  "\"Dave Min\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {"date": "2026-04-16", "venue": "House Oversight subcommittee roundtable \"Artificial Intelligence and American Power\" (reported by Associated Press)",
+   "quote": "People in our districts across this country are going to start feeling impacts very soon, and if we don’t start thinking properly and aggressively and proactively about the challenges that AI creates, I fear that we’re going to have a revolution on our hands,",
+   "context": "At a closed-door subcommittee roundtable on AI, Min warned that Americans will soon feel AI's effects and that failing to plan for them could cause social upheaval.",
+   "source_label": "Associated Press article reposted on min.house.gov", "url": "https://min.house.gov/media/in-the-news/lawmakers-gathered-quietly-talk-about-ai-angst-and-fears-destruction-followed",
+   "read_at_source": true, "level": "D", "flags": ["boundary"],
+   "reason": "Warns of social upheaval from AI's effects on people, not of catastrophic risk from AI itself; marked boundary because the 'challenges' are not specified and could be read as a general serious-risk (C) statement."},
+  {"date": "2026-09-24", "venue": "Press release introducing AI DATA Act and Energy Cost Fairness and Reliability Act",
+   "quote": "Artificial intelligence is developing at an extraordinary pace, and Congress needs to understand and address the real-world consequences of that transformation,",
+   "context": "Min introduced two bills on AI's effects on the labor market and on electricity costs from data centers.",
+   "source_label": "Rep. Min press release", "url": "https://min.house.gov/media/press-releases/rep-min-introduces-legislative-package-address-ais-impact-american-workers-and",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About jobs and utility bills, which the rubric places outside catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Introduced the bipartisan AI DATA Act (AI labor-market data) and the Energy Cost Fairness and Reliability Act (data center electricity costs).", "Rep. Min press release, 2026-09-24", "https://min.house.gov/media/press-releases/rep-min-introduces-legislative-package-address-ais-impact-american-workers-and"]
+ ],
+ "suggested_grade": "D", "grade_reason": "Min has spoken about AI in 2026 (labor, electricity costs, and a warning of social 'revolution' if Congress does not prepare), but no statement found acknowledges catastrophic risk from AI.",
+ "notes": "Seven web searches ran, none refused. Min is not listed among the 12 House cosponsors of the Ban Artificial Superintelligence Act on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); cosponsor lists differ across sources, so this was not confirmed on congress.gov. The roundtable date is inferred: the AP article is dated 16 April 2026 and says the roundtable was held 'on Thursday', which was 16 April. The ctvnews and wtop copies of the AP story could not be read (404 or truncated); wording was read on the min.house.gov repost. Min was a member of the Oversight subcommittee for a 17 September 2025 hearing 'Shaping Tomorrow: The Future of Artificial Intelligence' (govinfo CHRG-119hhrg61734); I did not check the transcript for his remarks. House multi-signer letters were not searched, per instructions."
+}

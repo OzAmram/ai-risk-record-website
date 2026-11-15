@@ -1,0 +1,23 @@
+{
+  "bioguide": "ELECT-MD-05-BOAFO",
+  "member": "Adrian Boafo",
+  "searches": [
+    "Adrian Boafo artificial intelligence",
+    "Adrian Boafo AI safety",
+    "\"Boafo\" Maryland delegate superintelligence OR \"artificial intelligence\" OR AI",
+    "Adrian Boafo Congress candidate AI extinction OR existential risk OR pause OR moratorium",
+    "Adrian Boafo China AI agreement OR treaty",
+    "site:adrianboafo.com AI"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His campaign issues page mentions artificial intelligence only as a field to invest in, and no statement since 1 January 2025 acknowledging catastrophic risk from AI was found.",
+  "notes": "Six web searches ran; none was refused. The searches found no statement by Boafo on AI risk, superintelligence, extinction, a pause or slowdown, or China talks, and no source showing he co-sponsored the Ban Artificial Superintelligence Act (he was not in Congress). Campaign site https://www.adrianboafo.com/issues (opened, undated) has a 'Technology & Innovation' section calling for investment in emerging technologies including artificial intelligence and for data centers that pay their fair share and use renewable energy; it does not mention AI risks, safety or regulation. No quote was recorded because the page fetch tool gave slightly inconsistent wording for that passage and the page is undated. A search-result snippet (not opened) says that as a Maryland delegate he co-sponsored HB0883 (2026 session), 'Consumer Protection - Artificial Intelligence - Behavioral Health Care Prohibitions' (https://www.mgaleg.maryland.gov/mgawebsite/Members/Details/boafo01?ys=2026RS), and that he was listed among sponsors of Maryland's Artificial Intelligence Governance Act of 2024 (before the period); both would be D-level and are not verified. His FOSI profile (https://fosi.org/?p=12639) says he is Senior Director of Government Affairs at Oracle; it does not mention AI. Several search results concerned unrelated people named Boafo in Ghana and were ignored."
+}

@@ -1,0 +1,23 @@
+{
+  "bioguide": "ELECT-WI-01-BERMAN",
+  "member": "Mitchell Berman",
+  "searches": [
+    "Mitchell Berman Wisconsin 1st district congress nurse artificial intelligence",
+    "\"Mitchell Berman\" AI safety",
+    "Mitchell Berman Steil superintelligence OR \"existential\" OR \"extinction\" AI",
+    "Mitchell Berman congress AI pause OR slowdown OR moratorium data center",
+    "Mitchell Berman China AI agreement OR treaty",
+    "mitchellberman.com artificial intelligence issues"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development. His campaign priorities page opposes data center tax breaks over energy and water costs, which is not a slowdown position under the rubric.", "sources": [["Berman for Congress, Priorities page", "https://www.bermanforcongress.com/priorities"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Mitchell Berman about AI was found in news coverage or on his campaign site since January 2025. His only related material is about the local cost of data centers, which does not mention AI.",
+  "notes": "Six web searches ran; none was refused. None of the search results mentioned Berman in connection with AI. Campaign site is https://www.bermanforcongress.com/ (found via BallotReady); mitchellberman.com belongs to an unrelated Arizona realtor. The undated campaign Priorities page (https://www.bermanforcongress.com/priorities) says, about data centers, \"Ending tax breaks for data centers and holding them accountable so they don't drive up the cost of energy and water.\" It does not mention AI, so it is not recorded as an AI statement; a reviewer could treat it as a D-level remark if data centers are counted as AI. A Wisconsin Public Radio article (22 October 2026, https://www.wpr.org/news/1st-house-district-bryan-steil-mitchell-berman-2026) says he fielded town hall questions about data centers but does not report his answer. Profile articles (Yahoo, 12 August 2025) list affordability, health care and child care as his priorities, with no AI mention. As a first-time candidate he sponsored no bills and signed no House letters; the Ban Artificial Superintelligence Act does not apply. Debates and candidate questionnaires were not individually checked beyond these searches, so the search may be incomplete."
+}

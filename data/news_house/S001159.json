@@ -1,0 +1,31 @@
+{
+  "bioguide": "S001159",
+  "member": "Marilyn Strickland",
+  "searches": [
+    "Marilyn Strickland artificial intelligence (restricted to strickland.house.gov)",
+    "Marilyn Strickland superintelligence",
+    "Rep. Marilyn Strickland AI extinction existential risk",
+    "Marilyn Strickland AI pause slowdown moratorium",
+    "Marilyn Strickland China AI agreement treaty",
+    "\"Marilyn Strickland\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {"date": "2025-06-04", "venue": "Forum on Black Innovation and Artificial Intelligence, co-hosted with Rep. Plaskett (press release)",
+     "quote": "Washington state is a leader in the AI industry",
+     "context": "Strickland moderated a panel on federal AI policy at a Congressional Caucus on Black Innovation forum about the AI industry and support for Black entrepreneurs.",
+     "source_label": "Strickland press release", "url": "https://strickland.house.gov/2025/06/04/strickland-hosts-plaskett-for-forum-on-black-innovation-and-artificial-intelligence/",
+     "read_at_source": true, "level": "D", "flags": [],
+     "reason": "Promotes the AI industry in her state and does not mention catastrophic risk."}
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only direct words on AI found are from 2025 and promote the AI industry without acknowledging catastrophic risk; 2026 items on her site (AI chatbots on TVW, military use of AI on CNN) carry no quotes from her.",
+  "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act cosponsors (7 total). None of the general searches (superintelligence, extinction, pause, China agreement, AI safety) returned any statement by Strickland on catastrophic AI risk; results were about other members or the topic in general. Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar): search results named cosponsors such as Reps. Hoyle, Lynch, Tonko and Ocasio-Cortez but did not name Strickland and disagreed with each other; congress.gov cosponsor list not checked, so her non-cosponsorship is not confirmed. No House AI-risk letter of her own found. The forum quote was re-fetched this session and matches the search snippet, but the page tool summarizes pages, so exact wording is worth a quick recheck. Items carried over from the earlier attempt (pages opened then, not re-opened now): 2026-09-18 CNN NewsNight page (https://strickland.house.gov/2026/09/18/strickland-on-cnn-newsnight-white-house-press-ban-military-using-ai-don-jr-wedding-gift/) only says she discussed 'the military using AI'; her words are in the video, which could not be seen, and military use of AI would be D under ruling 3 unless she named a catastrophic consequence. Worth a reviewer watching it. 2026-04-28 TVW page on AI chatbots and young people (https://strickland.house.gov/2026/04/28/strickland-on-tvw-washington-to-washington-ai-chatbots/, also re-fetched this session via capitolreleases.com) has no quotes from her, only the summary 'The impact of AI Chatbots on young people is raising alarms.'; video not seen. 2025-07-15 release on longshore workers and the National Advisory Committee on Autonomous Maritime Systems is about automation and jobs (D), not AI risk. A 2026-11-05 repost of a Spokesman-Review article mentions AI only in quotes from Rep. Schrier and paraphrase of Sen. Cantwell, not Strickland."
+}

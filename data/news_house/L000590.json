@@ -1,0 +1,37 @@
+{
+  "bioguide": "L000590",
+  "member": "Susie Lee",
+  "searches": [
+    "Susie Lee artificial intelligence (restricted to susielee.house.gov)",
+    "Rep. Susie Lee superintelligence",
+    "Susie Lee AI extinction existential risk",
+    "Susie Lee AI pause slowdown moratorium",
+    "Susie Lee China AI agreement treaty",
+    "\"Susie Lee\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-08-29",
+      "venue": "Press release on a tour of the Switch AI factory in Las Vegas with Leader Jeffries",
+      "quote": "Switch is bringing the cutting edge of AI innovation right here to southern Nevada.",
+      "context": "She was promoting a new AI data center in Las Vegas and the jobs it brings.",
+      "source_label": "House press release, 2 September 2025",
+      "url": "https://susielee.house.gov/media/press-releases/icymi-congresswoman-lee-leader-jeffries-tour-new-cutting-edge-ai-factory-will",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI investment and jobs without acknowledging any catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI remark found in her own words promotes an AI data center in Las Vegas (2025) and does not acknowledge catastrophic risk. Nothing found in 2026 reaches A, B or C.",
+  "notes": "All six required web searches ran in this attempt, plus one on the Ban Artificial Superintelligence Act. None of the topic searches (superintelligence, extinction, pause, China agreement, AI safety) returned anything by or about her. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 cosponsors and she is not among them; the Congress.gov cosponsor page could not be opened earlier (403), so this is not confirmed against the official list. From the earlier attempt, still valid: her press release list pages 1 to 3 (30 releases, 9 June to 2 November 2026) had no AI-related titles. Paraphrase left out: a 13 May 2026 House Natural Resources hearing release (https://susielee.house.gov/media/press-releases/icymi-congresswoman-lee-grills-trump-interior-secretary-attempt-kill-solar, opened earlier) reports, quoting the Washington Examiner, that she said approving renewable permits would help the U.S. in 'the artificial intelligence arms race'; this is a paraphrase about competition, D at most. A 3 November 2025 letter to President Trump and Secretary Hegseth on nuclear testing (https://susielee.house.gov/sites/evo-subsites/susielee.house.gov/files/evo-media-document/nuclear-testing-letter-final-11.3.pdf) asks, per the search summary, for a briefing on using AI in weapons design; the PDF appeared to be scanned images and its text could not be read, so it is not recorded; by ruling 3 (military use) it would be D. Other AI mentions seen in her press releases (AI traffic-signal and pedestrian-detection grants, AI in a language-access task force, AI and job displacement at a minimum wage roundtable) are D-level and not recorded as quotes. She was a Vice Chair of the New Democrat Coalition AI Working Group in the 118th Congress (before 2025). No House letter about AI risk led or signed by her was found (many-signer August and September 2026 letters not searched, per instructions)."
+}

@@ -1,0 +1,37 @@
+{
+  "bioguide": "V000133",
+  "member": "Jefferson Van Drew",
+  "searches": [
+    "site:vandrew.house.gov artificial intelligence",
+    "Jefferson Van Drew \"AI safety\"",
+    "Van Drew superintelligence",
+    "Van Drew AI extinction existential risk",
+    "Van Drew artificial intelligence pause moratorium slowdown",
+    "Van Drew China AI agreement treaty",
+    "\"Van Drew\" \"Ban Artificial Superintelligence Act\" OR \"artificial intelligence\" Congressman 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-22",
+      "venue": "Press release",
+      "quote": "Any approach to supporting new technology must protect everyday ratepayers from taking on these additional costs.",
+      "context": "Van Drew backed President Trump's proposal for an emergency power auction so that large technology companies and AI data centers pay for new electricity generation rather than household ratepayers.",
+      "source_label": "House press release (vandrew.house.gov)",
+      "url": "https://vandrew.house.gov/news/documentsingle.aspx?DocumentID=1964",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Concerns electricity costs from AI data centers, which the rubric places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related statement found is a January 2026 press release about AI data centers raising electricity bills, which is D. No statement on catastrophic AI risk was found.",
+  "notes": "All six required web searches ran this time, plus one extra on the Ban Artificial Superintelligence Act (7 searches, none refused). None of the searches returned any statement by Van Drew on AI safety, superintelligence, extinction risk, a pause or slowdown, or an agreement with China; the site-restricted search returned no vandrew.house.gov pages. The earlier attempt (no searches) had opened the official press release listing pages directly (listing pages 1-10, covering 4 November 2025 to 26 October 2026; titles and excerpts only) and found only the January 2026 data-center release. The press release (DocumentID=1964) was reopened this run and the quote matched, but the page-fetch tool summarizes pages, so exact wording is worth one human check. Search results describe the Ban Artificial Superintelligence Act (H.R. 10538) as sponsored by Rep. Casar with House Democratic co-sponsors; no source shows Van Drew as a co-sponsor, though the full Congress.gov co-sponsor list was not opened. A search result also points to a May 2026 local TV segment (onnj.com, 'Congressman Jeff Van Drew on the South Jersey AI Data Center', https://www.onnj.com/videos/congressman-jeff-van-drew-on-the-south-jersey-ai-data-center/) about a planned AI data center in Vineland; it is a video and was not watched, so no quote was taken. Hearing remarks and floor speeches were not checked separately beyond these searches."
+}

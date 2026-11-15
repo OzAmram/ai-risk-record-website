@@ -23,8 +23,14 @@ TAIL = ('\nlet n=0;for(const s of S){const h=viewSenator(s);if(/undefined|NaN|\\
         'for(const st of Object.keys(STATE_PATHS)){if(S.filter(s=>stateOf(s)===st&&inSenate(s)).length!==2)throw new Error(which+" Senate: "+st+" does not have two senators");}'
         'if(/undefined|NaN|\\[object/.test(viewIndex()))throw new Error("bad text on index for "+which+" Senate");}senate="current";'
         'query="x";if(viewIndex().includes("class=\\"map\\""))throw new Error("map still shown while searching");query="";'
-        'print(n+" people rendered, plus index and methodology; "+S.filter(elect).length+" senators-elect, "'
-        '+S.filter(s=>(STATUS[s.id]||{}).kind==="lame duck").length+" lame ducks");')
+        'const nh=S.filter(house).length;if(nh){chamber="house";const h=viewIndex();if(/undefined|NaN|\\[object/.test(h))throw new Error("bad text on House index");if(h.includes("class=\\"map\\""))throw new Error("map shown on House index");'
+        'if(S.filter(s=>!house(s)).some(s=>h.includes("#"+s.id+"\\"")))throw new Error("a senator is listed on the House index");chamber="senate";'
+        'if(S.filter(house).some(s=>viewIndex().includes("#"+s.id+"\\"")))throw new Error("a representative is listed on the Senate index");}'
+        'if(S.length-nh!==117)throw new Error("Senate side no longer has 117 people");'
+        'print(nh+" House records; "+(n-nh)+" Senate-side records");'
+        'const sen=S.filter(s=>!house(s)),hou=S.filter(house);'
+        'print(n+" people rendered, plus index and methodology; Senate: "+sen.filter(elect).length+" senators-elect, "+sen.filter(lame).length+" lame ducks; House: "'
+        '+hou.filter(elect).length+" representatives-elect, "+hou.filter(lame).length+" lame ducks");')
 script = re.search(r"(?s)<script>(.*)</script>", open(sys.argv[1]).read()).group(1)
 with tempfile.NamedTemporaryFile("w", suffix=".js", delete=False) as f:
     f.write(STUBS + script + TAIL)

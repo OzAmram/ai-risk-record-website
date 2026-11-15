@@ -1,0 +1,25 @@
+{
+  "bioguide": "P000197",
+  "member": "Nancy Pelosi",
+  "searches": [
+    "Pelosi artificial intelligence (restricted to pelosi.house.gov)",
+    "Nancy Pelosi superintelligence",
+    "Nancy Pelosi AI extinction existential risk",
+    "Nancy Pelosi AI pause slowdown moratorium",
+    "Nancy Pelosi China AI agreement treaty",
+    "\"Pelosi\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Pelosi artificial intelligence statement 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found since January 2025 on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found since January 2025 on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found since January 2025 on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in her own words about AI was found from 1 January 2025 onward, so there is nothing to grade. Her best-known AI statement, opposing California's SB 1047, is from August 2024 and falls outside the period.",
+  "notes": "Eight web searches ran; none was refused. Out of period and left out: her 16 August 2024 press release opposing California SB 1047 (https://pelosi.house.gov/news/press-releases/pelosi-statement-opposition-california-senate-bill-1047, not opened) and a 2023 Bloomberg interview calling AI a 'double-edged sword' needing regulation (headline only). A NOTUS piece (relayed via feedbagel.com, opened) paraphrases her saying, after leaving leadership, that AI was the most important issue Congress would face; this is a paraphrase from about 2022, not a quote, and is left out. Her FY26 community project funding release mentions $1,031,000 for UCSF computing to support AI research; this is a project description, not her own statement on AI. The first two pages of her press releases (15 July to 10 November 2026) were opened directly and contain nothing on AI. Ban Artificial Superintelligence Act (H.R. 10538, Rep. Casar, 24 September 2026): no source found shows Pelosi as a sponsor or cosponsor, but the full Congress.gov cosponsor list was not checked. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). She did not run for re-election; Scott Wiener won her seat on 3 November 2026 per an MIT Technology Review headline (not opened). Coverage is likely incomplete for interviews and floor remarks."
+}

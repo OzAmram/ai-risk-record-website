@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-VA-01-TAYLOR",
+  "member": "Shannon Taylor",
+  "searches": [
+    "Shannon Taylor Virginia 1st district artificial intelligence",
+    "\"Shannon Taylor\" \"AI safety\"",
+    "Shannon Taylor Wittman superintelligence OR \"artificial general intelligence\"",
+    "Shannon Taylor congress candidate AI extinction OR \"existential risk\"",
+    "Shannon Taylor Virginia AI pause OR moratorium OR \"data centers\"",
+    "Shannon Taylor Virginia China AI agreement OR treaty",
+    "Shannon Taylor for Congress campaign issues artificial intelligence technology"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "Seven web searches found no statement by Shannon Taylor about AI of any kind since 1 January 2025, so there is nothing to grade.",
+  "notes": "7 searches ran, none refused. No result tied Shannon Taylor (Henrico County Commonwealth's Attorney, VA-01 Democrat, 2025 attorney general primary candidate) to any AI statement; AI results were about other people (Gov. Spanberger, Rep. Beyer, a different candidate named Floyd Taylor, International AI Safety Report chair Shannon Vallor). She was not in Congress, so she could not have co-sponsored the Ban Artificial Superintelligence Act. Her campaign site was not found: guessed domains shannontaylorforcongress.com (does not resolve) and shannonforvirginia.com (connection refused) failed; Ballotpedia returned a blank page and the Virginia Mercury 21 September 2026 race profile returned HTTP 403, so a candidate questionnaire or campaign-site AI mention could have been missed. The search is therefore not fully complete."
+}

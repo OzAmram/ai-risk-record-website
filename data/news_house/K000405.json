@@ -1,0 +1,24 @@
+{
+  "bioguide": "K000405",
+  "member": "Brad Knott",
+  "searches": [
+    "Knott artificial intelligence site:knott.house.gov",
+    "\"Brad Knott\" superintelligence",
+    "\"Brad Knott\" AI extinction existential risk",
+    "\"Brad Knott\" AI pause slowdown moratorium",
+    "\"Brad Knott\" China AI agreement treaty",
+    "\"Brad Knott\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade.",
+  "notes": "All six required web searches ran in this attempt, plus one on the Ban Artificial Superintelligence Act (seven in total); none returned any statement by Rep. Brad Knott about AI, AI risk, superintelligence, a pause, China talks or AI safety. The 'AI safety' search returned only a different person (Brad Knox, a University of Texas researcher), not this representative. The site-restricted search found only an 'In the News' listing and a 16 October 2025 Newsmax appearance page (https://knott.house.gov/media/in-the-news/rep-knott-joins-newsmax-october-16-2025, opened): it has only a video link, no transcript and no mention of AI; the video itself was not watched. From the earlier attempt (still valid): his official site was opened directly, covering all five pages of press releases (January 2025 to 30 September 2026, about 46 releases, listing pages and excerpts only, not each full release) and the first page of 'In the News' (December 2025 to September 2026); no AI-related release or statement was found, and 'In the News' pages 2 to 5 were not checked. His 20 May 2026 aviation op-ed (https://knott.house.gov/media/in-the-news/op-ed-its-time-get-aviation-out-1950s, opened earlier) does not mention AI. A 25 March 2026 Center Square article on his Aviation Supply Chain Safety and Security Digitization Act (https://knott.house.gov/media/in-the-news/center-square-proposal-decrease-reliance-paper-documents-passes-house, opened earlier) mentions artificial intelligence only in the reporter's own text, not in Knott's words; left out. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 House cosponsors, all Democrats, and Knott is not among them; Congress.gov returned HTTP 403 in the earlier attempt and was not rechecked, so the list is from a third-party tracker. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

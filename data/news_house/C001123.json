@@ -1,0 +1,26 @@
+{
+  "bioguide": "C001123",
+  "member": "Gilbert Ray Cisneros, Jr.",
+  "searches": [
+    "Cisneros artificial intelligence site:cisneros.house.gov",
+    "Rep. Gil Cisneros \"AI safety\"",
+    "Gil Cisneros superintelligence",
+    "Gil Cisneros AI extinction existential risk",
+    "Gil Cisneros AI pause moratorium slowdown",
+    "Gil Cisneros China AI agreement treaty",
+    "Congressman Gil Cisneros artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Listed as a House co-sponsor of the GUARDRAILS Act, which would repeal the President's executive order seeking to block state AI laws (about who regulates AI, not catastrophic risk).", "Rep. Matsui press release, 2026-03-20", "https://matsui.house.gov/media/press-releases/matsui-beyer-lieu-jacobs-mcclain-delaney-introduce-legislation-repeal-white"]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statements by Cisneros about AI in his own words were found in news or official records since January 2025; his only AI-related item found is co-sponsorship of the GUARDRAILS Act, which concerns state authority to regulate AI rather than catastrophic risk.",
+  "notes": "Seven web searches ran, none refused; none returned any statement by Cisneros on AI. The site-restricted search returned no AI page on cisneros.house.gov, and a direct fetch of the first page of his press releases (10 releases, 30 July to 10 November 2026) showed none mentioning AI; older pages were not checked. The GUARDRAILS Act co-sponsorship was read on Rep. Matsui's press release (Cisneros appears only in the co-sponsor list, with no statement). No source showed him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act, but this was not checked against congress.gov co-sponsor lists. No House letter on AI risk signed by him was found outside the centrally handled multi-signer letters, which were not searched for. Searches on superintelligence, extinction, pause and China returned nothing about him."
+}

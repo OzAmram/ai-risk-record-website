@@ -1,0 +1,77 @@
+{
+ "bioguide": "C001119",
+ "member": "Angie Craig",
+ "searches": [
+  "Angie Craig artificial intelligence (restricted to craig.house.gov)",
+  "Angie Craig superintelligence",
+  "Angie Craig AI extinction existential risk",
+  "Angie Craig AI pause slowdown moratorium",
+  "Angie Craig China AI agreement treaty",
+  "\"Angie Craig\" \"AI safety\"",
+  "Monopoly Busters Caucus shadow hearing AI arms race Angie Craig",
+  "Angie Craig Anthropic Pentagon statement",
+  "\"Craig\" Anthropic \"national security threat\" guardrails Minnesota congresswoman"
+ ],
+ "statements": [
+  {
+   "date": "2025-11-07",
+   "venue": "press release",
+   "quote": "The WISeR model is a disaster for our seniors, and that’s why I’m introducing this bill with my colleagues to stop companies from profiting off sick seniors and outsourcing coverage decisions to AI.",
+   "context": "Introducing the Seniors Deserve SMARTER Care Act to block the use of AI in Medicare coverage decisions.",
+   "source_label": "House press release",
+   "url": "https://craig.house.gov/media/press-releases/rep-craig-introduces-bill-block-use-ai-medicare-coverage-decisions-prevent",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About AI denying Medicare claims, with no catastrophic risk acknowledged."
+  },
+  {
+   "date": "2025-12-12",
+   "venue": "letter to Instacart CEO, quoted in press release",
+   "quote": "Americans are facing an affordability crisis, and your use of artificial intelligence to scam the average family of four out of $1,200 annually is alarming.",
+   "context": "Letter pressing Instacart over reported AI-driven price differences for the same groceries.",
+   "source_label": "House press release",
+   "url": "https://craig.house.gov/media/press-releases/rep-craig-demands-answers-instacart-following-reporting-company-used-sensitive",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About consumer pricing harm from AI, with no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the Seniors Deserve SMARTER Care Act to block the use of AI in Medicare coverage decisions (not about catastrophic risk).",
+   "House press release, 2025-11-07",
+   "https://craig.house.gov/media/press-releases/rep-craig-introduces-bill-block-use-ai-medicare-coverage-decisions-prevent"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI statements found are from 2025 and concern AI in Medicare claim denials and AI-driven grocery pricing, neither of which acknowledges catastrophic risk. No statement of her own about AI from 2026 was found.",
+ "notes": "All required searches ran this time: nine web searches, none refused (six required plus three follow-ups). The two 2025 statements carried over from the earlier attempt were re-confirmed by the site-restricted search; they had been opened in full then. Lead not resolved: The American Prospect (2026-09-15, https://prospect.org/2026/09/15/artificial-intelligence-open-ai-anthropic-congressional-democrats/, opened) reports that the Monopoly Busters Caucus, which it names as Jayapal, Deluzio, Ryan and Craig, was holding a shadow hearing 'on Thursday' (likely 2026-09-17, not stated) on the AI arms race. The article quotes nothing from Craig, a follow-up search found no record of the hearing, and her press release and in-the-news pages show nothing about it; a reviewer may want to look for a recording or transcript of her remarks. Unverified: the search tool's summary of the first search claimed she 'publicly defended Anthropic' in March 2026 against the Pentagon; no listed result supported this and two follow-up searches found no statement by her on Anthropic, so it is left out and may be a summarizer error. Ban Artificial Superintelligence Act: the Congress.gov cosponsor page (H.R. 10538, as recorded in other files) again returned HTTP 403 and no search result linked her to it, so whether she cosponsored is unknown. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). From the earlier attempt: her press release list pages 1 to 12 (2026-11-11 back to 2025-04-24) were checked by title and excerpt; the current first page (2026-07-29 to 2026-11-11) and in-the-news page (to 2026-07-17) were rechecked now with no AI items. She was a 2026 US Senate candidate in Minnesota; campaign statements were not checked. Quotes use the curly apostrophes of the source page."
+}

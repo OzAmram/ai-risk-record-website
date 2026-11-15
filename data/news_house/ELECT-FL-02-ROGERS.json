@@ -1,0 +1,53 @@
+{
+  "bioguide": "ELECT-FL-02-ROGERS",
+  "member": "Austin Rogers",
+  "searches": [
+    "Austin Rogers Florida congress candidate AI",
+    "\"Austin Rogers\" artificial intelligence superintelligence",
+    "\"Austin Rogers\" AI extinction OR \"existential risk\"",
+    "\"Austin Rogers\" AI pause OR slowdown OR moratorium",
+    "\"Austin Rogers\" China AI agreement OR treaty",
+    "\"Austin Rogers\" \"AI safety\"",
+    "Austin Rogers for Congress campaign website issues artificial intelligence"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-26",
+      "venue": "Interview profile, The Florida Trib",
+      "quote": "I want to make sure that we are outpacing our number one adversary in China",
+      "context": "Asked about artificial intelligence, Rogers framed it as a race with China and said he wants to protect American workers.",
+      "source_label": "The Florida Trib",
+      "url": "https://floridatrib.org/?p=19700",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About winning the AI race against China, which ruling 5 places at D; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Rogers has spoken about AI in 2026 only as a race to beat China and as workforce training; nothing found acknowledges or dismisses catastrophic risk.",
+  "notes": "Seven web searches ran, none refused. Campaign issues page (https://rogersforflorida.com/issues/, undated, so not listed as a statement) says 'Austin, like President Trump, believes that America must win the race for Artificial Intelligence (AI)' and backs keeping AI innovation in the US and workforce training: also D. Same Florida Trib interview has him say 'we have to beat China and the AI race' and call for 'thoughtful leadership when it comes to artificial intelligence' (D). Quotes were read through a page-fetch tool that returns extracted text, so a reviewer should confirm exact wording. No sign he backs the Ban Artificial Superintelligence Act; as a representative-elect he signed none of the House letters. Not to be confused with Senate candidate Mike Rogers (rogersforsenate.com)."
+}

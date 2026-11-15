@@ -1,0 +1,27 @@
+{
+  "bioguide": "G000565",
+  "member": "Paul A. Gosar",
+  "searches": [
+    "Gosar artificial intelligence (restricted to gosar.house.gov)",
+    "Paul Gosar superintelligence",
+    "Gosar AI extinction existential risk",
+    "Gosar AI pause slowdown moratorium",
+    "Gosar China AI agreement treaty",
+    "\"Gosar\" \"AI safety\"",
+    "Rep. Paul Gosar AI 2026 statement",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Offered an amendment to the House fiscal year 2027 Military Construction and Veterans Affairs funding bill to bar the Department of Veterans Affairs from using AI to make final decisions approving or denying disability compensation claims (about human review of AI in benefits decisions, level D at most).", "Nextgov, 2026-05-12", "https://www.nextgov.com/artificial-intelligence/2026/05/lawmakers-propose-establish-ai-guardrails-va-fy27-funding/413481/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He took one AI-related action in 2026 (an amendment requiring human final decisions on veterans' disability claims) and mentions AI in passing elsewhere, but nothing found acknowledges catastrophic risk from AI. No statement in his own words reached A, B or C.",
+  "notes": "Eight web searches ran; none was refused. No direct quote from Gosar on AI risk was found. Left out of statements: (1) the May 2026 VA amendment is described in Nextgov only through his spokesman Anthony Foti, who said Gosar believes it is important to set guardrails before AI is relied on for consequential adjudicative decisions; this is a spokesman's paraphrase, not his own words. (2) His 11 December 2025 op-ed 'It's Time to End OPT and Put American Workers First' (https://gosar.house.gov/news/documentsingle.aspx?DocumentID=9130, opened) mentions artificial intelligence only as a field added to the student work program's eligible list; passing mention, off topic. (3) His 30 November 2025 weekly newsletter (https://gosar.house.gov/news/email/show.aspx?ID=BFV3WS3HRV4ROFC2TCMOLPWDUU, opened) mentions AI-driven health diagnostics as an innovation that lowers costs; passing mention, level D at most. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 24 September 2026): sources describe roughly nine or ten cosponsors, all Democrats; no source shows Gosar as sponsor or cosponsor, but the full Congress.gov cosponsor list was not checked. No House letter on AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). His press release listing was not browsed page by page, so the search may be incomplete. Not confused with any other member: no other member of Congress is named Gosar."
+}

@@ -1,0 +1,76 @@
+{
+  "bioguide": "W000798",
+  "member": "Tim Walberg",
+  "searches": [
+    "Rep. Tim Walberg superintelligence",
+    "Tim Walberg AI existential risk extinction",
+    "Walberg artificial intelligence site:walberg.house.gov",
+    "Walberg AI pause moratorium slowdown 2026",
+    "Walberg China AI agreement treaty",
+    "\"Tim Walberg\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-14",
+      "venue": "House Education and Workforce Committee hearing, opening statement as chairman (\"Building an AI-Ready America\")",
+      "quote": "The goal should not be to rush into sweeping new rules and regulations, but to ensure schools, employers, and training providers can keep pace with innovation while maintaining trust and prioritizing safety and privacy.",
+      "context": "Opening a hearing series on AI in education, workforce development and the future of work; the only risks named are model mistakes, academic integrity, overreliance and entry-level jobs.",
+      "source_label": "House Education and Workforce Committee, opening statement PDF",
+      "url": "https://edworkforce.house.gov/uploadedfiles/walberg_ai_opening_statement.pdf",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI in education and work; it does not acknowledge catastrophic risk from AI."
+    },
+    {
+      "date": "2026-07-27",
+      "venue": "Op-ed, Washington Times (republished on his House site)",
+      "quote": "AI should strengthen, not destabilize, our education and workforce systems, and many educators and employers are already showing how that can be done responsibly.",
+      "context": "Op-ed on AI in classrooms and workplaces, naming job displacement and weakened academic standards as the risks and promoting his AWARE Act on AI workforce data.",
+      "source_label": "walberg.house.gov (Washington Times op-ed)",
+      "url": "https://walberg.house.gov/media/opinion-editorial/washington-times-teaching-training-transforming-ais-role-americas-future",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About jobs and education; no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored H.R. 9381, the AI Workforce Assessment and Research Enhancement (AWARE) Act, directing the Bureau of Labor Statistics to collect data on AI use and job impacts (jobs data, not catastrophic risk).",
+      "Walberg press release, June 2026 (seen in search results, not opened)",
+      "https://walberg.house.gov/media/press-releases/chairman-walberg-leads-bill-modernize-workforce-data-age-ai"
+    ],
+    [
+      "Letter to Commerce Secretary Lutnick asking for an investigation of national security risks from humanoid robots built with parts from the Chinese firm AGIBOT (China competition and national security, not catastrophic AI risk).",
+      "Walberg press release, 29 July 2026 (letter dated 28 July 2026)",
+      "https://walberg.house.gov/media/press-releases/walberg-sends-letter-sec-lutnick-regarding-risks-foreign-humanoid-robot"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 he spoke repeatedly about AI as chairman of the Education and Workforce Committee, but only about jobs, education, labor law and China; none of the required searches found anything acknowledging catastrophic risk.",
+  "notes": "All six required web searches ran this time, plus one on House cosponsors of the Ban Artificial Superintelligence Act (7 searches in total). None of the superintelligence, extinction, pause or slowdown, China agreement or 'AI safety' searches turned up any statement by Walberg on those topics; results about him were all about AI in education and the workforce, his AWARE Act, and the AGIBOT humanoid robot letter. Ban Artificial Superintelligence Act (H.R. 10538, introduced September 2026, led by Rep. Casar): search results describe its House cosponsors as about nine or ten Democrats (named ones include Ocasio-Cortez, Ansari, Hoyle, Lynch, Tonko); no source shows Walberg as a cosponsor, but I did not open the official congress.gov cosponsor list. No House letter on AI risk signed by him was found outside the centrally handled multi-signer letters. A LessWrong post on the July 2025 hearing 'Authoritarians and Algorithms' came up in the superintelligence search; I opened it and it does not mention Walberg. WLEN (5 February 2026, https://www.wlen.com/?p=115486) reports in paraphrase that at a February 2026 hearing he agreed with a witness calling a 2022 labor board memo on employer AI use a 'Halloween scare'; this is about AI and workers, not catastrophic risk, it is not a quote of his own words, and it is left out of statements (it is not an F). The opening statement quote was taken from text decoded from the hearing PDF, and both statements were read at source in the earlier attempt; the AWARE Act press release in record was seen in search results and not opened. The technology issue page on his site lists no AI items."
+}

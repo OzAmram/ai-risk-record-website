@@ -1,0 +1,100 @@
+{
+ "bioguide": "E000300",
+ "member": "Gabe Evans",
+ "searches": [
+  "Gabe Evans artificial intelligence site:gabeevans.house.gov",
+  "\"Gabe Evans\" superintelligence",
+  "\"Gabe Evans\" AI extinction OR existential risk",
+  "\"Gabe Evans\" AI pause OR slowdown OR moratorium",
+  "\"Gabe Evans\" China AI agreement OR treaty",
+  "\"Gabe Evans\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Evans"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-01",
+   "venue": "Press release",
+   "quote": "The race for AI leadership is a race America cannot afford to lose. Communist China is working every day to outcompete us, steal American innovation, and expand its technological influence around the world.",
+   "context": "His Open-Source AI Leadership Act passing an Energy and Commerce subcommittee; the bill promotes American open AI models and has Commerce assess risks of foreign adversary AI models.",
+   "source_label": "Rep. Gabe Evans press release",
+   "url": "https://gabeevans.house.gov/media/press-releases/rep-gabe-evans-open-source-ai-leadership-act-passes-energy-commerce",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Competition with China and national security threats from foreign adversary AI, with no catastrophic risk from AI acknowledged in his own words."
+  },
+  {
+   "date": "2026-02-19",
+   "venue": "Press release on letter to Commerce Secretary Lutnick (with Rep. Nick Langworthy)",
+   "quote": "Like it or not, artificial intelligence is here to stay. The U.S. can choose to lead the world in this transformative technology or we can regulate it into the hands of Communist China.",
+   "context": "Letter criticizing state AI laws including Colorado SB 205 and New York's RAISE Act as a burdensome patchwork.",
+   "source_label": "Rep. Gabe Evans press release",
+   "url": "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action",
+    "cosigned_letter"
+   ],
+   "reason": "Opposes state AI regulation on competitiveness grounds; opposing regulation is D, not F, and it does not dismiss catastrophic risk itself."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Press release",
+   "quote": "Hardworking families should not have to subsidize the energy demands of data centers. America needs the infrastructure to lead the world in AI and outcompete Communist China",
+   "context": "House passage (417-3) of his Ratepayer Protection Act making large data centers pay for their grid infrastructure.",
+   "source_label": "Rep. Gabe Evans press release",
+   "url": "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-bipartisan-ratepayer-protection-act-passes-house",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About data center electricity costs and competition with China, which are out of scope."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sponsored the Open-Source AI Leadership Act, which promotes American open AI models and directs Commerce to assess foreign adversary AI models, including chemical, biological, radiological and nuclear threats; passed subcommittee.",
+   "Rep. Gabe Evans press release, 2026-09-01",
+   "https://gabeevans.house.gov/media/press-releases/rep-gabe-evans-open-source-ai-leadership-act-passes-energy-commerce"
+  ],
+  [
+   "Letter with Rep. Langworthy to Commerce Secretary Lutnick criticizing state AI laws, including New York's RAISE Act and Colorado SB 205.",
+   "Rep. Gabe Evans press release, 2026-02-19",
+   "https://gabeevans.house.gov/media/press-releases/reps-gabe-evans-and-nick-langworthy-send-letter-department-commerce-secretary"
+  ],
+  [
+   "Sponsored the bipartisan Ratepayer Protection Act on data center energy costs; passed the House 417-3.",
+   "Rep. Gabe Evans press release, 2026-09-16",
+   "https://gabeevans.house.gov/media/press-releases/congressman-gabe-evans-bipartisan-ratepayer-protection-act-passes-house"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "He speaks about AI often in 2026 (open-source AI bill, opposition to state AI laws, data center costs), always framed as competition with China and economic or energy issues; no acknowledgment of catastrophic risk was found.",
+ "notes": "All 7 web searches ran this time (6 required plus one on the Ban Artificial Superintelligence Act). The superintelligence, extinction, pause, China agreement and AI safety searches returned nothing about him (results were about other people, e.g. Gabe Alfour of Conjecture). Ban Artificial Superintelligence Act (H.R. 10538, Casar): the FastDemocracy cosponsor list (12 Democrats) does not include Evans, so he did not co-sponsor it as of that page. He spoke at the 21 May 2025 Energy and Commerce subcommittee hearing 'AI Regulation and the Future of U.S. Leadership' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg60631/html/CHRG-119hhrg60631.htm), criticizing Colorado's AI law as a burdensome patchwork that could hamper innovation and asking about child safety; read through a page-summary tool, so not quoted, and it is D. The earlier run read the official press release listing pages 1 to 17 of gabeevans.house.gov and the three 2026 AI releases quoted here plus a 2025-07-31 AI workforce release (D, not included); those quotes were copied from raw page HTML and are kept. The open-source AI bill text mentions assessing chemical, biological, radiological and nuclear threats from foreign adversary models, but that is bill text, not his own words, and only about adversary models (at most C with misuse_only if a reviewer counted it). The February 2026 letter attacks New York's RAISE Act (a frontier AI safety law); opposing regulation is D under ruling 6, but a reviewer may want to read the full letter (https://gabeevans.house.gov/sites/evo-subsites/gabeevans.house.gov/files/evo-media-document/letter-to-doc-on-ai-state-regs.pdf) for any dismissive language."
+}

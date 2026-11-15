@@ -1,0 +1,59 @@
+{
+  "bioguide": "N000026",
+  "member": "Troy E. Nehls",
+  "searches": [
+    "Nehls artificial intelligence (restricted to nehls.house.gov)",
+    "Troy Nehls superintelligence",
+    "Troy Nehls AI extinction existential risk",
+    "Troy Nehls AI pause slowdown moratorium",
+    "Troy Nehls China AI agreement treaty",
+    "\"Nehls\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2025-11-26",
+      "venue": "Op-ed in the Washington Reporter, republished as a press release",
+      "quote": "Protecting our AI infrastructure is critical to winning the global AI race.",
+      "context": "He argues that foreign-made optical transceivers in AI data centers, especially from China, are a national security risk and describes report language he added to the FY2026 House defense authorization bill.",
+      "source_label": "House press release (nehls.house.gov), 26 November 2025",
+      "url": "https://nehls.house.gov/media/press-releases/rep-troy-e-nehls-op-ed-washington-reporter-win-global-ai-race-we-must-secure",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The op-ed is about securing AI data-center hardware against Chinese tampering and winning the AI race, with no acknowledgment of catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "With Rep. Ronny Jackson, secured report language in the House FY2026 National Defense Authorization Act requiring a Department of War briefing on the national security threat from foreign-made optical transceivers used in AI data centers (level D).",
+      "Nehls press release, 26 November 2025",
+      "https://nehls.house.gov/media/press-releases/rep-troy-e-nehls-op-ed-washington-reporter-win-global-ai-race-we-must-secure"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only substantial remarks on AI found (a November 2025 op-ed) are about protecting AI infrastructure from China and winning the AI race, which is level D. No 2026 statement about AI and nothing about catastrophic risk was found in the full set of searches.",
+  "notes": "All seven web searches ran (six required plus one on the Ban Artificial Superintelligence Act cosponsors); none was refused. The searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement and AI safety returned nothing mentioning Nehls. The official-site search found only the 26 November 2025 op-ed (kept from the earlier attempt, quote copied from the page then) and an FY2027 appropriations request page (https://nehls.house.gov/services/appropriations-requests-fy-2027) describing a drone detection system for Fort Bend County that uses AI; that is a funding request description, not a statement on AI risk, so it was left out. The earlier attempt also opened his press release listing (pages 0 to 9 of 27, 14 January 2025 to 16 September 2026) and found no other AI release by title or excerpt; I re-checked page 0 this time (newest release 16 September 2026, none about AI). Release bodies were mostly not opened, so a passing AI mention inside an unrelated release could be missed; hearing remarks and floor speeches were only covered to the extent web search would surface them. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 House cosponsors, all Democrats, and Nehls is not among them; Congress.gov was not checked this time (it returned HTTP 403 in the earlier attempt). No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Statement date is the press release date; the Washington Reporter publication date was not checked."
+}

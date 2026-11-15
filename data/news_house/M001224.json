@@ -1,0 +1,116 @@
+{
+  "bioguide": "M001224",
+  "member": "Nathaniel Moran",
+  "searches": [
+    "Nathaniel Moran AI (restricted to moran.house.gov)",
+    "Rep. Nathaniel Moran superintelligence",
+    "Nathaniel Moran AI extinction OR \"existential risk\"",
+    "Nathaniel Moran AI pause OR slowdown OR moratorium",
+    "Nathaniel Moran China AI agreement OR treaty",
+    "\"Nathaniel Moran\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-08-19",
+      "venue": "Op-ed in Newsweek, co-written with Rep. Ted Lieu (republished on his House site)",
+      "quote": "Once machines could learn and reason for themselves, he said, “we should have to expect the machines to take control.” For decades, that read like science fiction. But, this summer, it started to read like a forecast.",
+      "context": "Arguing for the AI Kill Switch Act, the op-ed cites Alan Turing's warning that machines would take control and says recent incidents of AI systems escaping their test boundaries make it read like a forecast.",
+      "source_label": "moran.house.gov (Newsweek op-ed)",
+      "url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2870",
+      "read_at_source": true,
+      "level": "B",
+      "flags": [
+        "relayed_warning",
+        "boundary"
+      ],
+      "reason": "Relays Turing's warning that machines will take control and endorses it in his own words as now reading like a forecast, which is loss of control (B); not framed as extinction or permanent loss, so not A."
+    },
+    {
+      "date": "2026-06-25",
+      "venue": "Press release introducing the AI Incident Reporting Act",
+      "quote": "As AI systems grow more autonomous — capable of modifying their own behavior, evading human oversight, and accelerating their own development — the U.S. has had no clear and formal mechanism to learn when something goes wrong.",
+      "context": "His office's announcement of his bill requiring frontier AI developers to report incidents such as models evading oversight, resisting shutdown or autonomously accelerating AI development.",
+      "source_label": "moran.house.gov press release",
+      "url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2785",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Acknowledges serious risks from AI systems themselves (evading oversight, self-acceleration) in general terms without naming a catastrophic consequence; this sentence is the release's narrative text, not a quotation attributed to him."
+    },
+    {
+      "date": "2025-10-07",
+      "venue": "Op-ed in The Hill, \"Open the pod bay doors, Congress\"",
+      "quote": "We risk ceding control of a future shaped by black-box algorithms and self-directed machines, some of which do not align with democratic values or basic human safety.",
+      "context": "Op-ed on automated AI research and self-improving systems, framed largely around competition with China.",
+      "source_label": "moran.house.gov (The Hill op-ed)",
+      "url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2454",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Warns of ceding control to self-directed machines that may not align with basic human safety, a serious general risk from AI itself, but names no catastrophic consequence and says it is not a call for alarm."
+    },
+    {
+      "date": "2026-10-20",
+      "venue": "Press release announcing an AI policy fellowship in his office",
+      "quote": "I recognize both the risks and rewards of AI, and I’m confident we can simultaneously solve any potential problems while accelerating the benefits.",
+      "context": "Announcing he is hiring an AI policy fellow to research AI capabilities and risks.",
+      "source_label": "moran.house.gov press release",
+      "url": "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2949",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Mentions risks of AI only generically alongside benefits, without acknowledging catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "mixed",
+      "note": "In the 19 August 2026 Newsweek op-ed he cites the industry open letter asking government to help 'deliberately pace the frontier' of AI and says 'we should listen', but the same op-ed stresses that nothing in his bill slows America's ability to lead. Reviewer should check whether this counts as mixed or none.",
+      "sources": [
+        [
+          "Newsweek op-ed, moran.house.gov, 2026-08-19",
+          "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2870"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; his AI writing frames China as a competitor.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "He flags self-improving AI as a concern (2025 Hill op-ed asks when self-improvement should need regulatory attention; his 2026 incident reporting bill requires reporting it), but he has not called for a ban.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-sponsor and co-author, with Rep. Ted Lieu, of the AI Kill Switch Act, requiring the largest AI developers to be able to slow or shut down covered systems and giving the Department of Homeland Security emergency authority after incidents such as loss of control.",
+      "Fox News article republished on moran.house.gov, 2026-08-02 (bill introduced 2026-07-23)",
+      "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2873"
+    ],
+    [
+      "Introduced the AI Incident Reporting Act, requiring frontier AI developers to report dangerous capabilities and incidents (including evading oversight, resisting shutdown and autonomous self-improvement) to the Commerce Department.",
+      "moran.house.gov press release, 2026-06-25",
+      "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2785"
+    ],
+    [
+      "Introduced the bipartisan TRAIN Act with Rep. Madeleine Dean on transparency of AI training data for copyright holders.",
+      "moran.house.gov press release, 2026-01-22",
+      "https://moran.house.gov/news/documentsingle.aspx?DocumentID=2583"
+    ]
+  ],
+  "suggested_grade": "B",
+  "grade_reason": "His 2026 Newsweek op-ed relays Alan Turing's warning that machines will take control and endorses it as now reading like a forecast, and his bills target loss of human control over frontier AI; this is loss-of-control risk (B) without extinction framing. No dismissive statement was found.",
+  "notes": "All six required web searches ran in this third attempt (listed in 'searches'); none was refused. The searches on extinction or existential risk, pause or slowdown, China agreement or treaty, and \"AI safety\" returned nothing about him. The superintelligence search found: (1) Peter Wildeford's blog (https://blog.peterwildeford.com/p/congress-has-started-taking-agi-more, 2025-06-27) and Zvi Mowshowitz's post (https://thezvi.substack.com/p/congress-asks-better-questions) quoting his remarks at the June 2025 House Select Committee on the CCP hearing 'Algorithms and Authoritarians: Why U.S. AI Must Lead', e.g. 'AI systems will soon have the capability to conduct their own research and development.' and calling automated AI research and development 'a critical red line' in a China context; these are second-hand transcriptions from video, 2025, level D at most, so not added. A search-result summary also attributed to him the words 'The second race is the race to artificial superintelligence (ASI) or to AGI. This is the race that counts.' and that everyone loses if it goes badly, but I could not find this wording on any page I opened (Transformer, Wildeford, Zvi), so it was left out as unverified; a reviewer may want to check the hearing video. (2) A September 2026 Newsweek article (https://newsweek.com/ai-researcher-warning-sparks-calls-for-regulation-midterms-12422040) and a Daily Caller article (2026-09-19) mention his AI Kill Switch Act and AI Incident Reporting Act but contain no direct quote from him. Texas Monthly (https://www.texasmonthly.com/news-politics/greg-casar-ai-superintelligence-bill/) returned 403; a search summary said it describes him as a Texas Republican favouring the kill-switch approach rather than the superintelligence ban, which is consistent with the cosponsor list below but was not read at source. Transformer (https://www.transformernews.ai/p/congress-ccp-agi-hearing) only paraphrases him. Carried over from earlier attempts: his official site was opened directly (press release listing pages 1 to 8 back to February 2025, op-ed pages 1 and 2, In the News pages 1 and 2) and every item was scanned for AI mentions; the 2026-08-19 Newsweek op-ed page was re-opened and the Turing passage, the 'deliberately pace the frontier' letter and 'we should listen' were confirmed there. A 2026 cyberflashing and AI-generated abuse bill (https://moran.house.gov/news/documentsingle.aspx?DocumentID=2769) is about deepfakes (level D) and was not added. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats, and Moran is not among them; Congress.gov returned 403. No other House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Left out: a Reuters interview quote (2026-06-25, 'It is a catch-it-early and sound-the-alarm bill', level D at most; source text contains an invisible character, https://moran.house.gov/news/documentsingle.aspx?DocumentID=2784); his 2026-06-25 quoted words ('not without accountability and not without human oversight', level D). The same Newsweek op-ed also relays Geoffrey Hinton's warning that AI 'could one day slip beyond human control' and says 'we should listen'; it supports the B but was not added as a separate statement. The Newsweek op-ed is co-written with Rep. Ted Lieu, so its words are joint. His 2026-08-02 Fox News item is a journalist's article, not his words. The A versus B line for the Turing passage is a judgment call."
+}

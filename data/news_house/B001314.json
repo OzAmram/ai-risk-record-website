@@ -1,0 +1,27 @@
+{
+  "bioguide": "B001314",
+  "member": "Aaron Bean",
+  "searches": [
+    "site:bean.house.gov artificial intelligence",
+    "Aaron Bean superintelligence",
+    "Rep. Aaron Bean AI extinction existential risk",
+    "Aaron Bean artificial intelligence pause moratorium",
+    "Congressman Aaron Bean China AI agreement",
+    "\"Aaron Bean\" \"AI safety\"",
+    "\"Bean\" Florida congressman artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Cosponsored H.R. 7226, a bill to require use of artificial intelligence to review agency regulations (AI promotion, not about AI risk).", "Congressional Record Index 2026, entry for Bean, Aaron (H1350, 22 January)", "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-BEAN-AARON-C8D51.htm"],
+    ["Cosponsored H.R. 9501, a bill asking the Government Accountability Office to report on the potential of artificial intelligence to help the IRS detect tax fraud (AI promotion, not about AI risk).", "Congressional Record Index 2026, entry for Bean, Aaron (H4315, 29 June)", "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-BEAN-AARON-C8D51.htm"]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Bean about AI risk, or in his own words about AI at all, was found; his only AI-related record is cosponsoring two bills that use AI for government work (level D material at most), and he is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra broad search (7 in total); none found any statement by Bean on AI risk, superintelligence, extinction, a pause, China talks or AI safety. Kept from the earlier run: the FastDemocracy page for H.R. 10538 (re-opened this run) lists 12 cosponsors and Bean is not among them; bean.house.gov press releases from 15 October 2025 to 9 June 2026 showed no AI statement (the earlier run read titles and summaries only; this run re-opened page 1, newest release still 9 June 2026, none mention AI). The 7 April 2026 release on Congressional App Challenge winners describes a student app ('TruthSnap') that uses AI to verify video; this is about a student's app, not Bean's views, so not recorded. A search result summary (LegiPlex) attributed a 'Leveraging Artificial Intelligence to Streamline the Code of Federal Regulations Act of 2026' to Bean as 'HR1252', but the number did not match the Congressional Record Index (which lists H.R. 7226 as a cosponsorship); not opened and not recorded separately. Reviewer may prefer 'D' instead of 'none' given the two AI-related cosponsorships; I chose 'none' because there are no statements in his own words. The many-signer House AI letters of August and September 2026 were not searched for, as instructed."
+}

@@ -1,0 +1,26 @@
+{
+  "bioguide": "ELECT-NJ-12-HAMAWY",
+  "member": "Adam Hamawy",
+  "searches": [
+    "Adam Hamawy AI artificial intelligence",
+    "Adam Hamawy \"AI safety\"",
+    "Hamawy congress NJ-12 campaign artificial intelligence position",
+    "Adam Hamawy superintelligence",
+    "Adam Hamawy extinction OR \"existential risk\" AI",
+    "Adam Hamawy AI pause OR slowdown OR moratorium data centers",
+    "Adam Hamawy China AI agreement OR treaty",
+    "Adam Hamawy for Congress campaign website issues",
+    "Hamawy \"data centers\" OR \"AI\" New Jersey 12th district debate"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "The Daily Princetonian (2 September 2026) reports in paraphrase that Hamawy supports the Sanders and Ocasio-Cortez data center moratorium; no direct quote was found and nothing ties his support to risks from AI itself, so under the rubric this is none.", "sources": [["Daily Princetonian, 2 September 2026", "https://www.dailyprincetonian.com/article/2026/09/princeton-news-broadfocus-nj-12-candidates-forum-princeton-windrows-discuss-affordability-immigration"]]},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "News reports show he has talked about AI (its uses and downsides in medicine, data centers), but no statement of his about catastrophic risk from AI was found, and no exact quote of his on AI could be verified at source.",
+  "notes": "Nine web searches ran, none refused; the search is reasonably complete for news, but his campaign website could not be found or opened (adamhamawy.com and adamforcongress.com returned empty pages). As a representative-elect he is not a House member and did not sponsor the Ban Artificial Superintelligence Act; no source links him to it. Paraphrases left out: (1) Daily Princetonian, 2 September 2026: Hamawy 'supports the data center moratorium introduced by Sanders and Ocasio-Cortez' (reporter's words). (2) A search result summary of a States Newsroom / New Jersey Monitor article (October 2026, https://newjerseymonitor.com/?p=25371, also https://www.newsfromthestates.com/node/434617) says he uses AI in his medical practice to cut paperwork but sees downsides such as errors in research; both pages returned 403, so the wording was not read at source. (3) The same search summary reported that at an April 2026 forum he said AI '[AI] can help in medicine, the development of drugs, efficiency' and mentioned effects on children, education, jobs and climate; the source article (likely New Jersey Monitor, 14 April 2026) returned 403, and the bracketed wording is not an exact quote, so it was not used. (4) Democracy Now, 5 June 2026: he was asked about AI data centers but his answer did not address AI. If a reviewer can open the New Jersey Monitor articles, a D-level quote may be available; none of the reported material suggests catastrophic-risk content."
+}

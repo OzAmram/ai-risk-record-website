@@ -1,0 +1,70 @@
+{
+  "bioguide": "D000032",
+  "member": "Byron Donalds",
+  "searches": [
+    "site:donalds.house.gov artificial intelligence",
+    "Byron Donalds superintelligence",
+    "Byron Donalds AI extinction existential risk",
+    "Byron Donalds AI pause slowdown moratorium",
+    "Byron Donalds China AI agreement talks",
+    "\"Byron Donalds\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-07-20",
+      "venue": "Press release introducing the Protecting Ratepayers Act",
+      "quote": "The next wave of technology and innovation shouldn’t come at the expense of hardworking Americans.",
+      "context": "His quoted statement on a bill that, per the release narrative, would require AI data centers to supply their own water and power so household utility bills do not rise.",
+      "source_label": "Rep. Byron Donalds press release",
+      "url": "https://donalds.house.gov/news/documentsingle.aspx?DocumentID=2635",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About the electricity and water costs of AI data centers, which the rubric places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development. News reports (WUSF, 24 Jul 2026) say he favors slowing some new data center construction but opposes a statewide moratorium; that is about local impact, not AI risk, so it does not count.",
+      "sources": [
+        [
+          "WUSF, 24 Jul 2026",
+          "https://www.wusf.org/politics-issues/2026-07-24/byron-donalds-opposes-statewide-moratorium-data-centers"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause; he is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act.",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of frontier AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the Protecting Ratepayers Act, requiring data center builders and operators (described in the release as AI data centers) to source their own energy and water to protect household utility costs.",
+      "Rep. Byron Donalds press release, 2026-07-20",
+      "https://donalds.house.gov/news/documentsingle.aspx?DocumentID=2635"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2026 (data center utility costs, states leading AI regulation, protecting children), but nothing found acknowledges catastrophic risk; he is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All six required web searches ran this time; none found any statement by Donalds on superintelligence, extinction, loss of control, a pause, or AI talks with China. The press release quote was re-checked at the source: the page uses a curly apostrophe in 'shouldn’t', now matched. Left out as not his own quoted words or not about catastrophic risk: a statement from his office to the Daily Caller (15 Sep 2026) that he 'believes that states should lead on creating safeguards around AI' (https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails); Washington Examiner (1 Jun 2026) paraphrase that he disagreed with Trump on AI policy, no direct quotes; reported remarks that 'the states do need to lead' and, on Fox Business Kudlow, that 'the number one thing we have to do is make sure that we are protecting children...' (seen only in search summaries, not opened; all level D). WUSF/WUWF (24-25 Jul 2026) report he opposes a statewide data center moratorium but favors slowing some construction, for local reasons. The floridianpress.com article (Feb 2026) returned 403 and was not read. Cosponsor list of H.R. 10538 was read in the earlier attempt on FastDemocracy (12 cosponsors, all Democrats, Donalds not among them); not re-checked. Older press releases (before Oct 2025) were not reviewed. The many-signer House AI letters of Aug and Sep 2026 were not searched for, as instructed. He is the Republican nominee for Florida governor in 2026 and received about $5 million in support from the AI industry-backed group Leading the Future (NBC News)."
+}

@@ -1,0 +1,85 @@
+{
+ "bioguide": "M001229",
+ "member": "LaMonica McIver",
+ "searches": [
+  "LaMonica McIver artificial intelligence (restricted to mciver.house.gov)",
+  "LaMonica McIver superintelligence",
+  "LaMonica McIver AI extinction existential risk",
+  "LaMonica McIver AI pause slowdown moratorium",
+  "LaMonica McIver China AI agreement treaty",
+  "\"McIver\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors McIver"
+ ],
+ "statements": [
+  {
+   "date": "2026-04-24",
+   "venue": "Press release on the AI Data Center Site Selection Transparency Act of 2026",
+   "quote": "No corporation should be able to change the fabric of a community and leave its residents to absorb the costs.",
+   "context": "Introducing a bill requiring public notice 180 days before AI data center development, citing energy bills and local impact.",
+   "source_label": "House press release",
+   "url": "https://mciver.house.gov/media/press-releases/mciver-introduces-bill-to-stop-surprise-ai-data-center-development",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About local costs and transparency of AI data centers, not catastrophic risk from AI."
+  },
+  {
+   "date": "2025-12-11",
+   "venue": "Press release on the Workforce of the Future Act",
+   "quote": "Working people deserve innovation that expands opportunity—not eliminates it.",
+   "context": "Reintroducing a bill with Rep. Cleaver to study AI's effects on jobs and fund technology training.",
+   "source_label": "House press release",
+   "url": "https://mciver.house.gov/media/press-releases/reps-mciver-cleaver-reintroduce-bill-to-protect-and-prepare-workers-for-economic-impact-of-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About AI and jobs, which is outside catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI; the data center bill is about notice and local costs, not a moratorium tied to AI risk.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found; the China agreement search returned nothing about her.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found; not shown as a co-sponsor of the Ban Artificial Superintelligence Act.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the AI Data Center Site Selection Transparency Act of 2026, requiring public disclosure of proposed AI data center sites 180 days in advance.",
+   "House press release, 2026-04-24",
+   "https://mciver.house.gov/media/press-releases/mciver-introduces-bill-to-stop-surprise-ai-data-center-development"
+  ],
+  [
+   "Reintroduced the Workforce of the Future Act with Rep. Cleaver, to study AI's impact on jobs and fund training grants.",
+   "House press release, 2025-12-11",
+   "https://mciver.house.gov/media/press-releases/reps-mciver-cleaver-reintroduce-bill-to-protect-and-prepare-workers-for-economic-impact-of-ai"
+  ],
+  [
+   "Requested $1,500,000 in FY27 community project funding for a Rutgers-Newark AI Assurance & Safety Testbed to test reliability, safety and accountability of AI used in public services.",
+   "House appropriations requests page, FY27",
+   "https://mciver.house.gov/appropriations-requests"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "She has spoken about AI in 2025 and 2026 (jobs, data center costs, a testbed for AI used in public services), but nothing found acknowledges catastrophic risk from AI.",
+ "notes": "All 7 searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act). The official-site search found only the AI items already recorded (workforce bill, data center bill, FY27 Rutgers-Newark AI testbed request) plus a Congressional App Challenge announcement about a student AI app, which is not a statement on AI risk. The superintelligence, extinction, pause, China and AI safety searches returned nothing about her. Ban Artificial Superintelligence Act: the House version (H.R. 10538, Casar) cosponsor list on an unofficial blog (orcarouter.ai) names 12 House cosponsors, and McIver is not among them; congress.gov returned 403, so the official list was not checked. No source shows her co-sponsoring it. From the earlier run: the page-reading tool showed the data center and workforce statements in segments; the two quotes are single complete sentences as shown, but a reviewer should confirm the exact characters (for example the em dash) on the source pages. The FY27 testbed request is project description text, not her own statement of belief, so it is in record only. A press listing dates the workforce release to 2025-11-18 while the page says 2025-12-11; the page date is used."
+}

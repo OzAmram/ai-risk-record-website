@@ -1,0 +1,53 @@
+{
+  "bioguide": "B001300",
+  "member": "Nanette Diaz Barragán",
+  "searches": [
+    "site:barragan.house.gov artificial intelligence",
+    "Nanette Barragán superintelligence",
+    "Nanette Barragán AI extinction existential risk",
+    "Barragán AI pause slowdown moratorium",
+    "Barragán China AI agreement treaty",
+    "\"Barragán\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-07",
+      "venue": "Press release introducing the AI Public Awareness and Education Campaign Act with Rep. Obernolte",
+      "quote": "This legislation will ensure consumers are better informed, better protected, and better prepared to navigate a rapidly changing digital landscape.",
+      "context": "Bipartisan bill (H.R. 7151) directing the Department of Commerce to run a public awareness campaign on AI, consumer rights and workforce opportunities.",
+      "source_label": "barragan.house.gov press release",
+      "url": "https://barragan.house.gov/2026/01/07/reps-barragan-obernolte-introduce-bipartisan-legislation-to-improve-public-understanding-and-trust-in-artificial-intelligence",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About consumer awareness and protection regarding AI, with no acknowledgment of catastrophic risk."
+    },
+    {
+      "date": "2025-11-18",
+      "venue": "Press release introducing the HEAL-AI Act",
+      "quote": "With the rapid developments in AI technology, we now have the capability to do more, provide better care,",
+      "context": "Bill creating grants for medical schools to teach AI literacy to medical students.",
+      "source_label": "barragan.house.gov press release",
+      "url": "https://barragan.house.gov/2025/11/18/press-release-rep-barragan-introduces-the-heal-a-i-act-to-encourage-further-development-of-a-i-literacy-for-medical-students/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Promotes AI use in health care and does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; she is not listed as a co-sponsor of the Ban Artificial Superintelligence Act in the sources checked.", "sources": []}
+  },
+  "record": [
+    ["Sponsored H.R. 7151, the AI Public Awareness and Education Campaign Act, with Rep. Obernolte (public information campaign on AI).", "barragan.house.gov press release, 2026-01-07", "https://barragan.house.gov/2026/01/07/reps-barragan-obernolte-introduce-bipartisan-legislation-to-improve-public-understanding-and-trust-in-artificial-intelligence"],
+    ["Introduced the HEAL-AI Act, grants for AI literacy training in medical schools.", "barragan.house.gov press release, 2025-11-18", "https://barragan.house.gov/2025/11/18/press-release-rep-barragan-introduces-the-heal-a-i-act-to-encourage-further-development-of-a-i-literacy-for-medical-students/"],
+    ["Co-sponsored H.R. 8031 to repeal the executive order 'Ensuring a National Policy Framework for Artificial Intelligence' and H.R. 9183 on environmental impacts of AI.", "Congressional Record Index 2026", "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-BARRAGA-N-NANETTE-DIAZ-A735D0.htm"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken about AI in 2025 and 2026 (consumer awareness, AI in medical education) but no statement found acknowledges catastrophic risk from AI.",
+  "notes": "Seven web searches ran, none refused. Searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing about her. The Congressional Record Index 2026 entry for her (as summarized by the page fetch tool) does not list the Ban Artificial Superintelligence Act (H.R. 10538); public reports name only some of its House co-sponsors and do not mention her, but congress.gov was not checked, so co-sponsorship cannot be fully ruled out. Multi-signer House letters were not searched, per instructions. The govinfo index and H.R. 8031/9183 details were read via a summarizing fetch, not verbatim."
+}

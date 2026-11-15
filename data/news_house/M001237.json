@@ -1,0 +1,60 @@
+{
+ "bioguide": "M001237",
+ "member": "Kristen McDonald Rivet",
+ "searches": [
+  "site:mcdonaldrivet.house.gov artificial intelligence",
+  "\"McDonald Rivet\" superintelligence",
+  "\"McDonald Rivet\" AI extinction OR \"existential risk\"",
+  "\"McDonald Rivet\" AI pause OR slowdown OR moratorium",
+  "\"McDonald Rivet\" China AI agreement OR treaty",
+  "\"Kristen McDonald Rivet\" \"AI safety\"",
+  "Rep. McDonald Rivet artificial intelligence 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Press release",
+   "quote": "That only works if it happens at a global scale. President Trump needs to use this summit to be tough with President Xi, making sure we have a universal set of rules for the future of AI that protect Americans’ security and pocketbooks.",
+   "context": "Statement ahead of the Trump-Xi summit urging leaders to agree common rules on AI that protect jobs, safety and security.",
+   "source_label": "McDonald Rivet House press release, 23 September 2026",
+   "url": "https://mcdonaldrivet.house.gov/media/press-releases/ahead-china-summit-rep-mcdonald-rivet-urges-leaders-prioritize-ai-cooperation",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Calls for global AI rules with China to protect security and pocketbooks but names no catastrophic risk; a general security mention is D under ruling 4."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development; she is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development; not a co-sponsor of H.R. 10538.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "Her 23 September 2026 statement asks Trump to press Xi for 'a universal set of rules for the future of AI', which is about safety rules, not pacing or pausing; the 18 September Meeks/Jacobs/Bera letter it links to is handled centrally.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led introduction of the Reverse Big Ugly Tax Breaks for Data Centers Act, removing tax breaks for data centers (cost and local-impact motives, not AI risk).",
+   "McDonald Rivet House press release, 16 September 2026",
+   "https://mcdonaldrivet.house.gov/media/press-releases/reps-mcdonald-rivet-davis-lead-new-push-stop-tax-giveaways-data-centers"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only 2026 AI statement found calls for global AI rules agreed with China to protect jobs, safety and security, without acknowledging catastrophic risk.",
+ "notes": "All eight web searches ran this time (six required plus one general AI search and one on Ban Artificial Superintelligence Act co-sponsors). None of the searches returned any news article, interview or floor speech by her about AI risk; the site-restricted search returned no pages from her site. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy cosponsor list (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, 12 cosponsors) does not include her; congress.gov returned 403 and could not be opened, so this rests on the aggregator list. In the earlier attempt (with searches refused) I read all 13 press release listing pages and 5 in-the-news listing pages on mcdonaldrivet.house.gov and opened the AI- and data-center-related items; I re-opened the 23 September 2026 release in this run and it still contains the quoted wording and names no catastrophic risk. That release says she sent a letter on AI safety with China (the Jacobs/Meeks/Bera 18 September letter) and signed the letter 'along with 106 of her colleagues' to Speaker Johnson (the 15 September letter); both are centrally handled multi-signer letters, so they are left out. The release paraphrases the letter as urging officials 'to negotiate AI-related safety practices'. A 2025 AFL-CIO scorecard suggests she voted against the amendment barring state AI laws in H.R. 1; not verified against the official roll call and not a risk statement, so not recorded. Data center statements (16 September 2026, Fox News and Midland Daily News) are about tax breaks and family costs, not AI risk, and are not included as statements."
+}

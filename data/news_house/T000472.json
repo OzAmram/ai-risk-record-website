@@ -1,0 +1,26 @@
+{
+  "bioguide": "T000472",
+  "member": "Mark Takano",
+  "searches": [
+    "Mark Takano artificial intelligence site:takano.house.gov",
+    "Mark Takano superintelligence",
+    "Mark Takano AI extinction existential risk",
+    "Takano AI pause slowdown moratorium",
+    "Takano AI China agreement treaty",
+    "\"Mark Takano\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Takano"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement or bill found on slowing frontier AI.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found; no source shows him co-sponsoring the Ban Artificial Superintelligence Act.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Led a bipartisan bill to create a Congressional Office of Technology to advise Congress on emerging technologies; the release names artificial intelligence among them, but Takano's own quoted words do not mention AI or its risks.", "takano.house.gov press release, 2026-10-29", "https://takano.house.gov/newsroom/press-releases/reps-takano-casten-foster-beyer-and-obernolte-lead-bipartisan-coalition-to-create-the-congressional-office-of-technology"]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Takano about AI risk, or about AI specifically, was found in 2025 or 2026. His only AI-adjacent action found is a bill to create a congressional technology advisory office, in which his own words speak of emerging technology generally.",
+  "notes": "Seven web searches ran, none refused; six of them returned nothing about Takano. The 29 October 2026 press release was opened at source; its general introduction mentions artificial intelligence, but the quotes attributed to Takano ('Congress cannot continue flying blind into the future.' and 'We must have an office of independent experts as we face important decisions to guide emerging technology') do not name AI, so no statement was recorded. A reviewer could treat this as a D-level mention instead. Ban Artificial Superintelligence Act (H.R. 10538): Forkast reports Ocasio-Cortez and nine unnamed House Democrats as co-sponsors; Takano is not named in any source seen, and the congress.gov cosponsor page returned 403, so his co-sponsorship could not be confirmed or ruled out. No House letter on AI risk led by him was found (multi-signer letters were excluded per instructions). The official press release list was checked only on its first page."
+}

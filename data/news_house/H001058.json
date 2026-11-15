@@ -1,0 +1,66 @@
+{
+  "bioguide": "H001058",
+  "member": "Bill Huizenga",
+  "searches": [
+    "Huizenga superintelligence",
+    "Huizenga AI extinction existential risk",
+    "Bill Huizenga AI pause slowdown moratorium",
+    "Bill Huizenga China AI agreement treaty",
+    "\"Huizenga\" \"AI safety\"",
+    "artificial intelligence site:huizenga.house.gov",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-20",
+      "venue": "Press release",
+      "quote": "Model extraction attacks are the latest frontier of Chinese economic coercion and theft of US intellectual property",
+      "context": "Introducing H.R. 8283, the Deterring American AI Model Theft Act, aimed at stopping Chinese and Russian firms from copying American AI models through distillation.",
+      "source_label": "Huizenga House press release",
+      "url": "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI theft and competition with China, with no catastrophic risk from AI acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; his remarks frame AI as a race to win against China.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced H.R. 8283, the Deterring American AI Model Theft Act, targeting AI model extraction by Chinese and Russian firms.",
+      "Huizenga House press release, 2026-04-20",
+      "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404341"
+    ],
+    [
+      "Led H.R. 3447, the Chip Security Act, to detect and prevent AI chip smuggling; passed committee unanimously.",
+      "Huizenga House press release, 2026-03-26",
+      "https://huizenga.house.gov/news/documentsingle.aspx?DocumentID=404259"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2026 (model theft, chip smuggling, winning the AI race against China), but no statement found acknowledges catastrophic risk from AI.",
+  "notes": "All required web searches ran in this attempt (7 in total, listed in 'searches'); an earlier attempt ran only 1 site-restricted search before being refused. None of the superintelligence, extinction or existential risk, pause or moratorium, China agreement, or 'AI safety' searches returned any statement by Huizenga. The site-restricted search returned no huizenga.house.gov pages directly, so the earlier attempt's direct reading of his press release list pages 1 and 2 (back to 25 December 2025) is kept as the basis for the record entries. H.R. 10538, the Ban Artificial Superintelligence Act (introduced 24 September 2026 by Rep. Casar): secondary sources name only Democratic cosponsors and none name Huizenga; congress.gov's cosponsor list was not opened, so this is not fully confirmed. No House letter on AI risk signed by him was found. The 20 April 2026 quote was re-checked at the source in this attempt. That release also says 'American AI models are demonstrating transformative cyber capabilities', presented as a reason to keep technology from China rather than a safety risk; the page tool truncated the full sentence so it was not quoted. His 12 June 2025 opening statement as South and Central Asia Subcommittee chairman (https://foreignaffairs.house.gov/news/press-releases/south-and-central-asia-subcommittee-chairman-huizenga-delivers-opening-statement-at-hearing-on-the-bureau-of-industry-and-security-fy26-budget) and later 2026 subcommittee hearing remarks on export control enforcement frame AI as a race against China (for example a search summary says he described DeepSeek and Moonshot AI stealing US labs' intellectual property through distillation); these are level D and were not opened or quoted."
+}

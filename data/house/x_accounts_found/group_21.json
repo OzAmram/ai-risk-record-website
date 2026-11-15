@@ -1,0 +1,49 @@
+[
+ {
+  "id": "ELECT-TX-08-STEINMANN",
+  "name": "Jessica Steinmann",
+  "accounts": [
+   {"handle": "TeamSteinmann", "account_type": "campaign", "evidence_url": "https://www.jessicasteinmann.com/", "evidence": "Her campaign site (Jessica Hart Steinmann, Trump-endorsed candidate for TX-08) links to x.com/TeamSteinmann."}
+  ],
+  "notes": "No personal account was linked from the campaign site. Ballotpedia blocked automated access, so it could not be checked."
+ },
+ {
+  "id": "ELECT-TX-09-GUTIERREZ",
+  "name": "Leticia Gutierrez",
+  "accounts": [],
+  "notes": "Her campaign site leticiaforcongress.com links Facebook and Instagram, but its X icon points to the template placeholder x.com/candidate, not a real handle. Branch, BallotReady, iVoterGuide and an Off the Kuff interview page showed no X handle. Ballotpedia blocked automated access. Two searches used, none refused."
+ },
+ {
+  "id": "ELECT-TX-10-GOBER",
+  "name": "Chris Gober",
+  "accounts": [
+   {"handle": "ChrisKGober", "account_type": "campaign", "evidence_url": "https://www.chrisgober.com/", "evidence": "His campaign site (Republican for Texas's 10th Congressional District) links to x.com/ChrisKGober."}
+  ],
+  "notes": "The site is a campaign site, but the handle is name-based, so it may be his personal account used for the campaign. Only one X account was linked."
+ },
+ {
+  "id": "ELECT-TX-15-PULIDO",
+  "name": "Bobby Pulido",
+  "accounts": [
+   {"handle": "PulidoforTexas", "account_type": "campaign", "evidence_url": "https://www.bobbypulidofortexas.com/", "evidence": "The Bobby Pulido for Congress campaign site links to x.com/PulidoforTexas."},
+   {"handle": "bobbypulido425", "account_type": "personal", "evidence_url": "https://www.bobbypulido.com/", "evidence": "His official music-artist site (tour, discography) links to twitter.com/bobbypulido425."}
+  ],
+  "notes": "bobbypulido425 is his music/artist account, not a political one. I did not check whether it is still active."
+ },
+ {
+  "id": "ELECT-TX-19-SELL",
+  "name": "Tom Sell",
+  "accounts": [
+   {"handle": "SellForTexas19", "account_type": "campaign", "evidence_url": "https://www.selltexastrue.com/", "evidence": "The Tom Sell for Texas campaign site (found through his Branch candidate page) links to x.com/SellForTexas19."}
+  ],
+  "notes": "No personal account found."
+ },
+ {
+  "id": "ELECT-TX-21-TEIXEIRA",
+  "name": "Mark Teixeira",
+  "accounts": [
+   {"handle": "teixeiramark25", "account_type": "personal", "evidence_url": "https://teixeiraforcongress.com/", "evidence": "The Mark \"Tex\" Teixeira for Congress campaign site links to x.com/teixeiramark25."}
+  ],
+  "notes": "The handle looks like his long-standing personal account (25 was his jersey number), and the campaign links to it. No separate campaign-only account was linked."
+ }
+]

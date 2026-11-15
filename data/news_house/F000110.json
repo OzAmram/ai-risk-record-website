@@ -1,0 +1,25 @@
+{
+  "bioguide": "F000110",
+  "member": "Cleo Fields",
+  "searches": [
+    "site:fields.house.gov artificial intelligence",
+    "\"Cleo Fields\" superintelligence",
+    "\"Cleo Fields\" AI extinction OR \"existential risk\"",
+    "\"Cleo Fields\" AI pause OR slowdown OR moratorium",
+    "\"Cleo Fields\" China AI agreement OR treaty",
+    "\"Cleo Fields\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "\"Cleo Fields\" congressman artificial intelligence"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Fields about AI risk, or substantively about AI at all, was found in eight web searches or on his official press release pages (January 2025 to September 2026). He is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+  "notes": "All six required web searches ran this time, plus two more (8 in total); none returned any page connecting Fields to AI risk, superintelligence, a pause or slowdown, China talks or AI safety. The site: search returned no fields.house.gov pages, so the earlier direct check of his site still stands: all 8 pages of press releases at https://fields.house.gov/media/press-releases were opened in the earlier attempt (3 January 2025 to 1 September 2026). Only one release mentions AI: 'Congressman Cleo Fields Condemns President Trump's Racist AI Video Targeting Former President First Lady, Barack and Michelle Obama' (6 February 2026, https://fields.house.gov/media/press-releases/congressman-cleo-fields-condemns-president-trumps-racist-ai-video-targeting). The word AI appears only in the office's headline and introduction ('racist, AI-generated video'); Fields's quoted statement condemns the video's racism and does not discuss AI, so it was not included (off topic or at most D). Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): congress.gov returned HTTP 403, but the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and Fields is not among them; this is a snapshot and was not confirmed on congress.gov. No other House letter about AI risk signed by Fields was found (the large multi-signer House letters were not searched, per instructions). Press releases after 1 September 2026 and hearing remarks or floor speeches not indexed by search were not checked."
+}

@@ -1,0 +1,19 @@
+{"bioguide": "S001172", "member": "Adrian Smith",
+ "searches": [
+   "site:adriansmith.house.gov artificial intelligence",
+   "\"Adrian Smith\" Nebraska superintelligence",
+   "\"Adrian Smith\" congressman AI extinction OR \"existential risk\"",
+   "\"Adrian Smith\" AI pause OR slowdown OR moratorium Nebraska",
+   "\"Adrian Smith\" China AI agreement OR treaty",
+   "\"Adrian Smith\" \"AI safety\"",
+   "\"Ban Artificial Superintelligence Act\" cosponsors House"],
+ "statements": [],
+ "positions": {
+   "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+   "pause": {"value": "none", "note": "No statement found.", "sources": []},
+   "intl": {"value": "none", "note": "No statement found.", "sources": []},
+   "rsi": {"value": "none", "note": "No statement found.", "sources": []}},
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "All six required web searches ran and none found any statement about AI by Adrian Smith; his official site's recent press releases and columns also do not mention AI.",
+ "notes": "All 6 required web searches ran this time, plus 1 extra on the Ban Artificial Superintelligence Act (7 in total). None returned anything by Rep. Adrian Smith on AI. The site: search on adriansmith.house.gov returned only other House committee pages. Name confusions to watch: results for 'Adrian Smith' and AI safety were about Sir Adrian Smith (president of the Royal Society, UK), Rep. Adam Smith (Washington Democrat), Brad Smith (Microsoft) and Danielle Smith (Alberta premier); none are this person. The Nebraska congressman in a WOWT article (18 Sep 2026) and a Hill article on AI safeguards is Rep. Mike Flood, not Smith; I opened both pages and confirmed Smith is not mentioned. Ban Artificial Superintelligence Act (H.R. 10538): the cosponsor lists found (FastDemocracy, Forkast) do not include Smith, but I did not see an official Congress.gov cosponsor list. Kept from the earlier attempt: I had opened his official site directly (home page, press releases page 1 covering 6 Oct to 12 Nov 2026, columns page 1 covering 4 Sep to 6 Nov 2026, and two columns in full) and found no AI mention; the site's own search page returned HTTP 403, and older press releases and columns were not checked page by page."}

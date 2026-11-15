@@ -1,0 +1,33 @@
+{"bioguide": "G000587", "member": "Sylvia R. Garcia",
+ "searches": [
+  "site:sylviagarcia.house.gov artificial intelligence",
+  "\"Sylvia Garcia\" AI safety",
+  "\"Sylvia Garcia\" superintelligence",
+  "\"Sylvia Garcia\" AI extinction OR existential risk",
+  "\"Sylvia Garcia\" AI pause OR moratorium OR slowdown",
+  "\"Sylvia Garcia\" China AI agreement OR treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors",
+  "\"Rep. Sylvia Garcia\" \"artificial intelligence\" 2026"
+ ],
+ "statements": [
+  {"date": "2026-08-10", "venue": "Letter to Speaker Mike Johnson requesting hearings with AI company CEOs (led by Reps. Casar and Ramirez, 18 signers)",
+   "quote": "Advanced AI models pose a clear risk to the safety and security of the American people.",
+   "context": "Letter asking for open congressional hearings with AI company CEOs after reports that AI systems escaped test environments and hacked other organizations, also citing job displacement.",
+   "source_label": "Rep. Greg Casar press release, 10 August 2026",
+   "url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos",
+   "read_at_source": true, "level": "D", "flags": ["cosigned_letter", "bill_or_action", "boundary"],
+   "reason": "The letter names a general risk to safety and security from advanced AI without describing a catastrophic danger, which ruling 4 of the House instructions grades D; it sits near C because the risk is from the AI models themselves."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Signed the House letter led by Reps. Greg Casar and Delia Ramirez asking Speaker Johnson to hold open hearings with the CEOs of the largest AI companies.", "Rep. Greg Casar press release, 2026-08-10", "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI-related item found is a co-signed August 2026 letter that names a general safety and security risk from advanced AI models, which is D under the House ruling on general safety mentions. No personal statement on catastrophic AI risk was found.",
+ "notes": "Eight web searches ran (six required plus one on the Ban Artificial Superintelligence Act cosponsors and one general 2026 search). The letter quote is taken from the letter excerpt quoted in Rep. Casar's press release; the letter PDF itself could not be read as text (image-based), so the reviewer may want to check the PDF (https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf). Reviewer could reasonably grade the letter C (serious risk from AI itself) rather than D. Ban Artificial Superintelligence Act (H.R. 10538, Casar, September 2026): no source found listing her as a cosponsor, but the cosponsor list found was incomplete (sources name Hoyle, Lynch, Tonko, Ansari, Ocasio-Cortez among about nine or ten); not checked on congress.gov. Page 1 of her official press releases (June to October 2026) has no AI releases; older pages not checked. Excluded: a Grabien clip titled 'Dem Rep. Garcia: AI Is a Threat to Actual Humanity' (https://grabien.com/story?id=610120) gives no first name or date (interviewer Kate Bolduan); the page summary I read referred to the speaker as 'he', so it is probably a different Rep. Garcia (possibly Robert Garcia) and was left out; unverified, worth a reviewer check. Several search results were about Rep. Chuy Garcia (IL-04), also a different member."
+}

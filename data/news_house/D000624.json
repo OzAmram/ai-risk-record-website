@@ -1,0 +1,86 @@
+{
+  "bioguide": "D000624",
+  "member": "Debbie Dingell",
+  "searches": [
+    "site:debbiedingell.house.gov artificial intelligence",
+    "Debbie Dingell superintelligence",
+    "Debbie Dingell AI existential risk extinction humanity",
+    "Debbie Dingell AI pause moratorium data center",
+    "Debbie Dingell China AI agreement treaty",
+    "\"Debbie Dingell\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Dingell"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "venue": "Letter to Ypsilanti Township leadership, published in House press release",
+      "quote": "AI is one of the most consequential technologies we have ever created, with extraordinary potential to improve lives. But we cannot ignore the risks, that if left unchecked, could threaten humanity itself.",
+      "context": "Closing section of her letter opposing the University of Michigan and Los Alamos computing center, calling for national AI guardrails.",
+      "source_label": "House press release (debbiedingell.house.gov)",
+      "url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7329",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "She says unchecked AI risks could threaten humanity itself, which is A under the threat-to-humanity ruling."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Letter to Ypsilanti Township leadership, published in House press release",
+      "quote": "The recent warnings by AI executives themselves, their employees, and other experts are chilling and require immediate policy action.",
+      "context": "Introducing her list of federal guardrails for large-scale AI and data-center development.",
+      "source_label": "House press release (debbiedingell.house.gov)",
+      "url": "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7329",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "relayed_warning",
+        "bill_or_action"
+      ],
+      "reason": "She endorses unnamed experts' warnings as chilling but does not say what the warnings are, so only general serious risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "Her 15 Sep 2026 letter says 'If Congress does not act swiftly to enact appropriate measures, we should pause further development until clear guardrails are put in place' and suggests a temporary pause on new large-scale AI and data-center development in Michigan, but the guardrails listed right before it are about ratepayers, water, noise, environment and community input, not risks from AI itself, so under the rubric this is none; a reviewer may wish to check, since the same letter also says unchecked AI risks could threaten humanity.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No call to halt building more capable frontier AI; the pause she mentions is on data-center construction pending local and environmental guardrails.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Letter opposing the University of Michigan-Los Alamos research computing center in Ypsilanti Township and calling on Congress to enact comprehensive guardrails for AI and data centers, including a possible pause on new development.",
+      "Dingell press release and letter, 15 Sep 2026",
+      "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7329"
+    ],
+    [
+      "Led (first signer, as Congressional Labor Caucus co-chair, with Horsford, Norcross and Pocan) a letter to the House Democratic Commission on AI urging worker-centred AI guardrails and opposing federal preemption of state AI laws; about workers and civil rights, not catastrophic risk.",
+      "Congressional Labor Caucus letter, 5 Mar 2026",
+      "https://laborcaucus.house.gov/sites/evo-subsites/laborcaucus.house.gov/files/evo-media-document/3.5.26-clc-ai-commission-letter.pdf"
+    ],
+    [
+      "Sought public input on a draft federal data center 'Bill of Rights' (data-center community impacts, not AI risk).",
+      "Dingell press release, Oct 2026",
+      "https://debbiedingell.house.gov/news/documentsingle.aspx?DocumentID=7432"
+    ]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "Her 15 September 2026 letter, published on her House site, says AI risks, if left unchecked, 'could threaten humanity itself', which is A under the threat-to-humanity ruling; no dismissive statement was found.",
+  "notes": "All 6 required web searches ran this time, plus 1 more on the Ban Artificial Superintelligence Act (7 in total). The searches found no news articles, interviews, hearing remarks or floor speeches by her on catastrophic AI risk, superintelligence, a pause, or a China agreement; her China work in the results is about Chinese vehicles, not AI. I re-opened the 15 Sep 2026 release (DocumentID=7329) and confirmed both quotes word for word. The A statement is one sentence in a long letter mostly about local data-center impacts (water, electricity, noise); a reviewer should judge whether it is a considered statement of catastrophic risk. The 'chilling warnings' sentence does not say what the warnings are. An earlier run (when searches were refused) read the official site's press release listing back to about January 2024; that reading is kept. Ban Artificial Superintelligence Act (H.R. 10538): no source found showing her as a co-sponsor; the congress.gov cosponsor page returned 403 and news reports name only Casar, Ocasio-Cortez and (in one disputed report) Whitesides and Moran, so this is unverified, not a confirmed no. She is listed as a subcommittee member at the 2025 Energy and Commerce hearing 'AI Regulation and the Future of U.S. Leadership' (govinfo CHRG-119hhrg60631) but appears only in the member and attendance lists, with no remarks. The many-signer House AI-risk letters were not searched, per instructions."
+}

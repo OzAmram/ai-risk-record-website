@@ -1,0 +1,107 @@
+{
+ "bioguide": "M001238",
+ "member": "Sarah McBride",
+ "searches": [
+  "site:mcbride.house.gov artificial intelligence",
+  "Sarah McBride superintelligence",
+  "Sarah McBride AI extinction existential risk",
+  "Rep. Sarah McBride AI pause slowdown moratorium",
+  "Sarah McBride China AI agreement treaty arms control",
+  "\"Sarah McBride\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-16",
+   "venue": "Press release (statement by Rep. McBride)",
+   "quote": "We need human-centric laws that protect our economy, our finances, our privacy, our health, our democracy, and, yes, our existence. We need national and international action. We need it now.",
+   "context": "Her own statement in a press release on a House letter (which she joined, not led) urging Speaker Johnson to keep the House in session to act on AI risks.",
+   "source_label": "mcbride.house.gov press release",
+   "url": "https://mcbride.house.gov/media/press-releases/rep-mcbride-calls-speaker-johnson-keep-house-session-address-ai-risks",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says laws on AI are needed to protect 'our existence', which treats AI as a threat to human survival (ruling 1); boundary because the threat is implied by listing it rather than stated directly."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Press release (statement by Rep. McBride)",
+   "quote": "No concentration of such power - whether it be in an individual, a company, a nation, or a technology - can be allowed to go unchecked or unrestrained. And it certainly cannot go unregulated.",
+   "context": "Her own statement in a press release on a House letter (which she joined, not led) urging Speaker Johnson to keep the House in session to act on AI risks. The preceding sentence says AI's power could lead to 'superhuman power'.",
+   "source_label": "mcbride.house.gov press release",
+   "url": "https://mcbride.house.gov/media/press-releases/rep-mcbride-calls-speaker-johnson-keep-house-session-address-ai-risks",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Warns in general terms that superhuman power concentrated in a technology must not go unchecked, a serious risk from advanced AI without a named catastrophic consequence."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Press release (statement by Rep. McBride)",
+   "quote": "Its capacity to cure diseases or produce bioweapons, to protect against the most advanced cyberattacks or hack the most robust technological fortresses, to foster shared prosperity for the many or to amass unimaginable wealth for the few, are each different sides of the same coin",
+   "context": "Her own statement in a press release on a House letter (which she joined, not led) urging Speaker Johnson to keep the House in session to act on AI risks.",
+   "source_label": "mcbride.house.gov press release",
+   "url": "https://mcbride.house.gov/media/press-releases/rep-mcbride-calls-speaker-johnson-keep-house-session-address-ai-risks",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "misuse_only"
+   ],
+   "reason": "Names AI's capacity to produce bioweapons and hack systems, which is catastrophic misuse by people, so C under the misuse-only ruling."
+  },
+  {
+   "date": "2025-12-04",
+   "venue": "Press release introducing the READ AI Models Act with Rep. Obernolte",
+   "quote": "The READ AI Models Act brings transparency to AI in a way that’s simple, consistent and accessible. Think of it as a clear, easy-to-read snapshot — a ‘nutrition label’ for an AI model.",
+   "context": "Bipartisan bill directing NIST to create a voluntary documentation template ('nutrition label') for AI models.",
+   "source_label": "mcbride.house.gov press release",
+   "url": "https://mcbride.house.gov/media/press-releases/mcbride-introduces-bipartisan-read-ai-models-act-bring-more-transparency",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About transparency and documentation of AI models, with no acknowledgment of catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "She says she has argued for an 'arms control' approach to AI globally and calls for 'national and international action', but no source found names China or coordinating the pace of frontier AI, so this is not counted.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the bipartisan READ AI Models Act with Rep. Jay Obernolte, directing NIST to create a voluntary documentation template for AI models.",
+   "mcbride.house.gov press release, 2025-12-04",
+   "https://mcbride.house.gov/media/press-releases/mcbride-introduces-bipartisan-read-ai-models-act-bring-more-transparency"
+  ],
+  [
+   "Questioned witnesses on data center impacts at a Science, Space, and Technology subcommittee hearing on the AI Action Plan.",
+   "mcbride.house.gov press release, 2026-01-15",
+   "https://mcbride.house.gov/media/press-releases/rep-mcbride-presses-trump-administration-data-center-impacts-secures"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "Her own 16 September 2026 statement says Congress needs laws to protect 'our existence' from AI, which ruling 1 counts as A; it is implied rather than spelled out, so a reviewer may prefer B or C. No dismissive statement found.",
+ "notes": "All 6 required web searches ran in this attempt (an earlier attempt had all 3 of its searches refused). The searches found nothing new: no results tie her to superintelligence, extinction risk, a pause or slowdown, or a China AI agreement. The earlier attempt fetched all 171 press releases on mcbride.house.gov and checked each for AI mentions; other AI mentions (fintech summit 2025-11-18, farm disaster data hearing 2026-09-15, first-year review) are incidental and left out. This attempt re-opened the 16 September 2026 release and confirmed its date, that she 'joined' (did not lead) the letter, and that it contains her statement. Because the 15 September 2026 letter to Speaker Johnson is a centrally handled multi-signer letter, only her own statement is used (letter PDF: https://mcbride.house.gov/sites/evo-subsites/mcbride.house.gov/files/evo-media-document/2026_09_15-mcbride-letter-compressed.pdf). The release also links an X post of her statement (https://x.com/Rep_McBride/status/2098850302963384536), not opened. An American Bazaar article (2026-01-22, https://americanbazaaronline.com/2026/01/22/ais-goldilocks-solution-congresswoman-sarah-mcbride-on-future-guidance-of-ai-473732/) was opened. It paraphrases her saying AI must never make high-stakes decisions alone and should complement human workers. Its only direct quotes are the short phrases 'Goldilocks solution' and 'laboratory of democracy', and it says nothing about catastrophic risk, so it is left out. Her RegulatingAI podcast appearance (2025-11-24, https://mcbride.house.gov/media/in-the-news/regulating-ai-podcast-inside-ai-policy-congresswoman-sarah-mcbride) is audio only, so it was not checked. Hearing transcripts were not checked. Ban Artificial Superintelligence Act (H.R. 10538): the earlier attempt found she is not among the 12 cosponsors listed at https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/ (opened); congress.gov returned 403. Quotes were checked character for character against downloaded page text in the earlier attempt."
+}

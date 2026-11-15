@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "B001243",
+  "member": "Sen. Marsha Blackburn (Republican, Tennessee; elected governor of Tennessee on 3 November 2026)",
+  "url": "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D",
+  "quote": "Establishes an “Advanced Artificial Intelligence Evaluation Program” within the Department of Energy (DOE) to evaluate advanced AI systems and collect data on the likelihood of adverse AI incidents, such as loss-of-control scenarios and weaponization by adversaries.",
+  "result": "confirmed",
+  "evidence_url": "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D",
+  "context": "s requirements for companies providing AI chatbot and companion services to protect kids. Sec. 9. • Establishes an \"Advanced Artificial Intelligence Evaluation Program\" within the Department of Energy (DOE) to evaluate advanced AI systems and collect data on the likelihood of adverse AI incidents, such as loss-of-control scenarios and weaponization by adversaries. • Requires developers of advanced AI systems to participate in the program, including a duty to pro",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Text is Section 9 of the section-by-section PDF hosted on Blackburn's Senate site; PDF metadata shows it was created 2025-12-19 by her staff. It is office-written bill summary text, not a spoken quote."
+ },
+ {
+  "bioguide": "B001243",
+  "member": "Sen. Marsha Blackburn (Republican, Tennessee; elected governor of Tennessee on 3 November 2026)",
+  "url": "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D",
+  "quote": "Requires large frontier developers to draft and implement protocols to manage and mitigate catastrophic risk, publish transparency reports disclosing information about their frontier models, and establish regular reporting to the Department of Homeland Security (DHS).",
+  "result": "confirmed",
+  "evidence_url": "https://www.blackburn.senate.gov/services/files/C43D3B19-391B-4EB6-84C1-0FC37EEBBA4D",
+  "context": "eral Trade Commission (FTC) to promulgate rules establishing minimum reasonable safeguards. Sec. 4. Requires large frontier developers to draft and implement protocols to manage and mitigate catastrophic risk, publish transparency reports disclosing information about their frontier models, and establish regular reporting to the Department of Homeland Security (DHS). It would: • Require DHS to establish a mechanism for frontier developers and its employees to anony",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Text is the opening sentence of Section 4 in the section-by-section PDF hosted on Blackburn's Senate site (PDF created 2025-12-19). It is office-written bill summary text, not a spoken quote."
+ },
+ {
+  "bioguide": "B001299",
+  "member": "Sen. Jim Banks (R-Indiana)",
+  "url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+  "quote": "More broadly, there are unresolved questions about whether we currently have the ability to keep powerful AI systems under our control. These questions are especially salient as companies pursue artificial superintelligence—AI models that can do anything a human can do but much, much better.",
+  "result": "confirmed",
+  "evidence_url": "https://www.banks.senate.gov/news/press-releases/senator-banks-calls-for-strong-ai-oversight-to-address-emerging-national-security-risks/",
+  "context": "ed AI presents serious risks. In the wrong hands, AI can be weaponized against the American people. More broadly, there are unresolved questions about whether we currently have the ability to keep powerful AI systems under our control. These questions are especially salient as companies pursue artificial superintelligence-AI models that can do anything a human can do but much, much better. Our major AI companies believe superintelligence could pose significant risks that our current scie",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Passage is in the body of Banks's letter as reproduced in his press release dated May 14, 2026, which says the letter was sent 'yesterday' (May 13)."
+ },
+ {
+  "bioguide": "C001047",
+  "member": "Sen. Shelley Moore Capito (Republican, West Virginia)",
+  "url": "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines",
+  "quote": "The VET AI Act is a commonsense bill that will allow for a voluntary set of guidelines for AI",
+  "result": "confirmed",
+  "evidence_url": "https://www.capito.senate.gov/news/press-releases/in-case-you-missed-it-capito-hickenlooper-reintroduce-bipartisan-bill-to-boost-ai-standards-create-guidelines",
+  "context": " independent external assurance and verification of how their AI systems are developed and tested. \"The VET AI Act is a commonsense bill that will allow for a voluntary set of guidelines for AI, which will only help the development of systems that choose to adopt them. I was proud to join Sen",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Quote appears in quotation marks attributed to Senator Capito in her office's press release dated August 12, 2025."
+ },
+ {
+  "bioguide": "C001047",
+  "member": "Sen. Shelley Moore Capito (Republican, West Virginia)",
+  "url": "https://www.capito.senate.gov/news/in-the-news/bipartisan-capito-bill-would-help-prevent-ai-scams",
+  "quote": "we must also be vigilant in protecting against harmful uses of the technology, especially when it comes to fraud and scams.",
+  "result": "confirmed",
+  "evidence_url": "https://www.capito.senate.gov/news/in-the-news/bipartisan-capito-bill-would-help-prevent-ai-scams",
+  "context": "igence (AI). \"While there is incredible potential with artificial intelligence,\" Sen. Capito said, \"we must also be vigilant in protecting against harmful uses of the technology, especially when it comes to fraud and scams.\" The senator on Dec. 16 introduced the Artificial Intelligence Scam Prevention Act, S. 3495, which ",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Quote appears attributed to Sen. Capito in the Ripon Advance article reprinted on her site, dated December 30, 2025; the statement itself accompanied the bill introduced Dec. 16, so the date is the report date."
+ }
+]

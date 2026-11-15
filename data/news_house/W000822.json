@@ -1,0 +1,91 @@
+{
+  "bioguide": "W000822",
+  "member": "Bonnie Watson Coleman",
+  "searches": [
+    "Bonnie Watson Coleman superintelligence",
+    "Bonnie Watson Coleman AI extinction existential risk",
+    "Watson Coleman AI pause slowdown moratorium",
+    "Watson Coleman China AI agreement treaty",
+    "\"Watson Coleman\" \"AI safety\"",
+    "Watson Coleman artificial intelligence risk (restricted to watsoncoleman.house.gov)",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-03-06",
+      "venue": "Press release introducing the Data Center Community Impact Act",
+      "quote": "Infrastructure projects, like the AI data centers being built, are important to the success of industry and economic growth in this country, but we must first protect the health of people and the planet.",
+      "context": "Introducing a bill for a federal study of the environmental, economic and public health effects of data centers, especially on communities of color and low-income communities.",
+      "source_label": "watsoncoleman.house.gov press release",
+      "url": "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-introduces-bill-to-study-impact-of-ai-data-centers-on-local-communities",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The statement is about local health and environmental effects of AI data centers, which is outside catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "She is an original cosponsor of the AI Data Center Moratorium Act (H.R. 9442), but nothing found in her own words ties it to risk from AI itself; her stated data center concerns are environmental and public health effects on communities.",
+      "sources": [
+        [
+          "Ocasio-Cortez press release, 2026-06-24",
+          "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; she does not appear on the cosponsor list seen for the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the Data Center Community Impact Act, calling for a federal study of data centers' environmental, economic and public health effects.",
+      "watsoncoleman.house.gov press release, 2026-03-06",
+      "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-introduces-bill-to-study-impact-of-ai-data-centers-on-local-communities"
+    ],
+    [
+      "Original cosponsor of the House AI Data Center Moratorium Act (H.R. 9442), pausing new AI data center construction until national safeguards are in place.",
+      "Ocasio-Cortez press release, 2026-06-24",
+      "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"
+    ],
+    [
+      "Cosponsored H.R. 9939, to prohibit AI data centers on federal land.",
+      "watsoncoleman.house.gov legislation page, read 2026-11-12",
+      "https://watsoncoleman.house.gov/about/legislation?PageNum_rs=2"
+    ],
+    [
+      "Cosponsored H.R. 10841, the Securing Elections From AI Deception Act.",
+      "watsoncoleman.house.gov legislation page, read 2026-11-12",
+      "https://watsoncoleman.house.gov/about/legislation"
+    ],
+    [
+      "With State Senator Zwicker, wrote to the New Jersey Department of Environmental Protection asking it to pause permitting of the Sentinel Data Center in South Brunswick over gaps in its environmental review.",
+      "watsoncoleman.house.gov press release, 2026-11-09",
+      "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-state-senator-zwicker-call-on-nj-dep-to-pause-sentinel-data-center-in-south-brunswick"
+    ],
+    [
+      "Co-introduced with Rep. Landsman the Ban AI Denials in Medicare Act, to bar the Department of Health and Human Services from testing an AI prior-authorization model in traditional Medicare.",
+      "Search result summary of watsoncoleman.house.gov material; release page returned HTTP 410 when opened 2026-11-14",
+      "https://watsoncoleman.house.gov/newsroom/press-releases/landsman-watson-coleman-introduce-bill-to-prohibit-ai-model-from-denying-medicare-procedures"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken and acted on AI in 2026, mainly on the local environmental and health effects of AI data centers and on AI in Medicare coverage decisions, but no statement acknowledging catastrophic risk from AI was found in any of the searches.",
+  "notes": "All required searches ran in this session: seven web searches (superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement or treaty, name with \"AI safety\", one restricted to watsoncoleman.house.gov, and one on Ban Artificial Superintelligence Act cosponsors). None of the topic searches returned any material about her. Ban Artificial Superintelligence Act (H.R. 10538, introduced 2026-09-24 by Rep. Casar): a FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) listed 12 cosponsors and she was not among them; Congress.gov was not checked this session (it returned HTTP 403 in the earlier attempt), so absence is likely but not confirmed from the official record. No House letter about AI risk of her own was found. Kept from the earlier attempt (pages opened then): the 2026-03-06 data center press release quote, which was read through a page-fetch tool that returned it in short segments; consecutive segments were joined, so a reviewer should confirm the exact wording. Also from the earlier attempt: her legislation listing pages, the 2026-11-09 Sentinel Data Center release (no direct quote from her), and the Ocasio-Cortez release listing her as a cosponsor of the AI Data Center Moratorium Act. Seen only in a search result summary and not used as statements: she co-introduced the Ban AI Denials in Medicare Act with Rep. Landsman, and a newsletter of hers reportedly calls using AI to deny Medicare recipients coverage \"a perverse use of this technology\" and says AI \"has the potential to unlock a new age of human flourishing\"; the newsletter PDF (https://watsoncoleman.house.gov/imo/media/doc/Watson%20Coleman%20Weekly%20Update%2020251205.pdf) could not be read as text and the Landsman release returned HTTP 410, so this wording is unverified. Both are level D in subject matter. Other AI-related items, level D in subject matter: a 2026-06-24 letter with Rep. Tlaib to the Federal Insurance Office on AI in auto insurance pricing (https://watsoncoleman.house.gov/imo/media/doc/repswatsoncolemanandtlaibfioletter.pdf), and a March 2025 letter to the Office of Personnel Management asking whether AI was used to review federal employee responses (https://watsoncoleman.house.gov/imo/media/doc/opm_letter.pdf)."
+}

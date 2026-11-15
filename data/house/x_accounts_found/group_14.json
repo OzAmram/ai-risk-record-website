@@ -1,0 +1,52 @@
+[
+ {
+  "id": "ELECT-MI-07-LAWRENCE",
+  "name": "Will Lawrence",
+  "accounts": [
+   {"handle": "wewill2026", "account_type": "campaign", "evidence_url": "https://wewill2026.com/", "evidence": "His campaign site, titled 'William Lawrence for Congress | Michigan's 7th District', links x.com/wewill2026 in its top navigation and footer."},
+   {"handle": "WeWillMi", "account_type": "campaign", "evidence_url": "https://wewill2026.com/", "evidence": "The same campaign site links x.com/WeWillMi in a second navigation bar."}
+  ],
+  "notes": "Campaign site found via the Wikipedia article William_Lawrence_(activist), which lists wewill2026.com. The site links two different X handles; which is current or primary was not checked (one may be an older or secondary campaign account). No personal account was found; three searches used, none refused. Ballotpedia page returned empty content."
+ },
+ {
+  "id": "ELECT-MI-10-HINES",
+  "name": "Christina Hines",
+  "accounts": [
+   {"handle": "cbhines586", "account_type": "campaign", "evidence_url": "https://christinahinesforcongress.com/", "evidence": "Her campaign site links twitter.com/cbhines586 in the header menu and footer social icons."}
+  ],
+  "notes": "Handle may be a personal account used by the campaign (the name does not say campaign); labelled campaign because the campaign site links it. Campaign domain found via search results. Ballotpedia page returned empty content. Two searches used, none refused."
+ },
+ {
+  "id": "ELECT-MI-11-MOSS",
+  "name": "Jeremy Moss",
+  "accounts": [
+   {"handle": "JeremyAllenMoss", "account_type": "personal", "evidence_url": "https://votejeremymoss.com/", "evidence": "His campaign site votejeremymoss.com links x.com/JeremyAllenMoss in the header and footer social icons."}
+  ],
+  "notes": "Account looks like his long-standing personal account used for the campaign; whether a separate Michigan state senate official account exists was not checked. One search used, none refused."
+ },
+ {
+  "id": "ELECT-MI-13-MCKINNEY",
+  "name": "Donavan McKinney",
+  "accounts": [
+   {"handle": "DonavanMI13", "account_type": "campaign", "evidence_url": "https://www.donavanforcongress.com/", "evidence": "His campaign site donavanforcongress.com links x.com/DonavanMI13 in the header, mobile menu and footer."}
+  ],
+  "notes": "No separate personal or state-house official account was looked for beyond the campaign site. One search used, none refused."
+ },
+ {
+  "id": "ELECT-MN-02-LITTLE",
+  "name": "Matt Little",
+  "accounts": [
+   {"handle": "LittleCongress", "account_type": "campaign", "evidence_url": "https://littleforcongress.com/", "evidence": "His campaign site littleforcongress.com (Lakeville-based, Minnesota District 2) links x.com/LittleCongress in the footer."}
+  ],
+  "notes": "No personal account found on the campaign site. One search used, none refused."
+ },
+ {
+  "id": "ELECT-MO-02-WELLMAN",
+  "name": "Fred Wellman",
+  "accounts": [
+   {"handle": "wellmanformo", "account_type": "campaign", "evidence_url": "https://wellmanformo.com/", "evidence": "His campaign site wellmanformo.com (committee Wellman for Missouri) links x.com/wellmanformo in the footer."},
+   {"handle": "FPWellman", "account_type": "personal", "evidence_url": "https://fpwellman.substack.com/about", "evidence": "His 'On Democracy with FPWellman' Substack about page links twitter.com/FPWellman under 'Where you can find me', saying he keeps the account but is less active there."}
+  ],
+  "notes": "Campaign domain found via search results quoting a campaign statement and FEC filing. Ballotpedia page returned empty content. Two searches used, none refused."
+ }
+]

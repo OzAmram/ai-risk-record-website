@@ -1,0 +1,24 @@
+{
+  "bioguide": "R000612",
+  "member": "John W. Rose",
+  "searches": [
+    "John Rose artificial intelligence site:johnrose.house.gov",
+    "Rep. John Rose Tennessee superintelligence",
+    "\"John Rose\" congressman AI extinction existential risk",
+    "\"John Rose\" Tennessee AI pause slowdown moratorium",
+    "\"John Rose\" congressman China AI agreement treaty",
+    "\"John Rose\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade.",
+  "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act; none returned a statement by Rose about AI, AI risk, superintelligence, a pause or slowdown, or China AI talks (several results were about other members, e.g. Rep. John Moolenaar and Rep. John McGuire, and were not used). Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats, and Rose is not among them; Congress.gov returned 403 so the official list was not checked. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Official press release listing (https://johnrose.house.gov/media/press-releases) was opened again: newest release is 23 March 2026, and earlier pages (checked in the previous attempt) cover back to 5 March 2025; no title mentions AI, superintelligence or China technology, but full release texts were not opened. A search result summary says the House Clerk lists him on an Agriculture subcommittee covering Digital Assets, Financial Technology and Artificial Intelligence (https://clerk.house.gov/members/R000612); hearing remarks there were not found. A Wikipedia mirror says he ran for Tennessee governor in 2026; campaign statements were not specifically checked."
+}

@@ -1,0 +1,92 @@
+{
+ "bioguide": "M001215",
+ "member": "Mariannette Miller-Meeks",
+ "searches": [
+  "site:millermeeks.house.gov artificial intelligence",
+  "Miller-Meeks superintelligence",
+  "Miller-Meeks AI extinction existential risk",
+  "Miller-Meeks AI pause slowdown moratorium",
+  "Miller-Meeks China AI agreement treaty",
+  "\"Miller-Meeks\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Miller-Meeks"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-01",
+   "venue": "Press release",
+   "quote": "The Protecting Kids from Human-Like Chatbots Act puts parents in control and makes sure AI chatbots used by minors are designed to function as tools, without forming fake relationships.",
+   "context": "Introducing the bipartisan Protecting Kids from Human-Like Chatbots Act with Reps. Whitesides, Kennedy and Matsui.",
+   "source_label": "House press release",
+   "url": "https://millermeeks.house.gov/media/press-releases/miller-meeks-introduces-bipartisan-legislation-protect-children-human-chatbots",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About protecting children from human-like AI chatbots; no catastrophic risk acknowledged."
+  },
+  {
+   "date": "2026-07-17",
+   "venue": "Press release",
+   "quote": "We cannot allow the mistakes of the social media era to be repeated with Artificial Intelligence,",
+   "context": "Introducing the Conversational AI Services Act, modeled on Iowa's SF 2417, on chatbot harms to children's mental health.",
+   "source_label": "House press release",
+   "url": "https://millermeeks.house.gov/media/press-releases/modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About children's mental health and chatbots, which the rubric places at D."
+  },
+  {
+   "date": "2025-06-27",
+   "venue": "Press release on Capitol Hill briefing",
+   "quote": "Artificial intelligence holds tremendous potential to improve the effectiveness and efficiency of healthcare delivery",
+   "context": "A briefing she hosted on 25 June 2025 promoting AI in healthcare.",
+   "source_label": "House press release",
+   "url": "https://millermeeks.house.gov/media/press-releases/rep-miller-meeks-hosts-capitol-hill-briefing-showcasing-breakthroughs",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes AI in healthcare; no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found in the 7 searches or her press releases.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found in the 7 searches or her press releases.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found in the 7 searches or her press releases.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found in the 7 searches or her press releases.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the bipartisan Protecting Kids from Human-Like Chatbots Act.",
+   "House press release, 2026-10-01",
+   "https://millermeeks.house.gov/media/press-releases/miller-meeks-introduces-bipartisan-legislation-protect-children-human-chatbots"
+  ],
+  [
+   "Introduced the Conversational AI Services Act on chatbot protections for minors.",
+   "House press release, 2026-07-17",
+   "https://millermeeks.house.gov/media/press-releases/modeled-after-iowa-law-rep-miller-meeks-introduces-bill-shield-kids-predatory"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "She has spoken about AI in 2026 (two child-safety bills on chatbots) and 2025 (AI in healthcare), but nothing found acknowledges catastrophic risk.",
+ "notes": "All 7 web searches ran (none refused). None found any statement by her on superintelligence, extinction or existential risk, a pause, slowdown or moratorium of AI development, an AI agreement with China, or self-improving AI. Ban Artificial Superintelligence Act (H.R. 10538, introduced September 2026 by Rep. Casar): no source found showing her as a co-sponsor; the congress.gov cosponsor page returned 403 so the official list was not checked directly; news coverage names only Democratic co-sponsors. Search results on China agreements and extinction were about other people with similar names (Rep. Gregory Meeks, Geoffrey Miller, Jim Miller), not her. Earlier work kept: her press release archive (millermeeks.house.gov/media/press-releases pages 0 to 24, back to May 2024) was scanned by title for AI terms and the four AI-titled releases were opened; release bodies of unrelated releases were not all read. Also seen but not included: 2025-09-23 release backing autonomous AI eye exams for diabetics (D); a Storm Lake Radio report dated 2025-09-04 on an Energy and Commerce chatbot hearing where she called for 'clear standards' for chatbots and spoke about trust in chatbots by age (D, 2025, not included because the three D statements are more substantial). A LessWrong post says she co-sponsored a 'CATS Act'; not verified and not included. Not checked in depth: House floor speeches, full hearing transcripts, interviews."
+}

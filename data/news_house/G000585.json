@@ -1,0 +1,24 @@
+{
+  "bioguide": "G000585",
+  "member": "Jimmy Gomez",
+  "searches": [
+    "Jimmy Gomez artificial intelligence site:gomez.house.gov",
+    "\"Jimmy Gomez\" \"AI safety\"",
+    "\"Jimmy Gomez\" superintelligence",
+    "\"Jimmy Gomez\" AI extinction OR existential risk",
+    "\"Jimmy Gomez\" AI pause OR slowdown OR moratorium",
+    "\"Jimmy Gomez\" China AI agreement OR treaty",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Gomez"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI since January 2025 was found in news or on his official site, so there is nothing to grade.",
+  "notes": "Seven web searches ran; none was refused. Results for Gomez and AI were thin, so the search may be incomplete. Results matching 'Gomez' were other people (FCC Commissioner Anna Gomez, Cohere CEO Aidan Gomez, photographer Finn Gomez). No source showed him as a cosponsor of the Ban Artificial Superintelligence Act; the Congress.gov cosponsor page for H.R. 10538 returned 403 and could not be checked directly. The press release page on gomez.house.gov (DocumentTypeID=27) showed no AI-related titles; his cosponsored-bills page only links to Congress.gov. A Rep. Ted Lieu one-pager lists Gomez as joining the Block Nuclear Launch by Autonomous Artificial Intelligence Act, which was introduced in 2023 (before the 2025 window) and would be level D under ruling 3 (military use); not recorded. House multi-signer letters were not searched, per instructions."
+}

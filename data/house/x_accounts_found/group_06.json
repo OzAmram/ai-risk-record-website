@@ -1,0 +1,52 @@
+[
+ {
+  "id": "H001095",
+  "name": "Wesley Hunt",
+  "accounts": [
+   {"handle": "RepWPH", "account_type": "official", "evidence_url": "https://hunt.house.gov", "evidence": "His official House website links to x.com/RepWPH as its X account."},
+   {"handle": "WesleyHuntTX", "account_type": "personal", "evidence_url": "https://www.fox26houston.com/news/hunt-accuses-cornyn-doxxing-voter-fraud-allegations", "evidence": "A FOX 26 Houston article links two posts by Hunt from the WesleyHuntTX account during his 2026 Senate primary dispute with the Cornyn campaign."}
+  ],
+  "notes": "The handle on file, RepWesleyHunt, appears to have been replaced by RepWPH (as linked from hunt.house.gov). WesleyHuntTX is his personal/political account; it may also have served as his Senate campaign account. I did not find a separate campaign website."
+ },
+ {
+  "id": "W000831",
+  "name": "James R. Walkinshaw",
+  "accounts": [
+   {"handle": "Rep_Walkinshaw", "account_type": "official", "evidence_url": "https://walkinshaw.house.gov", "evidence": "His official House website links to x.com/Rep_Walkinshaw."},
+   {"handle": "JamesWalkinshaw", "account_type": "campaign", "evidence_url": "https://jameswalkinshaw.org/", "evidence": "His campaign website links to x.com/JamesWalkinshaw."}
+  ],
+  "notes": "JamesWalkinshaw is linked from the campaign site; it may also be his longtime personal account (he used this name before Congress)."
+ },
+ {
+  "id": "R000621",
+  "name": "Emily Randall",
+  "accounts": [
+   {"handle": "emilyrandallwa", "account_type": "campaign", "evidence_url": "https://electemilyrandall.com/", "evidence": "Her campaign website's Twitter icon links to electemilyrandall.com/twitter, which redirects to twitter.com/emilyrandallwa."}
+  ],
+  "notes": "Her official House website (randall.house.gov) links Facebook, Instagram, Bluesky and YouTube but no X account, so no official X account was found. The handle came from the campaign site's /twitter redirect (checked with an HTTP header request); the campaign site may date from her 2024 run, but the redirect was live on 14 November 2026."
+ },
+ {
+  "id": "ELECT-AL-01-CARL",
+  "name": "Jerry Carl",
+  "accounts": [
+   {"handle": "CarlForAlabama", "account_type": "campaign", "evidence_url": "https://aldailynews.com/?p=190118", "evidence": "An Alabama Daily News article embeds a 22 June 2026 post from @CarlForAlabama in which Carl thanks President Trump for endorsing his bid for Alabama's 1st District."}
+  ],
+  "notes": "A search result summary said ProPublica Politwoops lists RepJerryCarl as his former official House account (2021-2025), but the Politwoops page I opened did not show the handles, so it is not included. A new official account will probably be created after he is sworn in. I could not open his Ballotpedia page (blocked) and did not find a separate campaign website."
+ },
+ {
+  "id": "ELECT-AZ-01-SHAH",
+  "name": "Amish Shah",
+  "accounts": [
+   {"handle": "DrAmishShah", "account_type": "campaign", "evidence_url": "https://www.amishforarizona.com", "evidence": "His campaign website links to twitter.com/DrAmishShah."}
+  ],
+  "notes": "DrAmishShah probably also serves as his personal account. No official House account yet (representative-elect)."
+ },
+ {
+  "id": "ELECT-AZ-05-LAMB",
+  "name": "Mark Lamb",
+  "accounts": [
+   {"handle": "sherifflamb1", "account_type": "campaign", "evidence_url": "https://marklamb.us/", "evidence": "His campaign website (listed by KJZZ as his campaign site) links to x.com/sherifflamb1."}
+  ],
+  "notes": "sherifflamb1 dates from his time as Pinal County sheriff and is probably his personal account, now linked from his campaign site. No official House account yet (representative-elect)."
+ }
+]

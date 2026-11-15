@@ -1,0 +1,25 @@
+{
+  "bioguide": "R000599",
+  "member": "Raul Ruiz",
+  "searches": [
+    "site:ruiz.house.gov artificial intelligence",
+    "Raul Ruiz superintelligence",
+    "Rep. Raul Ruiz AI extinction existential risk",
+    "Raul Ruiz AI pause slowdown moratorium",
+    "Raul Ruiz China AI agreement treaty",
+    "\"Raul Ruiz\" \"AI safety\"",
+    "Congressman Raul Ruiz artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statements by Rep. Raul Ruiz about AI, let alone catastrophic AI risk, were found in 2025 or 2026 news or on his official site.",
+  "notes": "8 web searches ran, none refused. None of the search results mentioned Ruiz in connection with AI. The site-restricted search returned no ruiz.house.gov pages; I opened https://ruiz.house.gov/?page=0 directly and its latest press releases (October-November 2026) are on health care, veterans and a conference speech, with no AI content. Older press release pages were not checked one by one, so a passing AI mention there could have been missed. The FastDemocracy page for the Ban Artificial Superintelligence Act (H.R. 10538, https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Ruiz is not among them; congress.gov was not checked. Per instructions, the multi-signer House letters of August-September 2026 were not searched."
+}

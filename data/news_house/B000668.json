@@ -1,0 +1,37 @@
+{
+  "bioguide": "B000668",
+  "member": "Cliff Bentz",
+  "searches": [
+    "Bentz artificial intelligence (restricted to bentz.house.gov)",
+    "Cliff Bentz superintelligence",
+    "Cliff Bentz AI extinction existential risk",
+    "Cliff Bentz AI pause slowdown moratorium",
+    "Cliff Bentz China AI agreement treaty",
+    "\"Cliff Bentz\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2025-06-13",
+      "venue": "Statement posted on his official site (In the News)",
+      "quote": "fight to win the race for artificial intelligence, superiority, and energy dominance.",
+      "context": "Bentz backed a White House action on Columbia River Basin hydropower and dams, tying it to the national push to lead in AI and energy.",
+      "source_label": "bentz.house.gov, In the News",
+      "url": "https://bentz.house.gov/media/in-the-news/congressman-cliff-bentz-joins-white-house-support-stop-environmentalism-generate",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "A passing mention of winning the AI race against rivals in a statement about hydropower; competition is not catastrophic risk (ruling 5), and it is close to off topic."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only remark about AI found since January 2025 is a passing June 2025 mention of winning the AI race, with nothing on catastrophic risk; no AI statement from 2026 was found. A reviewer could reasonably treat that mention as off topic and set the grade to none.",
+  "notes": "All seven web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act). None of the five name-plus-topic searches (superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement or treaty, AI safety) returned any page mentioning Bentz. The official-site search returned only the June 2025 hydropower statement. The quote in that statement came through a page-fetch tool that would only give a short fragment, so the exact wording and punctuation (including the comma after 'artificial intelligence') should be checked on the page; a second address under /media/press-releases/ for the same title returned HTTP 404. Ban Artificial Superintelligence Act (H.R. 10538): the fastdemocracy.com bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Bentz is not among them; news reports name other cosponsors and none name Bentz. Congress.gov was not checked (it returned HTTP 403 in the earlier attempt). No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Kept from the earlier attempt: his official press release listing (https://bentz.house.gov/media/press-releases, pages 1 and 2, about 30 releases from 12 December 2025 to 11 November 2026) showed no title or excerpt mentioning AI, superintelligence, China AI talks or data centers; only excerpts were seen, not full texts."
+}

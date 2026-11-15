@@ -1,0 +1,41 @@
+{"bioguide": "S001211", "member": "Greg Stanton",
+ "searches": [
+  "site:stanton.house.gov artificial intelligence",
+  "\"Greg Stanton\" AI safety",
+  "\"Greg Stanton\" superintelligence",
+  "\"Stanton\" Arizona congressman AI extinction OR \"existential risk\"",
+  "\"Greg Stanton\" AI pause OR moratorium OR slowdown",
+  "\"Greg Stanton\" China AI agreement OR treaty",
+  "\"Rep. Greg Stanton\" \"artificial intelligence\""
+ ],
+ "statements": [
+  {"date": "2026-09-23", "venue": "House Select Committee on the Chinese Communist Party hearing, remarks as prepared",
+   "quote": "But neither Washington nor Beijing wants a rogue actor using AI to launch a cyber attack that takes down the global economy, or to build and release a bioweapon. That shared concern is where cooperation has to start.",
+   "context": "Remarks ahead of the Trump-Xi meeting calling for a US-China agreement on basic AI safeguards.",
+   "source_label": "Rep. Greg Stanton press release, 23 September 2026", "url": "https://stanton.house.gov/media/press-releases/stanton-calls-for-ai-safeguards-ahead-of-trump-xi-meeting",
+   "read_at_source": true, "level": "C", "flags": ["misuse_only"],
+   "reason": "Names catastrophic harms (an AI bioweapon, a cyberattack that takes down the global economy) but only from misuse by a rogue actor, which is C under the misuse-only ruling."},
+  {"date": "2026-09-23", "venue": "House Select Committee on the Chinese Communist Party hearing, remarks as prepared",
+   "quote": "Our critical infrastructure . . . including our energy grid . . . are exposed to AI-powered cyberattacks that could have catastrophic consequences for our communities.",
+   "context": "Same hearing remarks, describing threats from a rogue actor using AI for malicious ends.",
+   "source_label": "Rep. Greg Stanton press release, 23 September 2026", "url": "https://stanton.house.gov/media/press-releases/stanton-calls-for-ai-safeguards-ahead-of-trump-xi-meeting",
+   "read_at_source": true, "level": "C", "flags": ["misuse_only"],
+   "reason": "Says AI-powered cyberattacks could be catastrophic, a misuse harm only, so C."},
+  {"date": "2026-09-23", "venue": "House Select Committee on the Chinese Communist Party hearing, remarks as prepared",
+   "quote": "But President Trump’s full steam ahead, safety be damned approach to AI has to change. The consequences of inaction are incredibly serious.",
+   "context": "Same hearing remarks; the consequences he goes on to list are unprotected workers, intellectual property theft and misuse by rogue actors.",
+   "source_label": "Rep. Greg Stanton press release, 23 September 2026", "url": "https://stanton.house.gov/media/press-releases/stanton-calls-for-ai-safeguards-ahead-of-trump-xi-meeting",
+   "read_at_source": true, "level": "D", "flags": ["boundary"],
+   "reason": "A general call for AI safety with 'incredibly serious' consequences but no catastrophic danger from AI itself named, so D under ruling 4; near C."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement for or against slowing frontier AI. In the 23 September 2026 remarks he asks why the administration eases chip sales 'If China’s progress is the reason we supposedly cannot slow down for safety', which hints at sympathy but is not a stated position.", "sources": [["Rep. Greg Stanton press release, 2026-09-23", "https://stanton.house.gov/media/press-releases/stanton-calls-for-ai-safeguards-ahead-of-trump-xi-meeting"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "He calls for a Trump-Xi agreement on 'basic safeguards' against misuse (cyberattacks, bioweapons), not on the pace of frontier AI development, so it does not meet the definition. A reviewer could consider this borderline.", "sources": [["Rep. Greg Stanton press release, 2026-09-23", "https://stanton.house.gov/media/press-releases/stanton-calls-for-ai-safeguards-ahead-of-trump-xi-meeting"]]},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "C",
+ "grade_reason": "His strongest 2026 statements (23 September 2026 hearing remarks) name catastrophic harms such as an AI-built bioweapon and cyberattacks that take down the global economy, but only from misuse by rogue actors, which is C under the misuse-only ruling. No dismissive statement found.",
+ "notes": "Seven web searches ran (six required plus one general name search); none were refused. The site-restricted search returned nothing from stanton.house.gov, so I opened his press release list page directly (page 1, August to October 2026); only one AI release found, plus a 23 September 2026 data center letter about water, energy and public review on federal land (no AI risk content, not recorded). The press release text says he urged cooperation to 'prevent catastrophic misuse', but that is staff wording, not his quote, so it was left out. The release says he signed a 18 September 2026 House Foreign Affairs Committee letter (26 Democrats) to Rubio and Bessent on US-China AI safety dialogue and the letter of 107 members to Speaker Johnson; both are among the centrally handled multi-signer letters and were left out. The hearing date is taken as the press release date (23 September 2026; remarks say the Trump-Xi meeting is 'tomorrow'). No source found showing he co-sponsored the Ban Artificial Superintelligence Act; congress.gov was not checked. A search snippet (biztoc.com aggregator) said Stanton urged Speaker Johnson on a Sunday to keep lawmakers in session over AI risks, but the page I opened did not show this, so it is unverified and left out."
+}

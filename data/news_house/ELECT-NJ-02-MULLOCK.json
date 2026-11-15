@@ -1,0 +1,24 @@
+{"bioguide": "ELECT-NJ-02-MULLOCK", "member": "Zack Mullock",
+ "searches": [
+  "Zack Mullock artificial intelligence AI safety",
+  "\"Mullock\" Cape May congress superintelligence",
+  "Zack Mullock NJ-2 congress campaign Van Drew",
+  "\"Zack Mullock\" AI extinction OR existential risk",
+  "\"Mullock\" AI pause OR moratorium OR slowdown OR \"data center\" New Jersey",
+  "\"Zack Mullock\" China AI agreement OR treaty",
+  "Mullock data center moratorium Van Drew 2nd District artificial intelligence",
+  "Zack Mullock for Congress campaign website issues",
+  "\"Mullock\" \"data centers\" Van Drew moratorium tax breaks"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI. A reported (unverified) support for a data center moratorium was about learning more about their local impacts, not about risk from AI itself, so it does not count.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found. He did not answer the China question on the iVoterGuide questionnaire.", "sources": [["iVoterGuide candidate page", "https://ivoterguide.com/candidate/94523/race/33265/election/1478"]]},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Mullock about AI was found in his own words; his campaign site and candidate questionnaire do not mention AI, and the only AI-adjacent item is an unverified news paraphrase about a data center moratorium.",
+ "notes": "9 web searches ran, none refused. Identity confirmed: Zack Mullock, two-term Democratic mayor of Cape May, won the 2 June 2026 NJ-2 primary and beat Rep. Jeff Van Drew on 3 November 2026 (WHYY, New Jersey Globe, Inquirer results coverage). Campaign site https://mullockforcongress.com/ and its issues page https://mullockforcongress.com/issues (read 2026-11-14) contain nothing on AI, technology, data centers or China; issues include Economy & Jobs, Healthcare, Housing, Veterans, Environment & Climate (solar and renewable energy). iVoterGuide questionnaire (https://ivoterguide.com/candidate/94523/race/33265/election/1478): no AI answers; China question 'Did not answer'. Paraphrase only, left out of statements: a search-tool summary of a news result (apparently a States Newsroom / New Jersey Monitor article, https://www.newsfromthestates.com/node/434617, which returned HTTP 403 and could not be opened) said Mullock 'would support a moratorium on data center development until policymakers can learn more about their impacts' and opposes tax breaks for developers. Not verified at source and not about catastrophic risk; if the reviewer can confirm it and counts data-center policy as 'about AI', the grade could be D instead of none. As a non-member he could not co-sponsor the Ban Artificial Superintelligence Act and did not sign the House letters. Ballotpedia page returned no content."
+}

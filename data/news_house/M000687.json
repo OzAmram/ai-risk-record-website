@@ -1,0 +1,66 @@
+{
+  "bioguide": "M000687",
+  "member": "Kweisi Mfume",
+  "searches": [
+    "Mfume artificial intelligence (restricted to mfume.house.gov)",
+    "Kweisi Mfume superintelligence",
+    "Mfume AI extinction existential risk",
+    "Mfume AI pause slowdown moratorium",
+    "Mfume China AI agreement treaty",
+    "\"Mfume\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-09",
+      "venue": "Press release on introducing the Power for the People Act with Rep. Tonko",
+      "quote": "They shouldn't have to also foot the bill for the most profitable corporations in the world to build data centers,",
+      "context": "Introducing a bill to make companies building data centers pay for the extra demand they put on the electric grid, so that consumers do not face higher energy bills.",
+      "source_label": "Mfume House press release",
+      "url": "https://mfume.house.gov/media/press-releases/reps-mfume-tonko-introduce-power-for-the-people-act-to-shield-consumers-from-rising-energy-costs",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About data centers and electricity costs, which the rubric places outside catastrophic AI risk; his own words do not mention AI directly."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development. The Power for the People Act concerns who pays for data center grid demand, not a moratorium.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-led with Rep. Tonko the Power for the People Act, meant to make companies building data centers pay their share of grid costs (electricity cost, not AI risk).",
+      "Mfume House press release, 2026-04-09",
+      "https://mfume.house.gov/media/press-releases/reps-mfume-tonko-introduce-power-for-the-people-act-to-shield-consumers-from-rising-energy-costs"
+    ],
+    [
+      "Not a sponsor or cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (led by Rep. Casar): he is absent from the 12-name cosponsor list.",
+      "FastDemocracy bill page, checked 2026-11-14",
+      "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related material found is a 2026 bill and statement about data centers driving up electricity costs, which is level D. All seven web searches ran and found nothing in which he acknowledges catastrophic risk from AI.",
+  "notes": "All seven web searches ran this time (the six required plus one on Ban Artificial Superintelligence Act cosponsors). None found any statement by Mfume on superintelligence, extinction or existential risk, a pause or slowdown, a China agreement, or AI safety; those searches returned only general material or other politicians. The official-site search surfaced three AI-related releases: the 9 April 2026 Power for the People Act release (kept from the earlier attempt, which read it at source; there the sentence 'The rise of artificial intelligence models has resulted in data center development exploding in recent years.' is press office narration, not his words), plus a Morgan State AI and climate research funding release and a Baltimore Tech Hub release, which the search snippets show are about funding and economic development (the AI quote seen in the Morgan State release is by Senator Cardin, not Mfume); these were not opened and contain nothing on catastrophic risk. A 17 September 2025 House Oversight subcommittee hearing on the future of AI (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61734/html/CHRG-119hhrg61734.htm) lists him only on the full committee roster; the transcript, opened through a page-fetch tool, shows he did not speak. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy page lists 12 cosponsors and Mfume is not among them; that list was read through a summarising page-fetch tool and may lag Congress.gov, which was not checked this time (it returned HTTP 403 in the earlier attempt). From the earlier attempt: his official press releases from 5 November 2025 to 16 October 2026 were screened by title and excerpt; earlier releases, floor speeches and interviews were covered only through the web searches above. The many-signer August and September 2026 House letters were not searched, per instructions. The press release tool split his remarks into pieces because of a quote length limit; the quote used lies within one piece and was copied exactly as shown."
+}

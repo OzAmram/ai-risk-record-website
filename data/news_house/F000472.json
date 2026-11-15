@@ -1,0 +1,61 @@
+{
+  "bioguide": "F000472",
+  "member": "Scott Franklin",
+  "searches": [
+    "Scott Franklin artificial intelligence site:franklin.house.gov",
+    "Rep. Scott Franklin superintelligence",
+    "Rep. Scott Franklin Florida AI extinction existential risk",
+    "Rep. Scott Franklin AI pause slowdown moratorium",
+    "Rep. Scott Franklin China AI agreement treaty",
+    "\"Scott Franklin\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors list"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "venue": "Press release on the FRONTIER Act",
+      "quote": "It takes a targeted approach by focusing only on the handful of companies developing the most powerful frontier AI models, not the startups and innovators driving America's AI ecosystem.",
+      "context": "Franklin describing the FRONTIER Act, introduced by Rep. Jay Obernolte with Franklin as an original cosponsor, to set federal rules for the most advanced AI models.",
+      "source_label": "Franklin House press release",
+      "url": "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=1922",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "His own words are about the scope of regulation and protecting smaller innovators; they do not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Original cosponsor of the FRONTIER Act (introduced by Rep. Jay Obernolte): a tiered federal framework for the most advanced AI models with model cards, risk-management frameworks, independent audits, incident reporting and catastrophic-risk assessments.",
+      "Franklin House press release, 2026-07-23; Ripon Advance, 2026-07-27",
+      "https://franklin.house.gov/news/documentsingle.aspx?DocumentID=1922"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Franklin has spoken about AI in 2026, mainly as an original cosponsor of the FRONTIER Act, but in his own words he does not acknowledge catastrophic risk; the catastrophic-risk language in the release is Obernolte's.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra search on the Ban Artificial Superintelligence Act cosponsors (7 in total). None found a Franklin statement on superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. I re-opened the FRONTIER Act release (2026-07-23) and confirmed that the quoted sentence is inside Franklin's own quotation and that 'catastrophic risk' appears only in Obernolte's quotation ('protect Americans from catastrophic risk'); Franklin's quotation does not mention safety, risk or dangers. The page-fetch tool would not return the full text verbatim, so a reviewer should still check the exact wording at the source. Caution: one search-engine summary wrongly attributed the 'protect Americans from catastrophic risk' line to Franklin; the release itself attributes it to Obernolte. The release says Franklin joined as an original cosponsor of Obernolte's bill (Ripon Advance frames it as Obernolte and Franklin offering the bill). A reviewer may consider whether cosponsoring a bill with catastrophic-risk assessments merits C under the bill_or_action flag; I kept D because his own words do not mention catastrophic risk. Other AI activity found, all D or before the 2025 cutoff: he supported the Great American AI Act discussion draft (Obernolte and Trahan; Ripon Advance reports him saying it is meant to gather stakeholder feedback, paraphrase not used); the release says he backed more FY27 funding for the Center for AI Standards and Innovation; he introduced the TAME Extreme Weather and Wildfires Act on AI for weather forecasting; he and Rep. McCormick wrote to Commerce Secretary Lutnick about an AI export rule; he served on the 2024 House AI Task Force. Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 September 2026): no source found showing Franklin as a cosponsor; the reported cosponsors are Democrats. Ripon Advance URL: https://riponadvance.com/stories/obernolte-franklin-offer-bipartisan-bill-to-set-national-rules-for-advanced-ai/"
+}

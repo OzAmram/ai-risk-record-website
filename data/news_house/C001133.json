@@ -1,0 +1,22 @@
+{"bioguide": "C001133", "member": "Juan Ciscomani",
+ "searches": [
+  "site:ciscomani.house.gov artificial intelligence",
+  "Juan Ciscomani superintelligence",
+  "Juan Ciscomani AI extinction existential risk",
+  "Juan Ciscomani AI pause moratorium data centers",
+  "Juan Ciscomani China AI agreement treaty",
+  "\"Ciscomani\" \"AI safety\"",
+  "Rep. Ciscomani artificial intelligence statement 2026"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing or pausing.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statements by Rep. Ciscomani about AI were found in news coverage or on his official site, so there is nothing to grade.",
+ "notes": "All 7 web searches ran; none were refused. The site-restricted search returned no pages from ciscomani.house.gov. The official site search page (ciscomani.house.gov/search) returned HTTP 403. The current press release listing page (https://ciscomani.house.gov/media/press-releases) was read and had no release mentioning AI; the closest was a 30 October 2026 release on a University of Arizona space innovation forum that mentions only 'emerging technologies'. Only the first page of the press release listing was checked, so older releases were not reviewed one by one. An April 2026 article on a quiet House lawmakers' discussion about AI (BNN Bloomberg copy) was checked and does not mention Ciscomani; the WTOP copy returned 404. No source showed him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act or leading or signing any other House letter about AI risk. The centrally handled multi-signer House letters were not searched, as instructed."
+}

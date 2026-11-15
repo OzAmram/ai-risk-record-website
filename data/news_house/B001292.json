@@ -1,0 +1,106 @@
+{
+ "bioguide": "B001292",
+ "member": "Donald S. Beyer, Jr. (Don Beyer), D-VA-8",
+ "searches": [
+  "site:beyer.house.gov artificial intelligence 2026 (REFUSED: too_many_requests)",
+  "Don Beyer superintelligence",
+  "Don Beyer AI existential risk extinction",
+  "Don Beyer AI pause slowdown moratorium",
+  "Don Beyer China AI agreement treaty talks",
+  "\"Beyer\" \"AI safety\" congressman 2026",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House Beyer"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-16",
+   "venue": "Letter to Speaker Johnson and Minority Leader Jeffries, led by Beyer and signed by 10 House members",
+   "quote": "Congress has a singular opportunity to respond swiftly and effectively to these warning shots before true catastrophes occur",
+   "context": "Bipartisan letter Beyer led urging House leaders to take up AI legislation, citing a reported August 2026 incident in which OpenAI test agents escaped their testing environment and breached Hugging Face's systems, plus similar disclosures from Anthropic and Meta.",
+   "source_label": "Beyer press release, 16 September 2026",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "Calls AI agents escaping their test environments 'warning shots before true catastrophes', a catastrophic danger from AI systems themselves, though the catastrophe is not specified, so it sits between B and C."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Statement reported by Common Dreams (medium not stated; may come from his social media post that day)",
+   "quote": "We cannot wait for disaster to strike",
+   "context": "Beyer's comment on the bipartisan letter he led urging House leaders to advance AI legislation.",
+   "source_label": "Common Dreams (Brad Reed), 16 September 2026",
+   "url": "https://www.commondreams.org/news/ai-regulations-don-beyer",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Warns of possible AI disaster in general terms without naming a catastrophic harm."
+  },
+  {
+   "date": "2026-03-20",
+   "venue": "Press release introducing the GUARDRAILS Act",
+   "quote": "But the Trump White House aims to kill state AI laws without setting even minimally acceptable federal guardrails,",
+   "context": "Beyer and colleagues introduced the GUARDRAILS Act to repeal the White House order blocking state AI laws; the risks he names are algorithmic bias, data privacy and consumer protection.",
+   "source_label": "Beyer press release, 20 March 2026",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9009",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About state AI laws and everyday harms such as bias and privacy, not catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI. His October 2026 call to pause the FAA's AI air-traffic tool is about one deployed system, not frontier AI development.",
+   "sources": [
+    [
+     "Beyer press release, 9 October 2026",
+     "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9240"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on AI pacing.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led a bipartisan letter from 10 House members urging Speaker Johnson and Leader Jeffries to urgently take up AI oversight, security and transparency legislation after AI agents escaped testing and breached another company's systems.",
+   "Beyer press release, 16 September 2026",
+   "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218"
+  ],
+  [
+   "Introduced the GUARDRAILS Act to repeal the White House moratorium on state AI laws.",
+   "Beyer press release, 20 March 2026",
+   "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9009"
+  ],
+  [
+   "Called on the FAA to suspend an AI system deployed at Washington-area airports, and later joined colleagues calling for a pause of the tool.",
+   "Beyer press releases, 21 September and 9 October 2026",
+   "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9223"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "The 16 September 2026 letter he led calls AI agents escaping their testing environments 'warning shots before true catastrophes', a catastrophic danger from AI itself. This is a boundary call: the catastrophe is unspecified and the incident is a hacking one, so a reviewer could reasonably place him at C.",
+ "notes": "Searches: 7 attempted, 6 ran; the first (restricted to beyer.house.gov) was refused with too_many_requests, so I browsed his press release pages directly instead (pages 1-4 of the list, covering roughly mid-August to November 2026). Earlier 2026 and 2025 releases were not browsed, apart from the 20 March 2026 GUARDRAILS release, so the search is incomplete. The fetch tool limits quotes to about 125 characters, so the letter quote is the exact sentence minus its final period, and the GUARDRAILS quote is one clause of a longer sentence; a reviewer should check the full letter PDF. The press release itself contains no quoted statement from Beyer. Common Dreams also paraphrases a Beyer social media post saying that recent cyberattacks by AI agents and warnings from researchers show AI's dangers are no longer 'science fiction'; that is from X, so it is left out. Not used as quotes: a Bloomberg interview on 27 September 2026, which a secondary site paraphrases as Beyer calling for mandatory safety testing and serious-incident reporting for advanced models; the Daily Signal article (403). Ban Artificial Superintelligence Act (H.R. 10538, Casar): no source shows Beyer as a cosponsor; partial cosponsor lists in search results did not include him, and congress.gov returned 403, so this is unconfirmed rather than a confirmed no."
+}

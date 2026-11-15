@@ -1,0 +1,48 @@
+[
+ {
+  "id": "ELECT-KY-04-GALLREIN",
+  "name": "Ed Gallrein",
+  "accounts": [
+   {"handle": "EdGallrein", "account_type": "campaign", "evidence_url": "https://edgallrein.com", "evidence": "Gallrein's campaign website links to https://x.com/EdGallrein alongside its Ed Gallrein for Congress Facebook page."}
+  ],
+  "notes": "No House official account yet (representative-elect). The site's X link was read via a page-summarizing fetch, not raw HTML."
+ },
+ {
+  "id": "ELECT-KY-06-DEMBO",
+  "name": "Zach Dembo",
+  "accounts": [
+   {"handle": "ZachDemboKY", "account_type": "campaign", "evidence_url": "https://zachdembo.com", "evidence": "Dembo's campaign website links to https://x.com/ZachDemboKY together with its Facebook, Instagram, Threads and YouTube accounts."}
+  ],
+  "notes": "No House official account yet (representative-elect). The site's X link was read via a page-summarizing fetch, not raw HTML."
+ },
+ {
+  "id": "ELECT-MA-06-KOH",
+  "name": "Dan Koh",
+  "accounts": [
+   {"handle": "dank", "account_type": "personal", "evidence_url": "https://www.kohforcongress.com", "evidence": "Koh's campaign website links to https://x.com/dank as his X account (confirmed in the raw page HTML)."}
+  ],
+  "notes": "The handle is unusual but appears verbatim in the campaign site's HTML; his other platforms use danarriggkoh or hawkkoh. It looks like his long-standing personal account used for the campaign, so account_type personal versus campaign is uncertain. No House official account yet."
+ },
+ {
+  "id": "ELECT-MD-05-BOAFO",
+  "name": "Adrian Boafo",
+  "accounts": [
+   {"handle": "AdrianBoafoMD", "account_type": "campaign", "evidence_url": "https://adrianboafo.com/", "evidence": "Boafo's campaign website links to https://x.com/AdrianBoafoMD; news coverage also says Steny Hoyer tagged @AdrianBoafoMD when endorsing him."}
+  ],
+  "notes": "This may also serve as his state delegate account; no separate Maryland delegate or House official X account was found. The site's X link was read via a page-summarizing fetch."
+ },
+ {
+  "id": "ELECT-ME-02-LEPAGE",
+  "name": "Paul LePage",
+  "accounts": [],
+  "notes": "Not found. The campaign site lepageforcongress.com has no social media links; the Ballotpedia page could not be read; three web searches found news saying he posts on X but none showed the handle. His governor-era account was not confirmed by any page opened this session, so it was not recorded. No searches refused."
+ },
+ {
+  "id": "ELECT-MI-04-MCCANN",
+  "name": "Sean McCann",
+  "accounts": [
+   {"handle": "SeanAMcCann", "account_type": "campaign", "evidence_url": "https://seanmccannforcongress.com/twitter", "evidence": "The Twitter link on McCann's campaign website (seanmccannforcongress.com/twitter) redirects with a 301 to https://x.com/SeanAMcCann; a search summary also says Gov. Whitmer tagged @SeanAMcCann."}
+  ],
+  "notes": "Probably his long-standing personal/state senator account used for the campaign. No separate Michigan Senate or House official X account was found."
+ }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ELECT-WI-03-COOKE",
+    "name": "Rebecca Cooke",
+    "accounts": [
+      {
+        "handle": "RebeccaForWI",
+        "account_type": "campaign",
+        "evidence_url": "https://cookeforwisconsin.com/",
+        "evidence": "Her campaign website links its Twitter icon to twitter.com/RebeccaForWI."
+      }
+    ],
+    "notes": "Representative-elect, so no House official account exists yet. Campaign press releases on wispolitics.com (2023, 2024) also list @RebeccaForWI."
+  },
+  {
+    "id": "ELECT-WI-07-ALFONSO",
+    "name": "Michael Alfonso",
+    "accounts": [
+      {
+        "handle": "mikealfonsowi",
+        "account_type": "campaign",
+        "evidence_url": "https://www.alfonsoforwisconsin.com/",
+        "evidence": "His campaign website links its X icon to x.com/mikealfonsowi and embeds that account's feed under the name Michael Alfonso."
+      }
+    ],
+    "notes": "Handle is written in lowercase on the campaign site; a Daily Caller image credit writes it as @MikeAlfonsoWI (X handles are case-insensitive). Representative-elect, so no House official account yet."
+  },
+  {
+    "id": "ELECT-WY-00-GRAY",
+    "name": "Chuck Gray",
+    "accounts": [
+      {
+        "handle": "ChuckGrayWY",
+        "account_type": "campaign",
+        "evidence_url": "https://chuckforwyoming.com/",
+        "evidence": "His campaign website (Chuck Gray for Congress) contains a link to twitter.com/ChuckGrayWY."
+      }
+    ],
+    "notes": "The campaign site page text did not render via the page reader; the link was found in the raw page source. Account may double as his personal account. The Wyoming Secretary of State office account (@wyomingsos, linked from sos.wyo.gov) belongs to the office he currently holds, not to him personally, so it is not listed. No House official account yet."
+  }
+]

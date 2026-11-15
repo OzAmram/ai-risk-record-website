@@ -1,0 +1,37 @@
+{
+  "bioguide": "ELECT-PA-07-BROOKS",
+  "member": "Bob Brooks",
+  "searches": [
+    "Bob Brooks Pennsylvania 7th district artificial intelligence",
+    "\"Bob Brooks\" AI safety",
+    "\"Bob Brooks\" superintelligence OR \"artificial general intelligence\" congress",
+    "\"Bob Brooks\" AI extinction OR \"existential risk\" OR \"loss of control\"",
+    "\"Bob Brooks\" AI pause OR slowdown OR moratorium Lehigh Valley",
+    "\"Bob Brooks\" China AI agreement OR treaty OR talks",
+    "Bob Brooks campaign site issues artificial intelligence data centers votebobbrooks"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-18",
+      "venue": "Campaign X post (@VoteBobBrooks), quoted in a news article",
+      "quote": "Utility costs are already too high. The last thing we need are data centers raising our energy costs",
+      "context": "Brooks backing Governor Shapiro's steps on data centers and their effect on electricity bills.",
+      "source_label": "Townhall, 16 October 2026",
+      "url": "https://townhall.com/news/amy-curtis/2026/10/16/bob-brooks-data-centers-n2684787",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About data centers and energy costs, which the rubric places outside catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI; his data center opposition is about energy costs and local input, which does not count.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related remarks found are 2026 campaign attacks on data centers over energy costs and Big Tech money; nothing on catastrophic AI risk was found.",
+  "notes": "Seven web searches ran, none refused. Brooks is a first-time candidate (retired Bethlehem firefighter, union leader) with no prior public office, so there are no official-office records. The campaign site could not be reached through search results and was not opened. The only quoted material on AI-adjacent topics comes from a Townhall (conservative-leaning) article quoting his @VoteBobBrooks X posts; the page was opened, but the text was returned through a page-summarising fetch tool, so the reviewer should confirm exact wording. Other posts quoted there: 26 September 2026 'Mackenzie cashes Big Tech's checks and then votes to support more data centers in our communities' (also D). Townhall also paraphrases him saying data centers are 'more of a local issue' (left out). The Transformer AI campaign finance tracker lists $263,250 from pro-safety super PACs (Jobs and Democracy PAC) supporting his primary; that is outside spending, not his statement. A Route Fifty / City & State article (15 September 2026) on Pennsylvania politicians' reactions to calls for an AI slowdown did not mention him in the version fetched. City & State's 16 October 2026 profile has no AI quotes. As a non-member he could not co-sponsor the Ban Artificial Superintelligence Act and did not sign the House letters. Search results for 'Brooks' and AI risk mostly concern roboticist Rodney Brooks, a different person."
+}

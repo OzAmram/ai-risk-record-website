@@ -1,0 +1,90 @@
+{
+  "bioguide": "R000305",
+  "member": "Deborah K. Ross",
+  "searches": [
+    "Deborah Ross artificial intelligence (restricted to ross.house.gov)",
+    "Rep. Deborah Ross superintelligence",
+    "Deborah Ross AI extinction existential risk",
+    "Deborah Ross AI pause slowdown moratorium",
+    "Rep. Deborah Ross China AI agreement treaty",
+    "\"Deborah Ross\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Ross"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-23",
+      "venue": "Press release",
+      "quote": "AI is already shaping how we work, communicate, and access information, and we must put appropriate safeguards in place to address the risks that come with this rapidly evolving technology.",
+      "context": "Introducing the bipartisan AI Flaw Reporting and Security Enhancement Act with Reps. Hurd and Beyer, a voluntary federal program for reporting AI vulnerabilities to NIST.",
+      "source_label": "House press release",
+      "url": "https://ross.house.gov/2026/6/ross-hurd-beyer-introduce-bipartisan-bill-to-strengthen-ai-security-and-vulnerability-reporting",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Mentions unspecified risks of AI and the need for safeguards, but names no catastrophic or serious danger from AI itself; the bill is about security vulnerabilities."
+    },
+    {
+      "date": "2026-04-28",
+      "venue": "Press release",
+      "quote": "AI has the profound potential to improve the lives of Americans, but we must put in place the necessary guardrails to manage the risks that come with this rapidly evolving field.",
+      "context": "Her AI Incident Reporting and Security Enhancement Act being included in the bipartisan American Leadership in AI Act package.",
+      "source_label": "House press release",
+      "url": "https://ross.house.gov/2026/4/ross-bill-included-in-bipartisan-proposal-to-advance-american-leadership-in-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "A general call for guardrails to manage unspecified risks, about AI security and incident tracking; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development. Her December 2025 letter opposed a federal moratorium on state AI laws, which is not about slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI. She is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538) on the FastDemocracy bill page.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the AI Flaw Reporting and Security Enhancement Act with Reps. Hurd and Beyer, a voluntary NIST program for reporting AI vulnerabilities",
+      "House press release, 23 June 2026",
+      "https://ross.house.gov/2026/6/ross-hurd-beyer-introduce-bipartisan-bill-to-strengthen-ai-security-and-vulnerability-reporting"
+    ],
+    [
+      "Her AI Incident Reporting and Security Enhancement Act was included in the bipartisan American Leadership in AI Act package",
+      "House press release, 28 April 2026",
+      "https://ross.house.gov/2026/4/ross-bill-included-in-bipartisan-proposal-to-advance-american-leadership-in-ai"
+    ],
+    [
+      "Introduced a bill letting independent musicians negotiate collectively with streaming platforms and AI developers",
+      "House press release, 21 May 2026",
+      "https://ross.house.gov/2026/5/news-ross-introduces-legislation-to-support-independent-musicians-and-ensure-fair-negotiations-with-streaming-platforms-and-ai-developers"
+    ],
+    [
+      "Led a letter from women lawmakers opposing a proposed federal moratorium on state AI regulation, citing protections for women and girls",
+      "House press release, 3 December 2025",
+      "https://ross.house.gov/2025/12/ross-leads-letter-from-women-lawmakers-opposing-proposed-ai-moratorium-that-would-jeopardize-protections-for-women-and-girls"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She speaks about AI often in 2026, mostly on AI security, vulnerability reporting and artists' pay, and calls in general terms for guardrails against AI risks, but no statement found acknowledges catastrophic risk from AI.",
+  "notes": "All seven web searches ran this time (the six required ones plus one on Ban Artificial Superintelligence Act cosponsors); none found any statement by her on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety in the catastrophic sense. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and she is not among them; Congress.gov returned HTTP 403 in the earlier attempt, so the official list was not checked. No House letter about AI risk led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Axios AI+DC Summit, 26 March 2026: a search summary says she argued the Constitution protects state-level AI regulation (paraphrase only, level D; the page returned HTTP 403 and was not read, so no quote taken). From the earlier attempt: her official press release pages 1 to 3 (May to October 2026) and the AI-related releases were opened directly; older press release pages, the In the News page, hearing remarks and interviews were not fully checked. The 21 May 2026 musicians bill release quotes her on AI use of artists' work without fair pay (level D, left out of statements). The 3 December 2025 letter release has no quote from her; the letter is about AI harms to women and girls (level D). Her 2024 bills with Rep. Beyer (Secure Artificial Intelligence Act) are before the January 2025 cutoff."
+}

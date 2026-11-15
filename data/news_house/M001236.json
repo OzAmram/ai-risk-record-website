@@ -1,0 +1,25 @@
+{"bioguide": "M001236", "member": "Tim Moore",
+ "searches": [
+  "site:timmoore.house.gov artificial intelligence",
+  "\"Tim Moore\" congressman \"AI safety\"",
+  "\"Tim Moore\" North Carolina congressman superintelligence",
+  "\"Rep. Tim Moore\" AI extinction OR existential risk",
+  "\"Rep. Tim Moore\" AI pause OR moratorium OR slowdown",
+  "\"Tim Moore\" congressman China AI agreement OR treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors",
+  "\"Tim Moore\" NC-14 \"artificial intelligence\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Introduced the Army Quantum Readiness Act, which would set up an Army initiative on quantum computing, sensing, networking and quantum-enabled AI for military operations; his own quoted words in the release do not mention AI (military technology, level D at most).", "House press release, 21 August 2026", "https://timmoore.house.gov/media/press-releases/congressman-tim-moore-introduces-army-quantum-readiness-act-advance-military"]
+ ],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Tim Moore about AI was found in news searches or in his press releases from January 2025 to October 2026; the only AI-related item is a military quantum computing bill whose description mentions quantum-enabled AI, which would be D under the military-use ruling.",
+ "notes": "All 8 web searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act and one on his name with artificial intelligence); none returned any statement by Tim Moore (NC-14) on AI. Results with similar names were other people (Rep. Riley Moore of West Virginia, Rep. Nathaniel Moran of Texas, Michigan state senator Mike Moore) and were left out. The site-restricted search returned no timmoore.house.gov pages. From the earlier attempt: all 12 pages of his press release listing (January 2025 to 30 October 2026) were opened by page fetch and showed no release about AI risk, superintelligence, AI safety, a pause or China AI talks; only the Army Quantum Readiness Act release (21 August 2026) mentions AI, in the bill description, not in Moore's quoted words. Those listing pages were summarized by a page-reading tool, so a release whose title does not mention AI could still contain AI wording. Ban Artificial Superintelligence Act (H.R. 10538, September 2026): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats, and Moore is not among them; congress.gov was not checked directly."
+}

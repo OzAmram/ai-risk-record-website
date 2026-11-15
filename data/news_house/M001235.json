@@ -1,0 +1,51 @@
+{
+  "bioguide": "M001235",
+  "member": "Riley M. Moore",
+  "searches": [
+    "Riley Moore artificial intelligence site:rileymoore.house.gov",
+    "\"Riley Moore\" superintelligence",
+    "\"Riley Moore\" AI extinction OR \"existential risk\"",
+    "\"Riley Moore\" AI pause OR slowdown OR moratorium",
+    "\"Riley Moore\" China AI agreement OR treaty",
+    "\"Riley Moore\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "venue": "Fox News Digital interview",
+      "quote": "But it also represents potentially the nuclear bomb for work as we know it in the world,",
+      "context": "Moore, a former welder, discussed AI as both a tool for blue-collar workers and a threat to jobs, human purpose and the dignity of work.",
+      "source_label": "Fox News",
+      "url": "https://foxnews.com/politics/welder-turned-lawmaker-sees-nuclear-bomb-work-chance-help-blue-collar-americans",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The 'nuclear bomb' comparison is about job loss, which ruling 5 puts at D; no catastrophic risk from AI itself is named."
+    },
+    {
+      "date": "2026-08-31",
+      "venue": "Press release",
+      "quote": "West Virginia families and American taxpayers should not be forced to foot the bill for massive data centers,",
+      "context": "Moore announced he co-sponsored the Ratepayer Protection Act, which would keep data center electricity costs off household bills; the release notes demand from data centers and artificial intelligence infrastructure.",
+      "source_label": "House press release (rileymoore.house.gov)",
+      "url": "https://rileymoore.house.gov/media/press-releases/congressman-riley-m-moore-cosponsors-legislation-protect-ratepayers-data",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Concerns electricity costs of data centers, which ruling 5 puts at D; no catastrophic risk from AI is mentioned."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found. The Ratepayer Protection Act concerns electricity costs, not slowing AI, so it does not count.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [
+    ["Co-sponsored the Ratepayer Protection Act (led by Rep. Gabe Evans) to protect electricity ratepayers from data center costs.", "Moore press release, 2026-08-31", "https://rileymoore.house.gov/media/press-releases/congressman-riley-m-moore-cosponsors-legislation-protect-ratepayers-data"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Moore has spoken about AI in 2026 (job loss, data center costs and local consent) but nothing found acknowledges catastrophic risk from AI, so D.",
+  "notes": "All six required web searches ran this time, plus one extra on the Ban Artificial Superintelligence Act (7 in total). The searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing about this Riley Moore; a Massachusetts state senator Mike Moore appears in moratorium results and is a different person. Fox News article (2026-09-23, also reposted by WFMD and summarised by Political.org) opened directly; the quote was read through a page-fetch tool that summarises pages, so a reviewer should confirm the exact wording. The article says the remarks were shared that week but gives no exact date, so the article date is used. Political.org attributes an 'arms race' with China framing to Moore, but the Fox News original presents that framing as the reporter's, so it was left out. Ban Artificial Superintelligence Act: the House bill H.R. 10538 cosponsor list on fastdemocracy.com (12 cosponsors, all Democrats) does not include Moore; congress.gov was not checked. From the earlier attempt: rileymoore.house.gov home page, press releases back to 4 June 2026 and the Energy issues page were opened and contained nothing on AI risk; press releases before June 2026 and from 2025 were not reviewed one by one."
+}

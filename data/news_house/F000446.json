@@ -1,0 +1,29 @@
+{"bioguide": "F000446", "member": "Randy Feenstra",
+ "searches": [
+  "Feenstra artificial intelligence site:feenstra.house.gov",
+  "Randy Feenstra superintelligence",
+  "Randy Feenstra AI extinction OR \"existential risk\"",
+  "Randy Feenstra AI pause OR slowdown OR moratorium",
+  "Randy Feenstra China AI agreement OR treaty",
+  "\"Feenstra\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors",
+  "Feenstra artificial intelligence 2026 Iowa governor AI data centers"
+ ],
+ "statements": [
+  {"date": "2026-04-17", "venue": "Written candidate questionnaire answer (Iowa governor race)",
+   "quote": "Artificial intelligence needs commonsense, enforceable guardrails that defend the rights and privacy of Iowans, protect jobs in Iowa, and support economic growth, innovation, and the entrepreneurial spirit.",
+   "context": "Technology Association of Iowa asked gubernatorial candidates for their views on Iowa's innovation economy, including AI.",
+   "source_label": "Technology Association of Iowa", "url": "https://www.technologyiowa.org/leading-gubernatorial-candidates-outline-views-on-iowas-innovation-economy/",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Calls for AI guardrails for privacy, jobs and growth, but names no catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only 2026 statement on AI found calls for guardrails on privacy, jobs and growth without acknowledging catastrophic risk. Nothing at level A, B, C or F was found.",
+ "notes": "Eight web searches ran, all returned results. The statement date is the page's published_time metadata (2026-04-17); the page itself shows no date, and it says only that candidates submitted responses, so the answer may have been written by campaign staff. Feenstra was a 2026 candidate for Iowa governor; one search result described Zach Lahn as the Republican nominee, which I did not verify. Search results found no sign that Feenstra co-sponsored the Ban Artificial Superintelligence Act (H.R. 10538, lead sponsor Rep. Greg Casar), whose named cosponsors are Democrats, but I did not open the congress.gov cosponsor list. His official press release index (latest July 2026) showed no AI releases in its excerpts. Older AI activity outside the window: the Farm Tech Act (December 2023, AI software certification for agriculture, based on the NIST risk management framework) and a September 2022 Science Committee hearing statement on managing AI risks; not graded because they predate 2025."}

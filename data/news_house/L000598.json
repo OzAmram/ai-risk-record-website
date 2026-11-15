@@ -1,0 +1,24 @@
+{
+  "bioguide": "L000598",
+  "member": "Nick LaLota",
+  "searches": [
+    "Nick LaLota artificial intelligence site:lalota.house.gov",
+    "Nick LaLota superintelligence",
+    "Rep. LaLota AI extinction existential risk",
+    "LaLota AI pause slowdown moratorium",
+    "LaLota China AI agreement treaty",
+    "\"LaLota\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors LaLota"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement or action on this policy was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement or action on this policy was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement or action on this policy was found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement or action on this policy was found; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "Seven web searches and a check of his recent press releases found no statement by LaLota about AI risk, and no statement of his own about AI at all.",
+  "notes": "All six required searches ran this time, plus one extra on the Ban Artificial Superintelligence Act; none returned anything by LaLota on AI risk, superintelligence, extinction, a pause, China talks or AI safety. The site-restricted search returned no lalota.house.gov pages. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the FastDemocracy page lists 12 cosponsors, all Democrats, and LaLota is not among them; the list may have changed since. From the earlier attempt (still valid): a LegiPlex profile lists the No DeepSeek on Government Devices Act (H.R. 1121, introduced 7 February 2025) among his 2025-2026 legislation, but his role (sponsor or cosponsor) could not be confirmed because LegiPlex and Congress.gov returned HTTP 403; that bill is about a Chinese AI app on government devices and would be D under ruling 5, so it is not in record. Earlier attempt also opened https://lalota.house.gov/media/press-releases pages 1 and 2 (20 releases, 8 September 2025 to 25 August 2026); no titles or summaries mention AI. The govinfo transcript of the 5 June 2025 House Oversight AI hearing appeared in results but LaLota is not listed on that committee roster or in the part of the transcript read. Not checked: hearing remarks and floor speeches beyond these searches, local Long Island news coverage, older press release pages."
+}

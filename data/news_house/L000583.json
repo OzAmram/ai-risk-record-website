@@ -1,0 +1,52 @@
+{
+  "bioguide": "L000583",
+  "member": "Barry Loudermilk",
+  "searches": [
+    "Loudermilk artificial intelligence site:loudermilk.house.gov",
+    "Barry Loudermilk superintelligence",
+    "Barry Loudermilk AI extinction existential risk",
+    "Loudermilk AI pause slowdown moratorium",
+    "Loudermilk China AI agreement treaty",
+    "\"Loudermilk\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-03-05",
+      "venue": "Official website issues page (Science, Space, and Technology)",
+      "quote": "The rapid development of AI (artificial intelligence) has created growing concerns about how this technology will affect our society in the future.",
+      "context": "His issues page section headed 'AI Concerns', which goes on to call for common-sense regulation while encouraging innovation and keeping the United States a global technology leader.",
+      "source_label": "loudermilk.house.gov issues page",
+      "url": "https://loudermilk.house.gov/issues-legislation/space-science-and-technology/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Mentions general societal concerns about AI and regulation but names no catastrophic or serious danger from AI itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI statement found is a general issues-page paragraph about societal concerns and common-sense regulation, with no catastrophic risk named. All six required web searches ran and found nothing on catastrophic AI risk from him.",
+  "notes": "All six required web searches ran this time (none refused). None of them returned any statement by Loudermilk on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety; the official-site search returned only 2019-2020 items (his appointment as lead Republican on the Financial Services Task Force on Artificial Intelligence, a hearing on AI bias, and a newsletter item 'How to Protect Yourself While Using Artificial Intelligence' that could not be read), all before 2025. The issues-page quote was re-checked at the source on 2026-11-14 and the wording matches. The page itself shows no date; 2026-03-05 came from the site's own search listing in the earlier attempt, probably a last-modified date, so the statement date is uncertain. The earlier attempt also opened his press releases page (10 most recent, 22 Apr to 11 Sep 2026, none about AI) and the FY2027 NDAA release (no AI mention). No source found shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (introduced by Sen. Sanders and Rep. Casar) or signing any other House letter about AI risk; congress.gov returned HTTP 403 in the earlier attempt and the cosponsor list was not checked directly. Interviews and hearing remarks not surfaced by search were not checked."
+}

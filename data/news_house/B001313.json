@@ -1,0 +1,37 @@
+{"bioguide": "B001313", "member": "Shontel M. Brown",
+ "searches": [
+  "site:shontelbrown.house.gov artificial intelligence",
+  "\"Shontel Brown\" superintelligence",
+  "\"Shontel Brown\" AI extinction OR existential risk",
+  "\"Shontel Brown\" AI pause OR slowdown OR moratorium",
+  "\"Shontel Brown\" China AI agreement OR treaty",
+  "\"Shontel Brown\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-10-21", "venue": "press release",
+   "quote": "This isn't complicated: voters deserve to know that the campaign content they see and hear is real.",
+   "context": "Introducing the Securing Elections from AI Deception Act, which would require labels on AI-generated campaign content.",
+   "source_label": "House press release", "url": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About AI deepfakes and election deception, not catastrophic risk."},
+  {"date": "2025-06-16", "venue": "press release",
+   "quote": "AI is here to stay—and we must ensure federal employees at every level are trained to use it wisely, safely, and effectively",
+   "context": "Co-leading Rep. Nancy Mace's bipartisan AI Training Extension Act to expand AI training for federal employees.",
+   "source_label": "House press release", "url": "https://shontelbrown.house.gov/media/press-releases/congresswoman-shontel-brown-leads-bipartisan-push-equip-federal-workforce-ai",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About training federal workers to use AI well; 'safely' refers to everyday use, not catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Introduced the Securing Elections from AI Deception Act, requiring disclaimers on AI-generated election content (30 House cosponsors per the release).", "House press release, 2026-10-21", "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content"],
+  ["Co-led the bipartisan AI Training Extension Act (introduced by Rep. Nancy Mace) to expand AI training across the federal workforce.", "House press release, 2025-06-16", "https://shontelbrown.house.gov/media/press-releases/congresswoman-shontel-brown-leads-bipartisan-push-equip-federal-workforce-ai"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "She has spoken about AI in 2025 and 2026, but only about AI deepfakes in elections and AI training for federal workers; nothing found acknowledges catastrophic risk.",
+ "notes": "All six required web searches ran this time, plus one extra search on the Ban Artificial Superintelligence Act (7 in total). Searches on superintelligence, extinction, pause or slowdown, China agreement and AI safety returned nothing about her (results were about other people named Brown). She is not listed among the 12 cosponsors of the Ban Artificial Superintelligence Act (H.R. 10538) on fastdemocracy.com; congress.gov returned 403 so the official cosponsor list could not be confirmed. Her site also has a 27 June 2024 release introducing an earlier version of the Securing Elections from AI Deception Act and a 13 March 2024 letter on AI election interference; both are before 2025 and left out. Pages were read through a summarizing fetch tool, so the reviewer should confirm quote wording (including the em dash in the 2025 quote) against the pages. The earlier attempt had also checked roughly 30 press releases from May to November 2026 and found only the 21 October release mentioning AI."}

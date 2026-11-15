@@ -1,0 +1,61 @@
+{
+ "bioguide": "C001136",
+ "member": "Herbert C. Conaway, Jr.",
+ "searches": [
+  "site:conaway.house.gov artificial intelligence",
+  "Herb Conaway superintelligence",
+  "Rep. Herb Conaway AI extinction existential risk",
+  "Herb Conaway AI pause slowdown moratorium",
+  "Herb Conaway China AI agreement treaty",
+  "\"Conaway\" \"AI safety\" congressman New Jersey",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Conaway"
+ ],
+ "statements": [
+  {
+   "date": "2026-07-24",
+   "venue": "Press release",
+   "quote": "Artificial intelligence is dramatically changing the technology and healthcare industries, but we need to ensure that patients aren’t being left behind,",
+   "context": "Introducing the Protecting Patients from Automated Denials Act with Rep. Greg Murphy, on physician oversight of AI use in Medicare Advantage prior authorization decisions.",
+   "source_label": "conaway.house.gov press release",
+   "url": "https://conaway.house.gov/media/press-releases/conaway-and-murphy-introduce-bill-protect-patients-ai-assisted-insurance",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About AI in health insurance denials; does not acknowledge catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the Protecting Patients from Automated Denials Act with Rep. Greg Murphy, requiring physician oversight and federal audits of AI use in Medicare Advantage prior authorization.",
+   "conaway.house.gov press release, 2026-07-24",
+   "https://conaway.house.gov/media/press-releases/conaway-and-murphy-introduce-bill-protect-patients-ai-assisted-insurance"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI statement found (2026) is about AI in health insurance claim denials, with no acknowledgment of catastrophic risk. Seven web searches found no statement by him on catastrophic AI risk.",
+ "notes": "All 7 web searches ran this time (6 required plus 1 on the Ban Artificial Superintelligence Act); none returned anything by or about Conaway on AI risk, superintelligence, extinction, a pause, or China. The site: search returned no conaway.house.gov pages, so the official-site check rests on the earlier run, which opened all 5 pages of press release listings on conaway.house.gov (January 2025 to November 2026) and found only the 24 July 2026 release mentioning AI; those listing pages were read via a summarizing fetch tool, so a release mentioning AI only in its body could have been missed. The 24 July 2026 quote was checked against the raw page text in the earlier run and its opening and date were reconfirmed this run. Ban Artificial Superintelligence Act (H.R. 10538, per Akin Gump): no source seen listing Conaway as a co-sponsor, but the congress.gov co-sponsor page returned 403 and news reports of co-sponsors conflict, so this is unconfirmed either way. Hearing remarks and floor speeches were not specifically searched beyond the queries listed. Multi-signer House letters were not searched, per instructions."
+}

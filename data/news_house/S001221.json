@@ -1,0 +1,92 @@
+{
+ "bioguide": "S001221",
+ "member": "Hillary J. Scholten",
+ "searches": [
+  "Hillary Scholten artificial intelligence site:scholten.house.gov",
+  "Hillary Scholten superintelligence",
+  "Scholten AI extinction existential risk congresswoman",
+  "Scholten AI pause slowdown moratorium",
+  "Scholten China AI agreement treaty Problem Solvers letter",
+  "\"Hillary Scholten\" \"AI safety\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-24",
+   "venue": "Problem Solvers Caucus AI Working Group letter to President Trump (Scholten signed as Vice-Lead)",
+   "quote": "AI developers have consistently warned that the most capable models are developing capabilities that carry serious national security risks. These include enabling sophisticated cyberattacks on critical infrastructure, lowering the barriers to developing biological and chemical weapons",
+   "context": "Letter ahead of the Trump–Xi meeting asking the President to prioritize a coordinated international effort on AI safety and security beginning with China.",
+   "source_label": "Problem Solvers Caucus letter (PDF), 24 September 2026",
+   "url": "https://problemsolverscaucus.house.gov/uploadedfiles/psc_ai_letter_to_president_trump.pdf",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "relayed_warning",
+    "misuse_only",
+    "bill_or_action"
+   ],
+   "reason": "The letter endorses AI developers' warnings that frontier models could lower barriers to biological and chemical weapons, a catastrophic harm limited to misuse, so C under the misuse-only ruling."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Press release",
+   "quote": "The rapid development of artificial intelligence and the recent, grave threats to our nation’s cybersecurity are warning signs that cannot be ignored,",
+   "context": "Announcing she will co-lead a bipartisan Problem Solvers Caucus working group on AI guardrails.",
+   "source_label": "Scholten House press release, 24 September 2026",
+   "url": "https://scholten.house.gov/media/press-releases/congresswoman-scholten-selected-co-lead-new-bipartisan-working-group",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Her own words name rapid AI development and cybersecurity threats as warning signs but describe no catastrophic danger from AI itself."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI; the 24 September 2026 letter stresses keeping the US lead in AI.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "She signed the 24 September 2026 Problem Solvers letter asking Trump to secure a US-China AI dialogue and China's commitment to AI safety principles (testing, incident reporting); it does not mention coordinating the pace of AI development or a pause, so it is 'none' under the strict definition. Reviewer may wish to check this.",
+   "sources": [
+    [
+     "Problem Solvers Caucus letter, 24 September 2026",
+     "https://problemsolverscaucus.house.gov/uploadedfiles/psc_ai_letter_to_president_trump.pdf"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed, as Vice-Lead of the Problem Solvers Caucus AI Working Group, a letter to President Trump asking him to prioritize a coordinated international AI safety and security effort beginning with China, including a leader-level US-China AI dialogue.",
+   "Problem Solvers Caucus letter, 24 September 2026",
+   "https://problemsolverscaucus.house.gov/uploadedfiles/psc_ai_letter_to_president_trump.pdf"
+  ],
+  [
+   "Named co-lead (letter lists her as Vice-Lead) of the Problem Solvers Caucus bipartisan working group on AI guardrails.",
+   "Scholten press release, 24 September 2026",
+   "https://scholten.house.gov/media/press-releases/congresswoman-scholten-selected-co-lead-new-bipartisan-working-group"
+  ],
+  [
+   "Sponsored AI small-business bills: AI-WISE Act (passed the House January 2026), AI for Main Street Act, SBA AI Adoption Reporting Act (May 2026); not about catastrophic risk.",
+   "Scholten press release, 24 September 2026",
+   "https://scholten.house.gov/media/press-releases/congresswoman-scholten-selected-co-lead-new-bipartisan-working-group"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "Her strongest 2026 item is a co-signed letter endorsing warnings that frontier AI could lower barriers to biological and chemical weapons; this is misuse only, so C. Her own words in 2026 do not go beyond general cybersecurity warnings (D).",
+ "notes": "All 6 required web searches ran in this second attempt (the first attempt had 0 because searches were refused). None of the searches found any statement by her on superintelligence, extinction or existential risk, a pause or slowdown, an AI agreement with China beyond the Problem Solvers letter, or AI safety. In this attempt I re-opened the 24 September 2026 press release and confirmed the quoted sentence and date. The letter quote and PDF were read in the first attempt and were not re-opened this time. Earlier attempt also read her press release listing (pages 1-9, back to late December 2025), her AI issue page and the letter PDF. Ban Artificial Superintelligence Act: news coverage (Al Jazeera, 23 September 2026) names only Sanders and Casar as sponsors and does not mention her; no source shows her as a co-sponsor, but I could not see a full co-sponsor list (congress.gov returned 403 in the first attempt). One search summary mentioned a statement by someone named 'Scholz' backing a superintelligence ban; this is a different name and was not attributed to her. Her press releases on data center bills (31 July 2026), the GVSU Trustworthy AI Consortium funding (2 March 2026) and small-business AI bills (AI-WISE Act, AI for Main Street Act, SBA AI Adoption Reporting Act) were not about catastrophic risk and were left out. The letter is the 24 September Problem Solvers letter, not one of the centrally checked many-signer House letters. The press release calls her a co-lead while the letter lists her as Vice-Lead."
+}

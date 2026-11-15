@@ -1,0 +1,24 @@
+{"bioguide": "ELECT-TN-06-GARRETT", "member": "Johnny Garrett",
+ "searches": [
+  "Johnny Garrett Tennessee artificial intelligence",
+  "Johnny Garrett \"AI safety\"",
+  "Johnny Garrett superintelligence",
+  "Johnny Garrett AI extinction OR existential risk",
+  "Johnny Garrett AI pause OR moratorium OR slowdown Tennessee",
+  "Johnny Garrett China AI agreement OR treaty",
+  "Johnny Garrett congress campaign AI site:johnnygarrett.com OR site:capitol.tn.gov"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["As a state representative, voted for Tennessee's Transparency for Deepfakes in Political Advertising Act (passed unanimously, took effect 1 July 2026); about election deepfakes, not catastrophic risk.", "NewsChannel 5 Nashville, 2026 (article date not shown on page)", "https://www.newschannel5.com/news/ai-political-ads-draw-scrutiny-in-the-tennessee-6th-congressional-district-race"]
+ ],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Johnny Garrett about AI, let alone catastrophic AI risk, was found from 2025 onward; his only AI-related record found is a vote on a state election deepfake law.",
+ "notes": "Seven web searches ran; none was refused. The campaign site johnnygarrett.com could not be opened (connection refused). AI coverage of Garrett in 2026 concerns AI-generated imagery in his and Van Hilleary's primary attack ads (WPLN, WKRN, NewsChannel 5); his campaign's position that the state deepfake law does not apply to federal races appears only as reporter paraphrase, so no quote was recorded. He was primary sponsor of state bill HB2707 (2023-2024 session) relating to the use of artificial intelligence, which is before the 1 January 2025 period and was not examined. No source shows him co-sponsoring the Ban Artificial Superintelligence Act; as a state legislator he could not have. A Fox 17 result matched only because of a reporter named Johnny Maffei."
+}

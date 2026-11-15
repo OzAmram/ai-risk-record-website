@@ -1,0 +1,28 @@
+{"bioguide": "S001231", "member": "Lateefah Simon",
+ "searches": [
+  "site:simon.house.gov artificial intelligence",
+  "Lateefah Simon superintelligence",
+  "Lateefah Simon AI extinction existential risk",
+  "Lateefah Simon AI pause moratorium data centers",
+  "Lateefah Simon China AI agreement treaty",
+  "\"Lateefah Simon\" \"AI safety\"",
+  "Rep. Lateefah Simon artificial intelligence statement"
+ ],
+ "statements": [
+  {"date": "2025-06-05", "venue": "House Oversight Committee hearing, The Federal Government in the Age of Artificial Intelligence",
+   "quote": "The guardrails are needed, absolutely regulation is needed, but again, so many of us from impacted communities are so excited about what this technology allows for us to do.",
+   "context": "Her questioning time at the hearing, where she praised AI for health care and disability access and asked about data privacy under the administration.",
+   "source_label": "GovInfo hearing transcript (CHRG-119hhrg60818)", "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Supports guardrails and regulation in general but speaks about benefits, health data and privacy, with no catastrophic risk acknowledged."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her only substantial remarks on AI found are from a June 2025 Oversight hearing, about health care benefits, disability access and data privacy, with no catastrophic risk acknowledged. No 2026 statements on AI were found.",
+ "notes": "Seven web searches ran, none refused; none returned material by Simon on AI risk. Her official press release listing (page 1, 18 September to 11 November 2026) has no AI items; older pages were not checked. She is listed as a member of the Oversight subcommittee for the 17 September 2025 hearing on the future of AI (CHRG-119hhrg61734), but the transcript shows no remarks by her. No source found showing she co-sponsored the Ban Artificial Superintelligence Act; Casar's press release names only Casar and Sanders, and the congress.gov co-sponsor list was not checked. House multi-signer AI letters (August and September 2026) were not searched, as instructed."}

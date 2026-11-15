@@ -1,0 +1,24 @@
+{
+  "bioguide": "E000294",
+  "member": "Tom Emmer",
+  "searches": [
+    "Emmer artificial intelligence (restricted to emmer.house.gov)",
+    "Tom Emmer superintelligence",
+    "Tom Emmer AI extinction existential risk",
+    "Tom Emmer AI pause slowdown moratorium",
+    "Tom Emmer China AI agreement treaty",
+    "\"Tom Emmer\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade. All seven searches ran this time and found nothing by him on AI risk.",
+  "notes": "All seven searches listed ran (an earlier attempt had all its searches refused). None returned a statement by Tom Emmer about AI risk, superintelligence, extinction, a pause, a China agreement or AI safety. The official-site search showed only that he is Vice Chairman of the House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence (a committee role, not a statement; that press release is from early 2025 and may be out of date) and press releases on crypto. The 'AI safety' search returned a 17 September 2026 Sinclair article ('Top Republicans resist push for AI safety laws'); I opened it (https://wjla.com/news/nation-world/top-republicans-resist-push-for-ai-safety-laws-democrats-take-call-to-action-to-voters-artficial-intelligence-washington-midterm-election) and it does not mention Emmer. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Greg Casar): the FastDemocracy listing (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats where party is shown, and Emmer is not among them; Congress.gov was not checked this time (it returned HTTP 403 in the earlier attempt), so this rests on a third-party listing. Kept from the earlier attempt, when the official site was opened directly: the home page and the first four pages of press releases (https://emmer.house.gov/media-center/press-releases?page=0 to ?page=3), covering 40 releases from 20 January 2026 to 23 October 2026, have no titles or visible excerpts mentioning AI, artificial intelligence, superintelligence, data centers or chips (full texts not opened), and his issue pages list blockchain and crypto but not AI. 2025 releases were not checked page by page. No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

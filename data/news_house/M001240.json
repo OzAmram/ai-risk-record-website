@@ -1,0 +1,61 @@
+{
+ "bioguide": "M001240",
+ "member": "Addison P. McDowell",
+ "searches": [
+  "McDowell artificial intelligence (restricted to mcdowell.house.gov)",
+  "Addison McDowell superintelligence",
+  "Addison McDowell AI extinction existential risk",
+  "Addison McDowell AI pause slowdown moratorium",
+  "Addison McDowell China AI agreement treaty",
+  "\"Addison McDowell\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors McDowell"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-17",
+   "venue": "Press release",
+   "quote": "Congress has a responsibility to ensure these tools strengthen our national security while protecting the constitutional rights and freedoms that define our Nation.",
+   "context": "Introducing the bipartisan FISA AI Reporting Act with Rep. Walkinshaw, requiring the intelligence community to report to Congress on its use of AI with Section 702 data.",
+   "source_label": "McDowell House press release",
+   "url": "https://mcdowell.house.gov/media/press-releases/mcdowell-leads-bipartisan-fisa-ai-reporting-act-increase-oversight-artificial",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About oversight of intelligence agencies' AI use and civil liberties; no catastrophic risk from AI is acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Rep. James Walkinshaw, the bipartisan FISA AI Reporting Act requiring the Director of National Intelligence to report on intelligence community use of AI with Section 702 data.",
+   "McDowell press release, 2026-09-17",
+   "https://mcdowell.house.gov/media/press-releases/mcdowell-leads-bipartisan-fisa-ai-reporting-act-increase-oversight-artificial"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only remarks on AI found are from September 2026 about oversight of intelligence agencies' AI use, which do not acknowledge catastrophic risk.",
+ "notes": "All six required web searches ran, plus one on the Ban Artificial Superintelligence Act (seven in total). The searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing mentioning him. The site-restricted search and an earlier direct read of his press release list pages (first page plus pages 1-6) found one AI-related release: the 17 September 2026 FISA AI Reporting Act release (opened; quote copied from the page). A Congressional App Challenge release mentions a student's AI-powered app; not a statement on AI by him. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the congress.gov cosponsor page returned HTTP 403, but the fastdemocracy.com bill page lists 12 cosponsors, all Democrats as far as shown, and McDowell is not among them; this list may not be fully current. No source found shows him signing a House letter about AI risk. Hearing remarks and interviews were covered only by the general searches above."
+}

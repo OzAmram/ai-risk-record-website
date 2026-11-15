@@ -1,0 +1,62 @@
+{
+  "bioguide": "M001160",
+  "member": "Gwen Moore",
+  "searches": [
+    "Gwen Moore artificial intelligence site:gwenmoore.house.gov",
+    "\"Gwen Moore\" superintelligence",
+    "\"Gwen Moore\" AI extinction OR \"existential risk\"",
+    "\"Gwen Moore\" AI pause OR slowdown OR moratorium",
+    "\"Gwen Moore\" China AI agreement OR treaty",
+    "\"Gwen Moore\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-12-17",
+      "venue": "Press release on a letter to the Internal Revenue Service, led with Rep. Suzan DelBene",
+      "quote": "We hope this Administration shares our goal of ensuring any use of AI by the IRS is appropriately scrutinized,",
+      "context": "Ways and Means Democrats asked the IRS how it plans to use AI tools on decades-old systems holding taxpayer records, citing accuracy and taxpayer data protection.",
+      "source_label": "gwenmoore.house.gov press release",
+      "url": "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5811",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action",
+        "cosigned_letter"
+      ],
+      "reason": "Concerns are about accuracy and taxpayer data privacy in government AI use, not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-led with Rep. Suzan DelBene a letter from Ways and Means members asking the IRS about its use of AI to manage taxpayer data.",
+      "gwenmoore.house.gov press release, 2025-12-17",
+      "https://gwenmoore.house.gov/news/documentsingle.aspx?DocumentID=5811"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI statement found is a December 2025 letter on IRS use of AI, about accuracy and taxpayer data privacy, with no mention of catastrophic risk. Nothing about AI was found from 2026.",
+  "notes": "All 6 required web searches ran this time, plus one on the Ban Artificial Superintelligence Act cosponsors (7 in total). None of them found any statement by Rep. Gwen Moore about superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety. The official-site search returned no gwenmoore.house.gov page directly; an aggregator (capitolreleases.com) reproduced the IRS letter release, which I re-opened at source and confirmed the quote. An earlier attempt also checked the first three pages of her press releases (30 releases, 27 April to 5 November 2026), whose titles and excerpts show nothing about AI, technology or China; earlier pages and full release texts were not checked. Ban Artificial Superintelligence Act (H.R. 10538): the fastdemocracy.com bill page lists 12 cosponsors and she is not among them; this is a third-party listing, not Congress.gov, so it may be out of date. The quote is a partial sentence from the release, attributed to 'the Members' jointly; the full sentence continues about the integrity of the IRS master file and protecting taxpayer data. Search results mentioning 'Moore' and AI were about other people: Massachusetts state Senator Michael Moore (AI regulation moratorium), Maryland Governor Wes Moore, Gordon Moore (Moore's Law) and Cris Moore."
+}

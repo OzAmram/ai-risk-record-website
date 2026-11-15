@@ -1,0 +1,62 @@
+{
+  "bioguide": "S001145",
+  "member": "Janice D. Schakowsky",
+  "searches": [
+    "Schakowsky artificial intelligence (restricted to schakowsky.house.gov)",
+    "Schakowsky superintelligence",
+    "Schakowsky AI extinction existential risk",
+    "Schakowsky AI pause moratorium slowdown",
+    "Schakowsky China AI agreement treaty",
+    "\"Schakowsky\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Casar"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "venue": "Press release on a letter from Schakowsky and Senator Elizabeth Warren to U.S. Trade Representative Jamieson Greer",
+      "quote": "Congress and state legislatures must work to ensure the safe, responsible deployment of AI, and special AI source code secrecy protections make it virtually impossible for regulatory bodies at home and abroad to secure AI accountability from Big Tech,",
+      "context": "The lawmakers asked whether Big Tech lobbyists are using the revision of the US-Mexico-Canada trade agreement to block AI regulation, citing job replacement and chatbots talking inappropriately with minors.",
+      "source_label": "Schakowsky press release, 23 July 2026",
+      "url": "https://schakowsky.house.gov/media/press-releases/schakowsky-warren-press-trump-admin-whether-big-tech-lobbyists-are-scheming",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action"
+      ],
+      "reason": "Calls for safe, responsible AI deployment and accountability for Big Tech but names no catastrophic or serious danger from AI itself; the harms cited are jobs, copyright and children."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Letter with Senator Warren to the U.S. Trade Representative asking whether Big Tech is using the trade agreement with Mexico and Canada to block AI regulation and AI standards.",
+      "Schakowsky press release, 23 July 2026",
+      "https://schakowsky.house.gov/media/press-releases/schakowsky-warren-press-trump-admin-whether-big-tech-lobbyists-are-scheming"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only 2026 AI material found (a July 2026 letter with Senator Warren) calls for safe, responsible AI deployment and regulation but does not acknowledge catastrophic or serious risk from AI. Her 2025 AI remarks (opposing the 10-year moratorium on state AI laws) are about consumer protection, scams and Big Tech, which are also D.",
+  "notes": "All six required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (7 total). None found any statement by her on superintelligence, extinction or existential risk, loss of control, bioweapons, a pause or slowdown of AI development, or an agreement with China. Earlier attempt (all searches refused) had opened schakowsky.house.gov directly: home page, consumer protection issue page, and press release listing pages 1 to 4 (9 December 2025 to 26 October 2026); only the 23 July 2026 release mentions AI. 2025 material left out as low-substance D: at the 21 May 2025 Energy and Commerce subcommittee hearing (transcript: https://techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership, read; transcript is auto-split so exact wording is uncertain) she opposed the proposed 10-year moratorium on state AI laws on consumer-protection grounds ('Zero time as we watch AI develop not 10 years', 'puts all consumers at risk'); news reports paraphrase her calling it 'a giant gift to Big Tech' and citing deepfakes and privacy. Her written opening statement PDF for that hearing (democrats-energycommerce.house.gov) could not be read as text. Other AI items on her site (R U REAL Act on AI robocalls, Medicare prior-authorization AI resolution, Rite Aid facial recognition letter) are consumer-protection topics, also D, and were not added. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Casar): she is not listed as a cosponsor on Quiver Quantitative's bill page (https://www.quiverquant.com/bills/119/hr-10538, first part of page read; it lists 12 cosponsors, two only by ID M001246 and G000606, neither hers). Congress.gov returned 403 Forbidden in the earlier attempt. No House letter about AI risk led by her was found; the large multi-signer House letters of August and September 2026 were not searched, per instructions. The July 2026 quote is from a joint statement attributed to 'the lawmakers' (Schakowsky and Warren), not to her alone; the full letter PDF was not opened. She is retiring at the end of this Congress."
+}

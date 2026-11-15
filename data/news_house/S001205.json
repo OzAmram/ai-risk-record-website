@@ -1,0 +1,25 @@
+{
+  "bioguide": "S001205",
+  "member": "Mary Gay Scanlon",
+  "searches": [
+    "site:scanlon.house.gov artificial intelligence",
+    "Mary Gay Scanlon superintelligence",
+    "Mary Gay Scanlon AI extinction existential risk",
+    "Scanlon AI pause slowdown moratorium",
+    "Rep. Scanlon China AI agreement treaty",
+    "\"Mary Gay Scanlon\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Scanlon artificial intelligence hearing remarks 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found; she is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538) on the cosponsor list checked.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI, let alone catastrophic AI risk, was found in eight web searches, her press release list (December 2025 to November 2026), or the one AI hearing transcript checked.",
+  "notes": "All 6 required web searches ran this time, plus 2 extra (Ban Artificial Superintelligence Act cosponsors; her AI hearing remarks). None returned any statement by her on AI; the site: search returned no scanlon.house.gov pages. She sits on the House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet. I read the full transcript of its 18 September 2025 hearing 'AI at a Crossroads: A Nationwide Strategy or Californication?' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm): she is on the roster but did not speak. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar, 24 September 2026): the FastDemocracy cosponsor list (12 names) does not include her; congress.gov returned 403, so the official list was not checked and a later addition cannot be ruled out. Kept from the earlier attempt: I had opened scanlon.house.gov home page and press release list pages 1 to 4 (https://scanlon.house.gov/news/documentquery.aspx?DocumentTypeID=27, covering 1 December 2025 to 10 November 2026); no title or visible excerpt mentions artificial intelligence, superintelligence or AI talks with China (titles and truncated excerpts only, not full releases). Closest items were data privacy bills (3 June and 29 June 2026) and the 2025 Congressional App Challenge (31 December 2025), none about AI risk on their face. The site's own search page returned 403. Not checked: press releases from 2025 before December, interviews, floor speeches, and other hearing transcripts. Multi-member House letters were not searched, per instructions."
+}

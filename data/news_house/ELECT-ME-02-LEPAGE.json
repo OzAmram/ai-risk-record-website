@@ -1,0 +1,27 @@
+{"bioguide": "ELECT-ME-02-LEPAGE", "member": "Paul LePage",
+ "searches": [
+  "Paul LePage artificial intelligence",
+  "Paul LePage AI safety superintelligence",
+  "LePage Dunlap debate artificial intelligence data centers 2026",
+  "Paul LePage AI extinction existential risk",
+  "LePage AI pause moratorium regulation Congress Maine 2nd district",
+  "Paul LePage China AI agreement treaty"
+ ],
+ "statements": [
+  {"date": "2026-09-16", "venue": "Statement quoted in Bangor Daily News article on Maine politicians' responses to AI warnings",
+   "quote": "For AI development we should have sensible guardrails, honest conversations, and good people who will stand behind it,",
+   "context": "Bangor Daily News asked Maine candidates to respond to warnings, including from a former Anthropic researcher, that advanced AI could kill humanity; LePage answered in general terms about guardrails.",
+   "source_label": "Bangor Daily News, 16 September 2026", "url": "https://www.bangordailynews.com/2026/09/16/politics/elections/maine-politicians-responding-to-ai-warnings-joam40zk0w/",
+   "read_at_source": true, "level": "D", "flags": ["boundary"],
+   "reason": "Calls for sensible guardrails on AI development but does not acknowledge catastrophic or serious risk from AI, even though the question was about such warnings."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI. His data center remarks support data centers (with local control and no electric bill increases) and are not tied to AI risk.", "sources": [["Spectrum News, 20 August 2026", "https://spectrumnewsnecn.com/necn/maine/politics/2026/08/20/lepage-is--big-fan-of-data-centers--if-they-generate-own-power"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI statement found (September 2026) calls for sensible guardrails without acknowledging catastrophic risk, even in response to warnings that AI could kill humanity. He is also on record as a strong supporter of data centers.",
+ "notes": "Six web searches ran; none was refused. Pages were opened through a fetch tool that summarises pages with a small model, so the quote should be checked against the article text. The Bangor Daily News article (published 16 September 2026, updated 22 September) does not say exactly when LePage gave the statement; the article date is used. The article frames the question around a resigned Anthropic researcher's warning that AI could kill humanity and around calls to slow AI development; LePage's quoted answer does not engage with that. Left out: Spectrum News (20 August 2026, Lincoln, Maine) quotes him saying \"I'm a big, big fan of data centers\" and that data centers will generate their own power; this is about data centers and energy, not AI risk (level D). No evidence he sponsored the Ban Artificial Superintelligence Act or signed any House letter (he was not a member). No 2025 AI statements found; as a candidate he had no official site."}

@@ -1,0 +1,37 @@
+{
+  "bioguide": "S001195",
+  "member": "Jason Smith",
+  "searches": [
+    "site:jasonsmith.house.gov artificial intelligence",
+    "\"Jason Smith\" Missouri congressman superintelligence",
+    "\"Jason Smith\" congressman AI extinction OR \"existential risk\"",
+    "\"Jason Smith\" Ways and Means AI pause OR slowdown OR moratorium",
+    "\"Jason Smith\" Ways and Means China artificial intelligence agreement OR treaty",
+    "\"Jason Smith\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "venue": "Interview with Fox News Digital",
+      "quote": "the Chinese want to stall and slow down the advancement of AI in the United States because they want to win the AI war.",
+      "context": "As Ways and Means chairman, Smith said money from China-linked sources was funding US nonprofits that organize protests against AI data centers.",
+      "source_label": "Fox News",
+      "url": "https://www.foxnews.com/politics/china-throwing-gasoline-fire-ai-data-centers-race-say-lawmakers",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "This is about competition with China and data center protests, with no acknowledgment of catastrophic risk from AI (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI for safety reasons; his remark about China wanting to slow US AI is about competition, not a position on a safety slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2026, but only about winning the AI race with China and alleged Chinese funding of anti-data-center protests; nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All 7 web searches listed ran (6 required plus 1 on the Ban Artificial Superintelligence Act). No search found him discussing superintelligence, extinction, loss of control, AI safety, a pause or slowdown, or a China agreement. The Fox News page was read through a fetch of its AMP version (https://www.foxnews.com/politics/china-throwing-gasoline-fire-ai-data-centers-race-say-lawmakers.amp); the article is dated 2026-09-23 and the statement date is assumed to be the same. The fetch tool returned the quote as a fragment without its lead-in, so a reviewer should confirm the wording on the page. Also seen but not quoted: his 25 June 2026 opening statement at a Select Committee on China hearing (https://waysandmeans.house.gov/?p=20487) says China 'would like to dominate the future of Artificial Intelligence' and mentions CCP-aligned money flowing to nonprofits protesting data centers; the fetch returned only truncated excerpts, so no full quote was taken; it would also be level D. A letter he sent with Rep. Moolenaar to Treasury and the IRS on the same topic was reported in search results only and is not recorded (not about AI risk). Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): search results describe its co-sponsors as House Democrats and nothing shows Smith co-sponsoring it, but the full co-sponsor list on Congress.gov was not checked. No House letter on AI risk led or signed by him was found (the centrally handled multi-signer letters were not searched, as instructed). The earlier attempt's direct check of jasonsmith.house.gov press release titles (31 July to 2 November 2026) also found no AI-related titles."
+}

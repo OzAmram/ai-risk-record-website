@@ -1,0 +1,91 @@
+{
+  "bioguide": "H001094",
+  "member": "Val T. Hoyle",
+  "searches": [
+    "Val Hoyle artificial intelligence (restricted to hoyle.house.gov)",
+    "Val Hoyle superintelligence",
+    "Rep. Val Hoyle AI extinction existential risk",
+    "Val Hoyle AI pause moratorium slowdown",
+    "Val Hoyle China AI agreement treaty",
+    "\"Val Hoyle\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Hoyle"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-08",
+      "venue": "Letter to the chief executives of Google and Spirit Airlines, co-signed with other members of Congress",
+      "quote": "The unprecedented scale and sophistication of modern artificial intelligence make it particularly important that privacy protections keep pace with the technology.",
+      "context": "Letter opposing the transfer of Spirit Airlines employee data to Google for training AI systems, on worker privacy grounds; Hoyle is one of many signers (led by Rep. Steven Horsford, also signed by Sen. Elizabeth Warren).",
+      "source_label": "Letter PDF on hoyle.house.gov, 8 October 2026",
+      "url": "https://hoyle.house.gov/imo/media/doc/spirit_airlines_letter.pdf",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action"
+      ],
+      "reason": "The letter is about AI and worker privacy, which is outside the scope of catastrophic risk, so it is level D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Original co-sponsor (not her own statement) of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, whose Section 8 puts each advanced AI system under a 'mandatory pause' until a new federal Department of Artificial Intelligence issues rules; a pause for safety reasons counts as yes here.",
+      "sources": [
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ],
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "Co-sponsor of H.R. 10538; the bill's mandatory pause on advanced AI is conditional on the new department issuing safety rules, which the rubric treats as mixed. No statement of her own found.",
+      "sources": [
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "H.R. 10538 directs pursuit of international agreements to prevent artificial superintelligence but does not name China or talks with China on pacing; nothing else found.",
+      "sources": [
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "yes",
+      "note": "Co-sponsor of H.R. 10538. Its Section 9(a) bans AI systems with 'superintelligence precursor characteristics', defined in Section 3(6)(A) to include 'The capacity to automate or greatly accelerate the process of artificial intelligence research and development', and its mandatory pause covers training 'including through recursive self-improvement'. This reading of the bill text matches other co-sponsors' files; a reviewer should confirm it.",
+      "sources": [
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    }
+  },
+  "record": [
+    [
+      "Original co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (introduced by Rep. Casar), which bans artificial superintelligence and its precursor capabilities, imposes a mandatory pause on advanced AI until a new federal Department of Artificial Intelligence issues rules, and directs pursuit of international agreements to prevent superintelligence.",
+      "Bill text listing 'Ms. Hoyle of Oregon' as cosponsor, introduced 2026-09-24",
+      "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+    ],
+    [
+      "Co-signed a letter to Google and Spirit Airlines urging protection of employee data before its sale for AI training (worker privacy, not catastrophic risk).",
+      "Letter PDF on hoyle.house.gov, 2026-10-08",
+      "https://hoyle.house.gov/imo/media/doc/spirit_airlines_letter.pdf"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "No statement in her own words about catastrophic AI risk was found since January 2025; her only AI statement found is a 2026 co-signed letter about worker privacy and AI training data (level D). Her record does include original co-sponsorship of the Ban Artificial Superintelligence Act in September 2026, a strong action on catastrophic risk, so a reviewer may want to grade higher on the record.",
+  "notes": "This re-run replaces an earlier attempt in which 5 of 6 searches were refused; this time all seven searches listed ran (the six required ones plus one on the Ban Artificial Superintelligence Act cosponsors). The searches on superintelligence, extinction, pause, China and AI safety returned nothing mentioning Hoyle. Ban Artificial Superintelligence Act (H.R. 10538): co-sponsorship confirmed in the introduced bill text on GovInfo ('Ms. Hoyle of Oregon', among the original co-sponsors, opened via a page-reading tool) and on the FastDemocracy cosponsor list ('Rep. Hoyle, Val T.', opened); the Congress.gov cosponsor page returned HTTP 403. No press release or statement of her own about the bill was found: the first page of hoyle.house.gov press releases (16 September to 12 November 2026, opened this run) has no AI-related titles or excerpts, though release bodies were not read. From the earlier attempt, still valid: press release listing pages 1 to 7 (about March 2025 to November 2026) showed no AI items apart from a 15 July 2026 semiconductor investment release (not about AI risk); a March 2025 Hegseth press release quotes a third party mentioning AI in passing (not Hoyle's view, left out); a 2023 South Coast tech investment release does not mention AI. The Spirit Airlines letter text was extracted locally from the PDF in the earlier attempt; Hoyle is listed among roughly 30+ signers. The many-signer August and September 2026 House letters were not searched, per instructions. News interviews, hearing remarks and floor speeches surfaced nothing in the searches but were not checked item by item."
+}

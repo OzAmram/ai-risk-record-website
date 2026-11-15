@@ -1,0 +1,24 @@
+{
+  "bioguide": "M001143",
+  "member": "Betty McCollum",
+  "searches": [
+    "McCollum artificial intelligence (restricted to mccollum.house.gov)",
+    "Betty McCollum superintelligence",
+    "Betty McCollum AI extinction existential risk",
+    "Betty McCollum AI pause slowdown moratorium",
+    "Betty McCollum China AI agreement treaty",
+    "\"Betty McCollum\" \"AI safety\"",
+    "Rep. Betty McCollum artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "All seven web searches ran and found no statement in her own words about AI since January 2025, so there is nothing to grade.",
+  "notes": "All seven web searches ran (the six required plus one general search on her name with artificial intelligence and 2026); none returned a statement by her about AI risk, superintelligence, extinction, a pause, a China agreement or AI safety. From the earlier attempt (still valid): the first three pages (30 releases, 28 May to 11 November 2026) of her press release listing at https://mccollum.house.gov/media/press-releases were opened directly and none is about AI. The 10 June 2026 release on the Republican defense funding bill (https://mccollum.house.gov/media/press-releases/republicans-unveil-1-trillion-defense-funding-bill-largest-history-amid-steep, opened) mentions 'savings from the use of Artificial Intelligence tools' only in unattributed release text, not in her quoted words, so it is left out. Her 24 February 2026 State of the Union statement (https://mccollum.house.gov/media/press-releases/congresswoman-mccollum-statement-state-union, opened) does not mention AI. Search results also showed: an older memo on her site (https://mccollum.house.gov/media/press-releases/memo-americas-national-security-requires-government-funding-deal, apparently from about 2021, before the search period) saying a continuing resolution would slow military AI adoption; a 18 June 2025 multi-member letter to the Agriculture Secretary (https://mccollum.house.gov/sites/evo-subsites/mccollum.house.gov/files/evo-media-document/trahan_craig_hayes_brown_mcgovern_usda_letter_data_final.pdf, not opened) that asks whether SNAP data would be processed by AI systems, a privacy matter that would be level D, left out; and an AFL-CIO scorecard page listing her vote against an amendment on a ban on state AI laws in the 2025 reconciliation bill (https://aflcio.org/scorecard/votes/2025/house/hr-1-one-big-beautiful-bill-act-cruz-amendment, not opened, not verified). Two April 2026 articles about lawmakers meeting to discuss AI fears (min.house.gov copy opened) do not mention her. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): she is not among the 12 cosponsors listed at https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/ (opened in the earlier attempt); congress.gov returned 403 so the official list was not checked. The project's data/house/letter_2026-09-16_signers.txt lists her as a signer of the 16 September 2026 letter led by Beyer; per instructions that letter is handled centrally and is not included here. No other House letter about AI risk signed by her was found. Not checked: hearing remarks as Defense Appropriations ranking member and floor speeches, beyond what the searches would surface."
+}

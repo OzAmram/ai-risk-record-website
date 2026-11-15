@@ -1,0 +1,21 @@
+{"bioguide": "K000388", "member": "Trent Kelly",
+ "searches": [
+  "Trent Kelly artificial intelligence (restricted to trentkelly.house.gov)",
+  "Rep. Trent Kelly superintelligence",
+  "Trent Kelly Mississippi AI extinction existential risk",
+  "Trent Kelly AI pause slowdown moratorium",
+  "Rep. Trent Kelly China AI agreement treaty",
+  "\"Trent Kelly\" \"AI safety\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Rep. Kelly about AI or AI risk was found in six web searches or on his official site; the only AI item is an undated legislative summary of a defense bill provision, not his own words.",
+ "notes": "All six required web searches ran in this attempt; none returned a statement by Rep. Trent Kelly on AI risk, superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. Results for the name searches were about other people (Senator Mark Kelly of Arizona, and Elizabeth Kelly, former director of the US AI Safety Institute); do not confuse them with him. The only AI item found is his office's 'FY26 NDAA Contributions' page (https://trentkelly.house.gov/legislation/congressman-kelly-s-fy26-ndaa-contributions.htm, undated), which lists a provision requiring the Department of War to 'incorporate secure, U.S.-controlled AI into the TAP' (Transition Assistance Program) for service members; this is a legislative summary rather than his own statement, is not about catastrophic risk, and was left out of statements and record. A reviewer might choose D on that basis. In the earlier, cut-short attempt, trentkelly.house.gov press release list pages 1 and 2 (releases from 17 January 2025 to 4 August 2026) were opened directly and none was about AI; not re-checked this time. No source found showing he sponsored or co-sponsored the Ban Artificial Superintelligence Act (search results name Rep. Greg Casar as lead House sponsor) or signed any House letter on AI risk other than possibly the centrally checked multi-signer letters, which were not searched. He is Vice Chairman of the House Permanent Select Committee on Intelligence (January 2025 release), so closed or unindexed hearing remarks on AI may exist that these searches did not find."
+}

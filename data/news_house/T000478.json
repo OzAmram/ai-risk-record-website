@@ -1,0 +1,23 @@
+{
+  "bioguide": "T000478",
+  "member": "Claudia Tenney",
+  "searches": [
+    "site:tenney.house.gov artificial intelligence",
+    "Claudia Tenney superintelligence",
+    "Claudia Tenney AI extinction OR \"existential risk\"",
+    "Claudia Tenney AI pause OR slowdown OR moratorium",
+    "Claudia Tenney China AI agreement OR treaty",
+    "\"Claudia Tenney\" \"AI safety\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No quotable statement by Tenney about AI, and nothing about catastrophic AI risk, was found in the six required searches or in her press releases from 30 July to 11 November 2026. A Just the News video says she raised security concerns about AI and drone technology, but no words of hers about AI could be read, so it supports at most D and cannot be graded from what was seen.",
+  "notes": "All six required web searches ran in this attempt. The site:tenney.house.gov search returned no pages from her site; the superintelligence, extinction/existential risk and AI safety searches returned nothing quoting her on these topics. The China search surfaced her America First Foreign Policy Plan page (https://tenney.house.gov/issues/america-first-foreign-policy-plan); the earlier attempt opened the 5 August 2026 release for it and it did not mention AI (the full plan document was not opened). The AI safety search found a Just the News video page, 'Rep. Claudia Tenney raises security concerns over AI and drone tech' (https://justthenews.com/videos/rep-claudia-tenney-raises-security-concerns-over-ai-and-drone-tech); I opened it, but it has no transcript and no date, only a summary saying she addressed national security threats from public technology use, foreign surveillance networks and corporate transparency. That is a paraphrase, so no quote was recorded; by house ruling 4 a general national security mention would be D anyway. The video was not watched. The pause/moratorium search returned a Google Doc PDF titled 'Joint Elected Letter Opposing the Federal Moratorium on State and Local AI Regulation' (2025, about preempting state AI laws, not an AI development pause); the search summary said it lists Tenney among House Republicans under a moratorium heading, but I could not extract its text to confirm how she is mentioned, and the topic (state law preemption) is outside the rubric's positions in any case. From the earlier attempt (kept): her press release list pages 0 to 2 (30 releases, 30 July to 11 November 2026) were opened and none mention AI; releases of 5 August 2026, 13 August 2026 and 18 September 2026 were opened and do not mention AI or data centers; the site search page returned HTTP 403. No source seen shows her sponsoring or co-sponsoring the Ban Artificial Superintelligence Act or signing a House letter on AI risk (the large August and September 2026 House letters were not searched, per instructions). Earlier 2026 and 2025 press releases, hearing remarks and interviews were not reviewed in full."
+}

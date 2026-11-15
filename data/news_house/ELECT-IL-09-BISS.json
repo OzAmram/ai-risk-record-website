@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-IL-09-BISS",
+  "member": "Daniel Biss",
+  "searches": [
+    "Daniel Biss artificial intelligence AI safety",
+    "Daniel Biss superintelligence",
+    "Biss Evanston mayor congress AI extinction existential risk",
+    "Daniel Biss AI pause moratorium data centers",
+    "Daniel Biss China AI agreement treaty",
+    "Daniel Biss artificial intelligence (restricted to danielbiss.com)",
+    "\"Biss\" \"AI safety\" OR \"artificial intelligence\" Evanston candidate questionnaire 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI progress.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His campaign site has an undated 'Responsible Artificial Intelligence Policy' plank about the economy, education, children's safety and American AI leadership, but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "Seven web searches ran, none refused. The campaign issues page (https://www.danielbiss.com/issues/holding-big-tech-accountable, opened; no date on page) says 'Artificial Intelligence continues to upend our economy, our education system, and our world.' and calls for a framework that 'promotes and champions America's AI leadership' and ensures 'AI promotes prosperity for the working class, not just the wealthy few'; words like risk, safety and superintelligence do not appear. This is level D; it is left out of statements because the page gives no date. His Chicago Sun-Times primary questionnaire (opened) does not mention AI; it mentions data centers only as pushing electricity prices higher. No source shows him sponsoring or backing the Ban Artificial Superintelligence Act (he is not a sitting member). No news coverage of his views on AI risk was found. Fetched page text was relayed through a summarizing tool, so the reviewer should confirm wording at source if the campaign quote is used."
+}

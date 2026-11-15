@@ -1,0 +1,21 @@
+{"bioguide": "C001051", "member": "John R. Carter",
+ "searches": [
+  "site:carter.house.gov artificial intelligence",
+  "\"John Carter\" Texas congressman superintelligence",
+  "Rep. John Carter AI extinction existential risk",
+  "Rep. John Carter AI pause moratorium slowdown",
+  "Rep. John Carter China AI agreement treaty",
+  "\"John Carter\" congressman \"AI safety\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by him about AI was found in news searches or on his official press release pages from 2025 to 2026.",
+ "notes": "All 6 required web searches ran this time; none returned any statement by Rep. John R. Carter (TX-31) about AI, AI risk, superintelligence, a pause or slowdown, or an AI agreement with China. The site:carter.house.gov search returned no pages from his site. Official site checks: the press release list at carter.house.gov (DocumentTypeID=27) was opened in this run and in the earlier attempt, together covering 4 March 2025 to 26 August 2026 (latest release listed is 26 August 2026); no title mentions AI. The earlier attempt also opened the 26 August 2026 Janus Program release (nuclear microreactors, no AI) and the 22 May 2025 One Big Beautiful Bill statement (no mention of AI or the state AI law moratorium). Ban Artificial Superintelligence Act: a Common Dreams article (23 September 2026, https://www.commondreams.org/news/sanders-casar-superintelligence-ban) names only Sanders and Casar and does not mention Carter; I did not see a full co-sponsor list, so his co-sponsorship is not confirmed either way, though nothing suggests it. A search result linked a page dashboards.planetary.org/sentiment/TX-31-Carter.html, but it returned 404. Hearing remarks, floor speeches and interviews were not checked beyond these web searches. Do not confuse with Rep. Buddy Carter (Georgia)."
+}

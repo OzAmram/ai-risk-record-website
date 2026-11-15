@@ -1,0 +1,66 @@
+{
+  "bioguide": "S001224",
+  "member": "Keith Self",
+  "searches": [
+    "Keith Self artificial intelligence (restricted to keithself.house.gov)",
+    "Rep. Keith Self superintelligence",
+    "Keith Self AI extinction existential risk",
+    "Keith Self AI pause slowdown moratorium",
+    "Keith Self China AI agreement treaty",
+    "\"Keith Self\" \"AI safety\"",
+    "Ban Artificial Superintelligence Act House cosponsors Casar"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-15",
+      "venue": "Press release introducing the PRIVACY Act",
+      "quote": "does not disappear just because of new technology or artificial intelligence",
+      "context": "Introducing a bill requiring federal law enforcement to get a warrant before accessing state and local surveillance data such as license plate reader records.",
+      "source_label": "keithself.house.gov press release",
+      "url": "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About privacy and surveillance (ruling 5), with no catastrophic risk from AI acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the PRIVACY Act, requiring a warrant for federal access to state and local surveillance data; the release cites AI analysis of driving habits as a reason.",
+      "keithself.house.gov press release, 15 July 2026",
+      "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-privacy-act-protect-americans-fourth"
+    ],
+    [
+      "Filed an amendment to the FY26 National Defense Authorization Act to accelerate the responsible adoption of AI across defense mission areas.",
+      "keithself.house.gov press release, 9 September 2025",
+      "https://keithself.house.gov/media/press-releases/congressman-keith-self-introduces-eight-amendments-fy26-ndaa-focused-us"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remark found in his own words (2026) is about privacy and surveillance, which is level D; nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All 6 required searches ran this time, plus 1 extra on the Ban Artificial Superintelligence Act. The superintelligence, extinction, pause, China and \"AI safety\" searches returned nothing mentioning Keith Self; the official-site search returned only the PRIVACY Act and FY26 NDAA amendment releases already recorded. An earlier run had also opened the first three pages of his press releases (30 releases, 16 December 2025 to 12 November 2026); none besides the PRIVACY Act release mentions AI. The PRIVACY Act release was reopened this run: his full sentence is \"Americans' Fourth Amendment right to be secure in their privacy does not disappear just because of new technology or artificial intelligence,\" (15 July 2026); the quote kept is a continuous excerpt of it. The September 2025 NDAA amendment release describes an AI amendment in press office wording; his own quoted words there do not mention AI (left out of statements; military use would be D anyway). Ban Artificial Superintelligence Act (H.R. 10538, led by Casar): search results describe the cosponsors as Democrats plus possibly Nathaniel Moran; no source seen names Keith Self, but the congress.gov cosponsor list was not opened. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

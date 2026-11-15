@@ -1,0 +1,51 @@
+{
+ "bioguide": "W000831",
+ "member": "James R. Walkinshaw",
+ "searches": [
+  "site:walkinshaw.house.gov artificial intelligence",
+  "Walkinshaw superintelligence",
+  "Walkinshaw AI extinction existential risk",
+  "Walkinshaw AI pause slowdown moratorium",
+  "Walkinshaw China AI agreement treaty",
+  "\"Walkinshaw\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-11-05",
+   "venue": "Remarks at a GovExec event on the 2027 government market outlook, reported by Nextgov and Defense One",
+   "quote": "The Chinese Communist Party doesn't want rogue AI agents hacking their systems and their water authorities any more than we do, so we have to have that permanent dialogue and reach some agreements",
+   "context": "Arguing that the US needs ongoing AI talks with China, comparing them to Cold War nuclear arms talks with the Soviet Union.",
+   "source_label": "Nextgov / Defense One, 6 November 2026",
+   "url": "https://www.defenseone.com/policy/2026/11/ai-dialogue-china-congress/417105/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": ["boundary"],
+   "reason": "Under ruling 4 the only harm named from rogue AI agents is hacking of systems and water authorities, which is D; it sits near C because critical infrastructure is named."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Press release on the FISA AI Reporting Act",
+   "quote": "Congress must have strong oversight and transparency over federal AI use",
+   "context": "Introducing a bipartisan bill with Rep. Addison McDowell requiring the intelligence community to report to Congress on its use of AI with data collected under Section 702 of FISA.",
+   "source_label": "House press release (walkinshaw.house.gov)",
+   "url": "https://walkinshaw.house.gov/news/documentsingle.aspx?DocumentID=836",
+   "read_at_source": true,
+   "level": "D",
+   "flags": ["bill_or_action"],
+   "reason": "About oversight and transparency of government AI use in intelligence surveillance, with no acknowledgment of catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "He called for permanent dialogue and agreements with China on AI risks (November 2026), but no source shows him calling for coordination on the pace of frontier AI development or a mutual slowdown or pause, so this is none.", "sources": [["Nextgov, 6 November 2026", "https://www.nextgov.com/artificial-intelligence/2026/11/ongoing-ai-dialogue-china-necessary-coming-congress-top-tech-lawmaker-says/417099/"]]},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Introduced the bipartisan FISA AI Reporting Act with Rep. Addison McDowell, requiring a report to Congress on intelligence community use of AI with Section 702 data.", "Walkinshaw press release, 2026-09-17", "https://walkinshaw.house.gov/news/documentsingle.aspx?DocumentID=836"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 AI remarks concern US-China dialogue to stop rogue AI agents hacking systems and oversight of intelligence agencies' AI use; neither acknowledges catastrophic risk from AI under the rubric.",
+ "notes": "Seven web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act); none were refused. The quote of 5 November 2026 was read on the Defense One page (also confirmed in Nextgov's article of the same day, which has the same wording); both say he spoke 'Thursday' with a 6 November byline, so 5 November 2026 is assumed (6 November 2026 was a Friday; one page reading suggested a photo caption says 'Thursday, Nov. 6', which is inconsistent). The page reading tool returned quotes in pieces, so the full quote was assembled from consecutive pieces of the same sentence confirmed to be continuous; a reviewer should check the exact wording at the source. Paraphrases left out of statements: Nextgov and Defense One report that he wants 'permanent, serious' dialogue with China to mitigate the risks powerful AI models pose, and that he supports safety testing of frontier AI models like FAA aircraft inspections, by a federal agency or a government-supervised third party; he also does not expect a House AI select committee. An April 2026 AP report (News4Jax) on a lawmakers' AI roundtable paraphrases him as alarmed that federal employees may be using AI chatbots with sensitive government data, with no direct quote. Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 September 2026): the FastDemocracy cosponsor list (12 names) does not include Walkinshaw; congress.gov was not checked. No House letter on AI risk led by him was found. From the earlier attempt: walkinshaw.house.gov home page, issues list (no AI issue page) and press release pages 1 to 4 (29 July to 12 November 2026) were read; only the 17 September 2026 release mentions AI, and the 10 August 2026 op-ed in The Hill on government technology does not. Other quote in that release: \"Our laws and oversight must keep pace with the technology.\" Press releases before late July 2026 and floor speeches were not checked directly."
+}

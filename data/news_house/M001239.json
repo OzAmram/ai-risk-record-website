@@ -1,0 +1,43 @@
+{
+  "bioguide": "M001239",
+  "member": "John J. McGuire III",
+  "searches": [
+    "McGuire artificial intelligence (restricted to mcguire.house.gov)",
+    "Rep. John McGuire Virginia superintelligence",
+    "John McGuire congressman AI extinction existential risk",
+    "Rep. John McGuire AI pause slowdown moratorium",
+    "Rep. John McGuire China AI agreement treaty",
+    "\"John McGuire\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors McGuire"
+  ],
+  "statements": [
+    {"date": "2026-09-16", "venue": "Press release on House passage of the Ratepayer Protection Act",
+     "quote": "The Ratepayer Protection Act ensures we can remain strong in the AI race against China",
+     "context": "A bill to keep data center grid costs from being passed on to household electricity customers.",
+     "source_label": "McGuire House press release", "url": "https://mcguire.house.gov/media/press-releases/rep-john-mcguire-celebrates-passage-bill-shield-residents-data-center-costs",
+     "read_at_source": true, "level": "D", "flags": [],
+     "reason": "About data center costs and competition with China, which are outside catastrophic risk (ruling 5)."},
+    {"date": "2026-06-29", "venue": "Press release on Hitachi transformer factory groundbreaking",
+     "quote": "As AI becomes more prominent, we must keep up with the growing demand for large power transformers.",
+     "context": "Groundbreaking of a power transformer factory in South Boston, Virginia.",
+     "source_label": "McGuire House press release", "url": "https://mcguire.house.gov/media/press-releases/rep-john-mcguire-celebrates-hitachi-groundbreaking-south-boston-virginia",
+     "read_at_source": true, "level": "D", "flags": [],
+     "reason": "Mentions AI only as a driver of electricity demand, with no acknowledgment of catastrophic risk."},
+    {"date": "2025-09-17", "venue": "House Oversight Committee hearing (question to witnesses)",
+     "quote": "Mr. Hammond and Ms. Fabrizio, what are some of the ways AI superintelligence might actually help us solve the energy problem?",
+     "context": "A hearing on the US developing AI to win the technology race with China, where he asked about powering AI and the energy grid.",
+     "source_label": "House Oversight Committee hearing wrap-up, 18 Sep 2025", "url": "https://oversight.house.gov/release/hearing-wrap-up-the-u-s-must-develop-and-advance-artificial-intelligence-to-dominate-the-tech-race/",
+     "read_at_source": true, "level": "D", "flags": [],
+     "reason": "Asks how superintelligence could help solve energy problems, treating it as a benefit, with no acknowledgment of catastrophic risk; not dismissive of risk either."}
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; his China mentions are about staying strong in the AI race.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 he has spoken about AI only as a source of electricity demand and as a race against China, and in 2025 he asked how superintelligence could help solve energy problems; none of this acknowledges catastrophic risk.",
+  "notes": "All seven searches ran in this attempt (the six required plus one on the Ban Artificial Superintelligence Act); none was refused. An earlier attempt had run only one search before refusals; its official-site findings are kept. Left out as a paraphrase: an Associated Press report (Matt Brown, 16 Apr 2026, https://www.news4jax.com/news/politics/2026/04/17/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/) says that at a congressional AI roundtable he 'expressed concerns that AI systems could deny U.S. military forces from taking lethal actions due to a model's conclusion for \"moral\" behavior.' No direct quote was given; even if quoted, this is about military use and would likely be D (ruling 3), though a reviewer could look for a transcript. The 2025 hearing quote was read on the committee's release page, but the page tool returned it in two segments ('...might actually help us' / 'solve the energy problem?'); the search result showed the same continuous wording, so I joined them as one sentence. The data center quote is the first part of a longer sentence (from the earlier attempt; the remainder is about protecting families from financial strain, so the cut does not change meaning). Ban Artificial Superintelligence Act (H.R. 10538 / S. 5493, introduced 23 Sep 2026 by Sanders and Casar): no source names him as a co-sponsor; congress.gov's cosponsor page returned 403 so this could not be confirmed directly. No House letter on AI risk led or signed by him was found (multi-signer August/September 2026 letters were not searched, per instructions). He co-led the Quantum Encryption Readiness and Resilience Act (quantum cybersecurity, not AI). Several search results were about other people (Ro Khanna, Milo McGuire); none was attributed to him."
+}

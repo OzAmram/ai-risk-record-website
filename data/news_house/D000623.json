@@ -1,0 +1,27 @@
+{"bioguide": "D000623", "member": "Mark DeSaulnier",
+ "searches": [
+  "site:desaulnier.house.gov artificial intelligence",
+  "Mark DeSaulnier superintelligence",
+  "DeSaulnier AI extinction existential risk",
+  "DeSaulnier AI pause slowdown moratorium",
+  "DeSaulnier China AI agreement treaty",
+  "\"DeSaulnier\" \"AI safety\""
+ ],
+ "statements": [
+  {"date": "2026-02-03", "venue": "Opening statement, House Education and Workforce HELP Subcommittee hearing \"Building an AI-Ready America: Adopting AI at Work\"",
+   "quote": "While some uses of this technology in the workplace show promise, it also poses significant dangers.",
+   "context": "As subcommittee ranking member he discussed AI in the workplace: retaliation against workers, privacy, discrimination and the power gap between workers and employers.",
+   "source_label": "House Education and Workforce Democrats press release", "url": "https://democrats-edworkforce.house.gov/media/press-releases/help-ranking-member-desaulnier-remarks-on-artificial-intelligence-in-the-workplace",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "The dangers he describes are workplace harms (union retaliation, wage suppression, privacy, discrimination), not catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only substantive AI remarks found (February 2026 hearing) concern workplace harms such as retaliation, privacy and discrimination, with no acknowledgment of catastrophic risk.",
+ "notes": "Six web searches ran; none were refused. No source found showing he sponsored or co-sponsored the Ban Artificial Superintelligence Act or signed a House AI-risk letter other than the centrally handled multi-signer letters (not searched, per instructions). The press release page of desaulnier.house.gov (first page only) showed no AI releases; a 10 September 2026 release on the Sunset Section 230 Act concerns tech platforms, not AI. The hearing statement's date is shown as 02.03.26 on the page, read as 3 February 2026. The quote was extracted through a page-fetch tool that summarizes pages; reviewer should confirm exact wording. The Axios 23 September 2026 article on Democratic AI approaches could not be opened (403)."}

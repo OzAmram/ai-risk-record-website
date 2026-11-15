@@ -1,0 +1,124 @@
+{
+ "bioguide": "L000607",
+ "member": "Sam T. Liccardo",
+ "searches": [
+  "site:liccardo.house.gov artificial intelligence",
+  "Sam Liccardo superintelligence",
+  "Liccardo AI extinction existential risk",
+  "Liccardo AI pause slowdown moratorium",
+  "Liccardo China AI agreement talks",
+  "\"Sam Liccardo\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Liccardo"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-22",
+   "venue": "Press release announcing a bill with Rep. Kevin Kiley",
+   "quote": "We talk to the Chinese because—as with the USSR during the Cold War—all of our lives depend on it.",
+   "context": "Explaining why the U.S. should talk to China about frontier AI safety, right after warning about a race to superintelligence that exceeds human control.",
+   "source_label": "House press release",
+   "url": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says everyone's lives depend on managing AI risk with China, which is close to the 'threat to our survival' framing in ruling 1; B is the alternative if a reviewer reads it as loss of control only."
+  },
+  {
+   "date": "2026-09-22",
+   "venue": "Press release announcing a bill with Rep. Kevin Kiley",
+   "quote": "The AI industry has focused on running faster, but no human wins a race to superintelligence that exceeds human control,",
+   "context": "Introducing a bill to set up U.S.-China coordination on frontier AI safety, focused on loss of control, chemical, biological, radiological and nuclear threats, and cyber risks.",
+   "source_label": "House press release",
+   "url": "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Names superintelligence exceeding human control (loss of control) as a danger from AI itself, without extinction wording."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Op-ed in The Hill, reposted on his House site",
+   "quote": "As with the USSR in the Cold War, our collective lives depend on it.",
+   "context": "Arguing that the U.S. must talk to China about AI safety despite distrust.",
+   "source_label": "The Hill op-ed (via liccardo.house.gov)",
+   "url": "https://liccardo.house.gov/media/in-the-news/op-ed-what-congress-can-do-about-ai-safety-china-now",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says our collective lives depend on U.S.-China AI safety talks, close to a threat-to-survival statement; B is the alternative reading."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Op-ed in The Hill, reposted on his House site",
+   "quote": "A race to achieve superintelligence exceeding human control, however, is one that no human can win.",
+   "context": "Closing line of an op-ed calling for AI safety legislation and technical AI safety talks with China.",
+   "source_label": "The Hill op-ed (via liccardo.house.gov)",
+   "url": "https://liccardo.house.gov/media/in-the-news/op-ed-what-congress-can-do-about-ai-safety-china-now",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "Warns of superintelligence exceeding human control, a loss-of-control risk from AI itself."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Press release on a House letter he co-led",
+   "quote": "While we're seeing this firestorm of concern throughout the country around AI safety, we've got Speaker Johnson fiddling, and at least Nero had the decency to stay in town while Rome burned,",
+   "context": "His own statement on the 107-member letter asking Speaker Johnson to keep the House in session to pass AI safeguards.",
+   "source_label": "House press release",
+   "url": "https://liccardo.house.gov/media/press-releases/over-hundred-house-democrats-demand-congress-stay-session-confront-ai-crisis",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Treats AI safety as an urgent crisis in general terms without naming a catastrophic harm; the letter itself is handled centrally and not graded here."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement for or against slowing frontier AI. His China bill lists 'capability pacing' as a negotiation topic, but that is about talks with China, recorded under intl.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on a pause.",
+   "sources": []
+  },
+  "intl": {
+   "value": "yes",
+   "note": "Sponsored (with Rep. Kevin Kiley) a bill directing the State Department to negotiate binding, verifiable U.S.-China AI safety safeguards covering topics including 'capability pacing', and argued for these talks in a Hill op-ed. Counted as yes via bill sponsorship.",
+   "sources": [
+    [
+     "House press release, 22 Sep 2026",
+     "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone"
+    ],
+    [
+     "The Hill op-ed, 29 Sep 2026",
+     "https://liccardo.house.gov/media/in-the-news/op-ed-what-congress-can-do-about-ai-safety-china-now"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced, with Rep. Kevin Kiley (I-CA), a bill to establish U.S.-China coordination on frontier AI safety: negotiations on binding verifiable safeguards (including capability pacing), focus on loss of control and alignment failures and CBRN threats, a U.S.-China AI hotline, and $100 million for the Center for AI Standards and Innovation.",
+   "House press release, 22 Sep 2026",
+   "https://liccardo.house.gov/media/press-releases/new-bipartisan-ai-safety-bill-will-move-us-and-china-beyond-red-phone"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In September 2026 he twice tied U.S.-China AI talks to 'all of our lives' / 'our collective lives', alongside warnings about superintelligence exceeding human control; this is graded A under the threat-to-survival ruling but is a boundary call, and B is the safe floor from his explicit loss-of-control statements. No dismissive statements found.",
+ "notes": "Searches: 7 ran, 0 refused. Pages opened directly on liccardo.house.gov (press releases of 11, 16 and 22 Sep 2026; Hill op-ed repost dated 29 Sep 2026; Punchbowl repost 22 Sep 2026). He led (with Whitesides, Lieu and Trahan) the letter to Speaker Johnson first shared 11 Sep 2026 and sent 15/16 Sep with 107 signers; this appears to be the centrally handled 15 September letter, so its text (e.g. 'conflagration of risk', 'post-apocalyptic history') is left out; only his own quoted remark is included. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (Sanders/Casar); not on any cosponsor list seen. Not opened: Washington Post op-ed (May 2025, 'referee, not a regulator' per search snippet), San Jose Spotlight/Mountain View Voice piece (May 2026) saying he favors tech partnerships over regulation, Punchbowl report that he would not cosponsor Rep. Obernolte's AI bill, and March 2026 press releases on the Pentagon and Anthropic; these look like D-level policy material, not dismissals. Bloomberg Tech paraphrase ('The law has not yet caught up with AI's abilities', via StartupHub, March 2026) not verified at source and left out."
+}

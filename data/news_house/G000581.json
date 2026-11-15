@@ -1,0 +1,40 @@
+{
+  "bioguide": "G000581",
+  "member": "Vicente Gonzalez",
+  "searches": [
+    "Vicente Gonzalez artificial intelligence (restricted to gonzalez.house.gov)",
+    "Rep. Vicente Gonzalez superintelligence",
+    "\"Vicente Gonzalez\" AI extinction existential risk",
+    "\"Vicente Gonzalez\" AI pause slowdown moratorium",
+    "\"Vicente Gonzalez\" China AI agreement treaty",
+    "\"Vicente Gonzalez\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors list"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI only in a consumer-protection context: his 14 May 2026 letter to online travel company CEOs asks them to apply responsible AI standards, which is level D. All required searches found nothing about catastrophic AI risk.",
+  "notes": "All six required web searches ran, plus one on the Ban Artificial Superintelligence Act cosponsors (7 in total). None of the topic searches (superintelligence, extinction or existential risk, pause or moratorium, China agreement, AI safety) found anything by this Vicente Gonzalez; results with the name Gonzalez were about New York State Senator Kristen Gonzalez, a different person. Earlier in the previous attempt, the first two pages of press releases on gonzalez.house.gov (20 releases, 15 August to 9 November 2026) were opened directly; none is about AI. AI item left out of statements: his 15 May 2026 press release (https://gonzalez.house.gov/media/press-releases/congressman-vicente-gonzalez-demands-transparency-predatory-practices-online, opened again this run) on his 14 May 2026 letter to online travel agency CEOs says he asked them to 'apply responsible Artificial Intelligence standards'; a search summary said the letter asks that platforms not rely solely on AI for customer service or dispute resolution. This is press office wording, and the letter PDF (https://gonzalez.house.gov/sites/evo-subsites/gonzalez-evo.house.gov/files/evo-media-document/final_letter-to-ota-ceos.pdf) could not be converted to text, so no exact quote was taken; it would be level D. Older items found (a bill with Rep. Ed Royce on Treasury exploring AI to detect money laundering, and a U.S.-Spain Council forum that discussed AI) are undated or likely before 2025, and are not about catastrophic risk. Ban Artificial Superintelligence Act (H.R. 10538, Casar): no source found names him as a cosponsor, but no full cosponsor list could be read (congress.gov returned 403; Quiver Quantitative gives only a count of 9; a search summary named Hoyle, Lynch, Tonko, Ansari and Ocasio-Cortez among supporters). No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

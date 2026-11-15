@@ -1,0 +1,27 @@
+{
+  "bioguide": "S001190",
+  "member": "Bradley Scott Schneider",
+  "searches": [
+    "site:schneider.house.gov artificial intelligence",
+    "Brad Schneider superintelligence",
+    "Rep. Brad Schneider AI extinction existential risk",
+    "Congressman Schneider AI pause slowdown moratorium",
+    "Rep. Brad Schneider China AI agreement treaty",
+    "\"Brad Schneider\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Rep. Brad Schneider artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement or action by Schneider on slowing AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement or action by Schneider on pausing AI development was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement or action by Schneider on AI talks or an agreement with China was found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement or action by Schneider on banning self-improving AI was found.", "sources": []}
+  },
+  "record": [
+    ["Introduced H.R. 7585 (February 2026), a bill establishing support programs for workers in industries likely to be disrupted by AI and other emerging technologies; about jobs, so out of scope (level D at most).", "Legis1 AI on Capitol Hill roundup, 2026-03-20", "https://legis1.com/news/congress-advances-ai-bills-on-multiple-fronts-as-federal-state-tensions-simmer-legis1-ai-on-capitol-hill-roundup"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related item found is a 2026 workforce bill about workers displaced by AI, which concerns jobs rather than catastrophic risk; no statement by Schneider about catastrophic AI risk was found.",
+  "notes": "All required searches ran this time (8 web searches in total). None of them returned any statement by Brad Schneider about AI risk, superintelligence, extinction, a pause, or China talks; the 'superintelligence', 'AI safety' and 'extinction' searches surfaced other people (Susan Schneider, Brad Knox, Rep. Brad Knott), who were excluded. The site:schneider.house.gov search returned no pages from his site. H.R. 7585 is known only from a secondary source (Legis1, 20 March 2026), which gives no formal title or exact introduction date (it says the same week as a 13 February bill); congress.gov returned HTTP 403, so the bill text and his own wording were not checked, and no quote from him about it was found. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy cosponsor list (12 names) does not include Schneider, but that list omits the lead sponsor Casar, so it may be incomplete; congress.gov returned 403. No source shows him as a cosponsor. His press release listing (page 1, 13 October to 12 November 2026) has no AI titles; the earlier attempt also checked listing pages 1 to 6 (9 January to 12 November 2026) and found no AI titles, and found the site's own search page returned HTTP 403. Press releases from 2025, hearing remarks and floor speeches were not checked individually."
+}

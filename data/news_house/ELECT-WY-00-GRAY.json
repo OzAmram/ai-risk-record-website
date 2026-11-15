@@ -1,0 +1,38 @@
+{
+  "bioguide": "ELECT-WY-00-GRAY",
+  "member": "Chuck Gray",
+  "searches": [
+    "Chuck Gray Wyoming artificial intelligence",
+    "\"Chuck Gray\" \"AI safety\"",
+    "Chuck Gray superintelligence",
+    "Chuck Gray AI extinction existential risk",
+    "Chuck Gray AI pause moratorium data center Wyoming congress",
+    "Chuck Gray China AI agreement",
+    "site:chuckgray.org AI OR \"artificial intelligence\"",
+    "\"Chuck Gray\" congress campaign \"artificial intelligence\" OR \"Big Tech\" 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-12",
+      "venue": "Interview with Cowboy State Daily",
+      "quote": "no one had any idea where the AI revolution was heading",
+      "context": "Defending his 2021 opposition to ending Wyoming's sales-tax exemption for data centers, saying nobody foresaw the power and water demands of AI data centers.",
+      "source_label": "Cowboy State Daily, 15 June 2026",
+      "url": "https://cowboystatedaily.com/2026/06/15/coal-industry-frustrated-with-gop-candidates-who-want-to-kill-data-centers/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About data centers' demands on the power grid and water, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "He opposes the data center buildout in Wyoming, but for reasons of power, water, taxes and 'Big Tech surveillance', not risks from AI itself, so this does not count.", "sources": [["Cowboy State Daily, 15 June 2026", "https://cowboystatedaily.com/2026/06/15/coal-industry-frustrated-with-gop-candidates-who-want-to-kill-data-centers/"]]},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2026 (data centers' power and water use, and rejecting an AI-run candidate's ballot registration as Secretary of State) but nothing found about catastrophic risk from AI.",
+  "notes": "8 web searches ran; none was refused. The site-restricted search returned no pages from chuckgray.org, and direct fetches of chuckgray.org (domain not found) and chuckgrayforwyoming.com (empty page) failed, so his campaign site was not checked; the search may be incomplete. The quote is a fragment quoted by the reporter; the interview date is inferred as Friday 12 June 2026 from the article's wording ('Friday') and its 15 June date. Same article quotes his 8 June 2026 Facebook post calling to stop 'woke Big Tech surveillance state data centers' (D, not included). A Weston County event report (May 2026) paraphrases him as 'not a big fan' of data centers over water and energy concerns; page could not be opened. As Secretary of State he rejected an AI-backed candidate's (VIC) 2024 Cheyenne mayoral bid and 2026 US Senate registration on ballot-name and qualified-elector grounds (Wyoming Public Media, 8 June 2026); this is election administration, not a view on AI risk. As a representative-elect he could not have co-sponsored the Ban Artificial Superintelligence Act and signed none of the House letters."
+}

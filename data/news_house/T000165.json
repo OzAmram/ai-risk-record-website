@@ -1,0 +1,25 @@
+{
+  "bioguide": "T000165",
+  "member": "Thomas P. Tiffany",
+  "searches": [
+    "site:tiffany.house.gov artificial intelligence",
+    "Tom Tiffany superintelligence",
+    "Rep. Tom Tiffany AI extinction existential risk",
+    "Tom Tiffany AI pause moratorium slowdown",
+    "Tom Tiffany China AI agreement treaty",
+    "\"Tom Tiffany\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Tiffany Wisconsin governor artificial intelligence data centers AI"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development for safety reasons; his call for a 'go slow approach' on AI (TMJ4) is about privacy and data going to China, not frontier capability risk.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Rep. Tiffany has spoken about AI in 2026, mainly about data centers, privacy and China, during his Wisconsin governor campaign, but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus two extra (8 total, none refused). None found a statement by Tiffany on superintelligence, extinction, AI safety, a pause or slowdown, or a China agreement. The site-restricted search returned no tiffany.house.gov pages; an earlier attempt opened tiffany.house.gov directly (home page, press releases pages 1-2 covering November 2025 to September 2026, editorials/letters page, newsletter page 1) and found no AI items except a 29 December 2025 Congressional App Challenge announcement. He is on the House Judiciary committee roster for an 18 September 2025 subcommittee hearing on AI (govinfo CHRG-119hhrg61690) but was not listed as present and did not speak in the transcript as read. Ban Artificial Superintelligence Act (H.R. 10538, House lead Casar): cosponsor lists seen in search results (fastdemocracy, Forkast, Nextgov via aiunderstanding.org) do not include Tiffany; congress.gov was not checked directly. Left out of statements: (1) TMJ4 article 'Wisconsin governor's race tackles AI guardrails and data centers' (https://www.tmj4.com/news/politics/wisconsin-governors-race-tackles-ai-guardrails-and-data-centers), read at source, quotes him: \"I think it's like any technology. There are benefits to it, but there's also risks, and that's what we need to do is that assessment\" and calls for guardrails, privacy protection, keeping data from China and 'a bit of a go slow approach'. This would be level D (privacy and China, no catastrophic risk) but the page shows no publication date, so it was not added as a statement; it is the basis for grade D. (2) Wisconsin Watch, 12 October 2026, reports he called data centers \"exciting new technology\" (January 2026) and paraphrases him saying data centers are needed to keep technology from going to China; paraphrase only. (3) Several outlets (WPR, NOTUS, Fox6, Prospect, Urban Milwaukee, Daily Signal) cover his data center campaign messaging ('no new data centers without strong standards to protect Wisconsin'), which is level D and was not opened. Opponent material says he voted in 2025 for the House budget bill with a 10-year moratorium on state AI laws; this is a vote on preemption, not on catastrophic risk, and was not added to record. Wisconsin governor election outcome (3 November 2026) not checked."
+}

@@ -1,0 +1,73 @@
+{
+  "bioguide": "F000476",
+  "member": "Maxwell Frost",
+  "searches": [
+    "site:frost.house.gov artificial intelligence",
+    "Maxwell Frost \"AI safety\"",
+    "Maxwell Frost superintelligence",
+    "Rep. Maxwell Frost AI extinction existential risk",
+    "Maxwell Frost AI pause moratorium slowdown",
+    "Maxwell Frost China AI agreement treaty",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Frost"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-16",
+      "venue": "House Oversight subcommittee roundtable, \"Artificial Intelligence and American Power\"",
+      "quote": "I don't have faith in this institution to actually put the common sense guardrails in place.",
+      "context": "As ranking Democrat at a House Oversight subcommittee roundtable on AI, Frost said Congress might fall behind the technology; he also said \"And then we fast forward ten years, and the house is on fire,\" and that this \"won't be good for anybody\".",
+      "source_label": "Associated Press via Insurance Journal, 20 April 2026",
+      "url": "https://www.insurancejournal.com/news/national/2026/04/20/866575.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He worries that AI will outpace lawmakers and that the results could be bad, but names no catastrophic or specific serious danger from AI itself; the 'house is on fire' remark is a general metaphor (ruling 4), so D, at the edge of C."
+    },
+    {
+      "date": "2025-04-01",
+      "venue": "Opening remarks as subcommittee ranking member, House Oversight hearing on AI and data centers",
+      "quote": "We can support innovation without removing the safeguards that have prioritized personal civil rights and civil liberties.",
+      "context": "Frost's opening statement covered AI risks such as deepfakes, copyright, health care misdiagnosis, autonomous weapons, and the electricity, water and pollution costs of data centers.",
+      "source_label": "House Oversight Democrats press release, 1 April 2025",
+      "url": "https://oversightdemocrats.house.gov/news/press-releases/subcommittee-ranking-member-frosts-opening-remarks-hearing-trumps-efforts-rush",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Covers civil rights, deepfakes, copyright, military use and data-center costs, all of which are D under rulings 3 and 5; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Frost and Florida Democrats asked the DeSantis administration about its planned use of AI to decide SNAP eligibility (benefits administration, not catastrophic risk).",
+      "Frost press release, 2026-08-04",
+      "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Frost has spoken about AI in 2025 and 2026, mostly about guardrails, civil rights, data centers and Congress falling behind, but no statement found acknowledges catastrophic risk from AI.",
+  "notes": "All 7 web searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act). The site-restricted search returned no frost.house.gov pages, so I opened frost.house.gov press releases page 1 of 12 directly (20 items, 16 April to 20 October 2026); the only AI item was the 4 August 2026 SNAP letter. Older press releases were not checked. The searches on AI safety, superintelligence, pause/slowdown and China agreement returned nothing mentioning Frost. The extinction search returned only coverage of the 16 April 2026 roundtable (AP, carried by WTOP, News4JAX, Insurance Journal and others) and his 1 April 2025 remarks. Ban Artificial Superintelligence Act: sponsors reported are Sen. Sanders and Rep. Casar; Forkast reports Rep. Ocasio-Cortez and nine unnamed House Democrats as co-sponsors. No source I saw names Frost; congress.gov returned 403 in the earlier attempt and was not retried, so his co-sponsorship is not confirmed either way. The AP paraphrased Frost as worrying that AI would 'pose potentially disastrous consequences if not addressed early on'. That is the reporter's wording, so I left it out as a quote, but a reviewer may want to look at the full roundtable remarks in case they reach C. The roundtable date (16 April 2026) is supported by the AP story's 16 April 2026 dateline on News4JAX. Pages were read through a summarizing fetch tool. The roundtable quote was matched again on News4JAX this run, but a reviewer should check quotes character by character. The many-signer House letters of August and September 2026 were left out, as the instructions say."
+}

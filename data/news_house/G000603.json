@@ -1,0 +1,24 @@
+{
+  "bioguide": "G000603",
+  "member": "Brandon Gill",
+  "searches": [
+    "Brandon Gill artificial intelligence site:gill.house.gov",
+    "Rep. Brandon Gill superintelligence",
+    "Brandon Gill AI extinction existential risk",
+    "Brandon Gill AI pause moratorium slowdown",
+    "Brandon Gill China AI agreement treaty",
+    "\"Brandon Gill\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Gill about AI was found in seven web searches, his official press releases, or the two House AI hearings he was listed for.",
+  "notes": "All six required web searches ran, plus one on the Ban Artificial Superintelligence Act; none returned any statement by Gill on AI. The site-restricted search returned no AI page on gill.house.gov. The pause/moratorium search returned only items about a different person, South Carolina Republican Brandon Guffey. From the earlier attempt (still valid): all five pages of press releases on gill.house.gov (February 2025 to 28 September 2026, about 50 releases) were opened and none is about AI, superintelligence or AI and China, though some release texts were shown only in part, so a passing mention cannot be ruled out. Two September 2025 House hearing transcripts were checked ('Shaping Tomorrow: The Future of Artificial Intelligence', 17 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61734/html/CHRG-119hhrg61734.htm, and 'AI at a Crossroads: A Nationwide Strategy or Californication?', 18 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm); Gill is on the committee rosters but was not recorded as speaking. Ban Artificial Superintelligence Act: the House version is H.R. 10538, introduced by Rep. Greg Casar on 24 September 2026, reported with about 9 cosponsors, all described as Democrats; no source showed Gill as a cosponsor. The congress.gov cosponsor page returned 403 Forbidden, so the full cosponsor list was not seen directly."
+}

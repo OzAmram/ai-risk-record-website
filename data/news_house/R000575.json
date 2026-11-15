@@ -1,0 +1,21 @@
+{"bioguide": "R000575", "member": "Mike Rogers",
+ "searches": [
+  "\"Mike Rogers\" artificial intelligence site:mikerogers.house.gov",
+  "\"Mike Rogers\" Alabama superintelligence",
+  "Rep. Mike Rogers Alabama AI extinction existential risk",
+  "Armed Services Chairman Mike Rogers AI pause slowdown moratorium",
+  "Chairman Mike Rogers Armed Services China AI agreement treaty",
+  "\"Mike Rogers\" Armed Services \"AI safety\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement by the Alabama representative found on slowing frontier AI development; the reported call for an AI slowdown is by Mike Rogers of Michigan, a different person.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; he is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement since 1 January 2025 by Rep. Mike Rogers of Alabama about AI was found in news, his House office site or the Armed Services Committee press releases.",
+ "notes": "Name collision: most AI-related results for 'Mike Rogers' concern Mike Rogers of Michigan (former House Intelligence chair, 2026 Republican Senate nominee), including a Digg/CBS item saying he called for an AI slowdown, a campaign release praising the White House AI framework, and reports on his data center investments. None of these are about the Alabama representative and all were left out. The only AI item found for the Alabama Rogers is a 2019 Homeland Security Committee release applauding a Trump AI executive action (https://homeland.house.gov/2019/02/11/rogers-applauds-trump-move-to-promote-american-ai-development/), which is before 2025 and so excluded. A June 2026 advocacy-group letter on AI and autonomous weapons in the defense bill was addressed to him as Armed Services chairman, but that is not his statement. Checked directly: the mikerogers.house.gov press release list (latest ten, Feb to Sep 2026) and the armedservices.house.gov press release list (May to Jul 2026); neither showed AI in titles or excerpts, but full texts (e.g. his FY27 defense bill floor and markup statements) were not opened, so military-AI remarks (level D under ruling 3) could exist. Six web searches ran, none refused."
+}

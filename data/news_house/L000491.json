@@ -1,0 +1,25 @@
+{
+  "bioguide": "L000491",
+  "member": "Frank D. Lucas",
+  "searches": [
+    "Frank Lucas artificial intelligence (restricted to lucas.house.gov)",
+    "Rep. Frank Lucas superintelligence",
+    "Frank Lucas AI existential risk extinction",
+    "Frank Lucas AI pause slowdown moratorium",
+    "Rep. Frank Lucas China AI agreement treaty",
+    "\"Frank Lucas\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Rep. Frank Lucas AI 2026 Financial Services artificial intelligence statement"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement with China on AI; his China-related AI remarks found are older and frame AI as a competition with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; he is not listed as a cosponsor of the House Ban Artificial Superintelligence Act (H.R. 10538).", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement about AI dated 1 January 2025 or later was found. All AI material found is from 2020 to 2024 (as Science Committee chair or ranking member) and treats AI as a research priority and a field of competition with China, without acknowledging catastrophic risk.",
+  "notes": "All six required searches ran this time, plus two extra (8 total); none returned a statement by Lucas from 2025 or later about AI risk. Older material found but excluded because it predates 2025: lucas.house.gov posts on the basic research bill, the China Task Force report and an op-ed with Rep. Bice; a June 2023 Washington Times report that he cautioned against copying China's approach to AI and called for safeguards without overregulation; and May 2024 reports (okenergytoday.com, southwestledger.news) that he cautioned against rushing AI research. None of these was opened. The superintelligence search surfaced a hearing where Rep. Nathaniel Moran, not Lucas, discussed superintelligence risk. Ban Artificial Superintelligence Act: the House bill H.R. 10538 (introduced 24 September 2026) cosponsor list on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) shows 12 Democratic cosponsors and does not include Lucas; congress.gov was not checked. No House letter about AI risk signed by Lucas was found. One search result summary claimed Lucas left the House at the end of 2024; this is wrong (the earlier attempt found his official site posting items from July to November 2026) and was ignored. Earlier attempt (same project) opened his official site home page, /press, /resources, /resources/frankly-speaking and /resources/in-the-news: the home page items from 8 July to 11 November 2026 were not about AI, and the listing pages appeared empty because they load content with scripts, so his 2025 and 2026 press releases could not be fully reviewed. Recent home page items suggest he now sits on the Financial Services Committee."
+}

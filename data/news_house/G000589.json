@@ -1,0 +1,100 @@
+{
+  "bioguide": "G000589",
+  "member": "Lance Gooden",
+  "searches": [
+    "Lance Gooden artificial intelligence (restricted to gooden.house.gov)",
+    "Lance Gooden superintelligence",
+    "Lance Gooden AI extinction existential risk",
+    "Lance Gooden AI pause moratorium slowdown",
+    "Lance Gooden China AI agreement treaty",
+    "\"Lance Gooden\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Gooden"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-09",
+      "venue": "Press release on letter to Director of National Intelligence Jay Clayton",
+      "quote": "As agentic AI becomes more powerful, China and other adversaries will look for every weakness they can exploit. Congress needs to know whether our current defenses are able to keep pace and where we need to act before the next threat becomes a crisis.",
+      "context": "Gooden led a letter asking the Director of National Intelligence, newly named to head the White House Super Intelligence Force, whether defenses against AI and superintelligence threats from foreign adversaries are adequate; the letter cites reports of AI systems exceeding testing boundaries and accessing external systems.",
+      "source_label": "Gooden House press release",
+      "url": "https://gooden.house.gov/press-releases?id=75086BA0-0C2E-46AC-915E-E710077AE939",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action",
+        "boundary"
+      ],
+      "reason": "The harms named are misuse by China and other adversaries, cybersecurity and general national security, not a catastrophic danger from AI itself; the letter's mention of AI systems escaping test environments names only cybersecurity consequences (rulings 4 and 5)."
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "Press release on letter to Acting Attorney General Todd Blanche",
+      "quote": "Artificial intelligence will shape the future of our economy, national security, and global competitiveness. The United States cannot allow foreign adversaries to manipulate our AI policy and compromise our leadership on this technology.",
+      "context": "Gooden led a letter urging the Justice Department to investigate alleged foreign (Chinese) influence on U.S. AI policy debates through propaganda, foreign-linked nonprofits and funding streams.",
+      "source_label": "Gooden House press release",
+      "url": "https://gooden.house.gov/press-releases?ID=FA52646F-00EC-45A3-BE86-37547C65315F",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About competition with China and foreign influence on AI policy; no catastrophic risk is acknowledged or dismissed."
+    },
+    {
+      "date": "2026-03-27",
+      "venue": "Press release on letter to Energy Secretary Chris Wright",
+      "quote": "America must lead the world in innovation, not fall behind the Chinese Communist Party. The Genesis Mission accelerates AI-driven discovery, strengthens our energy future, and ensures the U.S. drives the next generation of technological breakthroughs,",
+      "context": "Gooden led a letter supporting the Energy Department's Genesis Mission to deploy AI across U.S. science and counter China.",
+      "source_label": "Gooden House press release",
+      "url": "https://gooden.house.gov/press-releases?ID=7E5F4217-3413-418A-895F-D0EA665531D6",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes AI and competition with China without mentioning catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; his AI statements frame China as an adversary to out-compete.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Led a letter, co-signed by Reps. Weber, Houchin and Bacon, asking the Director of National Intelligence to assess defenses against AI and superintelligence threats and misuse by foreign adversaries and to identify gaps in law.",
+      "Gooden press release and letter PDF, 2026-10-09",
+      "https://gooden.house.gov/_cache/files/7/0/70f40047-b651-4d6a-8b9b-566693827e08/6B6C3B59B6F2E7E54BA5B7173AC6784A5E6607AC6DD0DF92E119F2A10A280618.2026.10.9---letter-to-dni-clayton-on-ai-and-national-security.pdf"
+    ],
+    [
+      "Led a letter, co-signed by five Republicans, urging the Justice Department to investigate foreign influence in U.S. AI policy debates.",
+      "Gooden press release, 2026-07-24 (letter dated 2026-07-21)",
+      "https://gooden.house.gov/press-releases?ID=FA52646F-00EC-45A3-BE86-37547C65315F"
+    ],
+    [
+      "Led a letter, co-signed by eight Republicans, supporting the Energy Department's AI Genesis Mission.",
+      "Gooden press release, 2026-03-27",
+      "https://gooden.house.gov/press-releases?ID=7E5F4217-3413-418A-895F-D0EA665531D6"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 AI statements concern misuse by China, cybersecurity, foreign influence and AI competitiveness; none acknowledges catastrophic risk from AI, and none dismisses it.",
+  "notes": "All seven web searches ran (the six required plus one on Ban Artificial Superintelligence Act co-sponsors), so the search is complete. The three statements and record entries come from an earlier pass that opened gooden.house.gov directly: press release pages 1-4 (back to about August 2024), the three AI-related releases, and the full PDF of the 9 October 2026 letter; the new searches found no further AI statements from 2025 or 2026 on his site. The October letter is the closest to the boundary: it congratulates Clayton on leading the White House Super Intelligence Force, refers to 'threats and misuse of artificial intelligence/super intelligence (AI/SI) by foreign adversaries', and cites developer reports that 'AI systems exceeded the intended boundaries of testing environments and accessed external systems', but frames them as cybersecurity and national security concerns, so I graded it D (a reviewer may consider C). The July 2026 letter seeks a probe of foreign-linked groups shaping AI debates; it does not dismiss catastrophic risk, so it is not F. Gooden wrote a Washington Examiner op-ed, 'Don’t fear agentic AI. Fear Congress doing nothing about it' (16 July 2026, https://www.washingtonexaminer.com/?p=4651421); only the introduction was readable (paywall). It says 'We are now entering the age of agentic AI, and Congress is not ready.' and, per a search summary, argues for addressing liability for agentic AI without a heavy regulatory regime. The visible text does not discuss catastrophic risk, so it is D at most and not included as a statement; a reviewer with access may want to read the full piece, since its headline could bear on F or C. A Fox News piece in which he called AI 'very scary' and urged action 'before it's too late' dates from the 2023 pause-letter period, before the 1 January 2025 cutoff, so it was left out. No source links him to the Ban Artificial Superintelligence Act (House sponsor Casar; co-sponsors reported as House Democrats) or to any House AI-risk letter he led; Congress.gov co-sponsor lists were not checked directly."
+}

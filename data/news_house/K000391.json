@@ -1,0 +1,80 @@
+{
+  "bioguide": "K000391",
+  "member": "Raja Krishnamoorthi",
+  "searches": [
+    "site:krishnamoorthi.house.gov artificial intelligence",
+    "Krishnamoorthi superintelligence",
+    "Krishnamoorthi AI existential risk extinction",
+    "Krishnamoorthi AI pause slowdown moratorium",
+    "Krishnamoorthi China AI agreement talks treaty",
+    "\"Krishnamoorthi\" \"AI safety\"",
+    "Krishnamoorthi \"AGI Safety Act\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "venue": "Select Committee on the Chinese Communist Party Democratic shadow hearing, as described in his press release",
+      "quote": "Krishnamoorthi asked Dr. Geoffrey Hinton whether his 2024 estimate of a 10 to 20 percent chance that AI could lead to human extinction within three decades had increased as AI capabilities advanced.",
+      "context": "At a Democratic shadow hearing he questioned Geoffrey Hinton about Hinton's estimate of the chance that AI causes human extinction; Hinton replied his estimate is still 10 to 20 percent.",
+      "source_label": "Krishnamoorthi press release, 23 September 2026",
+      "url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-presses-ai-experts-extinction-risk-china-chip-loopholes-and",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["relayed_warning", "bill_or_action", "boundary"],
+      "reason": "He raised an expert's extinction-risk warning at a hearing, and his office described this as pressing experts on extinction risk, but the source shows no words of his own endorsing the warning, so it is a relayed warning without endorsement (C)."
+    },
+    {
+      "date": "2025-06-25",
+      "venue": "House Select Committee on the Chinese Communist Party hearing \"Algorithms and Authoritarians: Why U.S. AI Must Lead\", ranking member opening statement",
+      "quote": "Whether it's American AI or Chinese AI, it should not be released until we know it's safe.",
+      "context": "After showing a clip of a rogue AI army from The Matrix and citing a report that OpenAI's chief scientist wanted to build a bunker before releasing artificial general intelligence, he announced he was working on an AGI Safety Act to require such systems to be aligned with human values.",
+      "source_label": "Select Committee on the CCP Democrats, transcript of opening statement",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/transcript-ranking-member-krishnamoorthis-opening-statement-hearing-algorithms",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["boundary"],
+      "reason": "In a statement framed around artificial general intelligence breaking loose from human control, he says advanced AI should not be released until it is known to be safe, acknowledging serious risk in general terms without himself naming a catastrophic outcome (C, close to B)."
+    },
+    {
+      "date": "2025-06-25",
+      "venue": "House Select Committee on the Chinese Communist Party hearing \"Algorithms and Authoritarians: Why U.S. AI Must Lead\", ranking member opening statement",
+      "quote": "Last month it was reported that OpenAI's chief scientist wanted to quote-unquote \"build a bunker\" before we release AGI.",
+      "context": "Same opening statement; he cites the report as a reason to build safer AI rather than bunkers.",
+      "source_label": "Select Committee on the CCP Democrats, transcript of opening statement",
+      "url": "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/transcript-ranking-member-krishnamoorthis-opening-statement-hearing-algorithms",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["relayed_warning"],
+      "reason": "Relays an industry figure's implied warning about artificial general intelligence; he follows it with a call for safer AI but does not himself state a catastrophic outcome, so C."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Select Committee on the Chinese Communist Party Democratic shadow hearing, as quoted in his press release",
+      "quote": "The president professes to want us to win the AI competition with China, but he's currently loosening our regulations with regard to export controls instead of tightening them.",
+      "context": "Arguing for tighter chip export controls (AI Overwatch Act, REMOTE Access Security Act) after reports that DeepSeek trained on restricted Nvidia chips.",
+      "source_label": "Krishnamoorthi press release, 23 September 2026",
+      "url": "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-presses-ai-experts-extinction-risk-china-chip-loopholes-and",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Competition with China and export controls, with no catastrophic risk acknowledged (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development. His June 2025 remark that AI 'should not be released until we know it's safe' is about release conditions, not slowing capability progress, so it is not counted.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI; his China statements are about export controls and competing with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Questioned Geoffrey Hinton on AI extinction risk and urged passage of the AI Overwatch Act and REMOTE Access Security Act (chip export controls) at a Select Committee on the Chinese Communist Party Democratic shadow hearing.", "Krishnamoorthi press release, 2026-09-23", "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-presses-ai-experts-extinction-risk-china-chip-loopholes-and"],
+    ["Secured intelligence authorization provisions including new oversight of how artificial intelligence is deployed across the Intelligence Community.", "Krishnamoorthi press release, 2026-07-21", "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-secures-provisions-china-iran-ai-and-prediction-markets-while"],
+    ["Sent a letter to Ring raising privacy and surveillance concerns about its AI 'Search Party' feature.", "Krishnamoorthi press release, 2026-02-27", "https://krishnamoorthi.house.gov/media/press-releases/krishnamoorthi-raises-alarm-over-rings-new-ai-search-party-feature-citing"],
+    ["Introduced the Investing in American Workers Act with Senator Warner to help workers adapt to an AI-driven economy.", "Krishnamoorthi press release, 2025-12-16", "https://krishnamoorthi.house.gov/media/press-releases/congressman-krishnamoorthi-senator-warner-introduce-bill-help-workers-adapt-ai"],
+    ["Announced he was working on an 'AGI Safety Act' to require artificial general intelligence to be aligned with human values and comply with laws that apply to humans; no source found showing it was introduced.", "Select Committee on the CCP Democrats transcript, 2025-06-25", "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/transcript-ranking-member-krishnamoorthis-opening-statement-hearing-algorithms"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "In 2026 his strongest material is raising Geoffrey Hinton's 10 to 20 percent extinction estimate at a 23 September 2026 hearing, with no words of his own endorsing it (relayed warning, C). This is supported by his June 2025 hearing statement that advanced AI should not be released until known to be safe, framed around AI escaping human control and announcing an AGI Safety Act (C, close to B).",
+  "notes": "All 8 web searches ran (6 required plus 2 follow-ups on the AGI Safety Act and the Ban Artificial Superintelligence Act). An earlier attempt had 0 searches and instead read all of his house.gov press releases from January 2025 to October 2026; its findings are kept. The 2026 C quote is his office's third-person press-release narration, not his spoken words; the hearing video (https://www.youtube.com/watch?v=UVx8ABATNCc) was not transcribed and may contain his own words endorsing the warning, which could raise the level. The 2025 quotes were read through a page-fetch tool that returns text via a summarizing model; wording matches across two fetches, but quotation marks and apostrophes (straight vs curly) should be checked against the page. In the same June 2025 statement he said, describing a Matrix clip he showed, 'What you just saw is the last of humankind fighting a rogue AI army that has broken loose from human control'; left out of statements because it describes a film clip, but it supports reading the statement as about loss of control (a reviewer could judge the statement B). The AGI Safety Act sentence was not quoted because the fetch tool returned it in two pieces. Ban Artificial Superintelligence Act (H.R. 10538): he is not among the 12 cosponsors listed on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); congress.gov not checked. No other House AI-risk letter of his own was found (the many-signer August and September 2026 letters were not searched, per instructions). Paraphrases left out: the September 2026 release says he cited CNN reporting that an AI chatbot helped produce a false intelligence assessment that nearly started a war; a July 2026 release says he pressed witnesses on AI deepfakes threatening national security (D under ruling 4). Press-release narration that he co-led a May 2025 Select Committee letter urging Commerce to expand the AI Safety Institute's role in assessing Chinese AI models was seen only in search results and not added. Punchbowl News article on him and artificial general intelligence was not opened."
+}

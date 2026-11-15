@@ -1,0 +1,77 @@
+{
+ "bioguide": "R000621",
+ "member": "Emily Randall",
+ "searches": [
+  "Emily Randall artificial intelligence (restricted to randall.house.gov)",
+  "Rep. Emily Randall superintelligence",
+  "Emily Randall AI extinction existential risk",
+  "Emily Randall AI pause slowdown moratorium",
+  "Emily Randall China AI agreement treaty",
+  "\"Emily Randall\" \"AI safety\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "Co-sponsor (not her own statement) of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, whose Section 8 puts every advanced AI system under a 'mandatory pause' until a new federal AI department is staffed and has issued rules. She was added as a co-sponsor after introduction (not in the bill text's original list); the date she joined was not found.",
+   "sources": [
+    [
+     "FastDemocracy cosponsor list for H.R. 10538",
+     "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ],
+    [
+     "H.R. 10538 bill text as introduced (govinfo.gov)",
+     "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "mixed",
+   "note": "Co-sponsor of H.R. 10538; the bill's mandatory pause on advanced AI lasts only until the federal department issues rules, so it is conditional on safety rules, which the rubric treats as mixed. No statement of her own found.",
+   "sources": [
+    [
+     "FastDemocracy cosponsor list for H.R. 10538",
+     "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ],
+    [
+     "H.R. 10538 bill text as introduced (govinfo.gov)",
+     "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "H.R. 10538 Section 15 directs the US to 'pursue international agreements and allied coordination to prevent the development of artificial superintelligence', but does not name China or address coordination on pace with China, so not counted. No statement of her own found.",
+   "sources": [
+    [
+     "H.R. 10538 bill text as introduced (govinfo.gov)",
+     "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "yes",
+   "note": "Co-sponsor of H.R. 10538 (not her own statement). Section 9(a) bans AI systems with 'superintelligence precursor characteristics', which Section 3(6) defines to include 'The capacity to automate or greatly accelerate the process of artificial intelligence research and development' and 'The capacity to independently modify or enhance its own functions.'",
+   "sources": [
+    [
+     "H.R. 10538 bill text as introduced (govinfo.gov)",
+     "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+    ],
+    [
+     "FastDemocracy cosponsor list for H.R. 10538",
+     "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Co-sponsored H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (led by Rep. Greg Casar, introduced 24 September 2026), which bans artificial superintelligence and its precursor capabilities (including automated AI research and self-modification) and puts advanced AI under a mandatory pause until a new federal AI department issues rules; she joined after introduction, date not found.",
+   "FastDemocracy cosponsor list ('Rep. Randall, Emily', cosponsor), checked 2026-11-12",
+   "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+  ]
+ ],
+ "suggested_grade": "none",
+ "grade_reason": "No statement in her own words about catastrophic AI risk, or substantively about AI at all, was found in six web searches or in her official press releases from January 2025 to October 2026, so there is nothing to grade. Her record does include co-sponsoring the Ban Artificial Superintelligence Act in autumn 2026, a strong action on catastrophic risk, so a reviewer may want to grade on that record.",
+ "notes": "All six required web searches ran this time (an earlier attempt had all searches refused). None found a statement by her about superintelligence, extinction, a pause, China talks or AI safety. Only AI mention in her own words: at a Minnesota shadow hearing on ICE (press release 2026-01-16, https://randall.house.gov/media/press-releases/randall-minnesota-shadow-hearing-using-ice-agents-kill-people-streets-fascism) she said 'New reporting shows that ICE used AI in determining which agents [needed more] training.' This is a passing mention in a statement about immigration enforcement, not about AI, so it is left out of statements and does not make the grade D. She is on the roster of the House Oversight Committee for the 17 September 2025 hearing 'Shaping Tomorrow: The Future of Artificial Intelligence' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61734/html/CHRG-119hhrg61734.htm), but the transcript has no remarks by her. One search result (MLex, 'US House Democrats urge US-China AI safety treaty', https://www.mlex.com/mlex/articles/2529307) was not opened; it is probably about the 18 September House letter led by Meeks, Jacobs and Bera, which per instructions is handled centrally. From the earlier attempt (still valid): the randall.house.gov press release listing pages (?page=0 to ?page=9, 3 January 2025 to 23 October 2026) were read; only listing excerpts, not every full release, so a passing AI mention inside a release body could be missed. Site search returned HTTP 403. Co-sponsorship of H.R. 10538: FastDemocracy lists 'Rep. Randall, Emily' as a cosponsor without party or state; she is the only Emily Randall in the House, so attribution is very likely but the page does not show WA. She is not in the original cosponsor list in the bill text as introduced (govinfo.gov), so she joined later; the Congress.gov cosponsor page returned HTTP 403, so the date she joined is not confirmed. No House letter about AI risk signed or led by her was found; multi-signer House letters were not searched, per instructions."
+}

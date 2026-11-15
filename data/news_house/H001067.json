@@ -1,0 +1,74 @@
+{
+  "bioguide": "H001067",
+  "member": "Richard Hudson",
+  "searches": [
+    "site:hudson.house.gov artificial intelligence",
+    "Richard Hudson superintelligence",
+    "Rep. Richard Hudson AI extinction existential risk",
+    "Rep. Richard Hudson AI pause slowdown moratorium",
+    "Rep. Richard Hudson China AI agreement treaty",
+    "\"Richard Hudson\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-03-12",
+      "venue": "Letter to the White House Office of Science and Technology Policy, quoted in press release",
+      "quote": "America’s leadership in global AI development ultimately hinges on whether our nation can support the compute-intensive systems that drive innovation across science, medicine, national security, and the broader economy,",
+      "context": "Hudson led a letter with four North Carolina Republicans urging the Administration to include silicon carbide chips in the AI Action Plan to cut AI data center energy use.",
+      "source_label": "Hudson House press release, 12 March 2026",
+      "url": "https://hudson.house.gov/press-releases/hudson-leads-effort-to-reduce-ais-growing-energy-footprint-with-advanced",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action",
+        "cosigned_letter"
+      ],
+      "reason": "About AI leadership, computing power and energy, with no acknowledgment of catastrophic risk."
+    },
+    {
+      "date": "2025-06-04",
+      "venue": "Opening statement as chairman, Energy and Commerce Communications and Technology Subcommittee hearing on AI",
+      "quote": "Our adversaries will stop at nothing to undermine our leadership in technological advancement and utilize AI to threaten our way of life. We must continue to innovate and develop to prevent that from happening.",
+      "context": "Hudson opened a subcommittee hearing on AI in communications and technology, framing AI as a race with China and calling for a light regulatory touch.",
+      "source_label": "House Energy and Commerce Committee, 4 June 2025",
+      "url": "https://energycommerce.house.gov/posts/chairman-hudson-delivers-opening-statement-at-subcommittee-on-communications-and-technology-hearing-on-ai-and-communications-infrastructure",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Threat named is adversaries such as China using AI and competition with China, which ruling 5 places at D; no catastrophic risk from AI is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Led a letter, co-signed by Reps. Harrigan, Rouzer, Edwards and Moore, urging the White House science office to include silicon carbide in the AI Action Plan to reduce AI energy use.",
+      "Hudson House press release, 12 March 2026",
+      "https://hudson.house.gov/press-releases/hudson-leads-effort-to-reduce-ais-growing-energy-footprint-with-advanced"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His AI remarks found (a 2026 letter on AI energy use and a 2025 hearing statement on competing with China under light regulation) do not acknowledge catastrophic risk from AI.",
+  "notes": "All six required web searches ran, plus one on Ban Artificial Superintelligence Act cosponsors (7 total). None found any statement by Hudson on superintelligence, extinction, loss of control, a pause, or an AI agreement with China. Ban Artificial Superintelligence Act (H.R. 10538, Casar): search results list only Democratic cosponsors (e.g. Hoyle, Lynch, Tonko, Ansari, Ocasio-Cortez); no source shows Hudson as a cosponsor, though the full congress.gov list was not opened. No House AI risk letter signed by Hudson was found (the centrally handled multi-signer letters were not searched, per instructions). Earlier pass (kept): opened hudson.house.gov press release pages 0 to 4 (22 December 2025 to 15 October 2026); only the 12 March 2026 silicon carbide letter is about AI; the 15 October 2026 ZeroEyes release mentions AI only in the office's product description. Hudson chaired a 4 June 2025 subcommittee hearing on AI; his opening statement also says 'Just like the light regulatory touch that gave rise to the internet ... AI must be given the same opportunity', which is opposing regulation (D, not F). Hearing question-and-answer transcripts (govinfo CHRG-119hhrg60730) were not read. A March 2026 bipartisan letter (date per search summary, page not opened) to Rubio on Chinese telecom networks is not about AI."
+}

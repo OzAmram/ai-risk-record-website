@@ -1,0 +1,39 @@
+{
+  "bioguide": "B001302",
+  "member": "Andy Biggs",
+  "searches": [
+    "Biggs artificial intelligence (restricted to biggs.house.gov)",
+    "Andy Biggs superintelligence",
+    "Andy Biggs AI extinction existential risk",
+    "Andy Biggs AI pause slowdown moratorium",
+    "Andy Biggs China AI agreement treaty",
+    "\"Andy Biggs\" \"AI safety\"",
+    "Biggs Judiciary subcommittee hearing \"AI-enabled\" criminal opening statement"
+  ],
+  "statements": [
+    {
+      "date": "2025-07-16",
+      "venue": "House Judiciary Subcommittee on Crime and Federal Government Surveillance hearing, chairman's opening statement",
+      "quote": "The AI-enabled threats continue to evolve as bad actors use AI technology in a wide spectrum of criminal enterprises.",
+      "context": "Opening the hearing \"Artificial Intelligence and Criminal Exploitation: A New Era of Risk\", which he chaired, on AI-enabled fraud, deepfake scams and terrorist propaganda and recruitment.",
+      "source_label": "GovInfo hearing transcript CHRG-119hhrg61182",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61182/html/CHRG-119hhrg61182.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He discusses criminal and terrorist misuse of AI for fraud, scams and propaganda, which are not catastrophic harms, so catastrophic AI risk is not acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Chaired the 16 July 2025 House Judiciary Subcommittee on Crime and Federal Government Surveillance hearing on AI and criminal exploitation (fraud, deepfakes, terrorist propaganda).", "GovInfo hearing transcript, 16 July 2025", "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61182/html/CHRG-119hhrg61182.htm"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only substantial remarks on AI found are from a July 2025 hearing he chaired on criminal and terrorist misuse of AI (fraud, deepfakes, propaganda), with no mention of catastrophic risk. No 2026 statement about AI risk was found.",
+  "notes": "Seven web searches ran; none was refused. The quote was taken from the GovInfo transcript through a page-fetching tool that summarizes pages; the tool returned it as a verbatim excerpt, but a reviewer should confirm the exact wording in the transcript. Other opening-statement passages returned the same way (not used as statements, all misuse-of-AI and level D): \"Generative AI also allows terrorists to produce propaganda,\" and \"Terrorist groups now utilize AI to target, recruit, and indoctrinate vulnerable individuals.\" Paraphrase left out: a Broadband Breakfast/Nimitz Tech summary says he urged Congress to follow the states' lead on 'sensible guardrails'; this was not confirmed in his own words. Other AI items found but not statements of risk: a press release on his bill (Modernizing Retrospective Regulatory Review Act, apparently 2024) to have agencies use AI to review old regulations; a 27 March 2025 letter he signed to the ATF about facial recognition and AI used to identify gun owners (privacy, level D at most); a 25 September 2025 Arizona delegation letter to Secretary Lutnick mentioning semiconductors that power AI. Two Dailymotion hearing videos (x9ou80y, x9osc6o) could not be read. The Daily Signal article on the hearing returned 403. Ban Artificial Superintelligence Act (House version, reported elsewhere as H.R. 10538 by Rep. Casar): the Congress.gov cosponsor page returned 403, so the cosponsor list was not checked; no source found shows Biggs as sponsor or cosponsor. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Only the first page of his press releases (17 September to 12 November 2026) was checked directly; it had no AI-related releases, and his 25 September 2026 release on President Xi's visit does not mention AI."
+}

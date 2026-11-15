@@ -1,0 +1,73 @@
+[
+  {
+    "id": "ELECT-FL-16-GRUTERS",
+    "name": "Sydney Gruters",
+    "accounts": [
+      {
+        "handle": "SydneyGrutersFL",
+        "account_type": "campaign",
+        "evidence_url": "https://grutersforcongress.com/",
+        "evidence": "The 'Sydney Gruters For Congress' campaign site, which the FEC lists as the website of her committee SYDNEY GRUTERS FOR CONGRESS (C00945915), links x.com/SydneyGrutersFL in its social icons."
+      }
+    ],
+    "notes": "No personal or other account found. sydneygruters.com is an empty GoDaddy placeholder page. No official House account yet (representative-elect)."
+  },
+  {
+    "id": "ELECT-FL-19-SCHWARTZEL",
+    "name": "Jim Schwartzel",
+    "accounts": [
+      {
+        "handle": "JimSchwartzel",
+        "account_type": "campaign",
+        "evidence_url": "https://jimforcongress.com/",
+        "evidence": "The 'Jim for Southwest Florida' campaign site links x.com/JimSchwartzel with the label 'Jim Schwartzel on X'."
+      }
+    ],
+    "notes": "The account is linked from the campaign site, but it may double as his personal account; labeled campaign. No official House account yet."
+  },
+  {
+    "id": "ELECT-FL-22-DANDIYA",
+    "name": "Pia Dandiya",
+    "accounts": [],
+    "notes": "Not found. Her campaign site piaforcongress.com (the website the FEC lists for PIA DANDIYA FOR CONGRESS) links only Facebook and Instagram (instagram.com/piaforcongress), with no X link. One news result quotes 'a message on X' from her but does not name the handle. I checked several news and endorsement pages and none named her handle. I did not guess one."
+  },
+  {
+    "id": "ELECT-FL-24-GILBERT",
+    "name": "Oliver Gilbert III",
+    "accounts": [
+      {
+        "handle": "Ogilbert",
+        "account_type": "personal",
+        "evidence_url": "https://www.miamidade.gov/global/government/commission/district01/home.page",
+        "evidence": "The Miami-Dade County Commission District 1 page, titled 'District 1 - Oliver G. Gilbert, III', links twitter.com/Ogilbert in its social icons next to facebook.com/OliverGilbertIII and instagram.com/ogilbert3."
+      }
+    ],
+    "notes": "Uncertain: the county page still listed Gilbert even though he resigned from the commission in June 2026, so it may be out of date. The handle looks like his own account that his commissioner office linked, not a county institutional account, so I labeled it personal. His campaign site olivergilbert.vote (the website the FEC lists for OLIVER GILBERT FOR CONGRESS, C00952598) has no X link. oliverforcongress.com belongs to a different candidate, Oliver Larkin (FL-25, @oliveralarkin). Ignore that one."
+  },
+  {
+    "id": "ELECT-GA-01-KINGSTON",
+    "name": "Jim Kingston",
+    "accounts": [
+      {
+        "handle": "JimKingstonGA",
+        "account_type": "campaign",
+        "evidence_url": "https://jimkingston.org",
+        "evidence": "The Jim Kingston for Congress (GA-01) campaign site, paid for by Friends of Jim Kingston, links twitter.com/JimKingstonGA."
+      }
+    ],
+    "notes": "Not to be confused with his father, former Rep. Jack Kingston. No official House account yet."
+  },
+  {
+    "id": "ELECT-GA-10-GAINES",
+    "name": "Houston Gaines",
+    "accounts": [
+      {
+        "handle": "houstongaines",
+        "account_type": "campaign",
+        "evidence_url": "https://houstongaines.com/",
+        "evidence": "The Houston Gaines for Congress (GA-10) campaign site, the website listed in his FEC filing, links x.com/houstongaines."
+      }
+    ],
+    "notes": "This is probably also his long-running personal and state-representative account. I did not check for a separate Georgia House official account. No official US House account yet."
+  }
+]

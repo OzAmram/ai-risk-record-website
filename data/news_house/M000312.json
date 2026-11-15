@@ -1,0 +1,41 @@
+{
+  "bioguide": "M000312",
+  "member": "James P. McGovern",
+  "searches": [
+    "site:mcgovern.house.gov artificial intelligence",
+    "Jim McGovern superintelligence",
+    "Rep. Jim McGovern AI existential risk extinction",
+    "Rep. Jim McGovern artificial intelligence pause moratorium slowdown",
+    "Jim McGovern China AI agreement treaty",
+    "\"McGovern\" \"AI safety\" Massachusetts congressman",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "He is a cosponsor of the Artificial Intelligence Data Center Moratorium Act (H.R. 9442, introduced 24 June 2026 by Ocasio-Cortez), a pause on new data center construction 'until legislation is enacted that safeguards the public from the dangers of artificial intelligence'. The bill's findings cite warnings of catastrophic consequences and loss of control, but its conditions for lifting the moratorium also cover jobs, electricity bills, the environment and local approval, and no words of his own tie it to risk from AI itself, so none under the rubric (same treatment as the other cosponsors in this project). Reviewer may reconsider.",
+      "sources": [
+        ["H.R. 9442 details, govinfo", "https://www.govinfo.gov/app/details/BILLS-119hr9442ih"],
+        ["H.R. 9442 text, govinfo", "https://www.govinfo.gov/content/pkg/BILLS-119hr9442ih/html/BILLS-119hr9442ih.htm"]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a halt to frontier AI development. The data center moratorium is not counted as a pause of frontier AI. He is not among the 12 cosponsors of the Ban Artificial Superintelligence Act (H.R. 10538) listed by FastDemocracy.",
+      "sources": [["H.R. 10538 cosponsor list, FastDemocracy", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]
+    },
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    [
+      "Cosponsor of the Artificial Intelligence Data Center Moratorium Act (H.R. 9442), a moratorium on new data center construction until legislation 'safeguards the public from the dangers of artificial intelligence'; no statement of his own about it was found.",
+      "govinfo bill record, introduced 2026-06-24",
+      "https://www.govinfo.gov/app/details/BILLS-119hr9442ih"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He cosponsored an AI bill in 2026 (the AI Data Center Moratorium Act), but no statement in his own words about catastrophic risk from AI, or about AI at all in 2025 to 2026, was found.",
+  "notes": "All 6 required web searches ran this time, plus 1 on the Ban Artificial Superintelligence Act; none returned a statement by McGovern on AI risk. The site-restricted search returned no pages from mcgovern.house.gov. An earlier attempt opened his news page and press release list pages 2 to 5 (https://mcgovern.house.gov/news/documentquery.aspx?DocumentTypeID=2472&Page=2 to Page=5, roughly 29 September 2025 to 10 November 2026); no release title mentioned AI. The 4 September 2026 'Big Tech Accountability Act' release (https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=400453) mentions social media algorithms in the release text, but his quoted words do not mention AI and it concerns privacy and disinformation, which is out of scope. Ban Artificial Superintelligence Act: FastDemocracy lists 12 House cosponsors of H.R. 10538 and he is not among them; other reports give inconsistent cosponsor lists, so Congress.gov should be checked. A search summary said he was a recipient (not a signer) of Massachusetts state legislators' letters opposing the federal moratorium on state AI laws (2025); that is about state regulation, not catastrophic risk, and was not recorded. The govinfo record lists 'Mr. Garcia of Illinois' in the action line but not the cosponsor field; McGovern appears in both. Not checked: Rules Committee remarks and floor speeches (he is Rules Committee ranking member), and releases from January to September 2025. The many-signer House AI letters of August and September 2026 were not searched, per instructions."
+}

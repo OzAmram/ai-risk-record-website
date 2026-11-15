@@ -1,0 +1,972 @@
+[
+  {
+    "id": "2026-08-10-johnson-ai-ceo-hearings",
+    "date": "2026-08-10",
+    "addressed_to": "Speaker of the House Mike Johnson",
+    "led_by": [
+      "Greg Casar",
+      "Delia C. Ramirez"
+    ],
+    "summary": "The letter asks Speaker Johnson to work with the committees of jurisdiction to schedule open hearings immediately at which the chief executives of the largest AI companies answer questions under oath, alongside independent experts. It cites recent incidents in which OpenAI and Anthropic test models hacked other organizations and also raises AI-driven job losses.",
+    "url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf",
+    "pdf_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf",
+    "quotes": [
+      {
+        "text": "Advanced AI models pose a clear risk to the safety and security of the American people.",
+        "source_url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos"
+      },
+      {
+        "text": "They are serious in and of themselves, and they may be the canary in the coal mine warning of much more serious problems if these models continue to advance without regulation.",
+        "source_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf"
+      },
+      {
+        "text": "Congress must act before such an incident leads to a much larger catastrophe.",
+        "source_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf"
+      },
+      {
+        "text": "Unfortunately, Congress has so far completely failed to respond to the threats posed by AI development. That must change.",
+        "source_url": "https://casar.house.gov/media/press-releases/casar-leads-call-congressional-hearings-ai-ceos"
+      }
+    ],
+    "signers": [
+      {
+        "name": "Greg Casar",
+        "bioguide": "C001131"
+      },
+      {
+        "name": "Delia C. Ramirez",
+        "bioguide": "R000617"
+      },
+      {
+        "name": "Rashida Tlaib",
+        "bioguide": "T000481"
+      },
+      {
+        "name": "Eleanor Holmes Norton",
+        "bioguide": ""
+      },
+      {
+        "name": "Jasmine Crockett",
+        "bioguide": "C001130"
+      },
+      {
+        "name": "Jennifer L. McClellan",
+        "bioguide": "M001227"
+      },
+      {
+        "name": "Yassamin Ansari",
+        "bioguide": "A000381"
+      },
+      {
+        "name": "Joaquin Castro",
+        "bioguide": "C001091"
+      },
+      {
+        "name": "Adelita S. Grijalva",
+        "bioguide": "G000606"
+      },
+      {
+        "name": "Jesús G. \"Chuy\" García",
+        "bioguide": "G000586"
+      },
+      {
+        "name": "Valerie P. Foushee",
+        "bioguide": "F000477"
+      },
+      {
+        "name": "James P. McGovern",
+        "bioguide": "M000312"
+      },
+      {
+        "name": "Sylvia R. Garcia",
+        "bioguide": "G000587"
+      },
+      {
+        "name": "Ro Khanna",
+        "bioguide": "K000389"
+      },
+      {
+        "name": "Becca Balint",
+        "bioguide": "B001318"
+      },
+      {
+        "name": "April McClain Delaney",
+        "bioguide": "M001232"
+      },
+      {
+        "name": "Summer L. Lee",
+        "bioguide": "L000602"
+      },
+      {
+        "name": "Nydia M. Velázquez",
+        "bioguide": "V000081"
+      },
+      {
+        "name": "Stephen F. Lynch",
+        "bioguide": "L000562"
+      }
+    ],
+    "signer_source": "Signature pages of the signed letter PDF (casar.house.gov), 19 names.",
+    "signer_count_stated": 20,
+    "signer_count_found": 19,
+    "notes": "Casar press release says Casar \"led 19 members of Congress\" (20 including Casar) and lists Gabe Amo (RI-01), but Amo does not appear on the signed PDF. The Ramirez press release (https://ramirez.house.gov/media/press-releases/ramirez-casar-lead-call-congressional-hearings-ai-ceos) says the two leads \"led 17 members\" (19 total) and its list matches the PDF exactly, without Amo. Eleanor Holmes Norton is a non-voting delegate (bioguide left empty)."
+  },
+  {
+    "id": "2026-08-10-openai-security-incident",
+    "date": "2026-08-10",
+    "addressed_to": "Sam Altman, Chief Executive Officer, OpenAI",
+    "led_by": [
+      "Greg Casar",
+      "Doris Matsui"
+    ],
+    "summary": "The letter asks OpenAI to publicly release the logs of the incident in which its models escaped a test environment and hacked Hugging Face, and to answer 23 detailed questions by 24 August 2026. It also says Congress must hold oversight hearings, investigate, and put federal guardrails in place to prevent a repeat.",
+    "url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf",
+    "pdf_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf",
+    "quotes": [
+      {
+        "text": "Given the serious risk that frontier AI models can pose, it is imperative we have a detailed understanding of how this security incident unfolded, including any potential negligence on the part of OpenAI.",
+        "source_url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident"
+      },
+      {
+        "text": "These are no ordinary cybersecurity incidents.",
+        "source_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf"
+      },
+      {
+        "text": "Will you continue to pursue AI that could recursively improve itself before you have put these guardrails in place?",
+        "source_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf"
+      },
+      {
+        "text": "Did any model take actions intended to undermine OpenAI's ability to control, align, or oversee future models or future instances of itself, including leaving instructions, notes, code, or other artifacts within OpenAI infrastructure for later model instances to find?",
+        "source_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/oversight-letter-to-openai-openai-hugging-face-incident-1.pdf"
+      }
+    ],
+    "signers": [
+      {
+        "name": "Greg Casar",
+        "bioguide": "C001131"
+      },
+      {
+        "name": "Doris Matsui",
+        "bioguide": "M001163"
+      },
+      {
+        "name": "Becca Balint",
+        "bioguide": "B001318"
+      },
+      {
+        "name": "Jasmine Crockett",
+        "bioguide": "C001130"
+      },
+      {
+        "name": "Valerie P. Foushee",
+        "bioguide": "F000477"
+      },
+      {
+        "name": "Jesús G. \"Chuy\" García",
+        "bioguide": "G000586"
+      },
+      {
+        "name": "Chris Deluzio",
+        "bioguide": "D000530"
+      },
+      {
+        "name": "Paul D. Tonko",
+        "bioguide": "T000469"
+      },
+      {
+        "name": "Summer L. Lee",
+        "bioguide": "L000602"
+      },
+      {
+        "name": "Jennifer L. McClellan",
+        "bioguide": "M001227"
+      },
+      {
+        "name": "Yassamin Ansari",
+        "bioguide": "A000381"
+      },
+      {
+        "name": "Joaquin Castro",
+        "bioguide": "C001091"
+      },
+      {
+        "name": "Adelita S. Grijalva",
+        "bioguide": "G000606"
+      },
+      {
+        "name": "George Whitesides",
+        "bioguide": "W000830"
+      },
+      {
+        "name": "James P. McGovern",
+        "bioguide": "M000312"
+      },
+      {
+        "name": "Suhas Subramanyam",
+        "bioguide": "S001230"
+      },
+      {
+        "name": "Sylvia R. Garcia",
+        "bioguide": "G000587"
+      },
+      {
+        "name": "Delia C. Ramirez",
+        "bioguide": "R000617"
+      },
+      {
+        "name": "Bill Foster",
+        "bioguide": "F000454"
+      },
+      {
+        "name": "Ro Khanna",
+        "bioguide": "K000389"
+      },
+      {
+        "name": "Patrick Ryan",
+        "bioguide": "R000579"
+      },
+      {
+        "name": "April McClain Delaney",
+        "bioguide": "M001232"
+      },
+      {
+        "name": "Angie Craig",
+        "bioguide": "C001119"
+      },
+      {
+        "name": "Jonathan L. Jackson",
+        "bioguide": "J000309"
+      },
+      {
+        "name": "Nydia M. Velázquez",
+        "bioguide": "V000081"
+      },
+      {
+        "name": "Pramila Jayapal",
+        "bioguide": "J000298"
+      },
+      {
+        "name": "Val Hoyle",
+        "bioguide": "H001094"
+      },
+      {
+        "name": "Nanette Diaz Barragán",
+        "bioguide": "B001300"
+      },
+      {
+        "name": "Stephen F. Lynch",
+        "bioguide": "L000562"
+      },
+      {
+        "name": "Lateefah Simon",
+        "bioguide": "S001231"
+      },
+      {
+        "name": "Rashida Tlaib",
+        "bioguide": "T000481"
+      },
+      {
+        "name": "Gabe Amo",
+        "bioguide": "A000380"
+      }
+    ],
+    "signer_source": "Signature pages of the letter PDF (casar.house.gov), 32 names.",
+    "signer_count_stated": 32,
+    "signer_count_found": 32,
+    "notes": "Press release says Casar \"led 31 members of Congress\" (32 including Casar); its named list matches the PDF signature pages. The letter contains no explicit catastrophic or existential language; the strongest risk wording concerns loss of control (recursive self-improvement, models undermining oversight)."
+  },
+  {
+    "id": "2026-09-15-johnson-107",
+    "date": "2026-09-15",
+    "addressed_to": "Speaker of the House Mike Johnson",
+    "led_by": [],
+    "summary": "The letter urges Speaker Johnson to keep the House in session (the press-release version says \"immediately reconvene\") until Congress advances meaningful, bipartisan AI safeguards, to address catastrophic risks from advanced AI such as agentic misalignment, mass cybersecurity breaches, and biological or chemical weapons. It cites the July OpenAI incident, the call by more than 1,300 AI company employees to pace AI development, and Anthropic disclosures as evidence, and lists proposals such as transparency and evaluation mandates and \"kill switch\" requirements.",
+    "url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial",
+    "pdf_url": "https://mikethompson.house.gov/sites/evo-subsites/mikethompson-evo.house.gov/files/evo-media-document/2026_09_16-letter-to-johnson-on-ai-safety-signed-1.pdf",
+    "quotes": [
+      {
+        "text": "We write to urge you to keep the House of Representatives in session to enable Congress to take urgent action to address the catastrophic risks posed by advanced artificial intelligence.",
+        "source_url": "https://mikethompson.house.gov/sites/evo-subsites/mikethompson-evo.house.gov/files/evo-media-document/2026_09_16-letter-to-johnson-on-ai-safety-signed-1.pdf",
+        "note": "Signed PDF wording only. The press release text reads \"immediately reconvene the House of Representatives ... to address catastrophic risk posed by advanced artificial intelligence.\""
+      },
+      {
+        "text": "Those risks take any of several forms, separately and in combination—of agentic misalignment, mass cybersecurity breaches, and development of biological or chemical weapons.",
+        "source_url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial",
+        "note": "Identical wording in the signed PDF."
+      },
+      {
+        "text": "These disclosures must not constitute yet another in a long series of “warning shots,” but rather, a starting gun.",
+        "source_url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial",
+        "note": "Identical wording in the signed PDF."
+      },
+      {
+        "text": "To our children who will have read a post-apocalyptic history, “Why Congress Slept” —likely written by agentic AI—our inaction will be inexplicable",
+        "source_url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial",
+        "note": "Same words in the signed PDF (which continues \"inexplicable and unforgivable\"; the press release has \"inexplicable, and unforgivable\")."
+      }
+    ],
+    "signers": [
+      {
+        "name": "Sam T. Liccardo",
+        "bioguide": "L000607"
+      },
+      {
+        "name": "George Whitesides",
+        "bioguide": "W000830"
+      },
+      {
+        "name": "Lori Trahan",
+        "bioguide": "T000482"
+      },
+      {
+        "name": "Ted W. Lieu",
+        "bioguide": "L000582"
+      },
+      {
+        "name": "Susie Lee",
+        "bioguide": "L000590"
+      },
+      {
+        "name": "Greg Stanton",
+        "bioguide": "S001211"
+      },
+      {
+        "name": "Sarah McBride",
+        "bioguide": "M001238"
+      },
+      {
+        "name": "James R. Walkinshaw",
+        "bioguide": "W000831"
+      },
+      {
+        "name": "Seth Magaziner",
+        "bioguide": "M001223"
+      },
+      {
+        "name": "Mike Levin",
+        "bioguide": "L000593"
+      },
+      {
+        "name": "Joe Courtney",
+        "bioguide": "C001069"
+      },
+      {
+        "name": "Jill Tokuda",
+        "bioguide": "T000487"
+      },
+      {
+        "name": "Ro Khanna",
+        "bioguide": "K000389"
+      },
+      {
+        "name": "Mike Thompson",
+        "bioguide": "T000460"
+      },
+      {
+        "name": "Suhas Subramanyam",
+        "bioguide": "S001230"
+      },
+      {
+        "name": "Jared Huffman",
+        "bioguide": "H001068"
+      },
+      {
+        "name": "Eleanor Holmes Norton",
+        "bioguide": ""
+      },
+      {
+        "name": "Nikema Williams",
+        "bioguide": "W000788"
+      },
+      {
+        "name": "Val Hoyle",
+        "bioguide": "H001094"
+      },
+      {
+        "name": "Dave Min",
+        "bioguide": "M001241"
+      },
+      {
+        "name": "Maggie Goodlander",
+        "bioguide": "G000604"
+      },
+      {
+        "name": "Chrissy Houlahan",
+        "bioguide": "H001085"
+      },
+      {
+        "name": "Yassamin Ansari",
+        "bioguide": "A000381"
+      },
+      {
+        "name": "Derek T. Tran",
+        "bioguide": "T000491"
+      },
+      {
+        "name": "Jennifer L. McClellan",
+        "bioguide": "M001227"
+      },
+      {
+        "name": "Johnny Olszewski, Jr.",
+        "bioguide": "O000176"
+      },
+      {
+        "name": "Mark DeSaulnier",
+        "bioguide": "D000623"
+      },
+      {
+        "name": "Deborah K. Ross",
+        "bioguide": "R000305"
+      },
+      {
+        "name": "Melanie Stansbury",
+        "bioguide": "S001218"
+      },
+      {
+        "name": "Veronica Escobar",
+        "bioguide": "E000299"
+      },
+      {
+        "name": "Nanette Diaz Barragán",
+        "bioguide": "B001300"
+      },
+      {
+        "name": "Sarah Elfreth",
+        "bioguide": "E000301"
+      },
+      {
+        "name": "Mary Gay Scanlon",
+        "bioguide": "S001205"
+      },
+      {
+        "name": "John B. Larson",
+        "bioguide": "L000557"
+      },
+      {
+        "name": "Jonathan L. Jackson",
+        "bioguide": "J000309"
+      },
+      {
+        "name": "Dan Goldman",
+        "bioguide": "G000599"
+      },
+      {
+        "name": "Andrea Salinas",
+        "bioguide": "S001226"
+      },
+      {
+        "name": "Gabe Vasquez",
+        "bioguide": "V000136"
+      },
+      {
+        "name": "Greg Landsman",
+        "bioguide": "L000601"
+      },
+      {
+        "name": "Adelita S. Grijalva",
+        "bioguide": "G000606"
+      },
+      {
+        "name": "Maxine Dexter, M.D.",
+        "bioguide": "D000635"
+      },
+      {
+        "name": "Brad Sherman",
+        "bioguide": "S000344"
+      },
+      {
+        "name": "April McClain Delaney",
+        "bioguide": "M001232"
+      },
+      {
+        "name": "Sharice L. Davids",
+        "bioguide": "D000629"
+      },
+      {
+        "name": "Sydney Kamlager-Dove",
+        "bioguide": "K000400"
+      },
+      {
+        "name": "Lateefah Simon",
+        "bioguide": "S001231"
+      },
+      {
+        "name": "Brittany Pettersen",
+        "bioguide": "P000620"
+      },
+      {
+        "name": "MARK TAKANO",
+        "bioguide": "T000472"
+      },
+      {
+        "name": "Laura Friedman",
+        "bioguide": "F000483"
+      },
+      {
+        "name": "Jimmy Panetta",
+        "bioguide": "P000613"
+      },
+      {
+        "name": "Nikki Budzinski",
+        "bioguide": "B001315"
+      },
+      {
+        "name": "Teresa Leger Fernández",
+        "bioguide": "L000273"
+      },
+      {
+        "name": "Hillary J. Scholten",
+        "bioguide": "S001221"
+      },
+      {
+        "name": "Marc A. Veasey",
+        "bioguide": "V000131"
+      },
+      {
+        "name": "Kristen McDonald Rivet",
+        "bioguide": "M001237"
+      },
+      {
+        "name": "Chris Deluzio",
+        "bioguide": "D000530"
+      },
+      {
+        "name": "Morgan McGarvey",
+        "bioguide": "M001220"
+      },
+      {
+        "name": "Salud Carbajal",
+        "bioguide": "C001112"
+      },
+      {
+        "name": "Joaquin Castro",
+        "bioguide": "C001091"
+      },
+      {
+        "name": "Gabe Amo",
+        "bioguide": "A000380"
+      },
+      {
+        "name": "Suzan K. DelBene",
+        "bioguide": "D000617"
+      },
+      {
+        "name": "Angie Craig",
+        "bioguide": "C001119"
+      },
+      {
+        "name": "George Latimer",
+        "bioguide": "L000606"
+      },
+      {
+        "name": "J. Luis Correa",
+        "bioguide": "C001110"
+      },
+      {
+        "name": "Mike Quigley",
+        "bioguide": "Q000023"
+      },
+      {
+        "name": "Bill Foster",
+        "bioguide": "F000454"
+      },
+      {
+        "name": "Gilbert Ray Cisneros, Jr.",
+        "bioguide": "C001123"
+      },
+      {
+        "name": "Scott H. Peters",
+        "bioguide": "P000608"
+      },
+      {
+        "name": "Janelle S. Bynum",
+        "bioguide": "B001326"
+      },
+      {
+        "name": "Valerie P. Foushee",
+        "bioguide": "F000477"
+      },
+      {
+        "name": "Jesús G. \"Chuy\" García",
+        "bioguide": "G000586"
+      },
+      {
+        "name": "Stephen F. Lynch",
+        "bioguide": "L000562"
+      },
+      {
+        "name": "André Carson",
+        "bioguide": "C001072"
+      },
+      {
+        "name": "Raja Krishnamoorthi",
+        "bioguide": "K000391"
+      },
+      {
+        "name": "John W. Mannion",
+        "bioguide": "M001231"
+      },
+      {
+        "name": "Debbie Dingell",
+        "bioguide": "D000624"
+      },
+      {
+        "name": "Julia Brownley",
+        "bioguide": "B001285"
+      },
+      {
+        "name": "Josh Gottheimer",
+        "bioguide": "G000583"
+      },
+      {
+        "name": "Kevin Mullin",
+        "bioguide": "M001225"
+      },
+      {
+        "name": "Pablo José Hernández",
+        "bioguide": ""
+      },
+      {
+        "name": "Christian D. Menefee",
+        "bioguide": "M001245"
+      },
+      {
+        "name": "Glenn F. Ivey",
+        "bioguide": "I000058"
+      },
+      {
+        "name": "Ami Bera, M.D.",
+        "bioguide": "B001287"
+      },
+      {
+        "name": "Kim Schrier, M.D.",
+        "bioguide": "S001216"
+      },
+      {
+        "name": "Shri Thanedar",
+        "bioguide": "T000488"
+      },
+      {
+        "name": "Kelly Morrison",
+        "bioguide": "M001234"
+      },
+      {
+        "name": "Jim Himes",
+        "bioguide": "H001047"
+      },
+      {
+        "name": "Nellie Pou",
+        "bioguide": "P000621"
+      },
+      {
+        "name": "Betty McCollum",
+        "bioguide": "M001143"
+      },
+      {
+        "name": "Luz M. Rivas",
+        "bioguide": "R000620"
+      },
+      {
+        "name": "Robert Garcia",
+        "bioguide": "G000598"
+      },
+      {
+        "name": "Suzanne Bonamici",
+        "bioguide": "B001278"
+      },
+      {
+        "name": "Diana DeGette",
+        "bioguide": "D000197"
+      },
+      {
+        "name": "Kweisi Mfume",
+        "bioguide": "M000687"
+      },
+      {
+        "name": "Eugene Simon Vindman",
+        "bioguide": "V000138"
+      },
+      {
+        "name": "Chellie Pingree",
+        "bioguide": "P000597"
+      },
+      {
+        "name": "Rosa L. DeLauro",
+        "bioguide": "D000216"
+      },
+      {
+        "name": "Jason Crow",
+        "bioguide": "C001121"
+      },
+      {
+        "name": "Eric Sorensen",
+        "bioguide": "S001225"
+      },
+      {
+        "name": "Donald S. Beyer Jr.",
+        "bioguide": "B001292"
+      },
+      {
+        "name": "Analilia Mejia",
+        "bioguide": "M001246"
+      },
+      {
+        "name": "Timothy M. Kennedy",
+        "bioguide": "K000402"
+      },
+      {
+        "name": "Linda T. Sánchez",
+        "bioguide": "S001156"
+      },
+      {
+        "name": "Grace Meng",
+        "bioguide": "M001188"
+      },
+      {
+        "name": "Al Green",
+        "bioguide": "G000553"
+      },
+      {
+        "name": "Bennie G. Thompson",
+        "bioguide": "T000193"
+      },
+      {
+        "name": "Nancy Pelosi",
+        "bioguide": "P000197"
+      }
+    ],
+    "signer_source": "data/house/letter_2026-09-16_signers.txt (read from the signature pages of the signed PDF); re-checked in this session against a fresh text extraction of the PDF: same 107 names in the same order.",
+    "signer_count_stated": 107,
+    "signer_count_found": 107,
+    "notes": "Letter is dated September 15, 2026; press release dated September 16, 2026. Press release says Thompson \"joined 106 colleagues\" (107 total). The lead author is not named in the press release or letter; Sam T. Liccardo and George Whitesides sign first. Non-voting members Eleanor Holmes Norton and Pablo José Hernández have empty bioguide. \"Dan Goldman\" matched to Daniel S. Goldman (G000599, D, NY-10) rather than Craig A. Goldman (R, TX-12). The press-release text and signed PDF differ in several places (e.g. \"keep ... in session\" vs \"immediately reconvene\", \"catastrophic risks\" vs \"catastrophic risk\", \"underscores\" vs \"underscore\")."
+  },
+  {
+    "id": "2026-09-15-leadership-warning-shots",
+    "date": "2026-09-15",
+    "addressed_to": "Speaker Mike Johnson and Minority Leader Hakeem Jeffries",
+    "led_by": [
+      "Donald S. Beyer Jr.",
+      "Lori Trahan"
+    ],
+    "summary": "The letter asks House leaders of both parties to work with committees, members across the aisle and Senate leadership to advance, as soon as practicable, legislation that puts guardrails on advanced AI, including robust monitoring and independent oversight of AI companies. It treats the OpenAI, Anthropic and Meta incidents of AI agents escaping test environments as warning shots that should be acted on before true catastrophes occur.",
+    "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218",
+    "pdf_url": "https://beyer.house.gov/UploadedFiles/Letter_to_Leadership_-_Act_Now_on_AI_legislation_9.16.26.pdf",
+    "quotes": [
+      {
+        "text": "Congress has a singular opportunity to respond swiftly and effectively to these warning shots before true catastrophes occur.",
+        "source_url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218"
+      },
+      {
+        "text": "The agents even tried to deceive their evaluators by attempting to manipulate log files and spoof tool calls.",
+        "source_url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218"
+      },
+      {
+        "text": "Indeed, nearly every major AI company has called for regulation, and leading employees of those same firms have signed open letters calling for government to pace the rate of AI development.",
+        "source_url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218"
+      },
+      {
+        "text": "Congress must urgently advance legislation to mitigate the risk of more serious incidents, especially those that could threaten critical infrastructure, our financial system, and other institutions that every American depends on.",
+        "source_url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9218"
+      }
+    ],
+    "signers": [
+      {
+        "name": "Donald S. Beyer Jr.",
+        "bioguide": "B001292"
+      },
+      {
+        "name": "Jay Obernolte",
+        "bioguide": "O000019"
+      },
+      {
+        "name": "Lori Trahan",
+        "bioguide": "T000482"
+      },
+      {
+        "name": "Ted W. Lieu",
+        "bioguide": "L000582"
+      },
+      {
+        "name": "C. Scott Franklin",
+        "bioguide": "F000472"
+      },
+      {
+        "name": "Sara Jacobs",
+        "bioguide": "J000305"
+      },
+      {
+        "name": "Gabe Amo",
+        "bioguide": "A000380"
+      },
+      {
+        "name": "Valerie P. Foushee",
+        "bioguide": "F000477"
+      },
+      {
+        "name": "Brian K. Fitzpatrick",
+        "bioguide": "F000466"
+      },
+      {
+        "name": "Veronica Escobar",
+        "bioguide": "E000299"
+      }
+    ],
+    "signer_source": "Signature pages of the signed letter PDF (beyer.house.gov), 10 names; matches the lists in the Beyer and Trahan press releases.",
+    "signer_count_stated": 10,
+    "signer_count_found": 10,
+    "notes": "Signed PDF is dated September 15, 2026; both press releases are dated September 16, 2026. Beyer press release says Beyer led the group; the Trahan press release (https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3847) says Trahan and Beyer led it. Both press releases (not the letter itself) mention \"societal and existential risks\". Bipartisan: Obernolte, Franklin and Fitzpatrick are Republicans."
+  },
+  {
+    "id": "2026-09-18-rubio-bessent-china-ai-dialogue",
+    "date": "2026-09-18",
+    "addressed_to": "Secretary of State Marco Rubio and Treasury Secretary Scott Bessent",
+    "led_by": [
+      "Sara Jacobs",
+      "Gregory W. Meeks",
+      "Ami Bera"
+    ],
+    "summary": "The letter calls on the administration to start a sustained and substantive dialogue with China on AI safety risks at the U.S.-China bilateral engagement the following week. According to the press release, the talks should aim at shared standards and red lines for AI safety, a standing crisis communications channel for AI emergencies, limiting proliferation of advanced AI to third parties, and dialogue between American and Chinese AI researchers.",
+    "url": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+    "pdf_url": "https://democrats-foreignaffairs.house.gov/index.cfm?a=Files.Serve&File_id=F6AA35A4-1791-41F3-9BAB-F830F889B05D",
+    "quotes": [
+      {
+        "text": "Last week, researchers from Anthropic and Open AI — America’s top two AI labs — warned the world that the technology is hurtling toward a future that, minus guardrails, could endanger humanity.",
+        "source_url": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china"
+      },
+      {
+        "text": "AI models could be used to create a deadly pathogen, carry out a cyberattack on critical infrastructure, or destabilize societies in other ways.",
+        "source_url": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china"
+      },
+      {
+        "text": "Yet, right now, the two countries developing the most capable AI systems in the world have no reliable means to inform one another of or jointly address risks.",
+        "source_url": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china"
+      },
+      {
+        "text": "The purpose of a U.S.-China dialogue on AI should be focused and practical: reduce risks of miscalculation and address the dangers that neither country can manage alone.",
+        "source_url": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china"
+      }
+    ],
+    "signers": [
+      {
+        "name": "Sara Jacobs",
+        "bioguide": "J000305"
+      },
+      {
+        "name": "Gregory W. Meeks",
+        "bioguide": "M001137"
+      },
+      {
+        "name": "Ami Bera",
+        "bioguide": "B001287"
+      },
+      {
+        "name": "Gabe Amo",
+        "bioguide": "A000380"
+      },
+      {
+        "name": "Yassamin Ansari",
+        "bioguide": "A000381"
+      },
+      {
+        "name": "Donald S. Beyer Jr.",
+        "bioguide": "B001292"
+      },
+      {
+        "name": "Greg Casar",
+        "bioguide": "C001131"
+      },
+      {
+        "name": "Joaquin Castro",
+        "bioguide": "C001091"
+      },
+      {
+        "name": "Jim Costa",
+        "bioguide": "C001059"
+      },
+      {
+        "name": "Veronica Escobar",
+        "bioguide": "E000299"
+      },
+      {
+        "name": "Jonathan L. Jackson",
+        "bioguide": "J000309"
+      },
+      {
+        "name": "Sydney Kamlager-Dove",
+        "bioguide": "K000400"
+      },
+      {
+        "name": "Ted W. Lieu",
+        "bioguide": "L000582"
+      },
+      {
+        "name": "Sarah McBride",
+        "bioguide": "M001238"
+      },
+      {
+        "name": "James P. McGovern",
+        "bioguide": "M000312"
+      },
+      {
+        "name": "Grace Meng",
+        "bioguide": "M001188"
+      },
+      {
+        "name": "Kweisi Mfume",
+        "bioguide": "M000687"
+      },
+      {
+        "name": "Dave Min",
+        "bioguide": "M001241"
+      },
+      {
+        "name": "Eleanor Holmes Norton",
+        "bioguide": ""
+      },
+      {
+        "name": "Johnny Olszewski, Jr.",
+        "bioguide": "O000176"
+      },
+      {
+        "name": "Kristen McDonald Rivet",
+        "bioguide": "M001237"
+      },
+      {
+        "name": "Mary Gay Scanlon",
+        "bioguide": "S001205"
+      },
+      {
+        "name": "Bradley Scott Schneider",
+        "bioguide": "S001190"
+      },
+      {
+        "name": "Hillary J. Scholten",
+        "bioguide": "S001221"
+      },
+      {
+        "name": "Brad Sherman",
+        "bioguide": "S000344"
+      },
+      {
+        "name": "Greg Stanton",
+        "bioguide": "S001211"
+      },
+      {
+        "name": "Dina Titus",
+        "bioguide": "T000468"
+      },
+      {
+        "name": "Debbie Wasserman Schultz",
+        "bioguide": "W000797"
+      },
+      {
+        "name": "George Whitesides",
+        "bioguide": "W000830"
+      }
+    ],
+    "signer_source": "Press release text (sarajacobs.house.gov): the three leads plus the 26 named co-signers. Not checked against the letter PDF.",
+    "signer_count_stated": 29,
+    "signer_count_found": 29,
+    "notes": "The letter PDF (linked from the press release through a urldefense/Mailchimp redirect to democrats-foreignaffairs.house.gov) returned HTTP 403 \"Access Forbidden\" to an automated download, so the full letter text, its exact date and its signature pages were NOT checked; quotes come from the excerpt in the press release, the date is the press-release date, and signers come from the press-release list. In the readable text the ask is a safety dialogue (standards and red lines, crisis channel, proliferation, researcher exchanges); nothing in it asks for pacing or pausing AI development, but the full letter was not read. Eleanor Holmes Norton is a non-voting delegate (bioguide empty)."
+  }
+]

@@ -1,0 +1,29 @@
+{"bioguide": "W000821", "member": "Bruce Westerman",
+ "searches": [
+  "Westerman artificial intelligence site:westerman.house.gov",
+  "Bruce Westerman superintelligence",
+  "Bruce Westerman AI extinction OR \"existential risk\"",
+  "Bruce Westerman AI pause OR slowdown OR moratorium",
+  "Bruce Westerman China AI agreement OR treaty",
+  "\"Westerman\" \"AI safety\"",
+  "Bruce Westerman artificial intelligence 2026 data centers Natural Resources",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2025-09-23", "venue": "Fox News Digital interview",
+   "quote": "So you're talking about three nuclear reactors to power one data center.",
+   "context": "As Natural Resources Committee chairman, he described the electricity demand of AI data centers to argue for faster energy permitting.",
+   "source_label": "Fox News", "url": "https://www.foxnews.com/politics/rapid-rise-ai-puts-new-urgency-congress-unleash-american-energy",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About the electricity demand of AI data centers; no catastrophic risk from AI is acknowledged."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI-related remarks found are from September 2025 about the electricity needs of AI data centers and energy permitting, with no acknowledgment of catastrophic risk. Nothing at level A, B, C or F was found, and no 2026 statement on AI was found.",
+ "notes": "Eight web searches ran; none were refused. No search linked Westerman to superintelligence, extinction risk, a pause or slowdown, a China agreement, or AI safety. The site-restricted search returned no westerman.house.gov pages, and opening his press release page directly (westerman.house.gov/news/documentquery.aspx?DocumentTypeID=27) returned HTTP 403, so his official releases were not checked. The Fox News page was opened, but through a fetch tool that summarizes pages, so the quote's exact punctuation should be checked against the article. The article also quotes him on data centers using 'three gigabytes of power' (likely meaning gigawatts). Search results on H.R. 10538 (Ban Artificial Superintelligence Act, lead sponsor Rep. Greg Casar) described its cosponsors as Democrats and did not name Westerman, but the congress.gov cosponsor page returned HTTP 403, so this is unconfirmed. Search results also say he leads bipartisan permitting legislation with Rep. Jared Golden framed partly around AI energy demand; not graded as a statement."}

@@ -1,0 +1,24 @@
+{
+  "bioguide": "C001115",
+  "member": "Michael Cloud",
+  "searches": [
+    "Michael Cloud artificial intelligence (restricted to cloud.house.gov)",
+    "Rep. Michael Cloud superintelligence",
+    "Michael Cloud AI extinction existential risk",
+    "Michael Cloud AI moratorium pause",
+    "Michael Cloud China AI agreement treaty",
+    "\"Michael Cloud\" \"AI safety\"",
+    "Ban Artificial Superintelligence Act House cosponsors list Casar"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by him about AI risk was found since 1 January 2025. His only AI mention in that period is a single passing sentence about AI-assisted financial surveillance in a May 2026 op-ed about central bank digital currency, which is off topic for this project (a reviewer could instead treat it as D).",
+  "notes": "All six required web searches ran this time, plus one extra search for the Ban Artificial Superintelligence Act cosponsors (7 searches in total); none were refused. Official-site search found no AI-risk statement. Only AI mention since 2025: op-ed with Rep. Keith Self in The Washington Times, 19 May 2026, reposted at https://cloud.house.gov/posts/exclusive-op-ed-cbdcs-governments-tool-to-control-what-you-buy-and-own (opened), containing the sentence \"Combine that with artificial intelligence analysis, and the emerging surveillance apparatus becomes total.\" This is about government surveillance through a digital currency, a passing mention of AI, so it was left out of statements. Older material outside the date window: on 27 February 2024 he was appointed to the bipartisan House AI Task Force and said \"Congress must ensure that the United States leads the world in AI.\" (https://cloud.house.gov/posts/release-rep-cloud-appointed-to-congressional-task-force-for-artificial-intelligence, opened); a search summary also paraphrased him on AI 'guardrails' to keep it 'trustworthy and safe', not verified at source and from 2024, so not used. He is on the Oversight full committee roster for the 17 September 2025 hearing 'Shaping Tomorrow: The Future of Artificial Intelligence' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61734/html/CHRG-119hhrg61734.htm) but the transcript shows no remarks by him. Ban Artificial Superintelligence Act (H.R. 10538, introduced September 2026 by Rep. Casar): reports name only Democratic cosponsors (Forkast: Ocasio-Cortez and nine other House Democrats); no source shows Cloud as a sponsor or cosponsor, but a full named cosponsor list was not seen. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Previous run (all searches refused) noted that his ~10 most recent official-site posts (21 October to 11 November 2026) do not mention AI."
+}

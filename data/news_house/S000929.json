@@ -1,0 +1,45 @@
+{
+  "bioguide": "S000929",
+  "member": "Victoria Spartz",
+  "searches": [
+    "site:spartz.house.gov artificial intelligence",
+    "Victoria Spartz superintelligence",
+    "Victoria Spartz AI extinction existential risk",
+    "Victoria Spartz AI pause slowdown moratorium",
+    "Victoria Spartz China AI agreement talks",
+    "\"Spartz\" \"AI safety\"",
+    "Rep. Victoria Spartz artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development. Her data center statements are about electricity costs, grid reliability and water, which do not count under the rubric.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause; she is not listed as a sponsor or cosponsor of the Ban Artificial Superintelligence Act of 2026.",
+      "sources": [
+        [
+          "FastDemocracy, Ban Artificial Superintelligence Act cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of frontier AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI was found in seven web searches or in her official press releases from January 2025 to November 2026, and she is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All 6 required web searches ran this time, plus one extra (7 in total). None returned any page mentioning Spartz in connection with AI, superintelligence, extinction risk, a pause or slowdown, China AI talks or AI safety; the site-restricted search returned no pages from spartz.house.gov. Kept from the earlier, interrupted attempt (pages opened directly then): her press release listing (https://spartz.house.gov/media/press-releases, pages 1 to 4, 24 January 2025 to 11 November 2026) had no release mentioning artificial intelligence, and the FastDemocracy cosponsor page for the Ban Artificial Superintelligence Act of 2026 lists 12 cosponsors, all Democrats, not including Spartz. Related but out of scope: releases on data centers on 9 September 2026 (https://spartz.house.gov/media/press-releases/spartz-seeks-independent-federal-review-indiana-data-centers-and-leap, federal review of the Meta LEAP campus and other Indiana data centers over energy, grid reliability and water) and 5 November 2026 (https://spartz.house.gov/media/press-releases/spartz-demands-sweeping-investigation-utility-surcharges-no-bid-contracts-0, families should not subsidize 'billionaires' data centers'). The earlier page fetch reported neither mentions AI, so they are not recorded as AI statements; a reviewer could treat them as D if data center remarks count as speaking about AI. I checked the AP story on the April 2026 House AI roundtable (news4jax.com copy) because it surfaced in the extra search; it does not mention Spartz. Not checked directly: hearing transcripts and floor speeches beyond what web search surfaced."
+}

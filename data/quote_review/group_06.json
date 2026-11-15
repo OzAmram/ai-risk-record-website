@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "W000817",
+  "member": "Elizabeth Warren",
+  "url": "https://www.banking.senate.gov/imo/media/doc/2026.10.27%20Letter%20to%20Anthropic%20re%20IPO.pdf",
+  "quote": "I am deeply troubled by the risks raised by Anthropic itself and question how it can act in a manner consistent with its stated public benefit and related fiduciary duties under Delaware law without mitigating these risks to humanity.",
+  "result": "confirmed",
+  "evidence_url": "https://www.banking.senate.gov/imo/media/doc/2026.10.27%20Letter%20to%20Anthropic%20re%20IPO.pdf",
+  "context": "…the existential risks to humanity that you warn of fully materialize. I am concerned about the consequences of Anthropic’s IPO listing not only for our economy, but also for the safety of the American people. I am deeply troubled by the risks raised by Anthropic itself and question how it can act in a manner consistent with its stated public benefit and related fiduciary duties under Delaware law without mitigating these risks to humanity. So the public can better understand the safety, security, and economic risks associated with Anthropic’s IPO…",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the text of the PDF letter dated October 27, 2026, signed by Elizabeth Warren as Ranking Member of the Senate Banking Committee; the automatic check likely missed it because of line breaks in the PDF."
+ },
+ {
+  "bioguide": "W000817",
+  "member": "Elizabeth Warren",
+  "url": "https://www.banking.senate.gov/imo/media/doc/2026.10.27%20Letter%20to%20Anthropic%20re%20IPO.pdf",
+  "quote": "In addition to the potentially catastrophic safety risks posed by Anthropic’s technology, the company’s launch into the public markets could inject extreme volatility and risk into the financial system, which threatens to undermine Americans’ economic security.",
+  "result": "confirmed",
+  "evidence_url": "https://www.banking.senate.gov/imo/media/doc/2026.10.27%20Letter%20to%20Anthropic%20re%20IPO.pdf",
+  "context": "…https://comptroller.nyc.gov/reports/letter-to-anthropic-re-planned-initial-public-offering/. 4 In addition to the potentially catastrophic safety risks posed by Anthropic’s technology, the company’s launch into the public markets could inject extreme volatility and risk into the financial system, which threatens to undermine Americans’ economic security. Anthropic is projected to be the largest IPO in history.31 Given its unprecedented size…",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the text of the PDF letter dated October 27, 2026, signed by Elizabeth Warren; the automatic check likely missed it because the passage sits after footnote text and is broken across lines."
+ },
+ {
+  "bioguide": "Y000064",
+  "member": "Todd Young",
+  "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "quote": "We cannot assume that future autonomous or AI-enabled attacks will not target hospitals, electric grids, water systems, or other critical infrastructure. Such an outcome would be unacceptable.",
+  "result": "confirmed",
+  "evidence_url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "context": "…While the consequences to date may not have directly affected the daily lives of most Americans, the risks they present should not be dismissed. We cannot assume that future autonomous or AI-enabled attacks will not target hospitals, electric grids, water systems, or other critical infrastructure. Such an outcome would be unacceptable.",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the PDF letter dated September 24, 2026, signed only by Todd Young; the automatic check likely missed it because of wide column spacing in the PDF."
+ },
+ {
+  "bioguide": "Y000064",
+  "member": "Todd Young",
+  "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "quote": "We must also continue to improve our understanding of these increasingly complex systems, whose internal processes can be difficult even for experts to fully interpret, predict, and control.",
+  "result": "confirmed",
+  "evidence_url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "context": "…advanced systems to circumvent safeguards, interact with external systems, and substantially enhance offensive cyber capabilities. These incidents underscore the need for the U.S. government to better understand and address emerging threats before they result in more serious consequences. We must also continue to improve our understanding of these increasingly complex systems, whose internal processes can be difficult even for experts to fully interpret, predict, and control. We are still working to understand the full implications…",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the PDF letter dated September 24, 2026, signed only by Todd Young."
+ },
+ {
+  "bioguide": "Y000064",
+  "member": "Todd Young",
+  "url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "quote": "These incidents underscore the need for the U.S. government to better understand and address emerging threats before they result in more serious consequences.",
+  "result": "confirmed",
+  "evidence_url": "https://www.young.senate.gov/wp-content/uploads/9.24.26-Sen.-Young-Letter-to-Sec.-Rubio-on-AI-FINAL.pdf",
+  "context": "…Recent developments involving frontier AI models have further demonstrated the ability of advanced systems to circumvent safeguards, interact with external systems, and substantially enhance offensive cyber capabilities. These incidents underscore the need for the U.S. government to better understand and address emerging threats before they result in more serious consequences. We must also continue to improve our understanding…",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in the PDF letter dated September 24, 2026, signed only by Todd Young."
+ }
+]

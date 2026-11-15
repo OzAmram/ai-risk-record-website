@@ -1,0 +1,35 @@
+{
+ "bioguide": "O000177",
+ "member": "Robert F. Onder, Jr.",
+ "searches": [
+  "Onder artificial intelligence (restricted to onder.house.gov)",
+  "Bob Onder superintelligence",
+  "Rep. Bob Onder AI extinction existential risk",
+  "Rep. Bob Onder AI pause slowdown moratorium",
+  "Rep. Bob Onder China AI agreement treaty",
+  "\"Onder\" \"AI safety\" congressman Missouri",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {"date": "2026-02-28",
+   "venue": "Weekly newsletter, 'ICYMI: My Live Reactions from the State of the Union'",
+   "quote": "Missouri led the nation by making sure massive AI data centers pay their fair share, so families aren't stuck with higher energy bills.",
+   "context": "One bullet in a list of his reactions to the 2026 State of the Union, between bullets on health care costs and border security.",
+   "source_label": "onder.house.gov newsletter, edition of 28 February 2026",
+   "url": "https://onder.house.gov/media/newsletters/rep-onder-newsletter-busy-and-productive-week-washington",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About AI data centers and energy bills, which the rubric places outside catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only statement of his own about AI found is a 2026 newsletter line about AI data centers paying for their energy use, which is D; nothing about catastrophic AI risk was found on his official site or in seven web searches.",
+ "notes": "All six required web searches ran this time, plus one on Ban Artificial Superintelligence Act cosponsors (7 in total); none returned a statement by him on superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. Ban Artificial Superintelligence Act (H.R. 10538): he is not listed among the 12 cosponsors on FastDemocracy (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); the Congress.gov cosponsor page returned HTTP 403, so this could not be confirmed there. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). The 'AI Safety' search's only hit naming him was the Judiciary subcommittee hearing 'AI at a Crossroads: A Nationwide Strategy or Californication?' (18 September 2025, https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm); he appears only in the full committee roster, and the transcript, read in full, has no remarks by him. The date of the data center statement is the newsletter edition date (28 February 2026); the underlying live reaction was posted during the State of the Union, whose exact date was not checked. Kept from the earlier attempt: all five pages of press release titles on onder.house.gov (about 42 releases, January 2025 to September 2026) were opened and none is about AI; the One Big Beautiful Bill Act release of 7 July 2025 does not mention AI or the state AI law moratorium. Passing AI mentions left out as off-topic: his 11 May 2026 newsletter 'Business Spotlight: Seyer Industries' says aerospace 'enters a new era defined by automation and AI-driven manufacturing' (https://onder.house.gov/media/newsletters/rep-onder-newsletter-business-spotlight-seyer-industries); another newsletter relays a hearing witness's remark about an 'AI-driven world' (witness's words, not his; page not opened). His Congressional App Challenge page lists AI models as eligible student projects. Newsletter bodies other than the two named here were not read."
+}

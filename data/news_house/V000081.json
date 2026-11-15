@@ -1,0 +1,33 @@
+{"bioguide": "V000081", "member": "Nydia M. Velázquez",
+ "searches": [
+  "site:velazquez.house.gov artificial intelligence",
+  "Nydia Velázquez superintelligence",
+  "Velázquez AI extinction existential risk",
+  "Nydia Velázquez AI pause moratorium slowdown data center",
+  "Nydia Velázquez China AI agreement treaty",
+  "\"Velázquez\" \"AI safety\" Congresswoman",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {"date": "2026-08-10", "venue": "Letter to Speaker Mike Johnson requesting hearings with AI company CEOs (led by Reps. Ramirez and Casar, 17 cosigners)",
+   "quote": "Advanced AI models pose a clear risk to the safety and security of the American people.",
+   "context": "Letter asking for open congressional hearings with the CEOs of the largest AI companies after reports that AI models escaped test environments and hacked other organizations; it also cites job displacement.",
+   "source_label": "Rep. Delia Ramirez press release, 10 August 2026",
+   "url": "https://ramirez.house.gov/media/press-releases/ramirez-casar-lead-call-congressional-hearings-ai-ceos",
+   "read_at_source": true, "level": "D", "flags": ["cosigned_letter", "bill_or_action", "boundary"],
+   "reason": "The letter names a general risk to safety and security from advanced AI without describing a catastrophic danger, which House ruling 4 grades D; it sits near C because the risk is from the AI models themselves."}
+ ],
+ "positions": {
+  "slowdown": {"value": "yes", "note": "Co-sponsor (not her own statement) of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, which news reports say would impose a temporary freeze on advanced AI development until a federal authority sets safety standards; a pause for safety reasons counts as yes here.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"], ["ExecutiveGov on the bill", "https://www.executivegov.com/articles/artificial-superintelligence-act-sanders-casar-proposed"], ["Unite.AI on the bill", "https://unite.ai/sanders-and-casar-unveil-bill-to-outlaw-superintelligent-ai-in-the-u-s/"]]},
+  "pause": {"value": "mixed", "note": "Co-sponsor of H.R. 10538; the bill's freeze on advanced AI development is conditional on a federal regulator setting safety rules, which the rubric treats as mixed. No statement of her own found.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"], ["ExecutiveGov on the bill", "https://www.executivegov.com/articles/artificial-superintelligence-act-sanders-casar-proposed"]]},
+  "intl": {"value": "none", "note": "H.R. 10538 reportedly directs US policy toward international agreements, allied coordination and export controls to prevent superintelligence worldwide, but the reports read do not name China or pacing talks with China; nothing else found.", "sources": []},
+  "rsi": {"value": "none", "note": "H.R. 10538 bans superintelligence; no report read mentions a ban on self-improving AI or automated AI research, and a superintelligence ban alone does not count.", "sources": []}
+ },
+ "record": [
+  ["Co-sponsored H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (House version led by Rep. Greg Casar), which would permanently ban artificial superintelligence and freeze advanced AI development until a new federal AI regulator sets rules.", "FastDemocracy cosponsor list; bill referred 2026-09-24", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"],
+  ["Cosigned the House letter led by Reps. Delia Ramirez and Greg Casar asking Speaker Johnson to hold open hearings, under oath, with the CEOs of the largest AI companies.", "Rep. Delia Ramirez press release, 2026-08-10", "https://ramirez.house.gov/media/press-releases/ramirez-casar-lead-call-congressional-hearings-ai-ceos"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "No statement in her own words about AI was found; the only quotable item is a co-signed August 2026 letter naming a general safety and security risk from advanced AI, which is D under House ruling 4. She co-sponsored the Ban Artificial Superintelligence Act, which is a strong action on catastrophic risk, so a reviewer may want to grade higher on the record.",
+ "notes": "Seven web searches ran (six required plus one on the Ban Artificial Superintelligence Act cosponsors); none of the topic searches returned any statement by Velázquez herself on AI. Her co-sponsorship of H.R. 10538 rests on the FastDemocracy cosponsor list (12 cosponsors, including Velázquez); congress.gov returned 403 so it was not confirmed there, and the co-sponsorship date was not found. The bill's provisions (temporary freeze, permanent superintelligence ban, international agreements without naming China) come from news reports (ExecutiveGov, Unite.AI); the bill text and Sen. Sanders's summary PDF could not be read as text. The bill sponsors' stated rationale (loss of control, superintelligence that 'could risk the security, freedom, and lives of Americans' per Rep. Casar) is the sponsors' wording, not hers, so it was not used as a statement. The letter quote is from the excerpt in Rep. Ramirez's press release; the letter PDF is image-based and could not be read. Page 1 of her official press releases on velazquez.house.gov has no AI-related titles; older pages were not checked. A reviewer could reasonably grade the letter C rather than D."
+}

@@ -1,0 +1,65 @@
+{
+  "bioguide": "M001136",
+  "member": "Lisa C. McClain",
+  "searches": [
+    "McClain artificial intelligence (restricted to mcclain.house.gov)",
+    "\"Lisa McClain\" superintelligence",
+    "\"Lisa McClain\" AI extinction OR \"existential risk\"",
+    "\"McClain\" AI pause OR slowdown OR moratorium 2026",
+    "\"Lisa McClain\" China AI agreement OR treaty",
+    "\"Lisa McClain\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-30",
+      "venue": "Press release",
+      "quote": "This bill would have protected ratepayers in Michigan and nationwide while allowing America to keep building, innovating, and leading the world in AI.",
+      "context": "Statement after Senate Democrats blocked H.R. 9340, the Ratepayer Protection Act, about who pays for new power demand.",
+      "source_label": "McClain House press release",
+      "url": "https://mcclain.house.gov/2026/9/chairwoman-mcclain-condemns-senate-democrats-vote-against-ratepayer-protection-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About electricity costs and US leadership in AI; no catastrophic risk acknowledged."
+    },
+    {
+      "date": "2025-02-24",
+      "venue": "Press release",
+      "quote": "Artificial intelligence continues to impact our daily lives, and Michigan companies and workers will continue to lead the way with this developing technology.",
+      "context": "Statement welcoming Apple's announcement of a Manufacturing Academy in Detroit.",
+      "source_label": "McClain House press release",
+      "url": "https://mcclain.house.gov/press-releases?ID=D1253A71-E3DC-4159-8A9A-43B1601D703A",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI and Michigan industry; no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her 2026 and 2025 remarks found on AI are about AI leadership, industry and power costs; nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra on Ban Artificial Superintelligence Act cosponsors (7 total). None of the searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement, or AI safety returned anything by McClain. Ban Artificial Superintelligence Act (H.R. 10538, Casar, introduced September 2026): reports describe 9 cosponsors, all Democrats per Forkast; no source shows McClain co-sponsored it. The congress.gov cosponsor page could not be opened (HTTP 403), so the full list was not read directly. No House letter on AI risk signed by her was found. The two D statements were kept from the earlier attempt, which read them on mcclain.house.gov; they were not re-opened this time. The 19 May 2025 TAKE IT DOWN Act statement is about deepfakes and children and does not use the word AI; left out. Her votes page shows Aye votes in June 2024 on AI-related amendments (before the 2025 window). A February 2026 release 'House Passes McClain Bill to Stop Bad Data from Wrecking American Jobs' appeared in results; its snippet does not show it is about AI, and it was not opened. Older press release pages (2 to 30) on her site were not reviewed."
+}

@@ -1,0 +1,63 @@
+{
+ "bioguide": "P000608",
+ "member": "Scott H. Peters",
+ "searches": [
+  "site:scottpeters.house.gov artificial intelligence",
+  "Scott Peters superintelligence",
+  "Rep. Scott Peters AI existential risk extinction",
+  "Scott Peters AI pause slowdown moratorium",
+  "Scott Peters China AI agreement treaty",
+  "\"Scott Peters\" \"AI safety\"",
+  "Rep. Scott Peters San Diego artificial intelligence 2026",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2026-07-23",
+   "venue": "Press release on introduction of the FRONTIER Act",
+   "quote": "The FRONTIER Act is a targeted bill with clear, uniform transparency, and safety standards, instead of a fifty-state patchwork. I'm glad to support this bipartisan effort so that Congress acts before this technology outruns us.",
+   "context": "Peters was one of the members introducing the FRONTIER Act, a bill setting transparency, audit and catastrophic-risk reporting rules for the largest frontier AI developers.",
+   "source_label": "Rep. Obernolte press release",
+   "url": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "He supports safety standards and says Congress must act before the technology outruns it, but names no catastrophic or serious danger from AI itself; the bill text concerns catastrophic risk but his own words do not."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement or bill found on this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement or bill found on this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement or bill found on this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement or bill found on this policy.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the FRONTIER Act alongside lead sponsors Obernolte and Trahan: tiered transparency, independent audits, incident reporting and a uniform national standard for reporting catastrophic risk from the most advanced AI models.",
+   "Rep. Obernolte press release, 2026-07-23",
+   "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI statement found (July 2026, backing the FRONTIER Act) supports AI safety standards but does not itself acknowledge catastrophic risk.",
+ "notes": "8 web searches ran, none refused. Many results were about Sen. Gary Peters (Michigan), not this representative; those were excluded. The Obernolte release lists Peters among members who introduced the FRONTIER Act 'alongside' the lead sponsors; formal co-sponsor status on congress.gov was not checked. A reviewer could argue for C because the bill he co-introduced targets catastrophic risk, but his own words only say Congress should act 'before this technology outruns us'. No source showed him co-sponsoring the Ban Artificial Superintelligence Act (search results on its House co-sponsors conflict and do not name him). Search results also mention his co-backing of the Great American AI Act discussion draft and a bill to stop data center construction at NAVWAR (data center, not catastrophic risk); not opened. The first page of his own press releases (scottpeters.house.gov/press-releases) had no AI items; his op-eds page had no AI titles. Left out per House instructions: any many-signer August/September 2026 House letters."
+}

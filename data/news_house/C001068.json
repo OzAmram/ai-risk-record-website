@@ -1,0 +1,24 @@
+{"bioguide": "C001068", "member": "Steve Cohen",
+ "searches": [
+  "Steve Cohen artificial intelligence (restricted to cohen.house.gov)",
+  "Rep. Steve Cohen superintelligence",
+  "Rep. Steve Cohen AI extinction existential risk",
+  "Congressman Steve Cohen AI pause moratorium slowdown",
+  "Steve Cohen Tennessee AI China agreement treaty",
+  "\"Steve Cohen\" \"AI safety\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "He is a cosponsor of the AI Data Center Moratorium Act (H.R. 9442, introduced 24 June 2026 by Ocasio-Cortez), a pause on new data center construction until laws are enacted that 'safeguards the public from the dangers of artificial intelligence'. The bill's findings cite expert warnings of 'catastrophic consequences' and loss of control, but its conditions for lifting the moratorium also cover jobs, electricity bills and the environment, and no words of his own tie it to risk from AI itself, so none under the rubric (same treatment as the other cosponsors in this project). Reviewer may reconsider.", "sources": [["Ocasio-Cortez press release, 24 June 2026", "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"], ["H.R. 9442 text, govinfo", "https://www.govinfo.gov/content/pkg/BILLS-119hr9442ih/html/BILLS-119hr9442ih.htm"]]},
+  "pause": {"value": "none", "note": "No statement found for or against a halt to frontier AI development. The data center moratorium is not counted as a pause of frontier AI. He is not among the 12 cosponsors of the Ban Artificial Superintelligence Act (H.R. 10538) listed by FastDemocracy.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development. His 2 September 2026 Intelligence Committee questioning opposed selling H200 chips to China, which is competition with China, not coordination.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Cosponsor of the Artificial Intelligence Data Center Moratorium Act (H.R. 9442), a moratorium on new data center construction until legislation 'safeguards the public from the dangers of artificial intelligence'; no statement of his own about it was found.", "Ocasio-Cortez press release and govinfo bill text, 2026-06-24", "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"],
+  ["Questioned House Intelligence Committee witnesses about the administration's decision to let China buy H200 GPU chips, calling it a mistake ('We're giving away our country's future'); the release does not mention AI.", "Cohen press release, 2026-09-02", "https://cohen.house.gov/media-center/press-releases/congressman-cohen-questions-intelligence-experts-export-controls"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "He cosponsored an AI bill (the AI Data Center Moratorium Act) in 2026, but no statement in his own words about catastrophic risk from AI, or about AI at all in 2025 to 2026, was found.",
+ "notes": "All 6 required web searches ran this time (the earlier attempt had 0 searches because all were refused). Pages opened: Ocasio-Cortez release of 24 June 2026 (lists Cohen as cosponsor of H.R. 9442; contains no quote from him), govinfo page and text of H.R. 9442 (lists Steve Cohen (TN) as cosponsor), FastDemocracy page for H.R. 10538, the Ban Artificial Superintelligence Act (12 cosponsors, Cohen not among them; congress.gov returned 403 so this is not confirmed against the official record), Cohen's 2 September 2026 export-controls release (his quoted words are about chips and Trump; no mention of AI), and his 9 March 2026 VA letter release (AI in claims reviews is mentioned only in press office wording, not his own words). From the earlier attempt (not repeated): his press release listing pages 1 to 5 (16 July to 30 October 2026) had no AI mentions; a 21 July 2026 release on an Intelligence Committee hearing on emerging threats mentions emerging technology and advanced chips but not AI (https://cohen.house.gov/media-center/press-releases/congressman-cohen-raises-questions-intelligence-committee-hearing). Seen in search summaries only, not opened or verified: he criticized the Grok chatbot over antisemitic posts and joined colleagues in a letter to Elon Musk (apparently July 2025; level D subject matter); his AI Careers Act and NSF grant announcements are older or not about risk. A search for '\"Steve Cohen\" \"AI safety\"' returned only other people named Steve Cohen (the Point72 hedge fund executive and a Columbia professor); none of their material is used here. No House letter about AI risk of his own was found (the many-signer August and September 2026 letters were not searched, per instructions). Cohen is retiring at the end of this term."
+}

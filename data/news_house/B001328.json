@@ -1,0 +1,22 @@
+{"bioguide": "B001328", "member": "Everton Blair Jr.",
+ "searches": [
+  "\"Everton Blair\" artificial intelligence",
+  "site:blair.house.gov AI",
+  "\"Everton Blair\" superintelligence",
+  "\"Everton Blair\" AI extinction OR existential risk",
+  "\"Everton Blair\" AI pause OR slowdown OR moratorium",
+  "\"Everton Blair\" China AI agreement OR treaty",
+  "\"Everton Blair\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by him about AI was found in web searches or on his official site; he took office around 1 September 2026 and his press releases are on other topics.",
+ "notes": "All 8 web searches ran (7 required plus one on the Ban Artificial Superintelligence Act). None of the searches on his name returned any page mentioning him with AI; results were generic AI pages, and the pause search matched Tony Blair instead. The site:blair.house.gov search returned no pages from his site (the filter did not restrict results), so I opened blair.house.gov/media/press-releases directly: 9 releases, 1 Sept to 28 Oct 2026 (casework, Newton County water infrastructure, housing, the SUN Act on highway clean-energy and broadband corridors, SNAP, a deported veteran, swearing-in); none of the titles mention AI, superintelligence or China, but only titles were visible, not full release text. An earlier run also checked his home page and In the News page (one item, a Wikipedia link) with no AI mentions. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and he is not among them; congress.gov returned HTTP 403, so the official cosponsor list could not be checked. No news coverage of him on AI was found."}

@@ -1,0 +1,52 @@
+{
+  "bioguide": "A000379",
+  "member": "Mark Alford",
+  "searches": [
+    "Alford artificial intelligence (restricted to alford.house.gov)",
+    "Rep. Mark Alford superintelligence",
+    "Mark Alford AI extinction existential risk",
+    "Mark Alford AI pause slowdown moratorium",
+    "Rep. Mark Alford China AI agreement treaty",
+    "\"Mark Alford\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-20",
+      "venue": "Press release on House passage of the AI for Main Street Act (H.R. 5764)",
+      "quote": "Main Street stands at the doorstep of a major transformation because the AI revolution isn’t just coming, it’s already here,",
+      "context": "Alford welcomed House passage of his bipartisan bill to help small businesses evaluate and adopt AI through Small Business Development Centers.",
+      "source_label": "Alford House press release, 20 January 2026",
+      "url": "https://alford.house.gov/news/documentsingle.aspx?DocumentID=1444",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Promotes small-business adoption of AI and does not acknowledge catastrophic risk."
+    },
+    {
+      "date": "2025-07-21",
+      "venue": "Letter to Commerce Secretary Howard Lutnick, led by Alford with seven Republican members (excerpt published in press release)",
+      "quote": "We can only win the AI race with Communist China if we are wisely limiting our foreign adversary’s opportunities to develop frontier AI and enabling American companies to compete quickly in the global marketplace.",
+      "context": "The letter urges a two-part AI export strategy: limit China's ability to develop frontier AI while helping American companies sell AI abroad.",
+      "source_label": "Alford House press release, 21 July 2025",
+      "url": "https://alford.house.gov/news/documentsingle.aspx?DocumentID=1301",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action", "cosigned_letter"],
+      "reason": "About competition with China in AI, which ruling 5 places at D; no catastrophic risk from AI is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; his July 2025 letter is about out-competing China, which does not count.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the AI for Main Street Act (H.R. 5764) with Rep. Hillary Scholten to help small businesses adopt AI; it passed the House.", "Alford House press release, 20 January 2026", "https://alford.house.gov/news/documentsingle.aspx?DocumentID=1444"],
+    ["Led a letter with seven Republican members urging Commerce Secretary Lutnick to limit China's ability to develop frontier AI while helping American AI exports.", "Alford House press release, 21 July 2025", "https://alford.house.gov/news/documentsingle.aspx?DocumentID=1301"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2025 and 2026, but only about small-business adoption and competition with China; no statement acknowledging catastrophic risk from AI was found.",
+  "notes": "All six required web searches ran this time, plus one more on the Ban Artificial Superintelligence Act cosponsors (7 in total); none was refused. Searches on superintelligence, extinction, pause, China agreement and \"AI safety\" found nothing by Alford. The Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar) appears in reports as having Democratic cosponsors only; no source shows Alford as a cosponsor, but the Congress.gov cosponsor page could not be opened (HTTP 403), so this is not fully confirmed. Search results also mentioned the Small Business Technological Advancement Act (H.R. 915, passed the House June 2026), whose loan funds could cover AI tools; that release was not opened and contains nothing on risk according to the search summary. The quoted 20 January 2026 passage is the first sentence of a longer statement; the rest (\"This bill is about empowering people, not replacing them.\") is about jobs, still level D. Kept from the earlier attempt: a direct check of the official site's press release pages 1 and 2 (2 July to 10 November 2026) found no AI-risk releases; press release pages 3 to 10, the In the News page, weekly column PDFs and the podcast were not checked. The many-signer House letters of August and September 2026 were not searched, per instructions. A Raw Story article titled \"Republicans scoff at apocalyptic AI warnings\" appeared in the superintelligence search; it was opened and does not mention Alford (it quotes senators only)."
+}

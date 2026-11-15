@@ -1,0 +1,153 @@
+{
+ "bioguide": "S000344",
+ "member": "Brad Sherman",
+ "searches": [
+  "site:sherman.house.gov artificial intelligence",
+  "Brad Sherman superintelligence",
+  "Brad Sherman AI extinction existential risk humanity",
+  "Brad Sherman AI pause slowdown moratorium",
+  "Brad Sherman China AI agreement treaty",
+  "\"Brad Sherman\" \"AI safety\"",
+  "\"AI Research and Threat Assessment Act\" Sherman H.R."
+ ],
+ "statements": [
+  {
+   "date": "2026-06-14",
+   "venue": "UCLA commencement address (full text in House press release of 2026-06-17)",
+   "quote": "because my highest concern about artificial intelligence, both then and now, is that despite my consistent efforts, we haven't addressed the existential threat that it poses.",
+   "context": "Sherman recalled warning UCLA graduates in 2005 about self-aware, superhuman AI and said its existential threat to our species is still unaddressed.",
+   "source_label": "Rep. Sherman press release",
+   "url": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "He states in his own words that AI poses an existential threat, in a speech about the survival of our species."
+  },
+  {
+   "date": "2026-02-24",
+   "venue": "Official House website, page for his AI Research and Threat Assessment Act",
+   "quote": "Virtually nothing is currently being done to address truly catastrophic risks. The risk is summarized by the title of the recent best-selling book: If Anyone Builds It, Everyone Dies.",
+   "context": "Explaining his bill to fund government research at NIST on preventing AI systems from developing self-awareness, ambition, self-preservation or their own goals.",
+   "source_label": "Rep. Sherman official website",
+   "url": "https://sherman.house.gov/ai-research-and-threat-assessment-act",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "He endorses the claim that building such AI means everyone dies, i.e. human extinction, as the risk his bill addresses."
+  },
+  {
+   "date": "2026-06-14",
+   "venue": "UCLA commencement address (full text in House press release of 2026-06-17)",
+   "quote": "Our species is devoting trillions of dollars to making artificial intelligence more powerful. We're devoting basically nothing to making sure that it is controllable.",
+   "context": "Arguing that spending on AI capability far outstrips spending on keeping AI under human control.",
+   "source_label": "Rep. Sherman press release",
+   "url": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Warns of AI that cannot be controlled, in a passage about an existential threat, though this sentence alone names no specific catastrophe (between B and C)."
+  },
+  {
+   "date": "2026-06-14",
+   "venue": "UCLA commencement address (full text in House press release of 2026-06-17)",
+   "quote": "It will require us to ask not how do we beat China or other national rivals in deploying the latest technology, but rather how do we work with all nations to make sure that the power of intelligence remains a human monopoly.",
+   "context": "Closing his speech, he said the Nuclear Non-Proliferation Treaty might be a model for controlling AI and genetic engineering and called for cooperation rather than a race with China.",
+   "source_label": "Rep. Sherman press release",
+   "url": "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls for international cooperation, including with rivals like China, to keep superhuman intelligence from arising, in general terms; supports the intl position."
+  },
+  {
+   "date": "2026-06-18",
+   "venue": "Amendment he offered to House Rules Committee Print 119-33",
+   "quote": "the United States Government should work with frontier artificial intelligence companies to conduct research to control the ability of artificial intelligence systems to develop self-awareness, ambition, self-preservation, self-replication, or otherwise establishing their own goals and objectives.",
+   "context": "Proposed sense-of-Congress section on frontier AI companies (amendment SHERMA_158).",
+   "source_label": "House Rules Committee amendment PDF",
+   "url": "https://amendments-rules.house.gov/amendments/SHERMA_158_xml260618161107802.pdf",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Treats AI systems developing their own goals as a serious danger needing control research, without naming a catastrophic outcome."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "He said a pause on AI research is unlikely to happen (a prediction, not a statement for or against slowing down); no call to slow AI found.",
+   "sources": [
+    [
+     "UCLA commencement press release, 2026-06-17",
+     "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial"
+    ],
+    [
+     "AI Research and Threat Assessment Act page",
+     "https://sherman.house.gov/ai-research-and-threat-assessment-act"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "He recalled the 2023 pause letter and said a future pause is unlikely; he neither endorsed nor opposed a pause.",
+   "sources": [
+    [
+     "UCLA commencement press release, 2026-06-17",
+     "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial"
+    ],
+    [
+     "AI Research and Threat Assessment Act page",
+     "https://sherman.house.gov/ai-research-and-threat-assessment-act"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "In his 14 June 2026 UCLA speech he rejected racing China and called for working with all nations, citing the Nuclear Non-Proliferation Treaty as a possible model, to keep intelligence a human monopoly. He does not explicitly say 'pause' or 'pace', so a reviewer may judge this mixed or none.",
+   "sources": [
+    [
+     "UCLA commencement press release, 2026-06-17",
+     "https://sherman.house.gov/media-center/press-releases/congressman-brad-delivers-ucla-commencement-revisits-artificial"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "His bill and amendments target research to monitor and prevent AI self-awareness, ambition, self-preservation and self-replication, and amendment SHERMA_159 lists 'recursively self-improving AI' as an indicator property in a definition, but none of these is a ban on self-improving AI.",
+   "sources": [
+    [
+     "Amendment SHERMA_159, 2026-06-18",
+     "https://amendments-rules.house.gov/amendments/SHERMA_159_xml260618163746096.pdf"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Introduced the AI Research and Threat Assessment Act, to fund research and create a NIST program to monitor for and prevent AI self-awareness, ambition, self-preservation and self-replication; developed with Nate Soares. Bill number not found.",
+   "Rep. Sherman website, page published 2026-02-24",
+   "https://sherman.house.gov/ai-research-and-threat-assessment-act"
+  ],
+  [
+   "Offered amendment SHERMA_158 to Rules Committee Print 119-33: sense of Congress that government should work with frontier AI companies on research to control AI systems' ability to develop self-awareness, ambition, self-preservation, self-replication or their own goals.",
+   "House Rules Committee, 2026-06-18",
+   "https://amendments-rules.house.gov/amendments/SHERMA_158_xml260618161107802.pdf"
+  ],
+  [
+   "Offered amendment SHERMA_159 to Rules Committee Print 119-33, adding to a definition AI that may be able to cause 'widespread loss of human oversight or control', or that shows self-awareness, ambition (including recursive self-improvement or deception) or shutdown avoidance.",
+   "House Rules Committee, 2026-06-18",
+   "https://amendments-rules.house.gov/amendments/SHERMA_159_xml260618163746096.pdf"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In 2026 he said in his own words that AI poses an existential threat to our species and endorsed 'If Anyone Builds It, Everyone Dies' as summarizing the risk his bill addresses; no dismissive statements found.",
+ "notes": "7 web searches ran, none refused. Press release list on sherman.house.gov checked back to February 2025; only AI item is the UCLA speech. The 2007 keynote 'Engineered Intelligence: Creating a Successor Species' and a 2019 House Science statement are before 2025 and left out. Puck reports (paraphrase, page not opened) that he wrote House leadership urging much more funding for the Center for AI Standards and Innovation at NIST; no date or wording verified, so left out. No source showed him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act; not checked on congress.gov. Bill number of the AI Research and Threat Assessment Act not found; statement date is the page's published_time metadata (2026-02-24). I believe Rules Committee Print 119-33 is a defense authorization bill but did not verify. Amendment quote was extracted from the PDF with line-break hyphens rejoined, starting after 'It is the sense of Congress that'. UCLA speech also discusses genetic engineering as an existential threat alongside AI."
+}

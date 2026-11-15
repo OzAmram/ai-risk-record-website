@@ -1,0 +1,85 @@
+{
+ "bioguide": "B001318",
+ "member": "Becca Balint",
+ "searches": [
+  "Becca Balint artificial intelligence (restricted to balint.house.gov)",
+  "Becca Balint superintelligence",
+  "Becca Balint AI extinction existential risk",
+  "Becca Balint AI pause slowdown moratorium",
+  "Becca Balint China AI agreement treaty",
+  "\"Becca Balint\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Balint"
+ ],
+ "statements": [
+  {
+   "date": "2026-05-20",
+   "venue": "Press release on reintroducing the NO FAKES Act",
+   "quote": "AI is moving fast, and we need to make sure these guardrails are in place now, not later",
+   "context": "Balint co-leading a bill giving people a right to control AI deepfakes of their voice and likeness.",
+   "source_label": "balint.house.gov press release",
+   "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About deepfakes and guardrails, with no catastrophic risk acknowledged."
+  },
+  {
+   "date": "2026-07-27",
+   "venue": "Press release on introducing the Addictive Design Act",
+   "quote": "We need clear rules, research, and accountability before more families are forced to suffer the consequences.",
+   "context": "Balint introducing a bill to protect young people from addictive AI chatbots.",
+   "source_label": "balint.house.gov press release",
+   "url": "https://balint.house.gov/news/documentsingle.aspx?DocumentID=789",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About harm to children from chatbots, which the rubric places at D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on AI pacing.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Co-led the reintroduced NO FAKES Act on AI deepfakes of voice and likeness.",
+   "balint.house.gov press release, 2026-05-20",
+   "https://balint.house.gov/news/documentsingle.aspx?DocumentID=741"
+  ],
+  [
+   "Introduced the Addictive Design Act to protect young people from addictive AI chatbots.",
+   "balint.house.gov press release, 2026-07-27",
+   "https://balint.house.gov/news/documentsingle.aspx?DocumentID=789"
+  ],
+  [
+   "Co-led a letter with Senator Warren to McDonald's about AI pricing tools and possible collusion.",
+   "balint.house.gov press release, 2026-11-03",
+   "https://balint.house.gov/news/documentsingle.aspx?DocumentID=858"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "In 2026 Balint has spoken about AI (deepfakes, chatbots and children, AI pricing), but none of the material found acknowledges catastrophic risk from AI.",
+ "notes": "All six required web searches ran (plus one on the Ban Artificial Superintelligence Act), 7 in total; none refused. The official-site search returned only the AI releases already found (NO FAKES Act, Addictive Design Act, McDonald's AI pricing letter) plus housing rent-algorithm bills, which are not about AI risk. The superintelligence, extinction, pause, China and 'AI safety' searches returned no results mentioning Balint. The Ban Artificial Superintelligence Act search (H.R. 10538, led by Casar) showed cosponsor lists that do not include Balint; no source shows she co-sponsored it, but congress.gov was not checked directly. The McDonald's letter quotes are attributed to 'the lawmakers' jointly, so none are included as her statements. The 29 June 2026 Protecting Young Minds Online Act release has no Balint quote mentioning AI. The two D quotes were re-confirmed in this run by opening the press releases, but through a page-fetch tool that summarizes pages, so a reviewer should confirm exact wording on the linked pages."
+}

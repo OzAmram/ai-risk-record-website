@@ -1,0 +1,75 @@
+{
+  "bioguide": "B001278",
+  "member": "Suzanne Bonamici",
+  "searches": [
+    "Bonamici artificial intelligence (restricted to bonamici.house.gov)",
+    "Suzanne Bonamici superintelligence",
+    "Bonamici AI extinction existential risk",
+    "Bonamici AI pause slowdown moratorium",
+    "Bonamici China AI agreement treaty",
+    "\"Bonamici\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-22",
+      "venue": "Press release introducing the Artificial Intelligence Education and Workforce Readiness Act",
+      "quote": "Congress must act now so AI does not continue to threaten the development of critical thinking skills and the wellbeing of humanity.",
+      "context": "Introducing her bill setting guardrails, risk standards and safety research for AI in education and the workforce.",
+      "source_label": "House press release, 22 September 2026",
+      "url": "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "bill_or_action",
+        "boundary",
+        "unsure"
+      ],
+      "reason": "She says AI threatens 'the wellbeing of humanity', a general statement of serious risk; it falls short of ruling 1 (threat to humanity's future or survival) and sits in an education and jobs context, so it borders on D."
+    },
+    {
+      "date": "2026-01-15",
+      "venue": "Official statement announcing her AI education and workforce framework",
+      "quote": "Artificial intelligence is shaping how Americans learn, teach, work, and compete, but our education and workforce systems have not kept pace.",
+      "context": "Announcing a framework for AI in education and the workforce, citing job disruption, student protections and security and privacy.",
+      "source_label": "House statement, 15 January 2026",
+      "url": "https://bonamici.house.gov/media/statements/bonamici-announces-human-centered-framework-address-ai-education-and-workforce",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI in education, jobs and privacy, with no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development. Her January 2026 statement criticizes advocates of a moratorium on state AI laws, which is a different policy.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the Artificial Intelligence Education and Workforce Readiness Act, setting AI risk standards in classrooms, worker protections, data center energy and water disclosure, and safety research at federal science agencies (8 Democratic cosponsors).",
+      "House press release, 22 September 2026",
+      "https://bonamici.house.gov/media/press-releases/bonamici-introduces-human-centered-framework-provide-guardrails-ai-education"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "Her strongest 2026 statement says AI threatens 'the wellbeing of humanity', a general acknowledgment of serious risk (C), but it is a borderline call in an education and jobs context and a reviewer could reasonably make it D. Nothing found names catastrophic risk specifically.",
+  "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act cosponsors (7 searches in total); none found any statement by her on superintelligence, extinction, loss of control, a pause or slowdown, or an agreement with China. Both quotes were re-checked on her official site in this session (22 September 2026 release and 15 January 2026 statement). Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page lists 12 cosponsors and Bonamici is not among them (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); Congress.gov was not checked, so a late cosponsorship cannot be fully ruled out. Her January 2026 statement criticizes advocates of a federal moratorium on state AI laws; that is a different policy, not an AI slowdown. Left out as out of date range: a FedScoop interview of 26 February 2024 (https://fedscoop.com/ai-task-force-work-rep-bonamici/) where she said \"Oh, I'm very worried — and we all should be\" about AI, in a deepfakes and ethics context; and a September 2024 release on the Department of Energy AI Act with Rep. Williams. A Bluesky post calling a Trump executive order against state AI laws reckless was seen only as a search summary and not used. Not checked: hearing remarks and floor speeches (she sits on the Science, Space and Technology and Education and Workforce committees). The many-signer August and September 2026 House letters were not searched, per instructions."
+}

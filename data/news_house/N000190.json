@@ -1,0 +1,23 @@
+{"bioguide": "N000190", "member": "Ralph Norman",
+ "searches": [
+  "site:norman.house.gov artificial intelligence",
+  "Ralph Norman superintelligence",
+  "Ralph Norman AI extinction existential risk",
+  "Ralph Norman AI pause moratorium slowdown",
+  "Ralph Norman China AI agreement treaty",
+  "\"Ralph Norman\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House",
+  "Rep. Ralph Norman artificial intelligence"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement by Norman on slowing AI development was found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement by Norman on pausing AI development was found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement by Norman on an AI agreement or talks with China was found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement by Norman on banning self-improving AI was found, and he is not a listed cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy bill page for H.R. 10538", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Norman about AI was found in eight web searches or in the official press releases that were checked (March 2025 to October 2026).",
+ "notes": "All 6 required web searches ran, plus 2 more (8 in total): one on the Ban Artificial Superintelligence Act cosponsors and one general search on Norman and artificial intelligence. None returned a statement by Ralph Norman about AI; results were about other members or AI in general. Ban Artificial Superintelligence Act: the FastDemocracy page for H.R. 10538 (opened) lists 12 cosponsors, all Democrats, and Norman is not among them; that list may not be final. No House letter on AI risk signed by Norman was found (the large August and September 2026 House letters were not searched, as instructed). The Sinclair article 'Top Republicans resist push for AI safety laws' surfaced in the AI safety search but was opened and does not mention Norman. From the earlier attempt (still valid): norman.house.gov home page and press release list pages 1-4 (about 40 releases, 7 March 2025 to 1 October 2026) were opened directly; no title or excerpt mentioned AI, superintelligence, China technology or data centers. Releases opened in full (DocumentID=3446, 26 March 2026; 3656, 22 July 2026 NDAA amendments; 3670, 17 September 2026; 3604, 11 June 2026) do not mention AI. Most list-page checks relied on titles and short excerpts, so an AI mention inside a full release text cannot be ruled out. The site: search on norman.house.gov returned no pages from that domain, so the search index may not cover his site well."
+}

@@ -1,0 +1,17 @@
+{"bioguide": "M001222", "member": "Max L. Miller",
+ "searches": ["\"Max Miller\" congressman pause OR slowdown OR moratorium artificial intelligence",
+              "\"Max Miller\" China AI agreement OR treaty",
+              "\"Max Miller\" \"AI safety\"",
+              "\"Max Miller\" congressman superintelligence",
+              "\"Max Miller\" Ohio AI extinction OR \"existential risk\"",
+              "site:maxmiller.house.gov artificial intelligence"],
+ "statements": [],
+ "positions": {
+   "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+   "pause": {"value": "none", "note": "No statement found.", "sources": []},
+   "intl": {"value": "none", "note": "No statement found.", "sources": []},
+   "rsi": {"value": "none", "note": "No statement found.", "sources": []}},
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "All six required searches ran and found no statement by Max Miller about AI since 1 January 2025, so there is nothing to grade.",
+ "notes": "All six required web searches ran in this attempt (the earlier attempt had been cut short by refused searches). None returned a statement by Rep. Max Miller (R-OH-7) about AI risk, superintelligence, extinction, a pause or slowdown, a China agreement, or AI safety. Results with the name 'Miller' were other people: Geoffrey Miller (psychology professor who warns about AI risk) and Joseph Miller (PauseAI UK), not this representative. The site-restricted search returned no pages from maxmiller.house.gov; the only Max Miller AI item was a House Science Committee video from June 2023 (community colleges preparing workers for AI, https://science.house.gov/2023/6/congressman-max-miller-discusses-how-community-colleges-can-prepare-u-s-workers-for-a-i), which is before the 2025 window and about workforce, so it was not included. Kept from the earlier attempt (not re-checked this time): maxmiller.house.gov home page and press release listing showed no AI-related releases in Sep 2026 (Childhood Cancer Awareness Month resolution, VA clinic renaming bill, Congressional App Challenge, Digital PARITY Act), individual release pages returned 404; the govinfo transcript of the 5 June 2025 Oversight hearing 'The Federal Government in the Age of Artificial Intelligence' was checked for its first 100,000 of 241,031 characters and Miller did not appear. Co-sponsorship of the Ban Artificial Superintelligence Act could not be verified from a co-sponsor list (congress.gov returned 403 earlier); no search result linked Miller to it. Absence of results is not proof he said nothing; local Ohio coverage or video interviews may not be indexed."}

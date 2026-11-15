@@ -572,3 +572,186 @@
 
 - Oz confirmed Ossoff at C and said not to stack the misuse and dismissal penalties. I read that as adopting the "dismissive statement lowers the grade one letter" rule, so Warner goes B to C (he was the only record it changes once stacking is ruled out); summary rewritten. Daines, Fetterman and McCormick stay C. To be confirmed by Oz, since Oz called Warner "a solid B" earlier the same day.
 - Rebuilt with the same command; render check passed.
+
+## 2026-11-12 (evening): House of Representatives started — IN PROGRESS
+
+**Goal:** Build the same record for every member of the House, using subagents on Opus 5.5 (Oz's instruction).
+
+**What was done**
+- `data/house/make_roster.py` lists sitting voting House members from the public unitedstates/congress-legislators files (downloaded 11 November 2026, kept in the session scratchpad, not in the project): `python3 -I data/house/make_roster.py --legislators <folder> --out data/house/roster.csv`. Result: 433 members (two seats vacant in that file), 23 without an X handle on file. Delegates left out.
+- `classify/news_search_house.md`: House instructions on top of the Senate brief, including Oz's rulings of 11 and 12 November (misuse only is C; 2026 outweighs 2025; a dismissive statement lowers one letter, no stacking; general "public safety" mentions are D).
+- Pilot: 19 news-search subagents launched on Opus 5.5, one per representative, writing to `data/news_house/<bioguide>.json`. Five chosen because they are known for AI work (Obernolte, Lieu, Foster, Casar, Beyer), 14 drawn at random (seed 0; the draw's 15th, Pappas, was skipped because he already has a file as a senator-elect).
+
+**Not started / needs Oz**
+- X posts for the House: not started. Rough cost at the reported rates: account lookups about $4 to $9, posts about $22 to $54 (guess of 10 to 25 matching posts per member; senators averaged 24). That could pass the $65 cap given about $19 already spent (unconfirmed in the console).
+- Representatives-elect (winners on 3 November 2026 who are not sitting members) are not in the roster.
+- The page (`site/build.py`, `xrisk-record.html`) handles senators only so far.
+
+**Next steps**
+1. Check the pilot files for quality, then run the remaining ~410 members in groups of 20.
+2. Oz to decide on X spend for the House and on representatives-elect.
+
+## 2026-11-12 (night): House pilot of 19 finished; X posts for the pilot; next 60 launched — IN PROGRESS
+
+**What was done**
+- Pilot news searches: all 19 files in `data/news_house/`. Not yet run through the automatic quote check.
+- X posts for the pilot (Oz: "start with a subset"): `python3 collector/lookup_users.py --raw-dir data/raw <19 handles>` (raw: `data/raw/user_lookup_names_20261113T020122.json`; 17 found, RepFeenstra and RepEdwards do not exist), accounts in `data/house/accounts.csv` (batch h1, official accounts only), then `python3 collector/search.py --accounts data/house/accounts.csv --batch h1 --db data/house/posts.sqlite --raw-dir data/raw --endpoint all --start-time 2025-01-01T00:00:00Z --max-query-len 1024 --max-posts 1500` -> 472 posts. Cost about $2.55 at reported rates (unconfirmed); running estimate about $22 of $65.
+- Labelling: `python3 classify/export_chunks.py --db data/house/posts.sqlite --accounts data/house/accounts.csv --out data/house/classify/input --chunk-size 65` (18 files), five Opus 5.5 subagents, then `python3 classify/merge.py --input data/house/classify/input --output data/house/classify/output --review data/house/classify/review_queue.csv` -> "472 posts written".
+- House letters: five letters signed by many members turned up (10 Aug to Speaker Johnson, Casar and Ramirez, 18 signers; 10 Aug to OpenAI, Casar; 15 Sep to Speaker Johnson, 107 signers; 16 Sep, Beyer and about nine others; 18 Sep on China talks, Meeks, Jacobs, Bera, 29 signers). Pilot searchers graded the same letter differently, so `classify/news_search_house.md` now tells searchers to leave these letters out; a subagent is building a checked catalogue `data/house/letters.json` (text, quotes, signers matched to bioguide ids) to be applied to signers by the build. I read the 107-signer letter's signed PDF myself: dated 15 September 2026, 107 names, saved in `data/house/letter_2026-09-16_signers.txt`. The PDF says "keep the House ... in session"; press releases of 16 September say "immediately reconvene".
+- Next 60 members (roster order, AK to CA-46) launched as one Workflow run on Opus 5.5 (run id wf_46c47a5e-cd4). The six House members who are senators-elect already have files in `data/news/` and are skipped.
+
+**Results (pilot, own words only, letters left out; machine-drafted, unreviewed)**
+- A: Casar, Beyer, Jacobs. B: Obernolte, Lieu (his one A post is from 2025), Foster, Trahan, Thompson, Pat Ryan, Harder. C: Vasquez, Matsui, Tlaib. D: Morelle, Sylvia Garcia, Garamendi, Feenstra. Nothing found: Velázquez, Edwards.
+- Harder's B is a post about bioweapons reaching "bad actors", which is misuse only and so C under Oz's ruling. The X post labelling instructions do not carry that ruling; it must be applied when grades are drafted.
+- Casar is "yes" on all four policies (lead House sponsor of the Ban Artificial Superintelligence Act).
+
+**Open questions / known problems**
+- Oz to rule on the level of each House letter (see catalogue when ready).
+- Foster: his office reposted September 2026 video interviews about catastrophic AI risk that have no transcripts; a person should watch them.
+- congress.gov refuses downloads, so co-sponsors of H.R. 10538 come from a third-party list (FastDemocracy, 12 names).
+- Member names in pilot files are written inconsistently; the build should take names from the roster.
+- Only official X accounts were searched for the House; personal and campaign accounts were not looked up.
+- The page still handles senators only.
+
+## 2026-11-13 (early morning): House news searches — all 427 files written, but 325 are INCOMPLETE (search limit ran out)
+
+**What was done**
+- Run of 60 members (Workflow run wf_46c47a5e-cd4, Opus 5.5): finished in 14 minutes, about 4.1 million tokens, no search refused.
+- Run of the remaining 348 members (Workflow run wf_c21758e5-ca2, Opus 5.5): finished in about 2 hours 8 minutes, about 21.5 million tokens. The work list was `house_todo.json` in the session scratchpad.
+- The session's shared web search allowance ran out after roughly the first 25 to 30 members of the second run. Searchers followed the instructions (no workarounds) and read the member's official site instead.
+- `data/house/search_status.csv` (new) lists, for each of the 348, how many searches the searcher says ran and whether the search was complete (6 or more ran). Built from the run's log of final reports.
+
+**Results**
+- `data/news_house/` has 427 files, one for every sitting voting member except the six who are senators-elect (their files are in `data/news/`). All pass the format check except five quote-less statements (in G000597 twice, J000305, L000397, P000034) to be moved into notes.
+- Complete searches: 19 (pilot) + 60 + 23 = 102 members. Incomplete: 325 members, of whom about 196 had no search run at all and about 85 had one to three.
+- Suggested grades across all 427 files (news only, no X posts, no letters, unreviewed; 325 rest on official sites only): A 11, B 12, C 24, D 195, nothing found 185. These are NOT reportable as findings for the House: an incomplete search biases towards "nothing found".
+
+**Mistake to record**
+- I said I would run in groups and check for refusals between them, then launched all 348 at once because the 60-member run had no refusals. The allowance is per session, not per minute, so a clean small run said nothing about the large one. About 20 million tokens went on searches that could not search.
+
+**Next steps**
+1. Oz to raise the web search limit again (or start a new session), then rerun the 325 members marked "no" in `data/house/search_status.csv`, in groups of about 40 with a refusal check after each. About 7 searches per member means roughly 2,300 searches.
+2. Oz's rulings on the five House letters (`data/house/letters.json`).
+3. Quote check on House files; House pages on the site; X posts beyond the pilot subset.
+
+## 2026-11-13: House search rerun — stopped by the search limit again after 88 members
+
+- Per Oz ("restart the search"), reran the 325 incomplete members in groups of 40 with a stop rule (Workflow run wf_e4165374-f46, Opus 5.5, about 7.4 million tokens, 16 minutes). Groups 1 and 2 ran clean; in group 3, 32 of 40 had searches refused, so the run stopped itself after 120 members. Searchers whose first two searches were refused left the existing file unchanged.
+- 88 members now have complete searches; `data/house/search_status.csv` updated from the run's structured reports. Complete: 190 of 427. Still incomplete: 237. All 427 files pass the format check.
+- The allowance seems to be about 600 to 650 searches per raise (88 members at about 7 each). The remaining 237 need about 1,700.
+
+## 2026-11-14: House search reruns — 277 of 427 complete, 150 left, search limit still in the way
+
+- Second rerun (Workflow run wf_e8580058-074, 237 members): groups 1 and 2 clean, stopped in group 3; 87 more complete. `data/house/search_status.csv` updated.
+- Third rerun (run wf_45a980f1-cf2, 150 members), started minutes later: all 40 of the first group had their first two searches refused; stopped at once, files unchanged. About 2 million tokens spent finding that out.
+- One test search from the main session, between the two runs, went through. So the limit is not a fixed total; it looks like an allowance of roughly 600 searches that refills over some period I do not know (the first rerun was on 13 November, the second on 14 November). Not verified.
+- Remaining list: `house_redo_list3.json` in the session scratchpad; it can be rebuilt from the rows with search_complete = no in `data/house/search_status.csv`.
+- Next: wait for the allowance to refill (or Oz raises it), then rerun the 150 with the same script. Before launching, test with a handful of searches, not one.
+
+## 2026-11-14 (later): House news searches COMPLETE for all 427 sitting voting members
+
+**What was done**
+- Oz raised `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` from 600 to 3000 in `~/.claude/settings.json` and restarted. Three test searches passed, then the last 150 members ran (Workflow run wf_c96780e9-882, Opus 5.5, about 9.9 million tokens, 26 minutes) with no search refused.
+- `data/house/search_status.csv`: all rows now "yes". Six quote-less statements moved from `statements` into `notes` in their files.
+
+**Results**
+- 427 files in `data/news_house/`, all passing the format check, all listing six or more searches, all member names matching the roster. The other six House members are senators-elect with files in `data/news/`.
+- Suggested grades from the news searches alone (no X posts except nothing, no letters applied, unreviewed): A 12, B 12, C 31, D 232, F 1, nothing found 139. By party: Democrats A 11, B 10, C 19, D 113, none 60; Republicans A 1, B 2, C 11, D 119, F 1, none 79; Independent C 1.
+- These are searchers' suggestions, not grades. They will change when the five letters are applied (the 107-signer letter alone covers about a quarter of the House) and when X posts are added.
+- Total subagent tokens for House news searches across all runs: about 53 million, of which roughly 22 million went on searches cut short by the limit.
+
+**Open questions / known problems**
+- Oz's rulings on the five House letters (`data/house/letters.json`). Reports say Rep. Sam Liccardo drafted the 107-signer letter (Axios, 11 September 2026); not yet added to the catalogue.
+- Co-sponsors of H.R. 10538: third-party trackers disagree (six, nine, ten or twelve names). Treat as unverified unless a press release names the member.
+- Automatic quote check not yet run on House files. X posts collected for 17 accounts only. The page handles senators only. Representatives-elect not listed. Nothing from the House is committed.
+
+## 2026-11-14 (afternoon): House X posts collected and labelled, quote check run, House added to the site
+
+**Goal:** Per Oz: scrape X for House members (budget raised to about $90 in total), run the quote check, add the House to the site.
+
+**What was done**
+- X accounts: looked up the 385 handles on file not yet collected (raw: `data/raw/user_lookup_names_20261114T15552{8,9}.json`, `...15553{0,1}.json`); 378 found. Kept 377 whose profile names the member (dropped Pou: the handle on file is a House administrative office). Added to `data/house/accounts.csv` as batch h2. Not found: RepMikeJohnson, RepKClark, RepTomEmmer, RepMalliotakis, JohnMannionNY22, RepCloudTX, RepWesleyHunt (plus RepFeenstra, RepEdwards from the pilot). 23 members have no handle on file. Official accounts only.
+- Posts: `python3 collector/search.py --accounts data/house/accounts.csv --batch h2 --db data/house/posts.sqlite --raw-dir data/raw --endpoint all --start-time 2025-01-01T00:00:00Z --max-query-len 1024 --max-posts 12000` -> 3,366 posts. `data/house/posts.sqlite` now holds 3,838 posts from 344 accounts.
+- Cost of this run at reported rates: 378 lookups ($3.78) + 3,366 posts ($16.83) = about $20.60. Running estimate about $43 of $90 (unconfirmed in the X console).
+- Labelling: pilot labels set aside (`data/house/classify/*_pilot`), all posts re-exported (350 files) and labelled by 51 Opus 5.5 subagents (Workflow run wf_c322b4f6-2a4, about 3.3 million tokens) using `classify/rubric_prompt.md` plus new `classify/rubric_house_addendum.md` (misuse only is C with flag `misuse_only`; general "public safety" mentions are D). `classify/merge.py` now allows the flag `misuse_only`. `python3 classify/merge.py --input data/house/classify/input --output data/house/classify/output --review data/house/classify/review_queue.csv` -> "3838 posts written".
+- Quote check: `python3 classify/check_news_quotes.py --news data/news_house --out data/news_house_quote_check.csv`.
+- Site: new `site/house_records.py` drafts one record per House member (grade by rule, see its docstring); `data/house/letter_levels.csv` holds the PROVISIONAL letter levels (mine, not Oz's: 107-signer letter B; hearings letter C; OpenAI letter D; "warning shots" letter C; China talks letter C and not counted as a China position). `site/build.py` takes `--house site/house_records.json`. `xrisk-record.html` has a Senate / House of Representatives switch; the House view has the bar chart and table but no map; search lists both chambers; previous/next stay within a chamber; house.gov pages count as official records; menu item renamed "Members". `site/render_check.py` checks the House index and that each chamber's index lists only its own members.
+- Commands: `python3 site/house_records.py --roster data/house/roster.csv --news data/news_house --letters data/house/letters.json --letter-levels data/house/letter_levels.csv --quote-check data/news_house_quote_check.csv --labels data/house/classify/review_queue.csv --out site/house_records.json`, then the usual build command with `--house site/house_records.json`, then `python3 site/render_check.py site/index.html`.
+
+**Results**
+- Post labels: A 43, B 40, C 201, D 3,173, F 12, off topic 369; 13 flagged misuse only. The 472 pilot posts were labelled twice by different subagents: 443 (94%) got the same level; most changes were between C and D or B and C. That is a rough measure of how repeatable the labels are.
+- Quote check: 495 House news statements; 469 found word for word on the linked page, 25 not found, 1 page not downloadable.
+- Draft House grades (427 members; machine-drafted by rule, unreviewed, letter levels provisional): A 29, B 91, C 42, D 211, F 7, nothing found 47. Democrats A 27, B 88, C 25, D 60, none 13; Republicans A 2 (Crane, Barrett), B 3, C 16, D 151, F 7 (McClintock, Steube, McCormick, Stutzman, Massie, Mike Johnson, Fallon), none 34; Independent C 1.
+- 88 members' top level comes only from a co-signed letter (77 at B from the 107-signer letter, 11 at C). Three were lowered a letter for a dismissive statement (Cammack, Mace, Ogles).
+- Positions: slowdown yes 22, mixed 4, no 10; pause yes 3, mixed 14, no 11; China coordination yes 9, mixed 1, no 2; self-improving AI ban yes 11, mixed 1.
+- Render check: "427 House records; 117 Senate-side records; 544 people rendered". Checked in headless Chrome: clicking the House switch shows 427 rows, no map, and the House chart; one member page (Liccardo) screenshotted.
+
+**Open questions / known problems**
+- Oz's rulings on the five letters; until then House grades resting on letters are provisional (about 90 members move with the 107-signer letter).
+- House records have a generic sentence after the grade, not a written summary like the senators'.
+- No House portraits fetched. No "lame duck" or "representative-elect" marks for the House. The six senators-elect who sit in the House appear only on the Senate side.
+- The House grade rule is applied by code; the Senate rulings were applied by hand. The two could differ in edge cases.
+- Self-improving AI ban "yes" for 11 members mostly rests on co-sponsoring H.R. 10538, known only from third-party trackers that disagree.
+- 32 House members have no usable X account on file; personal and campaign accounts not searched.
+- Every quote still needs a human check. Nothing from the House is committed.
+
+**Next steps**
+1. Oz rules on the letters; rerun `site/house_records.py` and the build.
+2. Decide how to spend the remaining X budget (about $47): missing accounts and personal or campaign accounts.
+3. Written summaries and portraits for the House; commit.
+
+## 2026-11-14 (evening): representatives-elect sourced, searched and added to the site
+
+**Goal:** Per Oz ("Continue, source the members elect"): find the winners of the 3 November 2026 House elections who are not sitting members and give them records.
+
+**What was done**
+- Election results: 17 Opus 5.5 subagents, one per group of states (Workflow run wf_92e09006-a64, about 1.4 million tokens), following new `classify/house_election_brief.md`, wrote `data/house/elections/group_01..17.json`: one row per district with winner, party, status and a source link.
+- `data/house/merge_elections.py` (new) combines and checks them: `python3 data/house/merge_elections.py --results data/house/elections --roster data/house/roster.csv --out data/house/election_2026.csv --elect data/house/members_elect.csv --leaving data/house/not_returning.csv`. NOTE: rerunning it rewrites `members_elect.csv` without the `id` column that was added afterwards by hand-run code; write `--elect` to a scratch path unless the ids are regenerated (ids are ELECT-<state>-<district>-<LASTNAME>).
+- News searches for the 108 representatives-elect (run wf_063d128d-a47, Opus 5.5, about 7.1 million tokens, no search refused), with a new section in `classify/news_search_house.md`. Files: `data/news_house/ELECT-*.json`; all pass the format check and list six or more searches.
+- Site: `site/house_records.py` takes `--elect` and `--leaving` and marks "representative-elect" and "lame duck"; `site/build.py` passes those marks to the page; the House view has a current/next House choice for the bar chart. Build as before, with `--elect data/house/members_elect.csv --leaving data/house/not_returning.csv` added to the `house_records.py` command.
+
+**Results**
+- 435 districts, each once: 426 called (257 Democrat, 169 Republican), 7 uncalled (AK at large, CA-23, MN-1, NC-5, NC-7, NC-10, TN-4), 2 runoffs (LA-5, LA-6). Unofficial results. Searchers' cautions: 13 Florida seats rest on one law-firm summary with at least one error; some KY, IN, SC rows come from search excerpts; Illinois count of new members disagrees with one news report (5 vs 6).
+- 108 representatives-elect; 318 sitting members returning; 115 sitting members not among the winners, of whom 9 sit in undecided districts and are left unmarked, and 6 are senators-elect. 101 House records are marked lame duck.
+- Members-elect draft grades (news only, no X posts): A 2 (Will Lawrence MI-7, Sam Forstag MT-1), B 2 (Scott Wiener CA-11, Micah Lasher NY-12), C 1 (Manny Rutinel CO-8), D 46, nothing found 57.
+- House page totals (535 records): current House A 29, B 91, C 42, D 211, F 7, none 47; next House (434 listed) A 29, B 82, C 33, D 192, F 6, none 92.
+- Render check: "652 people rendered; Senate: 17 senators-elect, 17 lame ducks; House: 108 representatives-elect, 101 lame ducks". Clicked through to the next House in headless Chrome.
+
+**Open questions / known problems**
+- The election table is a working list, not a verified roster; a person should check it against certified results, and the 9 undecided seats need revisiting.
+- No X posts for members-elect (no account list). Quote check for the 108 new files was started and is applied on the next build.
+- Still open from before: Oz's rulings on the five letters; remaining X budget (about $47); written summaries and portraits for the House; nothing from the House is committed.
+- Quote check rerun on all House files including members-elect (replaces the earlier output at data/news_house_quote_check.csv); site rebuilt and render check passed.
+
+## 2026-11-14 (night): second check of unverified quotes
+
+- Per Oz: 13 Opus 5.5 subagents (Workflow run wf_3c1c9120-6a8, about 0.7 million tokens) rechecked the 60 quotes the automatic check had not confirmed (31 Senate, 28 House, plus one never-checked quote in Slotkin's hand-written record). Each downloaded the page itself and checked the wording in the raw text by script; summaries from fetch tools were not accepted.
+- Results in `data/quote_review/group_*.json`, combined in `data/quote_review/results.csv`: 53 confirmed, 4 wording differs, 3 could not be opened.
+- Why the automatic check missed the confirmed ones: PDFs it does not read, pages it failed to download, line wrapping, invisible characters inside the text, a script tag with a space that made the tag-stripper drop the article. Moreno's four quotes are from a scanned letter read by character recognition; worth a human look.
+- Both build scripts take `--quote-review data/quote_review/results.csv` and label these 53 "found on the page by a second check run by a language model". Site rebuilt; render check passed (652 people).
+- NOT yet changed, awaiting Oz: the 4 wording corrections (Khanna drops the word "also"; Frankel's quote stops mid-sentence; Scalise and Watson Coleman have a full stop where the page has a comma); Khanna's "civilizational extinction risk" date (source says 28 September 2026, record says 29, and the source is second-hand); the 3 that could not be opened (El-Sayed campaign page, Thune in Axios, Valdez on nysenate.gov), which need a person with a browser.
+- Things the checkers noted about attribution: Blackburn's two quotes are from her office's bill summary; Kaine's, Schiff's and Frankel's are from joint letters; Capito's two quotes are cut from longer sentences.
+
+## 2026-11-14 (late night): missing X accounts found, posts collected and labelled
+
+- Per Oz: 24 Opus 5.5 subagents (Workflow run wf_8662e1a0-26a, about 1.6 million tokens) looked for X accounts of 141 people (108 representatives-elect, 33 sitting members without a working account). A handle counted only if a page the subagent opened linked it to the person. Results: `data/house/x_accounts_found/group_*.json`, 155 handles for 131 people; none found for 10 (Christopher H. Smith, and members-elect Dandiya, Cowan, LePage, Benitez-Thompson, Constantino, Leonard, Tedford, Gutierrez, Haynes).
+- X lookup of the 155 (raw: `data/raw/user_lookup_names_20261115T030050.json`, `...030051.json`): 150 exist; 149 passed the automatic name check and DarializaforNY was added by hand. Not on X: repfeenstra, MannionforNY, wewill2026, jefferson_cyril, ChuckGrayWY. Added to `data/house/accounts.csv` as batch h3 (official, personal and campaign accounts).
+- Posts: `python3 collector/search.py --accounts data/house/accounts.csv --batch h3 --db data/house/posts.sqlite --raw-dir data/raw --endpoint all --start-time 2025-01-01T00:00:00Z --max-query-len 1024 --max-posts 8000` -> 901 posts. Database: 4,739 posts from 455 accounts.
+- Cost of this step: 155 lookups ($1.55) + 901 posts ($4.50), about $6.05. Running estimate about $49 of $90 (unconfirmed in the console).
+- Labelling: 98 new files, 12 Opus 5.5 subagents (run wf_ffdc0676-9a1); earlier labels were checked to still match their inputs; merge -> "4739 posts written". House records redrafted, site rebuilt, render check passed (652 people).
+- Results: 48 House grades changed, almost all upward from "nothing found" to D. Members-elect: A 7 (Wiener, Villegas, Kiros, Rutinel, Lander, Lawrence, Forstag), B 1, C 7, D 61, nothing found 32. Current House (427): A 32, B 89, C 45, D 216, F 7, none 38. Next House (434 listed): A 36, B 79, C 42, D 210, F 6, none 61.
+- Known problem: subagents working at the same time shared one scratch folder, and three reported running or overwriting another's helper script. The merge check (every post present once, ids in order, quotes exact) passed, so files are well formed, but it cannot prove each file holds the labels its own subagent intended. Give each subagent its own scratch folder next time.
+
+## 2026-11-15: Oz's rulings on two House letters
+
+- **Goal:** apply Oz's levels for two of the five co-signed House letters.
+- **What was done:** in `data/house/letter_levels.csv`, the China talks letter (18 Sep 2026, 29 signers) went from C to B and the letter to OpenAI (10 Aug 2026, 32 signers) from D to C, both marked "Oz, 15 November 2026". Reran `site/house_records.py` and `site/build.py` (same commands as the previous entry) and `python3 site/render_check.py site/index.html`.
+- **Results:** render check passed (652 people). House grades are now A 39, B 95, C 47, D 277, F 7, none 70. Five members moved from C to B, all through the China letter: Jim Costa, Debbie Wasserman Schultz, Bradley Scott Schneider, Dina Titus, Gregory W. Meeks. The OpenAI letter changed no grade: every signer already had C or higher from something else.
+- **Open questions:** the other three letter levels are still provisional (107-signer letter B, hearings letter C, warning-shots letter C). Whether the China letter counts as a position on coordinating with China is still my provisional "no"; its full text has not been read (download refused). Nothing since commit `36801e9` is committed.
+- **Next steps:** Oz to rule on the remaining three letters; quote wording fixes; decide on commit.
+
+## 2026-11-15 (later): remaining letter levels confirmed, House work committed
+
+- **What was done:** Oz confirmed the other three letter levels (107-signer letter B, hearings letter C, warning-shots letter C); `data/house/letter_levels.csv` now marks all five as Oz's. The note on each House page now says the letter levels were set by Oz. Redrafted and rebuilt with the same commands; render check passed (652 people); grades unchanged (A 39, B 95, C 47, D 277, F 7, none 70). Committed the House work.
+- **Left out of the commit, as on the Senate side:** `data/house/classify/` (X post text and labels) and `site/house_records.json` (generated; contains X post text), both added to `.gitignore`, alongside the already ignored database, raw downloads and built page. They can be regenerated only from the local database and label files, which exist only on this machine.
+- **Open questions:** whether the China letter counts as a position on coordinating with China (currently no); quote wording fixes; three quotes whose pages could not be opened; X display terms still unread.

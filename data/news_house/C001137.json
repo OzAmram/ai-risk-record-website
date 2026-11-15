@@ -1,0 +1,39 @@
+{
+  "bioguide": "C001137",
+  "member": "Jeff Crank",
+  "searches": [
+    "site:crank.house.gov artificial intelligence",
+    "\"Jeff Crank\" \"AI safety\"",
+    "\"Jeff Crank\" superintelligence",
+    "\"Jeff Crank\" AI extinction OR existential risk",
+    "\"Jeff Crank\" AI pause OR moratorium OR slowdown",
+    "\"Jeff Crank\" China AI agreement OR treaty",
+    "Rep. Jeff Crank Colorado artificial intelligence (refused: shared search limit reached)"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Press release",
+      "quote": "Currently, the United States is in the race for AI dominance, which is critical to our economic and national security. However, communities across the nation are concerned about the pace in which AI data centers are being constructed and the cost to consumers electric bills.",
+      "context": "Press release on his vote for, and co-sponsorship of, H.R. 9340, the Ratepayer Protection Act, which would make large data centers pay for the grid upgrades they need.",
+      "source_label": "Rep. Crank press release, crank.house.gov",
+      "url": "https://crank.house.gov/media/press-releases/rep-crank-votes-protect-ratepayers-higher-utility-rates",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The statement is about the race for AI dominance and data center electricity costs, which are outside this project's scope and do not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development; the Ratepayer Protection Act concerns who pays for data center power, not slowing AI.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Co-sponsored and voted for H.R. 9340, the Ratepayer Protection Act, led by Rep. Gabe Evans, on data centers paying for their own grid upgrades (electricity costs, not catastrophic risk).", "Rep. Crank press release, 2026-09-16", "https://crank.house.gov/media/press-releases/rep-crank-votes-protect-ratepayers-higher-utility-rates"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remark found is a 2026 press release about the race for AI dominance and data center electricity costs, which does not acknowledge catastrophic risk. Nothing at level A, B, C or F was found.",
+  "notes": "Search incomplete: 7 web searches were attempted; 6 ran and the 7th was refused because the shared search limit was reached. None of the 6 that ran returned anything about this Jeff Crank and AI. I then opened his official site directly. I scanned the titles on all 11 press release list pages (crank.house.gov/media/press-releases, pages 0-10) and the In the News page. Only one press release mentions AI (the 16 September 2026 Ratepayer Protection Act release, read in full). Crank's own quote in that release does not mention AI; the AI wording quoted above is the release's narrative text from his office. The In the News page links to an Axios Denver article, 'Colorado lawmakers seek new AI safeguards' (17 September 2026, https://www.axios.com/local/denver/2026/09/17/colorado-lawmakers-ai-regulation-guardrails). I could not open it (HTTP 403), so I do not know what it says about Crank. A reviewer should check it, since it may contain his own words on AI safeguards. The site's own search page also returned 403. No source showed him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act, but I could not check Congress.gov co-sponsor lists through search, so this is unverified rather than confirmed absent. Press release titles were scanned for AI keywords; release bodies other than the Ratepayer one were not read."
+}

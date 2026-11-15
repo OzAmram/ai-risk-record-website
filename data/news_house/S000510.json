@@ -1,0 +1,46 @@
+{
+  "bioguide": "S000510",
+  "member": "Adam Smith",
+  "searches": [
+    "Adam Smith artificial intelligence (restricted to adamsmith.house.gov)",
+    "Rep. Adam Smith superintelligence",
+    "Rep. Adam Smith AI extinction existential risk",
+    "Rep. Adam Smith AI pause slowdown moratorium",
+    "Rep. Adam Smith China AI agreement talks treaty",
+    "\"Adam Smith\" Armed Services ranking member \"AI safety\"",
+    "\"Adam Smith\" Washington Democrat artificial intelligence Pentagon Anthropic 2026",
+    "H.R. 10538 Ban Artificial Superintelligence Act cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI since January 2025 was found in eight web searches or in the official press release pages checked, so no grade is suggested. As Armed Services ranking member he may have spoken about military AI in hearings not found here; such remarks would be level D under ruling 3 unless they name a catastrophic consequence.",
+  "notes": "All six required web searches ran this time (eight searches in total), replacing an earlier attempt in which every search was refused. None returned a statement by Rep. Adam Smith (D-WA) about AI risk, superintelligence, extinction, a pause, or AI talks with China; many results for his name concern the 18th-century economist or other members. The China search found only his September 2025 Beijing trip, where reports quote him on military misunderstanding risk and trade, not AI; not included. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar, September 2026): the FastDemocracy cosponsor list (12 cosponsors, opened directly) does not include him; Congress.gov was not checked this time (it returned HTTP 403 in the earlier attempt). Pages opened directly in the earlier attempt and still valid: adamsmith.house.gov home page and foreign affairs issue page (no AI mentions); press release listing pages 1 to 3 (22 December 2025 to 22 October 2026, none about AI); House Armed Services Democrats press release listing pages 1 and 2 (18 March to 11 November 2026, no AI titles); full text of his 4 November 2026 statement on 120th Congress priorities, his 5 June and 22 July 2026 statements on the FY27 defense authorization bill, and his 22 April and 29 April 2026 hearing opening statements, none mentioning AI (the 5 June statement only says the bill 'invests in innovation, technology, and modernization efforts'). An advocacy letter on AI and autonomous weapons (June 2026, ari.us) was addressed to him as ranking member; it is a letter to him, not by him, so it is not recorded. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

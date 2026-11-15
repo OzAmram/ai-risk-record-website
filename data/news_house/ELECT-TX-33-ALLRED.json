@@ -1,0 +1,29 @@
+{"bioguide": "ELECT-TX-33-ALLRED", "member": "Colin Allred",
+ "searches": [
+  "Colin Allred artificial intelligence AI safety",
+  "Colin Allred superintelligence",
+  "Colin Allred AI existential risk extinction",
+  "Colin Allred AI pause moratorium data centers",
+  "Colin Allred China AI agreement",
+  "Colin Allred 2026 congress campaign artificial intelligence",
+  "\"Allred\" AI regulation interview Gillespie TX-33"
+ ],
+ "statements": [
+  {"date": "2026-04-01", "venue": "Interview with The Texas Tribune (published in article)",
+   "quote": "We have to have representatives who understand the technology, who aren't afraid of it, who want to embrace its good sides, but also then put some rules that are relevant in place",
+   "context": "Allred, then a candidate in the TX-33 Democratic runoff, discussed AI regulation and his campaign's AI chatbot in an article on AI-aligned super PAC spending in Texas races.",
+   "source_label": "The Texas Tribune, 1 April 2026", "url": "https://www.texastribune.org/2026/04/01/texas-congress-ai-super-pacs-artificial-intelligence-regulation-2026-midterms/",
+   "read_at_source": false, "level": "D", "flags": [],
+   "reason": "Calls for understanding AI and putting relevant rules in place, but does not acknowledge catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; his campaign platform reportedly favors semiconductor export controls to compete with China, which does not count.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "The only AI statement found (2026) calls for lawmakers who understand AI and for relevant rules, without acknowledging catastrophic risk. No A, B, C or F statement was found.",
+ "notes": "7 web searches ran; none refused. The quote's opening ('We have to have representatives who understand the technology, who aren't afraid of it') was confirmed on the Texas Tribune page, but the page-reading tool would not return the full sentence, so the full wording comes from a search result and is marked read_at_source false. The interview date is not given; the article date (2026-04-01) is used. Paraphrases left out (same article): Allred said data center energy demands must be managed through local, state and federal coordination so costs do not fall on working people; his campaign chatbot reportedly lists a federal AI framework that does not preempt state regulation, renewable energy for data centers, and semiconductor export controls to compete with China (chatbot output, not his own words). Jobs and Democracy, a PAC aligned with the AI-safety-focused Public First Action, spent roughly $150,000 to $400,000 supporting him in the primary/runoff (campaign money, not a statement). His campaign site (colinallred.com) lists issues Immigration, Affordability and Corruption with no AI content found on the home page. No source found showing he sponsored or co-sponsored the Ban Artificial Superintelligence Act (he was not a House member in September 2026). No statements found from 2025."
+}

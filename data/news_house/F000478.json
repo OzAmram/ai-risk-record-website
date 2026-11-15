@@ -1,0 +1,24 @@
+{
+  "bioguide": "F000478",
+  "member": "Russell Fry",
+  "searches": [
+    "Russell Fry artificial intelligence (restricted to fry.house.gov)",
+    "Rep. Russell Fry superintelligence",
+    "Russell Fry AI extinction existential risk",
+    "Russell Fry AI pause slowdown moratorium",
+    "Russell Fry China AI agreement treaty",
+    "\"Russell Fry\" \"AI safety\"",
+    "\"Congressman Fry\" OR \"Rep. Fry\" AI chatbots artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, in his official press releases or in web searches, so there is nothing to grade.",
+  "notes": "All seven web searches ran (six required plus one extra). Searches with his name and AI risk terms returned only results about other people, mostly the researcher Stuart Russell; none mentioned Rep. Russell Fry of South Carolina. The fry.house.gov search found no AI statement; it showed only that his vote record lists a Yea vote on H.R. 7757, the AI Warnings And Resources for Education Act (a vote, not a statement; contents not checked). From the earlier attempt (still valid): pages on fry.house.gov were opened directly, namely the home page, the issues page and press release listing pages 1 to 3 (https://fry.house.gov/news/documentquery.aspx?DocumentTypeID=27, then &Page=2 and &Page=3), covering releases from 14 May 2025 to 1 October 2026; no release title or excerpt mentions AI. The 5 December 2025 release on the Kids Internet Safety Partnership Act (https://fry.house.gov/news/documentsingle.aspx?DocumentID=1015) mentions chatbots only in a bullet list of the bill's areas, not in his own words, and is about children's online safety (a D topic at most). He sits on the Energy and Commerce Communications and Technology subcommittee, but no hearing remarks on AI risk were found. Ban Artificial Superintelligence Act: the Congress.gov cosponsor page (assumed to be H.R. 10538, per another record in this project) returned 403 again, so co-sponsorship could not be checked directly; no source found shows that he sponsored or co-sponsored it. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

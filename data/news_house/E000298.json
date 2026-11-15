@@ -1,0 +1,24 @@
+{
+  "bioguide": "E000298",
+  "member": "Ron Estes",
+  "searches": [
+    "site:estes.house.gov artificial intelligence",
+    "Ron Estes superintelligence",
+    "Ron Estes AI extinction existential risk",
+    "Ron Estes AI pause slowdown moratorium",
+    "Ron Estes China AI agreement talks",
+    "\"Ron Estes\" \"AI safety\"",
+    "Rep. Ron Estes Kansas artificial intelligence"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026.", "sources": [["FastDemocracy, Ban Artificial Superintelligence Act cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "Seven web searches and a scan of his official press release titles found no statement by him about AI since January 2025, and he is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All six required web searches ran this time, plus one extra (7 in total); none returned a page with a statement by Ron Estes about AI. The site-restricted search returned no estes.house.gov pages. The only 'Estes' hit was a podcast with Tim Estes, a different person; another search returned Kansas state-legislature AI material not involving him. The FastDemocracy cosponsor page for the Ban Artificial Superintelligence Act of 2026 was re-opened in this run: 12 cosponsors, all Democrats, Estes not among them. Kept from the earlier attempt (not re-checked in this run): its reading of the titles on pages 1 to 6 of his press release listing (https://estes.house.gov/news/documentquery.aspx?DocumentTypeID=27, 28 August 2025 to 10 November 2026, 60 releases), none of which concerned AI; release bodies were not opened, so a passing AI mention inside a release (for example the October and 4 November 2025 interview summaries or the 3 September 2025 Wichita Chamber keynote) cannot be ruled out. Hearing remarks (he sits on Ways and Means) and floor speeches were not searched individually."
+}

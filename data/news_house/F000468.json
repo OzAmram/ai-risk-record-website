@@ -1,0 +1,27 @@
+{
+  "bioguide": "F000468",
+  "member": "Lizzie Fletcher",
+  "searches": [
+    "site:fletcher.house.gov artificial intelligence",
+    "Lizzie Fletcher superintelligence",
+    "Lizzie Fletcher AI extinction existential risk",
+    "Lizzie Fletcher AI pause slowdown moratorium",
+    "Lizzie Fletcher China AI agreement treaty",
+    "\"Lizzie Fletcher\" \"AI safety\"",
+    "Rep. Lizzie Fletcher artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement or action on slowing frontier AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement or action on pausing frontier AI development was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement or action on coordinating with China on the pace of AI development was found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement or action on banning self-improving AI was found; she is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+  },
+  "record": [
+    ["Co-sponsored the GUARDRAILS Act, which would repeal a White House executive order blocking state-level AI rules so states can keep enacting AI safeguards; this is about who regulates AI, not catastrophic risk.", "Rep. Doris Matsui press release, 2026-03-20", "https://matsui.house.gov/media/press-releases/matsui-beyer-lieu-jacobs-mcclain-delaney-introduce-legislation-repeal-white"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI-related activity found is co-sponsoring the GUARDRAILS Act in March 2026, which concerns state AI regulation and does not acknowledge catastrophic risk; no statement of her own about AI risk was found.",
+  "notes": "All 6 required web searches ran, plus 2 more (8 total); the earlier run's searches had all been refused. No search found any statement by Lizzie Fletcher about superintelligence, extinction, AI safety, a pause or slowdown, or a China agreement. The site-restricted search returned no fletcher.house.gov pages, and fletcher.house.gov's own search page returned HTTP 403. The earlier run opened her press release pages 1 to 3 (30 releases, 16 April to 12 November 2026) and found no AI titles or excerpts; releases were not opened in full. Ban Artificial Superintelligence Act (H.R. 10538): congress.gov cosponsor page returned HTTP 403; FastDemocracy lists 12 cosponsors and she is not among them, and no source shows her as a cosponsor. GUARDRAILS Act co-sponsorship is from Rep. Matsui's press release (opened; she is listed among cosponsors, with no quote from her). Reviewer: suggested grade is D only because of that AI-related co-sponsorship; if co-sponsoring without a statement of her own should count as nothing about AI, use 'none'. The AP story on a closed-door House AI meeting (April 2026, opened at news4jax.com) does not mention her."
+}

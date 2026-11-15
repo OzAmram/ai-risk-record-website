@@ -1,0 +1,43 @@
+{
+  "bioguide": "M001217",
+  "member": "Jared Moskowitz",
+  "searches": [
+    "Moskowitz artificial intelligence site:moskowitz.house.gov",
+    "Jared Moskowitz superintelligence",
+    "Jared Moskowitz AI extinction existential risk",
+    "Moskowitz AI pause slowdown moratorium",
+    "Rep. Moskowitz China AI agreement treaty",
+    "\"Jared Moskowitz\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2025-06-05",
+      "venue": "House Oversight Committee hearing, 'The Federal Government in the Age of Artificial Intelligence'",
+      "quote": "You know, obviously, this is an important topic on artificial intelligence.",
+      "context": "Opening line of his questioning time, which he spent mainly criticizing DOGE and a Republican bill rather than discussing AI.",
+      "source_label": "GovInfo hearing transcript CHRG-119hhrg60818",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "A passing acknowledgment that AI is important, with no mention of any risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [
+    [
+      "Joined the bipartisan No DeepSeek on Government Devices Act, banning the Chinese AI app DeepSeek on federal devices for national security and data privacy reasons (level D under the rubric: China and privacy, not catastrophic risk).",
+      "Moskowitz press release, 2025-02-06",
+      "https://moskowitz.house.gov/posts/moskowitz-joins-bill-to-safeguard-american-data-and-privacy-from-access-by-the-chinese-communist-party"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related remarks and actions found since January 2025 are a passing 2025 hearing comment that AI is an important topic and joining a 2025 bill to ban DeepSeek on government devices, neither acknowledging catastrophic risk; nothing from 2026 about AI was found.",
+  "notes": "This run: all 6 required web searches ran, plus 1 search on the Ban Artificial Superintelligence Act (7 in total); none of the person-specific searches found any statement by Moskowitz on superintelligence, extinction, a pause or slowdown, a China agreement or AI safety (results for 'Moskowitz' often matched Dustin Moskovitz or Jared Moore, different people). Ban Artificial Superintelligence Act (H.R. 10538, sponsor Greg Casar): search results gave conflicting cosponsor lists (FastDemocracy lists Hoyle, Lynch, Tonko; Forkast says Ocasio-Cortez and nine others, unnamed); no source named Moskowitz, but congress.gov was not checked, so his absence is not confirmed. No source showed him leading any House AI letter. The DeepSeek press release (6 February 2025) quotes him only on keeping the Chinese Communist Party away from government devices and data, without mentioning AI in his own words, so it is in 'record', not 'statements'. From the earlier run (pages opened directly, still relevant): moskowitz.house.gov home page showed 2026 headlines on funding, a threat against him, a post office renaming and a school background check bill, none on AI; hearing transcript CHRG-119hhrg61690 (18 September 2025 AI hearing) shows he did not speak. The 2025 hearing quote was extracted by a page-fetch summarizer in the earlier run and should be checked character for character by the reviewer. A 2023 news item (BizPac Review) quoted him saying no one in Congress is an AI expert; it is before 2025 and was left out."
+}

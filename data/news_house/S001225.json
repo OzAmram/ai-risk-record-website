@@ -1,0 +1,26 @@
+{
+  "bioguide": "S001225",
+  "member": "Eric Sorensen",
+  "searches": [
+    "Sorensen artificial intelligence (restricted to sorensen.house.gov)",
+    "Eric Sorensen superintelligence",
+    "Rep. Eric Sorensen AI extinction existential risk",
+    "Rep. Eric Sorensen AI pause slowdown moratorium",
+    "Rep. Eric Sorensen China AI agreement treaty",
+    "\"Eric Sorensen\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Sorensen"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Sorensen's bipartisan QUIET Act (Quashing Unwanted and Interruptive Electronic Telecommunications Act) on robocall and text scams would increase penalties for violators who use AI to impersonate individuals or organizations; this is about fraud, so level D at most.", "Sorensen press release, 28 July 2026", "https://sorensen.house.gov/media/press-releases/sorensens-bipartisan-bill-fight-robocall-scams-clears-key-step"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related activity found is the QUIET Act, which targets AI voice impersonation in robocall scams (fraud, level D under ruling 5). No statement since January 2025 about catastrophic AI risk, superintelligence, a pause, or China talks was found.",
+  "notes": "All six required searches ran this time, plus one extra on the Ban Artificial Superintelligence Act (7 in total). None of the general searches returned anything linking this Eric Sorensen to superintelligence, extinction risk, a pause or moratorium, China AI talks, or AI safety; the 'AI safety' and 'superintelligence' searches returned only unrelated pages. The official-site search returned only QUIET Act material on AI robocalls. The QUIET Act intro release (29 January 2024, https://sorensen.house.gov/media/press-releases/sorensen-introduces-bipartisan-bill-crack-down-artificial-intelligence) was opened: his own quoted words are about scammers impersonating voices, and it predates 2025, so no statement was recorded. In the 28 July 2026 QUIET Act release (opened in the earlier attempt), Sorensen's own quoted words are about scam calls and texts and do not mention AI; the AI wording is the release's description of the bill and an AARP official's quote. Search results also list a February 2025 reintroduction and an April 2025 AARP endorsement release, which were not opened. The earlier attempt read his press release listing pages 1 to 7 (12 November 2026 back to 4 February 2026) and found no other AI item; the 18 March 2026 utility-cost release mentions data centers but not AI, and is out of scope. Ban Artificial Superintelligence Act (H.R. 10538, House sponsor Casar): search results name cosponsors including Hoyle, Lynch, Tonko and Ocasio-Cortez but no source shows Sorensen; the Congress.gov cosponsor page returned HTTP 403 in the earlier attempt, so the full cosponsor list was not verified. No House letter about AI risk led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). suggested_grade changed from 'none' to 'D' because the QUIET Act shows AI-related legislative activity; a reviewer may prefer 'none' since no AI statement in his own words since 2025 was found."
+}

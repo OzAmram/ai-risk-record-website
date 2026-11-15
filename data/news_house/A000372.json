@@ -1,0 +1,90 @@
+{
+  "bioguide": "A000372",
+  "member": "Rick W. Allen",
+  "searches": [
+    "site:allen.house.gov artificial intelligence",
+    "Rep. Rick Allen superintelligence",
+    "\"Rick Allen\" Georgia congressman AI extinction existential risk",
+    "\"Rick Allen\" AI moratorium pause slowdown",
+    "Rep. Rick Allen China AI agreement treaty",
+    "\"Rick Allen\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-24",
+      "venue": "Press release on House Education and Workforce Committee field hearing in Augusta",
+      "quote": "AI has the potential to be a powerful engine of economic growth.",
+      "context": "Allen chaired a field hearing on AI in the workplace in Augusta, Georgia.",
+      "source_label": "allen.house.gov press release",
+      "url": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=7318",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI's economic benefits and does not acknowledge catastrophic risk."
+    },
+    {
+      "date": "2026-07-24",
+      "venue": "Opening remarks at House Education and Workforce field hearing, as reported in a news story reposted on his site",
+      "quote": "The potential for AI to create jobs, strengthen existing industries and empower job creators is immense, but we must ensure that our policies encourage its responsible adoption so that every worker can benefit from these advancements.",
+      "context": "Opening the Augusta field hearing on AI and the workforce.",
+      "source_label": "allen.house.gov (reposted news article, 'Augusta AI hearing weighs economic gains against worker risks')",
+      "url": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=7338",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About jobs and responsible adoption of AI, with no catastrophic risk mentioned."
+    },
+    {
+      "date": "2025-01-13",
+      "venue": "Press release on re-introducing the CLEAR Voices Act",
+      "quote": "Far too many Americans have fallen victim to the emerging threat of AI-generated robocalls, particularly our seniors.",
+      "context": "Re-introduction of his bill to apply robocall rules to AI-generated voice calls.",
+      "source_label": "allen.house.gov press release",
+      "url": "https://allen.house.gov/news/documentsingle.aspx?DocumentID=6601",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI-generated robocalls and fraud, which the rubric places at D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI pacing.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Re-introduced the CLEAR Voices Act to extend robocall rules to AI-generated voice systems.",
+      "allen.house.gov press release, 2025-01-13",
+      "https://allen.house.gov/news/documentsingle.aspx?DocumentID=6601"
+    ],
+    [
+      "Chaired a House Education and Workforce Committee field hearing in Augusta, 'Building an AI-Ready America'.",
+      "allen.house.gov press release, 2026-07-24",
+      "https://allen.house.gov/news/documentsingle.aspx?DocumentID=7318"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Allen has spoken about AI in 2026 (economic growth, jobs, winning the AI race) and about AI robocalls in 2025, but nothing found acknowledges catastrophic risk.",
+  "notes": "All 7 web searches in this run ran (the six required plus one on Ban Artificial Superintelligence Act cosponsors). None of them found any statement by Rick W. Allen on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety; the 'AI safety' search only returned similarly named people (Greg Allen of Decision Tree Research, Gregory Allen of the Wadhwani AI Center), who are not this representative. Ban Artificial Superintelligence Act (H.R. 10538, Casar): cosponsor lists seen in search results (FastDemocracy, Forkast, Nextgov via aiunderstanding.org) disagree with each other but none names Allen; Congress.gov was not opened, so this is not fully confirmed. The three statements below were carried over from an earlier run that opened his official site directly; that run's news list (Aug to Nov 2026) showed no AI items. An earlier search summary mentioned that at a Communications and Technology Subcommittee hearing he asked about AI training on publishers' content and Section 230, and linked nuclear energy to data center demand; these were not opened and are D-level topics, so they are left out. In the 2026-07-24 release he also said 'If the United States intends to win the AI race, we must continue these critical discussions and ensure this technology remains a tool that serves Americans.' (D, competition). His opening statement for the same hearing is also posted at https://edworkforce.house.gov/uploadedfiles/opening_statement_for_rep_allen.pdf (not opened). The statement dates for the hearing are the hearing date; the article on DocumentID=7338 is dated 2026-07-27 on the site."
+}

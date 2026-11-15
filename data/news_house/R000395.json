@@ -1,0 +1,60 @@
+{
+  "bioguide": "R000395",
+  "member": "Harold Rogers",
+  "searches": [
+    "Hal Rogers artificial intelligence (restricted to halrogers.house.gov)",
+    "Hal Rogers superintelligence",
+    "Hal Rogers AI extinction existential risk",
+    "Hal Rogers AI pause slowdown moratorium",
+    "Hal Rogers China AI agreement treaty",
+    "\"Hal Rogers\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Press release on his vote for the Ratepayer Protection Act (H.R. 9340)",
+      "quote": "As AI technology growth continues to boom, we need a strategy in place that locks in benefits for Rural America",
+      "context": "Rogers explained his vote for a bill requiring data centers to pay the electricity system costs they create, so rural households and businesses do not pay for them; the sentence continues: \"while also protecting families and businesses from footing the bill.\"",
+      "source_label": "House press release (halrogers.house.gov)",
+      "url": "https://halrogers.house.gov/press-releases?ID=0BE6ADA2-D0B8-40A8-9635-3F360A74BE29",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The statement is about electricity costs from AI data centers and the benefits of AI for rural areas, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; his data center vote was about electricity costs, which does not count.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Voted for the Ratepayer Protection Act (H.R. 9340), which makes data centers pay for the electric system upgrades they need; motivated by utility costs, not AI risk.",
+      "House press release, 16 September 2026",
+      "https://halrogers.house.gov/press-releases?ID=0BE6ADA2-D0B8-40A8-9635-3F360A74BE29"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remark found in 2026 concerns data center electricity costs and AI's benefits for rural America, with no acknowledgment of catastrophic risk. The six required web searches found nothing by him on catastrophic AI risk.",
+  "notes": "All six required web searches ran this time (none refused). The official-site search returned only appropriations, defense and industry releases that mention AI as an investment area (FY25 and FY26 Commerce-Justice-Science appropriations bills, a 2020 defense bill, a 2021 Rajant expansion in Morehead, an April 2025 release on coal orders citing AI data center electricity demand); these are about promoting or funding AI, are mostly committee or press office wording rather than his own words, and were not added as statements. The superintelligence, extinction, pause, China agreement and 'AI safety' searches returned nothing by Hal Rogers; results about 'Rogers' were about other people (Mike Rogers, Bob Rogers, Cathy McMorris Rodgers). Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats, and Rogers is not among them; this was not checked against Congress.gov, which returned 403 in the earlier attempt. No House letter on AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Kept from the earlier attempt: the 16 September 2026 data center press release, re-opened this time; the quoted passage was confirmed as one continuous piece of his sentence. The earlier attempt also browsed press release pages 1 and 2 (back to 21 July 2026); older press releases were not read page by page."
+}

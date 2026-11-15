@@ -1,0 +1,36 @@
+{
+  "bioguide": "ELECT-WI-03-COOKE",
+  "member": "Rebecca Cooke",
+  "searches": [
+    "Rebecca Cooke AI safety",
+    "Rebecca Cooke Wisconsin artificial intelligence superintelligence",
+    "Rebecca Cooke congress AI extinction existential risk",
+    "Rebecca Cooke AI pause moratorium data centers Wisconsin",
+    "Rebecca Cooke China AI agreement treaty",
+    "site:rebeccaforwisconsin.com AI"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-28",
+      "venue": "Interview with Wisconsin Public Radio about an AI-generated campaign video",
+      "quote": "We need leaders in Congress to put guardrails on this technology to protect our communities.",
+      "context": "Cooke was responding to an AI-generated video from the Van Orden campaign and calling for rules on deceptive AI content in elections.",
+      "source_label": "WPR",
+      "url": "https://wpr.org/news/social-media-deepfakes-ai-grok-rebecca-cooke-derrick-van-orden",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The statement is about deepfakes in elections, which ruling 5 places outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "Cooke ran ads in August 2026 calling for a data center moratorium, but the sources seen tie it to big tech influence, not to risks from AI itself, so it does not count.", "sources": [["WisPolitics, 28 August 2026", "https://www.wispolitics.com/2026/cooke-launches-second-ad-calling-for-data-center-moratorium/"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Cooke spoke about AI in 2026 (deepfakes in elections and a data center moratorium), but no statement acknowledging catastrophic risk from AI was found.",
+  "notes": "Six web searches ran, all listed; none was refused. Search results did not surface any Cooke statement on superintelligence, extinction, AI safety, a pause, or China. The WisPolitics item on her data center moratorium ad (28 August 2026) is paywalled; the only visible Cooke wording was that she does not want to be \"beholden to any of these big tech companies\", and her full reasons for the moratorium could not be read. A Berge campaign release (3 August 2026, https://www.wispolitics.com/?p=422658) urged Cooke to back a federal moratorium on large AI data centers until Congress sets AI rules; it has no Cooke wording. WPR paraphrases Cooke as backing the Protect Elections from Deceptive AI Act; not quoted. A Van Orden campaign attack says she sat on the Wisconsin Technology Council board, which promoted data centers; partisan claim, not checked. The campaign site could not be read (rebeccaforwisconsin.com does not resolve; rebeccacooke.com returned only a tracking page). No source shows her co-sponsoring the Ban Artificial Superintelligence Act; she was not in Congress in 2026."
+}

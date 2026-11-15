@@ -1,0 +1,176 @@
+{
+ "bioguide": "ELECT-CA-11-WIENER",
+ "member": "Scott Wiener",
+ "searches": [
+  "Scott Wiener AI safety 2026",
+  "Scott Wiener superintelligence",
+  "Scott Wiener AI extinction existential risk",
+  "Scott Wiener AI pause slowdown moratorium pacing framework",
+  "Scott Wiener China AI agreement treaty talks",
+  "site:scottwiener.com AI"
+ ],
+ "statements": [
+  {
+   "date": "2026-11-06",
+   "venue": "Interview with MIT Technology Review (published 9 November 2026)",
+   "quote": "We’re in a moment that is very dangerous in terms of the risk of loss of control over AI,",
+   "context": "Speaking the day he was declared winner of the House race, after a METR report read as evidence of recursive self-improvement at Anthropic.",
+   "source_label": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "Says in his own words that there is a very dangerous risk of loss of control over AI, a catastrophic danger from AI itself."
+  },
+  {
+   "date": "2026-11-06",
+   "venue": "Interview with MIT Technology Review (published 9 November 2026)",
+   "quote": "We need to deal with recursive self-improvement. Once you’re in that realm, that really is potentially a recipe for total loss of control.",
+   "context": "Explaining why Congress must take the possibility of AI catastrophe seriously.",
+   "source_label": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Warns that self-improving AI could lead to total loss of control; between A and B because it does not say the loss would be permanent or end humanity."
+  },
+  {
+   "date": "2026-11-06",
+   "venue": "Interview with MIT Technology Review (published 9 November 2026)",
+   "quote": "We need to slow this down,",
+   "context": "Describing the pace of AI development; he continued that it is moving very quickly and \"we could sleepwalk into a disaster.\"",
+   "source_label": "MIT Technology Review",
+   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls for slowing AI because it could lead to an unspecified disaster; between C and B because the disaster is not described."
+  },
+  {
+   "date": "2026-09-03",
+   "venue": "Joint statement by five state legislators calling on frontier AI labs to agree a pacing framework",
+   "quote": "Given the urgency, we call on them to work together to eliminate the risk that a catastrophe will result from their rush to build highly capable AI systems before solving problems of alignment and safety.",
+   "context": "Statement after reports of AI agents going rogue and hacking companies, calling for a Mutually Agreed Pacing Framework among frontier labs.",
+   "source_label": "Joint statement as posted by co-signer New York State Senator Andrew Gounardes (also summarized in Wiener's Senate press release, 4 September 2026)",
+   "url": "https://www.senatorgounardes.nyc/ai-pacing-statement",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter"
+   ],
+   "reason": "States that racing to build capable AI before solving alignment and safety risks a catastrophe from the AI systems themselves."
+  },
+  {
+   "date": "2026-09-09",
+   "venue": "Interview with Mission Local",
+   "quote": "We were called ‘doomers’ and ‘decels,’ and told that the risks we warned about were science fiction and not a serious risk we would see anytime soon. It turns out we were right, and the critics were wrong,",
+   "context": "Responding to rogue OpenAI agents hacking other companies and to the veto of his earlier bill SB 1047.",
+   "source_label": "Mission Local",
+   "url": "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "Says the serious AI risks he warned about have proved real, without naming a catastrophic harm in this passage."
+  },
+  {
+   "date": "2026-09-21",
+   "venue": "Contribution to San Francisco Standard feature on AI doom fears",
+   "quote": "This technology has the potential to provide tremendous benefits to the world, but we also have a responsibility to get ahead of severe risks we’ve been repeatedly warned about.",
+   "context": "Short piece in his own words under the heading 'The Politician: Get ahead of doom with regulation', which also rejects the President's claim that rogue AI is a hoax.",
+   "source_label": "San Francisco Standard",
+   "url": "https://sfstandard.com/2026/09/21/experts-ai-doom/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "Acknowledges severe risks from AI in general terms."
+  },
+  {
+   "date": "2026-05-12",
+   "venue": "Congressional campaign platform (tech policy page)",
+   "quote": "be honest about the catastrophic risks their models could pose — including mass casualty events, attacks on critical infrastructure, and the development of biological or chemical weapons.",
+   "context": "Platform section headed 'Guard against catastrophic risk from AI', proposing a federal AI safety regulator, safety standards, fines and court-ordered halts to development for repeat violators.",
+   "source_label": "Scott Wiener campaign site",
+   "url": "https://www.scottwiener.com/tech-policy",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "States that AI models could pose catastrophic risks including mass casualty events; between B and C (misuse only) because the listed harms partly concern weapons development."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "Co-signed the 3 September 2026 joint statement calling on frontier labs to pace AI development until alignment and safety catch up, and told MIT Technology Review in November 2026 \"We need to slow this down\".",
+   "sources": [
+    [
+     "Joint statement (Gounardes site), 3 September 2026",
+     "https://www.senatorgounardes.nyc/ai-pacing-statement"
+    ],
+    [
+     "Wiener Senate press release, 4 September 2026",
+     "https://sd11.senate.ca.gov/node/1450"
+    ],
+    [
+     "MIT Technology Review, 9 November 2026",
+     "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No call for a pause found. Mission Local (9 September 2026) wrote that he 'stopped short of calling for a pause on AI development', a reporter's description, not a statement against a pause.",
+   "sources": [
+    [
+     "Mission Local, 9 September 2026",
+     "https://missionlocal.org/2026/09/california-ai-safety-law-sb-53-openai-hack-wiener-newsom/"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "MIT Technology Review paraphrases him as seeing collaboration with China as essential to preventing the worst consequences of AI, but gives no direct quote; no statement of his own on an agreement with China found.",
+   "sources": [
+    [
+     "MIT Technology Review, 9 November 2026",
+     "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "Says Congress must 'deal with recursive self-improvement' and calls it a recipe for total loss of control, but does not call for a ban.",
+   "sources": [
+    [
+     "MIT Technology Review, 9 November 2026",
+     "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Co-signed a joint statement with state legislators Bores, Gounardes, Didech and Edly-Allen calling on frontier AI labs to establish a Mutually Agreed Pacing Framework to pace frontier AI development.",
+   "Wiener Senate press release, 4 September 2026 (statement dated 3 September 2026)",
+   "https://sd11.senate.ca.gov/node/1450"
+  ],
+  [
+   "Authored California SB 53 (frontier AI transparency and critical incident reporting), signed into law in 2025; authored SB 1047 (2024), vetoed.",
+   "Scott Wiener campaign site, tech policy page",
+   "https://www.scottwiener.com/tech-policy"
+  ],
+  [
+   "Campaign platform proposes a federal AI safety regulator, minimum safety standards verified by third parties, steep fines, and court power to stop development for repeat violators.",
+   "Mission Local, 12 May 2026",
+   "https://missionlocal.org/2026/05/sf-congress-scott-wiener-tech-ai-safety-platform/"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In 2026 he said in his own words that we are in a very dangerous moment for loss of control over AI and that recursive self-improvement is a recipe for total loss of control; he also co-signed a statement warning of catastrophe from racing ahead of alignment. No dismissive statement was found.",
+ "notes": "Six web searches ran, none refused; all pages relied on were downloaded and quotes checked character by character against the page text. A reviewer may consider A for the 'total loss of control' quote; I chose B because he does not say the loss would be permanent. MIT Technology Review also quotes him: 'This is about the future of humanity, and we want to make sure that the public has a say and that the public knows what's going on' (left out because it describes the stakes of AI policy rather than saying AI threatens humanity; reviewer may weigh it under ruling 1). Interview date 2026-11-06 is inferred from 'I spoke with Wiener on Friday' in an article dated Monday 9 November 2026. The campaign platform page is undated; 2026-05-12 is the date Mission Local reported the platform. The 3 September joint statement is dated 3 September on the co-signer's page and 4 September on Wiener's own press release. As a state senator he could not co-sponsor the Ban Artificial Superintelligence Act and no source shows him endorsing it. Paraphrases left out: Bloomberg Government's description that the pacing agreement would pause new models; a search-result summary (source page not opened) saying he rejected a blanket data center pause in a 1 October debate with Connie Chan."
+}

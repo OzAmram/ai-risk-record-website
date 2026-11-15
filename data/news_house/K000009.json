@@ -1,0 +1,25 @@
+{
+ "bioguide": "K000009",
+ "member": "Marcy Kaptur",
+ "searches": [
+  "Marcy Kaptur artificial intelligence site:kaptur.house.gov",
+  "Marcy Kaptur superintelligence",
+  "Marcy Kaptur AI extinction existential risk",
+  "Kaptur AI pause slowdown moratorium data centers",
+  "Marcy Kaptur China AI agreement treaty",
+  "\"Kaptur\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Kaptur",
+  "Rep. Marcy Kaptur artificial intelligence 2026"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement in her own words about AI was found since January 2025, so there is nothing to grade.",
+ "notes": "All required searches ran (8 web searches, none refused). None returned a statement by Marcy Kaptur about AI, AI risk, superintelligence, a pause or slowdown, or an AI agreement with China. Ban Artificial Superintelligence Act (H.R. 10538): the cosponsor search found no source listing her as a sponsor or cosponsor (sources named Casar, Ansari, Hoyle, Lynch, Tonko, Ocasio-Cortez); the search tool said her name appeared only in a photo caption of an AP-sourced article, which I did not open; congress.gov was not checked directly (it returned HTTP 403 in the earlier attempt), so absence of co-sponsorship is not confirmed from the official record. Press releases checked by opening her listing pages directly (titles and excerpts only): pages 1 to 6 of https://kaptur.house.gov/media-center/press-releases, covering 1 June 2026 to 9 November 2026; none mentions AI, superintelligence or data centers. I also opened the 15 July 2026 release on H.R. 9700, the Ratepayer Justice and Commercial Power Accountability Act (about utility corruption and electricity rates); it does not mention AI or data centers. Releases from January to May 2026 and from 2025 were not checked page by page. Search-result snippets mentioned a 4 October 2024 release with Rep. Gerry Connolly on an unknown subject, which is before the 2025 cutoff. As Energy and Water appropriations ranking member she may have discussed Energy Department AI programs in hearings, but no such remark was found. The House letters signed by many members are excluded by instruction and were not searched."
+}

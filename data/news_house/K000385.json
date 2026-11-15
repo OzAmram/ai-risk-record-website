@@ -1,0 +1,52 @@
+{
+  "bioguide": "K000385",
+  "member": "Robin L. Kelly",
+  "searches": [
+    "Robin Kelly artificial intelligence (restricted to robinkelly.house.gov)",
+    "Rep. Robin Kelly superintelligence",
+    "Robin Kelly AI extinction existential risk",
+    "Robin Kelly AI pause slowdown moratorium",
+    "Robin Kelly China AI agreement treaty",
+    "\"Robin Kelly\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-01-22",
+      "venue": "Press release after Energy and Commerce hearing with UnitedHealth Group CEO",
+      "quote": "As health insurance companies turn to AI technology, we must ensure that physicians and science-backed medicine guide all decisions.",
+      "context": "Criticizing UnitedHealth Group over reports of improper AI-driven health insurance claim denials.",
+      "source_label": "House press release, robinkelly.house.gov",
+      "url": "https://robinkelly.house.gov/media-center/press-releases/health-insurance-ceo-cant-commit-safe-ai-practices-congressional",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI in health insurance denials, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; she is not a sponsor or co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development; she is not a sponsor or co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development; she is not a sponsor or co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; she is not a sponsor or co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI statement found since January 2025 (22 January 2026) is about AI being used to deny health insurance claims, which is level D. Six web searches and her official press releases turned up nothing on catastrophic AI risk.",
+  "notes": "All six required web searches ran (none refused). They found no statement by her on superintelligence, extinction or existential risk, a pause or slowdown, a China AI agreement, or AI safety in the catastrophic sense. Her AI material found by search is from 2020 to 2022 (national AI strategy resolution with Will Hurd, 2020; Protocol interview republished on her site 7 August 2020; European Parliament testimony 2021; MeriTalk 21 November 2022 on bias and ethics) and is outside the 2025 cutoff and D-level in any case. A MeriTalk article 'Kelly urges Congress to act on AI regulation' (12 March 2026) is about Senator Mark Kelly, not her; 'AI safety' results about Elizabeth Kelly (former AI Safety Institute director) are also a different person. Earlier attempt (search refused) opened robinkelly.house.gov press release listing pages 1 to 6 (3 November 2026 back to 18 November 2025, 60 releases); the only AI-related release was the 22 January 2026 UnitedHealth hearing release, read at source and kept here. That release also quotes her: 'Health insurance companies should not compound this healthcare crisis by weaponizing AI to deny Americans essential care.' (also D). Her Technology and Telecommunications issue page lists, undated, 'Ensuring American workers are prepared to work with Artificial Intelligence (AI) and use it as a positive tool' (D, left out). Ban Artificial Superintelligence Act (H.R. 10538): checked without a search by opening the bill text on govinfo.gov (sponsor Casar; original cosponsors Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia of Illinois, Deluzio, Grijalva, Velazquez) and the FastDemocracy cosponsor list (adds Ocasio-Cortez, Randall, Tonko); she is not listed on either, checked 14 November 2026. Congress.gov returned HTTP 403. No House AI-risk letter led by her was found (many-signer August and September 2026 letters not checked, per instructions). She co-chairs the bipartisan Digital Health Caucus."
+}

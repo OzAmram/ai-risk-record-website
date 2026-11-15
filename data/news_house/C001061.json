@@ -1,0 +1,23 @@
+{
+  "bioguide": "C001061",
+  "member": "Emanuel Cleaver",
+  "searches": [
+    "Emanuel Cleaver artificial intelligence (restricted to cleaver.house.gov)",
+    "Rep. Emanuel Cleaver superintelligence",
+    "Emanuel Cleaver AI existential risk extinction",
+    "Emanuel Cleaver AI pause moratorium slowdown",
+    "Emanuel Cleaver China AI agreement treaty",
+    "\"Emanuel Cleaver\" \"AI safety\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement on slowing AI development found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement on pausing AI development found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement on AI coordination with China found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement on banning self-improving AI found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Cleaver has spoken about AI since 2025 only as an economic, workforce and education matter (for example a 2 April 2026 release on funding Rockhurst University's cybersecurity and AI programs); no statement acknowledging catastrophic risk from AI was found.",
+  "notes": "All six required web searches ran (none refused); no extra searches. Pages opened: cleaver.house.gov Science and Technology issue page (page 2 of listing; AI items there are 2017-2018, about bias), the 19 September 2024 Workforce of the Future Act release (AI and jobs, bias; before 2025, so out of scope), the 2 April 2026 Rockhurst University funding release (https://cleaver.house.gov/media-center/press-releases/rep-cleaver-presents-1031000-check-rockhurst-university-expand; AI framed as 'critical to our national security and economic growth', level D; not included as a statement because the fetch tool returned the sentence in fragments, so exact continuous wording could not be confirmed), and the Roll Call article of 23 September 2026 on the Casar-Sanders superintelligence ban (Cleaver not mentioned; no co-sponsorship source seen either way). Search results mention a Missourinet article dated 10 December 2024 headlined with Cleaver saying 'We were warned by The Terminator' and that he is 'very, very nervous and concerned' about AI; it is before 1 January 2025, so out of scope, and the page could not be opened (tag page returned 404). A search summary also said he reintroduced the Workforce of the Future Act with Rep. LaMonica McIver in December 2025 (AI and workforce study); not opened, so not recorded. The earlier attempt's note about the 17 September 2026 data-center release (Ratepayer Protection Act, no AI mention) still stands. House letters signed by many members were not searched, per instructions. Not checked: hearing transcripts and floor speeches beyond what searches returned."
+}

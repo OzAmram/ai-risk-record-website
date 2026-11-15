@@ -1,0 +1,25 @@
+{
+  "bioguide": "G000546",
+  "member": "Sam Graves",
+  "searches": [
+    "Sam Graves artificial intelligence site:graves.house.gov",
+    "Rep. Sam Graves superintelligence",
+    "Sam Graves AI extinction existential risk",
+    "Sam Graves AI pause slowdown moratorium",
+    "Sam Graves China AI agreement treaty",
+    "\"Sam Graves\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Chairman Sam Graves artificial intelligence transportation 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; he is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by him about AI from 2025 or 2026 was found in eight web searches or in his official press releases from February 2025 to September 2026. His only AI remarks found are from an April 2024 roundtable, before this project's period.",
+  "notes": "All six required web searches ran, plus two more (Ban Artificial Superintelligence Act co-sponsors, and his committee work on AI in transportation); none was refused. No search result tied him to superintelligence, extinction risk, a pause or slowdown, a China agreement, or AI safety. Ban Artificial Superintelligence Act: the House bill is H.R. 10538 (introduced 24 September 2026, led by Rep. Greg Casar). Congress.gov returned HTTP 403, but the FastDemocracy cosponsor list (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) names 12 cosponsors, all Democrats as far as shown, and does not include him. I found no House letter on AI risk led by him. Out of period, not included: at an April 2024 Transportation and Infrastructure Committee roundtable on AI in transportation he said AI could help 'promote safer roadways' and 'We don't want to overregulate' (Transport Topics, 17 April 2024, https://ttnews.com/articles/house-transportation-ai); this names no risk and would be D anyway. As committee chair he co-wrote the BUILD America 250 Act (committee approved 22 May 2026), which includes a federal framework for autonomous trucks; that is AI-adjacent transportation policy, not a statement about AI risk, so it is not recorded. From the earlier attempt, still valid: I opened the official press release listing (https://graves.house.gov/media/press-releases, pages 1 to 3, 40 releases from 25 Feb 2025 to 17 Sep 2026) and, from titles and cut-off excerpts, none mention AI; his 24 Feb 2026 State of the Union statement does not mention AI; graves.house.gov/search returned HTTP 403. He announced on 27 March 2026 that he will retire at the end of this Congress (https://graves.house.gov/media/press-releases/graves-announces-plans-retire-end-congress). Committee releases on transportation.house.gov were not individually checked."
+}

@@ -1,0 +1,65 @@
+{
+  "bioguide": "R000620",
+  "member": "Luz M. Rivas",
+  "searches": [
+    "site:rivas.house.gov artificial intelligence",
+    "\"Luz Rivas\" superintelligence",
+    "\"Luz Rivas\" AI extinction OR \"existential risk\"",
+    "\"Luz Rivas\" AI pause OR slowdown OR moratorium",
+    "\"Luz Rivas\" China AI agreement OR treaty",
+    "\"Luz Rivas\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Rivas"
+  ],
+  "statements": [
+    {
+      "date": "2025-11-18",
+      "venue": "House floor speech, \"Artificial Intelligence Is Here\" (Congressional Record H4714)",
+      "quote": "we will not be ready to handle the challenges that AI can pose in the future.",
+      "context": "Floor speech arguing for a national plan for AI literacy, also saying AI should be used safely so it does not harm public safety or infringe on rights.",
+      "source_label": "Congressional Record, 18 November 2025",
+      "url": "https://www.govinfo.gov/content/pkg/CREC-2025-11-18/html/CREC-2025-11-18-pt1-PgH4714.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Speaks of unspecified future challenges and public safety in the context of AI literacy, with no catastrophic risk named."
+    },
+    {
+      "date": "2025-11-19",
+      "venue": "Press release introducing the AI for ALL Act",
+      "quote": "My AI for ALL Act will help ensure the American public understand AI",
+      "context": "Announcement of her bill creating an AI Literacy and Education Commission in the White House science office.",
+      "source_label": "rivas.house.gov press release",
+      "url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-improve-ai-literacy-and-education",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About AI education and literacy, not catastrophic risk."
+    },
+    {
+      "date": "2025-07-01",
+      "venue": "Press release on the state AI law moratorium being dropped from the reconciliation bill",
+      "quote": "From healthcare to education to finance, AI has shown tremendous potential to improve and enhance everyday life",
+      "context": "Statement welcoming removal of the proposed 10-year ban on state AI laws, which she had tried to strip with a Rules Committee amendment.",
+      "source_label": "rivas.house.gov press release",
+      "url": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-statement-ai-moratorium-provision-being-dropped",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About letting states regulate AI and its general challenges, with no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development. Her opposition to the 2025 moratorium was about a ban on state AI laws, not a pause on AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the AI for ALL Act to create an AI Literacy and Education Commission in the Office of Science and Technology Policy.", "rivas.house.gov press release, 19 November 2025", "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-improve-ai-literacy-and-education"],
+    ["Offered a Rules Committee amendment on 21 May 2025 to remove the 10-year ban on state AI laws from H.R. 1; it was rejected 8-4.", "rivas.house.gov press release, 1 July 2025", "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-statement-ai-moratorium-provision-being-dropped"],
+    ["Led, with Rep. Doris Matsui, a letter from over 75 members opposing reviving a moratorium on state and local AI laws in the defense authorization bill.", "rivas.house.gov press release, 1 December 2025", "https://rivas.house.gov/media/press-releases/congresswomen-luz-rivas-and-doris-matsui-lead-colleagues-opposing-push-revive"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken about AI (literacy, state regulation, general challenges and public safety) but no statement found acknowledges catastrophic risk, and nothing on AI was found from 2026.",
+  "notes": "Seven web searches ran; none was refused. All three statements are from 2025; her press releases for January to November 2026 (pages 0 to 6 of rivas.house.gov press releases) contain nothing on AI. The 1 December 2025 press release with Rep. Matsui has joint quotes (e.g. blocking state safeguards would \"leave Americans exposed to escalating risks\"), attributed to both members together, so they were left out of statements; they name no catastrophic risk and would be D anyway. Ban Artificial Superintelligence Act (H.R. 10538, Casar, September 2026): no source found listing Rivas as a cosponsor, but the congress.gov cosponsor page returned 403 and could not be checked, so this is not confirmed either way. Quotes were read via a page-fetch tool that summarizes pages; wording was returned as quoted text but a reviewer should confirm exact characters."
+}

@@ -1,0 +1,39 @@
+{
+  "bioguide": "B001287",
+  "member": "Ami Bera",
+  "searches": [
+    "site:bera.house.gov artificial intelligence",
+    "Ami Bera superintelligence",
+    "Ami Bera AI extinction existential risk",
+    "Ami Bera AI pause slowdown moratorium",
+    "Ami Bera China AI agreement talks 2026",
+    "\"Ami Bera\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Bera"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "venue": "Press release statement ahead of the Trump-Xi summit",
+      "quote": "At the same time, the President should seek agreement on implementing AI guardrails and establishing reliable channels of communication that reduce the risk of miscalculation and provide mechanisms to deconflict during a crisis.",
+      "context": "Bera urged President Trump to use the summit with Xi Jinping to agree with China on AI guardrails and crisis communication channels, comparing them to Cold War mechanisms with the Soviet Union.",
+      "source_label": "Rep. Bera press release, 23 September 2026",
+      "url": "https://bera.house.gov/news/press-releases/ahead-of-trump-xi-summit-bera-urges-trump-to-stand-firm-on-taiwan-and-establish-ai-crisis-guardrails",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "He calls for AI guardrails and crisis channels with China to reduce miscalculation and address 'current and emerging threats', which is a general national security framing without naming a catastrophic danger from AI itself (ruling 4)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "He urged an agreement with China on AI guardrails and crisis communication channels (23 September 2026), but not on the pace of frontier AI development, so it does not meet the definition; the 18 September 2026 House letter he co-led is handled centrally and not counted here.", "sources": [["Rep. Bera press release, 23 September 2026", "https://bera.house.gov/news/press-releases/ahead-of-trump-xi-summit-bera-urges-trump-to-stand-firm-on-taiwan-and-establish-ai-crisis-guardrails"]]},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced, with Rep. Krishnamoorthi, a bill requiring congressional approval before any sale of advanced AI chips to China.", "Rep. Bera press release, August 2025 (seen only in a search result; page not opened)", "https://bera.house.gov/news/press-releases/rep-bera-introduces-legislation-to-require-congressional-approval-before-sale-of-any-advanced-ai-chips-to-china"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His own 2026 AI remarks call for AI guardrails and crisis communications with China but describe the risks only as general national security threats, without naming a catastrophic danger from AI. The 18 September 2026 letter he co-led with Meeks and Jacobs (which mentions AI being used to create a deadly pathogen and that the technology 'could endanger humanity') is handled centrally and was not used here.",
+  "notes": "Seven web searches ran; none were refused. Bera co-led the 18 September 2026 House letter on AI talks with China (Bera, Meeks, Jacobs and 26 Democrats); per instructions its text is left out of statements and the grade, and his own press release for it (https://bera.house.gov/news/press-releases/reps-bera-meeks-and-jacobs-lead-26-democrats-in-urging-ai-diplomacy-with-china, 18 September 2026) contains no separate quote from him, only the letter text. The 23 September 2026 press release also quotes the letter ('The promise and risks of AI are too great for the United States and China to not talk'), attributed to the lawmakers, not to Bera alone, so it is not included. A reviewer may judge the 23 September statement as C rather than D if 'current and emerging threats' is read as acknowledging serious AI risk; it is flagged boundary. Not a cosponsor of H.R. 10538 (Ban Artificial Superintelligence Act) per the FastDemocracy list of 12 cosponsors. A Fierce Healthcare article (403 when fetched, not read) reportedly quotes him saying Congress should, 'at a minimum', put up guardrails on health AI; only a search summary was seen, so it is left out. A NOTUS remark on replacing the state-law moratorium with a federal framework was seen only as a search-summary paraphrase and is left out. Other 2025 material (House AI Task Force, loneliness and mental health in a FedScoop interview, a February 2025 Ripon Society event with Rep. Obernolte) was not opened and concerns non-catastrophic topics."
+}

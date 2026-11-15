@@ -1,0 +1,184 @@
+{
+ "bioguide": "J000305",
+ "member": "Sara Jacobs (D-CA-51)",
+ "searches": [
+  "site:sarajacobs.house.gov artificial intelligence",
+  "\"Sara Jacobs\" AI safety  (first attempt refused: too_many_requests; retried once later and it ran)",
+  "\"Sara Jacobs\" superintelligence",
+  "\"Sara Jacobs\" AI extinction OR \"existential risk\"",
+  "\"Sara Jacobs\" AI pause OR slowdown OR moratorium",
+  "\"Sara Jacobs\" China AI agreement OR treaty OR talks"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-16",
+   "venue": "Press conference with Reps. Beyer, Lieu and Trahan (remarks published as press release)",
+   "quote": "The race with China isn’t only about who can build the most advanced model first. Getting to the best system first doesn’t matter if people don’t use it or if AI has killed all of us in the meantime.",
+   "context": "Calling on Speaker Johnson to cancel recess and pass AI safety legislation, arguing regulation does not mean losing to China.",
+   "source_label": "Rep. Sara Jacobs press release",
+   "url": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-calls-on-speaker-johnson-to-cancel-recess-to-act-on-ai-speaker-johnson-starts-recess-early",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She names AI killing all of us as a possible outcome, which is extinction framing, though it is phrased as a rhetorical aside rather than a direct claim."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Press conference with Reps. Beyer, Lieu and Trahan (remarks published as press release)",
+   "quote": "And it can hurt people – in small everyday ways, and in catastrophic ones.",
+   "context": "Opening of the same remarks, on what a decade of working on AI has taught her.",
+   "source_label": "Rep. Sara Jacobs press release",
+   "url": "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-calls-on-speaker-johnson-to-cancel-recess-to-act-on-ai-speaker-johnson-starts-recess-early",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "States in her own words that AI can cause catastrophic harm, not limited to misuse, but without naming the harm (between B and C)."
+  },
+  {
+   "date": "2026-09-18",
+   "venue": "Letter to Secretary of State Rubio and Treasury Secretary Bessent, led by Jacobs, Meeks and Bera with 26 other Democrats",
+   "quote": "Last week, researchers from Anthropic and Open AI — America’s top two AI labs — warned the world that the technology is hurtling toward a future that, minus guardrails, could endanger humanity.",
+   "context": "Letter urging a sustained US-China dialogue on AI safety risks, including shared red lines and a crisis channel.",
+   "source_label": "Rep. Sara Jacobs press release (letter excerpt)",
+   "url": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning",
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "Relays a warning that AI could endanger humanity and uses it as the basis for the letter's call to act (ruling 2); endorsement is by the letter's request rather than explicit words, so marked boundary."
+  },
+  {
+   "date": "2026-09-18",
+   "venue": "Letter to Secretary of State Rubio and Treasury Secretary Bessent, led by Jacobs, Meeks and Bera with 26 other Democrats",
+   "quote": "AI models could be used to create a deadly pathogen, carry out a cyberattack on critical infrastructure, or destabilize societies in other ways.",
+   "context": "Same letter, describing the national security risks of AI.",
+   "source_label": "Rep. Sara Jacobs press release (letter excerpt)",
+   "url": "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "misuse_only",
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "Names catastrophic harm (a deadly pathogen) only as misuse of AI by people, which is C under the 11 November ruling."
+  },
+  {
+   "date": "2026-09-15",
+   "venue": "KPBS interview",
+   "quote": "A lot of what we’re seeing right now is in the testing phases, is these AI agents not following the rules they were given or finding to deceive the companies in the role … these sort of tasks that they’ve been given to do in this testing environment.",
+   "context": "Article on AI industry figures warning of extinction risk; directly preceded by her words \"I think the risks are very real\" in a separate quoted piece.",
+   "source_label": "KPBS",
+   "url": "https://www.kpbs.org/news/science-technology/2026/09/15/ai-industry-leaders-calling-for-more-regulations-sparks-national-debate",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says the risks are very real and points to AI agents breaking rules and deceiving developers, but names no catastrophic consequence herself (ruling 4)."
+  },
+  {
+   "date": "2026-07-29",
+   "venue": "Press release introducing the ATOMIC Act with Rep. Celeste Maloy",
+   "quote": "As AI becomes more powerful, we have a responsibility to identify and guard against new risks before they become real-world threats. That’s why I’m proud to co-lead the bipartisan ATOMIC Act to identify AI-related nuclear risks, establish safeguards, and develop mitigation plans.",
+   "context": "Bill directing Energy Department national labs to test the most advanced AI systems for nuclear-related risks, including deceptive behavior and bypassing safety guardrails.",
+   "source_label": "Rep. Sara Jacobs press release",
+   "url": "https://sarajacobs.house.gov/news/press-releases/reps-sara-jacobs-celeste-maloy-introduces-the-atomic-act-to-strengthen-ai-nuclear-security",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Acknowledges serious nuclear-related risks from more powerful AI in general terms without stating a catastrophic outcome."
+  },
+  {
+   "date": "2026-07-17",
+   "venue": "Press release introducing the Human Authority over Autonomous Weapons Act with Reps. Beyer and Barrett",
+   "quote": "AI mistakes on the battlefield have the potential to be catastrophic: civilian casualties, friendly fire, unintended escalation, and calculations made on faulty data,",
+   "context": "Bill requiring a human in the loop before AI-enabled weapons use lethal force.",
+   "source_label": "Rep. Sara Jacobs press release",
+   "url": "https://sarajacobs.house.gov/news/press-releases/beyer-barrett-jacobs-introduce-bipartisan-legislation-requiring-human-control-over-autonomous-weapons",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About military use of AI, which is D under ruling 3 despite the word catastrophic."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI progress; she argues guardrails, not speed, win the race with China.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "She led a 29-member House Democratic letter (18 September 2026) urging US-China dialogue on AI safety: shared standards and red lines, a crisis channel, limiting proliferation, and researcher exchanges. It does not mention coordinating the pace of development or a pause, so it does not meet the definition; a reviewer may judge otherwise.",
+   "sources": [
+    [
+     "Rep. Sara Jacobs press release, 18 September 2026",
+     "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led, with Reps. Meeks and Bera, a letter from 29 House Democrats to Secretaries Rubio and Bessent urging a US-China AI safety dialogue with shared red lines and a crisis channel.",
+   "Rep. Sara Jacobs press release, 18 September 2026",
+   "https://sarajacobs.house.gov/news/press-releases/jacobs-meeks-bera-lead-26-democrats-in-urging-ai-diplomacy-with-china"
+  ],
+  [
+   "Co-led the bipartisan ATOMIC Act (with Rep. Maloy) to have national labs test the most advanced AI systems for nuclear-related risks, including deceptive behavior.",
+   "Rep. Sara Jacobs press release, 29 July 2026",
+   "https://sarajacobs.house.gov/news/press-releases/reps-sara-jacobs-celeste-maloy-introduces-the-atomic-act-to-strengthen-ai-nuclear-security"
+  ],
+  [
+   "Joined press conference calling on Speaker Johnson to cancel recess and pass AI safety legislation.",
+   "Rep. Sara Jacobs press release, 16 September 2026",
+   "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-calls-on-speaker-johnson-to-cancel-recess-to-act-on-ai-speaker-johnson-starts-recess-early"
+  ],
+  [
+   "Introduced a bill for a Pentagon AI incident and vulnerability reporting program, included in the House-passed defense bill.",
+   "Rep. Sara Jacobs press release, 31 August 2026",
+   "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon"
+  ],
+  [
+   "Co-introduced the Human Authority over Autonomous Weapons Act with Reps. Beyer and Barrett.",
+   "Rep. Sara Jacobs press release, 17 July 2026",
+   "https://sarajacobs.house.gov/news/press-releases/beyer-barrett-jacobs-introduce-bipartisan-legislation-requiring-human-control-over-autonomous-weapons"
+  ],
+  [
+   "Co-led the bipartisan AI Foundation Model Transparency Act with Reps. Beyer and Lawler.",
+   "Rep. Sara Jacobs press release, 26 March 2026",
+   "https://sarajacobs.house.gov/news/press-releases/jacobs-beyer-lawler-introduce-bipartisan-legislation-to-promote-ai-foundation-model-transparency"
+  ],
+  [
+   "Introduced the Sectoral AI Governance Act on AI used to break existing federal law.",
+   "Rep. Sara Jacobs press release, 3 June 2026",
+   "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bill-to-hold-ai-accountable-for-breaking-the-law"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In September 2026 she said that winning the AI race does not matter \"if AI has killed all of us in the meantime\", and led a letter relaying a warning that AI could endanger humanity; both are 2026 and no dismissive statement was found. Both A statements are boundary cases (one rhetorical, one relayed), so B is the fallback if a reviewer reads them strictly.",
+ "notes": "Searches: 6 queries ran. The \"Sara Jacobs\" AI safety search was refused once (too_many_requests) and succeeded on a single retry; no other workaround was used. Official press release pages were fetched directly. No source shows her co-sponsoring the Ban Artificial Superintelligence Act or signing any House letter on superintelligence; not checked on congress.gov. Left out: her press releases' background boilerplate says she has introduced bills on \"the everyday harms and catastrophic risks posed by AI\" (staff text, not her quote). KPBS paraphrases her as supporting writing AI safety protocols into law. Her 16 October 2026 Newsweek op-ed (seen via LegiStorm copy of her release, https://www.legistorm.com/stormfeed/view_rss/2949452/member/3411/title/rep-sara-jacobs-pens-newsweek-op-ed-on-how-to-win-the-ai-race.html, original at https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-pens-newsweek-op-ed-on-how-to-win-the-ai-race) criticizes colleagues who favor \"speed over safety\" but is about trust and competition (D); the Newsweek page itself was not opened. A babyboomer.org aggregator recap of a June 2026 keynote quoting her (\"Trust and safety aren't the opposite of innovation\") was not opened and not used. The 31 August 2026 statement has an empty quote because the release splits her words with \"said Rep. Sara Jacobs\"; wording checked at source. Statements recorded without a quote and so not shown: 2026-08-31 Press release introducing a Pentagon AI incident and vulnerability reporting bill (https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon)"
+}

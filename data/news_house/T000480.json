@@ -1,0 +1,24 @@
+{
+  "bioguide": "T000480",
+  "member": "William R. Timmons IV",
+  "searches": [
+    "Timmons artificial intelligence (restricted to timmons.house.gov)",
+    "\"William Timmons\" superintelligence",
+    "Rep. William Timmons AI extinction existential risk",
+    "Timmons AI pause slowdown moratorium congressman South Carolina",
+    "William Timmons China AI agreement treaty",
+    "\"Timmons\" \"AI safety\" congressman",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remark found is a 16 April 2026 roundtable question, reported only as a paraphrase, about whether AI use of a person's likeness for sexually explicit images should be illegal; that is about deepfakes, not catastrophic risk. No statement of his own about catastrophic AI risk was found.",
+  "notes": "All seven web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act). No direct quote from him about AI was found, so statements is empty. Paraphrase left out: an Associated Press report by Matt Brown (16 April 2026) on a House Oversight subcommittee roundtable titled 'Artificial Intelligence and American Power' says Timmons 'asked whether it should be illegal for AI systems to use someone's likeness', in the context of sexually explicit images; the article has no direct quote from him (https://www.news4jax.com/news/politics/2026/04/17/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/; the WTOP copy returned 404). Other members at that roundtable voiced existential fears, but none is attributed to Timmons. Ban Artificial Superintelligence Act (H.R. 10538): the fastdemocracy.com tracker lists 12 cosponsors, all Democrats, and Timmons is not among them (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); news reports give differing cosponsor counts, so congress.gov was not checked and the list may be incomplete. Kept from the earlier attempt: the first two pages of press releases on timmons.house.gov (20 releases, 14 May 2025 to 2 September 2026) do not mention AI in their listings. Releases opened in full: DocumentID=205 (26 June 2025, drone incursions; the only AI mention is a paraphrase of hearing witnesses saying AI-enabled drones amplify the danger, not his words; https://timmons.house.gov/news/documentsingle.aspx?DocumentID=205), DocumentID=223 (31 January 2026, federal supply chain security bill, H.R. 7274; no AI mention), DocumentID=201 (5 June 2025; no AI mention) and DocumentID=601 (25 June 2026; no AI mention). His seat on the Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence is a committee assignment, not a statement. No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

@@ -1,0 +1,84 @@
+{
+  "bioguide": "M001137",
+  "member": "Gregory W. Meeks",
+  "searches": [
+    "site:meeks.house.gov artificial intelligence",
+    "Gregory Meeks superintelligence",
+    "Gregory Meeks AI extinction existential risk",
+    "Meeks AI pause slowdown moratorium",
+    "Gregory Meeks China AI agreement talks treaty",
+    "\"Gregory Meeks\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-11-09",
+      "venue": "Letter to Commerce Secretary Lutnick (with Reps. Amo and Kamlager-Dove), quoted in committee press release",
+      "quote": "As we previously warned, allowing China to obtain advanced U.S. AI chips puts our national security at risk.",
+      "context": "Meeks, Amo and Kamlager-Dove asked Commerce to halt advanced AI chip exports to China amid reports of Chinese intelligence ties.",
+      "source_label": "House Foreign Affairs Committee Democrats press release",
+      "url": "https://democrats-foreignaffairs.house.gov/2026/11/meeks-amo-kamlager-dove-demand-answers-from-trump-administration-over-advanced-ai-chip-exports-amid-reports-of-chinese-intelligence-ties/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action"
+      ],
+      "reason": "Concerns export controls and competition with China, with only a general national security risk named, which rulings 5 and 4 place at D."
+    },
+    {
+      "date": "2026-07-14",
+      "venue": "Bloomberg Government roundtable",
+      "quote": "With the number of days that are left in the legislative session, I would be shocked if we did",
+      "context": "Meeks said he doubted comprehensive AI legislation would pass in 2026.",
+      "source_label": "Bloomberg Government",
+      "url": "https://news.bgov.com/bloomberg-government-news/house-democrat-meeks-shares-doubts-on-ai-bill-passing-this-year",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "A remark on the legislative calendar for AI legislation that does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "Meeks led the 18 September 2026 House letter urging AI safety dialogue with China, but that letter is handled centrally and is excluded here; no separate statement of his own on pacing or pausing with China was found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Letter with Reps. Amo and Kamlager-Dove asking Commerce to halt advanced AI chip exports to China.",
+      "House Foreign Affairs Committee Democrats press release, 2026-11-09",
+      "https://democrats-foreignaffairs.house.gov/2026/11/meeks-amo-kamlager-dove-demand-answers-from-trump-administration-over-advanced-ai-chip-exports-amid-reports-of-chinese-intelligence-ties/"
+    ],
+    [
+      "Letter with Rep. Kamlager-Dove questioning Commerce's loosening of export controls on the UAE, including AI chip sales and AI cooperation with China.",
+      "meeks.house.gov press release, 2026-08-19",
+      "https://meeks.house.gov/media/press-releases/house-foreign-affairs-ranking-member-meeks-kamlager-dove-demand-answers"
+    ],
+    [
+      "Introduced a bill to block sales of advanced AI chips to China (December 2025).",
+      "House Foreign Affairs Committee Democrats press release, December 2025",
+      "https://democrats-foreignaffairs.house.gov/2025/12/meeks-introduces-bill-to-block-sales-of-advanced-ai-chips-to-china"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Meeks's own 2026 remarks on AI found here concern chip export controls, China and the legislative calendar, with no acknowledgment of catastrophic risk. The 18 September 2026 China AI letter he led is excluded from grading by the House instructions and is added centrally.",
+  "notes": "All required searches ran this time (7 web searches, listed in 'searches'); none found any statement by Meeks on superintelligence, extinction or existential risk, a pause or slowdown, AI safety, or self-improving AI. Ban Artificial Superintelligence Act (H.R. 10538): the fastdemocracy.com bill page lists 12 cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and Meeks is not among them; congress.gov returned HTTP 403, so the list could not be confirmed there. Earlier attempt also opened meeks.house.gov press release listing pages 1-2 and democrats-foreignaffairs.house.gov listing pages 1 and 4; pages 3-5 of meeks.house.gov were not checked. The December 2025 chip-export bill entry in 'record' comes from a search result title; that page was not opened. REVIEWER: Meeks LED the 18 September 2026 letter urging AI diplomacy with China (with Bera and Jacobs, 26 other Democrats), https://democrats-foreignaffairs.house.gov/2026/09/2026-9-meeks-bera-jacobs-lead-26-democrats-in-urging-ai-diplomacy-with-china/ . Its press release contains only the letter excerpt, no separate quote from Meeks, and a Crypto Briefing report on it (18 September 2026) also has no direct quote from him, so it is left out of statements as instructed; the excerpt says 'AI models could be used to create a deadly pathogen' and relays that Anthropic and OpenAI researchers warned the technology 'could endanger humanity'. Please decide whether leading the letter should count as his own statement, which would likely raise the grade. The 9 November press release says Meeks and Amo challenged Lutnick in January 2026 on AI chip sales to China; that page (amo.house.gov) was not opened. The Bloomberg Government article is paywalled after its opening; the quote comes from the visible opening and was read through a page-fetch tool that summarizes, so a reviewer should confirm the exact wording."
+}

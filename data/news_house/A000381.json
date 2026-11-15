@@ -1,0 +1,129 @@
+{
+ "bioguide": "A000381",
+ "member": "Yassamin Ansari",
+ "searches": [
+  "site:ansari.house.gov artificial intelligence",
+  "\"Yassamin Ansari\" superintelligence",
+  "\"Ansari\" AI extinction OR existential risk",
+  "\"Yassamin Ansari\" AI pause OR moratorium OR slowdown",
+  "\"Yassamin Ansari\" China AI agreement OR treaty",
+  "\"Yassamin Ansari\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" Ansari cosponsors Casar",
+  "\"Ansari\" \"pause\" superintelligence press conference Sanders Casar September 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-17",
+   "venue": "Letter to President Trump led by Rep. Ansari, co-signed by 44 House members, published in her press release",
+   "quote": "Likewise, we must lead with the creation of global rules of the road to prevent the proliferation of uncontrollable highly capable frontier AI. The results for not doing so could otherwise be catastrophic.",
+   "context": "Letter she led urging the President to start international negotiations, including strategic stability talks with China, on frontier AI; it also warns the race to deploy ever-more powerful models risks 'the spread of supercharged disease' and 'other potentially devastating impacts for humanity'.",
+   "source_label": "Rep. Ansari press release (full letter text), 17 September 2026",
+   "url": "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter she led says uncontrollable frontier AI could lead to catastrophic results, a catastrophic danger from the AI systems themselves rather than misuse only."
+  },
+  {
+   "date": "2026-09-09",
+   "venue": "Press conference outside an ICE facility in Phoenix, reported by KJZZ",
+   "quote": "The CEOs of these companies are very public themselves about the dangers. I mean, they all talk about it very openly, and artificial superintelligence has the potential to harm all of us.",
+   "context": "Commenting on an AI researcher's resignation over unsafe practices at OpenAI and Anthropic, she called for an immediate pause on AI development by major companies and a ban on artificial superintelligence.",
+   "source_label": "KJZZ, 15 September 2026",
+   "url": "https://www.kjzz.org/text/politics/2026-09-15/sen-gallego-rep-ansari-execs-want-to-slow-ai-development-trump-pushes-for-u-s-dominance",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "She endorses the AI company leaders' warnings and says superintelligence could harm everyone, a catastrophic risk from AI itself; it sits between B and C because the harm is stated in general terms."
+  },
+  {
+   "date": "2026-11-04",
+   "venue": "Post on X, as quoted by The Standard (Hong Kong)",
+   "quote": "Top of the Democratic agenda on day 1 needs to be a pause on advanced AI development, regulation of this out of control industry, and a ban on artificial superintelligence",
+   "context": "After the November 2026 elections, she said a pause on advanced AI, industry regulation and a superintelligence ban should be the first Democratic priority.",
+   "source_label": "The Standard, 6 November 2026",
+   "url": "https://www.thestandard.com.hk/world/article/347702/Democrat-calls-for-AI-development-pause-and-superintelligence-ban",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "The post calls for a pause and a superintelligence ban but does not itself state a catastrophic risk; included as strong position evidence."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "yes",
+   "note": "At a 9 September 2026 press conference she called for an immediate pause on AI development by major companies because of the dangers of superintelligence, and repeated the call for a pause in a November 2026 X post.",
+   "sources": [
+    [
+     "KJZZ, 2026-09-15",
+     "https://www.kjzz.org/text/politics/2026-09-15/sen-gallego-rep-ansari-execs-want-to-slow-ai-development-trump-pushes-for-u-s-dominance"
+    ],
+    [
+     "The Standard, 2026-11-06",
+     "https://www.thestandard.com.hk/world/article/347702/Democrat-calls-for-AI-development-pause-and-superintelligence-ban"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "yes",
+   "note": "She said 'Ban artificial superintelligence and immediately pause any further development until we can have federal regulations' (9 September 2026) and that a pause on advanced AI development should top the Democratic agenda on day one (November 2026 post). The September wording ties the end of the pause to federal regulation, so a reviewer could read it as mixed; the November post states no condition. She is also reported as an original co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538), which pauses advanced AI development until a new agency sets safety rules.",
+   "sources": [
+    [
+     "KJZZ, 2026-09-15",
+     "https://www.kjzz.org/text/politics/2026-09-15/sen-gallego-rep-ansari-execs-want-to-slow-ai-development-trump-pushes-for-u-s-dominance"
+    ],
+    [
+     "The Standard, 2026-11-06",
+     "https://www.thestandard.com.hk/world/article/347702/Democrat-calls-for-AI-development-pause-and-superintelligence-ban"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "yes",
+   "note": "Letter she led (17 September 2026) urges 'deliberate multilateral mechanisms for coordinated restraint' of the race to deploy ever-more powerful models and direct strategic stability talks with China. The China-specific item is about preventing AI-driven escalation in crises rather than pacing, so a reviewer may prefer mixed.",
+   "sources": [
+    [
+     "Rep. Ansari press release, 2026-09-17",
+     "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "yes",
+   "note": "Only through reported co-sponsorship of the Ban Artificial Superintelligence Act, which Rep. Casar says would 'immediately halt ... the capacity for AI to develop new AI instead of humans'. The co-sponsorship comes from a news report (The Standard), not congress.gov, which could not be opened; no statement of her own on self-improving AI found. Reviewer should confirm.",
+   "sources": [
+    [
+     "The Standard, 2026-11-06",
+     "https://www.thestandard.com.hk/world/article/347702/Democrat-calls-for-AI-development-pause-and-superintelligence-ban"
+    ],
+    [
+     "Rep. Casar press release, 2026-09-23",
+     "https://casar.house.gov/media/press-releases/news-casar-sanders-introduce-legislation-create-new-federal-agency-ban"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Led a letter, co-signed by 44 House members, urging President Trump to start international negotiations on AI, including strategic stability talks with China, a shared ban on AI in catastrophic domains and common safety testing.",
+   "Rep. Ansari press release, 2026-09-17",
+   "https://ansari.house.gov/media/press-releases/ansari-leads-house-in-demanding-trump-act-now-on-ai-global-security"
+  ],
+  [
+   "Reported as one of the original lawmakers who introduced the Ban Artificial Superintelligence Act of 2026 (H.R. 10538, led by Rep. Casar, introduced 24 September 2026); not confirmed on congress.gov.",
+   "The Standard, 2026-11-06",
+   "https://www.thestandard.com.hk/world/article/347702/Democrat-calls-for-AI-development-pause-and-superintelligence-ban"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "In 2026 she led a letter warning that uncontrollable frontier AI could have catastrophic results and said at a press conference that superintelligence could harm all of us, both catastrophic risk from AI itself (B). No dismissive statement found.",
+ "notes": "Eight web searches ran, none refused. The letter PDF (https://ansari.house.gov/imo/media/doc/ansari_ai_letter_to_trump.pdf) is image-based and could not be read as text, but the full letter is reproduced in the press release, which was read. The letter is not one of the centrally checked House letters (it is her own, 17 September, 44 co-signers). The date of the X post is from Crypto Briefing and a search summary (4 November 2026); The Standard does not date it; the post itself was not opened (X not searched). Co-sponsorship of H.R. 10538 is only from The Standard ('among the original lawmakers who introduced') and FourWeekMBA; congress.gov returned 403 and Rep. Casar's release lists no co-sponsors. Left out: Crypto Briefing and Cryptopolitan summaries of the same press conference and post (Cryptopolitan returned 403). Also in the letter: 'the race ... risks ... the spread of supercharged disease, dangerous military miscalculations, and other potentially devastating impacts for humanity' (passage over 300 characters, so not used as a quote). A House hearing listing (June 2025) names her as a member present; not reviewed."
+}

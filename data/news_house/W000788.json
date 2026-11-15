@@ -1,0 +1,24 @@
+{
+  "bioguide": "W000788",
+  "member": "Nikema Williams",
+  "searches": [
+    "Nikema Williams artificial intelligence (restricted to nikemawilliams.house.gov)",
+    "Nikema Williams superintelligence",
+    "Nikema Williams AI extinction existential risk",
+    "Nikema Williams AI pause slowdown moratorium",
+    "Nikema Williams China AI agreement treaty",
+    "\"Nikema Williams\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in her own words about AI was found since January 2025, so there is nothing to grade. The only AI mentions found are project descriptions in her fiscal year 2027 community project funding requests, which are not her statements.",
+  "notes": "All six required web searches ran this time, plus one extra search on the Ban Artificial Superintelligence Act cosponsors (seven in total). None of the general searches returned anything by her about AI risk; results were general material or about other people named Williams (for example OpenAI researcher Marcus Williams), who were excluded. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 cosponsors and she is not among them; Congress.gov returned 403 in the earlier attempt, so this is not checked against the official record. From the earlier attempt, still valid: the official homepage (four most recent releases, 21 October to 12 November 2026) had nothing about AI; https://nikemawilliams.house.gov/press showed 'No press releases found', probably loaded by script, so the full press archive could not be browsed (the site-restricted search covered it instead). https://nikemawilliams.house.gov/communityprojects mentions AI only in project descriptions for fiscal year 2027 requests (Morehouse College 'Morehouse Outreach for Responsible AI in Learning', Spelman College AI readiness project, Clayton County Public Schools classroom technology labs); these are not her own words and were left out. The 1 October 2026 maternal health technology release with Rep. Hinson (https://nikemawilliams.house.gov/posts/congresswomen-nikema-williams-ashley-hinson-call-for-technology-improvements-to-be-utilized-to-advance-maternal-health) quotes her on 'innovative technology' but does not mention AI. Her statement on voting against mass surveillance does not mention AI. No House letter about AI risk led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Interviews, hearing remarks and floor speeches were covered only to the extent the web searches would surface them."
+}

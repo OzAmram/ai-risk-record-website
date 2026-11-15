@@ -1,0 +1,26 @@
+{
+  "bioguide": "T000486",
+  "member": "Ritchie Torres",
+  "searches": [
+    "Ritchie Torres artificial intelligence site:ritchietorres.house.gov",
+    "Ritchie Torres superintelligence",
+    "Rep. Ritchie Torres AI extinction existential risk 2026",
+    "Rep. Ritchie Torres AI pause slowdown moratorium",
+    "Rep. Ritchie Torres China AI agreement treaty",
+    "\"Ritchie Torres\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Torres"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement by Torres on slowing AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement by Torres on pausing AI development was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement by Torres on an AI agreement with China was found; his 2025 China-related AI bill is about keeping Chinese AI out of federal agencies, which does not count.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement by Torres on self-improving AI was found.", "sources": []}
+  },
+  "record": [
+    ["Sponsored, with Rep. Darin LaHood and Sens. Rick Scott and Gary Peters, a bipartisan bill to block AI systems from China and other adversaries from use by federal agencies (not about catastrophic risk).", "The Standard (Hong Kong), 26 June 2025", "https://www.thestandard.com.hk/world/article/305542/US-bipartisan-bill-aims-to-block-Chinese-AI-from-federal-agencies"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Torres has been active on AI (a 2025 bill keeping Chinese AI out of federal agencies, and a seat on the House subcommittee on digital assets, financial technology and AI), but no 2025 or 2026 statement of his about catastrophic AI risk was found.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra search on the Ban Artificial Superintelligence Act (7 in total). Ban Artificial Superintelligence Act (H.R. 10538, September 2026): no source found naming Torres as a cosponsor; search results named Casar, Ansari, Ocasio-Cortez, Hoyle, Lynch and Tonko among others, and the congress.gov cosponsor page could not be opened (403), so his absence is not fully confirmed. No House letter on AI risk led by Torres was found; the many-signer House letters were not checked, per instructions. Outside the date window and left out: a 5 June 2023 press release on his AI Disclosure Act of 2023 (https://ritchietorres.house.gov/posts/u-s-rep-ritchie-torres-introduces-federal-legislation-requiring-mandatory-disclaimer-for-material-generated-by-artificial-intelligence), which according to a search summary speaks of 'managing the existential risks of AI' (not read at source), and 2023 press quotes calling AI a potential 'weapon of mass disinformation, dislocation, and destruction' (Riverdale Press, seen only in a search summary). These suggest earlier interest in AI risk, but they predate 2025 and do not count. The 2025 bill coverage (The Standard) names Torres as a sponsor but contains no quote by him; the Cheddar copy of the story returned 404. The 'Ritchie Torres superintelligence' search returned only results about the philosopher Emile Torres, a different person. The earlier attempt's check of ritchietorres.house.gov (home page releases 24 Sep to 22 Oct 2026, none about AI; press listings load by script) still stands."
+}

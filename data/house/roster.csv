@@ -1,0 +1,434 @@
+bioguide,member,last_name,chamber,party,state,district,handle,website
+B001323,Nicholas J. Begich III,Begich,house,Republican,AK,0,repnickbegich,https://begich.house.gov
+M001212,Barry Moore,Moore,house,Republican,AL,1,RepBarryMoore,https://barrymoore.house.gov
+F000481,Shomari Figures,Figures,house,Democrat,AL,2,repscfigures,https://figures.house.gov
+R000575,Mike Rogers,Rogers,house,Republican,AL,3,RepMikeRogersAL,https://mikerogers.house.gov
+A000055,Robert B. Aderholt,Aderholt,house,Republican,AL,4,Robert_Aderholt,https://aderholt.house.gov
+S001220,Dale W. Strong,Strong,house,Republican,AL,5,RepDaleStrong,https://strong.house.gov
+P000609,Gary J. Palmer,Palmer,house,Republican,AL,6,USRepGaryPalmer,https://palmer.house.gov
+S001185,Terri A. Sewell,Sewell,house,Democrat,AL,7,RepTerriSewell,https://sewell.house.gov
+C001087,"Eric A. ""Rick"" Crawford",Crawford,house,Republican,AR,1,RepRickCrawford,https://crawford.house.gov
+H001072,J. French Hill,Hill,house,Republican,AR,2,RepFrenchHill,https://hill.house.gov
+W000809,Steve Womack,Womack,house,Republican,AR,3,Rep_SteveWomack,https://womack.house.gov
+W000821,Bruce Westerman,Westerman,house,Republican,AR,4,RepWesterman,https://westerman.house.gov
+S001183,David Schweikert,Schweikert,house,Republican,AZ,1,RepDavid,https://schweikert.house.gov
+C001132,Elijah Crane,Crane,house,Republican,AZ,2,RepEliCrane,https://crane.house.gov
+A000381,Yassamin Ansari,Ansari,house,Democrat,AZ,3,RepYassAnsari,https://ansari.house.gov
+S001211,Greg Stanton,Stanton,house,Democrat,AZ,4,RepGregStanton,https://stanton.house.gov
+B001302,Andy Biggs,Biggs,house,Republican,AZ,5,RepAndyBiggsAZ,https://biggs.house.gov
+C001133,Juan Ciscomani,Ciscomani,house,Republican,AZ,6,RepCiscomani,https://ciscomani.house.gov
+G000606,Adelita S. Grijalva,Grijalva,house,Democrat,AZ,7,,https://grijalva.house.gov
+H001098,Abraham J. Hamadeh,Hamadeh,house,Republican,AZ,8,,https://hamadeh.house.gov
+G000565,Paul A. Gosar,Gosar,house,Republican,AZ,9,RepGosar,https://gosar.house.gov
+G000607,James Gallagher,Gallagher,house,Republican,CA,1,,https://gallagher.house.gov/
+H001068,Jared Huffman,Huffman,house,Democrat,CA,2,RepHuffman,https://huffman.house.gov
+K000401,Kevin Kiley,Kiley,house,Independent,CA,3,RepKiley,https://kiley.house.gov
+T000460,Mike Thompson,Thompson,house,Democrat,CA,4,RepThompson,https://mikethompson.house.gov
+M001177,Tom McClintock,McClintock,house,Republican,CA,5,RepMcClintock,https://mcclintock.house.gov
+B001287,Ami Bera,Bera,house,Democrat,CA,6,RepBera,https://bera.house.gov
+M001163,Doris O. Matsui,Matsui,house,Democrat,CA,7,DorisMatsui,https://matsui.house.gov
+G000559,John Garamendi,Garamendi,house,Democrat,CA,8,RepGaramendi,https://garamendi.house.gov
+H001090,Josh Harder,Harder,house,Democrat,CA,9,RepJoshHarder,https://harder.house.gov
+D000623,Mark DeSaulnier,DeSaulnier,house,Democrat,CA,10,RepDeSaulnier,https://desaulnier.house.gov
+P000197,Nancy Pelosi,Pelosi,house,Democrat,CA,11,SpeakerPelosi,https://pelosi.house.gov
+S001231,Lateefah Simon,Simon,house,Democrat,CA,12,RepLSimon,https://simon.house.gov
+G000605,Adam Gray,Gray,house,Democrat,CA,13,RepAdamGrayCA,https://gray.house.gov
+W000832,Aisha Wahab,Wahab,house,Democrat,CA,14,,https://wahab.house.gov/
+M001225,Kevin Mullin,Mullin,house,Democrat,CA,15,RepKevinMullin,https://kevinmullin.house.gov
+L000607,Sam T. Liccardo,Liccardo,house,Democrat,CA,16,repliccardo,https://liccardo.house.gov
+K000389,Ro Khanna,Khanna,house,Democrat,CA,17,RepRoKhanna,https://khanna.house.gov
+L000397,Zoe Lofgren,Lofgren,house,Democrat,CA,18,RepZoeLofgren,https://lofgren.house.gov
+P000613,Jimmy Panetta,Panetta,house,Democrat,CA,19,RepJimmyPanetta,https://panetta.house.gov
+F000480,Vince Fong,Fong,house,Republican,CA,20,RepVinceFong,https://fong.house.gov
+C001059,Jim Costa,Costa,house,Democrat,CA,21,RepJimCosta,https://costa.house.gov
+V000129,David G. Valadao,Valadao,house,Republican,CA,22,RepDavidValadao,https://valadao.house.gov
+O000019,Jay Obernolte,Obernolte,house,Republican,CA,23,JayObernolte,https://obernolte.house.gov
+C001112,Salud O. Carbajal,Carbajal,house,Democrat,CA,24,RepCarbajal,https://carbajal.house.gov
+R000599,Raul Ruiz,Ruiz,house,Democrat,CA,25,RepRaulRuizMD,https://ruiz.house.gov
+B001285,Julia Brownley,Brownley,house,Democrat,CA,26,RepBrownley,https://juliabrownley.house.gov
+W000830,George Whitesides,Whitesides,house,Democrat,CA,27,Rep_Whitesides,https://whitesides.house.gov
+C001080,Judy Chu,Chu,house,Democrat,CA,28,RepJudyChu,https://chu.house.gov
+R000620,Luz M. Rivas,Rivas,house,Democrat,CA,29,RepLuzRivas,https://rivas.house.gov
+F000483,Laura Friedman,Friedman,house,Democrat,CA,30,RepFriedmanCA,https://friedman.house.gov
+C001123,"Gilbert Ray Cisneros, Jr.",Cisneros,house,Democrat,CA,31,,https://cisneros.house.gov
+S000344,Brad Sherman,Sherman,house,Democrat,CA,32,BradSherman,https://sherman.house.gov
+A000371,Pete Aguilar,Aguilar,house,Democrat,CA,33,RepPeteAguilar,https://aguilar.house.gov
+G000585,Jimmy Gomez,Gomez,house,Democrat,CA,34,RepJimmyGomez,https://gomez.house.gov
+T000474,Norma J. Torres,Torres,house,Democrat,CA,35,NormaJTorres,https://torres.house.gov
+L000582,Ted Lieu,Lieu,house,Democrat,CA,36,RepTedLieu,https://lieu.house.gov
+K000400,Sydney Kamlager-Dove,Kamlager-Dove,house,Democrat,CA,37,RepKamlagerDove,https://kamlager-dove.house.gov
+S001156,Linda T. Sánchez,Sánchez,house,Democrat,CA,38,RepLindaSanchez,https://lindasanchez.house.gov
+T000472,Mark Takano,Takano,house,Democrat,CA,39,RepMarkTakano,https://takano.house.gov
+K000397,Young Kim,Kim,house,Republican,CA,40,RepYoungKim,https://youngkim.house.gov
+C000059,Ken Calvert,Calvert,house,Republican,CA,41,KenCalvert,https://calvert.house.gov
+G000598,Robert Garcia,Garcia,house,Democrat,CA,42,RepRobertGarcia,https://robertgarcia.house.gov
+W000187,Maxine Waters,Waters,house,Democrat,CA,43,RepMaxineWaters,https://waters.house.gov
+B001300,Nanette Diaz Barragán,Barragán,house,Democrat,CA,44,RepBarragan,https://barragan.house.gov
+T000491,Derek Tran,Tran,house,Democrat,CA,45,,https://tran.house.gov
+C001110,J. Luis Correa,Correa,house,Democrat,CA,46,RepLouCorrea,https://correa.house.gov
+M001241,Dave Min,Min,house,Democrat,CA,47,,https://min.house.gov
+I000056,Darrell Issa,Issa,house,Republican,CA,48,repdarrellissa,https://issa.house.gov
+L000593,Mike Levin,Levin,house,Democrat,CA,49,RepMikeLevin,https://levin.house.gov
+P000608,Scott H. Peters,Peters,house,Democrat,CA,50,RepScottPeters,https://scottpeters.house.gov
+J000305,Sara Jacobs,Jacobs,house,Democrat,CA,51,RepSaraJacobs,https://sarajacobs.house.gov
+V000130,Juan Vargas,Vargas,house,Democrat,CA,52,RepJuanVargas,https://vargas.house.gov
+D000197,Diana DeGette,DeGette,house,Democrat,CO,1,RepDianaDeGette,https://degette.house.gov
+N000191,Joe Neguse,Neguse,house,Democrat,CO,2,RepJoeNeguse,https://neguse.house.gov
+H001100,Jeff Hurd,Hurd,house,Republican,CO,3,RepJeffHurd,https://hurd.house.gov
+B000825,Lauren Boebert,Boebert,house,Republican,CO,4,RepBoebert,https://boebert.house.gov
+C001137,Jeff Crank,Crank,house,Republican,CO,5,RepJeffCrank,https://crank.house.gov
+C001121,Jason Crow,Crow,house,Democrat,CO,6,RepJasonCrow,https://crow.house.gov
+P000620,Brittany Pettersen,Pettersen,house,Democrat,CO,7,reppettersen,https://pettersen.house.gov
+E000300,Gabe Evans,Evans,house,Republican,CO,8,repgabeevans,https://gabeevans.house.gov
+L000557,John B. Larson,Larson,house,Democrat,CT,1,RepJohnLarson,https://larson.house.gov
+C001069,Joe Courtney,Courtney,house,Democrat,CT,2,RepJoeCourtney,https://courtney.house.gov
+D000216,Rosa L. DeLauro,DeLauro,house,Democrat,CT,3,RosaDeLauro,https://delauro.house.gov
+H001047,James A. Himes,Himes,house,Democrat,CT,4,jahimes,https://himes.house.gov
+H001081,Jahana Hayes,Hayes,house,Democrat,CT,5,RepJahanaHayes,https://hayes.house.gov
+M001238,Sarah McBride,McBride,house,Democrat,DE,0,,https://mcbride.house.gov
+P000622,Jimmy Patronis,Patronis,house,Republican,FL,1,,https://patronis.house.gov
+D000628,Neal P. Dunn,Dunn,house,Republican,FL,2,DrNealDunnFL2,https://dunn.house.gov
+C001039,Kat Cammack,Cammack,house,Republican,FL,3,RepKatCammack,https://cammack.house.gov
+B001314,Aaron Bean,Bean,house,Republican,FL,4,RepAaronBean,https://bean.house.gov
+R000609,John H. Rutherford,Rutherford,house,Republican,FL,5,RepRutherfordFL,https://rutherford.house.gov
+F000484,Randy Fine,Fine,house,Republican,FL,6,,https://fine.house.gov
+M001216,Cory Mills,Mills,house,Republican,FL,7,RepMillsPress,https://mills.house.gov
+H001099,Mike Haridopolos,Haridopolos,house,Republican,FL,8,repharidopolos,https://haridopolos.house.gov
+S001200,Darren Soto,Soto,house,Democrat,FL,9,RepDarrenSoto,https://soto.house.gov
+F000476,Maxwell Frost,Frost,house,Democrat,FL,10,RepMaxwellFrost,https://frost.house.gov
+W000806,Daniel Webster,Webster,house,Republican,FL,11,RepWebster,https://webster.house.gov
+B001257,Gus M. Bilirakis,Bilirakis,house,Republican,FL,12,RepGusBilirakis,https://bilirakis.house.gov
+L000596,Anna Paulina Luna,Luna,house,Republican,FL,13,RepLuna,https://luna.house.gov
+C001066,Kathy Castor,Castor,house,Democrat,FL,14,USRepKCastor,https://castor.house.gov
+L000597,Laurel M. Lee,Lee,house,Republican,FL,15,RepLaurelLee,https://laurellee.house.gov
+B001260,Vern Buchanan,Buchanan,house,Republican,FL,16,VernBuchanan,https://buchanan.house.gov
+S001214,W. Gregory Steube,Steube,house,Republican,FL,17,RepGregSteube,https://steube.house.gov
+F000472,Scott Franklin,Franklin,house,Republican,FL,18,RepFranklin,https://franklin.house.gov
+D000032,Byron Donalds,Donalds,house,Republican,FL,19,RepDonaldsPress,https://donalds.house.gov
+M001199,Brian J. Mast,Mast,house,Republican,FL,21,RepBrianMast,https://mast.house.gov
+F000462,Lois Frankel,Frankel,house,Democrat,FL,22,RepLoisFrankel,https://frankel.house.gov
+M001217,Jared Moskowitz,Moskowitz,house,Democrat,FL,23,RepMoskowitz,https://moskowitz.house.gov
+W000808,Frederica S. Wilson,Wilson,house,Democrat,FL,24,RepWilson,https://wilson.house.gov
+W000797,Debbie Wasserman Schultz,Wasserman Schultz,house,Democrat,FL,25,RepDWStweets,https://wassermanschultz.house.gov
+D000600,Mario Diaz-Balart,Diaz-Balart,house,Republican,FL,26,MarioDB,https://mariodiazbalart.house.gov
+S000168,Maria Elvira Salazar,Salazar,house,Republican,FL,27,RepMariaSalazar,https://salazar.house.gov
+G000593,Carlos A. Gimenez,Gimenez,house,Republican,FL,28,RepCarlos,https://gimenez.house.gov
+C001103,"Earl L. ""Buddy"" Carter",Carter,house,Republican,GA,1,RepBuddyCarter,https://buddycarter.house.gov
+B000490,"Sanford D. Bishop, Jr.",Bishop,house,Democrat,GA,2,SanfordBishop,https://bishop.house.gov
+J000311,Brian Jack,Jack,house,Republican,GA,3,RepBrianJack,https://jack.house.gov
+J000288,"Henry C. ""Hank"" Johnson, Jr.",Johnson,house,Democrat,GA,4,RepHankJohnson,https://hankjohnson.house.gov
+W000788,Nikema Williams,Williams,house,Democrat,GA,5,RepNikema,https://nikemawilliams.house.gov
+M001208,Lucy McBath,McBath,house,Democrat,GA,6,RepLucyMcBath,https://mcbath.house.gov
+M001218,Richard McCormick,McCormick,house,Republican,GA,7,RepMcCormick,https://mccormick.house.gov
+S001189,Austin Scott,Scott,house,Republican,GA,8,AustinScottGA08,https://austinscott.house.gov
+C001116,Andrew S. Clyde,Clyde,house,Republican,GA,9,Rep_Clyde,https://clyde.house.gov
+C001129,Mike Collins,Collins,house,Republican,GA,10,RepMikeCollins,https://collins.house.gov
+L000583,Barry Loudermilk,Loudermilk,house,Republican,GA,11,RepLoudermilk,https://loudermilk.house.gov
+A000372,Rick W. Allen,Allen,house,Republican,GA,12,RepRickAllen,https://allen.house.gov
+B001328,Everton Blair Jr.,Blair,house,Democrat,GA,13,,https://blair.house.gov/
+F000485,Clay Fuller,Fuller,house,Republican,GA,14,,https://fuller.house.gov
+C001055,Ed Case,Case,house,Democrat,HI,1,RepEdCase,https://case.house.gov
+T000487,Jill N. Tokuda,Tokuda,house,Democrat,HI,2,RepJillTokuda,https://tokuda.house.gov
+M001215,Mariannette Miller-Meeks,Miller-Meeks,house,Republican,IA,1,RepMMM,https://millermeeks.house.gov
+H001091,Ashley Hinson,Hinson,house,Republican,IA,2,RepAshleyHinson,https://hinson.house.gov
+N000193,Zachary Nunn,Nunn,house,Republican,IA,3,ZachNunn,https://nunn.house.gov
+F000446,Randy Feenstra,Feenstra,house,Republican,IA,4,RepFeenstra,https://feenstra.house.gov
+F000469,Russ Fulcher,Fulcher,house,Republican,ID,1,RepRussFulcher,https://fulcher.house.gov
+S001148,Michael K. Simpson,Simpson,house,Republican,ID,2,CongMikeSimpson,https://simpson.house.gov
+J000309,Jonathan L. Jackson,Jackson,house,Democrat,IL,1,,https://jonathanjackson.house.gov
+K000385,Robin L. Kelly,Kelly,house,Democrat,IL,2,RepRobinKelly,https://robinkelly.house.gov
+R000617,Delia C. Ramirez,Ramirez,house,Democrat,IL,3,repdeliaramirez,https://ramirez.house.gov
+G000586,"Jesús G. ""Chuy"" García",García,house,Democrat,IL,4,RepChuyGarcia,https://chuygarcia.house.gov
+Q000023,Mike Quigley,Quigley,house,Democrat,IL,5,RepMikeQuigley,https://quigley.house.gov
+C001117,Sean Casten,Casten,house,Democrat,IL,6,RepCasten,https://casten.house.gov
+D000096,Danny K. Davis,Davis,house,Democrat,IL,7,RepDannyDavis,https://davis.house.gov
+K000391,Raja Krishnamoorthi,Krishnamoorthi,house,Democrat,IL,8,CongressmanRaja,https://krishnamoorthi.house.gov
+S001145,Janice D. Schakowsky,Schakowsky,house,Democrat,IL,9,JanSchakowsky,https://schakowsky.house.gov
+S001190,Bradley Scott Schneider,Schneider,house,Democrat,IL,10,RepSchneider,https://schneider.house.gov
+F000454,Bill Foster,Foster,house,Democrat,IL,11,RepBillFoster,https://foster.house.gov
+B001295,Mike Bost,Bost,house,Republican,IL,12,RepBost,https://bost.house.gov
+B001315,Nikki Budzinski,Budzinski,house,Democrat,IL,13,RepNikkiB,https://budzinski.house.gov
+U000040,Lauren Underwood,Underwood,house,Democrat,IL,14,RepUnderwood,https://underwood.house.gov
+M001211,Mary E. Miller,Miller,house,Republican,IL,15,RepMaryMiller,https://marymiller.house.gov
+L000585,Darin LaHood,LaHood,house,Republican,IL,16,RepLaHood,https://lahood.house.gov
+S001225,Eric Sorensen,Sorensen,house,Democrat,IL,17,RepEricSorensen,https://sorensen.house.gov
+M001214,Frank J. Mrvan,Mrvan,house,Democrat,IN,1,RepMrvan,https://mrvan.house.gov
+Y000067,Rudy Yakym III,Yakym,house,Republican,IN,2,RepRudyYakym,https://yakym.house.gov
+S001188,Marlin A. Stutzman,Stutzman,house,Republican,IN,3,RepStutzman,https://stutzman.house.gov
+B001307,James R. Baird,Baird,house,Republican,IN,4,RepJimBaird,https://baird.house.gov
+S000929,Victoria Spartz,Spartz,house,Republican,IN,5,RepSpartz,https://spartz.house.gov
+S001229,Jefferson Shreve,Shreve,house,Republican,IN,6,repshreve,https://shreve.house.gov
+C001072,André Carson,Carson,house,Democrat,IN,7,RepAndreCarson,https://carson.house.gov
+M001233,Mark B. Messmer,Messmer,house,Republican,IN,8,,https://messmer.house.gov
+H001093,Erin Houchin,Houchin,house,Republican,IN,9,RepHouchin,https://houchin.house.gov
+M000871,Tracey Mann,Mann,house,Republican,KS,1,RepMann,https://mann.house.gov
+S001228,Derek Schmidt,Schmidt,house,Republican,KS,2,repderekschmidt,https://schmidt.house.gov
+D000629,Sharice Davids,Davids,house,Democrat,KS,3,RepDavids,https://davids.house.gov
+E000298,Ron Estes,Estes,house,Republican,KS,4,RepRonEstes,https://estes.house.gov
+C001108,James Comer,Comer,house,Republican,KY,1,RepJamesComer,https://comer.house.gov
+G000558,Brett Guthrie,Guthrie,house,Republican,KY,2,RepGuthrie,https://guthrie.house.gov
+M001220,Morgan McGarvey,McGarvey,house,Democrat,KY,3,RepMcGarvey,https://mcgarvey.house.gov
+M001184,Thomas Massie,Massie,house,Republican,KY,4,RepThomasMassie,https://massie.house.gov
+R000395,Harold Rogers,Rogers,house,Republican,KY,5,RepHalRogers,https://halrogers.house.gov
+B001282,Andy Barr,Barr,house,Republican,KY,6,RepAndyBarr,https://barr.house.gov
+S001176,Steve Scalise,Scalise,house,Republican,LA,1,SteveScalise,https://scalise.house.gov
+C001125,Troy A. Carter,Carter,house,Democrat,LA,2,RepTroyCarter,https://troycarter.house.gov
+H001077,Clay Higgins,Higgins,house,Republican,LA,3,RepClayHiggins,https://clayhiggins.house.gov
+J000299,Mike Johnson,Johnson,house,Republican,LA,4,RepMikeJohnson,https://mikejohnson.house.gov
+L000595,Julia Letlow,Letlow,house,Republican,LA,5,RepJuliaLetlow,https://letlow.house.gov
+F000110,Cleo Fields,Fields,house,Democrat,LA,6,repfields,https://fields.house.gov
+N000015,Richard E. Neal,Neal,house,Democrat,MA,1,RepRichardNeal,https://neal.house.gov
+M000312,James P. McGovern,McGovern,house,Democrat,MA,2,RepMcGovern,https://mcgovern.house.gov
+T000482,Lori Trahan,Trahan,house,Democrat,MA,3,RepLoriTrahan,https://trahan.house.gov
+A000148,Jake Auchincloss,Auchincloss,house,Democrat,MA,4,RepAuchincloss,https://auchincloss.house.gov
+C001101,Katherine M. Clark,Clark,house,Democrat,MA,5,RepKClark,https://katherineclark.house.gov
+M001196,Seth Moulton,Moulton,house,Democrat,MA,6,RepMoulton,https://moulton.house.gov
+P000617,Ayanna Pressley,Pressley,house,Democrat,MA,7,RepPressley,https://pressley.house.gov
+L000562,Stephen F. Lynch,Lynch,house,Democrat,MA,8,RepStephenLynch,https://lynch.house.gov
+K000375,William R. Keating,Keating,house,Democrat,MA,9,USRepKeating,https://keating.house.gov
+H001052,Andy Harris,Harris,house,Republican,MD,1,RepAndyHarrisMD,https://harris.house.gov
+O000176,"Johnny Olszewski, Jr.",Olszewski,house,Democrat,MD,2,RepJohnnyO,https://olszewski.house.gov
+E000301,Sarah Elfreth,Elfreth,house,Democrat,MD,3,repsarahelfreth,https://elfreth.house.gov
+I000058,Glenn Ivey,Ivey,house,Democrat,MD,4,RepGlennIvey,https://ivey.house.gov
+H000874,Steny H. Hoyer,Hoyer,house,Democrat,MD,5,RepStenyHoyer,https://hoyer.house.gov
+M001232,April McClain Delaney,McClain Delaney,house,Democrat,MD,6,RepAprilDelaney,https://mcclaindelaney.house.gov
+M000687,Kweisi Mfume,Mfume,house,Democrat,MD,7,RepKweisiMfume,https://mfume.house.gov
+R000606,Jamie Raskin,Raskin,house,Democrat,MD,8,RepRaskin,https://raskin.house.gov
+P000597,Chellie Pingree,Pingree,house,Democrat,ME,1,ChelliePingree,https://pingree.house.gov
+G000592,Jared F. Golden,Golden,house,Democrat,ME,2,RepGolden,https://golden.house.gov
+B001301,Jack Bergman,Bergman,house,Republican,MI,1,RepJackBergman,https://bergman.house.gov
+M001194,John R. Moolenaar,Moolenaar,house,Republican,MI,2,RepMoolenaar,https://moolenaar.house.gov
+S001221,Hillary J. Scholten,Scholten,house,Democrat,MI,3,RepScholten,https://scholten.house.gov
+H001058,Bill Huizenga,Huizenga,house,Republican,MI,4,RepHuizenga,https://huizenga.house.gov
+W000798,Tim Walberg,Walberg,house,Republican,MI,5,RepWalberg,https://walberg.house.gov
+D000624,Debbie Dingell,Dingell,house,Democrat,MI,6,RepDebDingell,https://debbiedingell.house.gov
+B001321,Tom Barrett,Barrett,house,Republican,MI,7,reptombarrett,https://barrett.house.gov
+M001237,Kristen McDonald Rivet,McDonald Rivet,house,Democrat,MI,8,repkmr,https://mcdonaldrivet.house.gov
+M001136,Lisa C. McClain,McClain,house,Republican,MI,9,RepLisaMcClain,https://mcclain.house.gov
+J000307,John James,James,house,Republican,MI,10,RepJames,https://james.house.gov
+S001215,Haley M. Stevens,Stevens,house,Democrat,MI,11,RepHaleyStevens,https://stevens.house.gov
+T000481,Rashida Tlaib,Tlaib,house,Democrat,MI,12,RepRashida,https://tlaib.house.gov
+T000488,Shri Thanedar,Thanedar,house,Democrat,MI,13,RepShriThanedar,https://thanedar.house.gov
+F000475,Brad Finstad,Finstad,house,Republican,MN,1,RepFinstad,https://finstad.house.gov
+C001119,Angie Craig,Craig,house,Democrat,MN,2,RepAngieCraig,https://craig.house.gov
+M001234,Kelly Morrison,Morrison,house,Democrat,MN,3,kellymorrisonmn,https://morrison.house.gov
+M001143,Betty McCollum,McCollum,house,Democrat,MN,4,BettyMcCollum04,https://mccollum.house.gov
+O000173,Ilhan Omar,Omar,house,Democrat,MN,5,Ilhan,https://omar.house.gov
+E000294,Tom Emmer,Emmer,house,Republican,MN,6,RepTomEmmer,https://emmer.house.gov
+F000470,Michelle Fischbach,Fischbach,house,Republican,MN,7,RepFischbach,https://fischbach.house.gov
+S001212,Pete Stauber,Stauber,house,Republican,MN,8,RepPeteStauber,https://stauber.house.gov
+B001324,Wesley Bell,Bell,house,Democrat,MO,1,RepWesleyBellMO,https://bell.house.gov
+W000812,Ann Wagner,Wagner,house,Republican,MO,2,RepAnnWagner,https://wagner.house.gov
+O000177,"Robert F. Onder, Jr.",Onder,house,Republican,MO,3,RepBobOnder,https://onder.house.gov
+A000379,Mark Alford,Alford,house,Republican,MO,4,RepMarkAlford,https://alford.house.gov
+C001061,Emanuel Cleaver,Cleaver,house,Democrat,MO,5,RepCleaver,https://cleaver.house.gov
+G000546,Sam Graves,Graves,house,Republican,MO,6,RepSamGraves,https://graves.house.gov
+B001316,Eric Burlison,Burlison,house,Republican,MO,7,RepEricBurlison,https://burlison.house.gov
+S001195,Jason Smith,Smith,house,Republican,MO,8,RepJasonSmith,https://jasonsmith.house.gov
+K000388,Trent Kelly,Kelly,house,Republican,MS,1,RepTrentKelly,https://trentkelly.house.gov
+T000193,Bennie G. Thompson,Thompson,house,Democrat,MS,2,BennieGThompson,https://benniethompson.house.gov
+G000591,Michael Guest,Guest,house,Republican,MS,3,RepMichaelGuest,https://guest.house.gov
+E000235,Mike Ezell,Ezell,house,Republican,MS,4,RepEzell,https://ezell.house.gov
+Z000018,Ryan K. Zinke,Zinke,house,Republican,MT,1,RepRyanZinke,https://zinke.house.gov
+D000634,Troy Downing,Downing,house,Republican,MT,2,reptroydowning,https://downing.house.gov
+D000230,Donald G. Davis,Davis,house,Democrat,NC,1,RepDonDavis,https://dondavis.house.gov
+R000305,Deborah K. Ross,Ross,house,Democrat,NC,2,RepDeborahRoss,https://ross.house.gov
+M001210,Gregory F. Murphy,Murphy,house,Republican,NC,3,RepGregMurphy,https://murphy.house.gov
+F000477,Valerie P. Foushee,Foushee,house,Democrat,NC,4,ValerieFoushee,https://foushee.house.gov
+F000450,Virginia Foxx,Foxx,house,Republican,NC,5,VirginiaFoxx,https://foxx.house.gov
+M001240,Addison P. McDowell,McDowell,house,Republican,NC,6,RepMcDowell,https://mcdowell.house.gov
+R000603,David Rouzer,Rouzer,house,Republican,NC,7,RepDavidRouzer,https://rouzer.house.gov
+H001102,Mark Harris,Harris,house,Republican,NC,8,RepMarkHarrisNC,https://markharris.house.gov
+H001067,Richard Hudson,Hudson,house,Republican,NC,9,RepRichHudson,https://hudson.house.gov
+H001101,Pat Harrigan,Harrigan,house,Republican,NC,10,RepPatHarrigan,https://harrigan.house.gov
+E000246,Chuck Edwards,Edwards,house,Republican,NC,11,RepEdwards,https://edwards.house.gov
+A000370,Alma S. Adams,Adams,house,Democrat,NC,12,RepAdams,https://adams.house.gov
+K000405,Brad Knott,Knott,house,Republican,NC,13,RepKnott,https://knott.house.gov
+M001236,Tim Moore,Moore,house,Republican,NC,14,RepTimMooreNC,https://timmoore.house.gov
+F000482,Julie Fedorchak,Fedorchak,house,Republican,ND,0,RepFedorchak,https://fedorchak.house.gov
+F000474,Mike Flood,Flood,house,Republican,NE,1,USRepMikeFlood,https://flood.house.gov
+B001298,Don Bacon,Bacon,house,Republican,NE,2,RepDonBacon,https://bacon.house.gov
+S001172,Adrian Smith,Smith,house,Republican,NE,3,RepAdrianSmith,https://adriansmith.house.gov
+P000614,Chris Pappas,Pappas,house,Democrat,NH,1,RepChrisPappas,https://pappas.house.gov
+G000604,Maggie Goodlander,Goodlander,house,Democrat,NH,2,RepGoodlander,https://goodlander.house.gov
+N000188,Donald Norcross,Norcross,house,Democrat,NJ,1,DonaldNorcross,https://norcross.house.gov
+V000133,Jefferson Van Drew,Van Drew,house,Republican,NJ,2,Congressman_JVD,https://vandrew.house.gov
+C001136,"Herbert C. Conaway, Jr.",Conaway,house,Democrat,NJ,3,RepHerbConaway,https://conaway.house.gov
+S000522,Christopher H. Smith,Smith,house,Republican,NJ,4,,https://chrissmith.house.gov
+G000583,Josh Gottheimer,Gottheimer,house,Democrat,NJ,5,RepJoshG,https://gottheimer.house.gov
+P000034,"Frank Pallone, Jr.",Pallone,house,Democrat,NJ,6,FrankPallone,https://pallone.house.gov
+K000398,"Thomas H. Kean, Jr.",Kean,house,Republican,NJ,7,CongressmanKean,https://kean.house.gov
+M001226,Robert Menendez,Menendez,house,Democrat,NJ,8,RepMenendez,https://menendez.house.gov
+P000621,Nellie Pou,Pou,house,Democrat,NJ,9,caohouse,https://pou.house.gov
+M001229,LaMonica McIver,McIver,house,Democrat,NJ,10,RepLaMonica,https://mciver.house.gov
+M001246,Analilia Mejia,Mejia,house,Democrat,NJ,11,,https://mejia.house.gov
+W000822,Bonnie Watson Coleman,Watson Coleman,house,Democrat,NJ,12,RepBonnie,https://watsoncoleman.house.gov
+S001218,Melanie A. Stansbury,Stansbury,house,Democrat,NM,1,Rep_Stansbury,https://stansbury.house.gov
+V000136,Gabe Vasquez,Vasquez,house,Democrat,NM,2,RepGabeVasquez,https://vasquez.house.gov
+L000273,Teresa Leger Fernandez,Leger Fernandez,house,Democrat,NM,3,RepTeresaLF,https://fernandez.house.gov
+T000468,Dina Titus,Titus,house,Democrat,NV,1,RepDinaTitus,https://titus.house.gov
+A000369,Mark E. Amodei,Amodei,house,Republican,NV,2,MarkAmodeiNV2,https://amodei.house.gov
+L000590,Susie Lee,Lee,house,Democrat,NV,3,RepSusieLee,https://susielee.house.gov
+H001066,Steven Horsford,Horsford,house,Democrat,NV,4,RepHorsford,https://horsford.house.gov
+L000598,Nick LaLota,LaLota,house,Republican,NY,1,RepLaLota,https://lalota.house.gov
+G000597,Andrew R. Garbarino,Garbarino,house,Republican,NY,2,RepGarbarino,https://garbarino.house.gov
+S001201,Thomas R. Suozzi,Suozzi,house,Democrat,NY,3,reptomsuozzi,https://suozzi.house.gov
+G000602,Laura Gillen,Gillen,house,Democrat,NY,4,RepLauraGillen,https://gillen.house.gov
+M001137,Gregory W. Meeks,Meeks,house,Democrat,NY,5,RepGregoryMeeks,https://meeks.house.gov
+M001188,Grace Meng,Meng,house,Democrat,NY,6,RepGraceMeng,https://meng.house.gov
+V000081,Nydia M. Velázquez,Velázquez,house,Democrat,NY,7,NydiaVelazquez,https://velazquez.house.gov
+J000294,Hakeem S. Jeffries,Jeffries,house,Democrat,NY,8,RepJeffries,https://jeffries.house.gov
+C001067,Yvette D. Clarke,Clarke,house,Democrat,NY,9,RepYvetteClarke,https://clarke.house.gov
+G000599,Daniel S. Goldman,Goldman,house,Democrat,NY,10,RepDanGoldman,https://goldman.house.gov
+M000317,Nicole Malliotakis,Malliotakis,house,Republican,NY,11,RepMalliotakis,https://malliotakis.house.gov
+N000002,Jerrold Nadler,Nadler,house,Democrat,NY,12,RepJerryNadler,https://nadler.house.gov
+E000297,Adriano Espaillat,Espaillat,house,Democrat,NY,13,RepEspaillat,https://espaillat.house.gov
+O000172,Alexandria Ocasio-Cortez,Ocasio-Cortez,house,Democrat,NY,14,RepAOC,https://ocasio-cortez.house.gov
+T000486,Ritchie Torres,Torres,house,Democrat,NY,15,RepRitchie,https://ritchietorres.house.gov
+L000606,George Latimer,Latimer,house,Democrat,NY,16,RepGLatimer,https://latimer.house.gov
+L000599,Michael Lawler,Lawler,house,Republican,NY,17,RepMikeLawler,https://lawler.house.gov
+R000579,Patrick Ryan,Ryan,house,Democrat,NY,18,RepPatRyanNY,https://patryan.house.gov
+R000622,Josh Riley,Riley,house,Democrat,NY,19,,https://riley.house.gov
+T000469,Paul Tonko,Tonko,house,Democrat,NY,20,RepPaulTonko,https://tonko.house.gov
+S001196,Elise M. Stefanik,Stefanik,house,Republican,NY,21,RepStefanik,https://stefanik.house.gov
+M001231,John W. Mannion,Mannion,house,Democrat,NY,22,JohnMannionNY22,https://mannion.house.gov
+L000600,Nicholas A. Langworthy,Langworthy,house,Republican,NY,23,RepLangworthy,https://langworthy.house.gov
+T000478,Claudia Tenney,Tenney,house,Republican,NY,24,RepTenney,https://tenney.house.gov
+M001206,Joseph D. Morelle,Morelle,house,Democrat,NY,25,RepJoeMorelle,https://morelle.house.gov
+K000402,Timothy M. Kennedy,Kennedy,house,Democrat,NY,26,reptimkennedy,https://kennedy.house.gov
+L000601,Greg Landsman,Landsman,house,Democrat,OH,1,repgreglandsman,https://landsman.house.gov
+T000490,David J. Taylor,Taylor,house,Republican,OH,2,RepDaveTaylor,https://taylor.house.gov
+B001281,Joyce Beatty,Beatty,house,Democrat,OH,3,RepBeatty,https://beatty.house.gov
+J000289,Jim Jordan,Jordan,house,Republican,OH,4,Jim_Jordan,https://jordan.house.gov
+L000566,Robert E. Latta,Latta,house,Republican,OH,5,BobLatta,https://latta.house.gov
+R000619,Michael A. Rulli,Rulli,house,Republican,OH,6,,https://rulli.house.gov
+M001222,Max L. Miller,Miller,house,Republican,OH,7,repmaxmiller,https://maxmiller.house.gov
+D000626,Warren Davidson,Davidson,house,Republican,OH,8,WarrenDavidson,https://davidson.house.gov
+K000009,Marcy Kaptur,Kaptur,house,Democrat,OH,9,RepMarcyKaptur,https://kaptur.house.gov
+T000463,Michael R. Turner,Turner,house,Republican,OH,10,RepMikeTurner,https://turner.house.gov
+B001313,Shontel M. Brown,Brown,house,Democrat,OH,11,RepShontelBrown,https://shontelbrown.house.gov
+B001306,Troy Balderson,Balderson,house,Republican,OH,12,RepBalderson,https://balderson.house.gov
+S001223,Emilia Strong Sykes,Sykes,house,Democrat,OH,13,RepEmiliaSykes,https://sykes.house.gov
+J000295,David P. Joyce,Joyce,house,Republican,OH,14,RepDaveJoyce,https://joyce.house.gov
+C001126,Mike Carey,Carey,house,Republican,OH,15,RepMikeCarey,https://carey.house.gov
+H001082,Kevin Hern,Hern,house,Republican,OK,1,repkevinhern,https://hern.house.gov
+B001317,Josh Brecheen,Brecheen,house,Republican,OK,2,repbrecheen,https://brecheen.house.gov
+L000491,Frank D. Lucas,Lucas,house,Republican,OK,3,RepFrankLucas,https://lucas.house.gov
+C001053,Tom Cole,Cole,house,Republican,OK,4,TomColeOK04,https://cole.house.gov
+B000740,Stephanie I. Bice,Bice,house,Republican,OK,5,RepBice,https://bice.house.gov
+B001278,Suzanne Bonamici,Bonamici,house,Democrat,OR,1,RepBonamici,https://bonamici.house.gov
+B000668,Cliff Bentz,Bentz,house,Republican,OR,2,RepBentz,https://bentz.house.gov
+D000635,Maxine Dexter,Dexter,house,Democrat,OR,3,RepDexterOR,https://dexter.house.gov
+H001094,Val T. Hoyle,Hoyle,house,Democrat,OR,4,repvalhoyle,https://hoyle.house.gov
+B001326,Janelle S. Bynum,Bynum,house,Democrat,OR,5,RepBynum,https://bynum.house.gov
+S001226,Andrea Salinas,Salinas,house,Democrat,OR,6,repsalinas,https://salinas.house.gov
+F000466,Brian K. Fitzpatrick,Fitzpatrick,house,Republican,PA,1,RepBrianFitz,https://fitzpatrick.house.gov
+B001296,Brendan F. Boyle,Boyle,house,Democrat,PA,2,CongBoyle,https://boyle.house.gov
+E000296,Dwight Evans,Evans,house,Democrat,PA,3,RepDwightEvans,https://evans.house.gov
+D000631,Madeleine Dean,Dean,house,Democrat,PA,4,RepDean,https://dean.house.gov
+S001205,Mary Gay Scanlon,Scanlon,house,Democrat,PA,5,RepMGS,https://scanlon.house.gov
+H001085,Chrissy Houlahan,Houlahan,house,Democrat,PA,6,RepHoulahan,https://houlahan.house.gov
+M001230,Ryan Mackenzie,Mackenzie,house,Republican,PA,7,RepMackenzie,https://mackenzie.house.gov
+B001327,"Robert P. Bresnahan, Jr.",Bresnahan,house,Republican,PA,8,RepBresnahan,https://bresnahan.house.gov
+M001204,Daniel Meuser,Meuser,house,Republican,PA,9,RepMeuser,https://meuser.house.gov
+P000605,Scott Perry,Perry,house,Republican,PA,10,RepScottPerry,https://perry.house.gov
+S001199,Lloyd Smucker,Smucker,house,Republican,PA,11,RepSmucker,https://smucker.house.gov
+L000602,Summer L. Lee,Lee,house,Democrat,PA,12,RepSummerLee,https://summerlee.house.gov
+J000302,John Joyce,Joyce,house,Republican,PA,13,RepJohnJoyce,https://johnjoyce.house.gov
+R000610,Guy Reschenthaler,Reschenthaler,house,Republican,PA,14,GReschenthaler,https://reschenthaler.house.gov
+T000467,Glenn Thompson,Thompson,house,Republican,PA,15,CongressmanGT,https://thompson.house.gov
+K000376,Mike Kelly,Kelly,house,Republican,PA,16,MikeKellyPA,https://kelly.house.gov
+D000530,Christopher R. Deluzio,Deluzio,house,Democrat,PA,17,RepDeluzio,https://deluzio.house.gov
+A000380,Gabe Amo,Amo,house,Democrat,RI,1,RepGabeAmo,https://amo.house.gov
+M001223,Seth Magaziner,Magaziner,house,Democrat,RI,2,Rep_Magaziner,https://magaziner.house.gov
+M000194,Nancy Mace,Mace,house,Republican,SC,1,RepNancyMace,https://mace.house.gov
+W000795,Joe Wilson,Wilson,house,Republican,SC,2,RepJoeWilson,https://joewilson.house.gov
+B001325,Sheri Biggs,Biggs,house,Republican,SC,3,repsheribiggs,https://sheribiggs.house.gov
+T000480,William R. Timmons IV,Timmons,house,Republican,SC,4,RepTimmons,https://timmons.house.gov
+N000190,Ralph Norman,Norman,house,Republican,SC,5,RepRalphNorman,https://norman.house.gov
+C000537,James E. Clyburn,Clyburn,house,Democrat,SC,6,RepJamesClyburn,https://clyburn.house.gov
+F000478,Russell Fry,Fry,house,Republican,SC,7,RepRussellFry,https://fry.house.gov
+J000301,Dusty Johnson,Johnson,house,Republican,SD,0,RepDustyJohnson,https://dustyjohnson.house.gov
+H001086,Diana Harshbarger,Harshbarger,house,Republican,TN,1,RepHarshbarger,https://harshbarger.house.gov
+B001309,Tim Burchett,Burchett,house,Republican,TN,2,RepTimBurchett,https://burchett.house.gov
+F000459,"Charles J. ""Chuck"" Fleischmann",Fleischmann,house,Republican,TN,3,RepChuck,https://fleischmann.house.gov
+D000616,Scott DesJarlais,DesJarlais,house,Republican,TN,4,DesJarlaisTN04,https://desjarlais.house.gov
+O000175,Andrew Ogles,Ogles,house,Republican,TN,5,repogles,https://ogles.house.gov
+R000612,John W. Rose,Rose,house,Republican,TN,6,RepJohnRose,https://johnrose.house.gov
+V000139,Matt Van Epps,Van Epps,house,Republican,TN,7,,https://vanepps.house.gov
+K000392,David Kustoff,Kustoff,house,Republican,TN,8,RepDavidKustoff,https://kustoff.house.gov
+C001068,Steve Cohen,Cohen,house,Democrat,TN,9,RepCohen,https://cohen.house.gov
+M001224,Nathaniel Moran,Moran,house,Republican,TX,1,RepNateMoran,https://moran.house.gov
+C001120,Dan Crenshaw,Crenshaw,house,Republican,TX,2,RepDanCrenshaw,https://crenshaw.house.gov
+S001224,Keith Self,Self,house,Republican,TX,3,repkeithself,https://keithself.house.gov
+F000246,Pat Fallon,Fallon,house,Republican,TX,4,RepPatFallon,https://fallon.house.gov
+G000589,Lance Gooden,Gooden,house,Republican,TX,5,,https://gooden.house.gov
+E000071,Jake Ellzey,Ellzey,house,Republican,TX,6,RepEllzey,https://ellzey.house.gov
+F000468,Lizzie Fletcher,Fletcher,house,Democrat,TX,7,RepFletcher,https://fletcher.house.gov
+L000603,Morgan Luttrell,Luttrell,house,Republican,TX,8,RepLuttrell,https://luttrell.house.gov
+G000553,Al Green,Green,house,Democrat,TX,9,RepAlGreen,https://algreen.house.gov
+M001157,Michael T. McCaul,McCaul,house,Republican,TX,10,RepMcCaul,https://mccaul.house.gov
+P000048,August Pfluger,Pfluger,house,Republican,TX,11,RepPfluger,https://pfluger.house.gov
+G000601,Craig A. Goldman,Goldman,house,Republican,TX,12,RepCraigGoldman,https://craiggoldman.house.gov
+J000304,Ronny Jackson,Jackson,house,Republican,TX,13,RepRonnyJackson,https://jackson.house.gov
+W000814,"Randy K. Weber, Sr.",Weber,house,Republican,TX,14,TXRandy14,https://weber.house.gov
+D000594,Monica De La Cruz,De La Cruz,house,Republican,TX,15,RepMonicaDLC,https://delacruz.house.gov
+E000299,Veronica Escobar,Escobar,house,Democrat,TX,16,RepEscobar,https://escobar.house.gov
+S000250,Pete Sessions,Sessions,house,Republican,TX,17,PeteSessions,https://sessions.house.gov
+M001245,Christian D. Menefee,Menefee,house,Democrat,TX,18,,https://menefee.house.gov
+A000375,Jodey C. Arrington,Arrington,house,Republican,TX,19,RepArrington,https://arrington.house.gov
+C001091,Joaquin Castro,Castro,house,Democrat,TX,20,JoaquinCastrotx,https://castro.house.gov
+R000614,Chip Roy,Roy,house,Republican,TX,21,RepChipRoy,https://roy.house.gov
+N000026,Troy E. Nehls,Nehls,house,Republican,TX,22,RepTroyNehls,https://nehls.house.gov
+V000134,Beth Van Duyne,Van Duyne,house,Republican,TX,24,RepBethVanDuyne,https://vanduyne.house.gov
+W000816,Roger Williams,Williams,house,Republican,TX,25,RepRWilliams,https://williams.house.gov
+G000603,Brandon Gill,Gill,house,Republican,TX,26,repbrandongill,https://gill.house.gov
+C001115,Michael Cloud,Cloud,house,Republican,TX,27,RepCloudTX,https://cloud.house.gov
+C001063,Henry Cuellar,Cuellar,house,Democrat,TX,28,RepCuellar,https://cuellar.house.gov
+G000587,Sylvia R. Garcia,Garcia,house,Democrat,TX,29,RepSylviaGarcia,https://sylviagarcia.house.gov
+C001130,Jasmine Crockett,Crockett,house,Democrat,TX,30,RepJasmine,https://crockett.house.gov
+C001051,John R. Carter,Carter,house,Republican,TX,31,JudgeCarter,https://carter.house.gov
+J000310,Julie Johnson,Johnson,house,Democrat,TX,32,RepJulieJohnson,https://juliejohnson.house.gov
+V000131,Marc A. Veasey,Veasey,house,Democrat,TX,33,RepVeasey,https://veasey.house.gov
+G000581,Vicente Gonzalez,Gonzalez,house,Democrat,TX,34,RepGonzalez,https://gonzalez.house.gov
+C001131,Greg Casar,Casar,house,Democrat,TX,35,RepCasar,https://casar.house.gov
+B001291,Brian Babin,Babin,house,Republican,TX,36,RepBrianBabin,https://babin.house.gov
+D000399,Lloyd Doggett,Doggett,house,Democrat,TX,37,RepLloydDoggett,https://doggett.house.gov
+H001095,Wesley Hunt,Hunt,house,Republican,TX,38,RepWesleyHunt,https://hunt.house.gov
+M001213,Blake D. Moore,Moore,house,Republican,UT,1,RepBlakeMoore,https://blakemoore.house.gov
+M001228,Celeste Maloy,Maloy,house,Republican,UT,2,RepMaloyUtah,https://maloy.house.gov
+K000403,Mike Kennedy,Kennedy,house,Republican,UT,3,repmikekennedy,https://mikekennedy.house.gov
+O000086,Burgess Owens,Owens,house,Republican,UT,4,RepBurgessOwens,https://owens.house.gov
+W000804,Robert J. Wittman,Wittman,house,Republican,VA,1,RobWittman,https://wittman.house.gov
+K000399,Jennifer A. Kiggans,Kiggans,house,Republican,VA,2,RepJenKiggans,https://kiggans.house.gov
+S000185,"Robert C. ""Bobby"" Scott",Scott,house,Democrat,VA,3,BobbyScott,https://bobbyscott.house.gov
+M001227,Jennifer L. McClellan,McClellan,house,Democrat,VA,4,RepMcClellan,https://mcclellan.house.gov
+M001239,John J. McGuire III,McGuire,house,Republican,VA,5,RepJohnMcGuire,https://mcguire.house.gov
+C001118,Ben Cline,Cline,house,Republican,VA,6,RepBenCline,https://cline.house.gov
+V000138,Eugene Simon Vindman,Vindman,house,Democrat,VA,7,RepVindman,https://vindman.house.gov
+B001292,"Donald S. Beyer, Jr.",Beyer,house,Democrat,VA,8,RepDonBeyer,https://beyer.house.gov
+G000568,H. Morgan Griffith,Griffith,house,Republican,VA,9,RepMGriffith,https://morgangriffith.house.gov
+S001230,Suhas Subramanyam,Subramanyam,house,Democrat,VA,10,RepSuhas,https://subramanyam.house.gov
+W000831,James R. Walkinshaw,Walkinshaw,house,Democrat,VA,11,,https://walkinshaw.house.gov
+B001318,Becca Balint,Balint,house,Democrat,VT,0,RepBeccaB,https://balint.house.gov
+D000617,Suzan K. DelBene,DelBene,house,Democrat,WA,1,RepDelBene,https://delbene.house.gov
+L000560,Rick Larsen,Larsen,house,Democrat,WA,2,RepRickLarsen,https://larsen.house.gov
+G000600,Marie Gluesenkamp Perez,Gluesenkamp Perez,house,Democrat,WA,3,RepMGP,https://gluesenkampperez.house.gov
+N000189,Dan Newhouse,Newhouse,house,Republican,WA,4,RepNewhouse,https://newhouse.house.gov
+B001322,Michael Baumgartner,Baumgartner,house,Republican,WA,5,repbaumgartner,https://baumgartner.house.gov
+R000621,Emily Randall,Randall,house,Democrat,WA,6,,https://randall.house.gov
+J000298,Pramila Jayapal,Jayapal,house,Democrat,WA,7,RepJayapal,https://jayapal.house.gov
+S001216,Kim Schrier,Schrier,house,Democrat,WA,8,RepKimSchrier,https://schrier.house.gov
+S000510,Adam Smith,Smith,house,Democrat,WA,9,RepAdamSmith,https://adamsmith.house.gov
+S001159,Marilyn Strickland,Strickland,house,Democrat,WA,10,RepStricklandWA,https://strickland.house.gov
+S001213,Bryan Steil,Steil,house,Republican,WI,1,RepBryanSteil,https://steil.house.gov
+P000607,Mark Pocan,Pocan,house,Democrat,WI,2,RepMarkPocan,https://pocan.house.gov
+V000135,Derrick Van Orden,Van Orden,house,Republican,WI,3,RepVanOrden,https://vanorden.house.gov
+M001160,Gwen Moore,Moore,house,Democrat,WI,4,RepGwenMoore,https://gwenmoore.house.gov
+F000471,Scott Fitzgerald,Fitzgerald,house,Republican,WI,5,RepFitzgerald,https://fitzgerald.house.gov
+G000576,Glenn Grothman,Grothman,house,Republican,WI,6,RepGrothman,https://grothman.house.gov
+T000165,Thomas P. Tiffany,Tiffany,house,Republican,WI,7,RepTiffany,https://tiffany.house.gov
+W000829,Tony Wied,Wied,house,Republican,WI,8,RepTonyWied,https://wied.house.gov
+M001205,Carol D. Miller,Miller,house,Republican,WV,1,RepCarolMiller,https://miller.house.gov
+M001235,Riley M. Moore,Moore,house,Republican,WV,2,RepRileyMoore,https://rileymoore.house.gov
+H001096,Harriet M. Hageman,Hageman,house,Republican,WY,0,RepHageman,https://hageman.house.gov

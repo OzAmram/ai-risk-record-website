@@ -1,0 +1,38 @@
+{"bioguide": "H001072", "member": "J. French Hill",
+ "searches": [
+  "French Hill artificial intelligence site:hill.house.gov",
+  "\"French Hill\" superintelligence",
+  "\"French Hill\" AI extinction OR \"existential risk\"",
+  "\"French Hill\" AI pause OR slowdown OR moratorium",
+  "\"French Hill\" China AI agreement OR treaty",
+  "\"French Hill\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House",
+  "Chairman French Hill artificial intelligence 2026 statement financial services",
+  "\"French Hill\" \"smart safeguards\" artificial intelligence"
+ ],
+ "statements": [
+  {"date": "2025-12-10", "venue": "House Financial Services Committee hearing, \"From Principles to Policy: Enabling 21st Century AI Innovation in Financial Services\"",
+   "quote": "we must view AI as an opportunity, not a threat, applying lessons of that era to today's technological landscape.",
+   "context": "As committee chairman, Hill opened a hearing on regulation of AI in financial services, comparing it to how Congress handled the internet in the 1990s.",
+   "source_label": "PYMNTS", "url": "https://www.pymnts.com/?p=3301218",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Frames AI as an economic opportunity in financial services and does not address catastrophic risk; promoting AI is D, not a dismissal of catastrophic risk."},
+  {"date": "2025-07-30", "venue": "House Financial Services Committee press release",
+   "quote": "As AI continues to evolve, we must understand its full impact because it will touch every part of our lives",
+   "context": "Hill announced the bipartisan Unleashing AI Innovation in Financial Services Act, which creates regulatory sandboxes for AI test projects at federal financial regulators.",
+   "source_label": "House Financial Services Committee press release", "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410824",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "Promotes AI innovation in financial services without acknowledging catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Sponsored the bipartisan Unleashing AI Innovation in Financial Services Act, creating regulatory sandboxes for AI projects at federal financial regulators (119th Congress; first introduced August 2024).", "House Financial Services Committee press release, 2025-07-30", "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410824"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Hill speaks about AI often as Financial Services Committee chairman, but only as an innovation and regulation issue for the financial sector; nothing found acknowledges or dismisses catastrophic risk. Both quoted statements are from 2025; no 2026 statement in his own words on AI was found.",
+ "notes": "Nine web searches ran; none was refused. Search was otherwise thin on 2026 material. A search summary attributed to Hill the words \"when it comes to artificial intelligence, we need smart safeguards in place to protect consumers, prevent abuse, and ensure our families and financial systems are safe\", but I could not find its source or date (a follow-up search found nothing), so it is left out. At a 2026-02-04 hearing Hill asked Treasury Secretary Bessent about AI in customer service and compliance (FedScoop, https://fedscoop.com/treasury-department-artificial-intelligence-banking-industry/), but the article only paraphrases him. The March 26, 2026 committee hearing on regulators and technology contained no AI remarks by Hill in the summary I read. His hill.house.gov press release index (June to October 2026) showed no AI releases in its excerpts. The 'opportunity, not a threat' quote: PYMNTS splits the sentence with an attribution; the quoted passage is the continuous second part. It could be read as mildly dismissive of AI threats, but it names no catastrophic risk, so I graded it D, not F. No source shows Hill co-sponsored the Ban Artificial Superintelligence Act (H.R. 10538, lead sponsor Rep. Greg Casar; reported cosponsors are Democrats), but I did not open the congress.gov cosponsor list. He was a member of the 2024 House Bipartisan Task Force on AI (before the 2025 window)."}

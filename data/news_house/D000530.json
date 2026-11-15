@@ -1,0 +1,126 @@
+{
+  "bioguide": "D000530",
+  "member": "Christopher R. Deluzio",
+  "searches": [
+    "Deluzio artificial intelligence site:deluzio.house.gov",
+    "Rep. Chris Deluzio superintelligence",
+    "Deluzio AI extinction existential risk",
+    "Deluzio AI pause slowdown moratorium",
+    "Deluzio China AI agreement treaty",
+    "\"Deluzio\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Deluzio"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Press release",
+      "quote": "Right now, the American people are screaming at Congress to do something about a technology that they’re hearing may eliminate their jobs, upend their lives, or even wipe out humanity—but House Republican leadership has their ears plugged.",
+      "context": "Deluzio's own statement in a release announcing he joined more than 100 members urging Speaker Johnson to keep the House in session until it passes AI safeguards, in a release titled as a call to regulate AI superintelligence.",
+      "source_label": "Deluzio House press release",
+      "url": "https://deluzio.house.gov/media/press-releases/deluzio-calls-house-republicans-keep-congress-washington-dc-regulate-ai",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [
+        "relayed_warning",
+        "boundary"
+      ],
+      "reason": "He relays the warning that AI may wipe out humanity and endorses it in his own words in the same statement (\"This is an emergency. We should act like it.\"), so ruling 2 gives A; it is framed as what people are hearing, so C is the alternative."
+    },
+    {
+      "date": "2026-09-16",
+      "venue": "Press release",
+      "quote": "We need national action and global coordination under America’s leadership on superintelligence. Everyone seems to want AI safety—except our government’s Republican leaders. This is an emergency. We should act like it.",
+      "context": "Continuation of the same statement, calling for national action and global coordination on superintelligence.",
+      "source_label": "Deluzio House press release",
+      "url": "https://deluzio.house.gov/media/press-releases/deluzio-calls-house-republicans-keep-congress-washington-dc-regulate-ai",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [],
+      "reason": "Calls AI safety and superintelligence an emergency, acknowledging serious risk in general terms without naming a catastrophic harm."
+    },
+    {
+      "date": "2026-09-12",
+      "venue": "Post on X from his campaign account (@ChrisForPA), reported by Route Fifty",
+      "quote": "Our government needs to pump the brakes and take action on AI safety and development.",
+      "context": "Reacting to AI company leaders' call for a global slowdown in AI development over the risk of humans losing control of AI systems; the post adds that America should lead the world in coordinated action for the sake of humanity.",
+      "source_label": "Route Fifty",
+      "url": "https://www.route-fifty.com/artificial-intelligence/2026/09/pennsylvania-politicians-react-calls-ai-development-slowdown/415990/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Calls for slowing AI development for safety in response to loss-of-control warnings, but the quoted words do not themselves name a catastrophic harm, so C rather than B."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "His own 12 Sep 2026 post says government 'needs to pump the brakes' on AI development, in reaction to calls for a slowdown over loss of control; he is also a co-sponsor of H.R. 10538, whose Section 8 puts advanced AI systems under a 'mandatory pause' until a new federal department issues rules.",
+      "sources": [
+        [
+          "Route Fifty, 15 Sep 2026",
+          "https://www.route-fifty.com/artificial-intelligence/2026/09/pennsylvania-politicians-react-calls-ai-development-slowdown/415990/"
+        ],
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "Co-sponsor of H.R. 10538; its mandatory pause on advanced AI lasts until the new Department of Artificial Intelligence is fully staffed and has issued rules (conditional on safety rules, so mixed under the rubric). No statement of his own on a pause found.",
+      "sources": [
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "He called for 'global coordination under America’s leadership on superintelligence' and for America to lead 'coordinated action', and H.R. 10538 Section 15 directs pursuit of international agreements, but none of these names China or pacing talks with China.",
+      "sources": [
+        [
+          "Deluzio press release, 16 Sep 2026",
+          "https://deluzio.house.gov/media/press-releases/deluzio-calls-house-republicans-keep-congress-washington-dc-regulate-ai"
+        ],
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "yes",
+      "note": "Co-sponsor of H.R. 10538 (not his own statement). Beyond banning superintelligence, the bill prohibits systems with 'superintelligence precursor characteristics', defined in Section 3(6)(A) to include 'The capacity to automate or greatly accelerate the process of artificial intelligence research and development', and its pause covers training 'including through recursive self-improvement'. Same reading as the García file; a reviewer should confirm it.",
+      "sources": [
+        [
+          "H.R. 10538 introduced text, GovInfo, 24 September 2026",
+          "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+        ]
+      ]
+    }
+  },
+  "record": [
+    [
+      "Co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (introduced by Rep. Casar), which bans artificial superintelligence and its precursor capabilities, imposes a mandatory pause on advanced AI until a new federal Department of Artificial Intelligence issues rules, and directs pursuit of international agreements.",
+      "Bill text listing 'Mr. Deluzio' as cosponsor, introduced 2026-09-24",
+      "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"
+    ],
+    [
+      "Led a letter with 110 colleagues to tech industry leaders saying they will oppose data center projects lacking labor, environmental, cost and community standards (not about catastrophic AI risk).",
+      "Deluzio press release, 18 Sep 2026",
+      "https://deluzio.house.gov/media/press-releases/deluzio-leads-110-colleagues-message-tech-industry-we-will-reject-reckless"
+    ],
+    [
+      "Co-sponsored the Reverse Big Ugly Tax Breaks for Data Centers Act, removing two tax benefits for AI data centers (not about catastrophic AI risk).",
+      "Deluzio press release, 22 Sep 2026",
+      "https://deluzio.house.gov/media/press-releases/deluzio-joins-new-push-stop-tax-giveaways-data-centers"
+    ]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "His own 16 September 2026 statement relays that AI may 'wipe out humanity' and endorses the concern ('This is an emergency. We should act like it.'), which is A under rulings 1 and 2; it is a boundary case because the extinction wording is framed as what the public is hearing, so a reviewer could reasonably grade it C. His 12 September 2026 call to 'pump the brakes' and his co-sponsorship of the Ban Artificial Superintelligence Act support at least C.",
+  "notes": "All 7 web searches in this run completed (the six required plus one on the Ban Artificial Superintelligence Act); the earlier run's searches were all refused. The searches for extinction, pause, China and 'AI safety' returned nothing about Deluzio. The 16 Sep 2026 press release was re-opened this run; it is about the 15 September letter to Speaker Johnson signed by over 100 members, so per instructions the letter itself is left out and only Deluzio's own quoted words are used. Pages were read through a page-fetch tool that summarises pages; it returned the 16 Sep quote split across lines with curly apostrophes and an unspaced em dash, so a reviewer should confirm the exact characters. The 12 Sep 2026 statement is an X post from his campaign account quoted in a Route Fifty article; the X collection may also contain it, so check for a duplicate. Its second sentence, 'America should lead the rest of the world in coordinated action for the sake of humanity.', was returned verbatim by one fetch but paraphrased by a second, so it is left out of the quote. Ban Artificial Superintelligence Act co-sponsorship confirmed in the GovInfo bill text header and FastDemocracy; the rsi 'yes' rests on the bill's definitions, not on anything Deluzio said. Also seen but not graded as catastrophic risk: the No Robot Bosses Act with Reps. Bonamici and Moylan (Dec 2025, AI in hiring), a 23 Jun 2026 Monopoly Busters Caucus release on AI-driven surveillance pricing, and his data center letters and bills (level D topics)."
+}

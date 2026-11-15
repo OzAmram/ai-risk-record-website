@@ -10,7 +10,7 @@ Senators without a hand-written record in the template get a drafted one, from t
 if present, the news search files (see classify/news_search_brief.md) and the automatic quote
 check (classify/check_news_quotes.py). The status file marks senators-elect and lame ducks.
 
-    python3 site/build.py --labels data/classify/review_queue.csv --accounts data/accounts.csv --template xrisk-record.html --out site/index.html --since "1 January 2025" --news data/news --quote-check data/news/quote_check.csv --status data/status.csv --summaries data/summaries.csv --relevance data/classify/relevance/output --map site/us_states.json --grade-overrides data/grade_overrides.csv
+    python3 site/build.py --labels data/classify/review_queue.csv --accounts data/accounts.csv --template xrisk-record.html --out site/index.html --since "1 January 2025" --news data/news --quote-check data/news/quote_check.csv --status data/status.csv --summaries data/summaries.csv --relevance data/classify/relevance/output --map site/us_states.json --grade-overrides data/grade_overrides.csv --house site/house_records.json
 
 The summaries file holds the sentence shown after each drafted record's grade. It is written by hand
 (so far by the assistant, from the statements found) and must be revised when a grade changes.
@@ -29,6 +29,7 @@ PLACEHOLDER = "const XPOSTS = {}; /*XPOSTS*/"
 SENATORS_PLACEHOLDER = "const XSENATORS = []; /*XSENATORS*/"
 STATUS_PLACEHOLDER = "const STATUS = {}; /*STATUS*/"
 MAP_PLACEHOLDER = "const STATE_PATHS = {}; /*STATE_PATHS*/"
+HOUSE_PLACEHOLDER = "const XHOUSE = []; /*XHOUSE*/"
 STATES = {"AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California", "CO": "Colorado",
           "CT": "Connecticut", "DE": "Delaware", "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho",
           "IL": "Illinois", "IN": "Indiana", "IA": "Iowa", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
@@ -51,10 +52,12 @@ parser.add_argument("--out", required=True)
 parser.add_argument("--since", required=True, help="Start of the collection period, as shown on the page")
 parser.add_argument("--news", help="Folder of news search files, one per politician")
 parser.add_argument("--quote-check", help="Output of classify/check_news_quotes.py")
+parser.add_argument("--quote-review", help="Results of the second check of quotes the automatic check missed (data/quote_review/results.csv)")
 parser.add_argument("--summaries", required=True, help="CSV with one written sentence per drafted record, shown after the grade")
 parser.add_argument("--relevance", required=True, help="Folder of relevance decisions for posts labelled D")
 parser.add_argument("--status", help="CSV marking senators-elect and lame-duck senators")
 parser.add_argument("--grade-overrides", help="CSV of grades ruled by a person, which replace the drafted grade")
+parser.add_argument("--house", help="House records written by site/house_records.py")
 parser.add_argument("--map", required=True, help="State outlines written by site/make_map.py")
 args = parser.parse_args()
 
@@ -98,6 +101,10 @@ confirmed = set()  # (link, quote) pairs whose wording the automatic check found
 if args.quote_check:
     with open(args.quote_check, newline="") as f:
         confirmed = {(r["url"], r["quote"]) for r in csv.DictReader(f) if r["result"] == "found"}
+reviewed = set()  # quotes a subagent found in the downloaded page text after the automatic check missed them
+if args.quote_review:
+    with open(args.quote_review, newline="") as f:
+        reviewed = {(r["url"], r["quote"]) for r in csv.DictReader(f) if r["result"] == "confirmed"}
 
 by_senator = collections.defaultdict(list)
 with open(args.labels, newline="") as f:
@@ -198,6 +205,7 @@ def draft_record(account, rows, found):
     stmts = []
     for st in (found["statements"] if found else []):
         checked = (1 if (st["url"], st["quote"]) in confirmed
+                   else "found on the page by a second check run by a language model" if (st["url"], st["quote"]) in reviewed
                    else "read by a language model; not confirmed by the automatic check" if st.get("read_at_source")
                    else 0)
         stmts.append([show_date(st["date"]), st["venue"], st["quote"], st["context"], st["source_label"], st["url"],
@@ -254,7 +262,13 @@ if args.status:
                 raise SystemExit(f"Unknown status: {r}")
             status[page_id[r["bioguide"]]] = {"kind": r["status"], "note": r["note"], "label": r["source_label"], "url": r["source_url"]}
 
-for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER):
+house_records = json.load(open(args.house)) if args.house else []
+if {r["id"] for r in house_records} & set(page_id.values()):
+    raise SystemExit("A House page id is the same as a Senate page id")
+for r in house_records:  # marks for representatives-elect and members not returning
+    if "status" in r:
+        status[r["id"]] = r.pop("status")
+for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER, HOUSE_PLACEHOLDER):
     if template.count(placeholder) != 1:
         raise SystemExit(f"Template must contain exactly one line: {placeholder}")
 as_js = lambda value: json.dumps(value, ensure_ascii=False).replace("</", "<\\/")
@@ -262,5 +276,6 @@ with open(args.out, "w") as f:
     f.write(template.replace(PLACEHOLDER, f"const XPOSTS = {as_js(data)};")
             .replace(SENATORS_PLACEHOLDER, f"const XSENATORS = {as_js(drafted)};")
             .replace(STATUS_PLACEHOLDER, f"const STATUS = {as_js(status)};")
+            .replace(HOUSE_PLACEHOLDER, f"const XHOUSE = {as_js(house_records)};")
             .replace(MAP_PLACEHOLDER, f"const STATE_PATHS = {open(args.map).read().strip()};"))
 print("Wrote", args.out)

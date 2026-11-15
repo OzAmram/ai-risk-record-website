@@ -1,0 +1,61 @@
+{
+  "bioguide": "D000626",
+  "member": "Warren Davidson",
+  "searches": [
+    "Warren Davidson artificial intelligence site:davidson.house.gov",
+    "Warren Davidson superintelligence",
+    "Rep. Warren Davidson AI extinction existential risk",
+    "Congressman Warren Davidson AI pause slowdown moratorium",
+    "Warren Davidson China AI agreement treaty",
+    "\"Warren Davidson\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-09-17",
+      "venue": "Op-ed posted on his official House website",
+      "quote": "Hollywood imagined rules in 2003 to keep humans safe from AI. Yet, over two decades later, Congress still has not written any rules to do the same. Even worse, many of my colleagues seem entirely unconcerned with the potential repercussions that could soon become reality.",
+      "context": "An op-ed arguing that Congress should pass comprehensive AI rules built on privacy, which closes by citing the movie I, Robot's rule that a robot may not harm a human.",
+      "source_label": "davidson.house.gov op-ed, 17 September 2025",
+      "url": "https://davidson.house.gov/media/op-eds/rep-warren-davidson-privacy-artificial-intelligence-and-congress",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He says in general terms that there are no rules to keep humans safe from AI and warns of repercussions that could soon become reality, but names no catastrophic harm, and most of the op-ed is about privacy and surveillance (which alone would be D)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development. His 2025 op-ed praises the Senate for removing a proposed 10-year moratorium on state AI regulation, which is about who regulates AI, not about pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced a FISA reform bill (Government Surveillance Reform Act, House version) that, among other things, requires warrants for search and chatbot records; it is a privacy bill, not about catastrophic AI risk.",
+      "davidson.house.gov press release, 12 March 2026",
+      "https://davidson.house.gov/media/press-releases/davidson-introduces-sweeping-fisa-reform-bill"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only statement at level C is a borderline one from a September 2025 op-ed. His 2026 mentions of AI (for example, 'Developments with AI exacerbate these problems' in an April 2026 op-ed on surveillance) are about privacy only, so by the 2026 ruling the suggested grade is D.",
+  "notes": "All required searches ran this time (7 web searches, none refused). The searches found no statement by Davidson on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China on AI, or AI safety; results for those queries were about other people (Tom Davidson, Senator Elizabeth Warren) or general topics. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): Davidson is not among the 12 cosponsors listed on FastDemocracy (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); congress.gov was not checked directly. No House letter about AI risk signed or led by him was found. The September 2025 op-ed quote was re-checked against the official page this session and matches exactly; the site also has a copy at https://davidson.house.gov/2025/9/rep-warren-davidson-privacy-artificial-intelligence-and-congress (returned 404 when fetched). From the earlier run, which read his official site directly: all 50 press releases on pages 1 to 5 of davidson.house.gov/media/press-releases (January 2025 to 10 November 2026) and all 2025 and 2026 op-eds were scanned for AI terms. Other AI mentions found, all level D: (1) the same 17 September 2025 op-ed: 'Without clear limits on how data is collected, stored, and shared, AI becomes a powerful tool for exploitation and surveillance.' (2) 2 July 2025 press release on the One Big Beautiful Bill: 'Notable progress was made—AI surveillance removed'. (3) 9 April 2026 op-ed 'Americans' Fourth Amendment rights are not for sale' (https://davidson.house.gov/media/op-eds/op-ed-americans-fourth-amendment-rights-are-not-for-sale): 'Developments with AI exacerbate these problems.' about government surveillance. (4) 12 March 2026 FISA bill release: AI appears only in the bill summary and quotes from others. A 14 April 2026 FISA amendment release was seen in search results but not checked for AI wording. The level C label on the 2025 op-ed is a borderline call; a reviewer could reasonably make it D because the op-ed is mainly about privacy. Hearing remarks and floor speeches were not searched separately beyond the queries listed."
+}

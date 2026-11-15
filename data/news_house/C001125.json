@@ -1,0 +1,61 @@
+{
+ "bioguide": "C001125",
+ "member": "Troy A. Carter",
+ "searches": [
+  "site:troycarter.house.gov artificial intelligence",
+  "\"Troy Carter\" congressman superintelligence",
+  "\"Troy Carter\" AI extinction OR \"existential risk\"",
+  "\"Troy Carter\" AI pause OR slowdown OR moratorium",
+  "\"Troy Carter\" China AI agreement OR treaty",
+  "\"Troy Carter\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-08",
+   "venue": "Press release",
+   "quote": "I'm introducing the Cybersecurity and Infrastructure Security Agency (CISA) Securing AI Task Force Act",
+   "context": "Carter and Rep. Thompson reintroduced a bill creating a task force at the Cybersecurity and Infrastructure Security Agency on AI and cybersecurity.",
+   "source_label": "House press release",
+   "url": "https://troycarter.house.gov/media/press-releases/reps-carter-thompson-reintroduce-cybersecurity-and-infrastructure-security",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About AI and cybersecurity threats and responsible AI advancement, with no catastrophic risk named."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on AI pacing.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Reintroduced, with Rep. Bennie Thompson, the CISA Securing AI Task Force Act on AI and cybersecurity.",
+   "House press release, 2026-10-08",
+   "https://troycarter.house.gov/media/press-releases/reps-carter-thompson-reintroduce-cybersecurity-and-infrastructure-security"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI statement found in 2026 concerns AI and cybersecurity threats and responsible AI advancement, without acknowledging catastrophic risk.",
+ "notes": "All seven web searches ran (the six required plus one on Ban Artificial Superintelligence Act cosponsors). None of the searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement, or AI safety returned anything by or about Rep. Troy Carter. The site search found only the CISA Securing AI Task Force Act releases (an earlier version at troycarter.house.gov/media/press-releases/congressman-carter-thompson-introduce-cisa-securing-ai-task-force-act, likely 2024, and the 8 October 2026 reintroduction). I re-opened the 8 October 2026 release this session and confirmed the quoted sentence opening and date; the page-reading tool returns quotes in segments, so his other sentence is given only in part: 'As technology advances in sophistication and use, our commitment to safeguarding against emerging threats' ... continuing that responsible AI advancement must also grow stronger (reviewer should confirm exact wording). The release mentions 'safety and national security challenges' and 'cyber risks' only generally (D under ruling 4). Official press release listing pages 0 to 4 (about 22 April to 12 November 2026) were checked; only that one release mentions AI. Releases before 22 April 2026 and 2025 were not read page by page. Ban Artificial Superintelligence Act (H.R. 10538 per a bill tracker): congress.gov cosponsor page returned HTTP 403; reported House cosponsor lists conflict across outlets (tracker: Hoyle, Lynch, Tonko; Forkast: Ocasio-Cortez plus nine unnamed; Nextgov: Whitesides, Moran). No source names Carter, but this is not proof he did not co-sponsor."
+}

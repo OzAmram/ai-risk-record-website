@@ -1,0 +1,90 @@
+{
+ "bioguide": "C001108",
+ "member": "James Comer",
+ "searches": [
+  "site:comer.house.gov artificial intelligence",
+  "James Comer superintelligence",
+  "James Comer AI extinction existential risk",
+  "James Comer AI pause moratorium slowdown",
+  "James Comer China AI agreement treaty",
+  "\"James Comer\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-26",
+   "venue": "Letter to Delaware Governor Matt Meyer, quoted in Oversight Committee press release",
+   "quote": "We are concerned that Delaware’s AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions, while also protecting non-transparent forces seeking anticompetitive regulatory capture behind state AI initiatives",
+   "context": "Comer, as Oversight Committee chairman, opened an investigation into Delaware's proposal for AI-run 'Artificial Intelligence Companies' with liability protection for their owners.",
+   "source_label": "House Oversight Committee press release",
+   "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Concerns are corporate liability, consumer harm and regulatory capture, not catastrophic risk from AI."
+  },
+  {
+   "date": "2025-05-29",
+   "venue": "Press release announcing Oversight Committee hearing",
+   "quote": "The United States is the global leader in AI, but we must never take this advantage for granted. AI powers critical defense technologies and drives innovation in industries from healthcare to manufacturing.",
+   "context": "Announcing a hearing on the federal government's adoption of AI.",
+   "source_label": "House Oversight Committee press release",
+   "url": "https://oversight.house.gov/release/comer-announces-hearing-to-examine-the-federal-governments-use-of-artificial-intelligence-technology/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes AI adoption and American leadership; no catastrophic risk acknowledged."
+  },
+  {
+   "date": "2025-07-24",
+   "venue": "Press release on the White House AI Action Plan",
+   "quote": "This Administration understands that AI represents the next frontier, and maintaining our technological edge is a critical priority in the years ahead.",
+   "context": "Comer applauded the Trump administration's 'Winning the AI Race' AI Action Plan.",
+   "source_label": "House Oversight Committee press release",
+   "url": "https://oversight.house.gov/release/oversight-committee-leaders-applaud-president-trumps-bold-plan-to-cement-americas-dominance-in-artificial-intelligence/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes AI and competitiveness; no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement, bill or letter by Comer on this policy was found in the searches or sources checked.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement, bill or letter by Comer on this policy was found in the searches or sources checked.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement, bill or letter by Comer on this policy was found in the searches or sources checked.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement, bill or letter by Comer on this policy was found in the searches or sources checked.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "As Oversight chairman, opened an investigation into Delaware's Artificial Intelligence Company proposal, asking for the state's assessment of its risks.",
+   "House Oversight Committee press release, 2026-10-26",
+   "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/"
+  ],
+  [
+   "Chaired the full-committee hearing 'The Federal Government in the Age of Artificial Intelligence' on federal AI adoption.",
+   "House Oversight Committee press release, 2025-05-29",
+   "https://oversight.house.gov/release/comer-announces-hearing-to-examine-the-federal-governments-use-of-artificial-intelligence-technology/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Comer has spoken about AI in 2026 (the Delaware AI-company investigation) and 2025, but only about liability, consumer harm, government adoption and competitiveness; no statement acknowledging catastrophic AI risk was found.",
+ "notes": "All 6 required web searches ran this time, plus 1 extra search on Ban Artificial Superintelligence Act cosponsors (7 in total). None of the searches found any statement by Comer about superintelligence, extinction, existential risk, loss of control, a pause, slowdown or moratorium on AI development, or an AI agreement with China. Ban Artificial Superintelligence Act: the House version (listed by fastdemocracy.com as H.R. 10538, introduced September 2026) was referred to the Oversight Committee, which Comer chairs; cosponsor lists seen (Hoyle, Lynch, Tonko; or Ocasio-Cortez plus other Democrats per Forkast) do not include Comer, and no source shows him sponsoring or co-sponsoring it. Congress.gov cosponsor list was not opened. Delaware AI-company investigation (2026-10-26): the press release was reopened and its quote rechecked; the letter also says Delaware's commission did not assess 'potential safety, harms, risks', but no catastrophic harm or loss of control is named, so it stays D. A secondary report says the letter describes AI agents engaging in 'any business activity'; not verified against the original letter and not used. Comer and Timmons' 2026 investigations into national security risks of US-China science and technology research sharing (oversight.house.gov, April and June 2026) are about research security, not AI risk, and are left out. comer.house.gov itself is not in the search index; earlier direct checks of its site search found no AI-related releases since 2025. The 5 June 2025 hearing transcript (govinfo CHRG-119hhrg60818) contains no mention of extinction, superintelligence, existential risk, loss of control or bioweapons. Comer and Raskin's Federal AI Governance and Transparency Act (H.R. 7532) dates from March 2024, before the period covered, so it is left out. Oversight Committee releases are issued by Comer as chairman; quotes are attributed to him by name. Large House letters were not searched, per instructions."
+}

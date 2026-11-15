@@ -1,0 +1,37 @@
+{
+ "bioguide": "B000490",
+ "member": "Sanford D. Bishop, Jr.",
+ "searches": [
+  "Bishop artificial intelligence (restricted to bishop.house.gov)",
+  "Sanford Bishop superintelligence",
+  "Sanford Bishop AI extinction existential risk",
+  "Sanford Bishop AI pause slowdown moratorium",
+  "Sanford Bishop China AI agreement treaty",
+  "\"Sanford Bishop\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors list House"
+ ],
+ "statements": [
+  {"date": "2026-02-27",
+   "venue": "Press release",
+   "quote": "I am pleased to work with Congressman Franklin through this legislation to harness the power of our 1862 and 1890 land-grant institutions to explore how mechanized harvesting and artificial intelligence can help improve U.S. agriculture.",
+   "context": "Bishop and Rep. Scott Franklin reintroduced the Land Grant Research Prioritization Act (H.R. 7734) to give land-grant universities access to USDA grant funding for research including artificial intelligence in agriculture.",
+   "source_label": "bishop.house.gov press release",
+   "url": "https://bishop.house.gov/media-center/press-releases/bishop-franklin-introduce-bill-to-strengthen-agricultural-research-innovation",
+   "read_at_source": true,
+   "level": "D",
+   "flags": ["bill_or_action"],
+   "reason": "He promotes using artificial intelligence in agricultural research and does not mention any catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Co-led with Rep. Scott Franklin the reintroduced Land Grant Research Prioritization Act (H.R. 7734), funding agricultural research including artificial intelligence.", "bishop.house.gov press release, 2026-02-27", "https://bishop.house.gov/media-center/press-releases/bishop-franklin-introduce-bill-to-strengthen-agricultural-research-innovation"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only statement on AI found since January 2025 is a February 2026 press release promoting artificial intelligence research for agriculture, which does not acknowledge catastrophic risk. Nothing at levels A, B, C or F was found.",
+ "notes": "Seven web searches ran; none was refused. Results for Bishop and AI were thin, so the search may be incomplete; several results concerned other people named Bishop (John Mark Bishop, a UK bishop), which were ignored. The same agricultural AI quote also appears in a 21 June 2023 release for the earlier version of the bill (outside the time range). Ban Artificial Superintelligence Act (H.R. 10538, Rep. Casar, September 2026): no source found shows Bishop as sponsor or cosponsor; the Congress.gov cosponsor page returned HTTP 403 and could not be checked, and the third-party lists found were incomplete. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). His press release archive was not browsed page by page."
+}

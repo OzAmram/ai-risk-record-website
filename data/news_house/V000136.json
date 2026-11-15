@@ -1,0 +1,84 @@
+{
+ "bioguide": "V000136",
+ "member": "Gabe Vasquez",
+ "searches": [
+  "Gabe Vasquez artificial intelligence (restricted to vasquez.house.gov)",
+  "\"Gabe Vasquez\" \"AI safety\"",
+  "\"Vasquez\" superintelligence congressman New Mexico",
+  "Gabe Vasquez AI extinction existential risk",
+  "Gabe Vasquez AI pause slowdown moratorium",
+  "Gabe Vasquez China AI agreement treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors Vasquez"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-15",
+   "venue": "Letter to Speaker Mike Johnson signed by 107 House members",
+   "quote": "to address the catastrophic risks posed by advanced artificial intelligence. Those risks take any of several forms, separately and in combination—of agentic misalignment, mass cybersecurity breaches, and development of biological or chemical weapons.",
+   "context": "Letter urging the Speaker to keep the House in session until Congress advances AI safeguards; Vasquez is a signer.",
+   "source_label": "Letter PDF linked from Vasquez press release",
+   "url": "https://vasquez.house.gov/sites/evo-subsites/vasquez.house.gov/files/evo-media-document/quill-letter-l39292-letter-to-johnson-on-ai-safety-version-5-09-16-2026-09-38-am-compressed.pdf",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter says advanced AI poses catastrophic risks including agentic misalignment, not only misuse by people, without extinction framing."
+  },
+  {
+   "date": "2026-09-16",
+   "venue": "Press release",
+   "quote": "It’s clear there is great risk in the continued development of super intelligence with no guardrails, and Speaker Johnson and the President refuse to act responsibly and decisively,",
+   "context": "Vasquez criticizing House leadership for recessing without acting on AI regulation and announcing support for the FRONTIER Act.",
+   "source_label": "House press release",
+   "url": "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-takes-action-curb-catastrophic-risks-posed-rapid-ai",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [],
+   "reason": "In his own words he acknowledges serious risk from developing superintelligence without guardrails, but names no catastrophic consequence."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement for or against slowing frontier AI. The cosigned letter cites frontier-company employees calling to 'deliberately pace the frontier' as evidence of urgency but does not itself call for pacing. His Grant County data center moratorium support is about local water, power, pollution and transparency, so it does not count. The FRONTIER Act he backs would let the Commerce Secretary suspend a model posing imminent catastrophic risk; that is a narrow emergency power, not a general slowdown, so left as none for the reviewer to judge.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on AI pacing; representatives were not on the 23 September 2026 senators' letter.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Signed the 15 September 2026 letter by 107 House members urging Speaker Johnson to keep the House in session to address catastrophic risks from advanced AI (led by Rep. Sam Liccardo, listed first).",
+   "Letter PDF, 2026-09-15",
+   "https://vasquez.house.gov/sites/evo-subsites/vasquez.house.gov/files/evo-media-document/quill-letter-l39292-letter-to-johnson-on-ai-safety-version-5-09-16-2026-09-38-am-compressed.pdf"
+  ],
+  [
+   "Announced backing for H.R. 9925, the bipartisan FRONTIER Act (safety plans, independent audits, catastrophic-risk assessments, power to suspend a frontier model posing imminent catastrophic risk); whether he is a formal co-sponsor was not confirmed because congress.gov refused the page.",
+   "Vasquez press release, 2026-09-16",
+   "https://vasquez.house.gov/media/press-releases/rep-gabe-vasquez-takes-action-curb-catastrophic-risks-posed-rapid-ai"
+  ],
+  [
+   "Not listed among co-sponsors of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, on FastDemocracy (list may be incomplete).",
+   "FastDemocracy, checked 2026-11-12",
+   "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+  ]
+ ],
+ "suggested_grade": "B",
+ "grade_reason": "The strongest 2026 evidence is a letter he signed (15 September 2026) stating advanced AI poses catastrophic risks including agentic misalignment, which is B and not misuse-only. His own words in the 16 September 2026 press release reach only C; no dismissive statement was found.",
+ "notes": "Seven web searches ran (all succeeded); search was otherwise complete per the brief. The B rests on a cosigned letter, not his own words; a reviewer may prefer C if cosigned letters should weigh less. The press release's office-written text (not a direct quote) says the actions come amid warnings about 'the risks powerful AI systems pose to humankind'; left out as it is staff narration relaying others' warnings. The letter also says inaction will look 'inexplicable and unforgivable' to children reading 'a post-apocalyptic history' — rhetorical, not used. FRONTIER Act co-sponsorship could not be verified on congress.gov (HTTP 403). Other AI items on his site are about data centers (costs, local impact, labor) and a March 2026 letter to Defense Secretary Hegseth on AI in military targeting, all level D and not included. The letter PDF was read via text extraction; its line breaks were joined with single spaces in the quote."
+}

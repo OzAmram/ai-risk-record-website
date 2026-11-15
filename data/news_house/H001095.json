@@ -1,0 +1,24 @@
+{
+  "bioguide": "H001095",
+  "member": "Wesley Hunt",
+  "searches": [
+    "Wesley Hunt artificial intelligence site:hunt.house.gov",
+    "Rep. Wesley Hunt \"AI safety\"",
+    "Wesley Hunt superintelligence",
+    "Wesley Hunt AI existential risk extinction",
+    "Wesley Hunt AI pause moratorium slowdown",
+    "Wesley Hunt China AI agreement treaty",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement by Hunt on slowing AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement by Hunt on pausing AI development was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement by Hunt on coordinating with China on AI was found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement by Hunt on banning self-improving AI was found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "All seven web searches and his official press releases turned up no statement by Wesley Hunt about AI at all, and nothing about catastrophic AI risk.",
+  "notes": "Seven web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act); none were refused, so the search is complete as the brief defines it. None of the results contained any statement by Hunt about AI. Hunt is listed on the House Judiciary subcommittee covering AI; I opened the full transcript of its 18 September 2025 hearing 'AI at a Crossroads: A Nationwide Strategy or Californication?' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm) and he does not speak in it. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): sources found name only Democratic cosponsors (about 9-10, lists not fully consistent) and none names Hunt; the official congress.gov cosponsor list was not opened (it returned HTTP 403 in the earlier attempt), so his non-cosponsorship is not confirmed from the official record. From the earlier attempt (kept): hunt.house.gov press release listings from 22 May 2025 to 10 February 2026 show no AI-related titles or summaries; I reopened page 1 this time and it still ends at 10 February 2026, so any later 2026 releases were not visible there. Full texts of releases were not opened. No House AI-risk letter of his own was found."
+}

@@ -1,0 +1,23 @@
+{"bioguide": "R000610", "member": "Guy Reschenthaler",
+ "searches": [
+  "site:reschenthaler.house.gov artificial intelligence",
+  "Guy Reschenthaler superintelligence",
+  "Reschenthaler AI existential risk extinction",
+  "Reschenthaler AI pause moratorium slowdown",
+  "Reschenthaler China AI agreement treaty",
+  "\"Reschenthaler\" \"AI safety\"",
+  "Guy Reschenthaler artificial intelligence 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Reschenthaler about AI, AI risk or AI policy was found in eight web searches or in the official press release list.",
+ "notes": "All 8 web searches ran (none refused). None of the results mentioned Reschenthaler; the site: search returned no pages from reschenthaler.house.gov. The official site search page (https://reschenthaler.house.gov/search?q=artificial+intelligence) returned HTTP 403 and could not be opened. From the earlier attempt (still valid): https://reschenthaler.house.gov/media/press-releases was opened directly (20 most recent items, 22 May 2025 to 11 Nov 2026) and none of the titles concern AI; the 3 July 2025 One Big Beautiful Bill statement and the 24 February 2026 State of the Union statement were opened and neither mentions AI. Older press releases, hearing transcripts and floor speeches were not checked page by page. Ban Artificial Superintelligence Act (H.R. 10538, Casar, September 2026): search results describe its roughly 9 to 10 House cosponsors as Democrats and none names Reschenthaler; this was not confirmed against the congress.gov cosponsor list, so absence of co-sponsorship is likely but not verified. No House letter on AI risk signed by him was found (the multi-signer August and September 2026 letters were not searched, per instructions)."
+}

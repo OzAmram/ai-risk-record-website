@@ -1,0 +1,24 @@
+{
+  "bioguide": "T000491",
+  "member": "Derek Tran",
+  "searches": [
+    "Derek Tran artificial intelligence (restricted to tran.house.gov)",
+    "Rep. Derek Tran superintelligence",
+    "Derek Tran AI extinction existential risk",
+    "Derek Tran AI pause slowdown moratorium",
+    "Derek Tran China AI agreement treaty",
+    "\"Derek Tran\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Tran"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found in news coverage or on tran.house.gov since January 2025, so there is nothing to grade.",
+  "notes": "All 7 searches ran; none was refused. The site search found Tran's office hosting a copy of the 15 September 2026 letter to Speaker Johnson asking the House to stay in session on AI risks; that is one of the centrally handled multi-signer letters, so it is left out here as instructed. Other AI-adjacent items seen in search summaries but not his own statements on AI risk: an FY27 community project funding request for a CSU Fullerton workforce hub that includes training AI practitioners, a 2025 Congressional App Challenge announcement, and a reported vote for the Ratepayer Protection Act (H.R. 9340) on data center grid costs (not verified at source). No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538); the congress.gov cosponsor page returned HTTP 403 and could not be checked directly, and search results gave conflicting cosponsor lists that did not include him. Opened tran.house.gov press releases (page 1 of 25, 12 Nov to 30 Sep 2026) and In the News (page 1): no AI items. Older press release pages were not opened, so earlier AI remarks on his site could have been missed. Search results for the risk-topic queries mostly returned unrelated people (for example a 'Vu Tran' formerly at Meta), not this representative."
+}

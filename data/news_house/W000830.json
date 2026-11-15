@@ -1,0 +1,43 @@
+{"bioguide": "W000830", "member": "George Whitesides",
+ "searches": [
+  "site:whitesides.house.gov artificial intelligence",
+  "George Whitesides superintelligence",
+  "Rep. George Whitesides AI extinction existential risk",
+  "George Whitesides AI pause slowdown moratorium",
+  "George Whitesides China AI agreement treaty",
+  "\"George Whitesides\" \"AI safety\""
+ ],
+ "statements": [
+  {"date": "2026-09-15", "venue": "Washington Post op-ed (key points republished on his House site)",
+   "quote": "During those 30 days, experts from the companies should work with independent experts appointed by the government to accomplish one goal: agree on red lines for existential risks and recursive self-improvement, and mechanisms to monitor and verify.",
+   "context": "Op-ed \"How to keep AI from going rogue? Start with a 30-day stand-down\", proposing that frontier AI companies pause work on their most advanced models for 30 days.",
+   "source_label": "whitesides.house.gov (ICYMI release reprinting the op-ed's key points)", "url": "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/",
+   "read_at_source": true, "level": "A", "flags": ["boundary"],
+   "reason": "Names existential risks from AI as something requiring red lines, which is extinction-level framing; boundary with B because it is stated as a policy goal rather than a direct claim."},
+  {"date": "2026-09-15", "venue": "Washington Post op-ed (key points republished on his House site)",
+   "quote": "The people building this technology put the odds of catastrophe somewhere between 1 in 100 and a coin flip. You would not board a plane that had those odds of survival.",
+   "context": "Arguing that frontier AI companies should hold a 30-day safety stand-down, using an aviation analogy.",
+   "source_label": "whitesides.house.gov (ICYMI release reprinting the op-ed's key points)", "url": "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/",
+   "read_at_source": true, "level": "B", "flags": ["relayed_warning", "boundary"],
+   "reason": "Relays AI developers' estimates of the odds of catastrophe and endorses them through the plane analogy; boundary with A because it speaks of odds of survival."},
+  {"date": "2026-08-29", "venue": "Press release introducing the Self-Improving AI Monitoring Act",
+   "quote": "When you take humans out of the driver’s seat and let machines train machines, small glitches can snowball into major security risks fast. Today, Washington is essentially flying blind on how fast this handoff is happening.",
+   "context": "Introducing a bipartisan bill with Rep. Pat Harrigan, headlined as reducing the risk of superintelligent AI, that directs the Center for AI Standards and Innovation to monitor AI systems that develop later AI models on their own.",
+   "source_label": "whitesides.house.gov press release", "url": "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems",
+   "read_at_source": true, "level": "C", "flags": ["bill_or_action", "boundary"],
+   "reason": "Acknowledges serious but general risks from self-improving AI without naming a catastrophic consequence; boundary with D since the harm named is security risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "yes", "note": "His 15 September 2026 op-ed calls for frontier AI companies to pause work on their most advanced models for 30 days for safety reasons, which counts as yes under the rubric.", "sources": [["whitesides.house.gov ICYMI release of Washington Post op-ed, 2026-09-15", "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/"]]},
+  "pause": {"value": "yes", "note": "Op-ed says companies \"should conduct a safety stand down together and pause work on their most advanced models for 30 days\"; the pause is voluntary and limited to one month, so a reviewer may prefer mixed.", "sources": [["whitesides.house.gov ICYMI release of Washington Post op-ed, 2026-09-15", "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/"]]},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on pacing or pausing AI; the op-ed mentions the race-with-China concern only as a reason to prefer a voluntary pause.", "sources": []},
+  "rsi": {"value": "mixed", "note": "Op-ed calls for red lines on recursive self-improvement, which Congress would then turn into law; his Self-Improving AI Monitoring Act only monitors such systems and does not ban them.", "sources": [["whitesides.house.gov ICYMI release of Washington Post op-ed, 2026-09-15", "https://whitesides.house.gov/2026/09/15/icymi-rep-whitesides-calls-for-industry-wide-safety-stand-down-on-frontier-ai-development-in-washington-post-op-ed/"], ["whitesides.house.gov press release, 2026-08-29", "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems"]]}
+ },
+ "record": [
+  ["Introduced the bipartisan Self-Improving AI Monitoring Act with Rep. Pat Harrigan, directing the Center for AI Standards and Innovation to monitor AI systems that autonomously develop later AI models and to test frontier models for autonomous AI research ability.", "whitesides.house.gov press release, 2026-08-29", "https://whitesides.house.gov/2026/08/29/rep-whitesides-introduces-bipartisan-bill-to-reduce-the-risk-of-superintelligent-ai-by-monitoring-self-improving-ai-systems"],
+  ["Wrote a Washington Post op-ed calling for a voluntary 30-day safety stand-down by frontier AI companies to set red lines for existential risks and recursive self-improvement.", "Washington Post op-ed, 2026-09-15", "https://www.washingtonpost.com/opinions/2026/09/15/anthropic-openai-other-ai-firms-should-stand-down-30-days/"],
+  ["Amendment to H.R. 9363, AI Security and Innovation Act, tasking the Center for AI Standards and Innovation with assessing trends in autonomous AI research and development; passed by voice vote in House Science Committee markup.", "House Science Committee markup, 2026-06-25", "https://science.house.gov/2026/6/full-committee-markup-of-h-r-9341-9363-2385-5351-5584-6461-8893-9333-9334-and-9372"]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "His 2026 op-ed calls for red lines on existential risks from AI and endorses developers' estimates of the odds of catastrophe; the A rests on the phrase \"existential risks\", so B is a defensible alternative. No dismissive statements found.",
+ "notes": "All six searches ran; none was refused. Quotes were read through a fetch tool that returns at most about 120 characters of exact text at a time, so the longer quotes were assembled from consecutive exact windows of the same passage; a reviewer should spot-check them against the pages, including the curly apostrophe in driver’s. The op-ed quotes come from the excerpt on his House site, not the Washington Post page itself (not opened, likely paywalled). The 29 August release shows no date on the page; the date comes from its URL and a capitolreleases.com capture. Left out: the opening of the same release quote (\"Just in the past few months, we have seen AI systems break out of their testing environments and threaten the security of entire systems\"), which names only a security harm (D under ruling 4). He also proposed a \"one-month global AI safety stand-down\" in a 15 September 2026 X post and a NewsNation interview, seen only through a Digg aggregator page; not included because X is searched separately and the interview was not opened. No source found showing he co-sponsored the Ban Artificial Superintelligence Act or led any House AI-risk letter. Also on record but not about catastrophic risk: the Understanding AI in the Classroom Act (4 August 2026)."}

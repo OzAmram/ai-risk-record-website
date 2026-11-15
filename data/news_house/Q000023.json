@@ -1,0 +1,53 @@
+{
+  "bioguide": "Q000023",
+  "member": "Mike Quigley",
+  "searches": [
+    "Quigley artificial intelligence (restricted to quigley.house.gov)",
+    "Mike Quigley superintelligence",
+    "Rep. Mike Quigley AI extinction existential risk",
+    "Mike Quigley AI pause slowdown moratorium",
+    "Mike Quigley China AI agreement treaty",
+    "\"Mike Quigley\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Quigley"
+  ],
+  "statements": [
+    {
+      "date": "2025-07-23",
+      "venue": "Press release",
+      "quote": "Trump's use of an AI-generated video of President Obama was deeply unsettling.",
+      "context": "Quigley criticized an AI-generated video of President Obama posted by President Trump, in a statement mainly about Russian interference in the 2016 election.",
+      "source_label": "Quigley press release",
+      "url": "https://quigley.house.gov/media-center/press-releases/quigley-statement-trumps-attempt-rewrite-history-promote-obama-and",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The statement is about a deepfake video and does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only statement in his own words about AI found since January 2025 is a July 2025 press release calling an AI-generated video of President Obama deeply unsettling, which is level D. No statement about catastrophic AI risk, and no 2026 statement about AI, was found.",
+  "notes": "All seven web searches ran (the six required ones plus one on the Ban Artificial Superintelligence Act). None of the searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement, or his name with \"AI safety\" returned anything by or about Mike Quigley; results were about other members (for example Speaker Mike Johnson, Ro Khanna, Ted Lieu). Ban Artificial Superintelligence Act (H.R. 10538): no source names him as a co-sponsor, but this is not confirmed either way. Reports say it has 9 House co-sponsors without listing them; the Congress.gov co-sponsor page returned 403 and a QuiverQuant summary does not list names. A reviewer should check the Congress.gov list. Earlier (in the previous, interrupted run) the first two pages of his official press releases (20 releases, 8 April to 9 November 2026) were opened directly: none has a title or summary about AI. Two are about defense technology (16 October 2026 Quigley-Costa bill on defense innovation with Ukraine; 30 June 2026 Strategic Unmanned Systems Partnership Act) and were not opened; any AI mention there would be military use, level D under ruling 3. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). The quote's apostrophe was copied from the fetched page text; the page may use a curly apostrophe. An older SEC oversight hearing release mentioning AI and retail investors appeared in search results but predates 2025 and was not included."
+}

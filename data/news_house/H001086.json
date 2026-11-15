@@ -1,0 +1,75 @@
+{
+  "bioguide": "H001086",
+  "member": "Diana Harshbarger",
+  "searches": [
+    "Harshbarger artificial intelligence (restricted to harshbarger.house.gov)",
+    "Diana Harshbarger superintelligence",
+    "Harshbarger AI extinction existential risk",
+    "Harshbarger AI pause slowdown moratorium",
+    "Harshbarger China AI agreement treaty",
+    "\"Harshbarger\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-18",
+      "venue": "Press release",
+      "quote": "AI and High-Performance Computing can help us cut through that by optimizing how we operate existing infrastructure and getting more out of every line and generator.",
+      "context": "Introducing the Affordable Innovation for the Grid Act with Rep. Kevin Mullin, directing the Energy Department to assess how AI can speed grid interconnection studies.",
+      "source_label": "House press release",
+      "url": "https://harshbarger.house.gov/media/press-releases/harshbarger-mullin-introduce-legislation-deploy-ai-smarter-more-efficient",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes using AI to improve the power grid and does not acknowledge any catastrophic risk from AI."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "Press release",
+      "quote": "Understanding how AI and HPCs can help our bulk-power system run on full power will be critical to ensuring affordable rates for the long term.",
+      "context": "Statement after the House passed H.R. 9339, the Affordable Innovation for the Grid Act.",
+      "source_label": "House press release",
+      "url": "https://harshbarger.house.gov/media/press-releases/harshbargers-affordable-innovation-grid-act-passes-us-house",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Discusses AI as a tool for grid efficiency and electricity rates, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored H.R. 9339, the Affordable Innovation for the Grid Act, directing the Energy Secretary to assess how AI and high-performance computing can strengthen the bulk-power system; passed the House.",
+      "House press releases, 18 June 2026 and 15 September 2026",
+      "https://harshbarger.house.gov/media/press-releases/harshbargers-affordable-innovation-grid-act-passes-us-house"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her 2026 remarks on AI are about using it to improve the power grid and keep electricity rates down; none acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran, plus one on the Ban Artificial Superintelligence Act (7 in total). The official-site search returned only the AI-for-the-grid press release (18 June 2026), a 18 September 2026 release on two bills that does not mention AI (read in full), and a bill-text PDF from her site that defines artificial intelligence in the context of automated driving systems; that PDF could not be read by the fetch tool, so its title and status are unconfirmed and it is not recorded. The searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement, and AI safety returned nothing about her. She is not among the cosponsors of the House Ban Artificial Superintelligence Act (H.R. 10538) listed on FastDemocracy (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), checked 14 November 2026; that list may not be final. An earlier attempt opened her press release listing directly (pages 0 to 2, 8 June to 9 November 2026); only the grid bill and its House passage statement were about AI, and both were read in full. Press releases before 8 June 2026, hearing remarks and interviews were not checked one by one beyond what the searches returned."
+}

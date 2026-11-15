@@ -1,0 +1,52 @@
+{
+  "bioguide": "G000558",
+  "member": "Brett Guthrie",
+  "searches": [
+    "Guthrie artificial intelligence (restricted to guthrie.house.gov)",
+    "Brett Guthrie superintelligence",
+    "Brett Guthrie AI extinction existential risk",
+    "Brett Guthrie AI pause slowdown moratorium",
+    "Brett Guthrie China AI agreement treaty",
+    "\"Guthrie\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-01",
+      "venue": "House Energy and Commerce Committee press release (statement as committee chairman)",
+      "quote": "With advances in AI and synthetic biology, bad actors and foreign adversaries of the U.S. already possess enhanced access to scientific research information.",
+      "context": "Statement on a Government Accountability Office report finding that federal agencies' disposal of high-risk laboratory equipment exposed the U.S. to a severe bioterrorism threat; the next sentence says such equipment 'could supercharge nefarious plots'.",
+      "source_label": "House Energy and Commerce Committee press release, 1 October 2026",
+      "url": "https://energycommerce.house.gov/posts/watchdog-report-requested-by-e-and-c-leaders-finds-disposal-of-high-risk-laboratory-equipment-by-hhs-usda-gsa-exposed-u-s-to-severe-bioterrorism-threat",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["misuse_only", "boundary"],
+      "reason": "He ties AI advances to bad actors' greater ability to pursue bioterror plots, a catastrophic harm limited to misuse by people, so C under the misuse-only ruling; it is a passing clause in a statement about lab equipment, so D is also defensible."
+    },
+    {
+      "date": "2026-04-29",
+      "venue": "Opening statement at Energy Subcommittee hearing \"AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers\"",
+      "quote": "The national security issues with AI and adversarial nations like China and having whose values control AI is vitally important.",
+      "context": "Prepared remarks at a hearing on electricity demand from AI data centers, summarising the committee's work on AI.",
+      "source_label": "Guthrie House press release, 29 April 2026",
+      "url": "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391028",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Competition with China and who controls AI, with no catastrophic harm from AI named, is D under rulings 4 and 5."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development for safety reasons. His 2025 support for a moratorium on state AI laws and his 2026 opposition to data center moratoria are not about slowing frontier AI for safety, so they do not count.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; his 2026 remarks frame China as a rival in an AI race.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["As Energy and Commerce chairman, released budget reconciliation text with a 10-year moratorium on enforcement of state AI laws (passed committee; later dropped in the Senate).", "IAPP, May 2025", "https://iapp.org/news/a/house-commerce-committee-floats-10-year-moratorium-on-state-level-ai-enforcement"],
+    ["With Reps. Joyce and Latta, asked the President's science advisory council and the FBI to investigate foreign influence campaigns allegedly slowing U.S. AI progress and blocking data center construction.", "Guthrie House press release, 4 June 2026", "https://guthrie.house.gov/news/documentsingle.aspx?DocumentID=391066"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His strongest 2026 statement (1 October 2026) links AI and synthetic biology to bad actors' access to bioterror capabilities, which is C with the misuse-only flag. It is a single passing clause, so a reviewer could reasonably grade him D.",
+  "notes": "All six required web searches ran this time, plus one extra on the Ban Artificial Superintelligence Act; none found a statement by Guthrie about superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. Both quotes were re-checked on 14 November 2026 against the raw text of the source pages and match exactly. Paraphrases left out: Crypto Briefing (16 September 2026) reports, without direct quotes, that at POLITICO's Decoded Summit he doubted his committee would take up the Great American AI Act (which has catastrophic-risk disclosure provisions) before the midterms and stressed AI leadership against China over regulation; Broadband Breakfast and Law360 report his 2025 support for the state AI law moratorium and a national standard. The 4 June 2026 release calls Senator Sanders's AI Data Center Moratorium Act 'disastrous', but that wording is in the release's background text, not clearly his own words, and that bill is about data centers, so it is not treated as a slowdown position or a dismissal. Other AI material seen, not included: his 9 March 2026 op-ed and 5 March 2026 remarks on the KIDS Act mention AI chatbots and children's online safety (D, out of scope). The 1 October 2026 release cites a 17 December 2025 Oversight subcommittee hearing on AI, biotechnology and biosecurity whose remarks were not located. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): search results list only Democratic cosponsors and no source shows Guthrie as sponsor or cosponsor; congress.gov was not checked directly (it returned 403 in the earlier attempt). No House letter on AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

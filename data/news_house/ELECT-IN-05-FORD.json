@@ -1,0 +1,24 @@
+{"bioguide": "ELECT-IN-05-FORD", "member": "J.D. Ford",
+ "searches": [
+  "\"J.D. Ford\" Indiana artificial intelligence",
+  "\"J.D. Ford\" AI safety Congress 5th district",
+  "J.D. Ford superintelligence OR \"artificial general intelligence\"",
+  "J.D. Ford Indiana AI extinction OR existential risk",
+  "J.D. Ford AI pause OR moratorium OR slowdown data centers Indiana senator",
+  "J.D. Ford China AI agreement OR treaty",
+  "\"Ford\" congress campaign Indiana 5th district 2026 AI"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI. His data center bills are about local control and ratepayer costs, not risks from AI itself.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["As an Indiana state senator, introduced Senate Bill 135 (2025) and Senate Bill 79 (2026 session) to give communities control over whether and when data centers are built and to keep costs off ratepayers.", "Larry in Fishers, 2026-09-10 report on a campaign release", "https://www.larryinfishers.com/2026/09/10/ford-spartz-indiana-data-center-debate/"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "In 2026 he spoke about AI only in terms of data centers (local control, electricity costs) and criticized Rep. Spartz's vote for a provision limiting state and local AI regulation; nothing found on catastrophic risk.",
+ "notes": "Seven web searches ran, none refused. The only AI-related material found is a 2026-09-10 Larry in Fishers article on a Ford campaign release criticizing Rep. Victoria Spartz on data centers. The page-fetch tool returned only fragments of his quotation (e.g. 'Congresswoman Spartz is not serious about this issue', 'putting communities in control of whether and when data centers are built'), not one continuous passage, so no statement was recorded; it would be level D anyway. His criticism of the federal limit on state and local AI regulation is a paraphrase in the article and was left out. An Indiana Chamber page (undated in the search result) lists 'J.D. Ford (D-Indianapolis)' as a legislative member of a state AI taskforce created by SB 150, probably 2024; not opened and outside the period. He was not a member of Congress, so he could not have co-sponsored the Ban Artificial Superintelligence Act; no House letter found. Campaign website not located (jdford.com is an unrelated Dallas firm)."
+}

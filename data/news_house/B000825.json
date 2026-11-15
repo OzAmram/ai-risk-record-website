@@ -1,0 +1,37 @@
+{
+  "bioguide": "B000825",
+  "member": "Lauren Boebert",
+  "searches": [
+    "Boebert artificial intelligence (restricted to boebert.house.gov)",
+    "Lauren Boebert superintelligence",
+    "Boebert AI extinction existential risk",
+    "Boebert AI pause slowdown moratorium",
+    "Boebert China AI agreement treaty",
+    "\"Boebert\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors (refused: shared search limit reached)"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-28",
+      "venue": "Op-ed in The Washington Times, reposted on her House website",
+      "quote": "Amid the constant debate over artificial intelligence “guardrails,” the first and most essential is simple.",
+      "context": "She argues that the first AI guardrail should be that federal government software is developed and managed by Americans on U.S. soil, not outsourced overseas.",
+      "source_label": "boebert.house.gov (Washington Times op-ed)",
+      "url": "https://boebert.house.gov/media/editorial/washington-times-onshore-federal-governments-digital-infrastructure",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The op-ed is about AI guardrails and onshoring government software, and does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only substantial 2026 remarks on AI (an October 2026 op-ed on onshoring federal software as the first AI guardrail) do not acknowledge catastrophic risk. No A, B, C or F statement was found.",
+  "notes": "Seven web searches were attempted; six ran and the seventh (Ban Artificial Superintelligence Act House cosponsors) was refused because the shared search limit was used up, so the search is incomplete. Whether she co-sponsored the Ban Artificial Superintelligence Act was not checked; no source seen shows her as a sponsor or cosponsor. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). The page fetch tool limited verbatim excerpts, so only one short exact quote from the Washington Times op-ed is recorded; the op-ed also says 'While policymakers debate AI regulations, ethics boards, and safety frameworks, we must have a north star: American-made' (truncated by the tool) and calls for AI and technical literacy in school curricula. Her 1 September 2026 Daily Caller op-ed on license plate readers and surveillance (https://boebert.house.gov/media/editorial/boebert-surveillance-every-corner-not-freedom, opened) mentions AI only as Hong Kong police's AI facial-recognition tools; that is surveillance, level D at most, and was left out. An Axios Denver article of 17 September 2026 on Colorado lawmakers and AI safeguards reportedly says Boebert did not respond to a request for comment (seen in search results only; the page returned 403). Her press release list was not paged through beyond what the site-restricted search returned."
+}

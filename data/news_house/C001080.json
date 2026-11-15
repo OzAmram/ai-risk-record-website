@@ -1,0 +1,22 @@
+{"bioguide": "C001080", "member": "Judy Chu",
+ "searches": [
+  "site:chu.house.gov artificial intelligence",
+  "Judy Chu superintelligence",
+  "Judy Chu AI extinction existential risk",
+  "Judy Chu AI pause slowdown moratorium",
+  "Judy Chu China AI agreement treaty",
+  "\"Judy Chu\" \"AI safety\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement or action by Rep. Chu on slowing frontier AI development was found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement or action by Rep. Chu on pausing frontier AI development was found. Her co-sponsorship of the GUARDRAILS Act is about state AI laws, not a pause of AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement or action by Rep. Chu on coordinating with China on the pace of AI development was found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement or action by Rep. Chu on banning self-improving AI was found.", "sources": []}
+ },
+ "record": [
+  ["Co-sponsor of the GUARDRAILS Act, which would block the Trump executive order limiting state AI laws and let states keep AI safeguards until Congress sets federal standards; about who regulates AI, not catastrophic risk.", "Rep. Matsui press release, 2026-03-20", "https://matsui.house.gov/media/press-releases/matsui-beyer-lieu-jacobs-mcclain-delaney-introduce-legislation-repeal-white"]
+ ],
+ "suggested_grade": "none",
+ "grade_reason": "No statement in Rep. Chu's own words about AI was found since 1 January 2025, so there is nothing to grade. Her only AI-related item is co-sponsoring the GUARDRAILS Act on state AI laws (March 2026), which does not address catastrophic risk.",
+ "notes": "All six web searches ran; none were refused. None of the searches returned a statement by Chu about AI. The site-restricted search returned no chu.house.gov pages, and the chu.house.gov search page returned 403 Forbidden. The first page of her press releases (5 October to 5 November 2026) had nothing on AI; later pages were not checked, so the review of her official site is incomplete. She was not named as a co-sponsor of the Ban Artificial Superintelligence Act: Casar's press release names only Casar and Sanders, and no co-sponsor list was found. The Axios page on that bill returned 403. A search result on a September 2025 Chu and Hirono letter about the China Initiative is about research security, not AI, so it is left out. An AIP page titled 'judy chu' appeared in one search but was not opened. The question is whether to treat the GUARDRAILS co-sponsorship as AI activity and grade D. I followed the convention in other files, which give 'none' when the only AI items are co-sponsorships."}

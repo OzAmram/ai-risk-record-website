@@ -1,0 +1,24 @@
+{
+  "bioguide": "C001055",
+  "member": "Ed Case",
+  "searches": [
+    "Ed Case artificial intelligence (restricted to case.house.gov)",
+    "Rep. Ed Case Hawaii superintelligence",
+    "\"Ed Case\" congressman AI extinction OR \"existential risk\"",
+    "\"Ed Case\" AI pause OR slowdown OR moratorium 2026",
+    "\"Ed Case\" China AI agreement OR treaty OR talks",
+    "\"Ed Case\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors list"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade. All seven web searches ran and none turned up an AI risk statement by him.",
+  "notes": "This re-run replaces an earlier attempt in which every web search was refused; this time all seven searches listed ran (the six required ones plus one on the Ban Artificial Superintelligence Act cosponsors). Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar in September 2026): the fastdemocracy.com cosponsor page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Ed Case is not among them; the Congress.gov cosponsor page returned HTTP 403 and could not be checked. AI mentions on his official site since 2025 are project descriptions, not his own words: his 13 May 2026 release opposing the fiscal year 2027 Commerce-Justice-Science funding bill (https://case.house.gov/news/documentsingle.aspx?DocumentID=4906) and his 19 June 2026 community project funding release (https://case.house.gov/news/documentsingle.aspx?documentid=4941) both describe funding for an Applied Artificial Intelligence Cybersecurity Research Laboratory at Hawai'i Pacific University and AI flood alerts in Waikiki. Aloha State Daily (15 July 2025, https://alohastatedaily.com/2025/07/15/congress-watch-house-votes-for-ai-consumer-safety-bill) reports he voted for the Consumer Safety Technology Act (a Consumer Product Safety Commission AI pilot program), with no statement from him; not an AI risk action, so left out of record. Older AI remarks found (2019 Nextgov on China competition, 2024 AI webinar) are before 2025 and out of scope. A Gigafact quote from 29 September 2025 ('I fear the most is an acceptance of...') is about executive power, not AI. A Substack post on a hearing question about AGI risk refers to Rep. Jill Tokuda (also Hawaii), not Case. Earlier checks from the first attempt still stand: the 24 July 2026 NDAA vote release (DocumentID=4959) and the 29 June 2026 legislative record summary (DocumentID=4948) do not mention AI. The many-signer August and September 2026 House letters were not searched, per instructions."
+}

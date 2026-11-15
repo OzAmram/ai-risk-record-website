@@ -1,0 +1,45 @@
+{
+  "bioguide": "B001315",
+  "member": "Nikki Budzinski",
+  "searches": [
+    "site:budzinski.house.gov artificial intelligence",
+    "Nikki Budzinski superintelligence",
+    "Budzinski AI extinction existential risk",
+    "Budzinski AI pause slowdown moratorium",
+    "Budzinski China AI agreement treaty",
+    "\"Nikki Budzinski\" \"AI safety\"",
+    "Rep. Nikki Budzinski artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause. She is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsors",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of frontier AI (the many-signer House letters were not searched, per instructions).",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI was found in her official press releases (January 2025 to November 2026) or in seven web searches, and she is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All six required web searches ran this time, plus one extra general search (seven in total). None returned any statement by her on AI risk, superintelligence, extinction, a pause or slowdown, a China agreement or AI safety; the site-restricted search returned no pages from budzinski.house.gov. The extra search surfaced two 2026 articles on members of Congress and AI (Chicago Sun-Times, 6 July 2026, https://chicago.suntimes.com/us-house/2026/07/06/illinois-democrats-congress-artificial-intelligence-usage; and a 16 April 2026 article reposted at https://min.house.gov/media/in-the-news/lawmakers-gathered-quietly-talk-about-ai-angst-and-fears-destruction-followed); I opened both and neither mentions her. Kept from the earlier attempt (still valid): her official site's RSS feed (https://budzinski.house.gov/feed, pages 1 to 25), holding the full text of all 250 posts from 20 January 2025 to 10 November 2026, has no post mentioning artificial intelligence, AI, superintelligence or extinction. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and she is not among them; Congress.gov returned HTTP 403 in the earlier attempt. A New Democrat Coalition page lists her as a member of its Artificial Intelligence Working Group (https://newdemocratcoalition.house.gov/policy/task-forces/8/16/2023/artificial-intelligence-working-group), but that page dates from 2023 and contains no statement of hers. No House letter about AI risk signed or led by her was found; the many-signer August and September 2026 letters were not searched, per instructions. Hearing remarks, floor speeches and interviews not indexed by web search could still be missed. She was elected chair of the New Democrat Coalition on 10 November 2026 (press release), which may make future AI statements more likely."
+}

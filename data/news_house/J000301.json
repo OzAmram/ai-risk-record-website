@@ -1,0 +1,28 @@
+{"bioguide": "J000301", "member": "Dusty Johnson",
+ "searches": [
+  "site:dustyjohnson.house.gov artificial intelligence",
+  "\"Dusty Johnson\" superintelligence",
+  "\"Dusty Johnson\" AI extinction OR \"existential risk\"",
+  "\"Dusty Johnson\" AI pause OR slowdown OR moratorium",
+  "\"Dusty Johnson\" China AI agreement OR treaty",
+  "\"Dusty Johnson\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {"date": "2025-09-26", "venue": "Weekly column", "quote": "Artificial intelligence (AI) will be an engine of economic growth around the world. That’s why China and the United States are in a race to develop the infrastructure to support this transformative technology.",
+   "context": "Weekly column on AI and data center investment in South Dakota, workforce training, and winning the AI race with China.",
+   "source_label": "Rep. Dusty Johnson weekly column, \"New and Improved\"", "url": "https://dustyjohnson.house.gov/media/weekly-column/new-and-improved",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Promotes AI as an economic engine and frames it as a race with China, without acknowledging catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found; his only AI remark found frames AI as a race China and the US must compete in, which is not a position on coordinating with China.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI remark found (a September 2025 weekly column) promotes AI as an economic engine and a race with China, with no acknowledgment of catastrophic risk. Nothing about AI from 2026 was found.",
+ "notes": "All 6 required web searches ran this time, plus 1 on Ban Artificial Superintelligence Act cosponsors (7 total). Every name search returned results about other Johnsons (mostly Speaker Mike Johnson), none about Dusty Johnson; the Mike Johnson material was excluded. The Ban Artificial Superintelligence Act House version (H.R. 10538, sponsor Greg Casar) has cosponsors reported as Democrats (FastDemocracy lists Hoyle, Lynch, Tonko; Forkast says Ocasio-Cortez and nine other Democrats); no source shows Dusty Johnson co-sponsoring, but the official Congress.gov cosponsor list was not checked. The quoted column was read from his official site. An earlier partial check of his press releases (pages 1 to 3, 19 December 2025 to 22 July 2026) found no mention of AI. Hearing remarks and floor speeches were not specifically checked beyond these searches."
+}

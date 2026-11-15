@@ -1,0 +1,33 @@
+{"bioguide": "J000310", "member": "Julie Johnson",
+ "searches": [
+  "site:juliejohnson.house.gov artificial intelligence",
+  "\"Julie Johnson\" congresswoman superintelligence",
+  "\"Julie Johnson\" Texas AI extinction OR \"existential risk\"",
+  "\"Julie Johnson\" AI pause OR slowdown OR moratorium",
+  "\"Julie Johnson\" China AI agreement OR treaty",
+  "\"Julie Johnson\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {"date": "2025-09-11", "venue": "Press release",
+   "quote": "The health of our democracy is on the line as deepfakes and AI-generated content are being used to manipulate voters.",
+   "context": "Announcing her bipartisan Protect Elections from Deceptive AI Act, which would prohibit distributing materially deceptive AI-generated audio or video of federal candidates.",
+   "source_label": "juliejohnson.house.gov press release", "url": "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bill-protect-elections-deceptive-artificial",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About deepfakes and election misinformation, which ruling 5 places at D; no catastrophic risk is acknowledged."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Introduced the bipartisan Protect Elections from Deceptive AI Act, which would prohibit distributing materially deceptive AI-generated audio or video relating to federal candidates; about election deepfakes, not catastrophic risk.", "juliejohnson.house.gov press release, 2025-09-11", "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bill-protect-elections-deceptive-artificial"],
+  ["Sponsor of the Whistleblowers Aiding National Security Act of 2025 (H.R. 6302), which her AI issue page describes as adding whistleblower protections against unlawful transfers of sensitive defense-related AI technology; about export control, not catastrophic risk.", "juliejohnson.house.gov AI issue page (undated); press release 2025-12-03", "https://www.congress.gov/bill/119th-congress/house-bill/6302"],
+  ["Cosponsor of the Seniors Deserve SMARTER Care Act (H.R. 5940), which would block AI-assisted prior authorization in Traditional Medicare; not about catastrophic risk.", "juliejohnson.house.gov AI issue page (undated)", "https://www.congress.gov/bill/119th-congress/house-bill/5940"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "She has spoken about AI (election deepfakes in 2025; jobs, health care, competition with other nations and child safety on her undated AI issue page), but nothing found acknowledges catastrophic risk. No 2026 statement on AI risk was found.",
+ "notes": "All 6 required web searches ran this time, plus 1 extra search on the Ban Artificial Superintelligence Act cosponsors (7 in total). Searches on superintelligence, extinction, pause and China mostly returned Speaker Mike Johnson; one news item (san.com / Axios coverage of 'Johnson' calling for an AI industry meeting and safeguards against AI advancing beyond human control) is about Speaker Mike Johnson, not Julie Johnson, and is not attributed to her. Ban Artificial Superintelligence Act: the House version is H.R. 10538; the FastDemocracy tracker (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and she is not among them; congress.gov returned HTTP 403, so this was not confirmed there. The statement quote was read through a summarizing fetch tool on the official page; a reviewer should confirm the exact wording. A LegiStorm mirror of the same release, seen only in a search summary, attributes to her: 'I've led on election reform my entire career, and artificial intelligence is the next major challenge we must confront.' This was not read at source and is left out. Her AI issue page (https://juliejohnson.house.gov/issues/artificial-intelligence-ai) is undated; it says AI 'should not replace workers-it should empower them' and calls for 'a smart, balanced regulatory framework' protecting the public and children (would be level D; not entered as a statement because undated). The earlier attempt opened press release listing pages 1-3 (April 2026 back to December 2025); pages 4-9 were not checked. Multi-signer House letters were not searched, as instructed."
+}

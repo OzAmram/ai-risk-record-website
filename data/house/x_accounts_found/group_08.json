@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ELECT-CA-26-IRWIN",
+    "name": "Jacqui Irwin",
+    "accounts": [
+      {
+        "handle": "jacquiirwin",
+        "account_type": "campaign",
+        "evidence_url": "https://jacquiirwin.com/",
+        "evidence": "The footer of her campaign site links to x.com/@jacquiirwin, along with her campaign Facebook and Bluesky."
+      }
+    ],
+    "notes": "Her California Assembly site (irwin.asmdc.org) links Facebook and Instagram but no X account, so no Assembly official X account was found. The campaign site link is written 'x.com/@jacquiirwin'; I stored the handle without the @. The account itself was not opened."
+  },
+  {
+    "id": "ELECT-CA-34-GONZALESTORRES",
+    "name": "Angela Gonzales-Torres",
+    "accounts": [
+      {
+        "handle": "angela4ca",
+        "account_type": "campaign",
+        "evidence_url": "https://www.angela4congress.com/",
+        "evidence": "Her campaign site links to x.com/angela4ca in its header, navigation and footer, next to instagram.com/angela4congress."
+      }
+    ],
+    "notes": "The X handle (angela4ca) differs from her Instagram handle (angela4congress), but the campaign site links it directly. No other personal account was found."
+  },
+  {
+    "id": "ELECT-CA-38-SOLIS",
+    "name": "Hilda Solis",
+    "accounts": [
+      {
+        "handle": "HildaSolis",
+        "account_type": "official",
+        "evidence_url": "https://hildalsolis.org/",
+        "evidence": "Her Los Angeles County Supervisor office site embeds 'Tweets by HildaSolis' and links twitter.com/HildaSolis."
+      }
+    ],
+    "notes": "This is the account she uses as LA County Supervisor (her current office), not a House account. Her congressional campaign site (hildasolis.com) shows no social media links, so no separate campaign X account was found."
+  },
+  {
+    "id": "ELECT-CA-48-WILPERT",
+    "name": "Marni von Wilpert",
+    "accounts": [
+      {
+        "handle": "marnivonwilpert",
+        "account_type": "campaign",
+        "evidence_url": "https://www.marnivonwilpert.com/",
+        "evidence": "The header and footer of her congressional campaign site link to x.com/marnivonwilpert, along with her campaign Facebook, Instagram, Bluesky and YouTube."
+      }
+    ],
+    "notes": "I did not check her San Diego City Council office page for a separate council X account."
+  },
+  {
+    "id": "ELECT-CO-01-KIROS",
+    "name": "Melat Kiros",
+    "accounts": [
+      {
+        "handle": "MelatKirosCO",
+        "account_type": "campaign",
+        "evidence_url": "https://www.kirosforco.com/",
+        "evidence": "Her campaign site links to x.com/MelatKirosCO, and she uses the same handle on Instagram, TikTok and YouTube."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "ELECT-CO-04-LAUBACHER",
+    "name": "Eileen Laubacher",
+    "accounts": [
+      {
+        "handle": "EileenforCO",
+        "account_type": "campaign",
+        "evidence_url": "https://www.eileenforcolorado.com/",
+        "evidence": "Her campaign site links to x.com/EileenforCO, along with facebook.com/eileenforcolorado and instagram.com/eileenforcolorado."
+      }
+    ],
+    "notes": "No personal account was found."
+  }
+]

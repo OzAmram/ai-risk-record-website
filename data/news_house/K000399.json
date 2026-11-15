@@ -1,0 +1,17 @@
+{"bioguide": "K000399", "member": "Jennifer A. Kiggans",
+ "searches": ["Kiggans artificial intelligence site:kiggans.house.gov", "Jen Kiggans superintelligence", "Kiggans AI extinction existential risk", "Kiggans AI pause slowdown moratorium", "Kiggans China AI agreement treaty", "\"Kiggans\" \"AI safety\"", "Rep. Jen Kiggans artificial intelligence 2026"],
+ "statements": [
+  {"date": "2025-11-25", "venue": "Press release introducing the AI for America Act (H.R. 6304)",
+   "quote": "Artificial intelligence will define the next century of economic growth, national security, and global competitiveness,",
+   "context": "Introducing a bill to set a national strategy for American leadership in AI, modernize federal research infrastructure and remove regulatory barriers.",
+   "source_label": "House press release", "url": "https://kiggans.house.gov/posts/kiggans-leads-bill-to-strengthen-u-s-leadership-in-ai",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "Promotes American AI leadership and competition with foreign adversaries; mentions cybersecurity threats and data misuse but no catastrophic risk."}],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}},
+ "record": [["Sponsored the AI for America Act (H.R. 6304), codifying a national AI strategy that promotes American leadership and removes regulatory barriers.", "House press release, 2025-11-25", "https://kiggans.house.gov/posts/kiggans-leads-bill-to-strengthen-u-s-leadership-in-ai"]],
+ "suggested_grade": "D", "grade_reason": "Her only AI statement found is a 2025 press release about American AI leadership and competitiveness, with no acknowledgment of catastrophic risk. No 2026 AI statements by her were found.",
+ "notes": "All six required web searches ran this time, plus one extra search for 2026 AI statements (7 in total). The topic searches (superintelligence, extinction, pause, China agreement, AI safety) returned nothing mentioning her. No source shows she sponsored or co-sponsored the Ban Artificial Superintelligence Act or led or signed any other House letter on AI risk. The earlier attempt also opened her official site directly (sitemap and site searches for 'artificial intelligence', 2 results both from 2025, and 'superintelligence', no results). An April 2026 AP article on lawmakers' AI worries appeared in results for her name but, opened at news4jax.com, does not mention her. One bill tracker (policyrisk.com) lists a 4/29/2026 date for H.R. 6304 while her office dates the introduction 25 November 2025; not reconciled. Other quotes in the release (e.g. on 'responsible, transparent AI systems' and protection from 'bias, cybersecurity threats, or misuse of data') are D-level and were left out."}

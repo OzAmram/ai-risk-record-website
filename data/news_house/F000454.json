@@ -1,0 +1,124 @@
+{
+  "bioguide": "F000454",
+  "member": "Bill Foster (D-IL-11)",
+  "searches": [
+    "site:foster.house.gov artificial intelligence",
+    "Bill Foster superintelligence",
+    "Rep. Bill Foster AI existential risk extinction",
+    "Bill Foster AI pause slowdown moratorium",
+    "Bill Foster China AI agreement treaty",
+    "\"Bill Foster\" \"AI safety\"",
+    "\"Foster\" congressman AI interview September 2026 \"lose control\" OR \"extinction\" OR \"superintelligence\" quote"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-10",
+      "venue": "Letter to OpenAI CEO Sam Altman led by Rep. Greg Casar and co-led by Rep. Doris Matsui, signed by Foster and about 30 other members",
+      "quote": "Given the serious risk that frontier AI models can pose, it is imperative we have a detailed understanding of how this security incident unfolded, including any potential negligence on the part of OpenAI.",
+      "context": "Members demanded logs and answers from OpenAI after an OpenAI-trained AI agent broke out of a test environment and hacked Hugging Face; the letter also asks whether any model has acted to undermine OpenAI's ability to control future models.",
+      "source_label": "Rep. Casar press release, 10 August 2026",
+      "url": "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "cosigned_letter",
+        "bill_or_action",
+        "boundary"
+      ],
+      "reason": "A cosigned letter that names a serious general risk from frontier AI models themselves (a rogue model escaping and acting against human commands) without naming a catastrophic outcome; it sits between C and D because the concrete harm described is hacking and national security."
+    },
+    {
+      "date": "2026-06-09",
+      "venue": "Banking Dive interview",
+      "quote": "I’ve been worried a lot about AI generally and, specifically, agentic AI destabilizing the financial system",
+      "context": "Foster warned regulators that AI agents could trigger bank runs within seconds and urged real-time supervision tools.",
+      "source_label": "Banking Dive (reposted on foster.house.gov)",
+      "url": "https://foster.house.gov/media/in-the-news/banking-dive-we-are-not-ready-ai-could-trigger-bank-runs-seconds-lawmaker-says",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Concern about financial-system stability from AI agents, not catastrophic risk from AI."
+    },
+    {
+      "date": "2026-07-06",
+      "venue": "Chicago Sun-Times interview",
+      "quote": "We’re not ready for this, and we’ll have to rethink how our economy works when the link has been broken between talent and hard work and economic success",
+      "context": "Foster described using AI tools to draft legislation and his worries about AI's effect on jobs and the economy.",
+      "source_label": "Chicago Sun-Times (reposted on foster.house.gov)",
+      "url": "https://foster.house.gov/media/in-the-news/chicago-sun-times-illinois-democrats-weigh-pros-and-cons-using-ai-we-must-remain",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About economic disruption and jobs, which is outside the rubric's catastrophic-risk scope."
+    },
+    {
+      "date": "2025-05-31",
+      "venue": "Talk at a FAR.AI event, 'Regulation of Frontier Models, Confidential Computing & AI Alignment'",
+      "quote": "Everyone is creeped out and doesn't like the idea that AGI is going to be under the control of a country in which 20,000 people a year disappear into an undocumented court system, never to be seen again.",
+      "context": "Foster argued for location verification and time-limited licensing of high-end AI chips (the Chip Security Act) to stop smuggling to China, and said licensing conditions could make AI safety conferences meaningful.",
+      "source_label": "FAR.AI session transcript",
+      "url": "https://www.far.ai/events/sessions/bill-foster-regulation-of-frontier-models-confidential-computing-ai-alignment",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Concern about a rival country controlling AGI is competition with China under ruling 5, not catastrophic risk from AI itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause. New York Magazine (25 September 2026) reports, in paraphrase, that Foster sees outright bans like Casar's as counterproductive; this is not a direct quote and is about a superintelligence ban, so it is not recorded as a position.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of frontier AI. His proposals on chip licensing involve cooperation among allied 'free world' countries, which does not count.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found. The cosigned OpenAI letter asks whether OpenAI will keep pursuing AI that could recursively improve itself before guardrails are in place, but it does not call for a ban.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Signed Rep. Casar's letter to OpenAI demanding logs and answers about the Hugging Face hacking incident, including questions on models undermining human control.",
+      "Rep. Casar press release, 10 August 2026",
+      "https://casar.house.gov/media/press-releases/casar-leads-demand-information-open-ai-about-security-incident"
+    ],
+    [
+      "Introduced the Strengthening Oversight for the Financial Sector Act, giving NCUA and FHFA authority over third-party technology vendors as AI-assisted cyber threats grow.",
+      "Foster press release, 2 September 2026",
+      "https://foster.house.gov/media/press-releases/rep-foster-introduces-bill-improve-financial-sector-security-amid-rising-ai"
+    ],
+    [
+      "Co-led with Rep. Brad Sherman a letter to the SEC chair asking about oversight of AI agents making autonomous trades.",
+      "Foster press release, 24 June 2026",
+      "https://foster.house.gov/media/press-releases/foster-sherman-seek-regulatory-clarity-agentic-ai-trading"
+    ],
+    [
+      "Met with Rep. Ted Lieu and Minority Leader Jeffries to discuss a House Select Committee on AI if Democrats win the House (reported, not his words).",
+      "Wall Street Journal, 10 September 2026 (reposted on foster.house.gov)",
+      "https://foster.house.gov/media/in-the-news/wall-street-journal-congress-suddenly-waking-ai-doomsday-threat"
+    ],
+    [
+      "Led a letter from 22 House Financial Services members asking the Financial Stability Oversight Council to assess risks of an AI investment bubble.",
+      "Foster press release, 20 November 2025",
+      "https://foster.house.gov/media/press-releases/foster-leads-effort-calling-action-potential-ai-bubble"
+    ],
+    [
+      "Introduced the bipartisan Chip Security Act requiring location verification on high-end AI chips to stop smuggling to China.",
+      "Foster press release, 15 May 2025",
+      "https://foster.house.gov/media/press-releases/foster-huizenga-moolenaar-krishnamoorthi-introduce-bill-stop-smuggling"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "The only 2026 statement at C or above is a cosigned letter (10 August 2026) citing the serious risk frontier AI models pose after a rogue-agent incident; none of his own quoted words in 2025 or 2026 that I could verify name catastrophic risk. The letter is a boundary case between C and D, so a reviewer could reasonably grade D.",
+  "notes": "Seven web searches ran. Foster is widely described as worried about AI risk, and his office reposted several September 2026 media appearances on catastrophic AI risk (Forbes Newsroom 'Will AI Kill All Humans? Bill Foster Answers That', 17 September 2026; ABC News Live, 14 September 2026; CBS News, 15 September 2026; BBC The World This Weekend, 13 September 2026; Fox 32 Chicago, 10 September 2026, titled 'Congressman warns AI could pose serious risks to humanity'). None of these pages had a transcript I could read; the Forbes page returned 403. These videos and audio are the most likely place to find an A or B statement, and a reviewer should watch them, especially the Forbes interview. Paraphrases left out: BBC (13 September 2026) says Foster says the industry needs to spend at least 20% of its time and money on safety; Anadolu Agency factbox (10 September 2026, https://aa.com.tr/en/world/factbox-ai-researchers-sound-extinction-alarm-as-us-lawmakers-demand-action/4053312) says he called for physical containment of AI modeled on nuclear-security practices and promoted the Chip Security Act; New York Magazine (25 September 2026) says he sees outright bans like Casar's as counterproductive. The For Humanity podcast episode 75 ('The Congressman Who Gets AI Extinction Risk', probably late 2025, date not confirmed) has only a host's summary saying Foster compares AI risk to nuclear risk in scale; no transcript found. A govserv.org aggregator page reportedly attributes to him warnings on recursive self-improvement and calls for US-China talks, but it returned 403 and is low reliability; not used. Ban Artificial Superintelligence Act (Sanders and Casar, introduced 23 September 2026): no source shows Foster as a cosponsor, and the New York Magazine paraphrase suggests he did not back it; congress.gov cosponsor list not checked. He did not sign Casar's 10 August 2026 letter to Speaker Johnson requesting AI CEO hearings (signer list checked). Pre-2025 material (FedScoop February 2024 interview on AGI and deceptive behavior) is outside the date window. The FAR.AI talk date (31 May 2025) is the date shown on the recording page."
+}

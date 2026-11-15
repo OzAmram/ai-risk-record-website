@@ -1,0 +1,25 @@
+{
+  "bioguide": "K000402",
+  "member": "Timothy M. Kennedy",
+  "searches": [
+    "site:kennedy.house.gov artificial intelligence",
+    "\"Tim Kennedy\" congressman superintelligence",
+    "Rep. Tim Kennedy Buffalo AI extinction existential risk",
+    "Rep. Tim Kennedy AI pause slowdown moratorium",
+    "Rep. Tim Kennedy New York China AI agreement treaty",
+    "\"Tim Kennedy\" New York representative \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Casar",
+    "Congressman Tim Kennedy NY-26 \"artificial intelligence\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025 in eight web searches or in his official press releases from late June to early November 2026.",
+  "notes": "All six required web searches ran this time, plus two more (eight in total); none was refused. None of them returned a statement by Rep. Timothy M. Kennedy (D-NY-26) about AI. Most results were about Sen. John Kennedy (R-LA), a different person, whose AI 'kill switch' remarks must not be attributed to this representative; Rep. Mike Kennedy (R-UT) also appeared. One search summary claimed a June 2026 Fortune article (https://www.fortune.com/2026/06/05/schlossberg-conway-bores-ny-12-manhattan-primary-ai-regulation/) quoted 'Kennedy' criticizing Alex Bores' AI regulation; opening the article showed the remark was by Jack Schlossberg (a NY-12 candidate and Kennedy family member), not this representative, so it was left out. The search restricted to kennedy.house.gov returned no pages from his site, and the site's own search page returned 403. From the earlier attempt: his home page and the first two press-release pages (29 July to 5 November 2026) had no AI-related titles; this time the third page (https://kennedy.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=3, 24 June to 29 July 2026) was also opened and had none. Only titles and short excerpts were read, not full release texts; earlier releases were not checked. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): sources report about nine or ten cosponsors but name only Ocasio-Cortez; the Congress.gov cosponsor page returned 403, so whether Kennedy cosponsored it could not be confirmed either way. No House letter about AI risk led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Hearing remarks and floor speeches were not searched separately."
+}

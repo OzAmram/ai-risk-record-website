@@ -1,0 +1,53 @@
+[
+ {
+  "id": "F000446",
+  "name": "Randy Feenstra",
+  "accounts": [
+   {"handle": "repfeenstra", "account_type": "official", "evidence_url": "https://feenstra.house.gov", "evidence": "The official House site links to x.com/repfeenstra and twitter.com/repfeenstra."}
+  ],
+  "notes": "The official site still links the same handle that was on file (RepFeenstra, written in lowercase on the site), even though the hint says it did not work. I found no renamed handle. The failure may be a lookup problem rather than a rename; worth re-checking. Feenstra ran for Iowa governor in 2026; his campaign site feenstraforgovernor.com returned HTTP 522 both times, so no campaign handle was confirmed."
+ },
+ {
+  "id": "J000309",
+  "name": "Jonathan L. Jackson",
+  "accounts": [
+   {"handle": "rep_jackson", "account_type": "official", "evidence_url": "https://jonathanjackson.house.gov", "evidence": "The official House site links to x.com/rep_jackson."}
+  ],
+  "notes": "The campaign site jonathanjacksonforcongress.com has no X link. A search result pointed to a ProPublica Politwoops page for @CongressJackson (2022 campaign period), but the page I opened did not show whose account it is, so I did not include it."
+ },
+ {
+  "id": "M001233",
+  "name": "Mark B. Messmer",
+  "accounts": [
+   {"handle": "repmessmer", "account_type": "official", "evidence_url": "https://messmer.house.gov", "evidence": "The official House site links to x.com/repmessmer in its header, menu and footer."}
+  ],
+  "notes": "The campaign site markmessmer.com has no X link, only YouTube. No personal or campaign handle found."
+ },
+ {
+  "id": "J000299",
+  "name": "Mike Johnson",
+  "accounts": [
+   {"handle": "SpeakerJohnson", "account_type": "official", "evidence_url": "https://mikejohnson.house.gov", "evidence": "The official House site links to twitter.com/SpeakerJohnson."},
+   {"handle": "MikeJohnson", "account_type": "campaign", "evidence_url": "https://mikejohnsonforlouisiana.com", "evidence": "The campaign site, paid for by Mike Johnson for Louisiana, links to x.com/MikeJohnson."}
+  ],
+  "notes": "The on-file RepMikeJohnson handle seems to have been replaced by SpeakerJohnson on the official site. SpeakerJohnson is tied to the office of Speaker; if he stops being Speaker, this handle may change again."
+ },
+ {
+  "id": "C001101",
+  "name": "Katherine M. Clark",
+  "accounts": [
+   {"handle": "WhipKClark", "account_type": "official", "evidence_url": "https://katherineclark.house.gov", "evidence": "The official House site links to x.com/WhipKClark and twitter.com/WhipKClark."},
+   {"handle": "TeamKClark", "account_type": "campaign", "evidence_url": "https://katherineclark.org", "evidence": "The Katherine Clark for Congress campaign site links to twitter.com/TeamKClark."}
+  ],
+  "notes": "The official handle reflects her Democratic Whip role and replaces the on-file RepKClark."
+ },
+ {
+  "id": "E000294",
+  "name": "Tom Emmer",
+  "accounts": [
+   {"handle": "GOPMajorityWhip", "account_type": "official", "evidence_url": "https://emmer.house.gov", "evidence": "The official House site links to x.com/GOPMajorityWhip and twitter.com/GOPMajorityWhip, labelled as Congressman Tom Emmer's posts."},
+   {"handle": "tomemmer", "account_type": "campaign", "evidence_url": "https://emmerforcongress.com/", "evidence": "The Emmer for Congress campaign site (tomemmer.com redirects to it) links to twitter.com/tomemmer."}
+  ],
+  "notes": "GOPMajorityWhip is a leadership-office account; it would likely pass to a successor if the whip role changes. The on-file RepTomEmmer was not linked anywhere I opened."
+ }
+]

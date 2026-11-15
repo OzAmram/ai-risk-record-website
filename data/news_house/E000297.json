@@ -1,0 +1,39 @@
+{
+  "bioguide": "E000297",
+  "member": "Adriano Espaillat",
+  "searches": [
+    "Espaillat artificial intelligence (restricted to espaillat.house.gov)",
+    "Adriano Espaillat superintelligence",
+    "Adriano Espaillat AI extinction existential risk",
+    "Espaillat AI pause slowdown moratorium",
+    "Espaillat China AI agreement treaty",
+    "\"Espaillat\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-05-16",
+      "venue": "Press release on an AI leadership roundtable and the Artificial Intelligence Literacy and Inclusion Act (H.R. 3210)",
+      "quote": "If we don't act now, we risk widening the digital divide and locking entire communities out of the economy of tomorrow.",
+      "context": "Promoting AI education and literacy for underserved communities through his AI literacy bill.",
+      "source_label": "Espaillat House press release",
+      "url": "https://espaillat.house.gov/media/press-releases/representative-adriano-espaillat-leads-ai-leadership-roundtable-equity-access",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About AI literacy and the digital divide, with no acknowledgment of catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the Artificial Intelligence Literacy and Inclusion Act (H.R. 3210), with Reps. Clarke and Lieu, to put AI into school curricula and workforce programs.", "Espaillat House press release, 2025-05-16", "https://espaillat.house.gov/media/press-releases/representative-adriano-espaillat-leads-ai-leadership-roundtable-equity-access"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI (AI literacy, equity and election deepfakes) but nothing found since 1 January 2025 acknowledges catastrophic risk; his only in-range AI statement found is from May 2025 and no 2026 AI statement was found.",
+  "notes": "All seven web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act), so the search is complete; none surfaced any statement by him on superintelligence, extinction, loss of control, a pause or slowdown, or an AI agreement with China. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): he is not on the 12-name cosponsor list at fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened); Congress.gov returned HTTP 403, so this is not confirmed from the official record, but no source shows him as a cosponsor. No House letter about AI risk led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Older AI material, outside the 2025 date range and level D at most: Candidate Voice Fraud Prohibition Act (press release 18 July 2023); August 2023 resolution on a Western Hemisphere AI strategy warning of 'digital colonialism' (Fox News, 12 August 2023, opened); New York Daily News op-ed with Rose Pierre-Louis on ethical AI (5 January 2024, reposted by NYU McSilver, opened; mentions 'threats to democracy' and bias, nothing catastrophic); 2024 Congressional Hispanic Caucus AI roundtables. The 16 May 2025 release quote was read through a page-fetch tool that returns extracted text, so a reviewer may want to confirm punctuation (the apostrophe in 'don't'). His site's press release search page returned HTTP 403; I browsed listing pages 7 and 8 (March to June 2025) directly, and the earlier attempt browsed pages 1 and 2 (26 February to 12 June 2026) and found no AI releases there. The site's newest listed release was 12 June 2026, so later releases may be missing from the site or its cache. Interviews, hearing remarks and floor speeches were not checked beyond what web search returned."
+}

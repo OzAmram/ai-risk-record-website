@@ -1,0 +1,24 @@
+{
+  "bioguide": "S001228",
+  "member": "Derek Schmidt",
+  "searches": [
+    "Derek Schmidt artificial intelligence (restricted to schmidt.house.gov)",
+    "Rep. Derek Schmidt superintelligence",
+    "Derek Schmidt Kansas AI extinction existential risk",
+    "Derek Schmidt congressman AI pause slowdown moratorium",
+    "Rep. Derek Schmidt China AI agreement treaty",
+    "\"Derek Schmidt\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, in news coverage or on his official site, so there is nothing to grade.",
+  "notes": "All six required web searches ran this time, plus one extra on Ban Artificial Superintelligence Act cosponsors (seven in total, none refused). The superintelligence, extinction, China and \"AI safety\" searches returned only material about other people, mostly Eric Schmidt (former Google CEO), who is not this person. The moratorium search surfaced a February 2026 Nextgov article on the state AI law moratorium; opened it, and the lawmaker quoted is Rep. Jay Obernolte, not Schmidt (Schmidt is not mentioned). A House hearing transcript lists him only on a committee roster. Earlier attempt (kept): the official site was opened directly: home page, the In the News page (empty), and press release listing pages 1 to 7 (of about 9), covering releases from 6 February 2025 to 1 October 2026; no release title or visible text mentioned AI, superintelligence or China technology. The only AI mention found is office narration (not his own words) in the 25 November 2025 release on the ENFORCE Act (H.R. 4831), which he cosponsored, about child sexual abuse material made with AI tools (https://schmidt.house.gov/media/press-releases/rep-derek-schmidt-backs-legislation-fight-child-exploitation, opened in the earlier attempt and returned again by the site-restricted search); this would be level D at most and is left out of statements. The two oldest listing pages (January to early February 2025) were not checked. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Greg Casar on 24 September 2026): the Congress.gov cosponsor page returned HTTP 403 again; search results describe roughly nine to ten cosponsors, all Democrats (named ones include Hoyle, Lynch, Tonko, Ansari), and no source names Schmidt, so he very likely did not cosponsor, but the full list was not verified at source. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). He serves on the House Armed Services Committee; defense bill releases were not opened in full, so any military AI mentions (level D under ruling 3) may be missed."
+}

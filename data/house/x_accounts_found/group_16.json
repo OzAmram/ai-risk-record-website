@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ELECT-NC-13-BARRINGER",
+  "name": "Paul Barringer",
+  "accounts": [
+   {"handle": "PaulBarringerNC", "account_type": "campaign", "evidence_url": "https://paulbarringer.com", "evidence": "Paul Barringer's campaign website for NC District 13 links x.com/PaulBarringerNC among its social media links."}
+  ],
+  "notes": "No official House account yet (representative-elect). This handle may double as his personal account; the campaign site is the only source checked."
+ },
+ {
+  "id": "ELECT-NC-14-WOMACK",
+  "name": "LaKesha Womack",
+  "accounts": [
+   {"handle": "lakeshawomack", "account_type": "personal", "evidence_url": "https://www.womack4nc14.com/", "evidence": "Her campaign website womack4nc14.com links twitter.com/lakeshawomack, and the branch.vote NC-14 candidate page and her about.me profile (Charlotte, ordained AME Zion minister) also link this handle."}
+  ],
+  "notes": "This is a long-standing personal account (about.me spells it LaKeshaWomack; case differs only) that her campaign site uses; no separate campaign account was found. No official House account yet. Used 2 web searches."
+ },
+ {
+  "id": "ELECT-NE-02-POWELL",
+  "name": "Denise Powell",
+  "accounts": [
+   {"handle": "DeniseForNE", "account_type": "campaign", "evidence_url": "https://deniseforcongress.org", "evidence": "Denise Powell's campaign website for Nebraska's 2nd District links x.com/DeniseForNE."}
+  ],
+  "notes": "No official House account yet (representative-elect)."
+ },
+ {
+  "id": "ELECT-NH-01-SHAHEEN",
+  "name": "Stefany Shaheen",
+  "accounts": [
+   {"handle": "Stefany4NH", "account_type": "campaign", "evidence_url": "https://stefanyshaheen.com/", "evidence": "Stefany Shaheen's campaign website for NH-1 links x.com/Stefany4NH."}
+  ],
+  "notes": "No official House account yet (representative-elect). This is not her mother Sen. Jeanne Shaheen's account."
+ },
+ {
+  "id": "ELECT-NJ-02-MULLOCK",
+  "name": "Zack Mullock",
+  "accounts": [
+   {"handle": "ZMullock", "account_type": "campaign", "evidence_url": "https://mullockforcongress.com/", "evidence": "The Mullock for Congress website links x.com/ZMullock in its header and footer; the iVoterGuide candidate profile lists the same link."}
+  ],
+  "notes": "The handle looks personal in style but is the one his campaign site uses. No official House account yet (representative-elect)."
+ },
+ {
+  "id": "ELECT-NJ-07-BENNETT",
+  "name": "Rebecca Bennett",
+  "accounts": [
+   {"handle": "rebeccafornj07", "account_type": "campaign", "evidence_url": "https://rebeccabennettforcongress.com/", "evidence": "Rebecca Bennett's campaign website for NJ-7 links x.com/rebeccafornj07."}
+  ],
+  "notes": "No official House account yet (representative-elect)."
+ }
+]

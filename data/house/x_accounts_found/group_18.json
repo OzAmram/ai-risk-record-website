@@ -1,0 +1,59 @@
+[
+  {
+    "id": "ELECT-NY-17-CONLEY",
+    "name": "Cait Conley",
+    "accounts": [
+      {
+        "handle": "CaitforNewYork",
+        "account_type": "campaign",
+        "evidence_url": "https://caitconley.com",
+        "evidence": "Her campaign website links its X icon to https://x.com/CaitforNewYork."
+      }
+    ],
+    "notes": "No separate personal X account was found. She is a representative-elect, so no official House account yet."
+  },
+  {
+    "id": "ELECT-NY-21-CONSTANTINO",
+    "name": "Anthony Constantino",
+    "accounts": [],
+    "notes": "No handle confirmed. News coverage (Fox News) says he posts on X, but no article I opened names his handle. Warning: constantinocongress.com is a parody site, not his campaign (City & State, https://www.cityandstateny.com/politics/2026/07/cutting-satire-pro-circumcision-constantino-campaign-flyers-are-fake/414691/), so do not take links from it. @stickermule is his company's account, not his own. I did not find his real campaign website; Ballotpedia returned an empty page."
+  },
+  {
+    "id": "ELECT-OH-07-POINDEXTER",
+    "name": "Brian Poindexter",
+    "accounts": [
+      {
+        "handle": "bpforcongress",
+        "account_type": "campaign",
+        "evidence_url": "https://poindexterforcongress.com",
+        "evidence": "His campaign website links its X icon to https://x.com/bpforcongress."
+      }
+    ],
+    "notes": "No personal X account found. Representative-elect, so no official House account yet."
+  },
+  {
+    "id": "ELECT-OH-10-KNICKERBOCKER",
+    "name": "Kristina Knickerbocker",
+    "accounts": [
+      {
+        "handle": "KnickerbockerOH",
+        "account_type": "campaign",
+        "evidence_url": "https://kristinaknickerbocker.com",
+        "evidence": "Her campaign website links its X icon to https://x.com/KnickerbockerOH."
+      }
+    ],
+    "notes": "I did not check that she won on 3 November 2026; the input says she did. No personal X account found."
+  },
+  {
+    "id": "ELECT-OH-15-LEONARD",
+    "name": "Don Leonard",
+    "accounts": [],
+    "notes": "His campaign website (donforohio.com, home and bio pages) links Instagram, TikTok and Facebook (all donforohio) but no X account. A search found no X account either. He may not have one. I did not check that he won; the input says he did."
+  },
+  {
+    "id": "ELECT-OK-01-TEDFORD",
+    "name": "Mark Tedford",
+    "accounts": [],
+    "notes": "No handle confirmed. His Oklahoma House page only links the chamber's own account (@okhouseofreps), which is not his. A news page names his campaign site as www.marktedfordforuscongress.com, but that domain did not resolve when I tried it. Wikipedia says he won on 3 November 2026 (AP call) but gives no social links. Ballotpedia returned an empty page."
+  }
+]

@@ -1,0 +1,73 @@
+[
+ {
+  "id": "ELECT-GA-11-COWAN",
+  "name": "John Cowan",
+  "accounts": [],
+  "notes": "No current X account confirmed. His 2026 campaign site cowanforcongress.com (donate link goes to WinRed 'friends-of-john-cowan', his 2026 committee) links only Facebook (drcowanforcongress) and Instagram (drcowanforcongress), no X. Just the News (https://justthenews.com/politics-policy/elections/georgia-congressional-candidate-hiding-past-anti-trump-comments-advances) says his personal X account @JC4Constitution was deleted. A search result listed a ProPublica Politwoops entry 'JohnCowanGA' tracked April-August 2020 (his 14th District run), but the Politwoops page I opened only showed the archive landing page, so it is unverified and probably dormant or gone. No official House account yet (representative-elect). 3 web searches used, 0 refused."
+ },
+ {
+  "id": "ELECT-GA-13-CLARK",
+  "name": "Jasmine Clark",
+  "accounts": [
+   {
+    "handle": "jasmineforga",
+    "account_type": "campaign",
+    "evidence_url": "https://jasmine4ga.com/",
+    "evidence": "Her congressional campaign website links to https://x.com/jasmineforga as its X account."
+   }
+  ],
+  "notes": "Handle as written in the site's link (lowercase); capitalization on X may differ. No official House account yet. She may also have a state-legislator account; not searched. 1 web search used, 0 refused."
+ },
+ {
+  "id": "ELECT-IA-01-BOHANNAN",
+  "name": "Christina Bohannan",
+  "accounts": [
+   {
+    "handle": "BohannanIowa",
+    "account_type": "campaign",
+    "evidence_url": "https://bohannanforcongress.com/",
+    "evidence": "Her 2026 congressional campaign website links to https://x.com/BohannanIowa as its X account."
+   }
+  ],
+  "notes": "Same handle she used in her 2020-2024 runs. No official House account yet. 1 web search used, 0 refused."
+ },
+ {
+  "id": "ELECT-IA-02-JAMES",
+  "name": "Lindsay James",
+  "accounts": [
+   {
+    "handle": "lindsay4iowa",
+    "account_type": "campaign",
+    "evidence_url": "https://lindsayforiowa.com",
+    "evidence": "Her congressional campaign website links to https://x.com/lindsay4iowa in its header and footer social links."
+   }
+  ],
+  "notes": "Written lowercase in the site's link; a search summary of a campaign press release gave it as Lindsay4Iowa. No official House account yet. 1 web search used, 0 refused."
+ },
+ {
+  "id": "ELECT-IA-03-GARRIOTT",
+  "name": "Sarah Trone Garriott",
+  "accounts": [
+   {
+    "handle": "SarahforIowa",
+    "account_type": "campaign",
+    "evidence_url": "https://sarahforiowa.com/",
+    "evidence": "Her congressional campaign website's X icon links to sarahforiowa.com/twitter, which redirects (HTTP 301) to https://x.com/SarahforIowa."
+   }
+  ],
+  "notes": "No official House account yet. She may also have a personal or state-senate account; not searched. 1 web search used, 0 refused."
+ },
+ {
+  "id": "ELECT-IA-04-MCGOWAN",
+  "name": "Chris McGowan",
+  "accounts": [
+   {
+    "handle": "McGowanForIowa",
+    "account_type": "campaign",
+    "evidence_url": "https://mcgowanforiowa.com/",
+    "evidence": "His congressional campaign website links to https://twitter.com/McGowanForIowa as its X account."
+   }
+  ],
+  "notes": "No official House account yet. 1 web search used, 0 refused."
+ }
+]

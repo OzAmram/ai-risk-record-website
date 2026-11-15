@@ -1,0 +1,39 @@
+{
+  "bioguide": "F000483",
+  "member": "Laura Friedman",
+  "searches": [
+    "Friedman artificial intelligence (restricted to friedman.house.gov)",
+    "Rep. Laura Friedman superintelligence",
+    "Laura Friedman AI extinction existential risk",
+    "Rep. Laura Friedman AI pause slowdown moratorium",
+    "Laura Friedman China AI agreement treaty",
+    "\"Laura Friedman\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Friedman"
+  ],
+  "statements": [
+    {
+      "date": "2025-07-23",
+      "venue": "Interview with Beverly Press Park Labrea News, reposted on her official site",
+      "quote": "We need oversight, we need some kind of on and off switches that are easy to understand and we need to know exactly what they’re doing at all times.",
+      "context": "Discussing the Pentagon's contract with Elon Musk's xAI for Grok for Government after Grok posted antisemitic messages, and safeguards on AI in military weapons.",
+      "source_label": "Beverly Press Park Labrea News, via friedman.house.gov",
+      "url": "https://friedman.house.gov/media/in-the-news/beverly-press-park-labrea-news-friedman-seeks-details-musk-ai-agreement",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "A call for oversight and off switches for AI used by the military, without naming any catastrophic consequence, is military use of AI (ruling 3) and so D."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Led a letter from Jewish members of Congress to the Department of Defense and Elon Musk asking about safeguards on Grok for Government and calling for an independent audit of Grok (about hate speech and military AI, not catastrophic risk).", "Beverly Press Park Labrea News, 23 July 2025", "https://friedman.house.gov/media/in-the-news/beverly-press-park-labrea-news-friedman-seeks-details-musk-ai-agreement"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI remarks found are from July 2025 about the Pentagon's Grok contract and guardrails on military AI, which is level D; nothing in 2026 about AI and nothing about catastrophic risk was found.",
+  "notes": "Seven web searches ran; none was refused. Search results on her and AI were thin, so the search may be incomplete. The statement date is the article date (23 July 2025); the interview itself may have been a few days earlier. The article also paraphrases her calling for increased safeguards on AI in military weapons and saying neither the Pentagon nor Musk responded; these are left out as paraphrases. The letter she led is not quoted and its co-signers and date are not given in the article. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 24 September 2026): search results gave conflicting cosponsor lists and none named Friedman; the Congress.gov cosponsor list was not checked directly. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). The first three pages of her official press releases (about June to October 2026) were checked by title; none were about AI. The official site's search page returned no results, so older releases were not fully checked. One search result wrongly described her as a California Assembly member; she was in the Assembly before joining Congress in January 2025."
+}

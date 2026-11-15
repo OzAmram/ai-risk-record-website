@@ -1,0 +1,119 @@
+{
+ "bioguide": "M001163",
+ "member": "Doris O. Matsui",
+ "searches": [
+  "site:matsui.house.gov artificial intelligence",
+  "Doris Matsui superintelligence",
+  "Doris Matsui AI extinction existential risk",
+  "Matsui AI pause moratorium slowdown",
+  "Doris Matsui China AI agreement chips",
+  "\"Matsui\" \"AI safety\" 2026",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2025-07-24",
+   "venue": "Joint statement of Congressional AI Caucus Democrats (Matsui is Vice Chair), press release",
+   "quote": "As AI is integrated with daily life and tech leaders develop more powerful models, such as Artificial General Intelligence, responsible innovation must go hand in hand with appropriate safety guardrails.",
+   "context": "Statement criticizing the Trump AI Action Plan for lacking safety rules and for targeting state AI laws.",
+   "source_label": "Matsui press release",
+   "url": "https://matsui.house.gov/media/press-releases/congressional-ai-caucus-democrats-statement-president-trumps-ai-action-plan",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "boundary"
+   ],
+   "reason": "Ties more powerful models such as artificial general intelligence to a need for safety guardrails and elsewhere refers to 'the escalating risks of AI', a general acknowledgment of serious risk from advanced AI with no catastrophic harm named; borderline with D."
+  },
+  {
+   "date": "2025-12-11",
+   "venue": "Press release statement",
+   "quote": "At the same time, it’s a gift to big tech—stripping away accountability when AI is becoming more powerful and deeply embedded in people’s lives.",
+   "context": "Statement opposing President Trump's executive order targeting state AI regulation.",
+   "source_label": "Matsui press release",
+   "url": "https://matsui.house.gov/media/press-releases/matsui-statement-trumps-ai-executive-order",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says AI is becoming more powerful (and in the same statement refers to real, evolving risks), but in the context of state consumer safeguards and accountability, without describing a serious or catastrophic danger from AI itself."
+  },
+  {
+   "date": "2026-03-20",
+   "venue": "Press release introducing the GUARDRAILS Act",
+   "quote": "“Republicans keep trying to strip states of the ability to enact commonsense AI safeguards—at a time when there are no meaningful federal protections in place,”",
+   "context": "Introduction of a bill to repeal the executive order that seeks to block state AI laws.",
+   "source_label": "Matsui press release",
+   "url": "https://matsui.house.gov/media/press-releases/matsui-beyer-lieu-jacobs-mcclain-delaney-introduce-legislation-repeal-white",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About preserving state AI safeguards and broadband funding; no catastrophic risk acknowledged."
+  },
+  {
+   "date": "2026-10-01",
+   "venue": "Press release introducing the Protecting Kids from Human-Like Chatbots Act",
+   "quote": "“AI chatbots are becoming more common in children’s lives, and parents deserve to know those systems are not being designed to imitate a friend, express feelings, or build an emotional relationship with their child,”",
+   "context": "Bipartisan bill requiring AI chatbots used by minors not to imitate human relationships.",
+   "source_label": "Matsui press release",
+   "url": "https://matsui.house.gov/media/press-releases/matsui-introduces-bipartisan-legislation-protect-children-human-chatbots",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Child safety from chatbots is outside the scope of catastrophic risk, so D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development. Her repeated opposition to an 'AI moratorium' concerns a federal moratorium on state AI laws, not a pause on AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development. She is not listed among the cosponsors of the Ban Artificial Superintelligence Act (H.R. 10538) on FastDemocracy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led a letter from 81 House members opposing reviving a moratorium on state AI laws in the National Defense Authorization Act; the letter cites California's frontier AI transparency law (SB-53) approvingly but does not discuss catastrophic risk.",
+   "Matsui press release, 2025-11-26",
+   "https://matsui.house.gov/media/press-releases/matsui-leads-colleagues-opposing-push-revive-ai-moratorium-ndaa"
+  ],
+  [
+   "Introduced the GUARDRAILS Act to repeal the executive order that seeks to preempt state AI laws.",
+   "Matsui press release, 2026-03-20",
+   "https://matsui.house.gov/media/press-releases/matsui-beyer-lieu-jacobs-mcclain-delaney-introduce-legislation-repeal-white"
+  ],
+  [
+   "Co-led the bipartisan Protecting Kids from Human-Like Chatbots Act.",
+   "Matsui press release, 2026-10-01",
+   "https://matsui.house.gov/media/press-releases/matsui-introduces-bipartisan-legislation-protect-children-human-chatbots"
+  ],
+  [
+   "Not a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538, Casar); she is absent from the 12 cosponsors listed.",
+   "FastDemocracy bill page, checked 2026-11-12",
+   "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only C-level material is a July 2025 joint AI Caucus statement linking artificial general intelligence to a need for safety guardrails; her 2026 AI statements (state preemption fight, children's chatbot bill) do not acknowledge catastrophic risk, so under the 2026 ruling the suggestion is D.",
+ "notes": "7 web searches ran; none surfaced news coverage of Matsui on catastrophic AI risk, superintelligence, a pause, or China talks. Pages read directly from matsui.house.gov (press releases and the technology issue pages 0-2, covering March 2025 to October 2026). The July 2025 C label is borderline: the joint statement is from 8 Democratic caucus members, and 'escalating risks of AI' is general. She also co-led the 2025 letter opposing the reconciliation-bill moratorium (not opened). The H.R. 10538 cosponsor list comes from FastDemocracy; congress.gov could not be fetched, and other sources gave 9 or 10 cosponsors, so the list may be incomplete or out of date. Her March 2026 ranking-member opening remarks at an NTIA oversight hearing mention AI only regarding states' AI laws and broadband funding."
+}

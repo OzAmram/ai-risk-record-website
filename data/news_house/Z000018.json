@@ -1,0 +1,25 @@
+{
+  "bioguide": "Z000018",
+  "member": "Ryan K. Zinke",
+  "searches": [
+    "Zinke artificial intelligence (restricted to zinke.house.gov)",
+    "Ryan Zinke superintelligence",
+    "Ryan Zinke AI extinction existential risk",
+    "Zinke AI pause slowdown moratorium data centers",
+    "Zinke China AI agreement treaty",
+    "\"Zinke\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Rep. Ryan Zinke AI 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, in searches of news, his official site or his press releases, so there is nothing to grade.",
+  "notes": "All required searches ran this time (8 web searches, none refused). None returned any statement by Ryan Zinke about AI; the only zinke.house.gov hit about 'intelligence' was a 2023 Newsmax interview about intelligence on Hamas, not AI. Ban Artificial Superintelligence Act: the House bill is H.R. 10538 (introduced September 2026, led by Rep. Casar); the FastDemocracy tracker (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats, and Zinke is not among them. The Congress.gov cosponsor page returned HTTP 403, so the list was not checked against the official record; news reports disagree on the cosponsor list, but none names Zinke. No House letter on AI risk by Zinke was found (the many-signer letters listed in the House instructions were not searched for, as instructed). Two AI articles from the 'Rep. Ryan Zinke AI 2026' search (NBC Montana on Republicans splitting from Trump on AI; a House Oversight subcommittee AI roundtable story on min.house.gov) were opened and do not mention him. Kept from the earlier attempt: his press release listing (https://zinke.house.gov/media/press-releases, pages 1 to 6 of 20, 25 June 2025 to 9 September 2026, 60 releases) had no title or visible excerpt about AI, superintelligence, data centers or AI talks with China, and the 24 February 2026 State of the Union statement, read in full, does not mention AI; those releases were checked from listing excerpts only, not each in full. Releases before 25 June 2025, floor speeches and hearing remarks were not checked individually. He announced on 2 March 2026 that he will not seek reelection."
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ELECT-IL-02-MILLER",
+  "name": "Donna Miller",
+  "accounts": [
+   {"handle": "Donna4Congress", "account_type": "campaign", "evidence_url": "https://donnaforcongress.com/meet-donna", "evidence": "Her campaign site donnaforcongress.com links to https://x.com/Donna4Congress among its social icons."}
+  ],
+  "notes": "Did not look for a separate Cook County commissioner or personal account. donnamillerforcongress.com is an opponent's attack site, not hers."
+ },
+ {
+  "id": "ELECT-IL-04-GARCIA",
+  "name": "Patty Garcia",
+  "accounts": [
+   {"handle": "pattyforil", "account_type": "campaign", "evidence_url": "https://pattyforillinois.com", "evidence": "The Patty Garcia for Congress campaign site, which calls her Congresswoman-elect for Illinois' 4th District, links to http://X.com/pattyforil in its navigation and footer."}
+  ],
+  "notes": "Handle spelled 'pattyforil' as in the site's link; capitalization may differ on X. No personal account found."
+ },
+ {
+  "id": "ELECT-IL-07-FORD",
+  "name": "La Shawn Ford",
+  "accounts": [
+   {"handle": "FordLaShawnK", "account_type": "personal", "evidence_url": "http://www.lashawnkford.com/", "evidence": "His state representative website (lashawnkford.com, the redirect target of the campaign site listed on Wikipedia) links to https://twitter.com/FordLaShawnK and shows @FordLaShawnK."}
+  ],
+  "notes": "This site is for his state representative office, not his congressional campaign. I found no separate congressional campaign account."
+ },
+ {
+  "id": "ELECT-IL-08-BEAN",
+  "name": "Melissa Bean",
+  "accounts": [
+   {"handle": "Melissabeanil08", "account_type": "campaign", "evidence_url": "https://melissabeanforcongress.com", "evidence": "The Melissa Bean for Congress site (footer reads 'Paid for by Melissa Bean for Congress') links to https://x.com/Melissabeanil08 in its header and footer."}
+  ],
+  "notes": "This is the same handle a search result showed in embedded posts from 'Melissa Bean for Congress'. No personal account found."
+ },
+ {
+  "id": "ELECT-IL-09-BISS",
+  "name": "Daniel Biss",
+  "accounts": [
+   {"handle": "danielbiss", "account_type": "personal", "evidence_url": "https://www.danielbiss.com", "evidence": "The Biss for Congress campaign site links to https://x.com/danielbiss in its header and footer."}
+  ],
+  "notes": "The campaign site links to this account, but its handle is his own name, so it is probably his long-running personal account; it could also count as campaign. I did not check for a separate Evanston mayor account."
+ },
+ {
+  "id": "ELECT-IN-05-FORD",
+  "name": "J.D. Ford",
+  "accounts": [
+   {"handle": "jdford4congress", "account_type": "campaign", "evidence_url": "https://www.electjdford.com/", "evidence": "The 'J.D. Ford for Congress | Indiana's 5th District' campaign site (linked from a readthereporter.com article on his launch) contains a link to https://x.com/jdford4congress."}
+  ],
+  "notes": "I took the link from the campaign site's raw HTML with curl because the page summary showed no links. I found no personal or state-senate account."
+ }
+]

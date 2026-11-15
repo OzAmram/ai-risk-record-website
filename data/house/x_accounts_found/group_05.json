@@ -1,0 +1,86 @@
+[
+  {
+    "id": "M001231",
+    "name": "John W. Mannion",
+    "accounts": [
+      {
+        "handle": "MannionforNY",
+        "account_type": "campaign",
+        "evidence_url": "https://ballotpedia.org/John_Mannion",
+        "evidence": "Ballotpedia's John Mannion page links https://x.com/MannionforNY under the label 'Campaign X'."
+      }
+    ],
+    "notes": "No current official X account found. The official site mannion.house.gov links only Facebook, Instagram and Bluesky, not X. Ballotpedia and the House Press Gallery list (updated 29 April 2026) still give the official handle as JohnMannionNY22, which the input says did not work; I found no replacement handle and no reporting that he left X. He may have deleted or deactivated the official account. The campaign site mannionforny.com has no X link, so MannionforNY rests on Ballotpedia alone and I did not check that it is still active."
+  },
+  {
+    "id": "R000619",
+    "name": "Michael A. Rulli",
+    "accounts": [
+      {
+        "handle": "repmichaelrulli",
+        "account_type": "official",
+        "evidence_url": "https://rulli.house.gov",
+        "evidence": "The official House site links https://x.com/repmichaelrulli in its social icons; Ballotpedia and the House Press Gallery list give it as RepMichaelRulli (same handle, different capitalization)."
+      }
+    ],
+    "notes": "No personal or campaign X account found on Ballotpedia or the campaign site rulliforcongress.com."
+  },
+  {
+    "id": "V000139",
+    "name": "Matt Van Epps",
+    "accounts": [
+      {
+        "handle": "repvanepps",
+        "account_type": "official",
+        "evidence_url": "https://vanepps.house.gov",
+        "evidence": "The official House site links https://x.com/repvanepps in its header, footer and an embedded 'Tweets by Congressman Matt Van Epps' section."
+      }
+    ],
+    "notes": "No personal or campaign X account found; Ballotpedia lists only the official X account."
+  },
+  {
+    "id": "G000589",
+    "name": "Lance Gooden",
+    "accounts": [
+      {
+        "handle": "RepLanceGooden",
+        "account_type": "official",
+        "evidence_url": "https://ballotpedia.org/Lance_Gooden",
+        "evidence": "Ballotpedia's Lance Gooden page links https://x.com/RepLanceGooden under the label 'Official X'."
+      }
+    ],
+    "notes": "The official site gooden.house.gov shows a Twitter icon but its HTML contains no X link, and the House Press Gallery list shows no handle for him, so the official handle rests on Ballotpedia alone. Search results mention an older account 'Lancegooden' (ProPublica Politwoops), but the Politwoops page I opened showed no account details, so I did not add it. The campaign site lancegooden.com has no X link."
+  },
+  {
+    "id": "M001245",
+    "name": "Christian D. Menefee",
+    "accounts": [
+      {
+        "handle": "RepCDMenefee",
+        "account_type": "official",
+        "evidence_url": "https://menefee.house.gov",
+        "evidence": "The official House site links https://x.com/RepCDMenefee in its social icons and an embedded 'Tweets by Congressman Christian Menefee' section."
+      },
+      {
+        "handle": "CDMenefee",
+        "account_type": "campaign",
+        "evidence_url": "https://christianmenefee.com",
+        "evidence": "The 'Christian Menefee for Congress' campaign site links twitter.com/CDMenefee, and Ballotpedia labels https://x.com/CDMenefee as his 'Campaign X'."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C001115",
+    "name": "Michael Cloud",
+    "accounts": [
+      {
+        "handle": "RepMichaelCloud",
+        "account_type": "official",
+        "evidence_url": "https://cloud.house.gov",
+        "evidence": "The official House site links https://x.com/RepMichaelCloud; the House Press Gallery list of members' official X handles also gives @RepMichaelCloud."
+      }
+    ],
+    "notes": "RepMichaelCloud looks like the renamed version of the RepCloudTX handle on file. Search results mention an older account 'MichaelJCloud' (ProPublica Politwoops), but the page I opened showed no account details, so I did not add it. Ballotpedia lists no X account for him."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "bioguide": "B001325",
+  "member": "Sheri Biggs",
+  "searches": [
+    "Sheri Biggs artificial intelligence site:sheribiggs.house.gov",
+    "Sheri Biggs superintelligence",
+    "Sheri Biggs AI extinction existential risk",
+    "Sheri Biggs AI pause slowdown moratorium",
+    "Sheri Biggs China AI agreement treaty",
+    "\"Sheri Biggs\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI was found since January 2025, so there is nothing to grade.",
+  "notes": "All six required web searches ran in this attempt, plus one extra search on the Ban Artificial Superintelligence Act cosponsors (seven in total). None of the results mention Sheri Biggs in connection with AI. The official-site search returned only her SMS terms page from sheribiggs.house.gov; its AI-related results were about Rep. Andy Biggs (Arizona), a different member, and were not used. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026, led by Rep. Greg Casar): search results describe about 9 to 10 cosponsors, all Democrats (named ones include Ocasio-Cortez, Hoyle, Lynch, Tonko); no source shows her as a sponsor or cosponsor, but the full Congress.gov cosponsor list was not opened (an earlier attempt got HTTP 403 there). Carried over from the earlier, interrupted attempt (pages opened then, not re-opened now): her official press release listing (three pages, about 30 releases, 3 January 2025 to 2 November 2026) had no release mentioning AI, artificial intelligence or superintelligence; two technology releases opened in full, 'Fights to Keep Chinese Technology out of America's Defense Systems' (22 October 2026) and 'Leads USA 6G Global Leadership Act Through Committee Markup' (23 April 2026), do not mention AI. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Hearing transcripts and floor speeches were not checked beyond what the searches returned."
+}

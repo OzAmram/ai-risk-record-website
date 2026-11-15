@@ -1,0 +1,25 @@
+{
+  "bioguide": "R000603",
+  "member": "David Rouzer",
+  "searches": [
+    "site:rouzer.house.gov artificial intelligence",
+    "David Rouzer superintelligence",
+    "Rouzer AI extinction OR \"existential risk\"",
+    "Rouzer AI pause OR slowdown OR moratorium",
+    "Rouzer China AI agreement OR treaty",
+    "\"David Rouzer\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Rep. David Rouzer artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "All required web searches ran and found no statement by David Rouzer about AI, and his 2026 press releases do not mention AI. He is not listed as a co-sponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All 6 required web searches ran this time, plus 2 extra (8 in total). None returned any page with a statement by David Rouzer about AI, AI risk, superintelligence, extinction, a pause or slowdown, or a China agreement; the site: search returned no rouzer.house.gov pages at all. Ban Artificial Superintelligence Act: the FastDemocracy listing for H.R. 10538 (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) lists 12 cosponsors, all Democrats, and Rouzer is not among them; this listing may not be the final cosponsor list. A press release archive (https://capitolreleases.com/house/rouzer-david, opened) shows his 25 most recent releases (28 February to 21 October 2026), none mentioning AI by title. The earlier attempt also opened his official site directly: press release listing pages 1-4 (https://rouzer.house.gov/news/documentquery.aspx?DocumentTypeID=27, 17 December 2025 to 21 October 2026), the Rouzer Roadmap Third Edition (11 May 2026) and his 24 February 2026 State of the Union statement; none mention AI. Limits: mostly titles and listing excerpts were seen, so a full release, hearing remark or floor speech could still mention AI; 2025 press releases before mid-December were not checked individually. No House AI-risk letter led by him was found."
+}

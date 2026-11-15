@@ -1,0 +1,66 @@
+{
+  "bioguide": "S001218",
+  "member": "Melanie A. Stansbury",
+  "searches": [
+    "Stansbury artificial intelligence (restricted to stansbury.house.gov)",
+    "Melanie Stansbury superintelligence",
+    "Stansbury AI extinction existential risk",
+    "Stansbury AI pause moratorium slowdown data center",
+    "Rep. Stansbury China AI agreement treaty",
+    "\"Melanie Stansbury\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-24",
+      "venue": "Letter to New Mexico state officials, published in a press release",
+      "quote": "a 1,400-acre artificial intelligence data center campus under construction",
+      "context": "Her letter asking the state Attorney General, State Engineer and other officials for information on the water use, water rights and permits of Project Jupiter, an AI data center campus near Santa Teresa.",
+      "source_label": "House press release",
+      "url": "https://stansbury.house.gov/media/press-releases/rep-stansbury-demands-answers-project-jupiters-water-use-new-mexico-supreme",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The letter is about a data center's water use and only describes the project as an AI data center; it does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; the Project Jupiter letter asks about water use and does not call for a moratorium.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; she is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Letter asking New Mexico state agencies for information on the water use, water rights and permitting of the Project Jupiter AI data center campus",
+      "House press release, 24 August 2026",
+      "https://stansbury.house.gov/media/press-releases/rep-stansbury-demands-answers-project-jupiters-water-use-new-mexico-supreme"
+    ],
+    [
+      "Introduced a Resolution of Inquiry into the Department of Government Efficiency's use of government data and artificial intelligence at federal agencies (privacy, national security and transparency concerns)",
+      "House press release, 1 April 2025",
+      "https://stansbury.house.gov/media/press-releases/ranking-member-stansbury-introduces-resolution-inquiry-doges-unsanctioned-use"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her AI-related material found is a 2026 letter about the water use of an AI data center and a 2025 oversight resolution on the Department of Government Efficiency's use of AI, both level D. No statement about catastrophic AI risk was found in seven web searches or on her official site.",
+  "notes": "All six required web searches ran this session, plus one on the Ban Artificial Superintelligence Act (seven in total). None of the searches on superintelligence, extinction or existential risk, pause or moratorium, China agreement, or AI safety returned anything by Stansbury. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy listing (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) shows 12 cosponsors and Stansbury is not among them; a Forkast article does not mention her. Congress.gov was not checked this session (it returned HTTP 403 in the earlier attempt), so a later cosponsorship cannot be fully ruled out. 1 April 2025 release on her Resolution of Inquiry into the Department of Government Efficiency's use of AI: the page-reading tool returned only a fragment of her own sentence ('how it is using Artificial Intelligence to data mine our systems') and paraphrased the rest, so it is listed under record rather than as a statement; its concerns are privacy, national security and transparency (level D). From the earlier attempt (still valid): official press release listing pages ?page=0 to ?page=4 (about 3 May 2025 to 30 September 2026) were scanned by excerpt and only the Project Jupiter release mentioned AI. The Project Jupiter quote is a short fragment returned by the page-reading tool from the letter's opening paragraph; a reviewer should confirm it on the page and check whether others co-signed the letter. Her one direct quote in that release ('In New Mexico we know water is life and our communities are facing a historic water crisis,') does not mention AI. The 12 March 2026 release with Warren and Blumenthal concerns Trump settlements, not AI, based on its excerpt. The many-signer August and September 2026 House letters were not searched, per instructions. Hearing remarks, floor speeches and interviews were covered only as far as the web searches reached."
+}

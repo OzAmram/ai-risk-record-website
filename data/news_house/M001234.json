@@ -1,0 +1,39 @@
+{
+  "bioguide": "M001234",
+  "member": "Kelly Morrison",
+  "searches": [
+    "Kelly Morrison artificial intelligence (restricted to morrison.house.gov)",
+    "Rep. Kelly Morrison superintelligence",
+    "Kelly Morrison AI extinction existential risk",
+    "Kelly Morrison AI pause slowdown moratorium",
+    "Kelly Morrison China AI agreement treaty",
+    "\"Kelly Morrison\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2025-12-03",
+      "venue": "Press release",
+      "quote": "the potential for harm is too great to ignore",
+      "context": "She joined more than 40 colleagues urging that any moratorium or preemption of state AI laws be kept out of the FY26 National Defense Authorization Act, citing inaccurate facial recognition, deepfakes and chatbots marketed to children.",
+      "source_label": "Rep. Morrison press release, 3 December 2025",
+      "url": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-calls-for-exclusion-of-ai-moratorium-in-ndaa",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter"],
+      "reason": "The harms she names are consumer harms (facial recognition, deepfakes, chatbots and children), not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement of her own found on slowing frontier AI development; her opposition to an 'AI moratorium' in the defense bill is about blocking state AI laws, not AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; she is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": []}
+  },
+  "record": [
+    ["Joined more than 40 House colleagues urging that any moratorium or preemption of state AI laws be excluded from the FY26 National Defense Authorization Act.", "Rep. Morrison press release, 3 December 2025", "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-calls-for-exclusion-of-ai-moratorium-in-ndaa"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only statement in her own words about AI that was found (December 2025) is about consumer harms such as deepfakes and chatbots, which is level D. No statement of her own on catastrophic AI risk was found, and none in her own words from 2026.",
+  "notes": "All 6 required web searches ran, plus 1 extra search to check the Ban Artificial Superintelligence Act cosponsors (7 in total). The 4 general news searches (superintelligence, extinction, pause, China) and the \"AI safety\" search returned nothing about this representative; the extinction and AI safety searches matched other people, such as Elizabeth Kelly of the US AI Safety Institute. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the fastdemocracy.com tracker (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, and Morrison is not among them; the congress.gov cosponsor page returned HTTP 403, so this was not confirmed at the official source. A Semafor article on the bill (23 September 2026) does not mention her. Left out per instructions: her 16 September 2026 press release (https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-calls-on-speaker-mike-johnson-to-keep-congress-in-session-and-address-ai-safety-warnings, opened) says she joined more than 100 colleagues on a letter to Speaker Johnson about AI safety warnings; this appears to be the 15 September 2026 many-signer letter, which is handled centrally. That page has no statement in her own words; its only quotes are attributed jointly to 'the lawmakers' (\"We cannot disagree about the imperative for Congress to act,\"), so it was not graded here. On the December 2025 page, the page-fetch tool returned her sentence in two parts: 'Artificial intelligence offers exciting opportunity and innovations, but without proper protections in place,' and 'the potential for harm is too great to ignore', so only the second part is used as the quote. The December 2025 letter itself was not opened. No other House letter on AI risk signed by her was found. In an earlier attempt, the press-release listing pages on her site returned HTTP 410."
+}

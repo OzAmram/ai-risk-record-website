@@ -1,0 +1,56 @@
+{
+ "bioguide": "ELECT-NY-21-CONSTANTINO",
+ "member": "Anthony Constantino",
+ "searches": [
+  "Anthony Constantino Sticker Mule artificial intelligence",
+  "Anthony Constantino NY-21 \"AI safety\"",
+  "Constantino congress campaign AI superintelligence",
+  "Anthony Constantino AI existential risk extinction",
+  "Anthony Constantino AI regulation pause moratorium data centers Stefanik seat",
+  "Anthony Constantino China AI agreement",
+  "\"Constantino for Congress\" New York 21st district",
+  "Anthony Constantino congressional candidate interview artificial intelligence AI jobs 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-06",
+   "venue": "WAMC radio interview (published transcript, lightly edited for clarity)",
+   "quote": "I don't like the fear-mongering about it, and so I want to have an open mind with regards to to AI and do what makes sense for the citizens. I think AI is going to help people create jobs. It's going to help people increase wages.",
+   "context": "Asked whether he would support regulating or placing guardrails on AI, he said he wanted to talk to AI leaders and was positive about AI's benefits.",
+   "source_label": "WAMC",
+   "url": "https://www.wamc.org/news/2026-10-06/ny-21-interview-republican-anthony-constantino",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "He rejects 'fear-mongering' about AI in general and promotes its benefits, but does not mention or specifically dismiss catastrophic risk, so it sits between D and F and is labelled D."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only substantial AI remark found (October 2026) promotes AI and rejects fear-mongering about it without addressing catastrophic risk; a reviewer could read the fear-mongering line as F.",
+ "notes": "8 web searches ran, none refused. He has no house.gov site and holds no prior office, so there is no official record or bill sponsorship; he could not have co-sponsored the Ban Artificial Superintelligence Act and none of the search results suggested otherwise. WAMC article date 2026-10-06; the interview date is not given, so the publication date is used. Not included: Sticker Mule press releases from 2025 (Grok partnership, X bots) where he praises xAI as a company executive, with nothing on risk; a sponsored (paid) City & State Q&A from October 2026 reportedly mentioning AI-enabled scams targeting seniors (not opened; scams are D anyway). Search summaries mentioned a second interview where he said local communities should decide on AI infrastructure and that 'AI is incredible'; I could not identify or open its source, so it is left out. A Glens Falls Chronicle interview (February 2026) was opened and does not mention AI. Note: X/campaign site were not searched per instructions; a campaign site was not found in results."
+}

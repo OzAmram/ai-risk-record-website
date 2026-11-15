@@ -1,0 +1,39 @@
+{
+  "bioguide": "S001213",
+  "member": "Bryan Steil",
+  "searches": [
+    "Steil artificial intelligence (restricted to steil.house.gov)",
+    "Bryan Steil superintelligence",
+    "Bryan Steil AI extinction existential risk",
+    "Steil AI pause slowdown moratorium",
+    "Bryan Steil China AI agreement treaty",
+    "\"Bryan Steil\" \"AI safety\"",
+    "Chairman Steil opening statement hearing artificial intelligence financial services"
+  ],
+  "statements": [
+    {
+      "date": "2026-03-26",
+      "venue": "House Financial Services subcommittee hearing with financial regulators (opening statement)",
+      "quote": "Regulators must evolve as quickly as the technologies that they oversee.",
+      "context": "As subcommittee chairman he opened a hearing on how financial regulators keep pace with artificial intelligence, digital assets and real-time payments.",
+      "source_label": "Nimitz Tech hearing summary newsletter",
+      "url": "https://nimitz-tech.beehiiv.com/p/nimitz-tech-hearing-3-26-2026-01fe",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He talks about regulators keeping up with technologies including AI, with no mention of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Named chairman of the House Financial Services Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence for the 119th Congress.", "Steil press release, 2025-01-09", "https://steil.house.gov/media/press-releases/steil-named-chairman-of-the-subcommittee-on-digital-assets-financial-technology-and-artificial-intelligence"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He chairs a House subcommittee that covers AI and has spoken about AI in finance in 2025 and 2026, but no statement acknowledging catastrophic risk from AI was found.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra on his hearing remarks (7 in total); none was refused. None of the searches on superintelligence, extinction, pause or slowdown, a China agreement or \"AI safety\" returned anything by or about him. The single D statement comes from a third-party newsletter summary of the 26 March 2026 hearing, not an official transcript; the quote itself does not name AI, but the hearing and his surrounding (paraphrased) remarks were about AI, digital assets and payments. Paraphrases left out: the same newsletter says he asked how agencies use AI to fight fraud and said regulators need tools to understand risks without hindering innovation; an MFDF article (https://www.mfdf.org/news-resources/news/2025/10/01/house-financial-services-subcommittee-holds-hearing-on-ai-in-the-us-financial-system) paraphrases him at the 18 September 2025 subcommittee hearing on AI in finance asking whether a new framework is needed so that guardrails are in place. A search result showed a June 2026 Committee on House Administration page, 'Chairman Steil delivers opening remarks at full committee hearing on the Congressional Research Service and AI' (https://cha.house.gov/2026/6/chairman-steil-delivers-opening-remarks-at-full-committee-hearing-on-the-congressional-research-service-and-ai), but it returned HTTP 404 when opened, so its wording was not checked; a reviewer may want to find it. His 9 January 2025 press release mentions 'machine learning' only as a technology reshaping the economy. Earlier attempt (kept): his press release listing https://steil.house.gov/media/press-releases pages ?page=0 to ?page=5 (6 March 2025 to 30 October 2026) had no release about AI risk. Ban Artificial Superintelligence Act (H.R. 10538): the Congress.gov cosponsor page returned HTTP 403 again; Al Jazeera (23 September 2026) names Sanders and Casar as introducers and does not mention Steil; no source seen shows him as sponsor or cosponsor. No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

@@ -1,0 +1,61 @@
+{
+  "bioguide": "W000812",
+  "member": "Ann Wagner",
+  "searches": [
+    "site:wagner.house.gov artificial intelligence",
+    "Ann Wagner superintelligence",
+    "\"Ann Wagner\" AI extinction OR \"existential risk\"",
+    "\"Ann Wagner\" AI pause OR slowdown OR moratorium",
+    "\"Ann Wagner\" China artificial intelligence agreement OR treaty",
+    "\"Ann Wagner\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-08-04",
+      "venue": "Press release introducing the ENFORCE Act",
+      "quote": "The world is constantly changing with AI, and predators and child abusers are adapting to these new technologies.",
+      "context": "Wagner introduced the ENFORCE Act with Reps. Van Drew and Cohen so that AI-generated child sexual abuse material is prosecuted like other federal sex crimes.",
+      "source_label": "House press release (wagner.house.gov), 4 August 2025",
+      "url": "https://wagner.house.gov/media-center/press-releases/wagner-introduces-enforce-act-combat-ai-generated-child-sexual-abuse",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The statement is about AI-generated child abuse material, a harm outside this project's scope, and does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the ENFORCE Act (with Reps. Van Drew and Cohen) to prosecute AI-generated child sexual abuse material like other federal sex crimes.",
+      "wagner.house.gov press release, 2025-08-04",
+      "https://wagner.house.gov/media-center/press-releases/wagner-introduces-enforce-act-combat-ai-generated-child-sexual-abuse"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI remark found is from 2025 and concerns AI-generated child abuse material, not catastrophic risk; no 2026 AI statement was found.",
+  "notes": "All 6 required web searches ran this time, plus 1 more on the Ban Artificial Superintelligence Act (7 in total). None of the searches returned anything by or about Ann Wagner on AI risk, superintelligence, extinction, a pause or slowdown, a China agreement or AI safety; the site-restricted search returned no wagner.house.gov pages at all. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the cosponsor list on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) does not include Wagner; congress.gov returned 403 so the official list was not checked. No source shows her signing any other House letter about AI risk. From the earlier attempt: her official press release listing pages 1 to 10 (about 9 January 2025 to 30 October 2026) were checked by title and excerpt; only the 4 August 2025 ENFORCE Act release mentions AI. The 31 March 2026 China bill release, the 9 April 2026 child-abuse bill release and the 10 April 2025 open-source intelligence roundtable release contain no Wagner quote about AI. Full text of other releases was not read. The ENFORCE Act quote was re-checked this time by opening the page (through a fetch tool that summarizes pages); it matched. Interviews, hearing remarks (she sits on the House Intelligence Committee) and floor speeches were not searched beyond the queries above."
+}

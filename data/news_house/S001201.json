@@ -1,0 +1,25 @@
+{
+  "bioguide": "S001201",
+  "member": "Thomas R. Suozzi",
+  "searches": [
+    "site:suozzi.house.gov artificial intelligence",
+    "Suozzi superintelligence",
+    "Tom Suozzi AI extinction existential risk",
+    "Suozzi AI pause slowdown moratorium",
+    "Suozzi China AI agreement treaty",
+    "\"Tom Suozzi\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House",
+    "Rep. Suozzi artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Suozzi about AI was found in any of the eight searches or on his official press release pages, so there is nothing to grade.",
+  "notes": "All six required web searches ran this time, plus two extra (eight in total); none was refused. None of the searches returned a statement by Suozzi about AI; the site-restricted search returned no pages from suozzi.house.gov. Ban Artificial Superintelligence Act (House bill H.R. 10538, September 2026): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Suozzi is not among them; congress.gov refused the page fetch (HTTP 403), so the official cosponsor list was not checked and cosponsors added later could be missing. The 17 April 2026 Associated Press story on lawmakers meeting about AI fears (news4jax.com copy) was opened and does not mention Suozzi. Kept from the earlier attempt (not re-checked this run): the official press release listing (https://suozzi.house.gov/media/press-releases, pages 1-3) covering about 40 releases from 17 March 2026 to 12 November 2026 had nothing on AI risk, superintelligence or AI talks with China; the 8 October 2026 release 'Suozzi Convenes Long Island Robotics Roundtable' (https://suozzi.house.gov/media/press-releases/suozzi-convenes-long-island-robotics-roundtable) mentions 'physical AI' and 'safety standards for newer AI-powered robots' only in the office's narration, not in Suozzi's own quoted words, so it is not recorded as a statement (it would be level D in any case); the 8 June 2026 release on his appointment to the Select Committee on the Chinese Communist Party does not mention AI. Press releases before 17 March 2026 and all of 2025 were not checked page by page. He was a member of the House Homeland Security Committee for a May 2024 AI hearing (before the period covered). Pages were read through a fetch tool that summarises pages."
+}

@@ -1,0 +1,140 @@
+{
+ "bioguide": "B001321",
+ "member": "Tom Barrett",
+ "searches": [
+  "site:barrett.house.gov artificial intelligence (refused: shared search limit used up)",
+  "Rep. Tom Barrett Michigan superintelligence (refused: shared search limit used up)",
+  "Tom Barrett congressman AI extinction existential risk (refused: shared search limit used up)",
+  "Tom Barrett Michigan AI pause slowdown moratorium (refused: shared search limit used up)",
+  "Rep. Tom Barrett China AI agreement treaty (refused: shared search limit used up)",
+  "\"Tom Barrett\" \"AI safety\" (refused: shared search limit used up)"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-29",
+   "venue": "Letter to Secretary of State Rubio and UN Ambassador Waltz (sole signer)",
+   "quote": "Even employees from America’s top two AI labs warn that this technology is racing to a finish line for humanity.",
+   "context": "Barrett cites a Wall Street Journal report on an Anthropic researcher who quit over out-of-control AI fears, then writes in the next paragraph: \"I believe we must take these warnings seriously\".",
+   "source_label": "Letter PDF on barrett.house.gov",
+   "url": "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "A relayed warning that AI threatens humanity, endorsed in his own words (\"we must take these warnings seriously\"); boundary because the phrase is figurative and he then frames the risk as one to national security."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Letter to Secretary of State Rubio and UN Ambassador Waltz, quoted in press release",
+   "quote": "This next frontier in emerging technology has the ability to propel this world into a golden age or send us into collapse.",
+   "context": "Closing of his letter urging international AI talks, including with adversaries, before it is too late.",
+   "source_label": "Barrett press release, 29 Sep 2026",
+   "url": "https://barrett.house.gov/media/press-releases/barrett-urges-secretary-rubio-un-ambassador-waltz-work-international-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "States in his own words that AI could send the world into collapse, a catastrophic risk not limited to misuse; boundary with C because the harm is not specified."
+  },
+  {
+   "date": "2026-09-29",
+   "venue": "Letter to Secretary of State Rubio and UN Ambassador Waltz (sole signer)",
+   "quote": "The dangerous reality is that AI – in the wrong hands – can be used to carry out highly sophisticated cyberattacks on our energy grid, deliver a lethal biological weapon into our communities, or undermine our banking system.",
+   "context": "Arguing the US must win the AI race so adversaries cannot weaponize AI.",
+   "source_label": "Letter PDF on barrett.house.gov",
+   "url": "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "misuse_only",
+    "bill_or_action"
+   ],
+   "reason": "Names biological weapons and grid attacks, but only as misuse by people, so C under the misuse-only ruling."
+  },
+  {
+   "date": "2026-10-09",
+   "venue": "Press release introducing H.R. 10768",
+   "quote": "We are already seeing it replace American jobs, threaten our national security, and degrade human dignity. These risks cannot be ignored",
+   "context": "Introducing the Artificial Intelligence Governance and Emerging Threats Act to create a Cabinet-level office on AI threats.",
+   "source_label": "Barrett press release, 9 Oct 2026",
+   "url": "https://barrett.house.gov/media/press-releases/barrett-introduces-legislation-address-growing-threats-artificial-intelligence",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The harms named are jobs, a general national security threat and human dignity, which are D under the rulings."
+  },
+  {
+   "date": "2026-07-17",
+   "venue": "Press release introducing H.R. 9729",
+   "quote": "Artificial intelligence is playing an increasingly critical role in strengthening our national defense, but it should never be the one making life-or-death decisions,",
+   "context": "Introducing a bill with Beyer and Jacobs requiring human oversight of autonomous and AI weapons.",
+   "source_label": "Barrett press release, 17 Jul 2026",
+   "url": "https://barrett.house.gov/media/press-releases/barrett-beyer-jacobs-introduce-bipartisan-bill-require-human-oversight-over",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Military use of AI and human control of lethal force is D under ruling 3."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "His 29 Sep 2026 letter urges talks with allies and adversaries toward an international AI treaty, incident sharing, risk management and human control of nuclear weapons, but does not mention China by name or coordinating on the pace of AI development or a pause, so it does not meet the definition; a reviewer may want to weigh this.",
+   "sources": [
+    [
+     "Barrett letter to Rubio and Waltz, 29 Sep 2026",
+     "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on a ban on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Sole-signed letter urging Secretary Rubio and Ambassador Waltz to pursue an international AI agreement and treaty, with allies and adversaries",
+   "Letter and press release, 29 Sep 2026",
+   "https://barrett.house.gov/sites/evo-subsites/barrett.house.gov/files/evo-media-document/letter-to-secretary-rubio-and-ambassador-waltz-on-ai.pdf"
+  ],
+  [
+   "Introduced the Artificial Intelligence Governance and Emerging Threats Act (H.R. 10768) creating a Cabinet-level Office of Artificial Intelligence and Emerging Technology Threats",
+   "Barrett press release, 9 Oct 2026",
+   "https://barrett.house.gov/media/press-releases/barrett-introduces-legislation-address-growing-threats-artificial-intelligence"
+  ],
+  [
+   "Introduced, with Beyer and Jacobs, the Human Authority over Autonomous Weapons Act (H.R. 9729)",
+   "Barrett press release, 17 Jul 2026",
+   "https://barrett.house.gov/media/press-releases/barrett-beyer-jacobs-introduce-bipartisan-bill-require-human-oversight-over"
+  ],
+  [
+   "Listed as having introduced or co-sponsored the AI Threat Output and Monitoring Incident Containment Act (H.R. 9965), to test advanced AI systems to prevent risks to nuclear safety",
+   "Barrett press release, 29 Sep 2026",
+   "https://www.congress.gov/bill/119th-congress/house-bill/9965"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In a 2026 letter he relays lab employees' warning that AI is \"racing to a finish line for humanity\" and says \"we must take these warnings seriously\", which ruling 2 makes A; he also says in his own words AI could \"send us into collapse\" (B). No dismissive statement found. The A rests on one figurative, endorsed relayed warning, so B is a defensible alternative.",
+ "notes": "All six web searches were refused because the shared search limit was used up, so this search is incomplete: no news, interviews, hearing remarks or floor speeches were checked. Instead I opened barrett.house.gov directly (press release list pages 1 to 4, the 29 Sep and 9 Oct 2026 releases, the letter PDF, the 17 Jul 2026 weapons release, and the introduced and co-sponsored legislation pages; the co-sponsored page showed no list). Not checked: whether he co-sponsored the Ban Artificial Superintelligence Act; no source seen either way. H.R. 9965 is listed under 'introduced or co-sponsored', so his role is unclear; its own release was not found. The Sep 18 VA AI bills and data center bills were not opened in full (outside scope: VA claims, data center siting and NDAs). Press release page fetched with curl; letter PDF read directly."
+}

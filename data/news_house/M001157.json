@@ -1,0 +1,105 @@
+{
+ "bioguide": "M001157",
+ "member": "Michael T. McCaul",
+ "searches": [
+  "site:mccaul.house.gov artificial intelligence",
+  "McCaul superintelligence",
+  "McCaul AI existential risk extinction",
+  "McCaul AI pause slowdown moratorium",
+  "McCaul China AI agreement treaty talks 2026",
+  "\"McCaul\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {
+   "date": "2026-07-24",
+   "venue": "Remarks at a House Homeland Security and China Select Committee war game, quoted from NextGov in a committee press release",
+   "quote": "This committee has been briefed extensively on our latest AI capabilities, Anthropic in particular, the Mythos model, and the amount of destruction that Mythos can do if it’s in the wrong hands,",
+   "context": "McCaul led member participation in a closed-door war game on AI-enabled Chinese cyberattacks on US critical infrastructure during a Taiwan crisis.",
+   "source_label": "House Homeland Security Committee press release (quoting NextGov)",
+   "url": "https://homeland.house.gov/2026/07/24/house-homeland-china-select-members-participate-in-war-game-exercise-on-ai-enabled-cyber-threats-to-u-s-critical-infrastructure/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "misuse_only",
+    "boundary"
+   ],
+   "reason": "Names serious destructive harm from an advanced AI model, but only if misused by an adversary for cyberattacks, so C with misuse_only; it could be read as D under rubric ruling 4 (cyber harm only)."
+  },
+  {
+   "date": "2026-09-14",
+   "venue": "Press release on introducing the AIM to Cure Kids with Cancer Act",
+   "quote": "We owe it to our nation's children to leverage cutting-edge AI to improve their care and treatment options.",
+   "context": "McCaul introduced the Ailani Myers Accelerating Innovation in Medicine (AIM) to Cure Kids with Cancer Act to use AI in pediatric cancer research.",
+   "source_label": "McCaul House press release",
+   "url": "https://mccaul.house.gov/media-center/press-releases/mccaul-introduces-legislation-accelerate-breakthroughs-pediatric-0",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Promotes AI for medical research and does not acknowledge catastrophic risk."
+  },
+  {
+   "date": "2026-01-14",
+   "venue": "House Foreign Affairs Committee hearing remarks (press release)",
+   "quote": "you cannot sell military-grade AI technology to China",
+   "context": "McCaul argued for export controls on advanced AI chips to China and described his ENFORCE Act.",
+   "source_label": "McCaul House press release",
+   "url": "https://mccaul.house.gov/media-center/press-releases/mccaul-discusses-importance-keeping-american-ai-out-ccps-hands-hfac",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Competition with China and export controls are not catastrophic AI risk under ruling 5."
+  },
+  {
+   "date": "2025-11-20",
+   "venue": "Hearing on semiconductor export controls (press release)",
+   "quote": "I see no reason, first of all, that we should be selling AI military-grade technology chips to China.",
+   "context": "McCaul discussed DeepSeek and chip export controls at a hearing.",
+   "source_label": "McCaul House press release",
+   "url": "https://mccaul.house.gov/media-center/press-releases/mccaul-remarks-hearing-semiconductor-export-controls",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About export controls and competition with China, not catastrophic risk from AI."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI; his remarks favor export controls and an allied AI race against China, which does not count.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Introduced the AIM to Cure Kids with Cancer Act to use AI in pediatric cancer research (not about AI risk).",
+   "McCaul press release, 2026-09-14",
+   "https://mccaul.house.gov/media-center/press-releases/mccaul-introduces-legislation-accelerate-breakthroughs-pediatric-0"
+  ],
+  [
+   "Led member participation in a bipartisan House Homeland Security and China Select Committee war game on AI-enabled cyber threats to US critical infrastructure (Mythos-level AI capabilities in Chinese hands).",
+   "House Homeland Security Committee press release, 2026-07-24",
+   "https://homeland.house.gov/2026/07/24/house-homeland-china-select-members-participate-in-war-game-exercise-on-ai-enabled-cyber-threats-to-u-s-critical-infrastructure/"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His strongest 2026 remark (July 2026) speaks of the destruction the Mythos AI model could do in the wrong hands, which is misuse only, so C under ruling 1; his other 2026 AI remarks are about export controls, competition with China and AI for cancer research (D). The C is a boundary case and a reviewer could reasonably make it D, since the harm named is cyberattack.",
+ "notes": "All 7 web searches ran (the 6 required plus one on Ban Artificial Superintelligence Act cosponsors). The search found no statement by McCaul on superintelligence, extinction, a pause or slowdown, or AI agreements with China. Ban Artificial Superintelligence Act (H.R. 10538, Casar, 2026-09-24): no source shows McCaul as a cosponsor; search results name only Democratic cosponsors, but no complete cosponsor list was seen (congress.gov returned 403 in the earlier attempt). The 2026-07-24 quote is McCaul's spoken remark as reported by NextGov and reproduced on the committee page; the war game was held 'this week', so the exact day of the remark is not known and the press release date is used. The same release has his own statement that 'advanced AI models have supercharged these capabilities' of China-backed hackers and calls for 'a decisive American lead in the AI race' (D, not added). From the earlier attempt: official press release pages 1-6 (about December 2025 to October 2026) were read and AI-related ones opened. The 2026-01-14 and 2025-11-20 quotes came through a page-reading tool limited to short excerpts; the reviewer should confirm exact wording at the source. The 2026-02-25 release (AI supply chains with Under Secretary Helberg) calls AI 'the future of warfare' and speaks of an AI race against China (D, not quoted)."
+}

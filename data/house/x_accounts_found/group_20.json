@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ELECT-SC-05-CLIMER",
+  "name": "Wes Climer",
+  "accounts": [
+   {"handle": "WesClimer", "account_type": "campaign", "evidence_url": "https://wesclimer.com/", "evidence": "The Climer for Congress campaign site footer links to https://x.com/WesClimer; his Ballotpedia page also links x.com/WesClimer."}
+  ],
+  "notes": "Likely a personal/campaign account used since his state senate years; no separate official House account exists yet (representative-elect)."
+ },
+ {
+  "id": "ELECT-SD-00-JACKLEY",
+  "name": "Marty Jackley",
+  "accounts": [
+   {"handle": "JackleyMar8682", "account_type": "personal", "evidence_url": "https://ballotpedia.org/Marty_Jackley", "evidence": "The raw HTML of his Ballotpedia page contains a link to x.com/JackleyMar8682 (the link label could not be read)."}
+  ],
+  "notes": "LOW CONFIDENCE. The campaign site martyjackley.com has X/Facebook/Instagram icons that all point to '#' placeholders, so it gives no handle. The JackleyMar8682 handle looks auto-generated and its Ballotpedia label (personal/campaign) could not be read because WebFetch returned an empty page; verify before use. The South Dakota Attorney General site links @SDAttorneyGen, but that is the office's account (passes to his successor in January 2027), so it is not listed. Search for '@MartyJackley' found nothing. 3 searches used, none refused."
+ },
+ {
+  "id": "ELECT-TN-05-HATCHER",
+  "name": "Charlie Hatcher",
+  "accounts": [
+   {"handle": "HatcherforTN", "account_type": "campaign", "evidence_url": "https://charliehatcher.com/", "evidence": "His campaign site links to https://x.com/HatcherforTN; his Ballotpedia page also links x.com/HatcherforTN."}
+  ],
+  "notes": "No personal account found."
+ },
+ {
+  "id": "ELECT-TN-06-GARRETT",
+  "name": "Johnny Garrett",
+  "accounts": [
+   {"handle": "JohnnyGarrett", "account_type": "campaign", "evidence_url": "https://johnnygarrettforcongress.com/", "evidence": "The page titled 'Johnny Garrett for Congress' (paid for by Johnny Garrett for Congress, the committee name in his FEC filing) links to https://x.com/JohnnyGarrett, alongside facebook.com/johnnycgarrett and instagram.com/johnnycgarrett45."}
+  ],
+  "notes": "The campaign domain was tried directly (not from a search result); its identity is supported by the matching paid-for-by committee and Facebook/Instagram handles matching his older johnnycgarrett.com site name. Could be his long-running personal account rather than campaign-only. Ballotpedia page showed no X link."
+ },
+ {
+  "id": "ELECT-TN-09-TAYLOR",
+  "name": "Brent Taylor",
+  "accounts": [
+   {"handle": "BrentTaylorTN", "account_type": "campaign", "evidence_url": "https://ballotpedia.org/Brent_Taylor_(Tennessee)", "evidence": "The raw HTML of his Ballotpedia page contains a link to x.com/BrentTaylorTN (the link label could not be read)."}
+  ],
+  "notes": "Account type (campaign vs personal) uncertain because the Ballotpedia label could not be read. A search snippet referenced an embedded post from 'Senator Brent Taylor (@SenBrentTaylor)', likely his state senate account, but no opened page confirmed it, so it is not listed. His campaign site brenttaylorforcongress.com has no X link. 3 searches used, none refused."
+ },
+ {
+  "id": "ELECT-TX-02-TOTH",
+  "name": "Steve Toth",
+  "accounts": [
+   {"handle": "SteveTothTX", "account_type": "campaign", "evidence_url": "https://stevetothforcongress.com/", "evidence": "His campaign site links to https://x.com/SteveTothTX; his Ballotpedia page also links x.com/SteveTothTX."}
+  ],
+  "notes": "Likely his long-standing personal/political account as well."
+ }
+]

@@ -1,0 +1,66 @@
+{
+  "bioguide": "M001223",
+  "member": "Seth Magaziner",
+  "searches": [
+    "Magaziner artificial intelligence (restricted to magaziner.house.gov)",
+    "Seth Magaziner superintelligence",
+    "Seth Magaziner AI extinction existential risk",
+    "Seth Magaziner AI pause slowdown moratorium",
+    "Seth Magaziner China AI agreement treaty",
+    "\"Magaziner\" \"AI safety\"",
+    "Rep. Magaziner AI chatbots interview hearing 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-08-25",
+      "venue": "Press release",
+      "quote": "I am proud to introduce the AI Advertising Disclosure Act to ensure Americans know when and how advertising is influencing the information they receive from artificial intelligence.",
+      "context": "Introducing a bill to require AI chatbots and AI-powered search engines to disclose when their answers are influenced by paid commercial arrangements.",
+      "source_label": "Magaziner House press release",
+      "url": "https://magaziner.house.gov/media/press-releases/magaziner-introduces-bill-require-ai-chatbots-and-search-results-disclose-paid",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About consumer transparency in AI advertising; it does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026 (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the AI Advertising Disclosure Act, requiring AI chatbots and generative search engines to disclose paid influence on their responses (consumer protection, not catastrophic risk).",
+      "Magaziner House press release, 25 August 2026",
+      "https://magaziner.house.gov/media/press-releases/magaziner-introduces-bill-require-ai-chatbots-and-search-results-disclose-paid"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI statement found in 2025 or 2026 is about disclosing paid advertising in AI chatbot answers, which is level D. Nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus one extra (seven in total). None found any statement by Magaziner on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety; the results on those topics did not mention him. The site-restricted search and the extra search again surfaced only the AI Advertising Disclosure Act release (25 August 2026), which was reopened and its quote re-checked at source. Older items the site search surfaced (a 2024 election-violence letter with Rep. Bennie Thompson about AI-generated foreign disinformation, the CATCH Fentanyl Act pilot using AI to detect contraband, a SAG-AFTRA roundtable, a FY25 cyber range funding request) predate 2025 or are not about catastrophic risk, so they were left out. The earlier attempt also opened his press release archive directly (pages 1 to 20, about 14 January 2025 to 31 October 2026); the AI Advertising Disclosure Act release was the only one about AI. A 17 August 2026 release on a $1.9 million URI cybersecurity scholarship mentions AI only in the release's own text, not in his quoted words, so it was left out. An April 2026 article on lawmakers meeting privately about AI risk (republished on min.house.gov) was opened and does not mention him. Ban Artificial Superintelligence Act of 2026 (H.R. 10538, introduced 24 September 2026): in the earlier attempt the FastDemocracy page listed 12 cosponsors and Magaziner was not among them; Congress.gov returned 403 and could not be checked, and this was not re-checked now. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

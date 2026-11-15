@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "S000344",
+  "member": "Brad Sherman",
+  "url": "https://amendments-rules.house.gov/amendments/SHERMA_158_xml260618161107802.pdf",
+  "quote": "the United States Government should work with frontier artificial intelligence companies to conduct research to control the ability of artificial intelligence systems to develop self-awareness, ambition, self-preservation, self-replication, or otherwise establishing their own goals and objectives.",
+  "result": "confirmed",
+  "evidence_url": "https://amendments-rules.house.gov/amendments/SHERMA_158_xml260618161107802.pdf",
+  "context": "SEC. 15__. SENSE OF CONGRESS ON FRONTIER ARTIFICIAL INTELLIGENCE COMPANIES. It is the sense of Congress that the United States Government should work with frontier artificial intelligence companies to conduct research to control the ability of artificial intelligence systems to develop self-awareness, ambition, self-preservation, self-replication, or otherwise establishing their own goals and objectives.",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The amendment PDF, headed 'Offered by Mr. Sherman of California' and stamped June 18, 2026, contains this exact wording (split across numbered, hyphenated lines in the PDF). It is amendment text, not spoken words."
+ },
+ {
+  "bioguide": "S001176",
+  "member": "Steve Scalise",
+  "url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+  "quote": "Well, the president is correct in saying that this is a race between the United States and China, and America has got to win.",
+  "result": "wording_differs",
+  "evidence_url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+  "context": "House Majority Leader Steve Scalise said Trump was correct in pointing out that the U.S. is competing against China on AI. “Well, the president is correct in saying that this is a race between the United States and China, and America has got to win,” Scalise told the DCNF. “It’s not surprising that Anthropic of all people is calling for a heavy regulatory structure",
+  "corrected_quote": "Well, the president is correct in saying that this is a race between the United States and China, and America has got to win",
+  "date_ok": true,
+  "explanation": "The words match the Daily Caller article, attributed to Scalise ('Scalise told the DCNF'), except that the article ends the quote with a comma, not a period, before 'Scalise told the DCNF'. The article was published September 15, 2026, and does not say exactly which day the interview took place."
+ },
+ {
+  "bioguide": "S001221",
+  "member": "Hillary J. Scholten",
+  "url": "https://problemsolverscaucus.house.gov/uploadedfiles/psc_ai_letter_to_president_trump.pdf",
+  "quote": "AI developers have consistently warned that the most capable models are developing capabilities that carry serious national security risks. These include enabling sophisticated cyberattacks on critical infrastructure, lowering the barriers to developing biological and chemical weapons",
+  "result": "confirmed",
+  "evidence_url": "https://problemsolverscaucus.house.gov/uploadedfiles/psc_ai_letter_to_president_trump.pdf",
+  "context": "the international rules to govern it. Leading American AI developers have consistently warned that the most capable models are developing capabilities that carry serious national security risks. These include enabling sophisticated cyberattacks on critical infrastructure, lowering the barriers to developing biological and chemical weapons, and increasing the risk of miscalculation in a military crisis.",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The wording is in the letter dated September 24, 2026, which Hillary Scholten signed as Vice-Lead of the AI Working Group; it is a group letter, not her individual words. The original sentence begins 'Leading American AI developers', which the quote omits."
+ },
+ {
+  "bioguide": "T000193",
+  "member": "Bennie G. Thompson",
+  "url": "https://democrats-homeland.house.gov/download/bgt-06042026?download=1",
+  "quote": "To overcome these challenges, we are going need sustained attention on the cybersecurity threats posed by frontier AI models that remains in place even as the headlines fade.",
+  "result": "confirmed",
+  "evidence_url": "https://democrats-homeland.house.gov/download/bgt-06042026?download=1",
+  "context": "And I worry that the loss of technological expertise at CISA and throughout the Federal government have left us without the personnel necessary to address this significant threat. To overcome these challenges, we are going need sustained attention on the cybersecurity threats posed by frontier AI models that remains in place even as the headlines fade. Doing so will require both Congress and the executive branch to step up",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording (including the original typo 'going need') is in Ranking Member Thompson's written hearing statement dated June 4, 2026."
+ },
+ {
+  "bioguide": "T000193",
+  "member": "Bennie G. Thompson",
+  "url": "https://democrats-homeland.house.gov/download/bgt-03172026?download=1",
+  "quote": "The President has also recklessly ceded America’s competitive edge in AI by permitting the sale of high-powered AI chips to the PRC.",
+  "result": "confirmed",
+  "evidence_url": "https://democrats-homeland.house.gov/download/bgt-03172026?download=1",
+  "context": "Unfortunately, the Trump Administration harassed one-third of CISA’s staff into leaving their jobs, leaving U.S. less secure as the PRC more aggressively pursues its tech innovation agenda. The President has also recklessly ceded America’s competitive edge in AI by permitting the sale of high-powered AI chips to the PRC. If the President is sincere in his commitment to pursuing “America first” policies",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Exact wording is in Ranking Member Thompson's written hearing statement dated March 17, 2026 (the PDF breaks 'high-powered' across a line)."
+ }
+]

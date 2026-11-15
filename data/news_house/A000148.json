@@ -1,0 +1,64 @@
+{
+  "bioguide": "A000148",
+  "member": "Jake Auchincloss",
+  "searches": [
+    "site:auchincloss.house.gov artificial intelligence",
+    "Auchincloss superintelligence",
+    "Jake Auchincloss AI extinction existential risk",
+    "Auchincloss AI pause slowdown moratorium",
+    "Auchincloss China AI agreement treaty",
+    "\"Jake Auchincloss\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Auchincloss artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2025-04-09",
+      "venue": "Podcast interview reported by American Bazaar",
+      "quote": "I strongly believe that the path forward for sound guard rails for AI is going to be industry specific; it’s going to look different in education than it does in healthcare than it does in financial services—as it should",
+      "context": "Discussing how AI should be regulated, rejecting the European Union approach and arguing the US should beat China by running faster rather than keeping technology away from it.",
+      "source_label": "American Bazaar",
+      "url": "https://americanbazaaronline.com/2025/04/09/congressman-jake-auchincloss-on-ai-regulation-win-by-running-faster-than-china/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Talks about sector-by-sector AI rules and competition with China without acknowledging catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; in 2025 he said the US should win by 'running faster than China', which is about competition, not coordination.",
+      "sources": [
+        [
+          "American Bazaar, 2025-04-09",
+          "https://americanbazaaronline.com/2025/04/09/congressman-jake-auchincloss-on-ai-regulation-win-by-running-faster-than-china/"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; he is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remark found is from 2025 and is about sector-specific regulation and competition with China, with no acknowledgment of catastrophic risk. All required searches ran and found nothing from 2026 about AI risk, so D rests on a single 2025 remark and on his general record of speaking about AI.",
+  "notes": "All six required web searches ran this time, plus two extra (8 in total). None of them found any statement by Auchincloss about superintelligence, extinction or existential risk, a pause or slowdown, an AI agreement with China, or AI safety. Ban Artificial Superintelligence Act: the FastDemocracy page for H.R. 10538 (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and Auchincloss is not among them; congress.gov returned 403 so this was not checked against the official list. No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Official press release page (https://auchincloss.house.gov/media/press-releases): first of nine pages read, 20 releases from 21 Nov 2025 to 22 Oct 2026; none mention AI, superintelligence or AI talks with China. The 1 Dec 2025 Deepfake Liability Act release (with Rep. Maloy) is about bots and deepfakes, level D under ruling 5, not quoted. Later pages were not read (an earlier attempt found that ?page=1 and ?page=2 return the same first page). Older AI activity (2021 US-Israel AI center bill; January 2023 floor speech written with ChatGPT) is from before 2025 and was left out. The same 2025 American Bazaar article quotes him saying the European Union 'has become a desert of innovation for much of this technology'; also level D. The 2025 quote was kept from the earlier attempt. On re-fetch today the fetch tool would only return part of the sentence ('is going to be industry specific'), consistent with the stored quote, so a reviewer should check the exact characters (curly apostrophe, em dash) against the article. A 2025 Works in Progress podcast interview turned up in search but its excerpt did not mention AI safety and it was not opened."
+}

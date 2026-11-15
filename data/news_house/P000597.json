@@ -1,0 +1,89 @@
+{
+  "bioguide": "P000597",
+  "member": "Chellie Pingree",
+  "searches": [
+    "site:pingree.house.gov artificial intelligence",
+    "Chellie Pingree superintelligence",
+    "Chellie Pingree AI extinction existential risk",
+    "Chellie Pingree AI pause slowdown moratorium",
+    "Chellie Pingree China AI agreement treaty",
+    "\"Chellie Pingree\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-11-12",
+      "venue": "Official House website, Artificial Intelligence issue page",
+      "quote": "We must meet the moment, slow down development, and recognize that these growing risks and dangers demand urgent, bipartisan collaboration and international coordination.",
+      "context": "Her issue statement on AI, which says AI poses serious risks and calls for safety standards, independent testing of the most powerful models and slowing development. The page is undated; the date given is the day it was read (12 November 2026). It cites a 2026 House vote, so it was written or last updated in 2026.",
+      "source_label": "pingree.house.gov issue page",
+      "url": "https://pingree.house.gov/issues/issue/?IssueID=14927",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She acknowledges growing risks and dangers from AI in general terms and calls for slowing development, without naming a catastrophic harm; the risks listed earlier on the page (workers, privacy, national security, environment) are themselves level D, hence the boundary flag."
+    },
+    {
+      "date": "2026-11-12",
+      "venue": "Official House website, Artificial Intelligence issue page",
+      "quote": "AI’s most serious risks do not stop at national borders. The United States must work with allies, competitors, and adversaries to establish shared safety standards, prevent dangerous uses, and slow the international race to deploy increasingly powerful systems without adequate safeguards.",
+      "context": "Same issue page, on international cooperation over AI safety. The page is undated; the date given is the day it was read (12 November 2026). It cites a 2026 House vote, so it was written or last updated in 2026.",
+      "source_label": "pingree.house.gov issue page",
+      "url": "https://pingree.house.gov/issues/issue/?IssueID=14927",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She refers to AI's most serious risks and a race to deploy increasingly powerful systems without safeguards, a general acknowledgment of serious risk from advanced AI with no catastrophic harm named."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Her issue page says 'We must meet the moment, slow down development' because of growing risks and dangers, and calls to slow the international race to deploy increasingly powerful systems without adequate safeguards. Her cosponsorship of the AI Data Center Moratorium Act is not counted here, since the page gives mostly local, cost and environmental reasons for it.",
+      "sources": [
+        [
+          "pingree.house.gov AI issue page",
+          "https://pingree.house.gov/issues/issue/?IssueID=14927"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement for or against a halt to building more capable frontier AI. She cosponsored the Artificial Intelligence Data Center Moratorium Act (H.R. 9442), a pause on data center construction, which is not a pause of frontier AI as the rubric defines it.",
+      "sources": [
+        [
+          "pingree.house.gov AI issue page",
+          "https://pingree.house.gov/issues/issue/?IssueID=14927"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "yes",
+      "note": "Her issue page says the United States must work with 'allies, competitors, and adversaries' to set shared safety standards and slow the international race to deploy increasingly powerful systems. China is not named, so a reviewer should confirm that 'competitors, and adversaries' is enough to count as coordination with China.",
+      "sources": [
+        [
+          "pingree.house.gov AI issue page",
+          "https://pingree.house.gov/issues/issue/?IssueID=14927"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "Nothing found on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Cosponsored the Artificial Intelligence Data Center Moratorium Act (H.R. 9442), which would pause new AI data center construction until Congress sets safeguards on safety reviews, utility costs, environmental harms, community approval, labor standards and the economic effects of AI.",
+      "pingree.house.gov AI issue page, undated (read 12 November 2026)",
+      "https://www.congress.gov/bill/119th-congress/house-bill/9442"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "Her official AI issue page, written or updated in 2026, acknowledges serious risks from the most advanced AI in general terms and calls for slowing development and international coordination, but names no catastrophic harm such as loss of control or mass casualties.",
+  "notes": "All 6 required web searches ran on this second attempt (the first attempt had all 6 refused). None returned any page quoting or naming Chellie Pingree on AI: the site-restricted search returned no pingree.house.gov pages, and the Bangor Daily News article of 16 September 2026 on Maine politicians and AI warnings (opened) mentions only Hannah Pingree, a different person (a candidate for governor), not Chellie Pingree. Both statements come from her official Artificial Intelligence issue page, re-downloaded on 14 November 2026; both quotes still match its text character for character. The page has no date; 12 November 2026, the day it was first read, is used as the statement date. It cites a 2026 House roll-call vote, so it dates from 2026. It does not mention superintelligence. The page also says AI poses 'serious risks to workers, consumers, privacy, civil rights, national security, and the environment' and calls for holding companies accountable when AI systems 'go rogue', with no consequence named (level D, not quoted). It says she 'called for urgent congressional action, independent oversight of powerful AI systems, stronger whistleblower protections, and international coordination on AI safety'; this probably refers to the 16 September 2026 House letter led by Beyer, which she signed (she is in data/house/letter_2026-09-16_signers.txt) and which is handled centrally, so it was not used. The C level for both statements is a boundary call: a reviewer could choose D if the general risk language is read as being about the workers, privacy and national security harms listed on the page. No source found shows whether she cosponsored the Ban Artificial Superintelligence Act; her issue page does not list it, and congress.gov returned HTTP 403 on the first attempt and was not retried. The H.R. 9442 cosponsorship comes from her own page only, with no cosponsor date. The intl 'yes' rests on 'competitors, and adversaries' without naming China; a reviewer should confirm."
+}

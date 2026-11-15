@@ -1,0 +1,50 @@
+[
+ {
+  "bioguide": "T000481",
+  "member": "Rashida Tlaib (D-MI-12)",
+  "url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf",
+  "quote": "These incidents have serious implications for Americans’ safety and security. They are serious in and of themselves, and they may be the canary in the coal mine warning of much more serious problems if these models continue to advance without regulation.",
+  "result": "confirmed",
+  "evidence_url": "https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings.pdf",
+  "context": "he testing environment to hack another entity. Anthropic failed to detect these attacks for months. These incidents have serious implications for Americans' safety and security. They are serious in and of themselves, and they may be the canary in the coal mine warning of much more serious problems if these models continue to advance without regulation. From hospitals to banks, institutions that Americans count on could be quickly jeopardized by this ",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The exact passage is in the body of the August 10, 2026 letter to Speaker Johnson; Rashida Tlaib is listed as a signer (the letter is led by Greg Casar), so the words are the letter's joint text rather than a personal statement."
+ },
+ {
+  "bioguide": "V000136",
+  "member": "Gabe Vasquez",
+  "url": "https://vasquez.house.gov/sites/evo-subsites/vasquez.house.gov/files/evo-media-document/quill-letter-l39292-letter-to-johnson-on-ai-safety-version-5-09-16-2026-09-38-am-compressed.pdf",
+  "quote": "to address the catastrophic risks posed by advanced artificial intelligence. Those risks take any of several forms, separately and in combination—of agentic misalignment, mass cybersecurity breaches, and development of biological or chemical weapons.",
+  "result": "confirmed",
+  "evidence_url": "https://vasquez.house.gov/sites/evo-subsites/vasquez.house.gov/files/evo-media-document/quill-letter-l39292-letter-to-johnson-on-ai-safety-version-5-09-16-2026-09-38-am-compressed.pdf",
+  "context": "o urge you to keep the House of Representatives in session to enable Congress to take urgent action to address the catastrophic risks posed by advanced artificial intelligence. Those risks take any of several forms, separately and in combination-of agentic misalignment, mass cybersecurity breaches, and development of biological or chemical weapons. Reasonable minds may disagree about precisely how Congress should regulate this rapidly evolving te",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The exact passage is in the opening paragraph of the September 15, 2026 letter to Speaker Johnson; Gabe Vasquez is listed among the signers, so these are the letter's joint words."
+ },
+ {
+  "bioguide": "W000798",
+  "member": "Tim Walberg",
+  "url": "https://edworkforce.house.gov/uploadedfiles/walberg_ai_opening_statement.pdf",
+  "quote": "The goal should not be to rush into sweeping new rules and regulations, but to ensure schools, employers, and training providers can keep pace with innovation while maintaining trust and prioritizing safety and privacy.",
+  "result": "confirmed",
+  "evidence_url": "https://edworkforce.house.gov/uploadedfiles/walberg_ai_opening_statement.pdf",
+  "context": "st recognize that many existing education and workforce policies were designed for a different era. The goal should not be to rush into sweeping new rules and regulations, but to ensure schools, employers, and training providers can keep pace with innovation while maintaining trust and prioritizing safety and privacy. U.S. leadership in AI is pivotal to the nation's economic success and security. The Trump administr",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The exact sentence is in Walberg's prepared opening statement as chairman for the January 14, 2026 hearing 'Building an AI-Ready America' (marked 'As prepared for delivery')."
+ },
+ {
+  "bioguide": "W000822",
+  "member": "Bonnie Watson Coleman",
+  "url": "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-introduces-bill-to-study-impact-of-ai-data-centers-on-local-communities",
+  "quote": "Infrastructure projects, like the AI data centers being built, are important to the success of industry and economic growth in this country, but we must first protect the health of people and the planet.",
+  "result": "wording_differs",
+  "evidence_url": "https://watsoncoleman.house.gov/newsroom/press-releases/rep-watson-coleman-introduces-bill-to-study-impact-of-ai-data-centers-on-local-communities",
+  "context": "ed to inform responsible policymaking and protect communities that have too often been overlooked. \"Infrastructure projects, like the AI data centers being built, are important to the success of industry and economic growth in this country, but we must first protect the health of people and the planet,\" said Watson Coleman. \"Communities of color and low-income neighborhoods are often over-burdened a",
+  "corrected_quote": "Infrastructure projects, like the AI data centers being built, are important to the success of industry and economic growth in this country, but we must first protect the health of people and the planet",
+  "date_ok": true,
+  "explanation": "The words match exactly in the March 06, 2026 press release, attributed with 'said Watson Coleman'; the only difference is that the page ends the passage with a comma before the attribution rather than a period, so the corrected quote drops the final period."
+ }
+]

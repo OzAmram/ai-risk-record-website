@@ -1,0 +1,50 @@
+{
+  "bioguide": "W000804",
+  "member": "Robert J. Wittman",
+  "searches": [
+    "site:wittman.house.gov artificial intelligence",
+    "Rob Wittman superintelligence",
+    "Rob Wittman AI extinction existential risk",
+    "Rob Wittman AI pause slowdown moratorium",
+    "Rob Wittman China AI agreement treaty",
+    "\"Wittman\" \"AI safety\" 2026",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Congressman Rob Wittman artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-17",
+      "venue": "Press release on official website",
+      "quote": "The Genesis Mission correctly identifies that AI is no longer just an economic engine;",
+      "context": "Wittman and 20 other House Republicans wrote to Energy Secretary Chris Wright supporting the Genesis Mission and the energy supply it needs, framing AI as a matter of national security and strategic advantage.",
+      "source_label": "wittman.house.gov press release",
+      "url": "https://wittman.house.gov/newsroom/press-releases/wittman-sends-letter-in-support-of-genesis-mission",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI development and energy for national advantage; no catastrophic risk from AI is acknowledged."
+    },
+    {
+      "date": "2025-05-27",
+      "venue": "Opinion piece on official website",
+      "quote": "Advancements in artificial intelligence hold immense potential, but sadly, children are being irreparably harmed online",
+      "context": "Op-ed praising Congress for passing the Take It Down Act against deepfake exploitation of children online.",
+      "source_label": "wittman.house.gov opinion piece",
+      "url": "https://wittman.house.gov/newsroom/opinion-pieces-by-rob/congress-steps-up-to-protect-children-online",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About harm to children from deepfakes, which is outside catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pace; his China statements found are about countering the Chinese Communist Party generally, not AI talks.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Wittman has spoken about AI in 2026 (an April 2026 release backing the Genesis Mission as a national security advantage) and in 2025 (deepfakes harming children), but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All 6 required web searches ran this time, plus 2 extra (8 total); none of the topic searches (superintelligence, extinction, pause, China agreement, AI safety) returned anything about Wittman. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Casar): sources describe about 9 cosponsors, all Democrats; no source shows Wittman as a cosponsor, but a full cosponsor list was not seen. The page-fetch tool returned the Genesis Mission statement in short segments; the quote used is one segment, which continues ' it is a domain of national security and strategic advantage,'. The letter itself (a linked PDF) was not read. The 2025 op-ed quote was confirmed again through the page-fetch tool this run. A 2023 press release on co-sponsoring the National AI Commission Act (saying AI 'can also lead to serious harm without proper regulation', paraphrased in search results) is before 2025 and was left out. Wittman is vice chairman of House Armed Services and has pushed military AI and autonomy (2023 release); hearing remarks were not searched in detail and would likely be D under ruling 3. The earlier run's direct site check found no AI mention in press releases from 22 July to 28 October 2026."
+}

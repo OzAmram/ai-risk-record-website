@@ -1,0 +1,32 @@
+{"bioguide": "V000139", "member": "Matt Van Epps",
+ "searches": [
+  "Matt Van Epps artificial intelligence site:vanepps.house.gov",
+  "\"Van Epps\" superintelligence",
+  "\"Van Epps\" AI extinction OR \"existential risk\"",
+  "\"Van Epps\" AI pause OR slowdown OR moratorium",
+  "\"Van Epps\" China AI agreement OR treaty",
+  "\"Matt Van Epps\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-07-23", "venue": "House Science, Space, and Technology Committee budget hearing (questioning OSTP Director Kratsios)",
+   "quote": "We must maintain the lead across the board when it comes to AI.",
+   "context": "Asking how the White House science office is responding to Chinese open-weight AI models and intellectual property threats to American AI leadership.",
+   "source_label": "Van Epps press release, 23 July 2026",
+   "url": "https://vanepps.house.gov/media/press-releases/rep-van-epps-speaks-at-sst-budget-hearing-on-revitalizing-american-scientific-research",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About competition with China and American AI leadership, with no catastrophic risk acknowledged."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["With Reps. Auchincloss and Young, launched an effort to create a biological data resource; the release says it will support development of AI tools (research competitiveness, not AI risk).", "Van Epps press release, 16 June 2026", "https://vanepps.house.gov/media/press-releases/van-epps-auchincloss-and-young-launch-effort-to-create-biological-data-resource-to-strengthen-us-research-competitiveness"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His only AI remarks found (a July 2026 hearing) are about keeping the US ahead of China in AI; nothing found acknowledges catastrophic risk.",
+ "notes": "All 6 required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 in total). None of the topic searches (superintelligence, extinction, pause, China agreement, AI safety) returned anything by or about Van Epps. The official-site search returned only the 23 July 2026 hearing release; a third-party listing says he co-sponsored H.R. 9307 (a centralized biological research data resource using methods such as AI), which matches the 16 June 2026 effort in record. The hearing quote was re-checked this run by fetching the release page (read through a page-summarizing fetch tool, so a reviewer may want to confirm exact wording). Ban Artificial Superintelligence Act (H.R. 10538): a FastDemocracy cosponsor list (12 names, all Democrats where party shown) does not include him; congress.gov returned 403, so this is not fully verified, but no source shows him as a sponsor or co-sponsor. No House AI-risk letter of his own was found. From the earlier run: vanepps.house.gov home, committees and all 5 press-release listing pages (about 47 releases, Dec 2025 to Nov 2026; sworn in 4 Dec 2025 after a special election) were checked, with only the two releases above mentioning AI; most releases were judged from listing excerpts. Member of Homeland Security and Science, Space, and Technology committees."
+}

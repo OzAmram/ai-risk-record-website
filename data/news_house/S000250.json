@@ -1,0 +1,23 @@
+{
+  "bioguide": "S000250",
+  "member": "Pete Sessions",
+  "searches": [
+    "site:sessions.house.gov artificial intelligence",
+    "\"Pete Sessions\" AI safety",
+    "\"Pete Sessions\" superintelligence",
+    "\"Pete Sessions\" AI extinction OR existential risk",
+    "\"Pete Sessions\" AI pause OR slowdown OR moratorium",
+    "\"Pete Sessions\" China AI agreement OR treaty"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Sessions about AI was found in news searches or in his official press releases from January 2025 to September 2026; the only AI mention on his site is background text about deepfakes in a press release, not his own words.",
+  "notes": "All 6 required web searches ran this time; none returned a statement by Pete Sessions on AI, AI risk, superintelligence, a pause, or China talks. The site:sessions.house.gov search returned no pages from his site, so the earlier direct check of sessions.house.gov (from the previous attempt: home page and press-release listing pages 1 to 3, covering November 2024 to 17 September 2026) is kept as the official-site check. The only AI mention found there is in the 30 January 2026 release on his bipartisan identity fraud bill with Rep. Bill Foster (https://sessions.house.gov/media/press-releases/congressman-pete-sessions-introduces-bipartisan-legislation-to-combat-identity-fraud-and-theft), whose background text (not a quote from Sessions) mentions 'artificial intelligence driven deep fakes'; that is deepfakes, level D at most, and not his own words, so it is left out of statements. Checked and ruled out: the 17 September 2025 Oversight subcommittee hearing 'Shaping Tomorrow: The Future of Artificial Intelligence' (govinfo CHRG-119hhrg61734) lists Sessions only on the full committee roster; he was not present and did not speak. The April 2026 article on a House subcommittee roundtable about AI fears (min.house.gov, 16 April 2026) does not mention Sessions. No source found showing he sponsored or co-sponsored the Ban Artificial Superintelligence Act (introduced by Sanders and Casar) or signed any other House AI letter. A WTOP tag page for Sessions listed an AI regulation headline in search results but returned 404 when opened, so its content could not be checked. Not specifically checked: his own hearing remarks as Government Operations subcommittee chairman and floor speeches."
+}

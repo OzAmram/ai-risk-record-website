@@ -1,0 +1,70 @@
+{
+  "bioguide": "O000173",
+  "member": "Ilhan Omar",
+  "searches": [
+    "Omar artificial intelligence (restricted to omar.house.gov)",
+    "Ilhan Omar superintelligence",
+    "Ilhan Omar AI extinction existential risk",
+    "Ilhan Omar AI pause slowdown moratorium",
+    "Ilhan Omar China AI agreement treaty",
+    "\"Ilhan Omar\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-02-11",
+      "venue": "Opening statement as Workforce Protections Subcommittee ranking member, House Education and Workforce hearing \"Building an AI-Ready America: Safer Workplaces Through Smarter Technology\"",
+      "quote": "From invasive surveillance systems to dangerous work speed quotas, the workplace risks posed by these automated technologies are real and immediate.",
+      "context": "Her remarks on automation and AI in the workplace, calling for government action on workplace surveillance, speed quotas and worker safety standards.",
+      "source_label": "Omar press release, 11 February 2026",
+      "url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-hearing-ai-role",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The risks she names are workplace harms (surveillance, speed quotas), not catastrophic risk from AI."
+    },
+    {
+      "date": "2026-04-17",
+      "venue": "Opening remarks as Workforce Protections Subcommittee ranking member, House Education and Workforce hearing \"Building an AI-Ready America: Understanding AI's Economic Impact on Workers and Employers\"",
+      "quote": "If we are going to uplift working Americans, a bold pro-worker AI agenda must help more workers join unions, place appropriate limits on AI, safeguard worker privacy, and enforce worker protections.",
+      "context": "Her remarks on AI and workers' rights, covering workplace surveillance, AI-enabled hiring discrimination, union-busting and state AI laws.",
+      "source_label": "Omar press release, 17 April 2026",
+      "url": "https://omar.house.gov/media/press-releases/workforce-protections-ranking-member-omar-opening-remarks-7th-hearing-ais",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She discusses AI harms to workers (surveillance, discrimination, union-busting) and limits on AI, but not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; her call to place limits on AI concerns workplace use.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Submitted National Defense Authorization Act amendments to strengthen oversight of the Defense Department's use of AI: #1302 clarifying that the human-oversight policy for AI-enabled weapons covers targeting decisions, and #1303 requiring reporting on autonomous weapons and meaningful human command (military use, level D under ruling 3).",
+      "Omar press release, 30 June 2026",
+      "https://omar.house.gov/media/press-releases/rep-omar-submits-9-amendments-national-defense-authorization-act-ndaa"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She spoke about AI in 2026 (two hearings on AI and workers, and amendments on AI in weapons), but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time; none found any statement by her on superintelligence, extinction or existential risk, a pause or slowdown of frontier AI, an AI agreement with China, or self-improving AI. Her AI remarks found are about workers: hearing opening statements on 11 February 2026 and 17 April 2026 (both opened and the quotes checked character for character against the downloaded official page text). In the April remarks she also said \"After seven AI hearings, Committee Republicans have not produced a single plan or bill to protect workers from AI risks\" (worker risks, level D). An implicator.ai article on the Sanders and Ocasio-Cortez AI Data Center Moratorium Act (March 2026) says \"Ilhan Omar called it \\\"a good idea.\\\"\" without a date or venue; I could not find the original statement, so it is left out of statements. That moratorium is motivated by worker, environmental, privacy and civil rights protections, so it would not count toward slowdown in any case. The 30 June 2026 NDAA amendment release has no quote from her, only press office descriptions, so it is in record, not statements (military use, level D under ruling 3). Ban Artificial Superintelligence Act (H.R. 10538): from the earlier attempt, she is not among the 12 cosponsors listed at https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/ (opened then; not re-opened this time); congress.gov returned HTTP 403. A Forkast article on the bill (opened) does not name her. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). The earlier attempt also opened her press release index pages 1 to 3 (9 April to 29 October 2026); 2025 releases were checked only through the site-restricted search."
+}

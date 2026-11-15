@@ -1,0 +1,38 @@
+{
+  "bioguide": "G000607",
+  "member": "James Gallagher",
+  "searches": [
+    "site:gallagher.house.gov artificial intelligence",
+    "\"James Gallagher\" congressman superintelligence",
+    "Rep. James Gallagher AI extinction existential risk",
+    "Rep. James Gallagher AI pause moratorium slowdown",
+    "Rep. James Gallagher China AI agreement treaty",
+    "\"James Gallagher\" \"AI safety\" congress"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-29",
+      "venue": "Press release introducing the Countering Online Trafficking Act",
+      "quote": "The technology criminals use may change, but our responsibility to protect the innocent does not.",
+      "context": "Gallagher introduced a bill to strengthen federal anti-trafficking efforts as criminal groups exploit artificial intelligence and emerging technologies to target children and other vulnerable people.",
+      "source_label": "gallagher.house.gov press release, 29 October 2026",
+      "url": "https://gallagher.house.gov/media/press-releases/gallagher-introduces-legislation-combat-human-traffickers-exploiting-artificial-intelligence",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "The only harm discussed is criminals using AI for human trafficking and child exploitation, which is outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the Countering Online Trafficking Act, aimed at human traffickers who exploit artificial intelligence and emerging technologies", "gallagher.house.gov press release, 29 October 2026", "https://gallagher.house.gov/media/press-releases/gallagher-introduces-legislation-combat-human-traffickers-exploiting-artificial-intelligence"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related material found from 2025-2026 concerns criminals using AI for human trafficking and a general issues-page line on AI leadership for economic strength and national security; neither acknowledges catastrophic risk.",
+  "notes": "All six web searches ran; none was refused. Search results were dominated by former Rep. Mike Gallagher (R-WI), whose AI material (2023 Five AIs Act, Armed Services hearings) is a different person and was excluded. His official issues page (https://gallagher.house.gov/issues/science-space-and-technology, undated) says American leadership in science and technology 'from artificial intelligence to space exploration' is critical to economic strength and national security; left out of statements because it is undated and only a passing mention. Only page 1 of 4 of his press release list was checked. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act or signing any other House letter on AI risk. The press release quote was read through a page-summarizing fetch tool that reported it as verbatim; a reviewer may want to confirm the exact wording."
+}

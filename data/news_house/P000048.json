@@ -1,0 +1,85 @@
+{
+  "bioguide": "P000048",
+  "member": "August Pfluger",
+  "searches": [
+    "August Pfluger superintelligence",
+    "site:pfluger.house.gov artificial intelligence",
+    "August Pfluger AI extinction existential risk",
+    "August Pfluger AI pause slowdown moratorium",
+    "August Pfluger China AI agreement treaty",
+    "\"Pfluger\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Pfluger"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-30",
+      "venue": "Press release introducing the Reliable Artificial Intelligence Research Act",
+      "quote": "As AI becomes more deeply woven into our economy and our national defense, we cannot afford to leave it vulnerable to those who would exploit it. Adversaries are already looking for ways to manipulate these systems, and we must stay ahead of them.",
+      "context": "Introducing a bill for Department of Homeland Security research competitions on AI interpretability and resistance to adversarial attacks.",
+      "source_label": "pfluger.house.gov press release",
+      "url": "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Concerns bad actors manipulating AI systems; no catastrophic risk is named."
+    },
+    {
+      "date": "2026-03-17",
+      "venue": "Letter to the Government Accountability Office (dated 17 March 2026), quoted in a House Homeland Security Committee press release",
+      "quote": "The use of GenAI and AAI by violent extremists and other illicit actors poses a broad and evolving national security threat.",
+      "context": "As counterterrorism subcommittee chairman he asked the Government Accountability Office to review how extremists use generative and agentic AI for propaganda, recruitment and attacks.",
+      "source_label": "House Homeland Security Committee press release",
+      "url": "https://homeland.house.gov/2026/03/21/subcommittee-chairman-pfluger-requests-gao-review-of-threats-posed-by-ai-enabled-terrorism/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "A general national security threat from misuse by extremists, with no catastrophic harm named, is D under House ruling 4."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the Reliable Artificial Intelligence Research Act, funding research competitions on AI interpretability and adversarial robustness (House companion to a Banks-Hassan Senate bill).",
+      "pfluger.house.gov press release, 30 September 2026",
+      "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=3047"
+    ],
+    [
+      "Sent a letter to the Government Accountability Office requesting a review of threats from AI-enabled terrorism, including agentic AI.",
+      "House Homeland Security Committee press release, 21 March 2026",
+      "https://homeland.house.gov/2026/03/21/subcommittee-chairman-pfluger-requests-gao-review-of-threats-posed-by-ai-enabled-terrorism/"
+    ],
+    [
+      "Sponsored the Generative AI Terrorism Risk Assessment Act, requiring annual Department of Homeland Security assessments of terrorist use of generative AI; it passed the House in November 2025.",
+      "House Homeland Security Committee press release, 21 March 2026 (refers to the November 2025 House passage)",
+      "https://homeland.house.gov/2026/03/21/subcommittee-chairman-pfluger-requests-gao-review-of-threats-posed-by-ai-enabled-terrorism/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 he spoke about AI repeatedly, mostly about terrorists and adversaries misusing it and about AI security research, but no statement found names a catastrophic risk.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra search on the Ban Artificial Superintelligence Act (7 in total). None of the searches on superintelligence, extinction or existential risk, pause or moratorium, a China agreement, or 'AI safety' returned anything by Pfluger on those topics. The site: search did not restrict to pfluger.house.gov; it returned committee and news pages about his AI terrorism work. Ban Artificial Superintelligence Act: it is H.R. 10538 (introduced September 2026 by Rep. Casar); the cosponsor list on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened) names 12 cosponsors, all Democrats, and does not include Pfluger. Kept from the earlier attempt: I opened his official press release list on pfluger.house.gov, pages 1 to 12 (about 120 releases from 27 January to 30 October 2026), and checked the titles; the only AI-related releases were the Reliable Artificial Intelligence Research Act release (opened in full) and a repost of the March 2026 letter to the Government Accountability Office. The letter date was corrected to 17 March 2026, the date of the letter as given in a Just the News article (https://justthenews.com/index%2ephp/government/congress/top-house-republican-asks-gao-review-ways-bad-actors-exploit-ai-support, opened), which also quotes the same sentence; the committee press release is dated 21 March 2026. In a 19 September 2025 Newsweek article (reposted at https://homeland.house.gov/2025/09/22/chairman-pflugers-genai-terrorism-risk-assessment-act-in-newsweek-our-policy-must-be-proactive-to-keep-up-with-the-emerging-threat/), he said generative AI can be weaponized by terrorist groups such as ISIS to recruit and radicalize. That is D-level misuse material; left out because the exact wording could not be copied. A Daily Signal article on the November 2025 House vote (dailysignal.com) could not be opened (HTTP 403). A search result says he co-sponsored the bipartisan AI for Secure Networks Act (riponadvance.com, not opened); not added to the record because it is not verified. A 12 May 2025 Republican Study Committee release on a China trade agreement is about trade, not AI. Not checked: hearing transcripts and interviews."
+}

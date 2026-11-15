@@ -1,0 +1,25 @@
+{
+  "bioguide": "W000806",
+  "member": "Daniel Webster",
+  "searches": [
+    "site:webster.house.gov artificial intelligence",
+    "\"Daniel Webster\" congressman superintelligence",
+    "Rep. Daniel Webster Florida AI extinction existential risk",
+    "Rep. Daniel Webster AI pause moratorium slowdown",
+    "Rep. Daniel Webster China AI agreement treaty",
+    "\"Daniel Webster\" \"AI safety\" Florida representative"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Offered an amendment to the READ AI Models Act (H.R. 6461) at a House Science Committee markup prohibiting foreign countries of concern from contributing to or participating in a pilot program; passed by voice vote.", "House Science Committee markup page, 2026-06-25", "https://science.house.gov/2026/6/full-committee-markup-of-h-r-9341-9363-2385-5351-5584-6461-8893-9333-9334-and-9372"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related material found is a 2026 committee amendment keeping countries of concern out of an AI pilot program, plus passing mentions of AI in releases he did not himself speak to; none acknowledges catastrophic risk. No A, B, C or F statement was found.",
+  "notes": "All 6 required web searches ran in this attempt (an earlier attempt had only 1 of 6 run). None returned a Webster statement on superintelligence, extinction or existential risk, a pause or slowdown, a China AI agreement, or AI safety; the site:webster.house.gov search returned no pages from his site. No source shows he sponsored or co-sponsored the Ban Artificial Superintelligence Act (search results name Casar as its House lead) or signed another House letter on AI risk. Kept from the earlier attempt: webster.house.gov press release list pages 1 to 4 (May 2026 back to November 2025) had no AI titles; the 22 July 2026 NDAA release says the bill 'Authorizes nearly $220 billion for next-generation capabilities, including artificial intelligence' (https://webster.house.gov/press-releases?ID=B9F82266-C556-412F-8AF1-29D3EAAD35D7), a bill description, left out of statements. This time I also opened press release list page 5 (July to November 2025): no AI titles. The 7 August 2025 USA Act release on technology standards (https://webster.house.gov/press-releases?ID=01016A1B-8F85-43EA-B3AE-CA73CBAC9930) mentions AI only in a quote from an outside supporter (Jon Toomey), not Webster's own words, so it is left out. Floridian Press coverage of that bill returned HTTP 403 and was not read. Webster announced his retirement on 28 April 2026. Press release pages older than July 2025 were not opened. Not to be confused with Florida State House Speaker Daniel Perez, who appears in Florida AI news."
+}

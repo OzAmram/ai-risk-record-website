@@ -1,0 +1,84 @@
+{
+  "bioguide": "B001260",
+  "member": "Vern Buchanan",
+  "searches": [
+    "Vern Buchanan superintelligence",
+    "Vern Buchanan AI extinction existential risk",
+    "Vern Buchanan AI pause slowdown moratorium",
+    "Vern Buchanan China AI agreement treaty",
+    "\"Vern Buchanan\" \"AI safety\"",
+    "site:buchanan.house.gov artificial intelligence"
+  ],
+  "statements": [
+    {
+      "date": "2026-07-01",
+      "venue": "Press release",
+      "quote": "By evaluating how the IRS can harness emerging AI capabilities to strengthen fraud detection, we can ensure that it can conduct efficient, thorough investigations and improve recovery of taxpayer dollars.",
+      "context": "His AI Tax Integrity Act of 2026 (H.R. 9501), a pilot program for the IRS to use AI to detect tax fraud, passed the House Ways and Means Committee.",
+      "source_label": "Buchanan House press release",
+      "url": "https://buchanan.house.gov/2026/07/01/buchanan-bill-to-encourage-use-of-ai-tools-to-detect-tax-fraud-advanced-by-house-ways-and-means-committee",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes AI as a tool against tax fraud and does not acknowledge catastrophic risk."
+    },
+    {
+      "date": "2026-03-04",
+      "venue": "Press release",
+      "quote": "The AI Fraud Accountability Act makes clear that if you use AI to defraud Americans, you will be prosecuted.",
+      "context": "Introducing the bipartisan AI Fraud Accountability Act with Rep. Darren Soto, which would criminalize using AI to impersonate people for fraud (voice clones, deepfakes).",
+      "source_label": "Buchanan House press release (also quoted by Ripon Advance, 2026-03-06)",
+      "url": "https://buchanan.house.gov/2026/3/buchanan-soto-introduce-bipartisan-bicameral-legislation-to-combat-ai-enabled-impersonation-scams",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI-enabled scams and deepfakes, which the rubric places at D; no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored the AI Tax Integrity Act of 2026 (H.R. 9501), an IRS pilot program using AI to detect tax fraud, co-led with Rep. Horsford; advanced by Ways and Means.",
+      "Buchanan press release, 2026-07-01 (date from URL path)",
+      "https://buchanan.house.gov/2026/07/01/buchanan-bill-to-encourage-use-of-ai-tools-to-detect-tax-fraud-advanced-by-house-ways-and-means-committee"
+    ],
+    [
+      "Introduced the bipartisan, bicameral AI Fraud Accountability Act with Rep. Darren Soto, making AI impersonation for fraud a crime; endorsed by the Center for AI Safety Action Fund among others.",
+      "Buchanan press release, March 2026 (introduced on a Wednesday per Ripon Advance of 2026-03-06, likely 2026-03-04)",
+      "https://buchanan.house.gov/2026/3/buchanan-soto-introduce-bipartisan-bicameral-legislation-to-combat-ai-enabled-impersonation-scams"
+    ],
+    [
+      "Co-led the DETECT Act (H.R. 4974) with Rep. Schweikert, directing GAO to study how AI can help the IRS detect tax fraud.",
+      "Buchanan press release, August 2025 (day not shown)",
+      "https://buchanan.house.gov/2025/8/buchanan-schweikert-introduce-legislation-to-strengthen-tax-fraud-detection-and-safeguard-taxpayer-dollars"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 AI remarks are about using AI to detect tax fraud and about prosecuting AI-enabled scams; none acknowledge catastrophic risk.",
+  "notes": "All 6 required web searches ran this time; none found any statement by him on superintelligence, extinction, loss of control, a pause or slowdown, or an AI agreement with China. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act or signing a House letter about AI risk. The earlier run also opened his home page (12 latest releases, 2026-09-14 to 2026-11-11, none about AI). The 2026-07-01 date comes from the URL path; the page shows no date. The AI Fraud Accountability Act release page shows no date; 2026-03-04 is inferred from Ripon Advance (published 2026-03-06) saying the bill was introduced 'on Wednesday'. The 2025 DETECT Act release (August 2025, exact day not shown) has a similar D-level quote, left out of statements because the date is unknown. A Fox News article of 2024-07-01 quotes him warning about China's military AI (armed robot dogs, NDAA amendment); it predates 2025, so it is left out and would be D under the military-use ruling anyway. His 24 September 2026 release says he is in his final 100 days in office (apparently not returning in January 2027). Several search results concerned Ben Buchanan (former White House AI adviser), an unrelated person."
+}

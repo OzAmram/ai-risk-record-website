@@ -1,0 +1,73 @@
+{
+ "bioguide": "ELECT-CO-08-RUTINEL",
+ "member": "Manny Rutinel",
+ "searches": [
+  "Manny Rutinel artificial intelligence",
+  "Manny Rutinel \"AI safety\"",
+  "Rutinel superintelligence",
+  "Rutinel AI extinction OR \"existential risk\" Colorado",
+  "Rutinel AI pause OR moratorium OR slowdown",
+  "Rutinel China AI agreement OR treaty",
+  "\"Rutinel\" Colorado AI Act vote OR \"artificial intelligence\" 2025 OR 2026",
+  "mannyforcolorado.com issues"
+ ],
+ "statements": [
+  {
+   "date": "2026-11-14",
+   "venue": "Campaign website issues page, section \"Take Artificial Intelligence Seriously\" (undated; date is when it was read)",
+   "quote": "Giant corporations are putting profits ahead of people, pushing reckless experiments that risk global catastrophe for our family’s health, our kids’ future, and our paychecks.",
+   "context": "His congressional campaign's platform on AI, which goes on to call for incident reporting by large AI firms, independent safety reviews before major model releases and whistleblower protections.",
+   "source_label": "Manny for Colorado campaign site, issues page",
+   "url": "https://www.mannyforcolorado.com/issues",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says AI companies' reckless experiments risk global catastrophe, but ties the catastrophe to health, children's futures and paychecks rather than mass casualties or loss of control, so it reads as serious risk in general terms; B is arguable."
+  },
+  {
+   "date": "2026-11-14",
+   "venue": "Campaign website issues page (undated; date is when it was read)",
+   "quote": "That includes requiring large AI firms to report critical safety incidents in a timely manner, requiring independent safety reviews before major model releases, implementing protections for whistleblowers",
+   "context": "Policy list under \"Hold AI Companies Accountable\" in his AI platform.",
+   "source_label": "Manny for Colorado campaign site, issues page",
+   "url": "https://www.mannyforcolorado.com/issues",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Supports frontier AI safety oversight measures but names no catastrophic harm in this passage."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI progress. He supports independent safety reviews before major model releases, which is oversight, not a slowdown.",
+   "sources": [
+    [
+     "Manny for Colorado issues page",
+     "https://www.mannyforcolorado.com/issues"
+    ]
+   ]
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "C",
+ "grade_reason": "His 2026 congressional campaign platform says AI companies are \"pushing reckless experiments that risk global catastrophe\", but the harms it names are health, children and paychecks, so it is graded C (boundary with B). No dismissive statement found.",
+ "notes": "8 web searches ran, none refused; none returned anything about Rutinel and catastrophic AI risk, superintelligence, a pause, or China. The key evidence is his campaign issues page, which is undated: it was read on 2026-11-14 by downloading the page and the quote was copied from its text, so the date field is the read date, not the date written; it was live during the 2026 campaign, but when the AI section was added is unknown. The reviewer should decide between B and C for the \"global catastrophe\" sentence. His 24 September 2026 public safety plan press release (https://www.mannyforcolorado.com/press-releases/new-manny-rutinel-releases-plan-to-keep-coloradans-safe) mentions \"cyber crimes, including misuse of AI technology\" only, which is D. As a Colorado state representative he was a House prime sponsor of the 2024 Colorado AI Act (SB 24-205, on algorithmic discrimination, signed 17 May 2024; campaign press release https://mannyforcolorado.com/news-and-media/colorado-ai-consumer-protection-bill-2024); this is before the 2025 period and about discrimination, so it is not in record. No source found on his role in the 2025 delay or the 2026 repeal and replacement (SB 26-189). As a non-member he could not co-sponsor the Ban Artificial Superintelligence Act and did not sign the House letters. Search results were otherwise dominated by unrelated pages (for example a podcast host named Manny Bernabe)."
+}

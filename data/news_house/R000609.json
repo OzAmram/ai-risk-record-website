@@ -1,0 +1,26 @@
+{
+  "bioguide": "R000609",
+  "member": "John H. Rutherford",
+  "searches": [
+    "site:rutherford.house.gov artificial intelligence",
+    "Rep. John Rutherford superintelligence",
+    "Congressman John Rutherford AI existential risk extinction",
+    "Rutherford Florida congressman AI pause moratorium slowdown",
+    "Rep. John Rutherford China AI agreement treaty",
+    "\"John Rutherford\" \"AI safety\"",
+    "\"Rutherford\" Jacksonville congressman artificial intelligence 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Co-sponsored H.R. 7058, which directs the State Department to assess risks to the U.S. from foreign adversaries using generative artificial intelligence for malicious activities (Congressional Record page H1173, 21 January).", "Congressional Record Index 2026 (govinfo), 'Bills and resolutions cosponsored'", "https://www.govinfo.gov/content/pkg/CRI-2026/html/CRI-2026-RUTHERFORD-JOHN-H-C8D51.htm"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "No statement by Rep. Rutherford about catastrophic AI risk was found in seven web searches or on his official site. His only AI-related record found is co-sponsoring a 2026 bill on foreign adversaries' malicious use of generative AI, which does not acknowledge catastrophic risk, so D rather than none.",
+  "notes": "All six required searches ran this time, plus one extra (7 total); none was refused. No search returned any statement by him on superintelligence, extinction, pause or slowdown, China AI talks or AI safety. The site: search returned no pages from rutherford.house.gov. An earlier attempt opened his home page, press release listing pages (July 2025 to October 2026) and In the News page directly and found no mention of AI. The 2026 Congressional Record Index page for him (opened) lists H.R. 7058 as his only AI-related entry and does not list the Ban Artificial Superintelligence Act, so no source shows he co-sponsored it. Search snippets also mention: a May 2025 House Appropriations hearing where he questioned Secretary Duffy about autonomous vehicles in Jacksonville (Floridian Press; not opened, not about catastrophic risk, left out); and an AFL-CIO scorecard entry on a 11 December 2025 vote on an amendment to bar state and local AI laws (not opened; his vote direction was not clear in the snippet, left out). The H.R. 7058 entry was read on govinfo but the full bill text and the exact co-sponsorship date were not checked on Congress.gov; the 21 January date is the Congressional Record page date, presumably 2026 (volume 172). I did not search hearing transcripts or floor speeches beyond these searches."
+}

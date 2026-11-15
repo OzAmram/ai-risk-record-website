@@ -1,0 +1,106 @@
+{
+  "bioguide": "T000482",
+  "member": "Lori Trahan",
+  "searches": [
+    "site:trahan.house.gov artificial intelligence",
+    "Lori Trahan \"AI safety\"",
+    "Lori Trahan superintelligence",
+    "Trahan AI extinction OR \"existential risk\" OR \"loss of control\"",
+    "Lori Trahan AI pause OR slowdown OR moratorium frontier",
+    "Lori Trahan AI China agreement treaty",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Casar"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-10",
+      "venue": "WBUR Morning Edition radio interview",
+      "quote": "These are the handful of companies whose models could actually cause a catastrophe.",
+      "context": "Discussing whistleblower warnings from AI company insiders and why her FRONTIER Act puts guardrails on frontier AI labs.",
+      "source_label": "WBUR",
+      "url": "https://www.wbur.org/upnext/2026/09/10/trahan-hubinger-anthropic-openai",
+      "read_at_source": true,
+      "level": "B",
+      "flags": ["boundary"],
+      "reason": "She says in her own words that frontier labs' AI models could cause a catastrophe, not limited to misuse, though the harm is not specified further."
+    },
+    {
+      "date": "2026-09-10",
+      "venue": "WBUR Morning Edition radio interview",
+      "quote": "I think that when the people building this technology are the ones sounding the alarm, we must listen.",
+      "context": "Responding to insider warnings (including one that AI could threaten all human life within a decade) from people at Anthropic and OpenAI.",
+      "source_label": "WBUR",
+      "url": "https://www.wbur.org/upnext/2026/09/10/trahan-hubinger-anthropic-openai",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["relayed_warning", "boundary", "unsure"],
+      "reason": "She urges taking insiders' alarms seriously without stating the warning's content as her own view; a reviewer could read 'we must listen' as endorsement under ruling 2 and raise it."
+    },
+    {
+      "date": "2026-07-23",
+      "venue": "Press release introducing the FRONTIER Act",
+      "quote": "This is how we protect the public from catastrophic risks without slowing the innovation that keeps America competitive.",
+      "context": "Statement on introducing the bipartisan FRONTIER Act with Rep. Jay Obernolte, a risk-based oversight framework for the most advanced AI models.",
+      "source_label": "Trahan House press release",
+      "url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3823",
+      "read_at_source": true,
+      "level": "B",
+      "flags": ["bill_or_action", "boundary"],
+      "reason": "She states that advanced AI poses catastrophic risks the public must be protected from, without limiting them to misuse, though in general terms tied to a bill."
+    },
+    {
+      "date": "2026-09-16",
+      "venue": "Letter to House leadership led by Trahan and Rep. Don Beyer, signed by 10 members",
+      "quote": "Congress has a singular opportunity to respond swiftly and effectively to these warning shots before true catastrophes occur",
+      "context": "Bipartisan letter urging House leaders to act immediately on AI legislation after recent incidents involving advanced AI models.",
+      "source_label": "Trahan House press release",
+      "url": "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3847",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["cosigned_letter", "bill_or_action"],
+      "reason": "The letter treats recent AI incidents as warning shots of possible catastrophes but names only threats to critical infrastructure and the financial system, a serious but general risk."
+    },
+    {
+      "date": "2026-09-09",
+      "venue": "Statement quoted by Punchbowl News",
+      "quote": "Safety researchers are resigning, powerful AI models are breaking out of their labs, and companies are racing ahead anyway,",
+      "context": "Comment on renewed House attention to catastrophic AI risk proposals.",
+      "source_label": "Punchbowl News",
+      "url": "https://punchbowl.news/article/tech/democrats-ai-warning/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "Describes AI models escaping their labs but states no consequence, so under ruling 4 it is D with a boundary flag."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No call to slow frontier AI; her FRONTIER Act release says it protects against catastrophic risks 'without slowing the innovation', which frames the bill but is not a stated position against a safety slowdown.",
+      "sources": [["Trahan press release, 23 July 2026", "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3823"]]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "She describes her FRONTIER Act (sponsor) as including 'a government pause button if a model poses an imminent risk of catastrophe', an emergency stop for a specific dangerous model rather than a general halt to frontier development; reviewer may prefer 'none'.",
+      "sources": [["WBUR, 10 September 2026", "https://www.wbur.org/upnext/2026/09/10/trahan-hubinger-anthropic-openai"], ["Trahan-Obernolte statement, 1 October 2026", "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3853"]]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI pacing.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    ["Lead sponsor, with Rep. Jay Obernolte, of the FRONTIER Act: tiered transparency, independent audits, incident reporting and emergency authority over the most advanced AI models, aimed at catastrophic risk.", "Trahan press release, 23 July 2026", "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3823"],
+    ["Co-released with Rep. Obernolte the discussion draft of the Great American AI Act, a federal AI framework that would also limit state AI development rules for three years.", "Obernolte press release, June 2026", "https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act"],
+    ["Co-led with Rep. Don Beyer a 10-member bipartisan letter urging House leaders to act immediately on AI legislation 'before true catastrophes occur'.", "Trahan press release, 16 September 2026", "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3847"],
+    ["Released the CLAIM Act discussion draft on liability of AI developers for harms caused by their AI agents.", "Trahan press release, 7 October 2026", "https://trahan.house.gov/news/documentsingle.aspx?DocumentID=3861"]
+  ],
+  "suggested_grade": "B",
+  "grade_reason": "In 2026 she said in her own words that frontier labs' models 'could actually cause a catastrophe' and that her bill protects the public from 'catastrophic risks', without limiting this to misuse. Both are general and flagged boundary, so B versus C is a judgment call; no dismissive statement was found.",
+  "notes": "Seven web searches ran; the extinction/loss-of-control search returned nothing about her. Ban Artificial Superintelligence Act (H.R. 10538, Casar): congress.gov cosponsor page returned 403 and no source I opened names Trahan as a cosponsor, so not recorded; unverified either way. The 16 September letter PDF could not be read as text (no PDF tools available); the quote was confirmed on the press release page, which quotes the letter. The same release (not a quote) mentions 'societal and existential risks' warnings from AI company insiders. Left out: Boston Globe 14 September 2026 quotes ('I don't think with the next incident we'll be so lucky') concern a cyberattack on Hugging Face, so D; the Globe paraphrases her bill as a federal 'pause button'. CLAIM Act release quote 'Developers have already built systems capable of acting on their own and causing real damage.' (7 October 2026) is D under ruling 4. Her 30 July 2026 X post ('We can't run AI safety on the honor system.') is on X and covered separately. 1 October 2026 joint statement with Obernolte says the FRONTIER Act gives emergency authority to 'stop a catastrophe before it happens' (fetch tool could not give the full sentence, so not quoted). Commonwealth Beacon op-ed (30 May 2026) did not mention catastrophic risk. Wording for WBUR and Punchbowl quotes came through a page-summarizing fetch tool; reviewer should spot-check exact characters."
+}

@@ -1,0 +1,61 @@
+{
+  "bioguide": "D000634",
+  "member": "Troy Downing",
+  "searches": [
+    "Troy Downing artificial intelligence (restricted to downing.house.gov)",
+    "\"Troy Downing\" superintelligence",
+    "\"Troy Downing\" AI extinction OR \"existential risk\"",
+    "\"Troy Downing\" AI pause OR slowdown OR moratorium",
+    "\"Troy Downing\" China AI agreement OR treaty",
+    "\"Troy Downing\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Downing"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-20",
+      "venue": "Press release on House passage of his AI-WISE Act",
+      "quote": "My AI-WISE Act will help Main Street Montana stay competitive and thrive in the AI era.",
+      "context": "His bipartisan bill with Rep. Scholten to have the Small Business Administration provide AI literacy resources to small businesses passed the House.",
+      "source_label": "House press release",
+      "url": "https://downing.house.gov/media/press-releases/downings-ai-wise-act-passes-house",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes AI adoption by small businesses and does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsored the AI-WISE Act with Rep. Scholten to help small businesses develop AI literacy; it passed the House.",
+      "House press releases, 28 October 2025 and 20 January 2026",
+      "https://downing.house.gov/media/press-releases/downings-ai-wise-act-passes-house"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found (2025 and 2026) are about helping small businesses adopt AI through his AI-WISE Act; none acknowledge catastrophic risk.",
+  "notes": "All 7 web searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act). The official-site search returned only the AI-WISE Act releases (28 October 2025, 18 November 2025, 20 January 2026), a committee assignment release (Digital Assets, Financial Technology, and Artificial Intelligence Subcommittee) and the 13 August 2025 'Evening Edition: The Role of Coal in the AI Era' item, which does not quote Downing on AI (it paraphrases Montana Republicans saying coal is needed for AI energy demand). The searches on superintelligence, extinction or existential risk, pause or slowdown, China agreement and 'AI safety' returned no results mentioning Downing. Ban Artificial Superintelligence Act (House sponsor Rep. Casar): cosponsor lists found (Forkast, FastDemocracy H.R. 10538) name only Democrats and do not include Downing; Congress.gov was not checked directly. No House letter on AI risk led by Downing was found. The AI-WISE statement and record were kept from the earlier attempt, which opened downing.house.gov press release listing pages 1 to 8 and the AI-WISE release directly (the AI-WISE quote was read at source). That release also quotes OpenAI on AI 'limitations and risks', not Downing."
+}

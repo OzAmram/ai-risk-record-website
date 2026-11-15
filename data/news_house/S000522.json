@@ -1,0 +1,24 @@
+{
+  "bioguide": "S000522",
+  "member": "Christopher H. Smith",
+  "searches": [
+    "site:chrissmith.house.gov artificial intelligence",
+    "\"Chris Smith\" New Jersey congressman superintelligence AI",
+    "Rep. Chris Smith AI extinction existential risk",
+    "Rep. Chris Smith AI pause slowdown moratorium",
+    "Rep. Chris Smith China AI agreement treaty",
+    "\"Chris Smith\" \"AI safety\" congressman",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement on slowing AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement on pausing AI development was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement on an AI agreement or talks with China was found; his one AI-related item criticises China's use of AI for human rights abuses and is not about coordination.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement on self-improving AI was found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related item found is a 14 January 2026 House Foreign Affairs hearing where, per his office's release, he raised China's use of AI for human rights abuses and disinformation; that is not catastrophic risk (ruling 5), and nothing about catastrophic AI risk was found.",
+  "notes": "All seven searches listed ran (the six required plus one on the Ban Artificial Superintelligence Act); the search is complete. The site-restricted search returned no chrissmith.house.gov pages, but a separate result led to his office's release of 14 January 2026, 'WATCH: Rep. Chris Smith (R-NJ) underscores China's weaponization of AI technology to commit human rights abuses' (https://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=415246, also reposted at https://capitolreleases.com/releases/94334655-8a40-4021-bc78-b80a68dd5971). I opened both: they describe his remarks at the hearing 'Winning the AI Arms Race Against the Chinese Communist Party' (exchange with witness Matt Pottinger) only in the third person, with no direct quote, so nothing was added to statements; the hearing video was not reviewed and might contain fuller remarks. Ban Artificial Superintelligence Act (House bill H.R. 10538, Sanders/Casar): no source names Smith as a co-sponsor, but cosponsor lists in search results conflicted and congress.gov returned 403, so this is not confirmed from the official list. No House letter about AI risk led or signed by him was found (the multi-signer August/September 2026 letters were not searched, per instructions). From the earlier, search-refused attempt: his official news pages from 2 to 12 November 2026 (Nigeria, Veterans Day, religious freedom, Lyme disease) had nothing on AI. Several other people named Chris Smith exist; all material used is from his own official site."
+}

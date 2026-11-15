@@ -1,0 +1,61 @@
+{
+  "bioguide": "S001188",
+  "member": "Marlin A. Stutzman",
+  "searches": [
+    "Stutzman artificial intelligence site:stutzman.house.gov",
+    "Marlin Stutzman superintelligence",
+    "Marlin Stutzman AI existential risk extinction",
+    "Stutzman AI pause slowdown moratorium",
+    "Stutzman China AI agreement treaty",
+    "\"Marlin Stutzman\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Stutzman"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "venue": "Press release",
+      "quote": "In the age of AI, it is imperative that regulatory technology keep up with monetary technological development,",
+      "context": "Stutzman announcing that his FUTURES Act, which requires bank and credit union regulators to assess and upgrade their technology, passed the House.",
+      "source_label": "Stutzman House press release",
+      "url": "https://stutzman.house.gov/media/press-releases/rep-stutzmans-ai-regulating-futures-act-passes-house-representatives",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Mentions AI only as a reason to modernize financial regulators' technology, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the FUTURES Act with Rep. Bill Foster to require federal financial regulators to assess and modernize their technology; it passed the House under suspension of the rules.",
+      "Stutzman House press releases, 2026-04-14 and 2026-09-15",
+      "https://stutzman.house.gov/media/press-releases/rep-stutzmans-ai-regulating-futures-act-passes-house-representatives"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remark found (2026) concerns financial regulators keeping pace with AI-era technology and does not acknowledge catastrophic risk.",
+  "notes": "All seven web searches ran (the six required plus one on the Ban Artificial Superintelligence Act). None of them returned any statement by Stutzman on AI risk, superintelligence, extinction, a pause or slowdown, a China agreement or AI safety; the site-restricted search returned no stutzman.house.gov pages. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026, led by Rep. Greg Casar): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Stutzman is not among them; congress.gov was not checked directly (it returned HTTP 403 in the earlier attempt), so a reviewer may want to confirm. From the earlier attempt: the official press release list was opened directly (10 newest releases, 2026-04-14 to 2026-11-11) and only the FUTURES Act releases mention AI. The 2026-09-15 quote was re-checked at the source this run; the release continues with further sentences about financial-sector threats. The 2026-04-14 introduction release paraphrased Stutzman saying threats to financial institutions emerge daily; no AI-risk wording from him there. Rep. Bill Foster's remarks in that release about AI amplifying bank panics are his, not Stutzman's. Older press releases, hearing remarks and floor speeches were not read individually."
+}

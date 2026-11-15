@@ -1,0 +1,62 @@
+[
+ {
+  "bioguide": "F000462",
+  "member": "Lois Frankel",
+  "url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
+  "quote": "The state is moving on an extraordinarily accelerated timeline to procure an AI vendor by September 1.",
+  "result": "wording_differs",
+  "evidence_url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
+  "context": "the appropriation of $4 million in state funds for the new and relatively unproven technology of AI to identify the SNAP error rate,\" wrote the Members. \"The state is moving on an extraordinarily accelerated timeline to procure an AI vendor by September 1, yet Floridians have received little information about how that vendor will be selected or what safeguards will be in place,\" continued the Members.",
+  "corrected_quote": "The state is moving on an extraordinarily accelerated timeline to procure an AI vendor by September 1, yet Floridians have received little information about how that vendor will be selected or what safeguards will be in place",
+  "date_ok": true,
+  "explanation": "The words appear on the press release (dated August 04, 2026), but the stored quote cuts the sentence off mid-way and adds a full stop; the full sentence is given. It is attributed to the letter's signers jointly ('wrote the Members'), and Frankel is listed among them, not quoted individually."
+ },
+ {
+  "bioguide": "G000589",
+  "member": "Lance Gooden",
+  "url": "https://gooden.house.gov/press-releases?id=75086BA0-0C2E-46AC-915E-E710077AE939",
+  "quote": "As agentic AI becomes more powerful, China and other adversaries will look for every weakness they can exploit. Congress needs to know whether our current defenses are able to keep pace and where we need to act before the next threat becomes a crisis.",
+  "result": "confirmed",
+  "evidence_url": "https://gooden.house.gov/press-releases?id=75086BA0-0C2E-46AC-915E-E710077AE939",
+  "context": "The letter also highlights reports of foreign actors using agentic AI to target Americans. “As agentic AI becomes more powerful, China and other adversaries will look for every weakness they can exploit,” said Rep. Gooden. “Congress needs to know whether our current defenses are able to keep pace and where we need to act before the next threat becomes a crisis.” An excerpt from the letter:",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Both sentences are on Gooden's press release dated October 9, 2026, attributed to Rep. Gooden; on the page they are separated by the tag 'said Rep. Gooden'."
+ },
+ {
+  "bioguide": "G000589",
+  "member": "Lance Gooden",
+  "url": "https://gooden.house.gov/press-releases?ID=FA52646F-00EC-45A3-BE86-37547C65315F",
+  "quote": "Artificial intelligence will shape the future of our economy, national security, and global competitiveness. The United States cannot allow foreign adversaries to manipulate our AI policy and compromise our leadership on this technology.",
+  "result": "confirmed",
+  "evidence_url": "https://gooden.house.gov/press-releases?ID=FA52646F-00EC-45A3-BE86-37547C65315F",
+  "context": "designed to shape public debate surrounding AI development and weaken U.S. AI leadership. \"Artificial intelligence will shape the future of our economy, national security, and global competitiveness,\" said Rep. Gooden. \"The United States cannot allow foreign adversaries to manipulate our AI policy and compromise our leadership on this technology.” An excerpt from the letter:",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "Both sentences are on Gooden's press release dated July 24, 2026, attributed to Rep. Gooden; on the page they are separated by the tag 'said Rep. Gooden'."
+ },
+ {
+  "bioguide": "H001094",
+  "member": "Val T. Hoyle",
+  "url": "https://hoyle.house.gov/imo/media/doc/spirit_airlines_letter.pdf",
+  "quote": "The unprecedented scale and sophistication of modern artificial intelligence make it particularly important that privacy protections keep pace with the technology.",
+  "result": "confirmed",
+  "evidence_url": "https://hoyle.house.gov/imo/media/doc/spirit_airlines_letter.pdf",
+  "context": "Innovation should not come at the expense of workers’ privacy or the confidentiality of information they were required to provide as a condition of employment. The unprecedented scale and sophistication of modern artificial intelligence make it particularly important that privacy protections keep pace with the technology. We therefore urge Google and Spirit to address these concerns and establish meaningful, enforceable safeguards",
+  "corrected_quote": "",
+  "date_ok": true,
+  "explanation": "The sentence is in the body of the letter dated October 8, 2026; Val Hoyle is one of the signers (with Horsford, Warren, Jackson, Garcia and others), so it is a joint statement, not Hoyle's individual words."
+ },
+ {
+  "bioguide": "K000389",
+  "member": "Ro Khanna",
+  "url": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
+  "quote": "There's actually a civilizational extinction risk.",
+  "result": "confirmed",
+  "evidence_url": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
+  "context": "Khanna, a Democrat from California, shared a summary of the Human Control Over AI Act with CNBC first. TNW has not seen the bill. “There’s actually a civilizational extinction risk,” Khanna told CNBC. The bill would ban models that recursively self-improve, or that change their own core objectives,",
+  "corrected_quote": "",
+  "date_ok": false,
+  "explanation": "The Next Web article (published September 29, 2026) quotes Khanna with these exact words, said to CNBC, but it says CNBC reported this on Monday, which is September 28, 2026, so the stored date looks one day late. The original CNBC article was not downloaded; this is a secondary source."
+ }
+]

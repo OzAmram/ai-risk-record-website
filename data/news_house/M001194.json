@@ -1,0 +1,118 @@
+{
+  "bioguide": "M001194",
+  "member": "John R. Moolenaar",
+  "searches": [
+    "site:moolenaar.house.gov artificial intelligence",
+    "Moolenaar superintelligence",
+    "Moolenaar AI extinction existential risk",
+    "Moolenaar AI pause slowdown moratorium",
+    "Moolenaar China AI agreement treaty talks",
+    "\"Moolenaar\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-06-27",
+      "venue": "Letter to the Department of Commerce, quoted in a House Select Committee on China press release",
+      "quote": "But access to sufficiently capable AI systems may soon eliminate the need for highly trained experts. AI could enable non-state actors to generate step-by-step instructions for constructing bioweapons targeted at Americans. These risks are no longer hypothetical; they are present now and growing.",
+      "context": "Setting out his 'America First AI Policy' framework for AI chip exports and data centers, he warned that China may share frontier AI with others and that AI could help non-state actors build weapons of mass destruction.",
+      "source_label": "House Select Committee on China press release",
+      "url": "https://chinaselectcommittee.house.gov/media/press-releases/the-us-must-win-the-ai-race-moolenaar-s-framework-puts-america-first",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "misuse_only",
+        "bill_or_action"
+      ],
+      "reason": "Names AI-enabled bioweapons by non-state actors as a present and growing risk, which is catastrophic misuse by people only, so C under ruling 1."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Statement as Chairman of the House Select Committee on China",
+      "quote": "The Trump Administration is right to limit AI discussion with China to a communication channel for security incidents. The real danger is trusting the CCP.",
+      "context": "Responding to calls for an agreement with China on AI, he backed limiting AI talks with China to a channel for security incidents and argued the CCP cannot be trusted to keep agreements.",
+      "source_label": "House Select Committee on China press release",
+      "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-china-will-break-promises-on-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Opposes an AI agreement with China and names the danger as trusting the CCP, not catastrophic risk from AI itself (ruling 5)."
+    },
+    {
+      "date": "2026-03-24",
+      "venue": "Panel discussion at the Hill & Valley Forum",
+      "quote": "when you're competing against China, who violates so many of those principles of free trade, then it requires almost like a defense mentality, where you're saying, ‘Okay, let's use every tool possible to make sure we win this competition.",
+      "context": "Discussing US strategy to win the AI race against China through export controls, allied coordination and investment.",
+      "source_label": "House Select Committee on China press release",
+      "url": "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-highlights-us-strategy-to-win-the-ai-race-at-hill-valley-forum",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About competition with China in AI, which is level D under ruling 5."
+    },
+    {
+      "date": "2026-10-19",
+      "venue": "Statement as Chairman of the House Select Committee on China",
+      "quote": "DeepSeek is a dangerous AI model that has no place in the federal government, and the Trump Administration is right to put this commonsense AI guardrail in place.",
+      "context": "Welcoming the Homeland Security Department's ban on DeepSeek in federal IT systems and promoting his No Adversarial AI Act.",
+      "source_label": "House Select Committee on China press release",
+      "url": "https://chinaselectcommittee.house.gov/media/press-releases/dhs-blocks-china-based-deepseek-from-federal-it-systems",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Calls a Chinese AI model dangerous for spying and security reasons, not catastrophic risk from AI (rulings 4 and 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development for safety; he supports export controls to slow China's progress while the US develops dominant AI, which is about competition, not a slowdown of frontier AI.",
+      "sources": [
+        [
+          "Select Committee on China press release, 2026-09-23",
+          "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-china-will-break-promises-on-ai"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "no",
+      "note": "On 23 September 2026 he responded to calls for an AI agreement with China by backing limiting AI discussion with China to a communication channel for security incidents and saying China will break promises on AI; he argued instead for export controls and US dominance. A reviewer may judge whether supporting a security-incident channel makes this mixed.",
+      "sources": [
+        [
+          "Select Committee on China press release, 2026-09-23",
+          "https://chinaselectcommittee.house.gov/media/press-releases/moolenaar-china-will-break-promises-on-ai"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sponsor of the No Adversarial AI Act, which would ban AI models from foreign adversaries from federal IT systems (per his statement).",
+      "Select Committee on China press release, 2026-10-19",
+      "https://chinaselectcommittee.house.gov/media/press-releases/dhs-blocks-china-based-deepseek-from-federal-it-systems"
+    ],
+    [
+      "With Rep. Garbarino, sent a letter to DoorDash as part of a joint investigation into US companies using Chinese open-weight AI models (national security and cybersecurity concerns, not catastrophic risk).",
+      "Select Committee on China press release, 2026-07-31",
+      "https://chinaselectcommittee.house.gov/media/press-releases/house-committees-investigate-doordash-s-use-of-chinese-ai-a-recipe-for-risk"
+    ],
+    [
+      "Introduced the Advanced AI Security Readiness Act with Reps. Krishnamoorthi, LaHood and Gottheimer, to protect US AI from espionage and theft (security, not catastrophic risk).",
+      "Select Committee on China press release, 2025-06-12",
+      "https://chinaselectcommittee.house.gov/media/press-releases/defending-american-ai-moolenaar-bipartisan-group-introduce-advanced-ai"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only statement above D is a June 2025 letter warning that AI could help non-state actors build bioweapons (C, misuse only); under the 2026 ruling a 2025-only C becomes D. All his 2026 AI statements, as Chairman of the House Select Committee on China, are about competition with China, export controls and security threats from Chinese AI, and he opposed an AI agreement with China beyond a security-incident channel.",
+  "notes": "All 7 web searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act); the earlier attempt's 6 searches were all refused. The site:moolenaar.house.gov search returned no pages from his office site, only Select Committee on China pages, which is where his AI statements are; the earlier attempt had opened moolenaar.house.gov press releases back to 30 April 2026 and found none on AI. The superintelligence, extinction, pause and 'AI safety' searches found nothing by him. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): search results name only Democratic cosponsors and no source shows Moolenaar sponsoring or co-sponsoring it; I did not open the full congress.gov cosponsor list. No House letter on AI risk signed by him was found. New this run: the 27 June 2025 bioweapons statement (C, misuse_only). I also read his parts of the 25 June 2025 hearing 'Algorithms and Authoritarians' transcript (congress.gov PDF); he said only that 'AI presents both immense promise and real risk' and spoke about export controls and China (level D, not included). The AGI remarks at that hearing were by Ranking Member Krishnamoorthi and witnesses, not Moolenaar. A 23 May 2025 committee letter (with Krishnamoorthi) urging Commerce to expand the AI Safety Institute's role was about predicting China's AI progress and national security, level D, not included. In a May 2026 NPR interview he reportedly said trust with China must be built by measuring how it kept previous agreements (search-result paraphrase, not about AI specifically; not quoted). Quotes were checked character for character against the downloaded page text of each source. Earlier-run notes still valid: other 2026 AI-related committee releases seen (chip export bills such as the SCALE Act and Chip Security Act, chip smuggling hearing, Nvidia briefing requests, a 12 November 2026 statement on Jensen Huang, a 10 June 2026 statement on data centers) are about chips and national security, level D. His 23 September 2026 statement also says 'The best path forward for safety and winning the AI race is implementing strict export controls', which mentions safety but not catastrophic risk."
+}

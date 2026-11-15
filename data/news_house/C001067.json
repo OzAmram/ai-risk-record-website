@@ -1,0 +1,97 @@
+{
+  "bioguide": "C001067",
+  "member": "Yvette D. Clarke",
+  "searches": [
+    "Yvette Clarke artificial intelligence (restricted to clarke.house.gov)",
+    "Yvette Clarke superintelligence",
+    "Yvette Clarke AI extinction existential risk",
+    "Yvette Clarke AI pause slowdown moratorium",
+    "Yvette Clarke China AI agreement treaty",
+    "\"Yvette Clarke\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-15",
+      "venue": "Press release on reintroducing the REAL Political Ads Act",
+      "quote": "If AI content can manipulate and deceive people on a large scale, it can be a serious threat to our democracy and have devastating consequences for our national and election security.",
+      "context": "Her bill to require disclosure when generative AI is used to make images or videos in political ads.",
+      "source_label": "Clarke House press release",
+      "url": "https://clarke.house.gov/clarke-reintroduces-real-political-ads-act-to-strengthen-transparency-in-ai-generated-political-advertising/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The harm named is AI-generated disinformation in elections, a deepfake concern, and the general mention of national security does not describe a catastrophic danger from AI itself."
+    },
+    {
+      "date": "2026-06-03",
+      "venue": "Press release on introducing the CREATOR Act",
+      "quote": "Creators and artists have been sounding the alarm about the misuse of their work and identities by AI systems,",
+      "context": "Her bipartisan bill protecting visual artists from AI-generated imitations of their style.",
+      "source_label": "Clarke House press release",
+      "url": "https://clarke.house.gov/reps-clarke-van-duyne-and-foushee-introduce-bipartisan-legislation-to-provide-digital-content-creators-with-visual-artistic-protections/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About intellectual property and creators' livelihoods, not catastrophic risk."
+    },
+    {
+      "date": "2026-03-31",
+      "venue": "Press release on the CEDIA \"A.I. Comes Home\" event",
+      "quote": "It’s clear, today, that our nation stands at the dawn of a new technological revolution: the age of A.I.",
+      "context": "She attended a smart home technology industry demonstration as co-chair of the Smart Cities Caucus.",
+      "source_label": "Clarke House press release",
+      "url": "https://clarke.house.gov/rep-clarke-co-chair-of-the-smart-cities-caucus-joins-cedia-for-a-i-comes-home-smart-technology-demonstration/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI-based smart technology and does not acknowledge catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development. Her December 2025 letter opposed a moratorium on state AI laws, which is a different policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Reintroduced the REAL Political Ads Act, requiring disclosure of generative AI images or videos in political ads.",
+      "Clarke House press release, 2026-10-15",
+      "https://clarke.house.gov/clarke-reintroduces-real-political-ads-act-to-strengthen-transparency-in-ai-generated-political-advertising/"
+    ],
+    [
+      "Introduced the CREATOR Act with Reps. Van Duyne and Foushee, protecting visual artists from AI-generated stylistic impersonation.",
+      "Clarke House press release, 2026-06-03",
+      "https://clarke.house.gov/reps-clarke-van-duyne-and-foushee-introduce-bipartisan-legislation-to-provide-digital-content-creators-with-visual-artistic-protections/"
+    ],
+    [
+      "Led a letter with 43 colleagues urging Armed Services leaders to keep any moratorium or preemption of state AI laws out of the FY26 defense authorization bill (about state regulation, not a pause on AI development).",
+      "Clarke House press release, 2025-12-03",
+      "https://clarke.house.gov/clarke-leads-letter-calling-for-exclusion-of-ai-moratorium-in-fy26-ndaa/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "She has spoken about AI often in 2025 and 2026, mostly on deepfakes in elections, algorithmic bias and protecting creators, but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 in total). Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the FastDemocracy bill page lists 12 cosponsors and Clarke is not among them; no source shows her cosponsoring. No House letter about AI risk led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). Paraphrase left out: a Boston Globe article by Hiawatha Bray (URL dated 2026-09-19, https://www.bostonglobe.com/2026/09/19/multimedia/black-congress-naacp-ai/) says she is more concerned with present-day harms to Black and low-income people than with extinction-level risk, but it does not quote her on existential risk, so this is not treated as a dismissive (F) statement; her quoted words there are about bias in hiring and mortgages. A reviewer may want to read that article. Not opened: her 18 November 2025 Energy and Commerce oversight hearing opening statement (PDF could not be converted to text); a search summary says she called for more data on the safety of AI apps, which sounds like consumer safety (D). The three D statements are from 2026 press releases read in full on clarke.house.gov in the earlier attempt; her December 2025 letter release (opened this time) speaks of chatbot harms to children and unregulated AI, which is D. No statement about superintelligence, extinction, loss of control, a pause or slowdown, or AI talks with China was found."
+}

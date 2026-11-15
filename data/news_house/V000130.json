@@ -1,0 +1,24 @@
+{
+  "bioguide": "V000130",
+  "member": "Juan Vargas",
+  "searches": [
+    "site:vargas.house.gov artificial intelligence",
+    "Juan Vargas \"AI safety\"",
+    "Rep. Juan Vargas superintelligence",
+    "Juan Vargas AI extinction OR existential risk",
+    "Juan Vargas AI pause OR slowdown OR moratorium",
+    "Juan Vargas China AI agreement OR treaty",
+    "Congressman Juan Vargas \"artificial intelligence\" 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Vargas about AI, let alone catastrophic AI risk, was found in news searches or on the first three pages of his official press releases (September 2025 to November 2026).",
+  "notes": "Seven web searches ran; none were refused. The site-restricted search returned no vargas.house.gov pages, so I opened his press release list directly (https://vargas.house.gov/media/press-releases, pages 1-3, covering 12 September 2025 to 11 November 2026): no titles or visible text mention AI; some releases are shown only as excerpts and older pages (2025 before September) were not checked. Could not confirm the cosponsor list of the Ban Artificial Superintelligence Act (H.R. 10538): congress.gov returned HTTP 403, and the Roll Call article names no House cosponsors and does not mention Vargas. No source shows him sponsoring or signing any AI-risk bill or letter outside the centrally checked House letters. Search was therefore not exhaustive."
+}

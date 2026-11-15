@@ -1,0 +1,29 @@
+{"bioguide": "ELECT-UT-01-MCADAMS", "member": "Ben McAdams",
+ "searches": [
+  "Ben McAdams artificial intelligence 2026",
+  "Ben McAdams \"AI safety\"",
+  "McAdams Utah congressional candidate AI superintelligence",
+  "Ben McAdams AI existential risk extinction",
+  "Ben McAdams AI pause moratorium data centers Utah",
+  "Ben McAdams China AI agreement",
+  "benmcadams.com AI artificial intelligence issues"
+ ],
+ "statements": [
+  {"date": "2026-03-24", "venue": "Op-ed in the Deseret News, reposted on his campaign site",
+   "quote": "Ultimately, the United States will need a clear national framework for AI governance",
+   "context": "Op-ed titled \"Don't let AI become the next educational divide\" about AI in schools, misinformation and safeguards for young people.",
+   "source_label": "Ben McAdams campaign site (Deseret News op-ed)", "url": "https://benmcadams.com/dont-let-ai-become-the-next-educational-divide/",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Calls for national AI rules in the context of education, misinformation and child safety, without acknowledging catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "He has spoken about AI in 2026 (education divide, misinformation, federal guardrails, data center water use) but nothing found acknowledges catastrophic risk.",
+ "notes": "Seven web searches ran; none was refused. Deseret News report on the 29 September 2026 Utah 1st District debate (https://www.deseret.com/politics/2026/09/29/utah-1st-congressional-district-debate-focuses-on-ai-data-centers-and-republican-party-after-trump/) paraphrases him: Congress has not ensured the coming AI disruption benefits all Americans; he wants strong federal guardrails; data centers must not take water from the Great Salt Lake watershed and should not rely on subsidies; he said a roughly $1 million pro-AI PAC spend for him (Think Big, reported as $450,000 in the primary) won't affect his commitment to constrain the industry. These are paraphrase or fragments, so left out of statements; all level D in any case. KSL (11 June 2026) and Deseret News (9 June 2026) report he disclosed owning stock in an AI data center under construction in Delta, Utah. Axios Q&A of 25 June 2026 returned 403 and could not be read. Campaign site priorities page has no AI content. As a non-member he did not sponsor the Ban Artificial Superintelligence Act and no source shows he endorsed it. The op-ed quote was read through a page-fetch tool that summarises pages; reviewer should confirm exact wording."
+}

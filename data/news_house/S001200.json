@@ -1,0 +1,41 @@
+{
+  "bioguide": "S001200",
+  "member": "Darren Soto",
+  "searches": [
+    "site:soto.house.gov artificial intelligence",
+    "Darren Soto superintelligence",
+    "Darren Soto AI extinction existential risk",
+    "Darren Soto AI pause slowdown moratorium",
+    "Darren Soto China AI agreement talks",
+    "\"Darren Soto\" \"AI safety\"",
+    "Rep. Darren Soto artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2025-07-16",
+      "venue": "House floor remarks on H.R. 1770, reproduced in a press release",
+      "quote": "See, the reality is the crooks are already using AI.",
+      "context": "Supporting his Consumer Safety Technology Act, which has the Consumer Product Safety Commission pilot AI tools to track injuries, hazards and recalls.",
+      "source_label": "Rep. Soto press release",
+      "url": "https://soto.house.gov/media/press-releases/house-passes-sotos-consumer-safety-technology-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "Promotes government use of AI for consumer safety and mentions criminal use of AI, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Sponsored H.R. 1770, the Consumer Safety Technology Act, which directs the Consumer Product Safety Commission to run an AI pilot program and agencies to study blockchain; it passed the House.", "Rep. Soto press release, 2025-07-16", "https://soto.house.gov/media/press-releases/house-passes-sotos-consumer-safety-technology-act"],
+    ["Introduced the AI Fraud Accountability Act with Rep. Vern Buchanan, creating a federal offense for fraud using realistic AI digital impersonations (deepfakes, voice clones).", "Rep. Buchanan press release, March 2026", "https://buchanan.house.gov/2026/3/buchanan-soto-introduce-bipartisan-bicameral-legislation-to-combat-ai-enabled-impersonation-scams"],
+    ["Sponsored H.R. 4498, the Jobs of the Future Act, asking for a federal report on the growth of AI and its impact on the American workforce.", "New Democrat Coalition AI endorsement slate (undated)", "https://newdemocratcoalition.house.gov/imo/media/doc/ndc_ai_endorsement_slate.pdf"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI (a 2025 consumer-safety AI bill and a March 2026 AI fraud bill) but only about crime, fraud and workforce effects; no statement acknowledging catastrophic risk was found, and he is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "All six required web searches ran this time, plus one extra (7 in total); this replaces an earlier attempt in which every search was refused. The searches on superintelligence, extinction, pause, China and AI safety found nothing about Soto (results for 'Darren' in AI safety were about the author Darren McKee, a different person). The July 2025 quote was checked character for character against the raw page text; the earlier draft's quote joined two separate quoted paragraphs, so it was shortened to the first one. 2026 AI remark left out of statements because the exact date could not be confirmed (the Buchanan release shows no day, only March 2026 in its URL): Soto said, \"As AI rapidly evolves, it is critical for us to ensure that the technology isn't being misused to cause harm,\" about AI impersonation fraud; this would be level D. In the source the apostrophe is a curly one. The Jobs of the Future Act entry comes from a New Democrat Coalition slate seen only in search results, not opened. The H.R. 10538 cosponsor check comes from the earlier attempt and was not re-opened. The many-signer House AI letters of August and September 2026 were not searched for, as instructed."
+}

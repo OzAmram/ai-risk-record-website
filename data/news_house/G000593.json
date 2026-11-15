@@ -1,0 +1,38 @@
+{
+  "bioguide": "G000593",
+  "member": "Carlos A. Gimenez",
+  "searches": [
+    "Gimenez artificial intelligence (restricted to gimenez.house.gov)",
+    "Carlos Gimenez superintelligence",
+    "Carlos Gimenez AI extinction existential risk",
+    "Carlos Gimenez AI pause slowdown moratorium",
+    "Carlos Gimenez China AI agreement treaty",
+    "\"Gimenez\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors",
+    "Rep. Carlos Gimenez artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-02",
+      "venue": "NewsNation \"The Hill\" interview, as reported by Congress.net",
+      "quote": "I think in this case, I think Beijing actually has it right. As long as AI is not used to supplant your ability to learn, in other words, you have to learn the concepts, etcetera, etcetera,",
+      "context": "He praised China's plan to teach AI in schools, in contrast with New York City's one-year ban on AI use for students from kindergarten to eighth grade.",
+      "source_label": "Congress.net, 3 September 2026",
+      "url": "https://congress.net/gop-rep-carlos-gimenez-says-china-has-it-right-on-ai-in-schools-as-nyc-bans-student-use/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "He talks about AI in education and keeping American children competitive, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only substantial 2026 remark on AI found is about teaching AI in schools, which does not touch catastrophic risk. Nothing at level A, B, C or F was found.",
+  "notes": "Eight web searches ran; none was refused. Searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing about him, so coverage may be thin rather than complete. The statement date is inferred: Congress.net published on Thursday 3 September 2026 and says he spoke 'Wednesday', so 2 September 2026; the original NewsNation broadcast was not checked. Older AI material (2024 remarks on AI as a national security issue, on US investment in Chinese AI, and a transportation cybersecurity hearing) predates 2025 and was not included. A May 2025 community project funding request on his site backs an AI and cybersecurity project at Florida International University; not a statement about AI risk, not included. Ban Artificial Superintelligence Act (H.R. 10538, Casar; S. 5493, Sanders): no source shows Gimenez as sponsor or cosponsor, but the full cosponsor list on Congress.gov was not checked. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Only the first page of his press releases (https://gimenez.house.gov/media/press-releases, 10 releases from 21 July to 11 November 2026) was checked; none mentions AI. The news4jax April 2026 article on a House AI roundtable was opened and does not mention him."
+}

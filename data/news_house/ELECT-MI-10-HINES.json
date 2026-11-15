@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-MI-10-HINES",
+  "member": "Christina Hines",
+  "searches": [
+    "Christina Hines Michigan 10th district congress AI",
+    "Christina Hines campaign artificial intelligence safety",
+    "\"Christina Hines\" superintelligence OR \"artificial general intelligence\"",
+    "\"Christina Hines\" AI extinction OR \"existential risk\" OR \"loss of control\"",
+    "\"Christina Hines\" AI pause OR moratorium OR \"data center\"",
+    "\"Christina Hines\" China AI agreement OR treaty",
+    "Christina Hines \"big tech\" AI guardrails \"keep our community safe\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Search results indicate she has spoken about regulating big tech and AI in general terms during the 2026 campaign, but nothing found mentions catastrophic risk from AI. No exact quote could be verified at a source, so this D rests on search-result summaries only.",
+  "notes": "Seven web searches ran; none were refused. No representative-elect has a house.gov site; a guessed campaign site (christinahines.com) returned an empty page and her real campaign site was not found. A search-result summary of Michigan Advance coverage (https://michiganadvance.com/?p=115513, 'As voters task Dems with delivering affordability, Hines keeps her family close to heart', around November 2026) paraphrased her as wanting to 'take a look at regulations around big tech and AI' and attributed to her the words that Congress 'has really failed to put any guardrails up to keep our community safe'; it is unclear whether the guardrails remark was about AI. The Michigan Advance and News From The States pages returned HTTP 403, so this wording was not read at source and is left out of statements. She appeared with Hakeem Jeffries at an AI roundtable in Eastpointe in October 2026 (https://michiganadvance.com/2026/10/19/jeffries-talks-ai-concerns-at-roundtable-with-macomb-county-community-leaders/), but the page could not be opened and the search summary attributed the AI remarks to Jeffries, not Hines. Michigan Public's 28 September 2026 race profile (opened) has no AI remarks by her. No evidence found that she sponsored the Ban Artificial Superintelligence Act (she was not a member of Congress). A reviewer may prefer grade 'none' since no AI statement was verified at source."
+}

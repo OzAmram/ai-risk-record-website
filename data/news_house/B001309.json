@@ -1,0 +1,29 @@
+{"bioguide": "B001309", "member": "Tim Burchett",
+ "searches": [
+  "Tim Burchett artificial intelligence (restricted to burchett.house.gov)",
+  "Tim Burchett superintelligence",
+  "Tim Burchett AI extinction existential risk",
+  "Tim Burchett AI pause moratorium slowdown",
+  "Tim Burchett China AI agreement treaty",
+  "\"Burchett\" \"AI safety\"",
+  "Burchett Daily Caller lawmakers don't understand AI superintelligence ban"
+ ],
+ "statements": [
+  {"date": "2026-11-10", "venue": "Press release introducing the Community Control of Data Centers Act",
+   "quote": "The recent boom in AI has made data centers a central component of infrastructure that may have major economic implications.",
+   "context": "Announcing a bill to bar federal funds for building or running data centers until state and local approval is obtained.",
+   "source_label": "House press release (burchett.house.gov)",
+   "url": "https://burchett.house.gov/media/press-releases/immediate-release-rep-burchett-introduces-bill-give-municipalities-control",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "Mentions AI only as the driver of data center growth and its economic effects, with no acknowledgment of catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "His data center bill is about local control and federal overreach, not risks from AI itself, so it does not count.", "sources": [["House press release, 10 Nov 2026", "https://burchett.house.gov/media/press-releases/immediate-release-rep-burchett-introduces-bill-give-municipalities-control"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [["Introduced the Community Control of Data Centers Act, barring federal funds for data centers until state and local approval is obtained (motivated by local control, not AI risk).", "House press release, 10 Nov 2026", "https://burchett.house.gov/media/press-releases/immediate-release-rep-burchett-introduces-bill-give-municipalities-control"]],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 AI remarks found are about data centers, local control and whether Congress understands AI well enough to regulate it; none acknowledges catastrophic risk from AI.",
+ "notes": "All 6 required web searches ran, plus 1 follow-up (7 total); none was refused. No statement on superintelligence, extinction, loss of control, a pause, a China agreement or AI safety was found, and no source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (introduced by Sen. Sanders and Rep. Casar). Paraphrases left out of statements: (1) Daily Caller News Foundation reporting syndicated by BizPac Review, 18 Sep 2026 (https://bizpacreview.com/2026/09/18/senators-not-keen-on-banning-ai-from-surpassing-humans-despite-alarm-bells-1659574), in an article on the superintelligence ban, says Burchett told reporters many lawmakers did not understand AI and needed to talk with AI experts before passing legislation; (2) a BizPac Review/DCNF piece of 15 Sep 2026 (https://bizpacreview.com/2026/09/15/trump-opposed-placing-guardrails-on-ai-amid-tech-industrys-fears-heres-what-lawmakers-had-to-say-1659028) reportedly says he argued Congress must act because a future president might not be trustworthy with AI. Both pages returned 403 and could not be opened; only search-result summaries were seen, so his exact words are unknown and a reviewer may want to check them (neither, as summarized, acknowledges catastrophic risk). On 31 Aug 2026 he responded to Trump calling data center opponents 'backwards and poor' with 'I guess I'm backwards and poor' (The Nerd Stash, 1 Sep 2026) - data centers only, D. An R Street item describes him asking a hearing witness how the US can keep AI dominance over China (likely pre-2025, not checked). Earlier fallback check of burchett.house.gov press releases pages 1-5 (about Jan 2025 to Nov 2026) found AI only in the 10 Nov 2026 release. The quoted sentence is press release narrative from his office (re-read at source this session through a summarizing fetch tool), not words in quotation marks attributed to him; his own quoted words in that release are about local control."}

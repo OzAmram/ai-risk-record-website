@@ -1,0 +1,22 @@
+{"bioguide": "H001102", "member": "Mark Harris",
+ "searches": [
+  "site:markharris.house.gov artificial intelligence",
+  "Rep. Mark Harris North Carolina \"AI safety\"",
+  "Congressman Mark Harris superintelligence",
+  "Rep. Mark Harris AI extinction existential risk",
+  "Mark Harris NC congressman AI moratorium pause slowdown",
+  "Rep. Mark Harris China AI agreement treaty",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No quotable statement by him about AI was found in his press releases or in news coverage from 2025 to November 2026. The only AI-related trace is a video clip of hearing remarks praising President Trump's AI executive order, which could not be read and would at most be level D.",
+ "notes": "All 6 required web searches ran this time, plus 1 extra search on cosponsors of the Ban Artificial Superintelligence Act (7 in total). The site-restricted search returned no pages from markharris.house.gov. Kept from the earlier attempt: press release listing pages 1 to 8 on markharris.house.gov (12 February 2025 to 11 November 2026) were opened then, and no title or visible excerpt mentioned AI, superintelligence, technology or data centers (full release text not checked, except the 9 November 2026 Washington Examiner op-ed release, which does not mention AI). Search results describe a Dailymotion/Forbes clip (https://www.dailymotion.com/video/x9hbsck) in which Rep. Mark Harris (R-NC), at a House Judiciary Committee hearing, spoke about President Trump's executive order 'Removing Barriers To American Leadership In Artificial Intelligence' and applauded the administration's leadership; this is only a search-result summary, the page gave no transcript, so no quote was recorded. That would be level D at most (promoting AI / opposing regulation). He sits on the House Judiciary Committee; the 18 September 2025 Judiciary subcommittee hearing 'AI at a Crossroads: A Nationwide Strategy or Californication?' (https://www.govinfo.gov/content/pkg/CHRG-119hhrg61690/html/CHRG-119hhrg61690.htm) lists him on the roster, but he does not speak in the transcript. Ban Artificial Superintelligence Act (House bill H.R. 10538, Casar): cosponsor lists seen in search results name only Democrats (Hoyle, Lynch, Tonko; reportedly Ocasio-Cortez and others); no source shows Harris as a cosponsor, and congress.gov was not checked directly. A news report quotes an unnamed Republican saying he had no extinction concerns; nothing identifies the speaker as Harris, so it was not used. Name check: results were filtered to Rep. Mark Harris of North Carolina's 8th district."
+}

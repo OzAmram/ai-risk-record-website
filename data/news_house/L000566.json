@@ -1,0 +1,34 @@
+{"bioguide": "L000566", "member": "Robert E. Latta",
+ "searches": [
+  "Latta artificial intelligence site:latta.house.gov",
+  "Rep. Bob Latta superintelligence",
+  "Bob Latta AI existential risk extinction",
+  "Latta AI pause moratorium slowdown 2026",
+  "Bob Latta China AI agreement treaty",
+  "\"Latta\" \"AI safety\"",
+  "Latta Matsui letter National Cyber Director AI vulnerabilities Mythos",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2026-05-14",
+   "venue": "Press release on a letter he led with Rep. Doris Matsui and 33 members to the National Cyber Director",
+   "quote": "If AI can find serious vulnerabilities in widely used software, China and other bad actors will look for ways to use similar tools against us",
+   "context": "Latta and Matsui asked the Office of the National Cyber Director to plan for a surge of software vulnerabilities found by advanced AI systems such as Anthropic's Mythos, and for wider defensive access to such tools.",
+   "source_label": "Latta House press release, 14 May 2026",
+   "url": "https://latta.house.gov/news/documentsingle.aspx?DocumentID=406786",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "The only harm named is cyber attack by hostile actors using AI tools, which is outside catastrophic risk under ruling 4 and 5, so D."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Led, with Rep. Doris Matsui, a letter signed by 35 members asking the National Cyber Director to coordinate a federal-industry response to software vulnerabilities discovered by advanced AI and to expand defensive access to such AI cyber tools.", "Latta House press release, 14 May 2026 (letter dated 13 May 2026)", "https://latta.house.gov/news/documentsingle.aspx?DocumentID=406786"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 remarks on AI concern AI-discovered software vulnerabilities and cyber threats from China and other bad actors, which does not acknowledge catastrophic risk; nothing reaching A, B, C or F was found.",
+ "notes": "All six required searches ran this time, plus two follow-ups (eight in total). The quote was read through a page-fetch tool that would only return it in two pieces ('...will look for ways' and 'to use similar tools against us.'); the fetch tool reported the full sentence as 142 characters, which matches the joined text, but a reviewer should confirm the exact wording and final punctuation on the page. Other Latta lines in the same release: 'America's adversaries are not waiting for us to figure this out' and 'We need to make sure trusted American defenders have the coordination, access, and support required to stay ahead.' The letter PDF is at https://latta.house.gov/uploadedfiles/ai-discovered_vulnerability_coordination_letter.pdf (not opened). Sources disagree on the signer count (32, 33 colleagues, or 35 total); I used the press release title (Latta, Matsui and 33 members). Earlier AI remarks: his opening remarks as Communications and Technology Subcommittee chair at the hearing 'Leveraging AI to Enhance American Communications' (https://energycommerce.house.gov/posts/subcommittee-chair-latta-opening-remarks-on-leveraging-ai-to-enhance-american-communications) are dated 14 November 2023, outside the window, and would be D. A search result described a Republican Energy and Commerce release quoting him on emergency communications where AI is mentioned for cybersecurity and transcription; I did not open it. 119th Congress hearing transcripts on govinfo (CHRG-119hhrg60631, CHRG-119hhrg61734) were not opened and may contain more D-level remarks. No source shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (H.R. 10538); reported cosponsors are Democrats. A previous run also checked latta.house.gov press release listing pages 1 and 2 (4 June to 9 November 2026) and found no AI-related releases; the 9 October 2026 autonomous vehicle release does not mention AI. No search mentioned superintelligence, extinction, a pause or a China AI agreement in connection with Latta."
+}

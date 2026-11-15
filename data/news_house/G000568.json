@@ -1,0 +1,44 @@
+{
+ "bioguide": "G000568",
+ "member": "H. Morgan Griffith",
+ "searches": [
+  "Griffith artificial intelligence (restricted to morgangriffith.house.gov)",
+  "Morgan Griffith superintelligence",
+  "Morgan Griffith AI extinction existential risk",
+  "Morgan Griffith AI pause slowdown moratorium",
+  "Morgan Griffith China AI agreement treaty",
+  "\"Morgan Griffith\" \"AI safety\""
+ ],
+ "statements": [
+  {"date": "2026-07-26",
+   "venue": "Op-ed in the Washington Times, republished as a press release",
+   "quote": "A blanketed embrace of AI technologies without appropriate guardrails would be irresponsible policy and grounded in fantasy.",
+   "context": "Griffith, chair of the Energy and Commerce health subcommittee, argues AI can improve health care but needs human supervision, such as doctors reviewing AI mental health chatbot conversations.",
+   "source_label": "Chairman Griffith Op-Ed: Smart use of AI can improve American healthcare (press release, 27 July 2026)",
+   "url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405775",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Calls for guardrails and human oversight of AI in health care, but names no catastrophic risk."},
+  {"date": "2026-11-12",
+   "venue": "Weekly column in e-newsletter",
+   "quote": "And it authorizes the use of artificial intelligence in lieu of testing on animals.",
+   "context": "Griffith describes the Faster Clinical Trials Act, which he co-introduced with Rep. Jake Auchincloss, including its updates to cancer drug development.",
+   "source_label": "Congressman Griffith's Weekly E-Newsletter 11.12.26",
+   "url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405872",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Mentions AI as a tool in drug testing without acknowledging any catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 remarks on AI (a July op-ed and weekly columns) treat AI as a health care tool that needs human oversight and guardrails, with no acknowledgment of catastrophic risk.",
+ "notes": "All six required web searches ran this time (an earlier attempt had all searches refused). The searches on superintelligence, extinction, pause or moratorium, China agreement and AI safety returned nothing mentioning Griffith. The official-site search found AI material only about health care: the July 2026 op-ed (opened; other sentences include 'AI is not perfect.' and 'We need responsible administration and active oversight of AI tools, while also placing an emphasis on safety.', also D), a 3 Sept 2025 health subcommittee hearing release on AI in health care (opened; only promotional AI remarks), and grant announcements. A news search snippet quoted him saying data centers should pay their own electric upgrade costs; not opened and out of scope (D). From the earlier attempt: press releases 22 Oct to 12 Nov 2026 had no AI mentions; 9.18.26 newsletter (https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405827) mentions AI and telehealth, and 10.2.26 newsletter (https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=405846) mentions AI helping track unusual activity; left out because only fragments were read, all D at most. Ban Artificial Superintelligence Act: the Congress.gov cosponsor page (H.R. 10538, number taken from another project file, not verified) returned 403 again, so cosponsorship could not be checked directly; no source seen shows Griffith as sponsor or cosponsor. No House letter about AI risk led or signed by him was found outside the centrally handled letters. Hearing remarks as health subcommittee chair beyond the 2025 hearing release were not checked."
+}

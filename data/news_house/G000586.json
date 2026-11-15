@@ -1,0 +1,26 @@
+{
+  "bioguide": "G000586",
+  "member": "Jesús G. \"Chuy\" García",
+  "searches": [
+    "García artificial intelligence site:chuygarcia.house.gov (refused)",
+    "\"Chuy\" García superintelligence (refused)",
+    "Chuy García AI extinction existential risk (refused)",
+    "Chuy García AI pause slowdown moratorium (refused)",
+    "Chuy García China AI agreement treaty (refused)",
+    "\"Chuy García\" \"AI safety\" (refused)"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "yes", "note": "Original co-sponsor (not his own statement) of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, whose Section 8 puts every advanced AI system under a 'mandatory pause' until a new federal Department of Artificial Intelligence is staffed and has issued rules; a pause for safety reasons counts as yes here.", "sources": [["H.R. 10538 introduced text, GovInfo, 24 September 2026", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"], ["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "pause": {"value": "mixed", "note": "Co-sponsor of H.R. 10538; the bill's mandatory pause on advanced AI is conditional on the new department issuing safety rules, which the rubric treats as mixed. No statement of his own found.", "sources": [["H.R. 10538 introduced text, GovInfo, 24 September 2026", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"]]},
+    "intl": {"value": "none", "note": "H.R. 10538 (Section 15) directs pursuit of international agreements and allied coordination to prevent artificial superintelligence, but does not name China or talks with China on pacing; nothing else found.", "sources": [["H.R. 10538 introduced text, GovInfo, 24 September 2026", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"]]},
+    "rsi": {"value": "yes", "note": "Co-sponsor of H.R. 10538. Beyond banning superintelligence, the bill's Section 9(a) prohibits AI systems showing 'superintelligence precursor characteristics', which include 'The capacity to automate or greatly accelerate the process of artificial intelligence research and development', and its pause covers training 'including through recursive self-improvement'. This reading comes from the bill text and a reviewer should confirm it; another co-sponsor's file (Velázquez) set this to none based on news reports only.", "sources": [["H.R. 10538 introduced text, GovInfo, 24 September 2026", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"]]}
+  },
+  "record": [
+    ["Original co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (introduced by Rep. Casar), which bans artificial superintelligence and its precursor capabilities, imposes a mandatory pause on advanced AI until a new federal Department of Artificial Intelligence issues rules, and directs pursuit of international agreements to prevent superintelligence.", "Bill text listing 'Mr. Garcia of Illinois' as cosponsor, introduced 2026-09-24", "https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/html/BILLS-119hr10538ih.htm"],
+    ["Sent a letter with Rep. Grijalva to DHS and OMB on the lack of transparency in DHS use of AI in immigration decisions (before 2025; level D).", "Rep. García press release, 2024-12-19", "https://chuygarcia.house.gov/media/press-releases/reps-garcia-and-grijalva-demand-answers-from-dhs-on-use-of-ai-in-immigration-decision-making"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "No statement in his own words about AI risk, or about AI at all, was found since January 2025, so no level above D can be supported by a quote; his record does include co-sponsoring the Ban Artificial Superintelligence Act in September 2026, a strong action on catastrophic risk, so a reviewer may want to grade higher on the record. The search was incomplete because every web search was refused.",
+  "notes": "Six web searches were attempted and all six were refused (shared search budget used up), so the search is incomplete; news coverage, interviews, hearing and floor remarks were not searched. Instead I opened directly: the first four pages of press releases on chuygarcia.house.gov (6 November 2026 back to 17 June 2026; no AI items in titles or excerpts, release bodies not read), the Science and Technology issue page (only AI item is the December 2024 DHS letter), and the first page of the In the News listing (June to August 2025, no AI items). The site search page returned 403. Co-sponsorship of H.R. 10538 was confirmed in the bill text on GovInfo ('Mr. Garcia of Illinois') and on the FastDemocracy cosponsor list ('Jesús G. \"Chuy\" García'); congress.gov returned 403. No other House letter on AI risk signed or led by him was found; the many-signer August and September 2026 House letters were not searched, per instructions. Bill details come from a page-summary tool reading the GovInfo text, not a line-by-line read."
+}

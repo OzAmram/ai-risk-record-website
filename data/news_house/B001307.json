@@ -1,0 +1,75 @@
+{
+  "bioguide": "B001307",
+  "member": "James R. Baird",
+  "searches": [
+    "Jim Baird artificial intelligence site:baird.house.gov",
+    "Rep. Jim Baird superintelligence",
+    "Jim Baird Indiana AI extinction existential risk",
+    "Jim Baird AI pause slowdown moratorium",
+    "Jim Baird China AI agreement treaty",
+    "\"Jim Baird\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-01-21",
+      "venue": "Press release",
+      "quote": "The bills we passed today are critical to addressing the security challenges with AI, providing Congress with oversight over the sale of advanced AI chips to our adversaries, and supercharging American AI leadership to beat China.",
+      "context": "Baird applauded House Foreign Affairs Committee passage of bills including the AI OVERWATCH Act (H.R. 6875), which he cosponsors, on AI chip sales to adversaries.",
+      "source_label": "baird.house.gov press release",
+      "url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Names only general national security challenges and competition with China, with no catastrophic danger from AI itself (rulings 4 and 5)."
+    },
+    {
+      "date": "2026-04-14",
+      "venue": "Press release",
+      "quote": "Training in STEM is paramount in our increasingly digital security landscape, especially as our adversaries pursue advances in artificial intelligence, surveillance technology, and next-generation communications infrastructure,",
+      "context": "Baird introduced the Tech Diplomacy Training Act (H.R. 8212) requiring science and technology training for Foreign Service officers.",
+      "source_label": "baird.house.gov press release",
+      "url": "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2552",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Mentions AI only as a field of competition with adversaries such as China, which is not catastrophic risk (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI; his AI remarks frame China as a rival to beat.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Cosponsor of the AI OVERWATCH Act (H.R. 6875), on congressional oversight of advanced AI chip sales to adversaries such as China; this is export control, not catastrophic-risk policy.",
+      "baird.house.gov press release, 2026-01-21",
+      "https://baird.house.gov/news/documentsingle.aspx?DocumentID=2523"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 Baird spoke about AI only as a national security and competition-with-China issue; no statement acknowledging catastrophic risk from AI was found.",
+  "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 in total). None of the searches returned any statement by Baird on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China on AI, or AI safety. Ban Artificial Superintelligence Act (H.R. 10538, introduced September 2026 by Rep. Casar): search results list only Democratic cosponsors and Baird is not named in any of them; I did not open the Congress.gov cosponsor list, so his non-cosponsorship is not confirmed from the official page. Two House Oversight AI hearing transcripts surfaced by search (CHRG-119hhrg60818, 5 June 2025; CHRG-119hhrg61734, 17 September 2025) do not record Baird speaking (the first was read only to character 100000 of 241031). Search also surfaced a June 2019 Science Committee hearing on ethical implications of AI where Baird was Ranking Member; it is before 2025 and out of scope. Kept from the earlier attempt: the earlier run scanned baird.house.gov press release listing pages 1 to 14 (March 2023 to 10 November 2026) and read DocumentIDs 2523, 2552, 2554, 2583 and 2515 in full; no mention of superintelligence, extinction, loss of control, pause or AI safety. I re-opened DocumentIDs 2523 and 2552 this run and both quotes still appear there (the page-reading tool shows small elisions, but the earlier run copied them from raw page text)."
+}

@@ -1,0 +1,49 @@
+{
+  "bioguide": "ELECT-KY-06-DEMBO",
+  "member": "Zach Dembo",
+  "searches": [
+    "Zach Dembo Kentucky artificial intelligence",
+    "Zach Dembo \"AI safety\"",
+    "Dembo Kentucky 6th district superintelligence",
+    "Zach Dembo AI extinction existential risk",
+    "Zach Dembo AI pause moratorium data centers",
+    "Zach Dembo China AI agreement",
+    "Zach Dembo campaign issues technology AI"
+  ],
+  "statements": [
+    {
+      "date": "2026-03-16",
+      "venue": "Campaign website priorities page",
+      "quote": "I also support commonsense AI safeguards to protect children interacting with chat bots and make sure the newest models don’t pose major risks to our cybersecurity.",
+      "context": "His campaign platform on AI and data centers, which mainly covers data center siting, energy bills, child safety and AI job losses.",
+      "source_label": "Zach Dembo for Congress, 'Commonsense Regulation for AI and Data Centers'",
+      "url": "https://zachdembo.com/priority/commonsense-regulation-for-ai-and-data-centers/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The only risks from new models he names are to cybersecurity and to children, which the rubric places at D; no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-03-16",
+      "venue": "Campaign website priorities page",
+      "quote": "I believe AI has real potential to improve lives – but it also comes with real risks and shouldn’t involve giving Big Tech a blank check. AI should work for all of us, not just for the companies building it.",
+      "context": "Same campaign platform page, introducing his proposals on sharing AI profits with communities and retraining workers displaced by AI.",
+      "source_label": "Zach Dembo for Congress, 'Commonsense Regulation for AI and Data Centers'",
+      "url": "https://zachdembo.com/priority/commonsense-regulation-for-ai-and-data-centers/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "'Real risks' is unspecified and is followed by concerns about Big Tech, local communities and jobs, so it does not acknowledge serious risk from advanced AI itself."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "He says communities should not be forced to host data centers, but for local input, environmental and energy-cost reasons, not risks from AI itself.", "sources": [["Campaign website", "https://zachdembo.com/priority/commonsense-regulation-for-ai-and-data-centers/"]]},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI statements found (2026 campaign platform) cover data centers, children, cybersecurity and jobs; none acknowledges catastrophic risk from AI.",
+  "notes": "Representative-elect (Kentucky 6th), not yet in Congress, so no house.gov site, bills or House letters. Seven web searches ran, all answered; none found AI statements by him in news coverage. The quotes come from his campaign site page, read directly (text fetched in full). The page carries no visible date; the site's WordPress data gives first published 2026-03-16 and last modified 2026-09-22, so the exact date of the wording is uncertain but it is within 2026. Not found as a sponsor of the Ban Artificial Superintelligence Act (he is not a member). A GovTech article on an AI-written campaign letter concerns a primary rival (Kloiber), not Dembo."
+}

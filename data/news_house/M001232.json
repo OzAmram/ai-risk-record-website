@@ -1,0 +1,110 @@
+{
+ "bioguide": "M001232",
+ "member": "April McClain Delaney",
+ "searches": [
+  "April McClain Delaney artificial intelligence (restricted to mcclaindelaney.house.gov)",
+  "\"McClain Delaney\" \"AI safety\"",
+  "\"McClain Delaney\" superintelligence",
+  "\"McClain Delaney\" AI existential risk extinction",
+  "\"McClain Delaney\" AI pause slowdown moratorium",
+  "\"McClain Delaney\" China AI agreement treaty",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors",
+  "Rep. April McClain Delaney AI interview hearing Science Committee 2026"
+ ],
+ "statements": [
+  {
+   "date": "2026-10-09",
+   "venue": "Press release on letter she led to the FAA",
+   "quote": "I support modernizing our aviation systems, but passenger safety must come first. I’m calling on the FAA to pause this rollout, show us the safety testing, and explain who is accountable when something goes wrong.",
+   "context": "She led a letter urging the FAA to pause its AI-enabled air traffic management tool (SMART) at Washington-area airports until safety testing and oversight questions are answered.",
+   "source_label": "McClain Delaney House press release",
+   "url": "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-leads-call-ocasio-cortez-beyer-mfume-subramanyam-and-elfreth",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "About safety testing of one AI tool in air traffic control; no catastrophic risk from AI is acknowledged."
+  },
+  {
+   "date": "2026-08-05",
+   "venue": "Press release on bill introduction",
+   "quote": "While AI holds great potential, it also poses risks when its impact is not well vetted or understood. Our country owes it to our children to study how integrating AI in schools impacts them cognitively, socio-emotionally, and physically.",
+   "context": "She introduced the Understanding AI in the Classroom Act, directing the National Science Foundation to study AI's effects on students.",
+   "source_label": "McClain Delaney House press release",
+   "url": "https://mcclaindelaney.house.gov/media/press-releases/reps-mcclain-delaney-whitesides-and-salinas-introduce-bill-help-study-impact",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Risks named are to children's learning and development, which ruling 5 places at D."
+  },
+  {
+   "date": "2026-03-24",
+   "venue": "Press release on bill introduction",
+   "quote": "I’ve built my career advocating for digital protections for our most vulnerable Americans, including children and seniors, from cyber threats like fraud, data breaches, deepfakes, and more.",
+   "context": "She co-led the GUARDRAILS Act to repeal the executive order that seeks to block state AI laws.",
+   "source_label": "McClain Delaney House press release",
+   "url": "https://mcclaindelaney.house.gov/media/press-releases/rep-mcclain-delaney-joins-colleagues-introducing-legislation-repeal-white",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Concerns named are fraud, data breaches and deepfakes, and state authority over AI rules; no catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI. Her October 2026 letter asked the FAA to pause one AI air traffic tool pending safety testing, which is not a pause on building more capable frontier AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI. She is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538) on FastDemocracy's cosponsor list.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led a letter with five co-leads urging the FAA to pause its AI-enabled SMART air traffic tool at DCA, Dulles and BWI pending safety testing.",
+   "House press release, 2026-10-09",
+   "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-leads-call-ocasio-cortez-beyer-mfume-subramanyam-and-elfreth"
+  ],
+  [
+   "Introduced the Understanding AI in the Classroom Act with Reps. Whitesides and Salinas.",
+   "House press release, 2026-08-05",
+   "https://mcclaindelaney.house.gov/media/press-releases/reps-mcclain-delaney-whitesides-and-salinas-introduce-bill-help-study-impact"
+  ],
+  [
+   "Co-led the GUARDRAILS Act to repeal the executive order blocking state AI laws.",
+   "House press release, 2026-03-24",
+   "https://mcclaindelaney.house.gov/media/press-releases/rep-mcclain-delaney-joins-colleagues-introducing-legislation-repeal-white"
+  ],
+  [
+   "Co-introduced the Algorithm Accountability Act with Rep. Mike Kennedy (social media algorithms, Section 230).",
+   "House press release, 2025-11-21",
+   "https://mcclaindelaney.house.gov/media/press-releases/rep-mcclain-delaney-rep-kennedy-introduce-bipartisan-algorithm-accountability"
+  ],
+  [
+   "Co-led a 27-member letter urging the Senate to strike the state AI-law moratorium tied to broadband (BEAD) funding.",
+   "House press release, 2025-06-12",
+   "https://mcclaindelaney.house.gov/media/press-releases/mcclain-delaney-matsui-landsman-carter-urge-senate-leadership-strike-provision"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "She has spoken and legislated on AI several times in 2025 and 2026 (air traffic safety, children, state AI laws, fraud and deepfakes), but nothing found acknowledges catastrophic risk from AI.",
+ "notes": "All 8 web searches ran this time (the required six plus a cosponsor check and a search for hearing or interview remarks). None of the name searches on AI safety, superintelligence, extinction or existential risk, or a China agreement returned anything by her; the pause/moratorium search returned only her opposition to federal preemption of state AI laws (already recorded). Ban Artificial Superintelligence Act (H.R. 10538, Casar): FastDemocracy's page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), opened, lists 12 cosponsors and she is not among them; congress.gov was not checked directly, so a later cosponsorship cannot be fully ruled out. No House AI-risk letter of her own was found (the many-signer August/September 2026 letters are excluded by instruction and were not searched). An earlier attempt read all 19 pages of her official press release index (187 releases) and opened every AI-related release; none mentions superintelligence, extinction, loss of control, bioweapons or China talks. Seen only in search summaries, not opened: at a 25 June 2026 House Science Committee markup of AI bills her amendment to H.R. 9341 (AI-Ready Federal Data Guidelines Act) on data privacy passed by voice vote; her 12 December 2025 written testimony to the Energy and Commerce Member Day hearing reportedly concerns protecting children in their interactions with AI chatbots (the PDF could not be read as text). Neither concerns catastrophic risk. Left out of statements (2025, D): her 2025-06-08 statement against the AI moratorium in broadband funding, \"It is deeply irresponsible and wholly absurd to force states to choose between expanding essential broadband infrastructure and protecting their residents—especially children and small businesses—from the growing and so far largely unchecked risks of artificial intelligence.\" (risks named are to children, copyright and small businesses). The 2025-06-12 letter she co-led refers to 'the rapidly escalating risks of unregulated AI and automated decision systems' in the context of consumer protection; graded D, not included. Her name is spelled 'McClain-Delaney' in one release and in some news summaries."
+}

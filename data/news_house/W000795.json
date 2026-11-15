@@ -1,0 +1,34 @@
+{"bioguide": "W000795", "member": "Joe Wilson",
+ "searches": [
+   "site:joewilson.house.gov artificial intelligence",
+   "\"Joe Wilson\" congressman superintelligence",
+   "\"Joe Wilson\" South Carolina AI extinction OR \"existential risk\"",
+   "\"Rep. Joe Wilson\" AI pause OR slowdown OR moratorium",
+   "\"Joe Wilson\" China AI agreement OR treaty 2026",
+   "\"Joe Wilson\" \"AI safety\"",
+   "Obernolte \"Frontier Act\" cosponsors Wilson",
+   "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+   {"date": "2026-09-18",
+    "venue": "X post by @RepJoeWilson, as reproduced by a news aggregator",
+    "quote": "sensible regulation to eliminate catastrophic risk",
+    "context": "Announcing that he is co-sponsoring Rep. Jay Obernolte's Frontier Act on oversight of large frontier AI developers, which he called a smart bipartisan framework to spur continued AI innovation.",
+    "source_label": "Digg AI (aggregator, embedding his X post https://x.com/RepJoeWilson/status/2101064670295831020)",
+    "url": "https://digg.com/ai/13c9n63v",
+    "read_at_source": false,
+    "level": "C",
+    "flags": ["bill_or_action", "boundary"],
+    "reason": "He names catastrophic risk as something AI regulation should eliminate, but only in passing and without saying what the risk is or that AI itself poses it, so it sits between C and B."}
+ ],
+ "positions": {
+   "slowdown": {"value": "none", "note": "No statement found. The Frontier Act he co-sponsors, as described, sets transparency, audit and incident-reporting rules for frontier developers and he framed it as spurring continued innovation, not slowing it.", "sources": []},
+   "pause": {"value": "none", "note": "No statement found.", "sources": []},
+   "intl": {"value": "none", "note": "No statement found.", "sources": []},
+   "rsi": {"value": "none", "note": "No statement found.", "sources": []}},
+ "record": [
+   ["Said he is co-sponsoring Rep. Jay Obernolte's Frontier Act (tiered requirements for large frontier AI developers: model cards, risk-management plans, independent audits, incident reporting); not confirmed on Congress.gov", "His X post as reproduced by Digg AI, 18 September 2026", "https://digg.com/ai/13c9n63v"]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His one AI-risk statement, from September 2026, says the Frontier Act he co-sponsors is sensible regulation to eliminate catastrophic risk; it names catastrophic risk only in passing, so C with a boundary flag (a reviewer could reasonably read it as B).",
+ "notes": "All 6 required web searches ran this time, plus 2 follow-ups (8 in total); none were refused, so the earlier note about an incomplete search no longer applies. The only AI-risk statement found is from his own X post (18 September 2026), seen through the Digg AI aggregator page, not opened at X (x.com returned HTTP 402). Two separate fetches of the Digg page agreed on the phrase 'sensible regulation to eliminate catastrophic risk' and on the opening 'Grateful to cosponsor @GOPPolicy Chairman @JayObernolte's Frontier Act which is a smart bipartisan framework'; one fetch also gave the fuller 'a smart bipartisan framework to spur continued AI innovation with sensible regulation to eliminate catastrophic risk', but I could not confirm that this is one continuous passage, so only the short phrase is quoted. Because the source is an X post, the separate X collection may already have it; the reviewer should check the post text there and avoid counting it twice. Frontier Act co-sponsorship: the Obernolte/Trahan release (23 July 2026, via Quiver Quantitative) names only the original sponsors and not Wilson; Congress.gov returned HTTP 403, so his co-sponsorship rests only on his own post. Ban Artificial Superintelligence Act (H.R. 10538, Casar, September 2026): search results describe its House co-sponsors as Democrats and none mention Wilson, but no full co-sponsor list could be opened (Congress.gov and GovTrack returned 403), so this is not confirmed either way. No House letter on AI risk led by him was found. Search results naming Alan Wilson (South Carolina attorney general) on the 2025 state AI law moratorium concern a different person and were left out. Kept from the earlier attempt: his press-release pages 1 to 4 (about 40 releases, 8 January 2025 to 26 October 2026) contained nothing about AI, and the 5 June 2026 FY27 NDAA release does not mention AI; page 1 was rechecked this time with the same result. His floor speeches, hearing remarks (Foreign Affairs and Armed Services) and interviews were not checked individually."}

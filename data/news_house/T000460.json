@@ -1,0 +1,40 @@
+{
+  "bioguide": "T000460",
+  "member": "Mike Thompson",
+  "searches": [
+    "site:mikethompson.house.gov artificial intelligence",
+    "\"Mike Thompson\" congressman superintelligence",
+    "\"Mike Thompson\" representative AI extinction OR \"existential risk\"",
+    "\"Mike Thompson\" AI pause OR slowdown OR moratorium Congress",
+    "\"Mike Thompson\" China AI agreement OR treaty",
+    "\"Mike Thompson\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Letter to Speaker Mike Johnson signed with 106 other members, published in a press release",
+      "quote": "to address catastrophic risk posed by advanced artificial intelligence. Those risks take any of several forms, separately and in combination—of agentic misalignment, mass cybersecurity breaches, and development of biological or chemical weapons.",
+      "context": "The letter urges the Speaker to reconvene the House before the election recess to pass AI safeguards, citing recent disclosures from AI companies about rogue agents and biological misuse.",
+      "source_label": "Rep. Mike Thompson press release",
+      "url": "https://mikethompson.house.gov/newsroom/press-releases/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial",
+      "read_at_source": true,
+      "level": "B",
+      "flags": ["cosigned_letter", "bill_or_action"],
+      "reason": "The signed letter states that advanced AI poses catastrophic risk and names agentic misalignment (a danger from the AI systems themselves) alongside misuse, without extinction framing."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "The 16 September 2026 letter cites AI employees calling for tools to \"deliberately pace the frontier\", but as evidence of urgency, not as a call by the signers for a slowdown.", "sources": [["Rep. Mike Thompson press release, 16 Sep 2026", "https://mikethompson.house.gov/newsroom/press-releases/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial"]]},
+    "pause": {"value": "none", "note": "No statement found on a pause; he is not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": []},
+    "intl": {"value": "none", "note": "His issue page says world leaders should work collectively on AI safety, but nothing about coordinating with China on pacing or pausing.", "sources": [["Rep. Mike Thompson AI & Technology issue page (undated)", "https://mikethompson.house.gov/issues/ai-technology"]]},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [
+    ["Signed, with 106 other members, a letter urging Speaker Johnson to reconvene the House to act on catastrophic risk from advanced AI.", "Rep. Mike Thompson press release, 16 September 2026", "https://mikethompson.house.gov/newsroom/press-releases/thompson-joins-106-lawmakers-calling-speaker-johnson-pass-artificial"],
+    ["Joined members of the House Gun Violence Prevention Task Force (which he chairs) in a letter to OpenAI and Google DeepMind about chatbots aiding shooters and suicide; this is about harm to users, not catastrophic risk.", "Rep. Valerie Foushee press release, 4 June 2026", "https://foushee.house.gov/media/press-releases/reps-valerie-foushee-mike-thompson-gun-violence-prevention-task-force-press-ai-executives-on-chatbot-safety"]
+  ],
+  "suggested_grade": "B",
+  "grade_reason": "His only catastrophic-risk evidence is a 2026 letter he co-signed that names catastrophic risk from advanced AI, including agentic misalignment, so it is not misuse-only. It is a co-signed letter, not his own words, and nothing reaches the extinction framing needed for A.",
+  "notes": "Seven web searches ran (six required plus one for Ban Artificial Superintelligence Act co-sponsors); none was refused. Pages opened: his press release (read in full from the raw page), his AI & Technology issue page, the Foushee chatbot letter release, a Quiver Quant summary, and a FastDemocracy page for H.R. 10538 listing 12 co-sponsors, none of them Thompson (not checked against congress.gov). His undated issue page says in his office's own voice: \"Artificial Intelligence is advancing at an uncontrolled pace. Without proper guardrails, AI poses a risk to our society.\" It also calls for safety audits of frontier models and for rallying world leaders. Because it has no date, I left it out of statements; it would be C at most. The press release's own text (not the letter) relays that \"Some experts have even warned that superintelligent AI could defy human instructions\" without endorsing it. The letter also closes with a line about a \"post-apocalyptic history\" likely written by agentic AI. No personal statement or interview by Thompson on AI risk was found. Most search hits for \"Mike Thompson\" were about Speaker Mike Johnson or Rep. Bennie Thompson, which are different people."
+}

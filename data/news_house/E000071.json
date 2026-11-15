@@ -1,0 +1,22 @@
+{"bioguide": "E000071", "member": "Jake Ellzey",
+ "searches": [
+  "site:ellzey.house.gov artificial intelligence",
+  "Jake Ellzey superintelligence",
+  "Jake Ellzey AI extinction OR \"existential risk\"",
+  "Jake Ellzey AI pause OR slowdown OR moratorium",
+  "Jake Ellzey China AI agreement OR treaty",
+  "\"Ellzey\" \"AI safety\"",
+  "Rep. Ellzey artificial intelligence \"Ban Artificial Superintelligence Act\" OR AI bill cosponsor"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "None of the seven web searches, and none of the official-site pages checked in the earlier attempt, turned up any statement by Ellzey about AI risk. The only AI mention found is a passing item in a 2025 defense bill summary, which is not a statement about AI.",
+ "notes": "All six required web searches ran in this attempt, plus one extra search on the Ban Artificial Superintelligence Act and AI co-sponsorships (7 in total). None returned any page with an Ellzey statement on AI; the site-restricted search returned no ellzey.house.gov pages at all. Kept from the earlier attempt, which opened ellzey.house.gov directly: the home page, the National Security issue page (no AI mention), press release pages 1 and 2 of 10 (January 2025 to June 2026, none about AI), the 26 June 2026 appropriations release (no AI mention) and the 15 September 2025 NDAA statement (https://ellzey.house.gov/2025/9/congressman-ellzey-s-statement-on-the-fy26-national-defense-authorization-act), which mentions AI only in a funding bullet (\"Technology: $142 billion for hypersonics, AI, drones, quantum computing, and space systems.\"). That is a passing mention of military funding, so it was left out of statements; if a reviewer counts it as speaking about AI, the grade would be D. Press release pages 3 to 10 were not checked. No source showed that he sponsored or co-sponsored the Ban Artificial Superintelligence Act or signed a House AI-risk letter (outside the centrally handled multi-signer letters), but congress.gov returned 403 in the earlier attempt and was not rechecked, so co-sponsorship cannot be fully ruled out. The Ripon Advance article on the Obernolte-Franklin FRONTIER Act says it has five original cosponsors but names only Franklin and Trahan; Ellzey is not mentioned there, and the full cosponsor list was not seen."
+}

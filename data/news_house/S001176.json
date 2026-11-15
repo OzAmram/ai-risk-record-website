@@ -1,0 +1,61 @@
+{
+  "bioguide": "S001176",
+  "member": "Steve Scalise",
+  "searches": [
+    "Scalise artificial intelligence (restricted to scalise.house.gov)",
+    "Steve Scalise superintelligence",
+    "Scalise AI extinction existential risk",
+    "Scalise AI pause slowdown moratorium",
+    "Scalise China AI agreement treaty",
+    "\"Scalise\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-15",
+      "venue": "Interview with the Daily Caller News Foundation",
+      "quote": "Well, the president is correct in saying that this is a race between the United States and China, and America has got to win.",
+      "context": "Asked about President Trump's post opposing AI guardrails (in which Trump called warnings about slowing AI a conspiracy), he backed the race-with-China framing, said Anthropic wanted heavy regulation to crush competitors, and said existing laws already make companies responsible: \"You can't create a product that's going to kill people\".",
+      "source_label": "Daily Caller, 15 September 2026",
+      "url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Frames AI as a race with China and opposes heavy regulation, which ruling 6 makes D; he does not acknowledge catastrophic risk, but also does not himself dismiss it, so it is not F."
+    },
+    {
+      "date": "2026-09-15",
+      "venue": "House floor remarks (published as a press release on 16 September 2026)",
+      "quote": "Let locals make the choice and let consumers reap the benefits.",
+      "context": "Speaking on the Ratepayer Protection Act, he argued local communities, not the federal government, should decide whether to host data centers, which the press office describes as AI infrastructure, and framed it as competition with China.",
+      "source_label": "Scalise press release, 16 September 2026",
+      "url": "https://scalise.house.gov/press-releases/scalise-america-can-embrace-new-technology-the-right-way",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "About data centers and competing with China, with no acknowledgment of catastrophic risk from AI; flagged boundary because his quoted words do not themselves say AI, only the press office summary does."
+    },
+    {
+      "date": "2026-03-20",
+      "venue": "Joint statement by Speaker Johnson, Majority Leader Scalise and committee chairs Guthrie, Jordan and Babin",
+      "quote": "To ensure we continue to harness its potential and beat China in the global AI race, Congress must take action.",
+      "context": "House Republican leaders committed to legislating a national AI framework following the Trump Administration's framework, citing innovator certainty, consumer protection and kids' online safety.",
+      "source_label": "Scalise press release, 20 March 2026",
+      "url": "https://scalise.house.gov/press-releases/Scalise-Johnson-Guthrie-Jordan-Babin-House-Will-Work-to-Implement-National-AI-Framework",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI and a national framework to beat China, with no mention of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No explicit statement on slowing frontier AI. On 15 September 2026 he agreed with Trump that AI is a race China must not win and opposed heavy regulation, in the context of Trump rejecting slowdown calls, but he did not himself speak against a slowdown; a reviewer may judge this closer to 'no'. His late-2025 push for a moratorium on state AI laws is federal preemption, not an AI slowdown.", "sources": [["Daily Caller, 15 September 2026", "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; he speaks of winning a race with China, which is competition, not coordination.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 remarks on AI (national AI framework in March, data centers and the Daily Caller interview in September) treat AI as a race with China and oppose heavy regulation, without acknowledging catastrophic risk. Nothing found reaches A, B, C or F.",
+  "notes": "All seven web searches ran this time (six required plus one on Ban Artificial Superintelligence Act cosponsors); none were refused. The Daily Caller and press release pages were opened through a page-fetch tool that summarizes and splits long quotes into fragments, so the reviewer should confirm exact wording and punctuation of each quote on the page. The Daily Caller quote is shown as one continuous quoted sentence; his other quoted fragments there ('It's not surprising that Anthropic of all people is calling for a heavy regulatory structure', 'because they want to crush their competitors', 'You can't create a product that's going to kill people') are separated by attribution in the article and so were not joined. The March 2026 statement is a joint statement of five leaders; no words are attributed to Scalise alone. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): reports describe its cosponsors as Democrats (about 9); no source shows Scalise as a cosponsor, but the Congress.gov cosponsor page returned 403 and could not be checked directly. No House letter on AI risk led or signed by Scalise was found (the centrally checked multi-signer letters were not searched, as instructed). Left out as paraphrase or out of window: December 2025 reports (Broadband Breakfast, babl.ai) that he dropped a moratorium on state AI laws from the defense bill and said the GOP was seeking another vehicle; a June 2024 Fox News interview opposing new AI regulation (before 2025). He is the only Scalise in Congress, so no name confusion. Earlier attempt's direct reading of scalise.house.gov press releases (pages 1-3, 5 May to 8 October 2026) found only the 16 September 2026 data center release touching AI."
+}

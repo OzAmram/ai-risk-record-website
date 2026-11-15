@@ -1,0 +1,26 @@
+{
+  "bioguide": "K000400",
+  "member": "Sydney Kamlager-Dove",
+  "searches": [
+    "Kamlager-Dove artificial intelligence (restricted to kamlager-dove.house.gov)",
+    "Sydney Kamlager-Dove superintelligence",
+    "Kamlager-Dove AI extinction existential risk",
+    "Kamlager-Dove AI pause slowdown moratorium",
+    "Kamlager-Dove China AI agreement treaty",
+    "\"Kamlager-Dove\" \"AI safety\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Led a letter with 14 other House members asking the Commerce Department's Acting Inspector General to investigate possible conflicts of interest in the May 2025 approval of AI chip exports to the UAE (export controls and corruption, not catastrophic AI risk).", "Kamlager-Dove press release, 2026-02-12 (letter dated 2026-02-11)", "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-pursues-investigation-corrupt-trump-uae-ai-chip-deal"],
+    ["With Rep. Meeks, wrote to Commerce Secretary Lutnick questioning the upgrade of the UAE's export-control status and safeguards against AI chip diversion to China (export controls, not catastrophic AI risk).", "Kamlager-Dove press release, 2026-08-19", "https://kamlager-dove.house.gov/media/press-releases/kamlager-dove-meeks-demand-answers-lutnick-trumps-financial-interests"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her AI-related activity in 2026 is letters on AI chip exports to the UAE, about export controls and conflicts of interest, which is level D. No statement acknowledging catastrophic risk from AI was found.",
+  "notes": "Six web searches ran; none was refused. Searches beyond her official site returned nothing about her and AI risk, so coverage of interviews and hearings may be incomplete. Both UAE chip press releases were opened: their quoted passages are attributed jointly to 'the lawmakers' (co-signers), not to her alone, so no statement was recorded; they would be level D. Her site also lists an Export Controls Enforcement Act with Reps. Huizenga, Meeks and Shreve and hearing remarks on export control enforcement (not opened; export controls, level D at most), a $1 million grant for a SoLa Impact center that trains young people in AI (not opened), and her seat on the Judiciary subcommittee covering Artificial Intelligence. Ban Artificial Superintelligence Act: the Congress.gov cosponsor page could not be opened (HTTP 403) and no search result showed her as a sponsor or cosponsor. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions). The first page of her press releases (10 releases, July to October 2026) was checked directly; none mentions AI in title or excerpt."
+}

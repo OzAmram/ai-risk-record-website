@@ -1,0 +1,22 @@
+{"bioguide": "ELECT-NC-06-JEFFERSON", "member": "Cyril Jefferson",
+ "searches": [
+  "Cyril Jefferson High Point mayor artificial intelligence",
+  "Cyril Jefferson congress \"AI safety\"",
+  "Cyril Jefferson superintelligence",
+  "Cyril Jefferson AI extinction OR \"existential risk\"",
+  "Cyril Jefferson AI pause OR slowdown OR moratorium data centers",
+  "Cyril Jefferson China AI agreement OR treaty",
+  "artificial intelligence site:cyrilforcongress.com"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "The only AI remark found is a news paraphrase (Business North Carolina, around January 2026) of Jefferson saying AI advances will eliminate jobs, which is outside the project's scope; nothing about catastrophic risk was found. Grade D rests on that paraphrase, not on a verified quote; 'none' would also be defensible.",
+ "notes": "Seven web searches ran; none refused. Paraphrase left out of statements: a search summary of a Business North Carolina article (https://businessnc.com/mayors-discuss-triad-envy-and-jetzero-challenges/, apparently January 2026) says Jefferson said that as the region adds jobs, the advance of artificial intelligence is going to eliminate others; the page returned HTTP 403 so the wording could not be checked. A campaign release of 19 November 2025 (https://www.cyrilforcongress.com/news/jefferson-represents-high-point-at-us-global-leadership-coalitions-mayors-foreign-policy-summit) mentions 'the role of Artificial Intelligence in national security' and 'harnessing cutting-edge Artificial Intelligence for public safety' only in release narrative, not in his own quotes. The campaign issues page (https://www.cyrilforcongress.com/issues) does not mention AI. The site-restricted search returned no pages from cyrilforcongress.com. As a representative-elect he could not have co-sponsored the Ban Artificial Superintelligence Act, and no House letter by him was found. Several searches returned results about Hakeem Jeffries instead; those were ignored."
+}

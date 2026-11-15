@@ -1,0 +1,24 @@
+{
+  "bioguide": "C001116",
+  "member": "Andrew S. Clyde",
+  "searches": [
+    "site:clyde.house.gov artificial intelligence",
+    "Andrew Clyde superintelligence",
+    "Rep. Andrew Clyde AI extinction existential risk",
+    "Andrew Clyde AI moratorium pause slowdown",
+    "Andrew Clyde China AI agreement treaty",
+    "\"Andrew Clyde\" \"AI safety\"",
+    "Rep. Andrew Clyde artificial intelligence"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on AI coordination with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "All required web searches ran and found no statement by Rep. Clyde about AI since 1 January 2025, and nothing about catastrophic risk from AI.",
+  "notes": "All 7 web searches ran this time (the 6 required plus one general search on his name and artificial intelligence). None returned a statement by Clyde about superintelligence, extinction, a pause or slowdown, China AI talks or AI safety; the site:clyde.house.gov search returned no pages from his site. Kept from the earlier attempt (not repeated now): the official press release list (https://clyde.house.gov/news/documentquery.aspx?DocumentTypeID=27, pages 1 to 5, 50 releases from 29 August 2025 to 16 September 2026) had no title or visible excerpt about AI; only excerpts were read, and the Congressional App Challenge releases were not opened. The general search found a Just the News interview (https://justthenews.com/nation/technology/georgia-rep-says-its-nefarious-way-ai-may-be-used-gov-future-conduct-censorship) where he called government use of AI to censor Americans 'nefarious'; the search summary dates it to 2023, which is before the 2025 window, and I did not open it, so it is left out. An AFL-CIO scorecard (https://aflcio.org/scorecard/votes/2025/house/hr-1-one-big-beautiful-bill-act-cruz-amendment?page=3) lists a Clyde vote on the 2025 reconciliation bill item about state AI law preemption; that is a vote, not a statement on catastrophic risk, and was not opened, so it is not recorded. The AP article on the April 2026 House AI roundtable (opened via min.house.gov) does not mention him. I could not confirm whether he co-sponsored the Ban Artificial Superintelligence Act (September 2026): congress.gov returned HTTP 403 and no search result showed it. The House multi-signer AI letters were not searched, per instructions."
+}

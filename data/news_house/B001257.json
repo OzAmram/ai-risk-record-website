@@ -1,0 +1,51 @@
+{
+  "bioguide": "B001257",
+  "member": "Gus M. Bilirakis",
+  "searches": [
+    "site:bilirakis.house.gov artificial intelligence",
+    "Bilirakis superintelligence",
+    "Gus Bilirakis AI extinction existential risk",
+    "Gus Bilirakis AI pause moratorium preemption 2026",
+    "Gus Bilirakis China AI agreement talks",
+    "\"Bilirakis\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-07-23",
+      "venue": "Press release on the Stealth Bot Prohibition Act",
+      "quote": "It is simply wrong for AI bots to scrape that content, repurpose it, and profit from it without permission or compensation",
+      "context": "Introducing a bipartisan bill with Reps. Lee and Foushee to require transparency from AI web crawlers that scrape news content.",
+      "source_label": "Bilirakis House press release",
+      "url": "https://bilirakis.house.gov/media/press-releases/bilirakis-lee-and-foushee-introduce-bipartisan-stealth-bot-prohibition-act",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About AI scraping of journalism and intellectual property, with no acknowledgment of catastrophic risk."
+    },
+    {
+      "date": "2025-05-21",
+      "venue": "Opening statement as chair, House Energy and Commerce Subcommittee on Commerce, Manufacturing, and Trade hearing \"AI Regulation and the Future of U.S. Leadership\"",
+      "quote": "Congress must be careful when we impose additional obligations on AI developers and deployers.",
+      "context": "Chairing a hearing on federal AI regulation, he argued AI is already covered by existing consumer protection laws and warned against heavy-handed rules and the European approach.",
+      "source_label": "House Energy and Commerce Committee",
+      "url": "https://energycommerce.house.gov/posts/chairman-bilirakis-delivers-opening-statement-at-subcommittee-on-commerce-manufacturing-and-trade-hearing-on-seizing-america-s-ai-opportunity",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI regulation and competition with China and Europe; the only risk mentioned is that AI 'can be weaponized when it is in the wrong hands', with no catastrophic harm named."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026.", "sources": [["FastDemocracy, Ban Artificial Superintelligence Act cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development; his China remarks are about not ceding AI leadership to China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Introduced the bipartisan Stealth Bot Prohibition Act with Reps. Lee and Foushee, on transparency for AI web crawlers that scrape content.", "Bilirakis press release, 23 July 2026", "https://bilirakis.house.gov/media/press-releases/bilirakis-lee-and-foushee-introduce-bipartisan-stealth-bot-prohibition-act"],
+    ["Chaired the 21 May 2025 Commerce, Manufacturing, and Trade subcommittee hearing \"AI Regulation and the Future of U.S. Leadership\".", "House Energy and Commerce Committee, 21 May 2025", "https://energycommerce.house.gov/posts/chairman-bilirakis-delivers-opening-statement-at-subcommittee-on-commerce-manufacturing-and-trade-hearing-on-seizing-america-s-ai-opportunity"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI (a 2026 bill on AI bots scraping news content and a 2025 hearing on AI regulation), but nothing found acknowledges catastrophic risk from AI; he is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "This rerun completed all six required web searches; none found a Bilirakis statement on superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. Kept from the earlier attempt: the July 2026 Stealth Bot release and the FastDemocracy cosponsor check (12 cosponsors, all Democrats). Not re-opened this time: the FastDemocracy page and the 2026 press release (both opened in the earlier attempt). The 21 May 2025 opening statement page (its URL slug says \"seizing america's AI opportunity\" but the text names the hearing \"AI Regulation and the Future of U.S. Leadership\") was opened via a page fetch tool that limits quotes to short passages; the quote is as that tool returned it. The same statement also says \"Like every technology, however, AI can be weaponized when it is in the wrong hands\" (general misuse, no catastrophic harm named, so D). He also opened an October 2023 AI hearing series on data privacy, outside the date range. In the first attempt the official site's own search returned HTTP 403, and January to September 2025 press releases, floor speeches and interviews were not checked individually. The trailing comma inside the source's quotation marks was dropped from the 2026 quote."
+}

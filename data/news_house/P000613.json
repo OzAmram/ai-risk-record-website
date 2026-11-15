@@ -1,0 +1,86 @@
+{
+ "bioguide": "P000613",
+ "member": "Jimmy Panetta",
+ "searches": [
+  "Panetta artificial intelligence (restricted to panetta.house.gov)",
+  "Jimmy Panetta superintelligence",
+  "Jimmy Panetta AI extinction existential risk",
+  "Panetta AI pause slowdown moratorium",
+  "Jimmy Panetta China AI agreement treaty",
+  "\"Panetta\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Panetta"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-25",
+   "venue": "Letter to President Trump from the bipartisan Problem Solvers Caucus AI and Evolving Technologies Working Group, led by Panetta (press release)",
+   "quote": "the most capable models are developing capabilities that carry serious national security risks. These include enabling sophisticated cyberattacks on critical infrastructure, lowering the barriers to developing biological and chemical weapons",
+   "context": "A letter asking President Trump to prioritize international AI safety and security coordination with China, including safety testing and incident reporting, around his meeting with Xi Jinping.",
+   "source_label": "Panetta House press release, 25 September 2026",
+   "url": "https://panetta.house.gov/media/press-releases/rep-panetta-and-bipartisan-group-members-urge-administration-lead-ai-safety",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "misuse_only",
+    "relayed_warning",
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "The letter relays and treats as serious developers' warnings that frontier models lower barriers to biological and chemical weapons, which is catastrophic misuse by people only, so C under the misuse-only ruling."
+  },
+  {
+   "date": "2026-09-24",
+   "venue": "Press release on cosponsoring a federal framework for AI in education and the workforce",
+   "quote": "AI has significant potential, but we must implement standards to ensure its deployment is safe, stable, and secure.",
+   "context": "Panetta announcing he cosponsored Rep. Bonamici's legislation setting guardrails for AI in schools and workplaces.",
+   "source_label": "Panetta House press release, 24 September 2026",
+   "url": "https://panetta.house.gov/media/press-releases/rep-panetta-joins-push-human-centered-framework-provide-guardrails-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Calls for AI safety standards in education and work without acknowledging any catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "His 25 September 2026 letter asks for U.S.-China coordination on AI safety testing and incident reporting, but not on the pace of frontier AI development or a pause, so it does not meet the definition.",
+   "sources": [
+    [
+     "Panetta House press release, 25 September 2026",
+     "https://panetta.house.gov/media/press-releases/rep-panetta-and-bipartisan-group-members-urge-administration-lead-ai-safety"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led a letter from the bipartisan Problem Solvers Caucus AI and Evolving Technologies Working Group urging President Trump to pursue AI safety and security coordination with China, including testing and incident reporting.",
+   "Panetta House press release, 25 September 2026",
+   "https://panetta.house.gov/media/press-releases/rep-panetta-and-bipartisan-group-members-urge-administration-lead-ai-safety"
+  ],
+  [
+   "Cosponsored Rep. Bonamici's legislation setting a federal framework and guardrails for AI in education and the workforce.",
+   "Panetta House press release, 24 September 2026",
+   "https://panetta.house.gov/media/press-releases/rep-panetta-joins-push-human-centered-framework-provide-guardrails-ai"
+  ]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "His strongest 2026 statement is a letter he led that relays warnings that frontier AI lowers barriers to biological and chemical weapons; that names only misuse by people, so it is C rather than B. Nothing found from him on loss of control, extinction or superintelligence.",
+ "notes": "Seven web searches ran; none was refused. Both press releases were opened at source and the quotes were checked character for character against the page HTML. The 25 September 2026 letter is a Problem Solvers working group letter, not one of the many-signer August/September House letters listed for exclusion; the press release says Panetta and the working group wrote it, but the signer list in the linked PDF (https://problemsolverscaucus.house.gov/uploadedfiles/psc_ai_letter_to_president_trump.pdf) could not be read with the tools available, so other signers are unconfirmed. The letter also mentions 'increasing the risk of miscalculation in a military crisis', which is military use (D). Ban Artificial Superintelligence Act (H.R. 10538, Casar, 23 September 2026): no source found shows Panetta as a cosponsor, but the Congress.gov cosponsor list was not checked. No other House letter about AI risk signed by him was found. Other AI items on his site (BRIDGE Africa Act on tech partnerships, defense AI provisions in the NDAA, H-1B and AI leadership) are D-level topics and were not opened; dates not checked. The search was not exhaustive of his press release archive."
+}

@@ -1,0 +1,25 @@
+{
+  "bioguide": "V000129",
+  "member": "David G. Valadao",
+  "searches": [
+    "Valadao artificial intelligence site:valadao.house.gov",
+    "David Valadao superintelligence",
+    "David Valadao AI extinction existential risk",
+    "Valadao AI pause slowdown moratorium",
+    "Valadao China AI agreement treaty",
+    "\"Valadao\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Rep. David Valadao artificial intelligence statement 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Valadao about AI, catastrophic or otherwise, was found in news or official records since January 2025.",
+  "notes": "Eight web searches ran; none was refused. No result quoted or paraphrased Valadao on AI. The site-restricted search returned no valadao.house.gov pages about AI; a search snippet of valadao.house.gov/news showed releases on appropriations, DHS funding and committee assignments, none on AI. Fetching the official site's search page returned HTTP 403, so the official press releases could not be browsed directly; the check of the official site is incomplete. Ban Artificial Superintelligence Act (H.R. 10538, Casar, September 2026): sources describe its cosponsors as House Democrats (named ones include Hoyle, Lynch, Tonko, Ansari); no source shows Valadao as a cosponsor, but no complete cosponsor list was opened. No House letter on AI risk led by Valadao was found; the many-signer House letters were not searched, as instructed."
+}

@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ELECT-TX-38-BONCK",
+  "name": "Jon Bonck",
+  "accounts": [
+   {"handle": "TeamBonck", "account_type": "campaign", "evidence_url": "https://jonbonck.com", "evidence": "Jon Bonck's congressional campaign website links to twitter.com/TeamBonck in its social links, alongside instagram.com/teambonck."}
+  ],
+  "notes": "Representative-elect, so no official House account exists yet. No separate personal account was linked from the campaign site. Ballotpedia could not be loaded to cross-check."
+ },
+ {
+  "id": "ELECT-UT-01-MCADAMS",
+  "name": "Ben McAdams",
+  "accounts": [
+   {"handle": "BenMcAdams", "account_type": "personal", "evidence_url": "https://benmcadams.com", "evidence": "The page titled 'Ben McAdams for Utah | Official Campaign Website' links to x.com/BenMcAdams along with his campaign Facebook and Instagram."}
+  ],
+  "notes": "Linked from the campaign site; it is his name-based long-running account, so labeled personal (it also serves as the campaign account). He likely had an official House account from his 2019-2021 term, but I did not find a page confirming its current handle, so none is listed."
+ },
+ {
+  "id": "ELECT-VA-01-TAYLOR",
+  "name": "Shannon Taylor",
+  "accounts": [
+   {"handle": "ShannonTaylorVA", "account_type": "campaign", "evidence_url": "https://shannontaylorva.com", "evidence": "The 'Shannon Taylor for Congress' website (Virginia's First District, running against Rob Wittman) links to twitter.com/ShannonTaylorVA."}
+  ],
+  "notes": "Representative-elect, so no official House account yet. The account may also be her general personal/political account; no other handle was found."
+ },
+ {
+  "id": "ELECT-VA-02-LURIA",
+  "name": "Elaine Luria",
+  "accounts": [
+   {"handle": "ElaineLuria", "account_type": "campaign", "evidence_url": "https://elaineforcongress.com/twitter", "evidence": "The X icon on the 'Elaine Luria for Congress | Virginia's 2nd District' site points to elaineforcongress.com/twitter, which returns a 301 redirect to twitter.com/ElaineLuria."}
+  ],
+  "notes": "Handle taken from the redirect target of her campaign site's X link (elaineluria.com also redirects to elaineforcongress.com). Could be labeled personal as well. Her former official House account from 2019-2023 was not checked and is not listed."
+ },
+ {
+  "id": "ELECT-WA-04-MCKINNEY",
+  "name": "Amanda McKinney",
+  "accounts": [
+   {"handle": "_AmandaMcKinney", "account_type": "campaign", "evidence_url": "https://www.mckinneyforwashington.com", "evidence": "The 'McKinney for Washington' campaign site (Yakima County commissioner running for Congress) links to x.com/_AmandaMcKinney; iVoterGuide and BallotReady profiles for the WA-4 candidate list the same handle."}
+  ],
+  "notes": "Note the leading underscore. amandamckinney.com is an unrelated person's site. Supporting pages: https://ivoterguide.com/candidate/92907 and https://www.ballotready.org/people/amanda-mckinney-64d685c8-d8fb-40d6-811b-b0b0e6bbeb5f. No separate county-commissioner official account was found."
+ },
+ {
+  "id": "ELECT-WI-01-BERMAN",
+  "name": "Mitchell Berman",
+  "accounts": [
+   {"handle": "MBermanWI", "account_type": "campaign", "evidence_url": "https://bermanforcongress.com", "evidence": "The 'Mitchell Berman for Congress' site, which describes him as an emergency nurse serving veterans, links to x.com/MBermanWI."}
+  ],
+  "notes": "mitchellberman.com belongs to an unrelated Arizona realtor. No official House account yet."
+ }
+]

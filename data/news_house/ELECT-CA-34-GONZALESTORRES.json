@@ -1,0 +1,23 @@
+{"bioguide": "ELECT-CA-34-GONZALESTORRES", "member": "Angela Gonzales-Torres",
+ "searches": [
+  "Angela Gonzales-Torres artificial intelligence",
+  "Angela Gonzales-Torres AI safety",
+  "Angela Gonzales-Torres CA-34 campaign",
+  "Gonzales-Torres superintelligence",
+  "Gonzales-Torres AI extinction existential risk",
+  "Gonzales-Torres AI pause moratorium data centers",
+  "Gonzales-Torres China AI agreement",
+  "Gonzales-Torres Gomez \"Big AI\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "Her campaign site supports a moratorium on new data center construction, but ties it to electric bills, Big AI's political influence and protections for workers, ratepayers and communities, not to risks from AI itself, so it does not count under the rubric.", "sources": [["Campaign site, Issues page", "https://angela4congress.com/issues"]]},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "She campaigned on a 'Stand Up to Big AI' platform about electricity bills, industry influence and a data center moratorium, but nothing found acknowledges catastrophic risk from AI.",
+ "notes": "Eight web searches ran, none refused. Most searches on risk topics returned nothing about her. Her campaign site Issues page (https://angela4congress.com/issues, opened 2026-11-14) has a 'Stand Up to Big AI' section that says, word for word as returned by the page-fetch tool: \"Big AI is driving up our electric bills while buying influence in Washington.\" and that she supports a moratorium on new data center construction \"until there are real federal protections\" (for workers, ratepayers and communities, per the tool's summary; the tool would not return the full section verbatim). This is level D (electric bills, influence, data centers). It is left out of `statements` because the page is undated and I could not establish the date the statement was made. A search-result summary said the Gomez campaign accused her of only pretending to campaign against 'Big AI'; I did not open a source for that. No sign she sponsored the Ban Artificial Superintelligence Act or signed any other House AI letter (she was not a member). Fox LA results article (2026-11-04) has no AI content."
+}

@@ -1,0 +1,56 @@
+{
+ "bioguide": "H001091",
+ "member": "Ashley Hinson",
+ "searches": [
+  "site:hinson.house.gov artificial intelligence",
+  "Ashley Hinson superintelligence",
+  "Ashley Hinson AI existential risk extinction",
+  "Ashley Hinson AI pause moratorium slowdown",
+  "Ashley Hinson China AI agreement treaty",
+  "\"Ashley Hinson\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors",
+  "Hinson artificial intelligence Iowa Senate 2026 AI regulation"
+ ],
+ "statements": [
+  {
+   "date": "2026-03-20",
+   "venue": "Op-ed in the Washington Reporter (reposted by the NRSC and her campaign site)",
+   "quote": "But fear-mongering and calls for heavy-handed overregulation are a dangerously misguided approach — and that’s exactly what I’m seeing from the political Left.",
+   "context": "Op-ed arguing Congress should invest in the AI workforce and tighten export-control enforcement to beat China, while opposing what she calls Democratic overregulation; it also says lawmakers should be thoughtful in scrutinizing AI's risks.",
+   "source_label": "NRSC repost of Washington Reporter op-ed",
+   "url": "https://www.nrsc.org/?p=15349",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She opposes 'fear-mongering' and heavy regulation but does not name or dismiss catastrophic risk specifically, and the same op-ed says AI's risks deserve scrutiny, so this is D rather than F; the rest is competition with China, which is D under ruling 5."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement on this found in the searches or pages checked.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement on this found in the searches or pages checked.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement on this found in the searches or pages checked.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement on this found in the searches or pages checked.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her main 2026 remarks on AI (a March 2026 op-ed and a July 2026 campaign event on chatbots and children) are about competition with China, export controls, jobs and child safety, with no acknowledgment of catastrophic risk. Nothing reached A, B, C or F.",
+ "notes": "All 8 web searches ran this time (6 required plus one on the Ban Artificial Superintelligence Act and one general AI search); none was refused. Ban Artificial Superintelligence Act (H.R. 10538): she is not on the 12-member cosponsor list on fastdemocracy.com (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/); congress.gov returned HTTP 403, so the list was not confirmed there. No House letter on AI risk led or signed by her was found (the mass-signed August and September 2026 letters were not searched, per instructions). The op-ed 'fear-mongering' line is flagged boundary because a reviewer could read it as dismissive (F); I judged it D because it targets regulation and does not dismiss catastrophic risk itself, and the same op-ed says 'we need to be as thoughtful and thorough in our scrutiny of the risks as we are in our excitement about the benefits.' Her campaign site copy (ashleyhinson.com) blocked direct download; I read the full text on the NRSC repost, dated 20 March 2026 (the campaign-site copy may show 24 March). A search summary says that at a 25 July 2026 Ankeny event with Sen. Ted Cruz she discussed chatbot protections for minors in the House-passed Kids Internet and Digital Safety Initiative and said policy struggles to keep pace with the technology; this is a paraphrase only, the source page (newsfromthestates.com/node/419159) returned HTTP 403, so it is left out of statements (it would be D: children's safety). A February 2025 Axios item appeared in the 'AI safety' search, but its snippet refers to 'Ashley', likely an Axios reporter rather than Rep. Hinson, and the page returned 403; not used. From the earlier attempt, still valid: her hinson.house.gov press release pages (about 29 April to 22 October 2026) and National Security and Defense issue page were opened and did not mention AI. She was the 2026 Republican Senate candidate in Iowa (for Joni Ernst's seat); the election outcome was not checked."
+}

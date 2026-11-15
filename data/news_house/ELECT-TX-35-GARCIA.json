@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-TX-35-GARCIA",
+  "member": "Johnny C. Garcia",
+  "searches": [
+    "Johnny Garcia TX-35 congress artificial intelligence",
+    "\"Johnny Garcia\" Bexar County deputy congress campaign website",
+    "\"Johnny Garcia\" superintelligence OR \"existential\" OR \"extinction\" AI",
+    "\"Johnny Garcia\" AI pause OR moratorium OR \"data center\" Texas 35th",
+    "\"Johnny Garcia\" China AI agreement OR treaty",
+    "\"Johnny Garcia\" \"AI safety\"",
+    "Rep. Robert Garcia Bolduan AI threat \"actual humanity\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development. His campaign's data center plank is about water and utility costs, which the rubric does not count.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Johnny C. Garcia about AI was found from 1 January 2025 onward. His campaign issues page has a plank opposing data centers that drain water and raise utility costs, but it does not mention AI, and under the rubric data center concerns would be D at most.",
+  "notes": "Seven web searches ran; none were refused. A Grabien clip titled 'Dem Rep. Garcia: AI Is a Threat to Actual Humanity' (https://grabien.com/story?id=610120) turned up in search. It is NOT this person: it is a sitting representative interviewed by Kate Bolduan who talks about oversight committee hearings, and a search summary names him as Rep. Robert Garcia (California). Johnny Garcia was not a sitting member, so it was excluded. Do not attribute it to him. Campaign site issues page (https://www.votejohnnygarcia.com/issues, read via page fetch, undated) has the heading 'Data Centers Shouldn't Drain Our Resources' with the wording 'Massive tech companies shouldn’t be allowed to come in and build loud, sprawling data centers'; it does not mention AI, so it is left out of statements. A reviewer could treat it as D if data center opposition counts as speaking about AI. Not a sitting member, so he could not co-sponsor the Ban Artificial Superintelligence Act; no House letter found. Pages checked with no AI content: San Antonio Report profile (18 October 2026), KSAT article on the race (21 October 2026), BallotReady profile, campaign home page. The page-fetch tool returns summaries, so a quote was checked only through that tool."
+}

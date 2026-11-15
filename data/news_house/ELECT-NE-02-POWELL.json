@@ -1,0 +1,55 @@
+{
+ "bioguide": "ELECT-NE-02-POWELL",
+ "member": "Denise Powell",
+ "searches": [
+  "Denise Powell Nebraska artificial intelligence AI safety",
+  "\"Denise Powell\" superintelligence",
+  "\"Denise Powell\" Bacon district AI extinction OR existential risk",
+  "\"Denise Powell\" AI pause OR moratorium OR slowdown OR \"data center\"",
+  "\"Denise Powell\" China AI agreement OR treaty",
+  "\"Denise Powell\" congress Omaha artificial intelligence",
+  "site:deniseforcongress.org AI OR \"artificial intelligence\""
+ ],
+ "statements": [
+  {
+   "date": "2026-09-28",
+   "venue": "Katie Couric Media written interview",
+   "quote": "It's important that we continue to lead in this space, but not without taking into consideration the broader impacts on our community. That’s where guardrails come in — independent investigations, more transparency, and proposals like requiring a kill switch.",
+   "context": "Asked whether Washington needs to step in on AI and what guardrails she would support.",
+   "source_label": "Katie Couric Media",
+   "url": "https://katiecouric.com/news/politics-and-policy/denise-powell-nebraska-congress-interview/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "She supports AI guardrails including a kill switch but names no catastrophic or serious danger from AI itself; her stated concerns are community impacts and jobs."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her one substantive 2026 remark on AI backs guardrails such as a kill switch and talks about community impacts and jobs, but does not acknowledge catastrophic risk.",
+ "notes": "7 web searches ran, none refused. The site-restricted search of deniseforcongress.org returned no pages from that site, so the campaign Priorities page (https://deniseforcongress.org/priorities/, read 2026-11-14, undated) was opened directly: it says \"Push for more guardrails and regulation of artificial intelligence\" to balance investment in new technologies against protecting American jobs; undated campaign copy, left out of statements. The Couric interview is a written Q&A dated 2026-09-28; the date is the publication date, and the interview itself may have been earlier. The page's text was read in full through a direct download, because the fetch tool truncated it. The kill-switch proposal hints at a loss-of-control concern but names no consequence, so it was labelled D with boundary; a reviewer may consider C. As a non-member she could not have co-sponsored the Ban Artificial Superintelligence Act; no letter or other record found. Results about other Powells (Dina Powell, Jerome Powell) were ignored."
+}

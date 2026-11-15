@@ -1,0 +1,108 @@
+{
+  "bioguide": "O000172",
+  "member": "Alexandria Ocasio-Cortez",
+  "searches": [
+    "Ocasio-Cortez superintelligence",
+    "Ocasio-Cortez AI extinction existential risk",
+    "Ocasio-Cortez AI pause slowdown moratorium safety of humanity",
+    "Ocasio-Cortez China AI agreement treaty",
+    "\"Ocasio-Cortez\" \"AI safety\"",
+    "site:ocasio-cortez.house.gov artificial intelligence"
+  ],
+  "statements": [
+    {
+      "date": "2026-03-25",
+      "venue": "Joint press release with Sen. Bernie Sanders announcing the AI Data Center Moratorium Act (repeated in her 24 June 2026 House press release)",
+      "quote": "Congress has a moral obligation to stand with the American people and stop the expansion of these data centers until we have a framework to adequately address the existential harm AI poses to our society.",
+      "context": "Announcing a bill for a federal moratorium on new AI data centers until national AI safeguards are in place; the harms she names just before this are ICE surveillance with AI, sexual deepfakes and higher electric bills.",
+      "source_label": "Sen. Sanders press release",
+      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She calls the harm from AI 'existential' to society, a serious risk stated in general terms, but the concrete harms she names (surveillance, deepfakes, electricity bills) are not catastrophic, so it sits between C and D."
+    },
+    {
+      "date": "2025-11-18",
+      "venue": "House Energy and Commerce Oversight and Investigations Subcommittee hearing",
+      "quote": "Many of the stories that we've heard today about the deadly consequences of some of these AI chat bots are pretty extreme and horrifying.",
+      "context": "Hearing on AI chatbots, where she discussed suicide, 'AI psychosis', privacy and an AI investment bubble.",
+      "source_label": "Rep. Ocasio-Cortez press release",
+      "url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-highlights-economic-threat-ai-bubble",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About harms of chatbots to individual users and economic bubble risk, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "Co-sponsor of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, which would pause advanced AI development until a new federal regulator sets safety rules. She also leads the House AI Data Center Moratorium Act (H.R. 9442); the joint release says it would 'slow down the development of AI' and enact a pause 'to ensure the safety of humanity', but her own words tie it mainly to surveillance, deepfakes and electricity bills, so on its own it would be weaker evidence.",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ],
+        [
+          "Rep. Casar press release on the Ban Artificial Superintelligence Act, 2026-09-23",
+          "https://casar.house.gov/media/press-releases/news-casar-sanders-introduce-legislation-create-new-federal-agency-ban"
+        ],
+        [
+          "Sen. Sanders press release, 2026-03-25",
+          "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "Co-sponsor of H.R. 10538, whose pause on advanced AI development lasts until a federal AI regulator sets rules (conditional on safety rules, so mixed under the rubric). No statement of her own on a pause found.",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ],
+        [
+          "Rep. Casar press release, 2026-09-23",
+          "https://casar.house.gov/media/press-releases/news-casar-sanders-introduce-legislation-create-new-federal-agency-ban"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "H.R. 10538 sets a US policy of pursuing international agreements to prevent superintelligence anywhere, but the release does not name China or pacing talks with China; the data center bill's export ban is not coordination with China. No statement of her own found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "yes",
+      "note": "Co-sponsor of H.R. 10538; the lead sponsor's release says the bill 'would immediately halt' dangerous capabilities including 'the capacity for AI to develop new AI instead of humans'. Based on the sponsor's description, not the bill text, which was not read.",
+      "sources": [
+        [
+          "Rep. Casar press release, 2026-09-23",
+          "https://casar.house.gov/media/press-releases/news-casar-sanders-introduce-legislation-create-new-federal-agency-ban"
+        ],
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    }
+  },
+  "record": [
+    [
+      "Co-sponsored H.R. 10538, the Ban Artificial Superintelligence Act of 2026 (led by Rep. Greg Casar), which would ban artificial superintelligence and pause advanced AI development until a new federal regulator sets rules.",
+      "FastDemocracy cosponsor list; bill introduced 2026-09-24",
+      "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ],
+    [
+      "Introduced the House version (H.R. 9442) of the AI Data Center Moratorium Act with Sen. Sanders, a moratorium on new and expanded AI data centers until Congress passes legislation on the economic, environmental and safety impacts of AI.",
+      "Rep. Ocasio-Cortez press release, 2026-06-24",
+      "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "Her strongest 2026 statement calls the harm AI poses to society 'existential', a general acknowledgment of serious risk (C, borderline with D because the harms she names are surveillance, deepfakes and electricity bills). She also co-sponsored the Ban Artificial Superintelligence Act, a strong action on catastrophic risk, which a reviewer may weigh when grading on the record.",
+  "notes": "All six required web searches ran in this attempt (an earlier attempt ran only one before searches were refused). The two statements, the record and the positions were carried over from the earlier attempt after re-checking: this time I re-opened her 24 June 2026 House release and the 25 March 2026 Sanders release and confirmed the C quote's wording appears in both. The searches found no statement of her own on superintelligence, extinction, a pause of AI development, or an agreement with China; her AI remarks are about surveillance, deepfakes, electricity bills, data center pollution and an AI investment bubble. Ban Artificial Superintelligence Act co-sponsorship (H.R. 10538) rests on the FastDemocracy cosponsor page opened in the earlier attempt; search results this time (forkast.news, and a search summary) also say she co-sponsored, but Congress.gov returned 403 earlier, so the official cosponsor list and bill text were not read. Left out: the joint 25 March 2026 release's own text (from Sanders's office, not attributed to her) says the bill would 'enact a reasonable pause to the development of AI to ensure the safety of humanity'; not her words. Left out: a Winzheng article (2026-09-18, https://www.winzheng.com/en/article/leftist-split-over-ai-doom) quotes fragments of her answer to a reporter on AI safety ('two things can be true at once', AI 'can be very dangerous when pursued without any guardrails'); these are short fragments from a secondary site citing an X video clip, not verified at source, and would be D or at most borderline C anyway; a reviewer may want to check the clip. A quote about billionaires deciding 'the future of humanity' that a search summary linked to her is Sanders's, per the Sanders release. Her 21 July 2026 Energy and Commerce markup remarks on data centers (https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-if-anyone-wants-live-right-next-one-these-data-centers-here) are about pollution, water and electricity, level D. No House letter on AI risk led by her was found (many-signer letters excluded per instructions). The C statement is a borderline call; D would also be defensible."
+}

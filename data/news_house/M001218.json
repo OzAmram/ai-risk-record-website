@@ -1,0 +1,73 @@
+{
+ "bioguide": "M001218",
+ "member": "Richard McCormick",
+ "searches": [
+  "site:mccormick.house.gov artificial intelligence",
+  "\"Rich McCormick\" superintelligence",
+  "Rep. Rich McCormick AI existential risk extinction",
+  "\"Rich McCormick\" AI pause OR moratorium OR slowdown",
+  "\"Rich McCormick\" China AI agreement OR treaty",
+  "\"Rich McCormick\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2026-11-10",
+   "venue": "Op-ed in The Hill, reposted as a press release",
+   "quote": "The rise of super intelligence (formerly, “artificial intelligence”) makes this challenge even more urgent.",
+   "context": "An op-ed on cloud cybersecurity arguing that AI systems connected to many applications widen the damage of a security compromise, so their access should be limited.",
+   "source_label": "McCormick House press release",
+   "url": "https://mccormick.house.gov/media/press-releases/mccormick-protecting-americas-digital-infrastructure-starts-common-sense",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Uses the term super intelligence, but the only harm named is a wider cybersecurity breach, which is D under ruling 4; flagged boundary because of the unusual wording."
+  },
+  {
+   "date": "2026-02-24",
+   "venue": "Opening remarks, House Science Committee Investigations and Oversight Subcommittee hearing on AI data center infrastructure",
+   "quote": "Artificial intelligence requires enormous computing power, and that means enormous amounts of electricity.",
+   "context": "Hearing on power and data center infrastructure for AI and competition with China.",
+   "source_label": "McCormick House press release",
+   "url": "https://mccormick.house.gov/media/press-releases/subcommittee-chairman-mccormick-opens-hearing-ai-data-center-infrastructure",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About electricity and data centers for AI, with no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement on slowing frontier AI found. He backed the 2025 proposal for a 10-year moratorium on enforcing state AI laws, which is about preempting state regulation, not slowing AI, so it does not count.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement on this policy found in web searches or on his official site.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement on this policy found in web searches or on his official site.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement on this policy found in web searches or on his official site.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led a letter to Commerce Secretary Lutnick urging withdrawal or restructuring of the Biden administration's AI chip export rule, citing harm to US tech leadership.",
+   "McCormick press release, 2025-05-01",
+   "https://mccormick.house.gov/media/press-releases/congressman-rich-mccormick-leads-congressional-letter-revise-biden"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "He has spoken about AI in 2026 (data center power, and an op-ed using the term super intelligence), but only about electricity and cybersecurity, not catastrophic risk.",
+ "notes": "All 7 web searches ran (the 6 required plus one on Ban Artificial Superintelligence Act co-sponsors). None found a statement by Rep. Rich McCormick on superintelligence as a catastrophic risk, extinction, loss of control, a pause or slowdown, a China agreement, or AI safety. Many results were about Sen. Dave McCormick (R-PA), a different person, and were excluded. Ban Artificial Superintelligence Act (H.R. 10538, led by Rep. Casar): sources list Democratic co-sponsors (with conflicting lists); none names McCormick, but no full congress.gov co-sponsor list was checked. In 2025 (Nextgov/Route Fifty, May and July 2025) he defended the proposed 10-year moratorium on state AI laws; that is about preempting state laws (D), and no quote was taken. Re-checked this run: the 10 Nov 2026 op-ed sentence is verbatim on his press release page; it uses 'super intelligence' and 'Modern SI systems' only as a cybersecurity containment issue. The 24 Feb 2026 hearing statement was kept from the earlier attempt (read at source then, not re-opened this run). The Cato Institute fireside chat page with him on AI regulation returned 403 and could not be read. Earlier attempt also read press release pages 1 to 10 on mccormick.house.gov: the 16 Sep 2026 biotechnology hearing release mentions China prioritising AI but no AI risk; older AI items (2023 bill on China exploiting American AI; May 2025 export rule letter) are China competition and export policy (D)."
+}

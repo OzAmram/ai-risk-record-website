@@ -1,0 +1,23 @@
+{
+  "bioguide": "ELECT-OH-07-POINDEXTER",
+  "member": "Brian Poindexter",
+  "searches": [
+    "Brian Poindexter Ohio 7th district artificial intelligence",
+    "Brian Poindexter \"AI safety\"",
+    "Poindexter Max Miller data centers AI regulation ironworker",
+    "Brian Poindexter superintelligence OR \"existential risk\" OR extinction AI",
+    "Brian Poindexter AI pause OR moratorium OR China agreement",
+    "Brian Poindexter for Congress campaign site issues"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement by Poindexter on slowing frontier AI development was found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement by Poindexter on pausing frontier AI development was found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement by Poindexter on coordinating with China on AI was found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement by Poindexter on banning self-improving AI was found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in Poindexter's own words about AI was found from 2025 onward. His campaign manager described his AI views (risks to workers and children's safety, data center rules), which would be level D if a reviewer chose to count a spokesperson's statement.",
+  "notes": "Six web searches ran; none was refused. Poindexter has no prior House record or house.gov site (former Brook Park city councilman); no official campaign site turned up in the searches. The New Republic (11 September 2026, https://newrepublic.com/article/215265/ai-anthropic-money-ohio-max-miller-brian-poindexter, read at source) quotes campaign manager Thomas Dufour, not Poindexter: \"He believes that while AI has the potential to make transformational scientific breakthroughs, we need to balance that against the risks it poses—especially when it comes to workers and the safety of children,\" and on setting \"clear regulations around the construction and operation of data centers that put workers and our communities first\". Left out of statements because they are a spokesperson's words; their content is D (jobs, children, data centers). The same article paraphrases Poindexter, in a Signal interview around August 2026, as saying he did not know why an AI-linked super PAC spent on his race; Dufour said he had no contact with Anthropic or its super PACs. Jobs and Democracy PAC (described as Anthropic-backed and pro-AI-regulation) spent about $512,000 supporting him before the primary, per The New Republic and the Transformer AI Campaign Finance Tracker (https://elections.transformernews.ai/states/oh); that is campaign money, not a statement. No source shows him linked to the Ban Artificial Superintelligence Act. Cleveland 19 (28 October 2026) and Spectrum News (2 September 2026) profiles were opened and contain no AI remarks by him. Search coverage was general web search only; local debate transcripts and candidate questionnaires were not found and may hold remarks this search missed."
+}

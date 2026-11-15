@@ -1,0 +1,60 @@
+{
+  "bioguide": "C001118",
+  "member": "Ben Cline",
+  "searches": [
+    "Cline artificial intelligence (restricted to cline.house.gov)",
+    "Ben Cline superintelligence",
+    "Rep. Ben Cline AI extinction existential risk",
+    "Ben Cline AI pause slowdown moratorium",
+    "Ben Cline China AI agreement treaty",
+    "\"Ben Cline\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-18",
+      "venue": "Television interview with WSET ABC 13 (Lynchburg, Virginia)",
+      "quote": "We need to act expeditiously to put safeguards in place — a third-party observer who can monitor that kind of development,",
+      "context": "Asked what Congress will do to make sure AI is developed safely and who would be held accountable if it causes harm, in a story about new researcher warnings on the dangers of advanced AI.",
+      "source_label": "WSET ABC 13, 18 September 2026",
+      "url": "https://wset.com/news/local/congressman-ben-cline-addresses-growing-concerns-over-ai-safety-va-september-2026",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "Calls for urgent safeguards and independent monitoring of AI development but does not himself name any catastrophic or serious danger from AI; borderline with C because he answers a question framed by warnings about serious AI risks."
+    },
+    {
+      "date": "2026-09-18",
+      "venue": "Television interview with WSET ABC 13 (Lynchburg, Virginia)",
+      "quote": "Making sure the liability lies with the company who are constructing these AI technologies. They are going to have to be the ones who are accountable,",
+      "context": "Same interview, answering who should be held accountable if AI causes harm.",
+      "source_label": "WSET ABC 13, 18 September 2026",
+      "url": "https://wset.com/news/local/congressman-ben-cline-addresses-growing-concerns-over-ai-safety-va-september-2026",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About legal liability of AI companies for harm, with no catastrophic risk acknowledged."
+    },
+    {
+      "date": "2025-12-14",
+      "venue": "Weekly newsletter column (Sixth District Perspectives)",
+      "quote": "accelerating breakthroughs in artificial intelligence and cyber operations",
+      "context": "Describing what the fiscal year 2026 defense authorization bill does to stay ahead of foreign adversaries.",
+      "source_label": "cline.house.gov newsletter, 14 December 2025",
+      "url": "https://cline.house.gov/news/documentsingle.aspx?DocumentID=2641",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes faster AI progress for defense and does not acknowledge any catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development; his call for safeguards and a third-party observer is oversight, not a slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His most substantial 2026 remarks on AI (WSET interview, 18 September 2026) call for urgent safeguards, a third-party observer of AI development, and company liability, but he does not name a catastrophic or serious danger from AI himself. This is a C/D boundary case that a reviewer should look at.",
+  "notes": "All 6 required web searches ran this time; the search is complete. The WSET quotes were checked character for character against the downloaded page HTML (published 2026-09-18T19:25:35-04:00). In the same article WSET paraphrases him: 'Cline stressed the importance of putting extra guardrails in place to keep AI from becoming a national security concern.' This is a paraphrase, not a quote, so it is left out of statements; under ruling 4 a general national security mention would be D anyway. The article frames the interview with 'Researchers say rapidly advancing AI models could create serious risks if they aren't properly controlled', which is the reporter's framing, not Cline's words; this is why the first statement is flagged boundary (C if a reviewer reads his call for urgent safeguards as acknowledging those serious risks). The December 2025 newsletter quote was re-checked through a page-fetching tool that summarises pages; the same newsletter also says the bill supports 'ensuring we can power the artificial intelligence data centers of the future' (level D, not listed). From the earlier attempt: his 2026 press release list on cline.house.gov (pages 1 to 3, through 8 March 2026) showed nothing about AI; the 17 September 2026 release (DocumentID=2694) on the Ratepayer Protection Act (H.R. 9340, which he cosponsored) is about data center energy costs and does not mention AI, so it is not a slowdown position. From 2024 (outside the date range): appointed to the bipartisan House Task Force on Artificial Intelligence (cline.house.gov DocumentID=1377, 23 February 2024). Ban Artificial Superintelligence Act: no search result or source shows him as sponsor or cosponsor (the Congress.gov cosponsor page for H.R. 10538 returned an error 403 in the earlier attempt). No House letter about AI risk that he led or signed was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

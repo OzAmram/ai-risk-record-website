@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-OH-10-KNICKERBOCKER",
+  "member": "Kristina Knickerbocker",
+  "searches": [
+    "Kristina Knickerbocker Ohio 10th district AI",
+    "Kristina Knickerbocker \"AI safety\"",
+    "Knickerbocker Ohio congress candidate superintelligence",
+    "Kristina Knickerbocker artificial intelligence extinction OR existential risk",
+    "Kristina Knickerbocker AI pause OR slowdown OR moratorium OR \"data center\"",
+    "Kristina Knickerbocker China AI agreement OR treaty",
+    "Kristina Knickerbocker campaign website issues technology artificial intelligence Ballotpedia survey"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI risk, or about AI itself, was found since 1 January 2025; her only related campaign line is about who pays for data center energy infrastructure.",
+  "notes": "Seven web searches ran, none refused. She has held no elected office, so there is no official site; campaign site is https://kristinaknickerbocker.com/ (found via BallotReady). Her priorities page (https://kristinaknickerbocker.com/my-priorities, undated) says, as returned by the page-fetch tool, 'lower energy bills by making big corporations—not Ohio families—pay for data center infrastructure.' This is an energy-cost point (level D topic under ruling 5) rather than a statement about AI, so it was left out of statements; a reviewer could instead count it as a D statement about AI. Ballotpedia's search snippet says she answered its 2026 Candidate Connection survey and lists 'AI and Tech Regulation' among its topics, but the Ballotpedia page came back empty twice when fetched, so her answers were not read; a reviewer should open https://ballotpedia.org/Kristina_Knickerbocker and check that section. bluevoterguide.org returned 403. No source showed her sponsoring the Ban Artificial Superintelligence Act (she was not a member of Congress). The MeidasTouch podcast interview (happyscribe transcript) was not opened."
+}

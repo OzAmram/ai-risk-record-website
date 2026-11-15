@@ -1,0 +1,54 @@
+{
+  "bioguide": "C001066",
+  "member": "Kathy Castor",
+  "searches": [
+    "site:castor.house.gov artificial intelligence",
+    "Kathy Castor superintelligence",
+    "Kathy Castor AI extinction existential risk",
+    "Kathy Castor AI pause slowdown moratorium",
+    "Kathy Castor China AI agreement treaty",
+    "\"Kathy Castor\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Press release on House passage of the Ratepayer Protection Act",
+      "quote": "If Big Tech builds a massive AI data center, the Big Tech company—not hardworking families, farmers or small businesses",
+      "context": "Castor argued that technology companies building AI data centers, not local households and businesses, should pay for the power and grid upgrades they require.",
+      "source_label": "Castor House press release, 16 September 2026",
+      "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405289",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About electricity costs of AI data centers, which the rubric places outside catastrophic risk."
+    },
+    {
+      "date": "2025-05-21",
+      "venue": "House Energy and Commerce Subcommittee on Commerce, Manufacturing, and Trade hearing, AI Regulation and the Future of US Leadership",
+      "quote": "You've now passed out of this committee a 10-year moratorium on all AI regulation at the state level before you even have that framework.",
+      "context": "Castor objected to the Republican proposal to block state AI laws for 10 years before any federal framework existed, citing harms to children from AI chatbots.",
+      "source_label": "Tech Policy Press hearing transcript",
+      "url": "https://techpolicy.press/transcript-us-house-subcommittee-hosts-hearing-on-ai-regulation-and-the-future-of-us-leadership",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About blocking state AI regulation and child safety, not catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI for safety reasons. Her opposition to the 2025 10-year moratorium on state AI laws is about regulation, not AI development; her 10 September 2026 opposition to data centers in Hillsborough County is about water use, costs and transparency, not risk from AI itself.", "sources": [["Castor House press release, 10 September 2026", "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405285"]]},
+    "pause": {"value": "none", "note": "No statement found. She is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538) on FastDemocracy.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [
+    ["Led a letter with five other House Democrats urging Meta to halt AI companion chatbots for users under 18 over safety risks to children (child safety, level D topic).", "Castor House press release, 29 May 2025", "https://castor.house.gov/news/documentsingle.aspx?DocumentID=404939"],
+    ["Co-signed a letter led by Rep. Deborah Ross opposing a federal moratorium on state and local AI regulation in the defense bill, citing protections for women and girls.", "Ross House press release, 3 December 2025", "https://ross.house.gov/2025/12/ross-leads-letter-from-women-lawmakers-opposing-proposed-ai-moratorium-that-would-jeopardize-protections-for-women-and-girls"],
+    ["Introduced the bipartisan Ratepayer Protection Act to stop data center costs being passed to household electricity customers (AI mentioned only as an industry to support).", "Castor House press release, 19 June 2026", "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405231"],
+    ["Opposed proposed data centers in Hillsborough County over water use, costs to families and secret deals.", "Castor House press release, 10 September 2026", "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405285"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Castor has spoken about AI in 2025 and 2026 (data center costs, child safety, opposing a ban on state AI laws), but no statement about catastrophic risk from AI was found.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra search to check cosponsors of the Ban Artificial Superintelligence Act (7 in total). None of the superintelligence, extinction, pause or China searches returned anything by Castor. Ban Artificial Superintelligence Act (H.R. 10538): FastDemocracy lists 12 cosponsors and Castor is not among them; Quiver Quant gives a count of 9 and names no one; not checked on congress.gov, so a late cosponsorship cannot be fully ruled out. Kept from the earlier attempt: castor.house.gov press releases from roughly December 2025 to 9 November 2026 were opened directly (IDs 405285, 405289, 405293, 405234, 405095) and none contain her own words on AI risk. The 16 September 2026 quote is the first part of a longer sentence; the page-reading tool only returned text up to that point, and the dash between 'company' and 'not' may be a different dash character in the source. The 21 May 2025 hearing quote comes from a Tech Policy Press transcript that says it is lightly edited; the page-reading tool returned it in two adjacent pieces, which match the continuous sentence shown in the search result; check against the official hearing record before publishing. A news report quotes her calling the state AI moratorium a 'shocking surprise addition to the billionaire tax giveaway'; I did not open its source, so it is left out. The 29 May 2025 Meta letter is written in the group's voice, not Castor's alone, so it is recorded as an action rather than a statement. One search summary claimed she was connected to the Sanders and Ocasio-Cortez AI data center moratorium bill; no source showed this, so it is ignored. The 27 August 2026 Housing Price Transparency Act release (AI rent pricing, level D topic) was not opened."
+}

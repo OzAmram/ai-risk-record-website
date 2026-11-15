@@ -1,0 +1,24 @@
+{
+  "bioguide": "ELECT-CO-04-LAUBACHER",
+  "member": "Eileen Laubacher",
+  "searches": [
+    "Eileen Laubacher Colorado AI artificial intelligence",
+    "Eileen Laubacher \"AI safety\"",
+    "Laubacher congress campaign superintelligence OR \"artificial general intelligence\"",
+    "Eileen Laubacher extinction OR existential risk AI",
+    "Eileen Laubacher AI pause OR moratorium OR slowdown",
+    "Eileen Laubacher China AI agreement OR treaty",
+    "Eileen Laubacher for Congress issues technology"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on AI coordination with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Eileen Laubacher about AI was found in news, her campaign platform, her press releases or a candidate interview since 1 January 2025.",
+  "notes": "Seven web searches ran; none were refused. She has held no elected office, so there is no official site; I checked her campaign site eileenforcolorado.com directly: the platform page (https://www.eileenforcolorado.com/platform) mentions 'technology' only for first responders and says nothing about AI; the about page and press releases page (latest 14 November 2026) also have no mention of AI. The /news page returned 404 and the /media page's list of articles could not be read (truncated), so media coverage linked there was not checked. A KRDO candidate Q&A (17 June 2026, https://krdo.com/?p=1734084) does not mention AI. As a non-member she could not have co-sponsored the Ban Artificial Superintelligence Act and did not sign the House letters. Search coverage of a first-time candidate is thin; debate transcripts and candidate questionnaires (for example iVoterGuide) were not read in full."
+}

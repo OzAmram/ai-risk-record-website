@@ -1,0 +1,36 @@
+{
+  "bioguide": "H000874",
+  "member": "Steny H. Hoyer",
+  "searches": [
+    "site:hoyer.house.gov artificial intelligence",
+    "Steny Hoyer superintelligence",
+    "Steny Hoyer AI extinction existential risk",
+    "Hoyer AI pause slowdown moratorium",
+    "Hoyer China AI agreement treaty",
+    "\"Steny Hoyer\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-20",
+      "venue": "Fox News Digital video report from the Capitol",
+      "quote": "[Trump] says almost everything is a hoax that he doesn't agree with,",
+      "context": "Asked about President Trump calling warnings of AI danger a hoax; the outlet's framing ties the remark to AI risk, but the quoted words do not mention AI.",
+      "source_label": "Fox News, 20 September 2026",
+      "url": "https://www.foxnews.com/politics/watch-ai-safety-scare-sparks-cap-hill-fight-over-guardrails-chinas-going-eat-our-lunch",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["unsure"],
+      "reason": "He criticizes Trump's dismissal of AI warnings but does not himself acknowledge any catastrophic or serious risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related remark found (September 2026) criticizes Trump for calling AI warnings a hoax but does not acknowledge catastrophic risk in his own words. A reviewer could reasonably treat this as 'none', since the quoted words do not mention AI at all.",
+  "notes": "All six required web searches ran this time (listed in 'searches'); this replaces an earlier incomplete attempt in which only one search ran. The site-restricted search returned no hoyer.house.gov pages. The only Hoyer item found was the Fox News report of 20 September 2026 (by Hannah Brennan); the quote's bracketed '[Trump]' is the outlet's insertion, kept as printed. The same article is syndicated at https://www.wfmd.com/?p=82301. I opened hoyer.house.gov/media/press-releases (page 1, 14 October to 11 November 2026): no AI-related titles; the earlier attempt found none on pages 1-3 (16 September to 11 November 2026) and no AI section on his issues page. Ban Artificial Superintelligence Act: no source found showing Hoyer sponsored or co-sponsored it or any House version; the Axios article on the Sanders bill returned HTTP 403 and could not be opened. No House AI-risk letter led by Hoyer was found; multi-signer House letters were not searched per instructions. Not checked: floor speeches and older press releases before mid-September 2026."
+}

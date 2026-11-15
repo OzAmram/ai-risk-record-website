@@ -1,0 +1,118 @@
+{
+  "bioguide": "K000389",
+  "member": "Ro Khanna",
+  "searches": [
+    "Ro Khanna AI site:khanna.house.gov 2026",
+    "Ro Khanna superintelligence",
+    "Ro Khanna AI extinction existential risk",
+    "Ro Khanna AI pause slowdown moratorium",
+    "Ro Khanna China AI agreement treaty",
+    "\"Ro Khanna\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Khanna"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-29",
+      "venue": "CNBC interview",
+      "quote": "There's actually a civilizational extinction risk.",
+      "context": "Explaining why he plans to introduce a bill banning AI systems that improve themselves until federal safeguards exist.",
+      "source_label": "The Next Web (reporting CNBC interview)",
+      "url": "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [],
+      "reason": "He states in his own words that AI poses an extinction risk to civilization."
+    },
+    {
+      "date": "2026-10-02",
+      "venue": "Fox News op-ed by Ro Khanna",
+      "quote": "the most likely path to humanity losing control of this technology entirely",
+      "context": "Arguing for a worldwide pause on recursive self-improvement, where AI develops AI without human intervention, as the first pillar of a U.S.-China AI treaty.",
+      "source_label": "Fox News opinion",
+      "url": "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [],
+      "reason": "He says self-improving AI could lead to humanity permanently losing control of the technology."
+    },
+    {
+      "date": "2026-10-02",
+      "venue": "Fox News op-ed by Ro Khanna",
+      "quote": "we need to begin envisioning what an actual treaty to save humanity from unchecked AI would look like.",
+      "context": "Calling on the U.S. and China to work out a binding AI treaty.",
+      "source_label": "Fox News opinion",
+      "url": "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake",
+      "read_at_source": true,
+      "level": "A",
+      "flags": [],
+      "reason": "Framing unchecked AI as something humanity must be saved from is a threat to humanity (ruling 1)."
+    },
+    {
+      "date": "2026-10-02",
+      "venue": "Fox News op-ed by Ro Khanna",
+      "quote": "A global pandemic unleashed by rogue AI wouldn't distinguish between American and Chinese citizens",
+      "context": "Arguing that the U.S. and China share an interest in keeping humans in control of AI.",
+      "source_label": "Fox News opinion",
+      "url": "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake",
+      "read_at_source": true,
+      "level": "B",
+      "flags": [],
+      "reason": "Names a mass-casualty catastrophe caused by AI itself acting out of control, not by human misuse."
+    },
+    {
+      "date": "2026-09-29",
+      "venue": "CNBC interview",
+      "quote": "There's a safety risk of loss of control, and then there's a misuse risk, and we need to take both seriously.",
+      "context": "Discussing the dangers of recursively self-improving AI.",
+      "source_label": "Common Dreams (reporting CNBC interview)",
+      "url": "https://www.commondreams.org/news/ro-khanna-recursive-ai",
+      "read_at_source": true,
+      "level": "B",
+      "flags": [],
+      "reason": "Names loss of control of AI as a serious risk alongside misuse, without the extinction framing."
+    },
+    {
+      "date": "2026-09-20",
+      "venue": "CBS Face the Nation interview",
+      "quote": "winning an AI war is like winning a nuclear war",
+      "context": "Warning against a U.S.-China AI arms race and calling for a verifiable agreement.",
+      "source_label": "Political.org (reporting Face the Nation)",
+      "url": "https://political.org/2026/09/20/rep-ro-khanna-calls-for-fda-style-federal-agency-to-regulate-ai-warns-of-civilizational-risks/",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["boundary"],
+      "reason": "Compares an AI arms race to nuclear war, signalling serious risk in general terms without naming a specific catastrophe from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "yes",
+      "note": "In his 2 October 2026 Fox News op-ed he calls for a worldwide pause on recursive self-improvement and a global pause on superintelligence, for safety reasons; a call to pause for safety counts as yes here.",
+      "sources": [["Fox News op-ed, 2026-10-02", "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake"]]
+    },
+    "pause": {
+      "value": "mixed",
+      "note": "He calls for a 'global pause on superintelligence' and a worldwide pause on recursive self-improvement, framed as pillars of a U.S.-China treaty, so the pause is conditional on international agreement.",
+      "sources": [["Fox News op-ed, 2026-10-02", "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake"]]
+    },
+    "intl": {
+      "value": "yes",
+      "note": "He calls for a binding U.S.-China AI treaty whose first pillar is a worldwide pause on recursive self-improvement, and (per Axios, not opened) set out five provisions for such an agreement in a letter to Secretary of State Rubio.",
+      "sources": [["Fox News op-ed, 2026-10-02", "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake"], ["Axios, 2026-09-25 (not opened, 403)", "https://axios.com/2026/09/25/ro-khanna-alternative-us-china-ai-playbook"]]
+    },
+    "rsi": {
+      "value": "yes",
+      "note": "He announced a planned Human Control Over AI Act that would bar AI systems that recursively self-improve until a federal agency and safeguards exist, and called for a worldwide pause on recursive self-improvement. Whether the bill has been formally introduced was not confirmed.",
+      "sources": [["The Next Web, 2026-09-29", "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai"], ["Fox News op-ed, 2026-10-02", "https://www.foxnews.com/opinion/rep-ro-khanna-us-china-cant-afford-ai-arms-race-humanity-stake"]]
+    }
+  },
+  "record": [
+    ["Announced a planned Human Control Over AI Act banning recursively self-improving AI until federal safeguards exist and creating a federal agency to license frontier models (formal introduction not confirmed).", "The Next Web / Common Dreams, 2026-09-29", "https://thenextweb.com/news/human-control-over-ai-act-khanna-self-improving-ai"],
+    ["Letter to Secretary of State Rubio proposing a U.S.-China AI agreement including pauses on recursive self-improvement and superintelligence, pre-release audits, kill-switch protocols and inspection regimes (reported; page not opened).", "Axios, 2026-09-25", "https://axios.com/2026/09/25/ro-khanna-alternative-us-china-ai-playbook"],
+    ["Letters to Chinese AI companies (DeepSeek, Alibaba, Moonshot AI) asking for documents on their work toward superintelligence and recursive self-improvement (reported in search results only; not opened).", "News reports, late September 2026", "https://aichief.com/news/will-chinese-ai-companies-slow-down-a-top-house-democrat-wants-answers/"],
+    ["Letter to Commerce Secretary Lutnick on the lack of permanent leadership at the Center for AI Standards and Innovation (not opened; mainly about China and model evaluation).", "House Select Committee on the CCP Democrats press release, 2026-08-13", "https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/khanna-raises-alarm-over-center-ai-standards-and-innovations-caisi-lack"]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "In September and October 2026 he said in his own words that AI poses a 'civilizational extinction risk' and that self-improving AI is the most likely path to humanity losing control of the technology. No dismissive statement was found.",
+  "notes": "Seven web searches ran; none were refused. Quotes were read on the pages linked, but the page-reading tool returned short excerpts, so a reviewer should confirm exact wording, especially the Fox News op-ed (fetched via its print view) and the CNBC quotes, which were read in secondary reports (The Next Web, Common Dreams), not on CNBC itself. Axios (2026-09-25) and South China Morning Post pages returned 403 and were not read. Ban Artificial Superintelligence Act: Crypto Briefing says he 'has publicly supported' it, but no source showed him as a sponsor or co-sponsor, so it is not recorded. Paraphrases left out: Axios (23 Aug 2026) reports he supports a pause on data center construction in Pennsylvania, Michigan and Wisconsin (motivation not tied to AI risk in what I saw, so not a slowdown position); Fox op-ed also says an AI war 'is catastrophic for civilization' and superintelligence 'could unleash Pandora's box' (not added as separate statements). The many-signer House letters were not searched, per instructions. Introduction status of the Human Control Over AI Act is unverified."
+}

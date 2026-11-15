@@ -1,0 +1,24 @@
+{
+  "bioguide": "C001120",
+  "member": "Dan Crenshaw",
+  "searches": [
+    "Dan Crenshaw artificial intelligence site:crenshaw.house.gov",
+    "Dan Crenshaw superintelligence",
+    "Crenshaw AI extinction existential risk 2026",
+    "Dan Crenshaw AI pause slowdown moratorium",
+    "Dan Crenshaw China AI agreement treaty",
+    "\"Dan Crenshaw\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Crenshaw"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement by Crenshaw on slowing AI development was found in searches or on his official site.", "sources": []},
+    "pause": {"value": "none", "note": "No statement by Crenshaw on pausing AI development was found in searches or on his official site.", "sources": []},
+    "intl": {"value": "none", "note": "No statement by Crenshaw on an AI agreement or talks with China was found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement by Crenshaw on banning self-improving AI was found, and no source lists him as a co-sponsor of the Ban Artificial Superintelligence Act.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "Seven web searches and his official press release pages found no statement by Crenshaw about AI since 1 January 2025. His only AI-related material found is two episodes of his own podcast from 2023 and 2024, which are before this project's time window and are guest interviews rather than his stated views.",
+  "notes": "All six required searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 in total, none refused). Older material outside the 2025 window, not included: his podcast Hold These Truths aired 'Can We Stop the AI Apocalypse? | Eliezer Yudkowsky' (2023; https://holdthesetruthswithdancrenshaw.libsyn.com/website/can-we-stop-the-ai-apocalypse-eliezer-yudkowsky), where the guest argues AI is an existential threat, and 'Modern Battlegrounds: The AI Arms Race | Paul Scharre' (2024; https://www.globalplayer.com/podcasts/episodes/7DrnRfF). These are episode descriptions, not Crenshaw's own words, and I did not listen to them. A House Ethics filing approved his office's travel to a Stanford AI boot camp in August 2024; no positions stated. Ban Artificial Superintelligence Act (H.R. 10538, Casar): sources describe about 9 to 10 House co-sponsors, apparently all Democrats; none names Crenshaw, but I could not see a full co-sponsor list (congress.gov returned 403 in the earlier attempt). From the earlier attempt, kept as still valid: crenshaw.house.gov press release pages 1 and 2 (20 releases, 12 March 2025 to 10 February 2026) had no AI release titles (bodies not read); the newest release was dated 10 February 2026; the home page said The Woodlands district office closed on 30 April 2026. Searches can miss podcast and TV remarks, and he speaks often in the media, so absence here is not proof he has said nothing about AI since 2025."
+}

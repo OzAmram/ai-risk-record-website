@@ -1,0 +1,53 @@
+{
+ "bioguide": "ELECT-NY-17-CONLEY",
+ "member": "Cait Conley",
+ "searches": [
+  "Cait Conley AI safety",
+  "Cait Conley artificial intelligence superintelligence",
+  "Cait Conley NY-17 congress AI",
+  "Cait Conley extinction OR \"existential risk\" artificial intelligence",
+  "Cait Conley AI pause OR slowdown OR moratorium data centers",
+  "Cait Conley China AI agreement treaty",
+  "site:caitconley.com AI"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-28",
+   "venue": "Campaign website policy page, \"Addressing AI\" section",
+   "quote": "Left unregulated and unchecked, corporations will continue to exploit our weak regulations at the expense of safety, security, and American jobs. We need leaders in Congress willing to put guardrails on this technology.",
+   "context": "Her campaign's AI platform, which goes on to list child safety, data privacy, adversarial use (cyberattacks, disinformation), data center costs, job retraining and federal agency use of AI.",
+   "source_label": "Cait Conley campaign website",
+   "url": "https://caitconley.com/policy/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Calls for guardrails and safety standards on AI, but the risks named are jobs, children, privacy, cyberattacks, disinformation and data centers, not catastrophic risk."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on this policy.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "She has spoken about AI (campaign platform calling for guardrails and safety standards), but nothing found acknowledges catastrophic risk from AI.",
+ "notes": "7 web searches ran (none refused); searches on superintelligence, extinction, pause, China and the campaign site returned nothing about her. Campaign policy page text is written in the third person by the campaign; the page was first published 2025-09-09 and last modified 2026-09-28 (date used). The same page also says: 'As a former senior executive at the Cybersecurity and Infrastructure Security Agency, Cait understands this technology and its greatest risks. She will be a leader in Congress in advancing safety standards and preparing the workforce for its disruption to our economy.' This is generic ('its greatest risks') and the listed risks are non-catastrophic, so kept at D. Bloomberg video of 2026-08-13 (https://www.bloomberg.com/news/videos/2026-08-13/conley-ai-can-be-net-positive-for-communities-video) is summarized on her campaign site as 'Conley notes AI poses serious risks and that companies need to do the right thing as the technology...'; this is Bloomberg's paraphrase, the page returned 403 and I could not hear her own words, so it is left out of statements. A reviewer may want to watch it. The Intercept (2026-02-09) quotes her campaign manager Emily Goldson, not Conley: 'Cait believes AI can be both an opportunity and a risk to the middle class' (economic, D). She has worked for defense AI firms Primer AI and Hidden Level. As a representative-elect she was not in Congress and could not co-sponsor the Ban Artificial Superintelligence Act; no House letters apply."
+}

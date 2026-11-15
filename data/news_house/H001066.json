@@ -1,0 +1,92 @@
+{
+  "bioguide": "H001066",
+  "member": "Steven Horsford",
+  "searches": [
+    "Horsford artificial intelligence site:horsford.house.gov",
+    "Steven Horsford superintelligence",
+    "Horsford AI extinction OR \"existential risk\"",
+    "Rep. Horsford AI pause OR slowdown OR moratorium",
+    "Horsford China AI agreement OR treaty",
+    "Steven Horsford \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-19",
+      "venue": "Press release introducing the AI-Related Job Impacts Clarity Act",
+      "quote": "AI has the potential to lift workers up, but right now, too many companies are using it as cover to push workers out,",
+      "context": "Introducing a bill requiring disclosure of layoffs driven by AI.",
+      "source_label": "House press release",
+      "url": "https://horsford.house.gov/media/press-releases/horsford-introduces-legislation-to-protect-workers-from-ai-driven-layoffs",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI and job losses; catastrophic risk is not acknowledged."
+    },
+    {
+      "date": "2026-10-08",
+      "venue": "Press release on letter to Spirit Airlines and Google",
+      "quote": "Innovation cannot come at the expense of workers' privacy,",
+      "context": "Horsford and Senator Warren led a letter urging Spirit Airlines and Google to protect former employees' data used to train AI.",
+      "source_label": "House press release",
+      "url": "https://horsford.house.gov/media/press-releases/spirit-airlines-to-sell-employee-data-to-train-google-ai-horsford-and-warren-lead-call-for-worker-privacy-protections",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "cosigned_letter"
+      ],
+      "reason": "About worker privacy and AI training data; catastrophic risk is not acknowledged."
+    },
+    {
+      "date": "2026-04-24",
+      "venue": "Press release on AI workforce training event with OpenAI and Rep. Khanna",
+      "quote": "The AI economy is being built right now, and the workers and families of North Las Vegas deserve to be part of building it.",
+      "context": "An AI workforce training partnership with the College of Southern Nevada.",
+      "source_label": "House press release",
+      "url": "https://horsford.house.gov/media/press-releases/rep-horsford-joins-openai-rep-ro-khanna-and-college-of-southern-nevada-csn-to-expand-ai-workforce-training-in-north-las-vegas",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Promotes AI job training; catastrophic risk is not acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the AI-Related Job Impacts Clarity Act, on disclosure of AI-driven layoffs.",
+      "House press release, 2026-06-19",
+      "https://horsford.house.gov/media/press-releases/horsford-introduces-legislation-to-protect-workers-from-ai-driven-layoffs"
+    ],
+    [
+      "Led, with Senator Warren, a letter from 119 members to Spirit Airlines and Google on protecting former employees' data used to train AI.",
+      "House press release, 2026-10-08",
+      "https://horsford.house.gov/media/press-releases/spirit-airlines-to-sell-employee-data-to-train-google-ai-horsford-and-warren-lead-call-for-worker-privacy-protections"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His 2026 AI statements are about jobs, worker privacy and AI job training; none acknowledges catastrophic risk, and the searches found no statement of his on AI risk, superintelligence, a pause or China talks.",
+  "notes": "All 7 web searches ran this time (the 6 required plus one on the Ban Artificial Superintelligence Act). None returned any statement by Horsford on superintelligence, extinction, a pause or slowdown, an agreement with China, or AI safety. The site search found the three 2026 releases already recorded and a July 2024 Financial Services hearing video on AI bias, which is before 2025 and left out. Ban Artificial Superintelligence Act (H.R. 10538): congress.gov cosponsor page returned 403; Forkast says Ocasio-Cortez and nine unnamed House Democrats co-sponsored. No source shows Horsford as a co-sponsor, so it is not recorded, but it is not ruled out either. Earlier attempt: horsford.house.gov press release listing pages 1 to 5 (31 March to 20 October 2026) were read. This time pages 6 (January to February 2026) and 8 (October to December 2025) were read; no AI releases. Page 7 and earlier 2025 pages were not checked. Quotes came through a page-fetch tool that summarizes pages; a reviewer should check them against the pages. In the Spirit release the quoted sentence continues 'and no employee data should move until real, enforceable safeguards are in place.' The 119-member Spirit letter is a privacy letter, not about AI risk."
+}

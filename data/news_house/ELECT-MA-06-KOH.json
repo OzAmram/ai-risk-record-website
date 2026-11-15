@@ -1,0 +1,28 @@
+{"bioguide": "ELECT-MA-06-KOH", "member": "Dan Koh",
+ "searches": [
+  "Dan Koh artificial intelligence AI safety",
+  "Dan Koh congress superintelligence",
+  "\"Dan Koh\" AI extinction OR existential risk",
+  "\"Dan Koh\" AI pause OR moratorium OR \"data center\"",
+  "\"Dan Koh\" China AI agreement",
+  "site:dankoh.com artificial intelligence",
+  "Dan Koh Massachusetts 6th district candidate artificial intelligence position"
+ ],
+ "statements": [
+  {"date": "2026-09-01", "venue": "Remarks to reporters after winning the Democratic primary",
+   "quote": "any AI should be regulated. That's my platform.",
+   "context": "Responding to criticism that pro-AI groups spent money supporting him, he said the money came from an outside entity he did not control.",
+   "source_label": "Boston Globe", "url": "https://bostonglobe.com/2026/09/01/metro/mass-sixth-congress-district-democrat-primary",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Supports regulating AI but does not acknowledge catastrophic risk."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "His only found remark on AI (September 2026) is a general call to regulate AI, with no acknowledgment of catastrophic risk.",
+ "notes": "Seven web searches ran, none refused. dankoh.com is a domain-for-sale page, not his campaign site; no campaign issues page was found. The Boston Globe page was read through a page-fetch tool that summarises, so the exact wording of the quote should be confirmed by a reviewer; the page itself shows no publication date (the date is from the URL, primary night). Reading Post profile (thereadingpost.com/?p=37927) returned 403 and could not be read. Coverage shows pro-AI super political action committee spending (about $99,108 reported by a tracker) supporting Koh and a Guardrails Alliance banner attacking him as funded by AI billionaires; these are about money, not his statements, and were left out. A page koh-opposition-hub.pages.dev appeared in results but is partisan opposition material and was not used. No sign he is a sponsor of the Ban Artificial Superintelligence Act (he is not a sitting member). Search coverage of his AI views was thin, so the search may be incomplete."}

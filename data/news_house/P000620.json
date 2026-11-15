@@ -1,0 +1,37 @@
+{
+  "bioguide": "P000620",
+  "member": "Brittany Pettersen",
+  "searches": [
+    "Pettersen artificial intelligence site:pettersen.house.gov",
+    "Brittany Pettersen superintelligence",
+    "Brittany Pettersen AI extinction existential risk",
+    "Brittany Pettersen AI pause slowdown moratorium",
+    "Brittany Pettersen China AI agreement treaty",
+    "\"Brittany Pettersen\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Pettersen"
+  ],
+  "statements": [
+    {
+      "date": "2026-11-01",
+      "venue": "Interview quoted in Colorado Politics article 'Autonomous Mind | Congress scrambles to keep pace with AI'",
+      "quote": "We need to ensure that the technologies that they're releasing are not a danger to our country.",
+      "context": "Pettersen said Congress has not acted on AI at the federal level and called for oversight of AI companies, independent audits, incident reporting and evaluation before wide release.",
+      "source_label": "Colorado Politics (Thelma Grimes), 1 November 2026",
+      "url": "https://www.coloradopolitics.com/2026/11/01/congress-scrambles-to-keep-pace-with-ai/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "She calls for oversight so AI is not 'a danger to our country' but names no catastrophic or specific serious danger, so under ruling 4 this general danger is D (close to C)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement or action found on slowing frontier AI progress; she calls for oversight, audits and pre-release evaluation, which is regulation, not a slowdown.", "sources": []},
+    "pause": {"value": "none", "note": "No statement or action found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pace; she said the United States should lead on regulation to set a global standard, which is not coordination with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement or action found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her most substantial 2026 remarks on AI (Colorado Politics, 1 November 2026) urge federal oversight and say AI must not be 'a danger to our country', but name no catastrophic risk; no A, B, C or F statement was found.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra search on the Ban Artificial Superintelligence Act; the search is complete. The site-restricted search returned no pettersen.house.gov pages. Search results said she served on the bipartisan House AI task force (2024), was named to the House Financial Services Committee's AI working group, and introduced a bipartisan bill on AI-fuelled bank scams; these appear to predate 2025 or be about fraud (D under ruling 5) and were not opened or recorded. The Colorado Politics article was opened with a page-reading tool. That tool also paraphrased her as wanting a federally funded expert agency, pre-release evaluation, disclosure of negative internal test findings and incident reporting, but the article gives no direct quotes for these points, so they were not quoted. The article's discussion of superintelligence and loss of control comes from a professor (Steve Beaty), not from her. Other direct quotes in the same article: 'It is moving quicker than we have', 'We haven't done anything to address this at the federal level.', 'And it couldn't be more urgent.', 'The United States has to lead with regulating because that's going to set a standard across the globe' (all D). Ban Artificial Superintelligence Act (H.R. 10538, Casar): no search result named her as a cosponsor; the congress.gov cosponsor page returned HTTP 403, so this is not confirmed either way. From the earlier attempt: her press release list pages 1 to 10 (about 7 July 2025 to 23 October 2026, https://pettersen.house.gov/news/documentquery.aspx?DocumentTypeID=27) showed no AI title or excerpt; only titles and excerpts were checked. Multi-signer House letters were not searched, as instructed."
+}

@@ -1,0 +1,24 @@
+{
+  "bioguide": "A000055",
+  "member": "Robert B. Aderholt",
+  "searches": [
+    "Aderholt artificial intelligence (restricted to aderholt.house.gov)",
+    "Robert Aderholt superintelligence",
+    "Aderholt AI extinction existential risk",
+    "Aderholt AI pause slowdown moratorium",
+    "Aderholt China AI agreement treaty",
+    "\"Aderholt\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade. The only AI mention found is a press office paraphrase about AI and autonomy work in Alabama's defense sector, which would be level D at most.",
+  "notes": "Seven web searches ran; none was refused. Search results for Aderholt and AI were thin, so the search may be incomplete. Paraphrase left out: his 31 January 2026 press release on the Second Annual AUKUS Defense Industry Forum in Huntsville (https://aderholt.house.gov/media-center/press-releases/congressman-aderholt-convenes-second-annual-aukus-defense-industry, opened) paraphrases him citing Alabama's work on AI and autonomy and calling for faster fielding of defense systems; none of his quoted words mention AI. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 24 September 2026): sources describe about nine or ten cosponsors, all Democrats; no source found shows Aderholt as a sponsor or cosponsor, but the full cosponsor list was not checked on Congress.gov. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Only the first page (10 of about 75 pages) of his press releases was checked directly; it had no AI-related releases."
+}

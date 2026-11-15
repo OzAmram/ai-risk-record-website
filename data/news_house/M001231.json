@@ -1,0 +1,51 @@
+{
+  "bioguide": "M001231",
+  "member": "John W. Mannion",
+  "searches": [
+    "site:mannion.house.gov artificial intelligence",
+    "\"Mannion\" superintelligence",
+    "John Mannion AI extinction OR \"existential risk\"",
+    "John Mannion AI pause OR slowdown OR moratorium",
+    "John Mannion China AI agreement OR treaty",
+    "\"John Mannion\" \"AI safety\"",
+    "Rep. John Mannion \"artificial intelligence\" OR \"Ban Artificial Superintelligence Act\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found. His co-sponsorship of a bill ending tax breaks for data centers is about cost and local siting, not risk from AI, so it does not count.",
+      "sources": [
+        [
+          "Mannion press release, 17 September 2026",
+          "https://mannion.house.gov/media/press-releases/representative-mannion-cosponsors-bill-stop-tax-giveaways-data-centers"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Original co-sponsor of the Reverse Big Ugly Tax Breaks for Data Centers Act, which would remove two tax benefits for data centers; motivated by cost, energy and local siting, not AI risk.",
+      "Mannion press release, 17 September 2026",
+      "https://mannion.house.gov/media/press-releases/representative-mannion-cosponsors-bill-stop-tax-giveaways-data-centers"
+    ]
+  ],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Mannion about AI, let alone catastrophic AI risk, was found in seven web searches or in his press releases from late June to October 2026; the only AI-adjacent item is a data center tax bill framed around cost and local siting.",
+  "notes": "All six required web searches ran in this rerun, plus one extra on his name with 'artificial intelligence' and the Ban Artificial Superintelligence Act (7 in total). None returned any page mentioning Mannion in connection with AI; the site:mannion.house.gov search returned no pages from his site. Kept from the earlier attempt: his press release list pages 1 and 2 (26 June to 27 October 2026) were opened directly and no titles mention AI; the site's own search page returned HTTP 403. The 17 September 2026 data center release mentions 'AI data centers' in its own text; Mannion's quoted words (seen only through a fetch tool that paraphrased them: data centers should 'pay their own way', siting should be transparent and locally driven, tax breaks are wrong while food assistance and Medicaid are cut) do not mention AI, so nothing is recorded as a statement. No source seen shows him sponsoring or co-sponsoring the Ban Artificial Superintelligence Act. Press releases before late June 2026 and from 2025 were not reviewed page by page; search did not surface any AI material from them."
+}

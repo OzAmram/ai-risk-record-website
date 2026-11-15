@@ -1,0 +1,61 @@
+{
+  "bioguide": "L000560",
+  "member": "Rick Larsen",
+  "searches": [
+    "site:larsen.house.gov artificial intelligence",
+    "\"Rick Larsen\" \"AI safety\"",
+    "\"Rick Larsen\" superintelligence",
+    "\"Rick Larsen\" AI extinction OR existential risk",
+    "\"Rick Larsen\" AI pause OR slowdown OR moratorium",
+    "\"Rick Larsen\" China AI agreement OR treaty OR talks",
+    "Rick Larsen CBS News lawmakers \"need to get serious\" AI"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "His data centers one-pager says he supports local jurisdictions' temporary data center moratoriums, but the reasons given are electricity bills, water and community impact, not risks from AI itself, so this does not count.",
+      "sources": [
+        [
+          "Larsen data centers one-pager (September 2026)",
+          "https://larsen.house.gov/uploadedfiles/data_centers_one_pager_1.pdf"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development (the many-signer House letters were not checked, per instructions).",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI; he is not on the FastDemocracy cosponsor list for the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsors",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    }
+  },
+  "record": [
+    [
+      "Cosponsors the Big Ugly Tax Breaks for Data Centers Act, which would roll back tax breaks for large AI data centers; also joined 110 House Democrats on a letter to tech industry leaders about data center guardrails (electricity costs and community impact, not AI risk).",
+      "Larsen press release, 23 September 2026",
+      "https://larsen.house.gov/news/documentsingle.aspx?DocumentID=4269"
+    ],
+    [
+      "Not listed as a sponsor or cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538), whose 12 listed cosponsors do not include him.",
+      "FastDemocracy bill page, checked 12 November 2026",
+      "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related material found from 2025 or 2026 is about AI data centers (tax breaks, electricity costs, local moratoriums) and a CBS video with no transcript, none of which shows him acknowledging catastrophic AI risk. He has spoken about AI, so D rather than none.",
+  "notes": "All six required web searches ran this time, plus one follow-up (7 in total). None found a statement by Rick Larsen on catastrophic AI risk, superintelligence, extinction, a pause or slowdown, or an agreement with China. Possible lead not resolved: a 17 September 2026 repost of a CBS News video, titled 'Rep. Rick Larsen says lawmakers \"need to get serious\" about AI' (https://www.socialnews.xyz/?p=7713940), says he discussed how Congress can act on AI safety; the page description mentions 'possible existential threats' and 'rogue bots' but as the outlet's framing, not his words, and no transcript was available. The reviewer may want to watch the video. The related CBS affiliate article 'AI risks are getting harder for Congress to ignore' (10 September 2026) and an Al Jazeera article from 11 September 2026 were opened and do not mention him. Search results on extinction risk from KEYT/KRDO/KION quote a 'Larsen' who is Thomas Larsen of the AI Futures Project, a different person; excluded. A 16 April 2024 statement from a Transportation Committee roundtable on AI in transportation is before 2025 and was not used. From the earlier attempt (still valid): larsen.house.gov press release pages 1 to 3 (21 August to 10 November 2026) mention AI only in two data center releases; the 23 September 2026 release and the data centers one-pager were read; the 110-signer data center letter text was not opened. Press releases before 21 August 2026, hearing remarks and floor speeches were not checked page by page."
+}

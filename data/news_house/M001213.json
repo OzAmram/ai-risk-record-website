@@ -1,0 +1,102 @@
+{
+  "bioguide": "M001213",
+  "member": "Blake D. Moore",
+  "searches": [
+    "site:blakemoore.house.gov artificial intelligence",
+    "\"Blake Moore\" \"AI safety\"",
+    "Rep. Blake Moore superintelligence",
+    "Blake Moore Utah congressman AI extinction OR existential risk",
+    "Blake Moore AI pause OR slowdown OR moratorium",
+    "Blake Moore China AI agreement OR treaty",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Deseret News interview",
+      "quote": "The onus ultimately has to be on the private sector to produce safe products and services.",
+      "context": "Asked about Congress's role after AI industry warnings about the technology, Moore, vice chairman of the House Republican Conference, said Congress needs to find a 'sweet spot' and that companies must produce safe products.",
+      "source_label": "Deseret News, 16 September 2026",
+      "url": "https://www.deseret.com/politics/2026/09/16/congress-weighs-role-in-ai-debate/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Talks about AI product safety and the role of Congress in general terms; no catastrophic risk from AI acknowledged."
+    },
+    {
+      "date": "2026-04-30",
+      "venue": "Press release",
+      "quote": "Parents and policymakers alike need to ground our children’s development in real-world interactions rather than push them further into the unaccountable black hole of frontier technology.",
+      "context": "Moore introduced a House version of the bipartisan GUARD Act, which bans AI companion chatbots for minors.",
+      "source_label": "House press release, 30 April 2026",
+      "url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bipartisan-bill-protecting-children-from-ai-companion-chatbots",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About protecting children from AI companion chatbots; no catastrophic risk acknowledged."
+    },
+    {
+      "date": "2026-04-20",
+      "venue": "Press release",
+      "quote": "America will continue to compete, innovate, and strive to break barriers in AI development, but we must prioritize basic ethics and restrain these tools where they will negatively impact human activity when it comes to privacy, safety, human development, and addiction,",
+      "context": "Moore introduced the AI Children's Toy Safety Act to ban children's toys that contain AI chatbots.",
+      "source_label": "House press release, 20 April 2026",
+      "url": "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bill-to-ban-artificial-intelligence-chatbots-in-childrens-toys",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About children, privacy and addiction from AI toys; no catastrophic risk acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced a House version of the GUARD Act, banning AI companion chatbots for minors (child safety, not catastrophic risk).",
+      "House press release, 30 April 2026",
+      "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bipartisan-bill-protecting-children-from-ai-companion-chatbots"
+    ],
+    [
+      "Introduced the AI Children's Toy Safety Act, banning toys with AI chatbots (child safety, not catastrophic risk).",
+      "House press release, 20 April 2026",
+      "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-bill-to-ban-artificial-intelligence-chatbots-in-childrens-toys"
+    ],
+    [
+      "Introduced the Leveraging Artificial Intelligence to Streamline the Code of Federal Regulations Act of 2026, using an AI tool to find outdated regulations.",
+      "House press release, 23 January 2026",
+      "https://blakemoore.house.gov/media/press-releases/congressman-blake-moore-introduces-legislation-to-identify-redundant-and-outdated-rules-in-federal-regulations"
+    ],
+    [
+      "Co-led with Rep. Jim Costa the Unleashing Low-Cost Rural AI Act, a study of AI data center expansion in rural areas.",
+      "House press release, 16 September 2025",
+      "https://blakemoore.house.gov/media/press-releases/representatives-moore-costa-introduce-legislation-to-study-impact-of-artificial-intelligence-in-rural-america"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 Moore spoke about AI several times, but only about harms to children (companion chatbots, AI toys), using AI in government, and in general terms about companies making safe products; nothing found acknowledges catastrophic risk.",
+  "notes": "All seven web searches ran this time (the six required plus one on co-sponsors of the Ban Artificial Superintelligence Act); none returned any statement by Moore on superintelligence, extinction or existential risk, a pause or slowdown, or an agreement with China. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): the search results name only Democratic co-sponsors (Ansari, Ocasio-Cortez, Hoyle, Lynch, Tonko; about nine or ten in all); no source shows Moore co-sponsoring it, but I did not see a complete co-sponsor list on congress.gov. Deseret News article (16 September 2026, Cami Mondeaux) was opened through a page-fetch tool that summarizes pages, so the quote was checked against its verbatim extract rather than the raw HTML; the statement date is the article's publication date and the interview may have been a day or two earlier. A search-result summary attributed the line 'controls to ensure our competitors and adversaries aren't able to proceed recklessly' to Moore; on opening the article, it is Sen. Andy Kim's, so it is left out. From the earlier attempt (kept): I opened blakemoore.house.gov directly, all 14 pages of the press release listing (January 2021 to 10 November 2026), and searched the full text of about 100 releases from September 2024 to November 2026 for 'artificial intelligence', 'AI', 'superintelligence' and 'frontier'. AI-related releases: GUARD Act (30 April 2026), AI Children's Toy Safety Act (20 April 2026), AI tool for federal regulations (23 January 2026), rural AI data center study (16 September 2025); passing mentions in a bioenergy release (30 September 2025), the FY2026 defense bill statement (10 December 2025, outbound investment into Chinese AI) and an energy permitting release (26 February 2025). None mention catastrophic risk, superintelligence, loss of control or extinction. Not checked: hearing remarks, floor speeches and the site's 'In the News' pages. The many-signer August and September 2026 House letters were not searched, per instructions."
+}

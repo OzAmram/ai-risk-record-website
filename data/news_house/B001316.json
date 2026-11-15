@@ -1,0 +1,77 @@
+{
+ "bioguide": "B001316",
+ "member": "Eric Burlison",
+ "searches": [
+  "Burlison artificial intelligence site:burlison.house.gov",
+  "Eric Burlison superintelligence",
+  "Eric Burlison AI existential risk extinction",
+  "Eric Burlison AI pause moratorium slowdown",
+  "Eric Burlison China AI agreement treaty",
+  "\"Burlison\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [
+  {
+   "date": "2026-08-02",
+   "venue": "Op-ed, Springfield News-Leader (republished on his House website)",
+   "quote": "Artificial intelligence will reshape the American economy.",
+   "context": "Op-ed arguing that Missouri's reliable electricity is key to the United States winning the AI race against China.",
+   "source_label": "burlison.house.gov (In the News)",
+   "url": "https://burlison.house.gov/media/in-the-news/missouris-reliable-power-key-winning-ai-race",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes AI and energy infrastructure as economic competition with China; no catastrophic risk acknowledged."
+  },
+  {
+   "date": "2026-04-16",
+   "venue": "Opening statement, joint Oversight subcommittee roundtable \"Artificial Intelligence and American Power: Leadership, Security, and Prosperity\"",
+   "quote": "Every gap in American AI leadership is a vulnerability that our adversaries are eager to exploit.",
+   "context": "Opening remarks framing AI as a race with China and arguing that government red tape and regulation do not make AI safer but slow American companies.",
+   "source_label": "House Oversight Committee press release",
+   "url": "https://oversight.house.gov/release/burlison-opens-roundtable-on-artificial-intelligence-and-american-prosperity/",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "About competition with China and opposing AI regulation (rulings 5 and 6); no catastrophic risk acknowledged or dismissed."
+  },
+  {
+   "date": "2026-01-18",
+   "venue": "Op-ed, St. Louis Post-Dispatch (republished on his House website)",
+   "quote": "Every breakthrough in AI or next-generation military technology relies on the computing power they provide.",
+   "context": "Op-ed urging Missouri to lead in building data centers so the US does not fall behind China.",
+   "source_label": "burlison.house.gov (In the News)",
+   "url": "https://burlison.house.gov/media/in-the-news/missouri-must-lead-americas-data-center-revolution-0",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "Promotes data centers and AI leadership; no catastrophic risk acknowledged."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI for safety reasons.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI; his remarks frame China only as a competitor.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found on banning self-improving AI.",
+   "sources": []
+  }
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "In 2026 he spoke about AI as a race with China, opposed AI regulation as slowing American companies, and promoted data center and energy build-out; nothing found acknowledging or explicitly dismissing catastrophic risk.",
+ "notes": "All 6 required web searches ran this time, plus 1 extra search on cosponsors of the Ban Artificial Superintelligence Act (7 total). The searches on superintelligence, existential risk, pause, China agreement and 'AI safety' returned nothing mentioning Burlison. Ban Artificial Superintelligence Act (House version, Casar, reported as H.R. 10538): search results list Democratic cosponsors only (sources disagree on the list); none showed Burlison, but the official Congress.gov cosponsor list was not opened. From the earlier attempt: burlison.house.gov home, press releases pages 1-2 (back to 28 May 2026), bills-introduced list (no AI bills) and In the News page were opened directly; the 14 July 2026 China roundtable statement (D) was dropped to keep three D statements and replaced with the more substantial 16 April 2026 AI roundtable statement. In that 16 April 2026 statement he also said (as prepared) a sentence beginning \"Government-mandated red tape and free-speech constraints do not make AI safer\"; the fetch tool would not return the full sentence, so it is not quoted. It opposes regulation and is D, not F (ruling 6). The 1 April 2025 press release 'Chairman Burlison: Artificial Intelligence Technology Has the Potential to Transform America' contains no direct quotes about risk; his separate opening remarks and the June 2025 hearing 'The Federal Government in the Age of Artificial Intelligence' (govinfo transcript) were not read. The page fetch tool returns text through a summarising model, so quote wording should be re-checked character for character against the pages. The 3 September 2026 bill with Massie on surveillance cameras was not described as being about AI."
+}

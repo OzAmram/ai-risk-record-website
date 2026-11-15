@@ -1,0 +1,23 @@
+{
+  "bioguide": "B001285",
+  "member": "Julia Brownley",
+  "searches": [
+    "site:juliabrownley.house.gov artificial intelligence",
+    "Julia Brownley superintelligence",
+    "Julia Brownley AI extinction existential risk",
+    "Julia Brownley AI pause slowdown moratorium",
+    "Julia Brownley China AI agreement talks",
+    "\"Julia Brownley\" \"AI safety\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; she is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Brownley about AI risk, or about AI at all, was found in 2025 or 2026 in news or on her official site; she is not a cosponsor of the Ban Artificial Superintelligence Act.",
+  "notes": "Six web searches ran, none refused. The site-restricted search returned no pages from juliabrownley.house.gov; a direct search of her site for 'artificial intelligence' returned only two results (13 March 2025 'Holding the Trump Administration Accountable' page, and an April 2024 release on DNA research biosecurity guardrails, which is before the search window); the first 100,000 characters of the long 2025 page had no mention of AI, the rest was not read. A search summary said she (spelled 'Bownley') signed a letter led by Rep. Deborah Ross from women lawmakers opposing a moratorium on state AI laws in the NDAA, on protections for women and girls (https://ross.house.gov/_cache/files/4/7/47241f79-476e-4384-9644-a6d6d1c923f3/0B2655828FC164F250E5A6635481C7CCCB14B0E9EA3B3E4F6A397519FDFD7FF1.final-ndaa-ai-moratorium-women-and-children-letter.pdf). I could not extract the PDF text to confirm her signature, date or wording, so it is not recorded; if confirmed it would be a D-level co-signed letter (state preemption, harms to women and children) and could make the grade D instead of none. The many-signer House AI letters of August and September 2026 were not searched for, as instructed."
+}

@@ -1,0 +1,35 @@
+{
+  "bioguide": "F000471",
+  "member": "Scott Fitzgerald",
+  "searches": [
+    "Fitzgerald artificial intelligence (restricted to fitzgerald.house.gov)",
+    "Rep. Scott Fitzgerald superintelligence",
+    "Scott Fitzgerald congressman AI extinction existential risk",
+    "Rep. Scott Fitzgerald AI pause slowdown moratorium",
+    "Rep. Scott Fitzgerald China AI agreement treaty",
+    "\"Scott Fitzgerald\" Wisconsin \"AI safety\"",
+    "Rep. Scott Fitzgerald \"light touch\" artificial intelligence Judiciary hearing"
+  ],
+  "statements": [
+    {"date": "2025-04-02",
+     "venue": "Opening statement as subcommittee chair, House Judiciary Subcommittee on the Administrative State, Regulatory Reform and Antitrust hearing on AI trends in innovation and competition",
+     "quote": "Unfortunately, some in government want to step in and start regulating before they even understand what they are regulating,",
+     "context": "Arguing for a light-touch approach to AI regulation and warning that overregulation can kill innovation.",
+     "source_label": "FedScoop, 2 April 2025",
+     "url": "https://fedscoop.com/house-republicans-regulatory-approach-ai-trump/",
+     "read_at_source": true,
+     "level": "D",
+     "flags": [],
+     "reason": "He opposes early AI regulation but neither acknowledges nor dismisses catastrophic risk, and opposing regulation is D under the rubric."}
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found are from 2025 hearings, where he argued for light-touch AI regulation without mentioning catastrophic risk. No 2026 statement about AI in his own words was found.",
+  "notes": "All seven web searches ran (the six required plus one follow-up on his hearing remarks). The search was complete. None of them turned up a statement by him on superintelligence, extinction, loss of control, a pause or slowdown, or an AI agreement with China. No source found shows that he sponsored or co-sponsored the Ban Artificial Superintelligence Act (September 2026) or signed a House letter on AI risk. The many-signer August and September 2026 House letters were not searched, per instructions. Quote check: the FedScoop article (opened, and the raw page text checked) continues: 'They want to decide which models are, quote unquote, responsible, which approaches are fair and who gets to build what. That's very dangerous. We see this same saga playing out time and time again; overregulation can kill innovation.' The hearing date is taken as 2 April 2025: the article was published that day and says the hearing was held 'Wednesday'. Left out because they are not his exact words: a search summary of a Forbes video on Dailymotion (https://www.dailymotion.com/video/x9h9dbo, could not be read) said he backed a 'light touch regulatory approach' and said antitrust laws should be enforced against companies abusing market power. A search summary also said that at the 18 September 2025 hearing of the Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet ('AI at a Crossroads: A Nationwide Strategy or Californication?') he asked how European-style rules would affect the US AI ecosystem and supported a federal framework over a state patchwork. The hearing transcript was not opened. Press releases checked: his 4 June 2026 release on the Prohibiting Adversarial Patents Act (https://fitzgerald.house.gov/media/press-releases/fitzgerald-moolenaar-and-issa-patent-bill, opened). His quote there does not mention AI; only a supporting group, the High Tech Inventors Alliance, mentions artificial intelligence. The earlier attempt opened five pages of press release listings on fitzgerald.house.gov (https://fitzgerald.house.gov/media/press-releases, pages 0 to 4: 50 releases from 18 December 2025 to 18 September 2026). None of the titles or summaries mentions AI. The only AI wording was the press office naming his AI subcommittee in the 16 September 2026 Judicial Conduct and Disability Act release, which is not his own words. He sits on the House Judiciary subcommittee covering AI, so other hearing remarks on AI may exist that the searches did not surface."
+}

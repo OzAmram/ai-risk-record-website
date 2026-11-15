@@ -1,0 +1,92 @@
+{
+  "bioguide": "K000403",
+  "member": "Mike Kennedy",
+  "searches": [
+    "site:mikekennedy.house.gov artificial intelligence",
+    "\"Mike Kennedy\" Utah congressman \"AI safety\"",
+    "Rep. Mike Kennedy Utah superintelligence",
+    "\"Mike Kennedy\" Utah AI extinction OR \"existential risk\"",
+    "\"Mike Kennedy\" Utah AI pause OR slowdown OR moratorium",
+    "\"Mike Kennedy\" Utah AI China agreement OR treaty",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Kennedy"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-02",
+      "venue": "Press release",
+      "quote": "Human-like AI chatbots pose significant emotional, psychological and safety risks by mimicking real human relationships. AI needs to be a tool, not a friend.",
+      "context": "Announcing that he is co-leading the Protecting Kids from Human-Like Chatbots Act with Reps. Whitesides, Matsui and Miller-Meeks.",
+      "source_label": "House press release (mikekennedy.house.gov)",
+      "url": "https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-bipartisan-legislation-protect-children-human-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "The risks named are emotional and psychological harm to children, which is outside catastrophic AI risk."
+    },
+    {
+      "date": "2026-04-08",
+      "venue": "Deseret News interview",
+      "quote": "If I can represent that to the administration, they might just lift the template that already is working",
+      "context": "Arguing that Congress should copy Utah's AI regulatory sandbox and policy lab model in a federal AI framework.",
+      "source_label": "Deseret News, 2026-04-08",
+      "url": "https://www.deseret.com/politics/2026/04/08/trump-artificial-intelligence-federal-framework-stalls-in-congress-as-utah-lawmakers-look-for-bipartisan-solution-modeled-on-utah-ai-policy-lab",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About how to regulate AI at the federal level, with no acknowledgment of catastrophic risk."
+    },
+    {
+      "date": "2025-12-02",
+      "venue": "Press release",
+      "quote": "I am proud to introduce the GENESIS Act to codify President Trump’s Genesis Mission into law. This is a pivotal step toward unleashing American ingenuity through artificial intelligence,",
+      "context": "Introducing the GENESIS Act to codify the executive order using National Laboratories and AI to accelerate scientific research.",
+      "source_label": "House press release (mikekennedy.house.gov)",
+      "url": "https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-genesis-act-accelerate-scientific-discovery-through",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes use of AI for science and the global AI race without acknowledging catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-led the Protecting Kids from Human-Like Chatbots Act, limiting human-like chatbot behaviour toward minors by default.",
+      "House press release, 2026-10-02",
+      "https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-bipartisan-legislation-protect-children-human-ai"
+    ],
+    [
+      "Introduced the GENESIS Act to codify the Genesis Mission executive order on AI-driven scientific research at the National Laboratories.",
+      "House press release, 2025-12-02",
+      "https://mikekennedy.house.gov/media/press-releases/rep-kennedy-introduces-genesis-act-accelerate-scientific-discovery-through"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "He has spoken about AI in 2026 (child safety around chatbots, copying Utah's AI regulatory sandbox federally) and 2025 (promoting AI for science), but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All required searches ran this time: 7 web searches (the six required plus one on Ban Artificial Superintelligence Act cosponsors). No statement by him on superintelligence, extinction or existential risk, a pause or slowdown, or an agreement with China was found. He is not among the House cosponsors of the Ban Artificial Superintelligence Act (H.R. 10538) listed by FastDemocracy (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), page not opened. The earlier attempt also opened his press release listing pages 1 to 7 on mikekennedy.house.gov (back to early 2025); only the chatbot and GENESIS Act releases mention AI in a way relevant here. Deseret News (2026-04-08) and KSL (2026-04-09) quote him only on Utah's regulatory approach ('healthy approach', 'helpfully directive', 'not destructive'); the reporter's paraphrase that his approach includes consumer guardrails was left out. The Algorithm Accountability Act (November 2025, with Rep. McClain Delaney) concerns social media algorithms and was not added. His site lists a June 2025 'Regulating AI' podcast appearance, but the episode itself was not checked. An American Bazaar article (2025-04-15, 'AI can transform healthcare but regulation must be precise') returned HTTP 403 and was not used. Articles about Senator John Kennedy (Louisiana, AI 'kill switch' bill) are a different person and were excluded."
+}

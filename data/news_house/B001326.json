@@ -1,0 +1,22 @@
+{"bioguide": "B001326", "member": "Janelle S. Bynum",
+ "searches": [
+  "site:bynum.house.gov artificial intelligence",
+  "Janelle Bynum superintelligence",
+  "Janelle Bynum AI extinction existential risk",
+  "Janelle Bynum AI pause moratorium",
+  "Janelle Bynum China AI agreement",
+  "\"Janelle Bynum\" \"AI safety\"",
+  "Rep. Janelle Bynum artificial intelligence"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by her about AI was found in seven web searches or in her official press releases from January 2025 to November 2026.",
+ "notes": "All 7 web searches ran this time (the six required plus one general search on her name and artificial intelligence). None returned any page in which Bynum speaks about AI; the site-restricted search returned no bynum.house.gov pages at all (the search engine ignored the site restriction). Kept from the earlier attempt: the bynum.house.gov press release listing pages 0 to 15 (about 28 January 2025 to 10 November 2026; the oldest page, roughly January 2025, was not opened) were checked by title and excerpt, and none was about AI. Two releases mention data centers only in the context of energy costs, and neither mentions AI: the 12 February 2026 'Affordability Agenda' (https://bynum.house.gov/media/press-releases/rep-bynum-unveils-affordability-agenda-lower-costs) and the 10 July 2026 electricity price transparency bill release (https://bynum.house.gov/media/press-releases/congresswoman-bynum-introduces-legislation-improve-electricity-price). These are not statements about AI, so they were not recorded. The 22 May 2025 release on the reconciliation bill does not mention the proposed moratorium on state AI laws. Ban Artificial Superintelligence Act (H.R. 10538, introduced 23 September 2026 by Rep. Casar, per search results): no search result named Bynum as a co-sponsor, but the congress.gov co-sponsor page returned HTTP 403 and could not be opened, so co-sponsorship is not confirmed either way; a reviewer may want to check that list."
+}

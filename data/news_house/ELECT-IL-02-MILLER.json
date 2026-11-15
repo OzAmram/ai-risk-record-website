@@ -1,0 +1,36 @@
+{
+  "bioguide": "ELECT-IL-02-MILLER",
+  "member": "Donna Miller",
+  "searches": [
+    "Donna Miller Cook County commissioner artificial intelligence",
+    "Donna Miller Congress IL-02 AI safety",
+    "\"Donna Miller\" superintelligence OR \"artificial general intelligence\"",
+    "\"Donna Miller\" AI extinction OR \"existential risk\"",
+    "\"Donna Miller\" AI pause OR moratorium OR \"data center\"",
+    "\"Donna Miller\" China AI agreement OR treaty"
+  ],
+  "statements": [
+    {
+      "date": "2026-11-14",
+      "venue": "Campaign website, Priorities page (undated)",
+      "quote": "Artificial Intelligence has the potential to change our day-to-day lives, which means we need strong and thoughtful federal regulation. In the absence of a robust federal framework, states should be able to regulate AI based on the needs of their communities.",
+      "context": "Her campaign's 'AI, Tech, and Innovation' priority, covering AI leadership, federal and state regulation, child safety with chatbots, chip export controls, workers and data center disclosure.",
+      "source_label": "Donna Miller for Congress campaign site",
+      "url": "https://donnaforcongress.com/priorities",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Calls for AI regulation for everyday, child-safety, labor and data center reasons, but does not acknowledge catastrophic risk from AI."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI; her data center text asks for disclosure of environmental, community and job impacts, not a moratorium tied to AI risk.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found; she supports export controls on advanced AI chips, which is not coordination with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only AI material found is the campaign priorities page, which supports AI regulation for child safety, workers and data center transparency but does not mention catastrophic risk.",
+  "notes": "The campaign priorities page carries no date; the statement date given (2026-11-14) is the date the page was read, and the text was presumably written during the 2026 campaign. Quote checked against the page text fetched directly. All six searches ran (none refused). Searches found no news, interview or Cook County Board statement by her on AI risk, superintelligence, extinction, a pause, or China talks; results mostly concerned other people named Miller (Geoffrey Miller, Joseph Miller, Rep. Mary Miller of Illinois, a different person). A petition lists her among Cook County commissioners deciding on a jail AI surveillance contract, but no source showed her vote or words, so it is not recorded. As a non-member she could not have co-sponsored the Ban Artificial Superintelligence Act. A WTTW 2026 candidate questionnaire (news.wttw.com/node/55034) could not be opened (403); search snippets of it did not mention AI."
+}

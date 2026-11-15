@@ -1,0 +1,23 @@
+{"bioguide": "M000871", "member": "Tracey Mann",
+ "searches": [
+  "site:mann.house.gov artificial intelligence",
+  "\"Tracey Mann\" superintelligence",
+  "\"Tracey Mann\" AI extinction OR existential risk",
+  "\"Tracey Mann\" AI pause OR slowdown OR moratorium",
+  "\"Tracey Mann\" China AI agreement OR treaty",
+  "\"Tracey Mann\" \"AI safety\"",
+  "Rep. Tracey Mann artificial intelligence Kansas",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Rep. Mann about AI was found in eight web searches or on his official press release and news pages. His only AI-adjacent item is a road safety bill whose release quotes him on data-driven tools, not AI.",
+ "notes": "All six required web searches ran this time, plus two more (a general search on his name with artificial intelligence, and a search for House cosponsors of the Ban Artificial Superintelligence Act). The site:mann.house.gov search returned no pages from his site, and none of the name searches returned any page mentioning him in connection with superintelligence, extinction or existential risk, a pause or slowdown, a China agreement, or AI safety. Ban Artificial Superintelligence Act: the House version (H.R. 10538, introduced by Rep. Greg Casar, September 2026) is reported by Forkast, Quiver Quantitative and FastDemocracy with Democratic cosponsors only; none of these sources lists Mann, so there is no evidence he co-sponsored it (I did not open the congress.gov cosponsor list). I found no House letter on AI risk led by him. Kept from the earlier attempt (pages opened then, not re-opened this time): mann.house.gov home page, press releases pages 0-2 (1 October 2026 back to 30 September 2025) and the first In the News page (10 December 2025 back to 20 September 2025) had no AI-related titles, and the issues menu has no technology or AI section; the site search page returned HTTP 403. The only AI-related item is the 19 December 2025 release on the Roadway Safety Modernization Act (with Rep. Sharice Davids), https://mann.house.gov/media/press-releases/rep-mann-introduces-bill-leverage-predictive-analytics-modernize-roadway . Outside groups quoted in it mention artificial intelligence among road-safety technologies, but Mann's own quoted statement mentions only data-driven tools, not AI, and it is not about AI risk, so it is not recorded. Hearing remarks and floor speeches were not checked beyond what the searches would surface."
+}

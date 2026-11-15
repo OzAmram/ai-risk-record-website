@@ -1,0 +1,106 @@
+{
+  "bioguide": "C001072",
+  "member": "André Carson",
+  "searches": [
+    "André Carson artificial intelligence site:carson.house.gov",
+    "\"André Carson\" superintelligence",
+    "\"André Carson\" AI extinction existential risk",
+    "\"André Carson\" AI pause slowdown moratorium",
+    "\"André Carson\" China AI agreement treaty",
+    "\"André Carson\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-23",
+      "venue": "Hearing held by Democrats on the House Select Committee on the Chinese Communist Party (remarks quoted in press release)",
+      "quote": "But we know that AI can make those threats easier to carry out and potentially much more dangerous.",
+      "context": "At a hearing on a U.S.-China agreement to pace AI development, Carson said existing laws cover cyberattacks and biological weapons but AI can make those threats more dangerous.",
+      "source_label": "Carson press release",
+      "url": "https://carson.house.gov/media/press-releases/carson-questions-witnesses-ai-safeguards-military-and-intelligence-systems",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "misuse_only"
+      ],
+      "reason": "He says AI could make biological weapons and cyberattacks much more dangerous, a catastrophic harm limited to misuse by people, so C under the misuse-only ruling."
+    },
+    {
+      "date": "2026-09-17",
+      "venue": "Press release statement",
+      "quote": "There is ample evidence of cybersecurity concerns, surveillance, and the risk of rogue AI agents. Instead of addressing these concerns, Speaker Johnson is giving a free pass to tech companies. The pace of AI development means these are urgent concerns.",
+      "context": "His own statement accompanying the House Democrats' letter urging Speaker Johnson to keep the House in session to pass AI safeguards.",
+      "source_label": "Carson press release",
+      "url": "https://carson.house.gov/media/press-releases/carson-demands-congress-stay-session-confront-ai-crisis",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He names rogue AI agents as a risk but states only cybersecurity and surveillance harms and no catastrophic consequence, so D under the rogue-AI ruling, close to C."
+    },
+    {
+      "date": "2026-09-23",
+      "venue": "Hearing held by Democrats on the House Select Committee on the Chinese Communist Party (remarks quoted in press release)",
+      "quote": "Some decisions are simply too important to hand over to a machine…As AI moves deeper into our national security systems, where should we draw a hard line and say a human has to make the decision?",
+      "context": "Questioning witnesses about the administration putting advanced AI into military and intelligence systems.",
+      "source_label": "Carson press release",
+      "url": "https://carson.house.gov/media/press-releases/carson-questions-witnesses-ai-safeguards-military-and-intelligence-systems",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Human control over AI in military and national security decisions is military use, which the rubric grades D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "He co-sponsored the AI Data Center Moratorium Act (June 2026), but his own stated reasons are household costs, jobs and guardrails for neighborhoods, not risks from AI itself, so none under the rubric (same treatment as other co-sponsors in this project). The bill summary on his page does mention AI that 'destroys the planet'; reviewer may reconsider.",
+      "sources": [
+        [
+          "Carson press release, 29 June 2026",
+          "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause on frontier AI. The data center moratorium is not counted (see slowdown). He is not among the original co-sponsors of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "He questioned witnesses at the 23 September 2026 hearing whose stated purpose was calling for a U.S.-China agreement to pace AI development, but none of his quoted words endorse such an agreement. His April 2026 hearing remarks call for working with allies against China, which does not count.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Joined colleagues in introducing (co-sponsoring) the AI Data Center Moratorium Act of 2026, a pause on new AI data centers until safeguards are in place; his stated reasons are costs and jobs.",
+      "Carson press release, 2026-06-29",
+      "https://carson.house.gov/media/press-releases/carson-introduces-data-center-moratorium-bill"
+    ],
+    [
+      "Introduced the AI Data Center Site Selection Transparency Act of 2026 (community notice and disclosure for data centers).",
+      "Carson press release, 2026-04-27",
+      "https://carson.house.gov/media/press-releases/carson-introduces-bill-stop-surprise-ai-data-center-developments"
+    ],
+    [
+      "Questioned witnesses (including Geoffrey Hinton) at a Select Committee Democrats' hearing calling for a U.S.-China agreement to pace AI development.",
+      "Carson press release, 2026-09-23",
+      "https://carson.house.gov/media/press-releases/carson-questions-witnesses-ai-safeguards-military-and-intelligence-systems"
+    ],
+    [
+      "Gave the Democratic opening statement at the Select Committee hearing 'China's Campaign to Steal America's AI Edge', focused on competition, chip smuggling and immigration.",
+      "Carson press release, 2026-04-16",
+      "https://carson.house.gov/media/press-releases/transcript-representative-andre-carsons-opening-statement-hearing-chinas"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His strongest 2026 statement says AI can make biological weapons and cyberattacks much more dangerous, which is misuse only and so C; his rogue-AI remark names only cybersecurity and surveillance harms (D).",
+  "notes": "All six required web searches ran in this second attempt (the first attempt's searches were all refused). They found nothing new beyond his official site: no interviews, op-eds or news reports with his own words on superintelligence, extinction, a pause, a China agreement or AI safety; several 'AI safety' results concern Brad Carson (Americans for Responsible Innovation), a different person, and were ignored. The first attempt read the official site directly: press releases from Nov 2026 back to Jan 2025 (8 listing pages), the In the News page and Statements for the Record; only the items above concerned AI. In this attempt the 17 and 23 September 2026 press releases were re-opened and the quoted sentences confirmed. He signed the 15/17 September 2026 letter to Speaker Johnson (107 House Democrats; the press release quotes its text, including 'catastrophic risks posed by advanced artificial intelligence'); per instructions that letter is left out and handled centrally, and only his own quoted statement is included. The 23 September press release paraphrases him as raising 'the alarm on the potential need for new regulatory frameworks for AI in cyberattacks and biological weapons'; not used as a quote. Ban Artificial Superintelligence Act (H.R. 10538, 24 Sept 2026): he is not among the original co-sponsors in the introduced text on govinfo.gov; congress.gov (later co-sponsors) returned 403 again, so later co-sponsorship could not be checked; no search result linked him to the bill. His June 2026 moratorium remarks (costs, jobs) are graded D and not listed as a statement because the three D slots went to closer remarks; the moratorium press release also quotes Sanders and Ocasio-Cortez on 'the future of humanity' and 'existential harm', which are not his words."
+}

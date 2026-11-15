@@ -1,0 +1,60 @@
+{
+  "bioguide": "H001085",
+  "member": "Chrissy Houlahan",
+  "searches": [
+    "site:houlahan.house.gov artificial intelligence",
+    "Chrissy Houlahan \"AI safety\"",
+    "Houlahan superintelligence",
+    "Chrissy Houlahan AI extinction existential risk",
+    "Chrissy Houlahan AI pause slowdown moratorium",
+    "Chrissy Houlahan China AI agreement treaty"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-22",
+      "venue": "Press release on a letter to Defense Secretary Hegseth (with Rep. Whitesides)",
+      "quote": "Anthropic’s announcement of the incredible and dangerous capabilities of their new model highlights the importance and value of public-private partnerships in ensuring our continued security in cyberspace",
+      "context": "She and Rep. Whitesides asked the Pentagon to explain the cybersecurity gap created by its supply chain risk designation of Anthropic, after Anthropic's Mythos model showed advanced hacking capabilities.",
+      "source_label": "Houlahan House press release",
+      "url": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=5009",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "She calls the new model's capabilities dangerous, but the only harm discussed is cybersecurity and military capability, which the rubric grades D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Sent a letter with Rep. George Whitesides asking Defense Secretary Hegseth to explain the cybersecurity cost of designating Anthropic a supply chain risk and to re-engage with the company.",
+      "Houlahan House press release, 22 April 2026",
+      "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=5009"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Her only statement in her own words about AI since January 2025 (22 April 2026) calls Anthropic's new model's capabilities dangerous but discusses only cybersecurity and military capability, not catastrophic risk, so it is D. Six web searches found no statement by her on superintelligence, extinction, a pause or slowdown, or an AI agreement with China.",
+  "notes": "All six required web searches ran this time (an earlier attempt had all searches refused). None returned a statement by Houlahan on AI risk: the site-restricted search returned no houlahan.house.gov pages, and the superintelligence, extinction, pause and China searches returned nothing naming her. The 'AI safety' search found an EqualAI podcast episode with her ('How do we prepare Congress for the age of AI?', https://equalai.transistor.fm/episodes/rep-chrissy-houlahan-d-pa-how-do-we-prepare-congress-for-the-age-of-ai); the page dates it 3 May 2023, before the period covered, and has no transcript, so it is left out. The earlier attempt also opened houlahan.house.gov directly: the home page, the issues page (no technology or AI issue page), and all 160 press releases on listing pages 1 to 16 (https://houlahan.house.gov/news/documentquery.aspx?DocumentTypeID=27&Page=1 to 16, covering about September 2024 to 9 October 2026), each scanned for AI terms. The 22 April 2026 release (DocumentID=5009) was re-opened this time and the date and wording confirmed; the quote ends at 'cyberspace' (the trailing punctuation was dropped). Hearing remarks and floor speeches were not checked separately. Left out as not her own words: the 17 January 2025 release (DocumentID=4382) says in the press office's words that her subcommittee oversees Defense Department policy including artificial intelligence; the 17 July 2025 release on defense biotechnology (DocumentID=4686) mentions AI only in a quote from someone else and in a list of bill sections (for example 'Biological Data for Artificial Intelligence'). Her 14 September 2026 Biosecurity Modernization and Innovation Act release (DocumentID=5193), on screening DNA synthesis orders so bad actors cannot make dangerous pathogens, does not mention AI. In the 22 April 2026 statement she also says the administration has weakened 'efforts to hold AI companies accountable over trust and safety concerns', which is still D. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar on 23 September 2026): Casar's press release (https://casar.house.gov/media/press-releases/news-casar-sanders-introduce-legislation-create-new-federal-agency-ban, opened in the earlier attempt) does not name Houlahan and lists no cosponsors; the Congress.gov cosponsor page returned 403 again this time, so her cosponsorship is unverified (no source shows it). No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

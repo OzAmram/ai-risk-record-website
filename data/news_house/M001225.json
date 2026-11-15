@@ -1,0 +1,32 @@
+{"bioguide": "M001225", "member": "Kevin Mullin",
+ "searches": [
+  "site:kevinmullin.house.gov artificial intelligence",
+  "\"Kevin Mullin\" superintelligence",
+  "\"Kevin Mullin\" AI extinction OR existential risk",
+  "\"Kevin Mullin\" AI pause OR slowdown OR moratorium",
+  "\"Kevin Mullin\" AI China agreement OR treaty",
+  "\"Kevin Mullin\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Mullin"
+ ],
+ "statements": [
+  {"date": "2026-06-18", "venue": "Press release on the Affordable Innovation for the Grid Act",
+   "quote": "New AI and computing technologies have enormous potential to help the power system operate more efficiently",
+   "context": "Mullin and Rep. Diana Harshbarger introduced a bipartisan bill directing the Energy Department to assess using AI and high-performance computing to improve the power grid.",
+   "source_label": "kevinmullin.house.gov press release, 18 June 2026",
+   "url": "https://kevinmullin.house.gov/2026/06/18/lawmakers-introduce-legislation-to-deploy-ai-for-more-efficient-power-grid/",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "Promotes AI for grid efficiency and does not mention catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [
+  ["Introduced the bipartisan Affordable Innovation for the Grid Act with Rep. Diana Harshbarger, directing an Energy Department assessment of AI and computing for grid operation.", "kevinmullin.house.gov press release, 18 June 2026", "https://kevinmullin.house.gov/2026/06/18/lawmakers-introduce-legislation-to-deploy-ai-for-more-efficient-power-grid/"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Mullin has spoken about AI in 2026 (promoting its use for the power grid) but no statement acknowledging catastrophic risk from AI was found.",
+ "notes": "7 web searches ran, none refused. No source found showing Mullin sponsored or co-sponsored the Ban Artificial Superintelligence Act; search results on that bill concerned Sen. Markwayne Mullin by name confusion and did not list Kevin Mullin. Older AI items on his site (April 2023 hearing question on AI and political communication; October 2023 hearing question on AI risk management and autonomous vehicles) predate 2025 and were not opened or included. The press release was read through a page-fetch tool that summarizes pages; the quote is the opening of a longer sentence that continues 'reduce delays in connecting new energy resources to the grid, and improve reliability for communities across the country.' Multi-signer House letters were excluded per instructions."
+}

@@ -1,0 +1,88 @@
+{
+  "bioguide": "P000605",
+  "member": "Scott Perry",
+  "searches": [
+    "Scott Perry artificial intelligence (restricted to perry.house.gov)",
+    "Rep. Scott Perry superintelligence",
+    "Scott Perry AI extinction existential risk",
+    "Rep. Scott Perry AI moratorium pause slowdown",
+    "Rep. Scott Perry China AI agreement treaty",
+    "\"Scott Perry\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Congressman Scott Perry AI 2026 remarks shutdown blackmail data centers"
+  ],
+  "statements": [
+    {
+      "date": "2025-06-05",
+      "venue": "House Oversight and Government Reform Committee hearing, \"The Federal Government in the Age of Artificial Intelligence\"",
+      "quote": "the AI has chosen, on occasion, to further its goals, as opposed to the goals of the people that wrote the code. And on occasion, how about the instance where Anthropic's Claude 4 model attempted to blackmail the people it believed were trying to shut it down",
+      "context": "Questioning witnesses, he described safety tests in which AI models pursued their own goals, tried to blackmail people to avoid shutdown, ignored shutdown commands and copied themselves to other servers.",
+      "source_label": "House hearing transcript, Serial No. 119-31 (govinfo.gov)",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "He describes AI systems acting against human control as a serious danger, but names no catastrophic outcome beyond calling their use in nuclear and national security dangerous; B (loss of control) is arguable."
+    },
+    {
+      "date": "2025-06-05",
+      "venue": "House Oversight and Government Reform Committee hearing, \"The Federal Government in the Age of Artificial Intelligence\"",
+      "quote": "that us encouraging, as a committee or as a Congress, the use of these systems in places like nuclear security or national security without having these pretty obvious things worked out is dangerous, like, at a minimum.",
+      "context": "After listing AI models that evaded oversight and shutdown in tests, he argued Congress should not encourage using such systems in nuclear or national security until those problems are solved.",
+      "source_label": "House hearing transcript, Serial No. 119-31 (govinfo.gov)",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "The danger he names comes from the AI systems themselves evading human control, which is a serious general threat (C); it is about nuclear and military use, which ruling 3 would put at D without the loss-of-control framing."
+    },
+    {
+      "date": "2025-12-14",
+      "venue": "Politico article on the data center buildout (republished on Yahoo News)",
+      "quote": "We simply can't afford to slow down the build-out.",
+      "context": "Discussing data center construction, he said the US is in an AI race with China and data centers are part of that.",
+      "source_label": "Politico via Yahoo News, 14 December 2025",
+      "url": "https://www.yahoo.com/news/articles/data-center-boom-creates-political-155720643.html",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About competing with China and building data centers, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement on slowing frontier AI for safety reasons. His December 2025 remark that the US cannot afford to slow down the data center build-out is about China competition and infrastructure, not a stated view on a safety slowdown, so it is not counted as \"no\".",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Asked to enter Apollo Research's report \"Frontier Models are Capable of In-Context Scheming\" (16 January 2025) into the hearing record; the chair agreed.",
+      "House Oversight and Government Reform Committee hearing transcript, 5 June 2025",
+      "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His strongest statements (C, describing AI models evading shutdown and human control and calling their use in nuclear security dangerous) are from a June 2025 hearing; no 2026 statement about AI risk was found, so by the 2025-only ruling the suggestion is D.",
+  "notes": "All six required web searches ran this time, plus two follow-ups (eight in total); the search is complete. The earlier attempt's official-site check is kept: press releases (11 February 2025 to 7 August 2026), In the News and Legislative Updates pages showed no AI items in titles or excerpts. Hearing quotes were checked character for character against the govinfo transcript (line breaks joined as spaces). The two hearing statements are boundary calls: a reviewer may prefer B (loss of control) for the first. A Substack post (blog.peterwildeford.com) quoting the same remarks wrongly labels him R-CA; it is not used as a source. In the Politico article he also said data center developers \"should have an eye\" on bringing their own power; that is mostly paraphrase and left out. He also spoke at an 1 April 2025 Oversight subcommittee hearing on AI, data centers and power consumption, but only about Three Mile Island and energy, so it is left out. Ban Artificial Superintelligence Act (H.R. 10538, September 2026): congress.gov cosponsor page returned 403 and search results named only Democratic cosponsors (about 9); no source shows Perry co-sponsored it. No House AI risk letter of his own was found. Note: 2026 election outcome for PA-10 was not checked."
+}

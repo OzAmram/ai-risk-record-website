@@ -1,0 +1,76 @@
+{
+  "bioguide": "V000138",
+  "member": "Eugene Simon Vindman",
+  "searches": [
+    "Vindman artificial intelligence site:vindman.house.gov",
+    "Eugene Vindman superintelligence",
+    "Eugene Vindman AI extinction existential risk",
+    "Eugene Vindman AI pause slowdown moratorium",
+    "Eugene Vindman China AI agreement treaty",
+    "\"Eugene Vindman\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors Vindman"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-14",
+      "venue": "Press release introducing the Make Data Centers Pay Act",
+      "quote": "As data centers and artificial intelligence drive growing demand for electricity, we need to make sure the companies benefiting from that growth pay their fair share.",
+      "context": "Introducing a bill requiring large data centers to pay the full incremental cost of their electricity use so households do not.",
+      "source_label": "House press release (vindman.house.gov), 14 October 2026",
+      "url": "https://vindman.house.gov/2026/10/14/vindman-introduces-make-data-centers-pay-act-to-protect-virginians-from-rising-electricity-costs/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI-driven electricity costs and data centers, which the rubric places out of scope for catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found; his data center bills are about electricity costs, not risks from AI itself.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Introduced the Make Data Centers Pay Act, requiring data centers of 20 megawatts or more to pay the incremental cost of their electricity use (cost-of-living bill, not AI safety).",
+      "House press release, 14 October 2026",
+      "https://vindman.house.gov/2026/10/14/vindman-introduces-make-data-centers-pay-act-to-protect-virginians-from-rising-electricity-costs/"
+    ],
+    [
+      "Supported legislation ending tax breaks for data center construction, framed around utility costs.",
+      "House press release, 16 September 2026",
+      "https://vindman.house.gov/2026/09/16/vindman-leads-on-legislation-to-make-data-centers-pay-their-fair-share/"
+    ],
+    [
+      "Sponsored the AI Sovereignty Act of 2025 (H.R. 5288), part of a tech-leadership package directing the Commerce Department to track offshore AI development (competition and supply chains, not AI safety).",
+      "AIP bill profile and House press release, 10 and 24 September 2025",
+      "https://vindman.house.gov/?p=35461"
+    ],
+    [
+      "Sponsored the China AI Threat Assessment Act of 2025 (H.R. 6909, introduced 18 December 2025) and the China AI Power Report Act of 2025 (H.R. 6275, advanced by House Foreign Affairs Committee 21 January 2026); both concern competition with China, not catastrophic AI risk.",
+      "AIP congressional bill profile",
+      "https://www.aip.org/eugene-vindman"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remark found in 2026 is about data centers and electricity bills, and his AI bills concern competition with China; nothing on catastrophic AI risk was found.",
+  "notes": "All 6 required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 total). None returned any statement by Eugene Vindman on superintelligence, extinction, a pause or slowdown, a China AI agreement, or AI safety; AI-safety hits on 'Vindman' were about his twin brother Alex Vindman (Florida Senate candidate), not him. Ban Artificial Superintelligence Act (H.R. 10538 / S. 5493, Sanders and Casar, September 2026): no source found listing him as a co-sponsor; congress.gov cosponsor list was not opened, so this is not confirmed either way. Earlier run also opened vindman.house.gov directly (site search for 'artificial intelligence', 'AI', 'superintelligence'; press releases of 14 Oct, 16 Sep, 29 Oct, 7 Oct 2026); this run opened the 24 Sep 2025 tech package release (his quotes there do not mention AI) and the National Security press list (no AI items). AI bill details come from the AIP profile page (aip.org/eugene-vindman), read at source; one search snippet gave H.R. 5287 for the AI Sovereignty Act but the AIP page says H.R. 5288. The multi-member House letters were not searched for, per instructions."
+}

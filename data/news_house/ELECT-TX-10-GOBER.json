@@ -1,0 +1,25 @@
+{
+  "bioguide": "ELECT-TX-10-GOBER",
+  "member": "Chris Gober",
+  "searches": [
+    "Chris Gober Texas 10th district artificial intelligence",
+    "Chris Gober \"AI safety\"",
+    "Chris Gober superintelligence",
+    "Chris Gober AI extinction OR existential risk",
+    "Chris Gober AI pause OR moratorium OR slowdown OR regulation",
+    "Chris Gober China AI agreement OR treaty",
+    "Gober campaign website AI scrubbed Axios \"artificial intelligence\" Gober said",
+    "\"Chris Gober\" \"Ensuring America's AI Dominance\""
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI; his campaign site speaks only of outcompeting China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in Gober's own words about AI was found from 2025 onward; his current campaign site does not mention AI. Reports say an earlier version of the site had a pro-AI section titled \"Ensuring America's AI Dominance\", which would at most be level D, but its wording could not be seen.",
+  "notes": "Eight web searches ran; none were refused. Axios (26 October 2026, https://www.axios.com/local/austin/2026/10/26/chris-gober-musk-lawyer-congress-ai) reported that Gober removed a section titled \"Ensuring America's AI Dominance\" from his campaign site; the page returned 403 and the section's text was not found, so nothing was quoted. In that report his campaign manager Zach Gregory (not Gober) said the campaign stands by its positions including on AI; this is a staff statement, seen only in a search summary, and is left out. The current campaign site (https://www.chrisgober.com/, read 14 November 2026) talks of boosting investment in defense and technology and outcompeting China, with no mention of AI. The American Prospect (10 September 2026, https://prospect.org/2026/09/10/elon-musk-lawyer-chris-gober-texas-maps-ai-congress/) describes his law firm's affiliated advisory firm for AI, data center and defense startups, but quotes nothing from him on AI. A super PAC network opposing AI regulation (via American Mission PAC) spent about $750,000 supporting him, per Texas Tribune and Axios search summaries; this is spending, not his statement. A reviewer could treat the removed AI-dominance section as evidence for D if its text can be recovered. The Ban Artificial Superintelligence Act is a congressional bill and he was not a member, so he could not have co-sponsored it."
+}

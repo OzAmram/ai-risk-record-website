@@ -1,0 +1,24 @@
+{
+  "bioguide": "U000040",
+  "member": "Lauren Underwood",
+  "searches": [
+    "Lauren Underwood artificial intelligence site:underwood.house.gov",
+    "\"Lauren Underwood\" \"AI safety\"",
+    "\"Lauren Underwood\" superintelligence",
+    "\"Lauren Underwood\" AI extinction OR existential risk",
+    "\"Lauren Underwood\" AI pause OR slowdown OR moratorium",
+    "\"Lauren Underwood\" China AI agreement OR treaty",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found; she is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI was found in her official press releases or in news searches on AI safety, superintelligence, extinction risk, a pause or slowdown, or a China agreement.",
+  "notes": "All 6 required web searches ran, plus 1 on the Ban Artificial Superintelligence Act cosponsors (7 total). None returned a statement by Lauren Underwood about AI; the site-restricted search returned only unrelated underwood.house.gov pages (appropriations, Homeland Security subcommittee role, veterans and transportation bills). Ban Artificial Superintelligence Act: FastDemocracy's page for H.R. 10538 (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and she is not among them; congress.gov was not checked directly. Two House Oversight AI hearing transcripts from 2025 that appeared in results (govinfo CHRG-119hhrg61734, CHRG-119hhrg60818) were opened; she is not on that committee and does not speak in them (the second was read only in part). From the earlier attempt, still valid: underwood.house.gov press release listing pages (https://underwood.house.gov/media/press-releases, ?page=1 to ?page=5) covering 7 July 2025 to 13 October 2026 were opened and no release title or visible excerpt mentioned artificial intelligence; full release texts were not opened, so a passing mention cannot be ruled out, and releases from 1 January to 6 July 2025 were not checked. The official site search page returned HTTP 403. Not checked in depth: her hearing remarks in the Appropriations Homeland Security subcommittee and floor speeches."
+}

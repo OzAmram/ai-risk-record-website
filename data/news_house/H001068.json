@@ -1,0 +1,31 @@
+{"bioguide": "H001068", "member": "Jared Huffman",
+ "searches": [
+  "Huffman artificial intelligence site:huffman.house.gov",
+  "Jared Huffman superintelligence",
+  "Jared Huffman AI extinction OR \"existential risk\"",
+  "Jared Huffman AI pause OR slowdown OR moratorium",
+  "Jared Huffman China AI agreement OR treaty",
+  "\"Huffman\" \"AI safety\" congressman",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Huffman",
+  "Rep. Jared Huffman artificial intelligence 2026"
+ ],
+ "statements": [
+  {"date": "2026-09-18", "venue": "Press release statement",
+   "quote": "We need to pump the brakes on the reckless AI buildout, and today's reporting adds another reason to the pile.",
+   "context": "Statement on reporting that the Trump administration plans to put more AI data centers on federal public lands, citing electricity bills, water supply and corporate giveaways.",
+   "source_label": "Huffman press release", "url": "https://huffman.house.gov/media-center/press-releases/huffman-statement-on-trump-administration-plans-to-put-more-data-centers-on-public-lands",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Calls to slow the AI data center buildout for reasons of electricity costs, water and public lands, without acknowledging catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "He said 'pump the brakes on the reckless AI buildout' (18 September 2026), but the reasons given are electricity bills, water and public lands, not risks from AI itself, so under the rubric this is not a slowdown position.", "sources": [["Huffman press release, 18 September 2026", "https://huffman.house.gov/media-center/press-releases/huffman-statement-on-trump-administration-plans-to-put-more-data-centers-on-public-lands"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [
+  ["Co-led with Rep. Dina Titus a letter from 16 House Democrats demanding answers on Trump administration plans to open public lands to AI data centers (concerns: electricity costs, grid strain, lack of public input; no AI risk mentioned).", "Huffman press release, 2026-09-24", "https://huffman.house.gov/media-center/press-releases/huffman-titus-lead-colleagues-in-demanding-answers-on-trump-admin-plans-to-open-public-lands-to-ai-datacenters"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 remarks on AI are about data centers on public lands, electricity bills and water; nothing found acknowledges catastrophic risk from AI. No A, B, C or F statement was found.",
+ "notes": "Eight web searches ran, none refused; none surfaced any Huffman statement on superintelligence, extinction, AI safety, a pause, or a China agreement. The site-restricted search returned no huffman.house.gov pages, so I opened his press release index directly (page 1 of 74, 11 Nov back to 8 Sep 2026) and found only the two data center releases (18 and 24 September 2026). Earlier pages of the index were not checked. The quote was read through a page-fetch tool that returns text in pieces; the apostrophe in \"today's\" may be a curly apostrophe at the source. Search results did not show Huffman as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538, lead sponsor Rep. Greg Casar), but I did not open the congress.gov cosponsor list. A 18 September 2026 release with Ranking Members Robert Garcia and Gregory Meeks ('Demand Answers...') was seen only by title, which was truncated; I did not open it, and it may relate to the centrally handled 18 September letter or to another topic. The 24 September letter is a data center letter, not an AI risk letter, so it is listed in record only."}

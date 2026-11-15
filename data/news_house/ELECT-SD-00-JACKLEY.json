@@ -1,0 +1,66 @@
+{
+  "bioguide": "ELECT-SD-00-JACKLEY",
+  "member": "Marty Jackley",
+  "searches": [
+    "Marty Jackley artificial intelligence",
+    "Jackley AI safety attorney general South Dakota",
+    "Marty Jackley superintelligence",
+    "Jackley AI extinction OR existential risk OR \"loss of control\"",
+    "Marty Jackley AI pause OR moratorium OR slowdown",
+    "Marty Jackley China AI agreement",
+    "site:atg.sd.gov artificial intelligence",
+    "Jackley congress campaign artificial intelligence 2026"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-15",
+      "venue": "Statement on a multistate attorneys general court filing in the Character.AI bankruptcy",
+      "quote": "Protection of South Dakotans, especially children, from online threats is one of my highest priorities",
+      "context": "Jackley joined 40 attorneys general asking the bankruptcy court to protect user data and child safety if Character.AI's assets are sold.",
+      "source_label": "Dakota News Now, 15 October 2026",
+      "url": "https://www.dakotanewsnow.com/2026/10/15/jackley-joins-ags-seeking-consumer-protections-characterai-bankruptcy/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About child safety and privacy with an AI chatbot company; no catastrophic risk acknowledged."
+    },
+    {
+      "date": "2025-08-26",
+      "venue": "Press release on a 44-state attorneys general letter to AI companies",
+      "quote": "I will not allow AI to threaten the safety and well-being of our children",
+      "context": "Jackley joined 43 other attorneys general demanding AI companies stop exposing children to harmful chatbot interactions.",
+      "source_label": "Yahoo News (South Dakota Searchlight), 26 August 2025",
+      "url": "https://www.yahoo.com/news/articles/south-dakota-joins-43-states-144116546.html",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter"],
+      "reason": "About harm to children from AI chatbots, which is outside the scope of catastrophic risk."
+    },
+    {
+      "date": "2025-05-16",
+      "venue": "Attorney General press release",
+      "quote": "AI has its benefits, but left unchecked, it could lead to real dangers to the public",
+      "context": "Jackley and other attorneys general opposed a proposed 10-year federal ban on states enforcing AI laws; the sentence continues by listing explicit material, election interference, deception, exploitation and harassment of consumers.",
+      "source_label": "South Dakota Attorney General press release, 16 May 2025",
+      "url": "https://atg.sd.gov/OurOffice/Media/pressreleasesdetail.aspx?id=2838",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["cosigned_letter"],
+      "reason": "The dangers he names are explicit material, election interference, fraud and harassment, none of them catastrophic."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI. His opposition to a federal ban on state AI laws (2025) is about state regulatory power, not slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [
+    ["Joined 40 attorneys general opposing a proposed 10-year federal ban on state enforcement of AI laws.", "South Dakota Attorney General press release, 16 May 2025", "https://atg.sd.gov/OurOffice/Media/pressreleasesdetail.aspx?id=2838"],
+    ["Joined a 44-state attorneys general letter demanding AI companies protect children from harmful chatbot interactions.", "Yahoo News (South Dakota Searchlight), 26 August 2025", "https://www.yahoo.com/news/articles/south-dakota-joins-43-states-144116546.html"],
+    ["Joined a bipartisan 40-attorney-general filing in the Character.AI bankruptcy seeking protection of user data and child safety.", "Dakota News Now, 15 October 2026", "https://www.dakotanewsnow.com/2026/10/15/jackley-joins-ags-seeking-consumer-protections-characterai-bankruptcy/"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "As South Dakota Attorney General he has spoken about AI repeatedly, including in 2026, but only about children's safety, fraud, privacy and state regulatory power; nothing found acknowledges catastrophic risk.",
+  "notes": "8 web searches ran, none refused. No campaign site found and no statements found on superintelligence, extinction, loss of control, a pause, China talks or self-improving AI. As a representative-elect he could not have co-sponsored the Ban Artificial Superintelligence Act and did not sign the House letters. A PBS Books segment 'Seeking Common Ground: Artificial Intelligence with Attorney General Marty Jackley' (12 February 2025, https://www.wgbh.org/tv-shows/book-view-now/seeking-common-ground-artificial-intelligence-with-attorney-general-marty-jackley-pcbi8q) was found, but the page has only a paraphrase (he wants AI used legitimately and not to defraud citizens), so it is left out of statements. The 16 May 2025 quote is the first part of a longer sentence; the fetch tool did not return the whole sentence verbatim, so only the opening clause is quoted and the listed harms are given in context. Searches also returned older items (2023-2024: AI child sexual abuse material legislation, AI robocalls) outside the period."
+}

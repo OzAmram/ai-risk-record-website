@@ -1,0 +1,134 @@
+{
+ "bioguide": "ELECT-MI-07-LAWRENCE",
+ "member": "Will Lawrence",
+ "searches": [
+  "Will Lawrence Michigan 7th district AI artificial intelligence",
+  "\"Will Lawrence\" \"AI safety\"",
+  "\"Will Lawrence\" OR \"William Lawrence\" Michigan superintelligence",
+  "Will Lawrence Michigan congress AI extinction \"humanity\" moratorium advanced AI",
+  "Will Lawrence Michigan AI China treaty agreement",
+  "site:wewill2026.com AI"
+ ],
+ "statements": [
+  {
+   "date": "2026-11-10",
+   "venue": "Democracy Now! interview (as representative-elect)",
+   "quote": "but if everything goes well, we’re going to put 10 or 20 million people out of work, and if it goes poorly, we may kill everybody by accident.” I mean, what are we talking about?",
+   "context": "Asked about his AI and data center agenda after winning, he described what AI developers tell small towns, then called them clearly reckless individuals.",
+   "source_label": "Democracy Now!, 10 November 2026 transcript",
+   "url": "https://www.democracynow.org/2026/11/10/will_lawrence_michigan_data_centers_midterms",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "He relays developers' own admission that AI could kill everybody and endorses the concern by calling them reckless and calling for a pause; A under ruling 2, but the warning is put in developers' mouths sarcastically, so C is the alternative reading."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Campaign news release announcing his Stop Tech Overreach plan",
+   "quote": "These companies are trying to force their way into our towns to build a mass unemployment machine that no one wants and that AI experts worry could wipe out all of humanity.",
+   "context": "Launching his AI and data center plan, he described what Big Tech companies are building in the district.",
+   "source_label": "Michigan Public / Michigan Advance, 18 September 2026",
+   "url": "https://michiganpublic.org/politics-government/2026-09-18/will-lawrence-rolls-out-plan-for-regulating-big-tech-data-centers-in-michigan-and-beyond",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "He cites AI experts' worry that AI could wipe out all of humanity as a reason to fight the companies, which reads as endorsement (ruling 2); C if read as an unendorsed relay."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Campaign policy plan, Stop Tech Overreach Plan (PDF)",
+   "quote": "Now, AI experts are sounding the alarm, warning that their product is at risk of falling out of human control entirely and threatening our safety and the safety of our loved ones.",
+   "context": "Opening of his AI plan, followed by 'We need to STOP this AI buildout' and a call for a moratorium on advanced AI.",
+   "source_label": "Will Lawrence campaign, Stop Tech Overreach Plan, September 2026",
+   "url": "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "relayed_warning",
+    "boundary"
+   ],
+   "reason": "Relays and acts on experts' warning that AI could fall out of human control entirely, a loss-of-control risk from AI itself (B); it stops short of saying the loss is permanent or of extinction, so A is arguable."
+  },
+  {
+   "date": "2026-09-17",
+   "venue": "Campaign policy plan, Stop Tech Overreach Plan (PDF)",
+   "quote": "As tech giants speed forward on building infrastructure to fuel the AI arms race, experts are raising the possibility of rogue AI agents hacking global financial systems, undermining critical infrastructure, and being used to design bioweapons.",
+   "context": "Section 'Pause Advanced AI development', followed by: 'We need an immediate moratorium on the development of advanced AI models to prevent these unacceptable risks.'",
+   "source_label": "Will Lawrence campaign, Stop Tech Overreach Plan, September 2026",
+   "url": "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "misuse_only"
+   ],
+   "reason": "The only catastrophic harm named is AI being used to design bioweapons (misuse, ruling 1); rogue agents hacking financial systems is cybercrime-type harm (ruling 4)."
+  }
+ ],
+ "positions": {
+  "pause": {
+   "value": "yes",
+   "note": "His September 2026 plan calls for 'an immediate moratorium on the development of advanced AI models to prevent these unacceptable risks', and on 10 November 2026 he said he is fighting for 'a pause on advanced AI development'. Campaign plan and interview, not a bill.",
+   "sources": [
+    [
+     "Stop Tech Overreach Plan, September 2026",
+     "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf"
+    ],
+    [
+     "Democracy Now!, 10 November 2026",
+     "https://www.democracynow.org/2026/11/10/will_lawrence_michigan_data_centers_midterms"
+    ]
+   ]
+  },
+  "slowdown": {
+   "value": "yes",
+   "note": "The moratorium on advanced AI models is explicitly to prevent risks including loss of control and bioweapons; a safety-motivated pause counts as yes. He also called for a separate data center moratorium, mostly for local, energy and environmental reasons.",
+   "sources": [
+    [
+     "Stop Tech Overreach Plan, September 2026",
+     "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf"
+    ],
+    [
+     "Democracy Now!, 10 November 2026",
+     "https://www.democracynow.org/2026/11/10/will_lawrence_michigan_data_centers_midterms"
+    ]
+   ]
+  },
+  "intl": {
+   "value": "none",
+   "note": "His plan says the U.S. 'must begin talks with other global powers to negotiate an international treaty on the safe development, management, regulation, and enforcement of AI', but does not name China or pacing/pausing; a reviewer may want to treat this as yes or mixed.",
+   "sources": [
+    [
+     "Stop Tech Overreach Plan, September 2026",
+     "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf"
+    ]
+   ]
+  },
+  "rsi": {
+   "value": "none",
+   "note": "The plan asks for 'self-acceleration guardrails' among AI safety requirements, which is not a ban on self-improving AI.",
+   "sources": [
+    [
+     "Stop Tech Overreach Plan, September 2026",
+     "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Released the 'Stop Tech Overreach Plan' (STOP) calling for a moratorium on advanced AI development and data centers, third-party safety review of new models, self-acceleration guardrails, liability for model escapes, and talks toward an international AI treaty.",
+   "Will Lawrence campaign plan, 17 September 2026",
+   "https://wewill2026.com/wp-content/uploads/2026/09/Michigan-First-AI-Plan.pdf"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "In September and November 2026 he repeatedly cited warnings that AI could wipe out humanity or kill everybody and used them to justify a pause on advanced AI, which counts as endorsed warnings (ruling 2). All his strongest statements relay others' warnings, so the A rests on the endorsement reading; B (loss-of-control plan text) or C are the fallbacks.",
+ "notes": "Representative-elect; no house.gov site. Campaign site is wewill2026.com; the site: search returned nothing from it, but the plan PDF linked from Michigan Public was opened directly. 6 web searches ran, none refused. AP article (ABC/WSB-TV syndication) returned 404 and was not used; Michigan Advance profile of 25 September returned 403. Fox News (dated 1 August 2026) quotes him saying 'there may be a right way to build these data centers and generate super-intelligent AI' and calling for a federal moratorium on new AI data centers; D-level, left out. Democracy Now! interview: he attributes 'this is out of control, it's moving too fast, and we need to slow it down' to residents of his district, not as his own words. No source shows him endorsing the Ban Artificial Superintelligence Act; as a non-member he could not co-sponsor it. Fox News describes him as a DSA member; check not needed for grading. Interview date taken as the Democracy Now! broadcast date. Lawrence is not related to other members named Lawrence (e.g. Rep. Brenda Lawrence, retired); all sources identify him as the MI-07 nominee/Sunrise co-founder."
+}

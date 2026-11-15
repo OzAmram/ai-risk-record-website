@@ -1,0 +1,24 @@
+{
+  "bioguide": "N000188",
+  "member": "Donald Norcross",
+  "searches": [
+    "site:norcross.house.gov artificial intelligence",
+    "Donald Norcross \"AI safety\"",
+    "Norcross superintelligence",
+    "Rep. Donald Norcross AI extinction existential risk",
+    "Norcross artificial intelligence pause moratorium slowdown",
+    "Congressman Norcross China AI agreement treaty",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on an agreement with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI material found is an October 2026 press release paraphrasing his call for a federal strategy to keep AI innovations safe, which does not touch catastrophic risk. No quote of his own about AI was found.",
+  "notes": "All 7 web searches ran this time (the 6 required plus one on Ban Artificial Superintelligence Act cosponsors); none returned any statement by Norcross about AI risk, superintelligence, extinction, a pause or a China agreement. The official-site search returned no norcross.house.gov pages. From the earlier attempt: his press release listing (pages 1 to 6, about 28 June 2026 back to 16 July 2025) had no release about AI, and the 5 June 2026 Armed Services release has no AI mention. Paraphrase left out of statements: the 22 October 2026 release 'Norcross talks cost of living, future of workforce at 124th town hall' (https://norcross.house.gov/media/press-releases/norcross-talks-cost-of-living-future-of-workforce-at-124th-town-hall, reopened this time) mentions 'the need for a federal strategy to keep artificial intelligence innovations safe'; these are the release's words, not a quote of his, and would be D. Ban Artificial Superintelligence Act: the FastDemocracy page for H.R. 10538 (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and Norcross is not among them; not checked against congress.gov, and cosponsors may have been added later. No other House AI letter signed by him was found. Interviews, hearing remarks and floor speeches were not checked beyond these searches. Grade D rests only on the paraphrase; 'none' would also be defensible."
+}

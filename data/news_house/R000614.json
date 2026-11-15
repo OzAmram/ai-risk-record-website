@@ -1,0 +1,67 @@
+{
+  "bioguide": "R000614",
+  "member": "Chip Roy",
+  "searches": [
+    "Chip Roy artificial intelligence (restricted to roy.house.gov)",
+    "Chip Roy superintelligence",
+    "Chip Roy AI extinction existential risk",
+    "Chip Roy AI moratorium pause slowdown",
+    "Chip Roy China AI agreement treaty",
+    "\"Chip Roy\" \"AI safety\"",
+    "Politico Chip Roy exit interview AI \"existential questions\"",
+    "Chip Roy Future of Life Institute event Sanders Bannon Casar AI remarks",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-13",
+      "venue": "Politico exit interview, quoted by the Daily Caller",
+      "quote": "I do think we must have some degree of guardrails and that the same laws and rules that apply to humans are going to have to apply to a world of AI, and there are other existential questions that have to be raised.",
+      "context": "Roy, leaving Congress, discussing what role government should play on AI after tech industry warnings about its dangers.",
+      "source_label": "Daily Caller, 15 September 2026",
+      "url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+      "read_at_source": true,
+      "level": "C",
+      "flags": ["boundary"],
+      "reason": "Says AI raises 'existential questions' that must be addressed and calls for guardrails, a general acknowledgment of serious questions about AI without naming a catastrophic harm; it could also be read as D."
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Politico exit interview, quoted by the Daily Caller",
+      "quote": "I do not believe 'we're going to shut it all down' is either plausible or the best solution.",
+      "context": "Roy rejecting a full shutdown of AI development while saying he has not settled on the proper role of government.",
+      "source_label": "Daily Caller, 15 September 2026",
+      "url": "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Rejects shutting down AI development as a policy but neither acknowledges nor dismisses catastrophic risk."
+    },
+    {
+      "date": "2026-09-13",
+      "venue": "Politico exit interview, quoted by Congress.net",
+      "quote": "You cannot just put your head in the sand on AI and say, 'I hope it works out,'",
+      "context": "Roy urging colleagues to engage with AI policy and criticising tech companies for answering every question with 'but China'.",
+      "source_label": "Congress.net, 13 September 2026",
+      "url": "https://congress.net/departing-rep-chip-roy-warns-congress-that-but-china-is-not-an-ai-policy/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["boundary"],
+      "reason": "Says AI cannot be ignored but names no specific serious or catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI progress for safety reasons; his rejection of a full shutdown is recorded under pause.", "sources": []},
+    "pause": {"value": "no", "note": "In his September 2026 Politico exit interview he said 'we're going to shut it all down' is neither plausible nor the best solution; this is a statement against halting AI development, though he was not asked about a specific pause proposal.", "sources": [["Daily Caller, 15 September 2026", "https://dailycaller.com/2026/09/15/lawmakers-trump-ai-threat-guardrails"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development; he criticised 'but China' as an industry argument against regulation, which is not a position on talks.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Letter to House and Senate Republican colleagues listing end-of-Congress priorities, including 'Protect Against Federal Preemption of State Laws on AI and Online Dangers to Children'", "Rep. Roy press release, 13 July 2026", "https://roy.house.gov/media/press-releases/rep-roy-outlines-what-republicans-must-do-end-119th-congress"],
+    ["Amendment to the defense authorization bill, adopted, removing an AI voice-analysis pilot used to choose servicemembers for drug testing", "Rep. Roy press release, 22 July 2026", "https://roy.house.gov/media/press-releases/rep-roy-votes-against-bloated-115-trillion-ndaa"],
+    ["Spoke at the Future of Life Institute's Pro-Human Assembly in Washington alongside Sanders, Bannon, Blumenthal and Casar", "Newsweek, 15 September 2026", "https://www.newsweek.com/bernie-sanders-steve-bannon-ai-risks-bipartisan-warning-12447015"]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "His strongest 2026 remark says AI raises 'existential questions that have to be raised' and calls for guardrails, a general acknowledgment that sits on the C/D boundary; he also rejected shutting AI down and said he was not an AI 'doomer' (paraphrase only, so not graded F). A reviewer could reasonably set D instead.",
+  "notes": "All nine web searches ran this time (six required plus three follow-ups); none were refused. The Politico exit interview itself (about 13 September 2026) was not found or opened; all Politico quotes come from the Daily Caller and Congress.net, which attribute them to that interview, so the statement date is the interview's reported publication date. Quotes were read through a page-fetch tool that summarises pages; recheck exact wording at the source, especially punctuation of the nested quotation marks. Paraphrases left out of statements: CNBC Squawk Box, 18 September 2026 (https://www.cnbc.com/2026/09/18/chip-roy-ai-congress-regulate.html) reports he said he was not an AI 'doomer' (paraphrase, not a direct quote) and quotes him: 'I don't want to regulate anything... I'm a free market conservative' and 'We have a responsibility to protect our communities and our lives.' An aggregator summary of Politico says he warned colleagues to 'take the threat of AI seriously' and raised questions about whether AI could 'turn over human...' (truncated; wording not verified). At the 15 September 2026 Pro-Human Assembly, reports (Newsweek, TheNextWeb, Scripps) paraphrase him as pushing back on Trump's claim that only the president should decide on AI and describing constituents feeling powerless as data centres were built; one search summary attributes 'We are not supposed to be tools for data collection' to him but no opened page confirmed it. Earlier press releases (13 July 2026 priorities letter on state AI laws and children; 22 July 2026 NDAA statement on an AI voice-analysis pilot) are kept in record rather than statements to respect the three-D limit. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Casar): Roy is not among the 12 cosponsors listed by FastDemocracy (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/). No House letter about AI risk led by him was found; the many-signer August and September 2026 letters were not searched, per instructions. He did not speak at the 18 September 2025 Judiciary subcommittee AI hearing (govinfo transcript checked). Releases on roy.house.gov before December 2025 were not browsed. He is not returning to the House (ran for Texas attorney general)."
+}

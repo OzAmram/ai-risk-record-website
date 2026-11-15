@@ -1,0 +1,25 @@
+{
+  "bioguide": "R000619",
+  "member": "Michael A. Rulli",
+  "searches": [
+    "Rulli artificial intelligence (restricted to rulli.house.gov)",
+    "Michael Rulli superintelligence",
+    "Rulli AI extinction existential risk",
+    "Rulli AI pause slowdown moratorium",
+    "Rep. Rulli China AI agreement treaty",
+    "\"Rulli\" \"AI safety\"",
+    "Mike Rulli Ohio congressman AI artificial intelligence",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI-related material found is a 28 August 2026 Fox Business interview about a planned AI data center in Ohio and competition with China (headline quote: \"China is going to win this war\"), which is outside catastrophic risk (level D). No statement about catastrophic AI risk was found in 2025 or 2026.",
+  "notes": "All six required web searches ran this time, plus two extra (eight in total). None of the six required searches found any statement by Rulli about AI risk, superintelligence, extinction, a pause, or an agreement with China. The search restricted to rulli.house.gov returned no AI-related release; an earlier pass over his newsroom pages (https://rulli.house.gov/newsroom/ and page 2, releases from June 2024 to 16 Sep 2026) also found no release mentioning AI. AI-related item left out of statements: a Whatfinger repost of a Fox Business 'Mornings with Maria' clip dated 28 Aug 2026 (https://money.whatfinger.com/2026/08/28/china-is-going-to-win-this-war-lawmaker-issues-stark-warning-during-data-center-debate/) identifies the speaker as Rep. Michael Rulli (R-Ohio) and says he discussed a planned $500 billion OpenAI/NVIDIA AI data center in Ohio, residents' concerns about infrastructure and costs, and a warning that China will win the technology competition. The headline quotes 'CHINA IS GOING TO WIN THIS WAR', but there was no transcript, so the wording and its context could not be verified; it would be level D (competition with China, data centers) in any case. This is the basis for suggesting D rather than none; a reviewer may prefer none. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 Sep 2026 by Rep. Casar): reports say it has about nine cosponsors, described as House Democrats; the partial list seen (Hoyle, Lynch, Tonko, Ocasio-Cortez) does not include Rulli, but the full cosponsor list on congress.gov could not be opened (HTTP 403), so his non-cosponsorship is likely but not confirmed from a full list. No other House letter about AI risk signed by him was found (the many-signer August/September 2026 letters were not searched, per instructions). The issues page (https://rulli.house.gov/issues/) was not opened."
+}

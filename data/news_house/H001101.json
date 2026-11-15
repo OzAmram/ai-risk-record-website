@@ -1,0 +1,86 @@
+{
+ "bioguide": "H001101",
+ "member": "Pat Harrigan",
+ "searches": [
+  "Harrigan artificial intelligence site:harrigan.house.gov",
+  "Pat Harrigan superintelligence",
+  "Pat Harrigan AI extinction existential risk",
+  "Pat Harrigan AI pause slowdown moratorium",
+  "Pat Harrigan China AI agreement treaty",
+  "\"Pat Harrigan\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Harrigan"
+ ],
+ "statements": [
+  {
+   "date": "2026-08-31",
+   "venue": "Press release",
+   "quote": "As AI begins taking on more of the work involved in developing the next generation of AI, the pace of progress could accelerate dramatically. This bill makes sure we can track those developments without putting new mandates on American companies or getting in the way of innovation.",
+   "context": "Harrigan co-leading the bipartisan Self-Improving AI Monitoring Act with Rep. George Whitesides, which directs NIST to monitor AI systems' ability to do AI research and development.",
+   "source_label": "Harrigan House press release",
+   "url": "https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-co-leads-bipartisan-bill-track-self-improving-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "He notes AI-driven AI research could make progress accelerate dramatically but names no risk or harm, so catastrophic risk is not acknowledged; boundary with C because the topic is recursive self-improvement."
+  },
+  {
+   "date": "2026-10-22",
+   "venue": "Press release",
+   "quote": "Our adversaries are already looking for ways to exploit these systems, and as AI becomes more powerful, the risks to our critical infrastructure will only grow.",
+   "context": "Harrigan introducing the bipartisan AI Cyber Defense Act with Rep. Whitesides, on NIST standards against AI model distillation attacks and AI cybersecurity for critical infrastructure.",
+   "source_label": "Harrigan House press release",
+   "url": "https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-introduces-legislation-protect-american-innovation",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "The risk named is adversaries exploiting AI against critical infrastructure through cyberattacks, which is cybersecurity and misuse by rivals rather than catastrophic risk from AI (rulings 4 and 5)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI development.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found on pausing frontier AI development.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI development.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "He co-led the Self-Improving AI Monitoring Act, which only tracks AI self-improvement through voluntary NIST partnerships and creates no mandates; it is not a ban, so this is none.",
+   "sources": [
+    [
+     "Harrigan press release, 31 August 2026",
+     "https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-co-leads-bipartisan-bill-track-self-improving-ai"
+    ]
+   ]
+  }
+ },
+ "record": [
+  [
+   "Co-led, with Rep. George Whitesides, the bipartisan Self-Improving AI Monitoring Act, directing NIST to monitor advanced AI systems' ability to conduct AI research and development and to collect voluntary metrics from frontier AI companies on internal AI use in research, including work without human review.",
+   "Harrigan press release, 31 August 2026",
+   "https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-co-leads-bipartisan-bill-track-self-improving-ai"
+  ],
+  [
+   "Introduced, with Rep. George Whitesides, the bipartisan AI Cyber Defense Act, directing NIST to set voluntary standards against AI distillation attacks and to create an AI Cybersecurity Roundtable for critical infrastructure.",
+   "Harrigan press release, 22 October 2026",
+   "https://harrigan.house.gov/media/press-releases/congressman-pat-harrigan-introduces-legislation-protect-american-innovation"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His 2026 statements on AI are about tracking how fast self-improving AI is advancing and about AI cybersecurity threats from adversaries; none acknowledges catastrophic risk from AI. The self-improving AI statement is the closest to C but names no risk.",
+ "notes": "All six required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (seven in total). The searches on superintelligence, extinction, pause, China agreement and AI safety returned nothing about Harrigan; the official-site search and the Ban Act search returned only coverage of his Self-Improving AI Monitoring Act. An earlier run, when searches were refused, opened every press release on harrigan.house.gov (21 archive pages, 205 releases, January 2025 to November 2026) and checked them for AI mentions; the two statements here come from that check and were read at source. Ban Artificial Superintelligence Act: no source lists Harrigan as a sponsor or co-sponsor (reports name Sanders, Casar and House Democrats); the congress.gov cosponsor page could not be opened (403) in the earlier run, so this is not fully verified. No House letter about AI risk led or signed by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Rep. Whitesides's own release on the Self-Improving AI Monitoring Act (https://whitesides.house.gov/?p=18008, around August 2026) is titled as a bill 'to Reduce the Risk of Superintelligent AI'; that framing is the release's narration, not Harrigan's words, so it was not quoted or used for his level. That release quotes Harrigan differently from his own release: \"AI is beginning to play a role not just in solving problems, but in building the next generation of AI itself,\" ... \"I'm proud to co-lead the Self-Improving AI Monitoring Act to give NIST the visibility it needs to track these capabilities as they develop.\" (level D; not added as a separate statement; text seen through a page-fetch summary, so not character-verified). A Nextgov report (4 September 2026, via aiunderstanding.org) only describes the bill. Other minor AI mentions left out as level D or not his own AI remarks: 24 July 2026 grid bill (\"The future of AI, advanced manufacturing, and American energy dominance all depends on one thing: reliable, affordable electricity\"); FY26 NDAA releases (July and December 2025) and op-eds (June and August 2025) on military AI and AI for military construction approvals; 28 April 2025 TAKE IT DOWN Act vote on AI deepfakes. Rep. Whitesides's quote in the 22 October release (building \"the safeguards this technology needs\") is his, not Harrigan's. Reviewer: co-leading a bill described by its lead sponsor as reducing superintelligence risk is the closest thing to a C; graded D because Harrigan's own words name no risk."
+}

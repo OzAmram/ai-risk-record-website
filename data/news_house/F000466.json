@@ -1,0 +1,62 @@
+{
+  "bioguide": "F000466",
+  "member": "Brian K. Fitzpatrick",
+  "searches": [
+    "Fitzpatrick artificial intelligence site:fitzpatrick.house.gov",
+    "Brian Fitzpatrick superintelligence",
+    "Brian Fitzpatrick AI extinction existential risk",
+    "Congressman Fitzpatrick AI pause slowdown moratorium",
+    "Congressman Brian Fitzpatrick China AI agreement treaty",
+    "\"Fitzpatrick\" \"AI safety\" congressman Pennsylvania",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Fitzpatrick"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-08",
+      "venue": "Press release on a bipartisan, bicameral letter to President Trump co-led with Senator Mark Kelly",
+      "quote": "Making AI benefit American workers is not only a matter of fairness, but is essential to U.S. global competitiveness",
+      "context": "Fitzpatrick and Senator Kelly urged the Administration to adopt the AFL-CIO's principles for artificial intelligence in the workplace.",
+      "source_label": "Fitzpatrick House press release",
+      "url": "https://fitzpatrick.house.gov/2026/4/fitzpatrick-kelly-lead-bipartisan-bicameral-letter-backing-afl-cio-ai-principles-to-protect-workers",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action",
+        "cosigned_letter"
+      ],
+      "reason": "The statement is about AI and workers and competitiveness, which ruling 5 places at D; no catastrophic risk is acknowledged."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-led with Senator Mark Kelly a bipartisan, bicameral letter to President Trump urging the Administration to adopt the AFL-CIO's AI principles to protect workers.",
+      "Fitzpatrick press release, 8 April 2026 (letter dated 6 April 2026)",
+      "https://fitzpatrick.house.gov/2026/4/fitzpatrick-kelly-lead-bipartisan-bicameral-letter-backing-afl-cio-ai-principles-to-protect-workers"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI statement found is a 2026 joint statement with Senator Kelly about AI and workers, which does not acknowledge catastrophic risk. No A, B, C or F statement was found.",
+  "notes": "All 6 required web searches ran this time, plus one on the Ban Artificial Superintelligence Act (7 in total). None found a statement by Fitzpatrick on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety. Earlier attempt (searches refused) had checked his official press release list directly (fitzpatrick.house.gov/press-releases, pages 1 to 21 of 126, 15 Dec 2024 to 10 Nov 2026, titles only); only the 8 Apr 2026 AFL-CIO AI principles release mentions AI. I re-opened that release this time and confirmed the quoted sentence and the 8 April 2026 date. The quote is attributed jointly to Fitzpatrick and Kelly ('the lawmakers'), not to Fitzpatrick alone. The same release says the effort reflects his commitment to 'ensuring America leads the world in artificial intelligence with both strength and responsibility' (narrator wording, not his quote; left out). Ban Artificial Superintelligence Act (H.R. 10538): the fastdemocracy.com bill page (opened) lists 12 cosponsors, all Democrats; Fitzpatrick is not among them. congress.gov was not checked (returned 403 in the earlier attempt), so a later cosponsorship cannot be fully ruled out. Checked City & State PA, 14 Sep 2026, 'Pennsylvania politicians react to calls for an AI development slowdown': it does not mention Fitzpatrick. Other AI items found but outside the date range or not about catastrophic risk: 2024 Preparing Election Administrators for AI Act (co-introduced, May 2024); a legislative tracker lists him as co-sponsor of the CREATE AI Act of 2025 (H.R. 2381), not confirmed on an official page and not about catastrophic risk. Left out: the 16 Sep 2026 release on shielding ratepayers from data center costs (his quoted words do not mention AI; level D under ruling 5 anyway). No House letter about AI risk led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). Hearing remarks, floor speeches and interviews were covered only as far as the web searches reached."
+}

@@ -1,0 +1,38 @@
+{
+ "bioguide": "G000576",
+ "member": "Glenn Grothman",
+ "searches": [
+  "Grothman artificial intelligence (restricted to grothman.house.gov)",
+  "Glenn Grothman superintelligence",
+  "Grothman AI extinction existential risk",
+  "Grothman AI pause slowdown moratorium",
+  "Grothman China AI agreement treaty",
+  "\"Grothman\" \"AI safety\""
+ ],
+ "statements": [
+  {"date": "2026-06-06", "venue": "Weekly e-newsletter (on a House Education and Workforce subcommittee hearing, \"Building an AI-Ready America: Higher Education in the Age of AI\")",
+   "quote": "While technological innovation can create new opportunities, I emphasized the importance of ensuring that human judgment, accountability, and oversight remain central as AI becomes more integrated into the workplace.",
+   "context": "Summary of his questioning at a hearing on how colleges prepare students for jobs as AI spreads through the workplace.",
+   "source_label": "Rep. Grothman e-newsletter, 6 June 2026 (grothman.house.gov)",
+   "url": "https://grothman.house.gov/news/email/show.aspx?ID=QYC6ZN75JOOIIGMZKD7CGMQXYY",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About AI in the workplace, jobs and human oversight of work decisions; no catastrophic risk is acknowledged."},
+  {"date": "2025-06-07", "venue": "Weekly e-newsletter (on a House Oversight Committee hearing on AI held Thursday 5 June 2025)",
+   "quote": "While AI offers promising technological advancements, from eliminating waste, fraud, and abuse in our government to enhancing efficiency, there are also serious risks if it’s not handled responsibly.",
+   "context": "Summary of an Oversight Committee hearing on AI; the next sentences say Republicans support AI innovation but not at the expense of American jobs or personal freedoms, and criticize a regulation-first approach.",
+   "source_label": "Rep. Grothman e-newsletter, 7 June 2025 (grothman.house.gov)",
+   "url": "https://grothman.house.gov/news/email/show.aspx?ID=I6YNQTYVJHMIDF5JII4SUMFW7E",
+   "read_at_source": true, "level": "D", "flags": ["boundary"],
+   "reason": "Mentions unspecified \"serious risks\", but the surrounding text names only jobs and personal freedoms, which are outside the catastrophic-risk scope; could be read as a general C."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "He has written about AI in his newsletters (2025 and 2026), but only about jobs, workplace oversight, government efficiency and opposing heavy regulation; nothing acknowledges catastrophic risk. The 2025 mention of unspecified \"serious risks\" is set in a jobs-and-freedoms context and is a 2025 statement, so under the 2026 ruling it would not raise the grade even if read as C.",
+ "notes": "All six required web searches ran this time (none refused). Only the site-restricted search found anything about him and AI; the superintelligence, extinction, pause, China and AI-safety searches returned nothing mentioning him. The hits on his site were his e-newsletters: the 6 June 2026 and 7 June 2025 issues contain the two statements above (text read from the page source; dates are the newsletter posting dates from the official e-newsletter archive, not the hearing dates; the 2025 Oversight hearing was on Thursday 5 June 2025, the 2026 higher-education hearing date is not stated, described as 'recently'). The 7 April 2025 newsletter mentions AI only in the name of a Judiciary subcommittee. The e-newsletter archive titles from January 2025 to October 2026 were scanned and no other title mentions AI; newsletter bodies other than those opened were not read. From the earlier run (still valid): the official press release list (pages 1-2, February to October 2026) had no AI titles, and the 13 October 2026 H-1B release does not mention AI. Not checked: hearing transcripts and videos of his questioning, floor speeches, and news coverage beyond the six searches. Ban Artificial Superintelligence Act: no source seen shows him as sponsor or cosponsor; Congress.gov was not reachable in the earlier run (HTTP 403) and his site's sponsored/cosponsored legislation pages returned no content, so this is unverified. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). No similar-name confusion: both statements are from his own official newsletters."
+}

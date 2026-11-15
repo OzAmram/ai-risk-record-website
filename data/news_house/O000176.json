@@ -1,0 +1,25 @@
+{
+  "bioguide": "O000176",
+  "member": "Johnny Olszewski, Jr.",
+  "searches": [
+    "site:olszewski.house.gov artificial intelligence",
+    "Johnny Olszewski \"AI safety\"",
+    "Olszewski superintelligence",
+    "Olszewski AI extinction existential risk",
+    "Olszewski AI pause slowdown moratorium",
+    "Olszewski China AI agreement treaty",
+    "Rep. Johnny Olszewski artificial intelligence",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI pacing.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Olszewski about AI was found in eight web searches or in his 2026 press releases, so there is nothing to grade.",
+  "notes": "All 6 required web searches ran this time, plus 2 extra (8 in total). None returned any page mentioning Olszewski together with AI; the site: search returned no pages from olszewski.house.gov. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026, led by Greg Casar): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and Olszewski is not among them; the congress.gov cosponsor page returned HTTP 403, so this was not confirmed against the official list and later cosponsors could be missing. Kept from the earlier attempt: the official press release listing pages 1 to 6 of 15 (https://olszewski.house.gov/media/press-releases, ?page=1 to ?page=5), covering 9 January 2026 to 11 November 2026, had no release title or visible excerpt about artificial intelligence, superintelligence or AI risk. A 27 July 2026 Maryland Democrats letter to the Federal Energy Regulatory Commission about electricity costs from out-of-state data centers (https://olszewski.house.gov/media/press-releases/maryland-democrats-urge-ferc-protect-marylanders-rising-electricity-costs-due) was opened and does not mention AI, so it is not recorded (it would be D in any case). Listing excerpts are truncated, so not every full release text was read; press release pages 7 to 15 (2025) were not checked. The issues page (https://olszewski.house.gov/issues) has no technology or AI section, and the site's own search page returned HTTP 403. Interviews, hearing remarks and floor speeches were covered only to the extent the web searches would find them. The many-signer House letters of August and September 2026 were not searched, as instructed."
+}

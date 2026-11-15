@@ -1,0 +1,82 @@
+{
+  "bioguide": "S001223",
+  "member": "Emilia Strong Sykes",
+  "searches": [
+    "Emilia Sykes artificial intelligence (restricted to sykes.house.gov)",
+    "Emilia Sykes superintelligence",
+    "Rep. Emilia Sykes AI extinction existential risk",
+    "Emilia Sykes AI pause slowdown moratorium",
+    "Emilia Sykes China AI agreement treaty",
+    "\"Emilia Sykes\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-06-26",
+      "venue": "Press release on House Science, Space, and Technology Committee markup of 10 AI bills",
+      "quote": "Understanding how AI will impact the workforce will help us prevent job loss and economic disruption while ensuring the benefits of this technology reach working families.",
+      "context": "Her amendment to H.R. 9334, the Workforce for Artificial Intelligence Trust Act, adding research on how AI affects jobs, local economies and consumer costs.",
+      "source_label": "sykes.house.gov press release",
+      "url": "https://sykes.house.gov/media/press-releases/rep-sykes-secures-adoption-of-workforce-amendment-as-house-science-space-and-technology-committee-advances-10-artificial-intelligence-bills",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About AI's effect on jobs, the economy and predictive pricing, with no acknowledgment of catastrophic risk."
+    },
+    {
+      "date": "2026-02-24",
+      "venue": "Press release on House Science Committee hearing on AI data center infrastructure",
+      "quote": "Ohioans should not pay higher electricity bills so billionaires in Silicon Valley can see higher profits, and we must harness this growth in a way that creates jobs without increasing costs for working families.",
+      "context": "Hearing \"Powering America's AI Future: Assessing Policy Options To Increase Data Center Infrastructure\", where she raised electricity cost, environmental and community concerns about AI data centers.",
+      "source_label": "sykes.house.gov press release",
+      "url": "https://sykes.house.gov/media/press-releases/ranking-member-sykes-presses-for-consumer-protections-as-data-centers-expand-across-ohio",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About data centers and electricity bills, which ruling 5 places at D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; her data center concerns are about electricity costs and local impact, not risk from AI itself.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development; she is not a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).",
+      "sources": [
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Amended H.R. 9334, the Workforce for Artificial Intelligence Trust Act, to add research on AI's effects on jobs, local economies and consumer costs (workforce and economy, not catastrophic risk).",
+      "sykes.house.gov press release, 26 June 2026",
+      "https://sykes.house.gov/media/press-releases/rep-sykes-secures-adoption-of-workforce-amendment-as-house-science-space-and-technology-committee-advances-10-artificial-intelligence-bills"
+    ],
+    [
+      "Co-sponsored the Reverse Big Ugly Tax Breaks for Data Centers Act, removing tax breaks for AI data centers (cost and fairness, not AI risk).",
+      "sykes.house.gov press release, 22 September 2026",
+      "https://sykes.house.gov/media/press-releases/rep-sykes-cosponsors-bill-to-rein-in-tax-giveaways-to-data-centers"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 she spoke about AI several times (workforce, predictive pricing, youth mental health, data center electricity costs) but never about catastrophic risk.",
+  "notes": "All six required web searches ran in this run. The one restricted to sykes.house.gov returned only the AI releases already known (workforce amendment, data centers, University of Akron AI research grant, Stark State workforce grant, small manufacturer amendment to H.R. 9197). The five topic searches (superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement or treaty, \"AI safety\") returned nothing mentioning her; coverage of the April 2026 lawmaker roundtable and the September 2026 extinction-warning debate names other members, not her. Kept from the earlier attempt: that attempt opened her press release listing directly (pages 1 to 20, about 27 September 2024 to 12 November 2026). The only AI-related 2025-2026 releases were 24 February 2026 (data centers), 26 June 2026 (workforce amendment), 6 July 2026 (about $200,000 NSF grant to University of Akron for AI research; funding announcement, not opened) and 22 September 2026 (data center tax bill). The releases relied on were opened and quotes copied from the page text; I did not re-open them in this run. Paraphrases left out: in the 26 June 2026 release she 'called for additional research into the effects of artificial intelligence, social media, and digital platforms on youth mental health and suicide prevention' (reported, not quoted; would be D). A video page 'Rep. Sykes speaks in Science, Space & Technology Committee hearing on AI' (https://sykes.house.gov/media/videos/rep-sykes-speaks-in-science-space-and-technology-committee-hearing-on-ai) has no date or transcript and was not watched. The H.R. 9197 small manufacturer amendment did not appear in the 2025-2026 listings and is probably from 2024; not checked. Ban Artificial Superintelligence Act (H.R. 10538): she is not among the 12 cosponsors listed on FastDemocracy (opened in the earlier attempt). No House letter about AI risk signed or led by her was found; the many-signer August and September 2026 letters were not searched, per instructions. Not checked: hearing transcripts, floor speeches and interviews beyond what the searches surfaced."
+}

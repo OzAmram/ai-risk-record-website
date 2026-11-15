@@ -1,0 +1,41 @@
+{
+  "bioguide": "ELECT-CT-01-BRONIN",
+  "member": "Luke Bronin",
+  "searches": [
+    "Luke Bronin artificial intelligence",
+    "Luke Bronin \"AI safety\"",
+    "Bronin superintelligence",
+    "Luke Bronin AI extinction existential risk",
+    "Luke Bronin AI pause moratorium data centers",
+    "Luke Bronin China AI agreement treaty",
+    "site:broninforcongress.com AI",
+    "Bronin Chai debate artificial intelligence Hartford congressional"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His campaign AI issue page discusses AI at length (jobs, children, electricity costs, national security, testing models for safety and alignment) but names no catastrophic danger from AI, so D. No other statement on AI since 1 January 2025 was found.",
+  "notes": "8 web searches ran, none refused. The search tool returned almost nothing about Bronin and AI apart from his campaign issue page. That page (https://www.broninforcongress.com/issues/getting-the-balance-right-with-artificial-intelligence) was downloaded and read in full on 2026-11-14; it carries no publication date (the site's page data shows only timestamps from June 2025 to October 2026 for site elements), so following earlier runs it is left out of statements. Its most relevant passages, copied exactly: \"Congress should act quickly to establish a federal framework for AI that includes clear standards for transparency and testing. That will require increased investment in the Center for AI Standards and Innovation to ensure that the federal government has the capacity to test & evaluate models for safety and alignment.\" and \"I know what it looks like when a capability outruns the rules around it. This is where we are with frontier AI right now, which is why we need to strengthen our export controls so advanced computer chips don’t fall into the wrong hands.\" Also: \"We also need to make sure that we guard against the risks that AI will pose to our national security\" (general national-security risk, D under ruling 4). It backs Sen. Blumenthal's GUARD Act on children and chatbots. A reviewer could consider whether the 'safety and alignment' testing and 'capability outruns the rules' lines are a general acknowledgment of serious risk (C); I read them as D because no serious danger from AI itself is described. No sign that he co-sponsored the Ban Artificial Superintelligence Act (he was not in Congress) or made AI remarks in debates or interviews; the debate coverage found (Hartford Business Journal, primary debate) did not mention AI. Search was not exhaustive for local news (Hartford Courant, CT Mirror)."
+}

@@ -1,0 +1,40 @@
+{
+  "bioguide": "Y000067",
+  "member": "Rudy Yakym III",
+  "searches": [
+    "site:yakym.house.gov artificial intelligence",
+    "Rudy Yakym \"AI safety\"",
+    "Rudy Yakym superintelligence",
+    "Yakym AI existential risk extinction",
+    "Yakym AI pause moratorium slowdown",
+    "Yakym China AI agreement treaty",
+    "Rep. Rudy Yakym artificial intelligence 2026",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-16",
+      "venue": "Press release",
+      "quote": "Hoosiers and their businesses should not be footing the bill for AI data centers.",
+      "context": "Yakym explained his vote for the Ratepayer Protection Act, which makes large data center operators pay for their own electricity.",
+      "source_label": "House press release",
+      "url": "https://yakym.house.gov/media-center/press-releases/yakym-votes-to-make-data-centers-pay-for-their-own-power-not-hoosier-families",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About electricity costs from AI data centers, which is outside catastrophic risk (ruling 5)."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found; the data center vote is about electricity costs, not risks from AI itself.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found; he is not a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": []}
+  },
+  "record": [
+    ["Voted for the Ratepayer Protection Act (H.R. 9340), requiring large data center operators to pay for their own power.", "House press release, 2026-09-16", "https://yakym.house.gov/media-center/press-releases/yakym-votes-to-make-data-centers-pay-for-their-own-power-not-hoosier-families"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI-related remark found in 2026 is about AI data center electricity costs, with no acknowledgment of catastrophic risk.",
+  "notes": "All required searches ran this time (8 web searches, none refused). None of them returned any statement by Yakym on AI risk, superintelligence, extinction, a pause or slowdown, or an agreement with China; the site-restricted search returned no yakym.house.gov pages (the filter appeared not to apply). Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): congress.gov returned 403, but the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors, all Democrats, and Yakym is not among them. From the earlier attempt: the official site was opened directly (home page, RSS feed, press release listing pages ?page=0 to ?page=4, about 50 releases from 20 March to 11 November 2026, out of 33 listing pages); only the 16 September 2026 data center release mentions AI. Older releases (before March 2026, including 2025) were not checked page by page. The quote was re-read this time through a page-fetch tool that returns extracted text and matched the earlier wording; a reviewer may still want to confirm it on the page. Legislative profile sites list his 2025-2026 bills with no AI titles visible in search snippets."
+}

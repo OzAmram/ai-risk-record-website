@@ -1,0 +1,25 @@
+{
+ "bioguide": "ELECT-MI-11-MOSS",
+ "member": "Jeremy Moss",
+ "searches": [
+  "Jeremy Moss Michigan AI safety",
+  "Jeremy Moss superintelligence artificial intelligence",
+  "\"Jeremy Moss\" AI extinction OR existential risk",
+  "\"Jeremy Moss\" AI pause OR slowdown OR moratorium OR \"data center\"",
+  "\"Jeremy Moss\" China AI agreement treaty",
+  "\"Jeremy Moss\" congress artificial intelligence campaign 2026",
+  "site:votejeremymoss.com AI",
+  "\"AI backers spending in support of Jeremy Moss\" Free Press"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Jeremy Moss about AI risk, or about AI itself, was found since 1 January 2025; the only related item is a campaign-site line about Michigan data center regulations, which is about data centers rather than AI.",
+ "notes": "8 web searches ran, none refused. No sources show Moss sponsoring or co-sponsoring the Ban Artificial Superintelligence Act (he was not a House member) or signing any letter about AI risk. His campaign priorities page (https://votejeremymoss.com/priorities/, undated, read at source) says: \"Our Democratic majority passed and I voted for the strongest regulations around data centers of any state in the country.\" Left out of statements because it is about data centers (level D under ruling 5) and has no date; a reviewer could choose to record it as a D statement, which would make the grade D. Rival primary candidate Don Ufford's campaign attacked Moss over AI-industry super PAC spending (about $300,000) for him and over votes for data-center tax breaks in the state legislature; the Ufford page now returns 404 and this is a partisan characterization, not Moss's words. A Planet Detroit voter guide lists a Detroit Free Press headline from 29 July (\"AI backers spending in support of Jeremy Moss' US House race\"); I did not find or open that article. The Planet Detroit guide had no candidate questionnaire answers on AI. The site: search on the campaign site did not return pages from that site, so the campaign homepage and priorities page were opened directly instead."
+}

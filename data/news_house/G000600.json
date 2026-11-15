@@ -1,0 +1,23 @@
+{"bioguide": "G000600", "member": "Marie Gluesenkamp Perez",
+ "searches": [
+  "site:gluesenkampperez.house.gov artificial intelligence",
+  "Gluesenkamp Perez superintelligence",
+  "Gluesenkamp Perez AI existential risk extinction",
+  "Gluesenkamp Perez AI pause moratorium slowdown",
+  "Gluesenkamp Perez China AI agreement treaty",
+  "\"Gluesenkamp Perez\" \"AI safety\"",
+  "Marie Gluesenkamp Perez artificial intelligence",
+  "\"Ban Artificial Superintelligence Act\" cosponsors House"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "Eight web searches, including all six required ones, found no statement by her about AI at all, and she is not listed as a co-sponsor of the Ban Artificial Superintelligence Act.",
+ "notes": "All required searches ran this time (8 searches in total, none refused). The site-restricted search returned no pages from gluesenkampperez.house.gov; the topic searches (superintelligence, existential risk, pause/moratorium, China agreement, AI safety) returned no result mentioning her. A general search on her name and artificial intelligence returned only biography and profile pages; the one AI-related hit was a Yahoo News page of reader letters (https://ca.news.yahoo.com/letter-writers-weigh-federal-state-120000401.html), not her own words, and it was not opened. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/), opened 14 November 2026, lists 12 cosponsors (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko) and she is not among them; this was not checked against Congress.gov, so a later cosponsorship cannot be ruled out. No House letter on AI risk by her was found (the large multi-member House letters were deliberately not searched, per instructions). From the earlier attempt (still valid): her official homepage's four most recent news items (26 October to 11 November 2026) did not mention AI, and https://gluesenkampperez.house.gov/press returned 'No press releases found', so her older press releases were not read directly; coverage of her official site relies on the site-restricted search."
+}

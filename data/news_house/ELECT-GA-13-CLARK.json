@@ -1,0 +1,27 @@
+{
+  "bioguide": "ELECT-GA-13-CLARK",
+  "member": "Jasmine Clark",
+  "searches": [
+    "Jasmine Clark Georgia artificial intelligence",
+    "\"Jasmine Clark\" \"AI safety\"",
+    "Jasmine Clark superintelligence OR \"artificial general intelligence\"",
+    "Jasmine Clark AI extinction OR \"existential risk\" Georgia congress",
+    "Jasmine Clark AI pause OR moratorium OR slowdown OR \"data center\"",
+    "Jasmine Clark China AI agreement OR treaty",
+    "site:jasmine4ga.com AI",
+    "\"Jasmine Clark\" \"artificial intelligence\" 2026 congress interview OR debate OR questionnaire"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found. Her campaign agenda lists \"Rein in Data Center Development\" with no stated link to risks from AI itself, so it does not count.", "sources": [["Campaign site agenda page", "https://www.jasmine4ga.com/agenda"]]},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [
+    ["Sponsored Georgia House bill HB 715, the Fair and Future Ready Housing Act, which would limit the use of AI and automated decision tools in housing decisions without human oversight or disclosure (about discrimination, not catastrophic risk; seen only in a search-result summary, sponsorship role and session not confirmed at source).", "BillTrack50 legislator page, date not confirmed", "https://www.billtrack50.com/legislatordetail/24378"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "No statement by her about catastrophic risk from AI was found. She has engaged with AI only on ordinary topics (a state housing-discrimination bill on automated decision tools, and a campaign platform summary about US leadership on emerging technologies including AI), so D rather than none; a reviewer could reasonably choose none because neither item is in her own quoted words.",
+  "notes": "Eight web searches ran, none refused; nothing found connecting her to superintelligence, extinction risk, pause/slowdown, China AI agreements or the Ban Artificial Superintelligence Act (as a representative-elect she could not have co-sponsored it). Searches for her name often returned Jasmine Crockett (Texas) or Jack Clark (Anthropic); those were ignored. The site: search on jasmine4ga.com did not work, so I opened the campaign home and agenda pages directly: no mention of AI; the agenda lists \"Rein in Data Center Development\" and \"Build the Innovation Economy for the Future\" with no detail. Branch (branch.vote) candidate page summarises her economy position in third person as aiming to reassert the U.S. as a leader on emerging technologies such as artificial intelligence, blockchain, or cryptocurrencies, working with experts to grow the industry and protect consumers; this is a summary, not her quoted words, so it is not in statements. HB 715 details come from a search-result summary only; BillTrack50 and Legiplex pages returned HTTP 403 and could not be opened."
+}

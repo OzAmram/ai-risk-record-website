@@ -5,3 +5,5 @@ data/raw/
 __pycache__/
 data/classify/
 site/index.html
+data/house/classify/
+site/house_records.json

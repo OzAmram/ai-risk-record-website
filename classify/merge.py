@@ -13,7 +13,7 @@ import sys
 
 LEVELS = {"A", "B", "C", "D", "F", "off_topic"}
 POSITIONS = {"yes", "no", "mixed", "none"}
-FLAGS = {"relayed_warning", "bill_or_action", "cosigned_letter", "boundary", "needs_media", "unsure"}
+FLAGS = {"relayed_warning", "bill_or_action", "cosigned_letter", "boundary", "needs_media", "unsure", "misuse_only"}
 ORDER = ["A", "B", "C", "F", "D", "off_topic"]
 
 parser = argparse.ArgumentParser()

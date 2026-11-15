@@ -1,0 +1,63 @@
+{
+  "bioguide": "P000617",
+  "member": "Ayanna Pressley",
+  "searches": [
+    "Pressley artificial intelligence (restricted to pressley.house.gov)",
+    "Ayanna Pressley superintelligence",
+    "Ayanna Pressley AI extinction existential risk",
+    "Ayanna Pressley AI pause moratorium slowdown",
+    "Ayanna Pressley China AI agreement treaty",
+    "Ayanna Pressley \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-19",
+      "venue": "Emailed statement to the Boston Globe",
+      "quote": "Congress can't stand idly by while AI and billionaires threaten humankind, gamble with our lives,",
+      "context": "Boston Globe article (Hiawatha Bray, 'For Black leaders, the AI threat isn't hypothetical') on a Washington event pressing for government action on AI; Pressley's email continues 'and exploit Black, brown, and other marginalized communities' and calls for 'comprehensive, federal AI regulations now that prioritize our rights and safety.'",
+      "source_label": "Boston Globe, 19 September 2026",
+      "url": "https://www.bostonglobe.com/2026/09/19/multimedia/black-congress-naacp-ai/",
+      "read_at_source": true,
+      "level": "A",
+      "flags": ["boundary", "unsure"],
+      "reason": "Says AI threatens humankind, which ruling 1 makes A, but the threat is shared with billionaires and the same sentence turns to exploitation of marginalized communities, so C or even D are plausible readings."
+    },
+    {
+      "date": "2026-11-07",
+      "venue": "AfroTech conference remarks",
+      "quote": "I care about AI being human first.",
+      "context": "Speaking about AI deepening racial disparities, biased AI hiring tools, data centers, and urging attendees to back the AI Civil Rights Act.",
+      "source_label": "AfroTech, 7 November 2026",
+      "url": "https://afrotech.com/ayanna-pressley-calls-on-tech-innovators-solutions-for-data-center-impacts",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "About AI bias, disparities and data centers, not catastrophic risk."
+    },
+    {
+      "date": "2025-12-10",
+      "venue": "House Financial Services Committee hearing",
+      "quote": "We must not allow AI innovation without AI protections.",
+      "context": "Questioning witnesses on banning discriminatory AI and testing algorithms before use, and urging passage of the AI Civil Rights Act.",
+      "source_label": "Pressley press release, 11 December 2025",
+      "url": "https://pressley.house.gov/2025/12/11/video-pressley-calls-for-new-civil-rights-protections-in-the-age-of-ai/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Calls for AI protections in the context of discrimination and civil rights, not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Lead House sponsor, with Rep. Yvette Clarke and Sen. Ed Markey, of the reintroduced AI Civil Rights Act on AI discrimination (not catastrophic risk).", "Pressley press release, 3 December 2025", "https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination/"]
+  ],
+  "suggested_grade": "A",
+  "grade_reason": "Mechanically A: in a September 2026 emailed statement she said AI and billionaires 'threaten humankind', which ruling 1 counts as A. This rests on one rhetorical line whose framing is mainly about billionaires and marginalized communities; all her other AI remarks are about bias and civil rights (D), so a reviewer may reasonably judge C or D instead.",
+  "notes": "All 7 web searches ran this time (the six required plus one on Ban Artificial Superintelligence Act cosponsors); the earlier attempt's searches were all refused. Key item for review: the Boston Globe quote. The page-reading tool returned the quote in pieces ('Congress can't stand idly by while AI and billionaires threaten humankind, gamble with our lives,' then 'and exploit Black, brown, and other marginalized communities,'); exact punctuation, including apostrophe style, should be checked at source. The email date is not given; 2026-09-19 is the article date from its URL. Kept from the earlier attempt: the 10 December 2025 hearing quote and the AI Civil Rights Act record. Dropped to stay within three D statements, still valid: 3 December 2025 release quote 'We cannot allow AI to be the latest chapter in America's history of exploiting marginalized people.' (https://pressley.house.gov/2025/12/03/pressley-clarke-markey-reintroduce-ai-civil-rights-act-to-eliminate-ai-discrimination/) and 5 June 2025 Oversight hearing quote 'The government's use of AI cannot be unchecked and unregulated.' (https://pressley.house.gov/2025/06/05/in-hearing-pressley-emphasizes-need-to-regulate-ai-prevent-exploitation-of-black-and-marginalized-communities/), both D. A 13 May 2026 release mentions her amendment requiring the Fed to study AI's effects on employment, in office-written text only (would be D). Ban Artificial Superintelligence Act (H.R. 10538): no source shows Pressley as a cosponsor; FastDemocracy lists Hoyle, Lynch and Tonko, Forkast says Ocasio-Cortez plus nine undisclosed House Democrats, so the list seen is incomplete and Congress.gov returned 403 in the earlier attempt. A search summary said she signed a Massachusetts delegation letter (December 2025) opposing federal limits on state AI regulation; not opened or verified, and not about catastrophic risk, so not recorded. No House AI-risk letter led by her was found; the centrally handled multi-signer letters were not searched, per instructions."
+}

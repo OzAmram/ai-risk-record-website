@@ -1,0 +1,39 @@
+{"bioguide": "C001087", "member": "Eric A. \"Rick\" Crawford",
+ "searches": [
+  "Crawford artificial intelligence site:crawford.house.gov",
+  "Rick Crawford superintelligence",
+  "Rick Crawford AI extinction existential risk",
+  "Rick Crawford AI pause slowdown moratorium",
+  "Rick Crawford China AI agreement treaty talks",
+  "\"Crawford\" \"AI safety\" Intelligence Committee chairman",
+  "Crawford Sanders AI \"national security threat\" Chinese experts",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [
+  {"date": "2025-07-29", "venue": "House Intelligence Committee press release (statement as chairman)",
+   "quote": "Frontier labs may soon achieve self-improving AI, and the U.S. must reach this threshold first to secure economic and national security dominance and potentially enjoy an enduring advantage over our adversaries.",
+   "context": "Statement after an unclassified committee briefing with industry experts on the AI race against China, calling for export controls and faster AI adoption by the intelligence community.",
+   "source_label": "House Permanent Select Committee on Intelligence press release", "url": "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "Treats self-improving AI as a goal the US should reach first in the race with China; no catastrophic risk is acknowledged (ruling 5: competition with China is D)."},
+  {"date": "2026-07-20", "venue": "House Intelligence Committee press release (statement as chairman)",
+   "quote": "This year’s IAA balances strong transparency and accountability measures while equipping the IC with the resources needed to combat the ever-evolving threats from our adversaries around the world, with a particularly strong focus on the global AI race,",
+   "context": "Committee passage of the fiscal year 2027 Intelligence Authorization Act, which the release says expands intelligence-community use of frontier AI models and strengthens information sharing on AI threats and safety.",
+   "source_label": "House Permanent Select Committee on Intelligence press release", "url": "https://intelligence.house.gov/2026/07/20/house-intelligence-committee-passes-fy2027-intelligence-authorization-act-out-of-committee/",
+   "read_at_source": true, "level": "D", "flags": ["bill_or_action"],
+   "reason": "About the AI race with adversaries and intelligence-community AI capability, not catastrophic risk from AI."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No exact words found. A Fox News video headline (seen on a 13 September 2026 Fox News article page) says he 'warns slowing down AI development hands win to China' and criticized Sanders' push to halt AI progress; this is Fox's paraphrase and the video was not watched, so a reviewer could set 'no' after checking it.", "sources": [["Fox News article page with related video headline", "https://www.foxnews.com/media/obama-privately-sounds-alarm-dangerous-ai-urges-democrats-put-issue-center-agenda"]]},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "He attacked Sen. Sanders as a 'threat to national security' ahead of Sanders' April 2026 panel with Chinese AI experts on international cooperation, but his quoted words attack Sanders personally and do not state a position on coordinating with China on AI pacing.", "sources": [["New York Post, 29 April 2026", "https://nypost.com/2026/04/29/us-news/house-intel-chief-blasts-bernie-sanders-as-a-threat-to-national-security-over-anti-ai-crusade/"]]},
+  "rsi": {"value": "none", "note": "No statement on banning self-improving AI. In July 2025 he said the US 'must reach this threshold first' (self-improving AI), which treats it as a goal but is not a statement against a ban. Not listed as a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["House Intelligence Committee press release, 29 July 2025", "https://intelligence.house.gov/2025/07/29/crawford-the-global-ai-race-is-moving-much-faster-than-many-think/"], ["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+ },
+ "record": [
+  ["As House Intelligence Committee chairman, led committee passage of the fiscal year 2027 Intelligence Authorization Act, which the release says increases funding for frontier AI model use in intelligence and cyber missions and strengthens information sharing on AI threats and safety (level D).", "House Intelligence Committee press release, 20 July 2026", "https://intelligence.house.gov/2026/07/20/house-intelligence-committee-passes-fy2027-intelligence-authorization-act-out-of-committee/"],
+  ["Called Sen. Sanders a threat to national security on Fox Business ahead of Sanders' Capitol Hill panel with Chinese AI experts on the existential threat of AI (his quoted words are about Sanders and communism, not AI risk).", "New York Post, 29 April 2026", "https://nypost.com/2026/04/29/us-news/house-intel-chief-blasts-bernie-sanders-as-a-threat-to-national-security-over-anti-ai-crusade/"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "He speaks about AI often as Intelligence Committee chairman, but always as a race with China to be won (including reaching self-improving AI first); no statement acknowledging catastrophic risk from AI was found, and nothing found reaches F because his attacks on Sanders target Sanders rather than dismissing the risk itself.",
+ "notes": "Eight web searches ran, none refused. crawford.house.gov returned no results in the site-restricted search; his AI statements are on intelligence.house.gov (committee site). Paraphrases left out: New York Post (29 April 2026) says he contended Sanders' 'anti-AI crusade undermines US geopolitical and security interests' (reporter's words); Fox News video headline says he 'warns slowing down AI development hands win to China' (video not watched, date not confirmed, possibly around September 2026). His exact words in the Fox Business interview were: 'America-last Senator Sanders is a guy that has a history of embracing communism visiting the Soviet Union' and 'He embraces Chinese communism. All I can say is if it quacks like a duck, walks like a duck, it’s a duck.' These were not entered as statements because they are not about AI risk; a reviewer might consider whether the context (opposing a panel on the existential threat of AI) makes them dismissive, but I judged they do not dismiss catastrophic risk itself (rubric ruling 6). A Fox News video (24 May 2026) has him discussing autonomous weapons and the AI race; not watched (military use would be D under ruling 3). The FastDemocracy list for H.R. 10538 shows 12 Democratic cosponsors, not Crawford; not checked against Congress.gov. Did not look for his House floor speeches or hearing transcripts beyond these searches."
+}

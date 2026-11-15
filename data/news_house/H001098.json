@@ -1,0 +1,25 @@
+{
+  "bioguide": "H001098",
+  "member": "Abraham J. Hamadeh",
+  "searches": [
+    "site:hamadeh.house.gov artificial intelligence",
+    "Abe Hamadeh superintelligence",
+    "Hamadeh AI extinction existential risk",
+    "Hamadeh AI pause moratorium slowdown",
+    "Hamadeh China AI agreement treaty",
+    "\"Hamadeh\" \"AI safety\"",
+    "Rep. Abe Hamadeh artificial intelligence",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by Rep. Hamadeh about AI, let alone catastrophic AI risk, was found in news coverage or on his official site since 1 January 2025.",
+  "notes": "Eight web searches ran; none was refused. None of them returned any page with Hamadeh speaking about AI. His official press release list (hamadeh.house.gov/media/press-releases, first page only, 17 September to 11 November 2026) has no AI release; the 11 November 2026 veterans release mentions H.R. 7103, the 'Improving Emerging Tech Opportunities for Veterans Act', which was not opened and is a vote on a package, not a statement about AI risk. An attempt to open the next press release page (?page=1) returned the same nine releases, so releases before 17 September 2026 were not reviewed. The azfamily.com article of 14 September 2026 on AI control were checked; the article does not mention him. He is not listed among the cosponsors of H.R. 10538, the Ban Artificial Superintelligence Act of 2026, on fastdemocracy.com (12 cosponsors, all Democrats); congress.gov was not checked directly. As instructed, the many-signer House letters of August and September 2026 were not searched for."
+}

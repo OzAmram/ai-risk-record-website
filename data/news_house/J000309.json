@@ -1,0 +1,24 @@
+{
+  "bioguide": "J000309",
+  "member": "Jonathan L. Jackson",
+  "searches": [
+    "Jonathan Jackson artificial intelligence site:jonathanjackson.house.gov",
+    "Rep. Jonathan Jackson superintelligence",
+    "Congressman Jonathan Jackson Illinois AI extinction existential risk",
+    "Jonathan Jackson Illinois AI pause slowdown moratorium data centers",
+    "Rep. Jonathan Jackson China AI agreement treaty",
+    "\"Jonathan Jackson\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Jackson"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by him about AI was found since January 2025 in seven web searches or on his official press release pages, so there is nothing to grade.",
+  "notes": "All seven web searches ran this time (the six required plus one on the Ban Artificial Superintelligence Act). None returned any statement by Rep. Jonathan L. Jackson (IL-1) about AI risk; results about Rep. Jeff Jackson (NC) and Rep. Ronny Jackson (TX) were excluded as different people. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy bill page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) lists 12 cosponsors and he is not among them; Congress.gov returned HTTP 403, so this was not confirmed there. No House letter about AI risk led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). A third-party legislation tracker (LegiPlex) lists an 'Artificial Intelligence Civil Rights Act of 2025' (introduced 3 December 2025) and the CREATE AI Act of 2023 among his bills, but the page returned HTTP 403 so his role was not checked; these are about civil rights and research resources, not catastrophic risk, and would be level D at most. From the earlier attempt (still valid): his official press release listing pages (https://jonathanjackson.house.gov/media/press-releases, pages 1 to 8) covering January 2025 to 9 November 2026 had no title or excerpt mentioning AI, and the In the News page 1 had nothing on AI; only titles and excerpts were checked, not full release texts. Hearing remarks and floor speeches were not checked individually."
+}

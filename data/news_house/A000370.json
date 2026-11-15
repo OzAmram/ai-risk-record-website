@@ -1,0 +1,49 @@
+{
+  "bioguide": "A000370",
+  "member": "Alma S. Adams",
+  "searches": [
+    "Alma Adams artificial intelligence (restricted to adams.house.gov)",
+    "Alma Adams superintelligence",
+    "Rep. Alma Adams AI extinction existential risk",
+    "Alma Adams AI pause slowdown moratorium",
+    "Alma Adams China AI agreement treaty",
+    "\"Alma Adams\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-03",
+      "venue": "Opening statement as ranking member, House Education and Workforce Subcommittee on Higher Education and Workforce Development hearing \"Building an AI-Ready America: Higher Education in the Age of AI\"",
+      "quote": "We need clear guardrails to ensure AI strengthens education rather than weakens it.",
+      "context": "Adams called for oversight of AI used in higher education, citing bias, misuse of student data and discriminatory outcomes.",
+      "source_label": "House Education and Workforce Committee Democrats press release, 3 June 2026",
+      "url": "https://democrats-edworkforce.house.gov/media/press-releases/hewd-ranking-member-adams-remarks-on-prioritizing-students-and-educators-over-the-interests-of-ai-companies",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She discusses risks of AI in education (bias, student data, inequality) but not catastrophic risk."
+    },
+    {
+      "date": "2026-03-20",
+      "venue": "Remarks at the North Carolina chapter conference of the American Association of Blacks in Energy, reported in her press release",
+      "quote": "The question is whether Black professionals, whether our community, will be at the table designing those systems",
+      "context": "Adams spoke about AI changing the energy sector and urged Black professionals to take part in building and governing AI systems.",
+      "source_label": "adams.house.gov press release, 20 March 2026",
+      "url": "https://adams.house.gov/media-center/press-releases/congresswoman-alma-adams-urges-black-energy-leaders-build-your-personal",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "This is about who participates in building AI in the energy sector, not catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development. She is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538) on the bill-tracking page checked.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 she spoke about AI in education (calling for guardrails against bias and misuse of student data) and in the energy sector, but nothing found acknowledges catastrophic risk from AI.",
+  "notes": "All six required web searches ran this time, plus one more on the Ban Artificial Superintelligence Act, for seven in total. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026): the FastDemocracy cosponsor page lists 12 cosponsors and Adams is not among them. A Forkast article (https://forkast.news/progressive-democrats-establish-prohibitionist-left-flank-on-artificial-superintelligence/) also does not mention her. Congress.gov could not be checked (it returned HTTP 403 in the earlier attempt), so whether she co-sponsored remains unconfirmed by an official source. No House letter about AI risk led by her was found; the multi-signer letters were excluded as the House instructions say. A search result says she signed a 2025 letter led by Rep. Deborah Ross that asked for the 10-year moratorium on state AI laws to be removed from the defense bill (https://ross.house.gov/_cache/files/4/7/47241f79-476e-4384-9644-a6d6d1c923f3/0B2655828FC164F250E5A6635481C7CCCB14B0E9EA3B3E4F6A397519FDFD7FF1.final-ndaa-ai-moratorium-women-and-children-letter.pdf). I could not extract the PDF text, so her signature and the letter's content are not verified. That letter concerns state regulation, not a pause on AI development, so it does not affect any position. The earlier attempt opened the adams.house.gov press release listing (20 November 2025 to 28 October 2026) and found no titles or excerpts mentioning AI. That check read listing excerpts only, so it missed the 20 March 2026 energy release, which mentions AI in its body. The quotes above came through a page-reading tool that returns extracted text, so a reviewer should confirm the exact punctuation against the source pages. Other results matching 'Adams' and AI concerned Elizabeth M. Adams, a different person, and were excluded."
+}

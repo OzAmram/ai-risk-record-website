@@ -1,0 +1,75 @@
+{
+  "bioguide": "L000602",
+  "member": "Summer L. Lee",
+  "searches": [
+    "\"Summer Lee\" AI pause OR slowdown OR moratorium",
+    "\"Summer Lee\" \"AI safety\"",
+    "\"Summer Lee\" AI China agreement OR treaty",
+    "\"Summer Lee\" superintelligence",
+    "\"Summer Lee\" AI extinction OR \"existential risk\" OR \"loss of control\"",
+    "artificial intelligence site:summerlee.house.gov"
+  ],
+  "statements": [
+    {
+      "date": "2026-10-02",
+      "venue": "Remarks at Carnegie Mellon University's Community-Centered AI Infrastructure Summit, quoted in press release",
+      "quote": "I believe that we have to establish regulatory frameworks before we suffer its consequences. Leading on AI doesn't mean building more data centers at any cost or racing toward superintelligence without considering the consequences.",
+      "context": "Lee calling for stronger protections for Pennsylvania communities as AI data centers expand, citing electricity, water, labor and environmental costs.",
+      "source_label": "House press release",
+      "url": "https://summerlee.house.gov/newsroom/press-releases/at-cmu-summit-rep-summer-lee-calls-for-stronger-community-protections-as-ai-data-centers-expand-across-pennsylvania",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She warns against racing toward superintelligence without considering the consequences, a general acknowledgment of serious risk from advanced AI that names no catastrophic harm; borderline with D because her other remarks focus on community costs."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "She co-sponsors the AI Data Center Moratorium Act, which would pause new data center construction until federal safeguards on AI's economic, environmental and safety impacts exist, but her stated reasons are community costs (electricity, water, pollution, labor), not risks from AI itself, so none under the rubric (same treatment as other co-sponsors in this project).",
+      "sources": [
+        [
+          "Lee press release, 2 October 2026",
+          "https://summerlee.house.gov/newsroom/press-releases/at-cmu-summit-rep-summer-lee-calls-for-stronger-community-protections-as-ai-data-centers-expand-across-pennsylvania"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found calling for a halt to frontier AI development; she is not a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538) on the FastDemocracy list.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on AI; the China agreement search returned nothing about her.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Co-sponsor of the AI Data Center Moratorium Act, which would temporarily pause new data center construction and expansion until Congress sets federal safeguards.",
+      "Lee press release, 2 October 2026",
+      "https://summerlee.house.gov/newsroom/press-releases/at-cmu-summit-rep-summer-lee-calls-for-stronger-community-protections-as-ai-data-centers-expand-across-pennsylvania"
+    ],
+    [
+      "Introduced the Eliminating BIAS Act with Senator Ed Markey, creating civil rights offices in federal agencies that use or oversee AI.",
+      "Lee press release, 2 October 2026",
+      "https://summerlee.house.gov/newsroom/press-releases/at-cmu-summit-rep-summer-lee-calls-for-stronger-community-protections-as-ai-data-centers-expand-across-pennsylvania"
+    ],
+    [
+      "Joined Reps. Clarke, Jayapal and Pressley and Senator Markey in reintroducing the AI Civil Rights Act on algorithmic discrimination in housing, healthcare, employment and other services.",
+      "Lee press release, 2 December 2025",
+      "https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-joins-colleagues-in-reintroducing-ai-civil-rights-act-to-eliminate-algorithmic-discrimination-and-protect-civil-rights"
+    ]
+  ],
+  "suggested_grade": "C",
+  "grade_reason": "Her strongest 2026 statement (2 October 2026) warns against racing toward superintelligence without considering the consequences, which is a general acknowledgment of risk (C, borderline with D). No dismissive statement was found.",
+  "notes": "All six required web searches ran in this attempt (listed under searches); earlier attempts had been cut short. The superintelligence, extinction/existential risk/loss of control, China agreement and \"AI safety\" searches returned nothing by her on catastrophic AI risk. The pause/moratorium search found only coverage of her data center moratorium support (a low-quality aggregator, remio.ai, repeating the 2 October 2026 release) and an Al Jazeera piece on the moratorium bill that does not name her. The \"AI safety\" search surfaced a 29 March 2026 Slate What Next: TBD podcast interview (pod.wave.co transcript page, opened) where she talks about facial recognition misidentifying Black women and says government should not go deeper into the technology \"without some guardrails\"; that is level D (bias and oversight, no catastrophic risk) and was left out of statements because the transcript wording was seen only through a summarising fetch. The site search found the 2 December 2025 AI Civil Rights Act release (level D remarks on civil rights and guardrails, listed under record only); Technical.ly coverage of it was not opened. The 2 October 2026 CMU summit release was re-opened in this attempt and still contains the quoted sentences; the quote had been checked character for character in an earlier attempt. Official press release listing pages opened in earlier attempts covered 12 May to 2 November 2026; only the CMU release mentioned AI. Releases before 12 May 2026 and most of 2025 were not checked page by page. Press-release paraphrases left out of statements: she warned that unchecked AI could reinforce discrimination in healthcare, employment and policing, and said the moratorium pause must give lawmakers time to set community protections. The release says the moratorium bill would pause data centers until federal safeguards address AI's \"economic, environmental, and safety impacts\", but her own stated reasons are community costs, so slowdown stays none. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy list (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened in the first attempt) shows 12 cosponsors and she is not among them; congress.gov was not checked. No House letter about AI risk signed or led by her was found (the many-signer August and September 2026 letters were not searched, per instructions)."
+}

@@ -1,0 +1,24 @@
+{
+  "bioguide": "C001126",
+  "member": "Mike Carey",
+  "searches": [
+    "Mike Carey artificial intelligence (restricted to carey.house.gov)",
+    "Rep. Mike Carey Ohio superintelligence",
+    "Mike Carey Ohio congressman AI extinction existential risk",
+    "Rep. Mike Carey AI pause slowdown moratorium",
+    "Rep. Mike Carey China AI agreement treaty",
+    "\"Mike Carey\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House Carey"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade.",
+  "notes": "All seven web searches ran this time (one restricted to carey.house.gov, plus superintelligence, extinction or existential risk, pause or slowdown or moratorium, China agreement or treaty, his name with \"AI safety\", and the Ban Artificial Superintelligence Act); none returned a statement by Rep. Mike Carey (R-OH-15) about AI risk. Results for \"Mike Carey\" \"AI safety\" were about other people (for example Ryan Carey of Oxford), not this representative. His press release list (https://carey.house.gov/category/media/press-releases/) was opened again: the first page covers 20 releases from 8 January to 22 July 2026 (the latest listed), and none mentions AI in title or excerpt; an earlier run also checked page 2 (back to 18 July 2025) with the same result. Only titles and excerpts were checked, not full texts. Paraphrase-type mention left out: his 10 July 2025 press release on a Labor Department apprenticeship grant (https://carey.house.gov/2025/07/10/carey-secures-dol-grant-to-grow-registered-apprenticeships-in-ohio/) says in the office's own words that the grant covers areas including artificial intelligence; his quoted words there do not mention AI. Ban Artificial Superintelligence Act: news reports name Rep. Greg Casar as House sponsor and give partial or conflicting cosponsor lists, none naming Carey; the Congress.gov cosponsor page (H.R. 10538) returned an error (403) twice and could not be opened, so his absence from the cosponsor list is not confirmed from the official source. No House letter about AI risk signed or led by him was found (the many-signer August and September 2026 letters were not searched, per instructions). A March 2026 letter he led on Chinese vapes is unrelated to AI."
+}

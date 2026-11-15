@@ -1,0 +1,24 @@
+{
+  "bioguide": "F000485",
+  "member": "Clay Fuller",
+  "searches": [
+    "Clay Fuller artificial intelligence site:fuller.house.gov",
+    "Clay Fuller congressman superintelligence",
+    "Clay Fuller AI extinction existential risk",
+    "Clay Fuller AI pause slowdown moratorium",
+    "Clay Fuller China AI agreement treaty",
+    "\"Clay Fuller\" \"AI safety\"",
+    "Rep. Clay Fuller Georgia AI artificial intelligence \"Ban Artificial Superintelligence Act\" cosponsor"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found on his official site or in any of the seven web searches, so there is nothing to grade.",
+  "notes": "All required searches ran this time (7 web searches, none refused). None returned a page that mentions Clay Fuller in connection with AI; the site-restricted search returned no fuller.house.gov pages, and the '\"Clay Fuller\" \"AI safety\"' search only surfaced an unrelated Brian Fuller of OpenAI. No source shows him sponsoring or cosponsoring the Ban Artificial Superintelligence Act (House sponsor Greg Casar); his cosponsor status was not confirmed against Congress.gov, whose member page (https://www.congress.gov/member/clay-fuller/F000485) returned 403 in the earlier attempt. Kept from the earlier attempt (not re-checked this run): the official site was opened directly, covering the home page, both pages of press releases (19 releases, 14 April to 12 November 2026; he was sworn in on 14 April 2026), the In the News page, the 22 July 2026 NDAA vote release and the 4 June 2026 'A Look into Congressman Fuller's Legislative Portfolio' release; none mentions artificial intelligence. That portfolio release lists H.R. 3447 (Chip Security Act) among bills he sponsored or cosponsored, without description; this is an export-control bill on advanced chips and would be level D at most, with no words of his own, so it is not recorded as a statement. No House letter about AI risk signed or led by him was found."
+}

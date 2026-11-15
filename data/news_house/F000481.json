@@ -1,0 +1,25 @@
+{
+  "bioguide": "F000481",
+  "member": "Shomari Figures",
+  "searches": [
+    "site:figures.house.gov artificial intelligence",
+    "Shomari Figures superintelligence",
+    "Shomari Figures AI existential risk extinction",
+    "Shomari Figures AI pause slowdown moratorium",
+    "Shomari Figures China AI agreement treaty",
+    "\"Shomari Figures\" \"AI safety\"",
+    "Rep. Shomari Figures artificial intelligence",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statements by Figures about AI, let alone catastrophic AI risk, were found in news coverage or on his official site.",
+  "notes": "All 8 searches ran; none were refused. The site-restricted search returned no figures.house.gov pages, so I opened his press release list directly (figures.house.gov/media/press-releases, first two pages, 20 releases dated 2 June to 11 November 2026): none mention AI. A Denver7 result about a congressman studying AI turned out to be about Rep. Don Beyer, not Figures. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): about 9 to 10 House cosponsors, but no source I could open gave the full list (congress.gov returned 403; Quiver Quantitative and Forkast do not list all names; FastDemocracy lists Hoyle, Lynch and Tonko). No source shows Figures as a cosponsor, but this is not fully verified. Older press release pages (before June 2026) were not checked."
+}

@@ -1,0 +1,25 @@
+{
+  "bioguide": "V000135",
+  "member": "Derrick Van Orden",
+  "searches": [
+    "Van Orden artificial intelligence (restricted to vanorden.house.gov)",
+    "Derrick Van Orden superintelligence",
+    "Derrick Van Orden AI extinction existential risk",
+    "Derrick Van Orden AI pause slowdown moratorium data center",
+    "Derrick Van Orden China AI agreement treaty",
+    "\"Van Orden\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors",
+    "Rep. Derrick Van Orden AI artificial intelligence regulation 2026"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement in his own words about AI was found since January 2025, so there is nothing to grade. The only AI mentions found are items in his office's lists of defense bill provisions, not remarks of his own.",
+  "notes": "All eight web searches ran (six required plus one on Ban Artificial Superintelligence Act cosponsors and one general AI search); none returned a statement by Van Orden about AI risk, superintelligence, a pause, or China talks. The official-site search found only his office's NDAA press releases (https://vanorden.house.gov/media/press-releases/van-orden-statement-fy2026-national-defense-authorization-act and https://vanorden.house.gov/media/press-releases/van-orden-applauds-committee-passage-fy26-national-defense-authorization-act), which list military AI provisions (joint AI research with partners such as Israel; a briefing on AI-enabled unmanned systems). These are bill summaries about military use of AI, not his own remarks on AI, and would be D under ruling 3; they were seen only in search-result excerpts and not opened. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Rep. Casar): search results describe the cosponsors as House Democrats; no source shows Van Orden as a cosponsor, though the full Congress.gov cosponsor list was not opened. No House letter on AI risk signed or led by him was found. From the earlier attempt: the first three listing pages of https://vanorden.house.gov/media/press-releases (30 releases, 3 October 2025 to 19 August 2026) were opened and no title or excerpt mentioned AI; that check was not repeated. Interviews, hearing remarks and floor speeches were checked only through these web searches."
+}

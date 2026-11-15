@@ -1,0 +1,80 @@
+{
+  "bioguide": "S001226",
+  "member": "Andrea Salinas",
+  "searches": [
+    "Salinas artificial intelligence (restricted to salinas.house.gov)",
+    "Andrea Salinas superintelligence",
+    "Rep. Andrea Salinas AI extinction existential risk",
+    "Andrea Salinas AI pause slowdown moratorium",
+    "Andrea Salinas China AI agreement treaty",
+    "\"Andrea Salinas\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" cosponsors House"
+  ],
+  "statements": [
+    {
+      "date": "2026-06-29",
+      "venue": "Press release",
+      "quote": "Artificial intelligence technology has the potential to transform our society for good and drive economic growth across a broad range of industries, including clean energy, agriculture, and manufacturing.",
+      "context": "Her bipartisan NSF AI Education Act with Rep. Vince Fong passing the House Science Committee.",
+      "source_label": "Salinas House press release, 29 June 2026",
+      "url": "https://salinas.house.gov/media/press-releases/reps-salinas-and-fongs-ai-education-bill-passes-committee",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "Promotes AI education and workforce training; no catastrophic risk is acknowledged."
+    },
+    {
+      "date": "2026-08-14",
+      "venue": "Press release",
+      "quote": "As AI use expands and the demand for data centers grows, we need to ensure our communities aren’t left footing the bill",
+      "context": "Introducing the Data Center Community Reinvestment Act, a tax on data center electricity use.",
+      "source_label": "Salinas House press release, 14 August 2026",
+      "url": "https://salinas.house.gov/media/press-releases/rep-salinas-introduces-bill-tax-data-centers-reinvest-housing-conservation-and",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "About data center costs to communities, which is outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development; her data center tax bill is motivated by local costs, not AI risk.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Lead sponsor, with Rep. Vince Fong, of the National Science Foundation Artificial Intelligence Education Act (H.R. 5351), AI scholarships and workforce training; passed committee in June 2026.",
+      "Salinas House press releases, 18 September 2025 and 29 June 2026",
+      "https://salinas.house.gov/media/press-releases/reps-salinas-fong-introduces-ai-education-act-2025-strengthen-americas"
+    ],
+    [
+      "Introduced the Data Center Community Reinvestment Act, a 1-cent-per-kilowatt-hour tax on data center electricity.",
+      "Salinas House press release, 14 August 2026",
+      "https://salinas.house.gov/media/press-releases/rep-salinas-introduces-bill-tax-data-centers-reinvest-housing-conservation-and"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "In 2026 she spoke about AI only in terms of education, workforce and data center costs, never about catastrophic risk. No A, B, C or F statement was found in her official releases or in seven web searches.",
+  "notes": "All seven web searches ran this time (the six required plus one on Ban Artificial Superintelligence Act cosponsors); none found any statement by her on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or AI safety. Results for the name searches were about other people (for example Andrea Miotti) or general coverage that does not mention her. An earlier attempt, when searches were refused, opened every listing page of her official press releases (salinas.house.gov/media/press-releases, pages 0 to 36, back to January 2023) and the AI-related 2025 and 2026 releases; those two D statements are kept. A 2025 statement (18 September 2025 AI Education Act release) repeats the 'transform our society for good' wording and is D; left out as redundant. A similar AI education release ('Salinas' Bipartisan Bill to Promote AI Education Passes Committee') is dated 11 September 2024, before the search window. Her issues page on science and technology (undated) mentions AI only in terms of education and workforce. Her Nucleic Acid Screening for Biosecurity Act (passed House, release 21 July 2026) codifies screening from the Biden AI executive order, but her own quoted words do not mention AI, so it is not counted as an AI statement. Ban Artificial Superintelligence Act (H.R. 10538): the fastdemocracy.com cosponsor list (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/, opened in the earlier attempt) did not include Salinas; news reports this run name other cosponsors (Hoyle, Lynch, Tonko, Ocasio-Cortez and others) but not her; Congress.gov returned HTTP 403 earlier, so the official list was not checked. No other House letter about AI risk signed or led by her was found; the many-signer August and September 2026 letters were not searched, per instructions. Interviews, hearing remarks and floor speeches were covered only to the extent the web searches would surface them."
+}

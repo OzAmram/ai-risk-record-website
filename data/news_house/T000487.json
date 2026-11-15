@@ -1,0 +1,62 @@
+{
+ "bioguide": "T000487",
+ "member": "Jill N. Tokuda",
+ "searches": [
+  "Tokuda artificial intelligence (restricted to tokuda.house.gov)",
+  "Jill Tokuda superintelligence",
+  "Jill Tokuda AI extinction existential risk",
+  "Jill Tokuda AI pause slowdown moratorium",
+  "Jill Tokuda China AI agreement treaty",
+  "\"Jill Tokuda\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" cosponsors Tokuda"
+ ],
+ "statements": [
+  {
+   "date": "2026-09-23",
+   "venue": "Letter to President Trump led by Rep. Tokuda, quoted in press release",
+   "quote": "If the United States gives our very best AI chips to China, it would exponentially increase their capacity to dominate the AI race",
+   "context": "A letter she led, with Rep. Ro Khanna and 13 other members, urging the President to keep strict export controls on advanced AI chips to China ahead of talks with Xi Jinping.",
+   "source_label": "Tokuda House press release",
+   "url": "https://tokuda.house.gov/media/press-releases/rep-tokuda-urges-president-trump-to-protect-americas-ai-advantage-ahead-of-bilateral-talks-with-china",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action"
+   ],
+   "reason": "About competition with China and chip export controls, with no acknowledgment of catastrophic risk from AI (ruling 5)."
+  }
+ ],
+ "positions": {
+  "slowdown": {
+   "value": "none",
+   "note": "No statement found on slowing frontier AI for safety reasons; the letter's call to 'slow down China's AI progress' is about competition, not safety.",
+   "sources": []
+  },
+  "pause": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  },
+  "intl": {
+   "value": "none",
+   "note": "No statement found on coordinating with China on the pace of AI; her letter urges withholding chips from China ahead of talks.",
+   "sources": []
+  },
+  "rsi": {
+   "value": "none",
+   "note": "No statement found.",
+   "sources": []
+  }
+ },
+ "record": [
+  [
+   "Led a letter of 15 House members urging President Trump to keep strict export controls on advanced AI chips to China ahead of talks with Xi Jinping.",
+   "Tokuda House press release, 2026-09-23",
+   "https://tokuda.house.gov/media/press-releases/rep-tokuda-urges-president-trump-to-protect-americas-ai-advantage-ahead-of-bilateral-talks-with-china"
+  ]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only substantial 2026 AI statement found is a letter she led on keeping advanced AI chips from China, which is about competition and does not acknowledge catastrophic risk.",
+ "notes": "All 6 required web searches ran, plus one on the Ban Artificial Superintelligence Act. None of the general searches (superintelligence, extinction/existential risk, pause/slowdown, AI safety) returned anything mentioning her. The China search found only her 23 September 2026 chip export letter; that press release was reopened this session and confirms the date and that the letter was led by Tokuda with Rep. Ro Khanna and 13 others; the press release has no separate quote from Tokuda herself, the quoted words are from the letter. Ban Artificial Superintelligence Act (H.R. 10538): no source found showing her as a cosponsor; Forkast names only Ocasio-Cortez among ten House Democrat cosponsors, other sources name Whitesides and Moran; the congress.gov cosponsor page could not be opened (HTTP 403), so her status is unverified rather than confirmed absent. Other AI mentions seen but not included: a bipartisan US-Taiwan Defense Innovation Partnership Act with Rep. Nunn covering dual-use technologies including AI (D, promoting AI for defense; release not opened); a 2025-09-29 news article on a Hilo visit mentions researchers who received an AI grant but quotes no AI words from her; a 2025-03-19 Social Security Administration phone-assistance letter reportedly objected to AI-only service (seen only in search summary, not opened). The 23 September 2026 letter is not one of the centrally handled House letters (it is led by Tokuda and concerns chip exports)."
+}

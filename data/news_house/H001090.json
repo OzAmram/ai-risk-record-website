@@ -1,0 +1,24 @@
+{"bioguide": "H001090", "member": "Josh Harder",
+ "searches": [
+  "site:harder.house.gov artificial intelligence",
+  "Josh Harder superintelligence",
+  "Josh Harder AI extinction existential risk",
+  "Josh Harder AI pause slowdown moratorium",
+  "Josh Harder China AI agreement treaty",
+  "\"Josh Harder\" \"AI safety\"",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act (H.R. 10538).", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]}
+ },
+ "record": [
+  ["Sponsored H.R. 1694, the Artificial Intelligence Accountability Act, with Rep. Robin Kelly as cosponsor; it directs the Commerce Department's communications agency to study and hold public meetings on accountability measures for AI systems (not about catastrophic risk).", "govinfo.gov, introduced 2025-02-27", "https://www.govinfo.gov/app/details/BILLS-119hr1694ih"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "He has acted on AI (sponsoring the 2025 AI Accountability Act), but no statement by him about catastrophic AI risk was found in 2025 or 2026.",
+ "notes": "Seven web searches ran (the six required plus one on the Ban Artificial Superintelligence Act); none of the topic searches returned anything mentioning Harder. He is not among the 12 cosponsors of H.R. 10538 (Ban Artificial Superintelligence Act) listed on FastDemocracy; congress.gov returned 403 so the list was not confirmed there. The harder.house.gov search page returned 403; the press releases listing page (latest ten releases, 5 August to 10 November 2026) showed no AI-related releases, but older releases were not checked. No quote from Harder on AI was found, so statements is empty; the D grade rests only on the bill sponsorship, and a reviewer may prefer 'none' if a spoken statement is required for D. No House letter on AI risk signed by him was found."
+}

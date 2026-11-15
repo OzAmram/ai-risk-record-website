@@ -1,0 +1,38 @@
+{
+  "bioguide": "M001210",
+  "member": "Gregory F. Murphy",
+  "searches": [
+    "site:murphy.house.gov artificial intelligence",
+    "Rep. Greg Murphy superintelligence",
+    "Greg Murphy North Carolina AI extinction existential risk",
+    "Rep. Greg Murphy AI pause slowdown moratorium",
+    "Rep. Greg Murphy China AI agreement treaty",
+    "\"Greg Murphy\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-07-16",
+      "venue": "Press release on the Protecting Patients from Automated Denials Act",
+      "quote": "Artificial intelligence (AI) is revolutionizing healthcare at the speed of light",
+      "context": "Co-introducing a bipartisan bill with Rep. Herb Conaway Jr. to keep a physician involved when insurers use AI in prior authorization decisions.",
+      "source_label": "Murphy House press release",
+      "url": "https://murphy.house.gov/media/press-releases/murphy-co-introduces-bipartisan-legislation-prevent-ai-increasing-prior",
+      "read_at_source": true,
+      "level": "D",
+      "flags": ["bill_or_action"],
+      "reason": "About insurers using AI to deny care and keeping a physician in the loop, with no acknowledgment of catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found for or against a pause; he is not listed as a cosponsor of the Ban Artificial Superintelligence Act of 2026 (H.R. 10538).", "sources": [["FastDemocracy, Ban Artificial Superintelligence Act cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of frontier AI development.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+  },
+  "record": [
+    ["Co-introduced the bipartisan Protecting Patients from Automated Denials Act with Rep. Herb Conaway Jr., to keep a physician in the loop when AI is used in prior authorization decisions.", "Murphy press release, 16 July 2026", "https://murphy.house.gov/media/press-releases/murphy-co-introduces-bipartisan-legislation-prevent-ai-increasing-prior"]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI statement found in 2026 is about insurers using AI to deny care in prior authorization, which does not acknowledge catastrophic risk. He is not a cosponsor of the Ban Artificial Superintelligence Act, and none of the six searches found any statement by him on catastrophic AI risk.",
+  "notes": "All six required web searches ran in this rerun; none found any statement by Rep. Gregory F. Murphy (NC-03) on superintelligence, extinction, a pause or slowdown, a China agreement or AI safety. Search hits on those topics were about other people (Rep. Greg Casar, Sen. Chris Murphy, Rep. Ro Khanna) and were left out. The China search turned up a September 2025 Murphy resolution on China's developing-nation status at the UN, which is not about AI. Other AI material found, all level D and left out of statements: a 11 September 2025 GOP Doctors Caucus release (gopdoctorscaucus-murphy.house.gov) where the co-chairs Murphy and Joyce jointly say AI in medicine \"must be harnessed with care\" and \"We must make sure we never lose the human touch of medicine\" (joint statement, about medicine only); and a NOTUS article (https://www.notus.org/congress/house-congressional-jobs-easier-ai) quoting him on using AI for congressional office work, seen only in a search summary and not opened. From the earlier attempt (kept): his press release archive from 11 July 2025 to 26 October 2026 was read directly and the 16 July 2026 prior authorization release was the only AI release in it; the FastDemocracy cosponsor page for H.R. 10538 lists 12 cosponsors, all Democrats, with no Murphy. The quote is the first part of a longer sentence that continues \"but we must protect the physician-in-the-loop\" (re-confirmed on the page this run). Not checked: hearing remarks (he sits on Ways and Means) and floor speeches. There are other members named Murphy; all material here is from Rep. Gregory F. Murphy of NC-03."
+}

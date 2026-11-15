@@ -1,0 +1,40 @@
+{
+  "bioguide": "ELECT-IL-07-FORD",
+  "member": "La Shawn Ford",
+  "searches": [
+    "\"La Shawn Ford\" artificial intelligence",
+    "\"La Shawn Ford\" AI safety superintelligence",
+    "\"La Shawn Ford\" Illinois state representative AI bill 2025 OR 2026",
+    "\"La Shawn Ford\" extinction OR \"existential risk\" OR \"artificial intelligence\" congress 7th district",
+    "\"La Shawn Ford\" AI pause OR moratorium OR \"data center\"",
+    "\"La Shawn Ford\" China AI agreement OR treaty",
+    "La Shawn Ford congress campaign 2026 technology AI candidate questionnaire"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on this policy.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "Seven web searches and a check of his website found no statement by La Shawn Ford about AI since 1 January 2025, and none about catastrophic AI risk.",
+  "notes": "All 7 searches ran; none was refused. Search results for his name returned mostly unrelated people named Ford (for example computer scientist Kenneth M. Ford); none tied La Shawn Ford to AI. A search summary of his Illinois General Assembly bill list (2025-2026) showed no bill with an AI title, but the listing seen was truncated, so an AI bill in the Illinois House cannot be ruled out; his full sponsor list on ilga.gov was not checked. lashawnford.com redirects to lashawnkford.com, his state representative site; its home page and issue links (justice, gun violence, employment, healthcare, education, small business, housing) do not mention AI. A WTTW candidate Q&A for the 7th District (https://news.wttw.com/node/53149) returned 403 when fetched; the search summary of it listed cost of living, healthcare, taxes and oversight of federal spending, with no AI mention, but this was not read at source. He was not in Congress in 2025-2026, so he could not have co-sponsored the Ban Artificial Superintelligence Act. A reviewer may want to check his ilga.gov bill list and local debate coverage."
+}

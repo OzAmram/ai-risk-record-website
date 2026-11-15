@@ -1,0 +1,23 @@
+{"bioguide": "ELECT-OH-15-LEONARD", "member": "Don Leonard",
+ "searches": [
+  "\"Don Leonard\" Ohio congress artificial intelligence AI safety",
+  "\"Don Leonard\" superintelligence",
+  "Don Leonard Ohio 15th district Democrat campaign AI",
+  "\"Don Leonard\" AI extinction OR \"existential risk\" OR \"loss of control\"",
+  "\"Don Leonard\" AI pause OR moratorium OR slowdown OR \"data center\"",
+  "\"Don Leonard\" China AI agreement OR treaty",
+  "site:donforohio.com artificial intelligence",
+  "\"Don Leonard\" Mike Carey debate artificial intelligence OR \"data centers\""
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI. His campaign's criticism of data centers is about water, electricity and community benefit, not risk from AI itself, so it does not count.", "sources": [["Don for Ohio, Our Values page", "https://donforohio.com/values"]]},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by Don Leonard about artificial intelligence was found; his campaign material mentions only automation and jobs and data centers' use of water and electricity, without naming AI.",
+ "notes": "8 web searches ran, none refused. Campaign site donforohio.com (home, /values, /media read 2026-11-14) has no mention of AI. Home page (undated) says: \"And where automation technologies give us more time with our family, not fewer job opportunities.\" The /values page (undated) says \"Data centers take our water and electricity and don't give anything back.\" Both are undated campaign copy that do not mention AI, so they are left out of statements. Ohio Citizen Action endorsement page (https://ohiocitizen.org/team/don-leonard/, undated, third-person paraphrase, not his words) says he 'believes automation technologies should support Ohio families' and is 'deeply concerned about data centers' on public land and water. The /additional-media page was not opened. Search results on superintelligence, extinction risk and China returned only unrelated material (e.g. a paper by Leonard Dung, a different person). As a non-member he could not have co-sponsored the Ban Artificial Superintelligence Act. If the reviewer treats data-center and automation remarks as being about AI, the grade would be D rather than none."
+}

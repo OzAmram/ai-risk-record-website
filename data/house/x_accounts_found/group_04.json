@@ -1,0 +1,53 @@
+[
+ {
+  "id": "E000246",
+  "name": "Chuck Edwards",
+  "accounts": [
+   {"handle": "RepChuckEdwards", "account_type": "official", "evidence_url": "https://edwards.house.gov", "evidence": "The official House site links its X/Twitter icon to twitter.com/RepChuckEdwards."},
+   {"handle": "ChuckEdwards4NC", "account_type": "campaign", "evidence_url": "https://chuckedwardsforcongress.com", "evidence": "The campaign website links twitter.com/ChuckEdwards4NC in its header and footer social links."}
+  ],
+  "notes": "The official site's embedded feed still has the leftover link text 'Tweets by RepEdwards', but its href points to RepChuckEdwards. That fits the hint that @RepEdwards no longer works (the account was probably renamed)."
+ },
+ {
+  "id": "S000522",
+  "name": "Christopher H. Smith",
+  "accounts": [],
+  "notes": "No X account found. chrissmith.house.gov links only YouTube and Instagram, and the campaign site smith4nj.com links only Facebook and YouTube. An American Israelite article from 26 March 2026 (https://americanisraelite.com/all-about-deception-says-nj-republican-who-cant-get-x-to-remove-handle/), reprinted from JNS, says 'Smith is not on the social media site' and that he shut down his Twitter page in January 2021. His old handle was @RepChrisSmith, seen in 2018 archive snapshots. A search snippet names ChrisSmithNJCD4 as the PARODY account that impersonates him. It is not his account and must not be used."
+ },
+ {
+  "id": "P000621",
+  "name": "Nellie Pou",
+  "accounts": [
+   {"handle": "RepNellie", "account_type": "official", "evidence_url": "https://pou.house.gov", "evidence": "The official House site links x.com/RepNellie in its header and footer social icons and in its embedded X feed."},
+   {"handle": "NelliePou", "account_type": "campaign", "evidence_url": "https://nelliepoufornewjersey.com/", "evidence": "The campaign website, paid for by Nellie Pou for Congress, links x.com/NelliePou."}
+  ],
+  "notes": "The handle on file, @caohouse, belongs to the House Chief Administrative Officer, not to Pou. It was a wrong match, not a renamed account."
+ },
+ {
+  "id": "M001246",
+  "name": "Analilia Mejia",
+  "accounts": [
+   {"handle": "RepAnalilia", "account_type": "official", "evidence_url": "https://mejia.house.gov", "evidence": "The official House site links x.com/RepAnalilia in its header and footer icons, its X section and its Follow links."},
+   {"handle": "Analilia_Mejia", "account_type": "personal", "evidence_url": "https://www.thenation.com/authors/analilia-mejia/", "evidence": "The Nation's author page for her, which describes her as the Member of Congress for NJ-11, links twitter.com/Analilia_Mejia."}
+  ],
+  "notes": "I did not find a campaign website, so @Analilia_Mejia may also serve as her campaign account. Ballotpedia returned an empty page. One of the three allowed web searches was left unused."
+ },
+ {
+  "id": "M000317",
+  "name": "Nicole Malliotakis",
+  "accounts": [
+   {"handle": "RepNicole", "account_type": "official", "evidence_url": "https://malliotakis.house.gov", "evidence": "The official House site links x.com/RepNicole twice."},
+   {"handle": "nmalliotakis", "account_type": "campaign", "evidence_url": "https://nicolemalliotakis.com/", "evidence": "The campaign website links twitter.com/nmalliotakis."}
+  ],
+  "notes": "The handle on file, @RepMalliotakis, did not work. Her official site now links @RepNicole, which is probably the renamed account or a replacement."
+ },
+ {
+  "id": "R000622",
+  "name": "Josh Riley",
+  "accounts": [
+   {"handle": "RepRileyNY", "account_type": "official", "evidence_url": "https://riley.house.gov", "evidence": "The official House site links x.com/RepRileyNY in its header, its Meet Josh section and its footer."},
+   {"handle": "JoshRileyUE", "account_type": "campaign", "evidence_url": "https://joshrileyforcongress.com/", "evidence": "The campaign website links twitter.com/JoshRileyUE."}
+  ],
+  "notes": ""
+ }
+]

@@ -1,0 +1,82 @@
+{
+  "bioguide": "L000596",
+  "member": "Anna Paulina Luna",
+  "searches": [
+    "site:luna.house.gov artificial intelligence",
+    "Anna Paulina Luna superintelligence",
+    "Anna Paulina Luna AI extinction existential risk",
+    "Anna Paulina Luna AI pause slowdown moratorium",
+    "Anna Paulina Luna China AI agreement treaty talks",
+    "\"Anna Paulina Luna\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-09-09",
+      "venue": "Statement calling for a special session of Congress on AI safety (reported by Reuters as an X post to Speaker Johnson)",
+      "quote": "Partisan politics aside, there are massive implications of a race towards super intelligence",
+      "context": "After Anthropic researchers warned of possible human extinction from AI, Luna said Congress should convene a special session specifically to address AI safety because 'not enough of Congress is focusing on this'; she added 'We MUST be ready.'",
+      "source_label": "Sinclair national desk via ABC News 4, 'AI risks are getting harder for Congress to ignore', 10 September 2026",
+      "url": "https://abcnews4.com/news/nation-world/ai-risks-are-getting-harder-for-congress-to-ignore-generative-ai-superintelligence-regulation-openai-anthropic-hacks-hugging-face",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She acknowledges serious, society-altering stakes in the race towards superintelligence and calls for a session on AI safety, but names no catastrophic harm such as loss of control or mass casualties; it sits between C and D."
+    },
+    {
+      "date": "2025-06-05",
+      "venue": "House Oversight Committee hearing, 'The Federal Government in the Age of Artificial Intelligence'",
+      "quote": "And we are not gods or God, and so I think that we are playing a dangerous game, especially moving into a future that is simply unknown right now, especially if we do not essentially develop the first AI super weapon.",
+      "context": "Questioning witnesses about AI changing daily life, AI lacking a soul or empathy, and regulation of AI-driven transhumanist technologies such as brain implants.",
+      "source_label": "Official hearing transcript, GovInfo (CHRG-119hhrg60818), 5 June 2025",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "She calls advanced AI development a dangerous game in general terms, but frames it partly as a race to build the first AI super weapon and names no catastrophic harm, so it sits between C and D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "no",
+      "note": "A Floridian Press interview (around 17 September 2026) is headlined 'Anna Paulina Luna Affirms She's Against an AI Moratorium or Pause'; per search result text she disagreed with Anthropic CEO Dario Amodei's calls to slow AI development and said a pause would hand China an advantage. The page returned 403 and could not be opened, so her exact words are unverified.",
+      "sources": [
+        [
+          "Floridian Press, 'Anna Paulina Luna Affirms She's Against an AI Moratorium or Pause' (not opened)",
+          "https://floridianpress.com/?p=97603"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "no",
+      "note": "Same Floridian Press interview, headlined that she is against an AI moratorium or pause (page could not be opened; based on headline and search result text). She is not listed as a cosponsor of H.R. 10538, the Ban Artificial Superintelligence Act.",
+      "sources": [
+        [
+          "Floridian Press, 'Anna Paulina Luna Affirms She's Against an AI Moratorium or Pause' (not opened)",
+          "https://floridianpress.com/?p=97603"
+        ],
+        [
+          "FastDemocracy, H.R. 10538 cosponsor list",
+          "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of frontier AI development. Search result text says she argued China will not slow down and disagreed with Amodei's push for transnational AI governance, but this was not read at source and is not clearly a statement against a US-China agreement.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "C",
+  "grade_reason": "Her September 2026 call for a special session on AI safety, citing 'massive implications of a race towards super intelligence', acknowledges serious risk in general terms (C, borderline with D); her opposition to an AI pause is a policy position, not dismissal of catastrophic risk, so it does not lower the grade.",
+  "notes": "All 6 required web searches ran in this run; no search was refused. The site:luna.house.gov search returned no pages from her site. Quote for the 2026 statement was shortened to one continuous passage: the ABC News 4 article (10 Sep 2026, re-opened this run) prints 'There are very real impacts to society as we know it.' and 'Partisan politics aside...' as separate quotations, so the earlier joined quote was replaced. Date of the 2026 statement: Reuters (BNN Bloomberg, 11 Sep 2026, re-opened) says she posted on X urging Speaker Johnson to convene a 'special session on AI' but gives no date; 2026-09-09 comes from a search summary and is unconfirmed (it could be 10 Sep). Hearing quote (5 Jun 2025) re-verified character for character against the GovInfo transcript this run. Ban Artificial Superintelligence Act (H.R. 10538): FastDemocracy cosponsor list re-opened this run; Luna is not a sponsor or cosponsor. Unverified items left out of statements: (1) search summaries say her X post called itself 'not a doomer post' and referred to a bipartisan 'AI Kill Switch Bill' - not seen in any article opened; her X post itself was not opened (X is searched separately); (2) Floridian Press interview (around 17 Sep 2026) still returns 403; search text says she disagreed with Dario Amodei's calls to slow AI, said there can't be a pause or moratorium because China won't slow down, objected to 'transnational governance by AI boards', and proposed AI red-teaming and a 'Human Analog Interface' in defense - the slowdown and pause 'no' positions rest on this unopened source; (3) a Russian-language techora.ru report (12 Sep 2026, not opened) says she demanded the Pentagon be able to immediately shut down all AI in defense infrastructure - unverified and military use (D) under ruling 3 anyway. The 2025 hearing also has her remarks on brain implants creating 'superhumans' (Raw Story, Latin Times); that is human enhancement, not catastrophic AI risk. A previous run found her 10 most recent luna.house.gov press releases (Feb to Oct 2026) contain nothing about AI; not re-checked this run. The many-signer House AI letters of August and September 2026 were not searched for, as instructed. Reviewer: both C statements are borderline with D; the grade could reasonably be D."
+}

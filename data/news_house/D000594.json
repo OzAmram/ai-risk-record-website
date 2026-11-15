@@ -1,0 +1,22 @@
+{"bioguide": "D000594", "member": "Monica De La Cruz",
+ "searches": [
+  "De La Cruz artificial intelligence (restricted to delacruz.house.gov)",
+  "Monica De La Cruz superintelligence",
+  "Monica De La Cruz AI extinction existential risk",
+  "Monica De La Cruz AI pause slowdown moratorium",
+  "Monica De La Cruz China AI agreement treaty",
+  "\"De La Cruz\" \"AI safety\" congresswoman",
+  "\"De La Cruz\" \"Ban Artificial Superintelligence Act\" OR \"artificial intelligence\" Financial Services hearing 2026"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement by her about AI was found. Seven web searches (including one restricted to delacruz.house.gov) and a check of her 50 official press releases from 15 December 2025 to 31 October 2026 turned up nothing about AI.",
+ "notes": "All six required web searches ran this time, plus one extra on the Ban Artificial Superintelligence Act and Financial Services hearings (seven in total). None returned anything by Monica De La Cruz about AI. The official-site search returned only unrelated releases (2023 border surveillance letter, https://delacruz.house.gov/news/documentsingle.aspx?DocumentID=159; May 2026 Space Force headquarters letter, https://delacruz.house.gov/news/documentsingle.aspx?DocumentID=3746). The 'AI safety' search returned a syndicated article, 'AI risks are getting harder for Congress to ignore' (for example https://wjla.com/news/connect-to-congress/ai-risks-are-getting-harder-for-congress-to-ignore-generative-ai-superintelligence-regulation-openai-anthropic-hacks-hugging-face), but the search summary names other members (Luna, Lieu, Trahan), not her; I did not open it. From the earlier attempt (kept): I opened https://delacruz.house.gov (no AI mention) and press release list pages 1 to 5 at https://delacruz.house.gov/news/documentquery.aspx?DocumentTypeID=27 (50 releases, 15 December 2025 to 31 October 2026); only titles and excerpts were checked, except the 4 September 2026 'De La Cruz Recaps 2026' release (https://delacruz.house.gov/news/documentsingle.aspx?DocumentID=4008), opened in full, which does not mention AI. Ban Artificial Superintelligence Act (H.R. 10538, introduced by Rep. Casar, September 2026): the congress.gov cosponsor page returned HTTP 403 and could not be opened; no source seen names her as a cosponsor, so nothing is recorded. Not checked: her press releases before mid-December 2025, her Financial Services committee hearing remarks (AI in finance may have come up there, probably at level D at most), and interviews. Not to be confused with Senator Ted Cruz; one search summary also mentioned a 'Jesus Chuy De La Cruz', who is not her and was ignored."
+}

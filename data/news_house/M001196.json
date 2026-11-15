@@ -1,0 +1,24 @@
+{
+  "bioguide": "M001196",
+  "member": "Seth Moulton",
+  "searches": [
+    "site:moulton.house.gov artificial intelligence",
+    "Seth Moulton superintelligence",
+    "Seth Moulton AI existential risk extinction 2026",
+    "Seth Moulton AI pause slowdown moratorium",
+    "Seth Moulton China AI agreement treaty",
+    "\"Seth Moulton\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors Moulton"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement since 1 January 2025 found. Older coverage (Fox News, 2023) says he opposed calls for a pause and wanted the US to charge ahead on military AI, but that is a reporter's paraphrase from before the period covered.", "sources": []},
+    "pause": {"value": "none", "note": "No statement since 1 January 2025 found; not a co-sponsor of the Ban Artificial Superintelligence Act (H.R. 10538) per the FastDemocracy cosponsor list.", "sources": [["FastDemocracy, H.R. 10538 cosponsor list", "https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/"]]},
+    "intl": {"value": "none", "note": "He has long called for a 'Geneva Convention for AI' covering military AI, but this is about weapons and arms control rather than pacing frontier AI with China, and the found statements are from 2022-2023 or undated.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "He talks about AI (his 2026 Senate campaign platform has an AI policy page focused on beating China, protecting children and a Geneva Convention for military AI), but no dated statement since 1 January 2025 acknowledging catastrophic risk from AI was found. His strongest risk remarks (AI 'as dangerous as nuclear weapons') are from 2023 and about military use.",
+  "notes": "All 7 web searches ran (6 required plus 1 to check the Ban Artificial Superintelligence Act). Search is complete; this replaces an earlier run where all searches were refused. Kept from that run: a direct check of moulton.house.gov press releases (6 February to 16 October 2026) and issue pages found no AI statement except the undated national security issue page clause 'while we look ahead to new-age weapons systems powered by artificial intelligence.' (https://moulton.house.gov/issues/strengthening-our-national-security), military use, level D, left out as undated. New this run: (1) Ban Artificial Superintelligence Act (H.R. 10538, Casar, 24 September 2026): FastDemocracy lists 12 cosponsors and Moulton is not among them; congress.gov returned 403 so this was not confirmed on the official record. (2) His Senate campaign platform (https://sethmoulton.com/platform/) has an issue 'Winning the AI Race While Making Sure Our Kids, Our Economy, And Our Communities Are Protected' (https://sethmoulton.com/issue/ai-policy/). Via a page-reading tool only (direct download returned 403), it reportedly says AI could have a 'potentially disastrous impact' on children's futures, that 'we lost control of social media', 'We can't let China dominate this technology', and calls for a 'Geneva Convention for AI' on weapons and surveillance. Undated and not read verbatim, so not used as a statement; it would be D (children, China, military use). (3) Most search hits on Moulton and AI risk are from 2022-2023 (Boston Globe op-ed May 2023 'AI could be as dangerous as nuclear weapons', WGBH, Fox News, Cipher Brief 'AI Geneva Convention', DefenseScoop Nov 2022), outside the period covered and about military AI. (4) A Digg item cites an X post of about 20 August 2026 calling not understanding AI basics disqualifying for a senator and AI 'the most important technology of our lifetime'; X is searched separately, and it would be D. No 2025 or 2026 news, hearing or floor remarks by him on catastrophic AI risk were found. He sits on House Armed Services and the Select Committee on China, so a reviewer may want to check his X posts and any 2026 Senate primary debate remarks on AI."
+}

@@ -1,0 +1,37 @@
+{
+  "bioguide": "ELECT-MI-13-MCKINNEY",
+  "member": "Donavan McKinney",
+  "searches": [
+    "Donavan McKinney artificial intelligence",
+    "Donavan McKinney \"AI safety\"",
+    "Donavan McKinney Michigan representative AI data centers",
+    "Donavan McKinney superintelligence",
+    "Donavan McKinney Congress AI extinction OR existential risk OR moratorium OR pause",
+    "Donavan McKinney China AI agreement",
+    "\"McKinney\" Detroit congressional candidate 13th district AI statement"
+  ],
+  "statements": [
+    {
+      "date": "2026-04-01",
+      "venue": "WDET radio interview during the 13th District primary campaign",
+      "quote": "I cannot in good conscience support data centers if they're going to continue to do environmental harm on our communities.",
+      "context": "Asked about data centers and AI, he discussed environmental harm, ratepayer protections and the influence of AI companies on Congress.",
+      "source_label": "WDET",
+      "url": "https://wdet.org/2026/04/01/state-rep-donavan-mckinney-talks-issues-13th-congressional-primary/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Concerns the environmental and local impact of AI data centers, which is outside catastrophic AI risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "His conditional opposition to new data center mega sites is motivated by environmental harm and community consent, not by risks from AI itself.", "sources": [["WDET, 1 April 2026", "https://wdet.org/2026/04/01/state-rep-donavan-mckinney-talks-issues-13th-congressional-primary/"]]},
+    "pause": {"value": "none", "note": "No statement found on pausing frontier AI.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on AI coordination with China.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His only AI remarks found (a 1 April 2026 WDET interview) are about the environmental harm of AI data centers and AI companies' influence on Congress; nothing about catastrophic risk was found.",
+  "notes": "Seven web searches ran, none refused. Searches on superintelligence, extinction, pause, China and AI safety found nothing by him. No source shows him sponsoring the Ban Artificial Superintelligence Act; as a state representative and candidate he could not have. His campaign news page (donavanforcongress.com/news) was opened and has nothing on AI. The WDET page was read through a page-fetch tool that summarises text; the quote should be re-checked character for character against the page. In the same interview he said 'the AI groups ... the mega sites' are influencing legislators to pull back environmental protections, and mentioned companies automating people out of jobs; both are D topics. Michigan House press releases (housedems.com) were not checked separately."
+}

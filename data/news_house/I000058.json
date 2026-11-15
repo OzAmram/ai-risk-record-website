@@ -1,0 +1,25 @@
+{
+ "bioguide": "I000058",
+ "member": "Glenn Ivey",
+ "searches": [
+  "site:ivey.house.gov artificial intelligence",
+  "Glenn Ivey superintelligence",
+  "Glenn Ivey AI extinction existential risk",
+  "Glenn Ivey AI pause slowdown moratorium",
+  "Glenn Ivey China AI agreement treaty",
+  "\"Glenn Ivey\" \"AI safety\"",
+  "Rep. Glenn Ivey artificial intelligence",
+  "\"Ban Artificial Superintelligence Act\" House cosponsors"
+ ],
+ "statements": [],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "none",
+ "grade_reason": "No statement in his own words about AI since January 2025 was found in news, official records or his press releases, so there is nothing to grade.",
+ "notes": "All eight web searches ran (six required plus two extra). None of the topic searches (superintelligence, extinction, pause or moratorium, China agreement, AI safety) returned anything about him; the site: search returned no ivey.house.gov pages. A general search found only older AI material, all before 2025 and outside the window: a 2023 'In the News' item on him co-leading a panel on Congress and AI regulation (https://ivey.house.gov/media/in-the-news/ivey-co-lead-artificial-intelligence-panel), a November 2023 video titled 'Glenn Ivey Raises Concerns That The Government Isn't Able To Keep Up With Development Pace Of AI' (https://ivey.house.gov/media/videos/glenn-ivey-raises-concerns-government-isnt-able-keep-development-pace-ai), and co-sponsorship of the CREATE AI Act of 2023. A National Fair Housing Alliance 2025 AI symposium listing shows him giving 'special remarks' (https://events.nationalfairhousing.org/2025AISymposium/session/3041408/special-remarks), but no text of his remarks was found, so nothing is quoted. Two 2026 news articles on AI risk in Congress (Fox Baltimore; AP via WSLS, 16 April 2026) were opened and do not mention him. Ban Artificial Superintelligence Act (H.R. 10538): the FastDemocracy tracker page (https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/) was opened and lists 12 cosponsors, none from Maryland and not Ivey; this is a third-party snapshot, and Congress.gov was not checked this time (it returned HTTP 403 in the earlier attempt). From the earlier attempt, still valid: the first three pages of press releases on ivey.house.gov (about 30 releases, 21 October 2025 to 14 October 2026) had no AI titles; the 24 September 2026 Microsoft Discovery Center release quotes him only on quantum computing; the 5 August 2026 Maryland Democrats letter to the Federal Energy Regulatory Commission on data center electricity costs lists him but does not mention AI and has no words of his own. Many-signer House letters from August and September 2026 were left out as instructed."
+}

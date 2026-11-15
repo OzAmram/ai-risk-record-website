@@ -1,0 +1,25 @@
+{
+  "bioguide": "ELECT-KY-04-GALLREIN",
+  "member": "Ed Gallrein",
+  "searches": [
+    "Ed Gallrein artificial intelligence",
+    "Ed Gallrein \"AI safety\"",
+    "Gallrein superintelligence",
+    "Gallrein AI extinction OR \"existential risk\"",
+    "Gallrein AI pause OR moratorium OR \"data center\" Kentucky",
+    "Gallrein China AI agreement OR treaty",
+    "Ed Gallrein Kentucky 4th district Congress issues campaign site",
+    "\"Gallrein\" AI 2026 Massie"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found on coordinating with China on AI.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "Eight searches found no statement by Ed Gallrein about AI policy or AI risk; as a first-time candidate he holds no office with a record of bills or letters.",
+  "notes": "All 8 searches ran (none refused). AI came up in the 2026 Kentucky 4th District Republican primary only as campaign material: AI-generated attack ads by super PACs on both sides, and AI-generated social media posts from Gallrein's own account that were deleted after mockery (reported by The Kenya Times, https://thekenyatimes.com/americas/trump-endorsed-candidate-ed-gallreins-ai-generated-social-media-posts-spark-mockery/, not opened). None of these are statements by him about AI risk. Could not read the Ballotpedia page (fetch returned empty); the Washington Examiner profile was opened and does not mention AI. His campaign website was not found in search results and was not checked directly. As a non-member he could not have sponsored the Ban Artificial Superintelligence Act. Search coverage of a first-time candidate is thin, so a statement in a local debate or interview could have been missed."
+}

@@ -1,0 +1,28 @@
+{"bioguide": "D000216", "member": "Rosa L. DeLauro",
+ "searches": [
+  "DeLauro artificial intelligence (restricted to delauro.house.gov)",
+  "Rosa DeLauro superintelligence",
+  "Rosa DeLauro AI extinction existential risk",
+  "Rosa DeLauro AI pause moratorium slowdown",
+  "Rosa DeLauro China AI agreement treaty",
+  "\"DeLauro\" \"AI safety\""
+ ],
+ "statements": [
+  {"date": "2025-10-31", "venue": "Press release (statement on White House ballroom donations)",
+   "quote": "Trump is suggesting he will allow NVIDIA to sell these advanced chips to China for billions upon billions in profits – surrendering the U.S.’s competitive edge in AI to our largest competitor.",
+   "context": "DeLauro criticized corporate donations to President Trump's ballroom project and the possible sale of advanced AI chips to China.",
+   "source_label": "DeLauro House press release", "url": "https://delauro.house.gov/media-center/press-releases/delauro-statement-trumps-ballroom-billionaires",
+   "read_at_source": true, "level": "D", "flags": [],
+   "reason": "About AI competition with China and corruption, with no acknowledgment of catastrophic risk from AI (ruling 5)."}
+ ],
+ "positions": {
+  "slowdown": {"value": "none", "note": "No statement found on slowing frontier AI development.", "sources": []},
+  "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
+  "intl": {"value": "none", "note": "No statement found on coordinating with China on the pace of AI development.", "sources": []},
+  "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+ },
+ "record": [],
+ "suggested_grade": "D",
+ "grade_reason": "Her only AI remarks found are about chip exports to China, outbound investment screening and trade, with no acknowledgment of catastrophic AI risk; no 2026 statement about AI was found.",
+ "notes": "All 6 required web searches ran (none refused). None returned any statement by DeLauro on superintelligence, extinction, AI safety, a pause or slowdown, or an AI agreement with China. Ban Artificial Superintelligence Act: the Legistorm copy of Casar's announcement names only Rep. Casar and Sen. Sanders and lists no House co-sponsors; no source shows DeLauro co-sponsoring it (the full congress.gov co-sponsor list was not checked). Other AI-related items seen in search results but not included: a December 2024 letter to congressional leadership mentioning AI among sectors for outbound investment screening (before 2025), the National Critical Capabilities Defense Act reintroduction (outbound investment screening covering AI, date not checked), and a letter she led backing USTR digital trade policy with 'artificial intelligence (AI) oversight goals' (date not checked; likely before 2025). A Substack repost says she has supported more funding for NIST to promote responsible AI innovation; that is a paraphrase and was left out. A Punchbowl News article on Democrats reacting to AI warnings was opened and does not mention her. An earlier attempt (searches refused) opened delauro.house.gov press release list pages 0 to 8, covering 3 January to 11 November 2026, and found no release with an AI-related title or summary (titles and summaries only). Not checked: hearing remarks as top Democrat on House Appropriations, floor speeches. Not to be confused with any other member; no other DeLauro serves in Congress."
+}

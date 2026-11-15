@@ -1,0 +1,58 @@
+{
+  "bioguide": "C001121",
+  "member": "Jason Crow",
+  "searches": [
+    "site:crow.house.gov artificial intelligence",
+    "\"Jason Crow\" superintelligence",
+    "\"Jason Crow\" AI extinction OR \"existential risk\"",
+    "\"Jason Crow\" AI pause OR slowdown OR moratorium",
+    "\"Jason Crow\" China AI agreement OR treaty",
+    "\"Jason Crow\" \"AI safety\""
+  ],
+  "statements": [
+    {
+      "date": "2026-06-12",
+      "venue": "Center for a New American Security annual national security conference, panel \"The View from the Hill: Congress's Role in National Security\"",
+      "quote": "AI is going to be a component—and has to be a component—of our strategy in our military going forward. We are not having the level of conversations, though, on some of the risks that we need to have, right? The use of AI and targeting being a good example…",
+      "context": "Crow discussed military use of AI and said a human must always be involved in the kill chain.",
+      "source_label": "Crow House press release, 12 June 2026",
+      "url": "https://crow.house.gov/media/press-releases/crow-discusses-national-security-bipartisanship-with-center-for-a-new-american-security",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The risks named are about military use of AI in targeting and keeping humans in lethal decisions, which ruling 3 makes D."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing frontier AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on coordinating with China on the pace of AI development.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [
+    [
+      "Crow led a letter from 120 Democratic members to Defense Secretary Hegseth on civilian deaths in Operation Epic Fury, asking what role artificial intelligence (including the Maven Smart System) played in selecting targets and whether a human reviewed them; this is about military use of AI (level D), not catastrophic risk.",
+      "Crow House press release, 13 March 2026",
+      "https://crow.house.gov/media/press-releases/crow-120-members-demand-answers-on-school-strike-in-iran"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "Crow has spoken about AI in 2026, but only about military use of AI and keeping humans in lethal decisions, which the rubric grades D. No statement acknowledging catastrophic risk from AI was found.",
+  "notes": "All 6 required web searches ran in this attempt (an earlier attempt had 4 refused). The site-restricted search returned no crow.house.gov pages. The other searches found no statement by Crow on superintelligence, extinction or existential risk, a pause or slowdown, an agreement with China, or the Ban Artificial Superintelligence Act. Paraphrase left out: Axios Denver (17 September 2026, https://www.axios.com/local/denver/2026/09/17/colorado-lawmakers-ai-regulation-guardrails) and a 19 September 2026 rewrite on completeaitraining.com report that Crow 'stressed the need for protections around privacy and national security' regarding AI safeguards; no direct quote from him was given (the Axios page returned 403 and could not be opened), and the paraphrase would be D under ruling 4 anyway. Search also surfaced Crow's August 2025 BIS IT Modernization Act with Rep. Kean (export controls, not AI risk; not recorded). Kept from the earlier attempt: a check of all 310 press releases on crow.house.gov (October 2023 to 9 November 2026) found only three AI mentions: the 12 June 2026 CNAS remarks (included, D), the 13 March 2026 Iran school strike letter (in record, D), and a 10 July 2025 brain injury bill release where the AI mention is a quote from Rep. Jeff Crank, not Crow (left out). No source shows Crow sponsored or co-sponsored the Ban Artificial Superintelligence Act or signed a House letter on AI risk (other than the centrally handled multi-signer letters, not searched for); congress.gov cosponsor lists were not checked, so this is not confirmed absent."
+}

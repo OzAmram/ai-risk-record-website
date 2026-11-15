@@ -1,0 +1,37 @@
+{
+  "bioguide": "C001130",
+  "member": "Jasmine Crockett",
+  "searches": [
+    "site:crockett.house.gov artificial intelligence",
+    "Jasmine Crockett superintelligence",
+    "Jasmine Crockett AI existential risk extinction",
+    "Jasmine Crockett AI pause moratorium slowdown",
+    "Jasmine Crockett China AI agreement treaty",
+    "\"Jasmine Crockett\" \"AI safety\"",
+    "\"Ban Artificial Superintelligence Act\" House cosponsors"
+  ],
+  "statements": [
+    {
+      "date": "2025-06-05",
+      "venue": "House Oversight and Government Reform Committee hearing, \"The Federal Government in the Age of Artificial Intelligence\"",
+      "quote": "Look, we can all agree that incorporating emerging technologies like artificial intelligence into government operations can be effective. However, these technologies should not be used to weaponize the government against the public.",
+      "context": "During a hearing on AI in government she focused on Elon Musk and DOGE access to Americans' data and on the administration using AI to scan students' social media.",
+      "source_label": "Hearing transcript, GovInfo (CHRG-119hhrg60818)",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg60818/html/CHRG-119hhrg60818.htm",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "She discusses AI as a tool for government surveillance and privacy abuse, which is outside catastrophic risk."
+    }
+  ],
+  "positions": {
+    "slowdown": {"value": "none", "note": "No statement found.", "sources": []},
+    "pause": {"value": "none", "note": "No statement found.", "sources": []},
+    "intl": {"value": "none", "note": "No statement found.", "sources": []},
+    "rsi": {"value": "none", "note": "No statement found.", "sources": []}
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "Her only remarks on AI found are from a June 2025 hearing, about privacy and government misuse of AI, with nothing on catastrophic risk; nothing of her own on AI was found from 2026.",
+  "notes": "All 6 required web searches ran this time, plus 1 extra search on Ban Artificial Superintelligence Act cosponsors (7 in total); none were refused. Earlier attempt (0 searches ran) had opened crockett.house.gov directly: home page and press release listing pages through page 7 (releases from 6 October 2026 back to December 2024); no release title or listing summary mentions AI, deepfakes or superintelligence (titles and summaries only, not full text); the site's search page returned HTTP 403. This run: searches found no interview, op-ed, floor speech or press release by her about AI risk, superintelligence, extinction, a pause or slowdown, or a China agreement. She is listed as a signer of the 10 August 2026 letter to Speaker Johnson requesting AI hearings (led by Casar; casar.house.gov PDF); per House instructions this centrally handled letter is left out of statements and grade. Ban Artificial Superintelligence Act (H.R. 10538, introduced 24 September 2026 by Casar): partial cosponsor lists in search results (FastDemocracy, Forkast, Quiver) did not name her, but no complete official list was checked, so her cosponsorship is unconfirmed either way. Hearing transcripts checked: CHRG-119hhrg60818 (5 June 2025, she spoke; quoted above, line breaks in the transcript joined with single spaces), CHRG-119hhrg61734 and CHRG-119hhrg61690 (she is listed as a subcommittee member but does not speak). Name check: a search result quoting 'speeding towards RSI' is from Jasmine Wang, an OpenAI researcher, not Rep. Crockett."
+}
