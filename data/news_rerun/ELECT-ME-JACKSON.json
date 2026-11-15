@@ -1,0 +1,37 @@
+{"bioguide": "ELECT-ME-JACKSON", "member": "Troy Jackson",
+ "searches_run": [
+  "\"Troy Jackson\" Maine Senate artificial intelligence superintelligence",
+  "\"Troy Jackson\" AI extinction existential risk",
+  "\"Troy Jackson\" \"AI safety\" Maine Senate candidate",
+  "\"Troy Jackson\" AI pause OR slowdown OR moratorium",
+  "\"Troy Jackson\" China AI agreement OR treaty OR talks",
+  "site:jacksonformaine.com artificial intelligence",
+  "\"Troy Jackson\" Collins debate AI \"slow down\" (follow-up on American Prospect paraphrase)",
+  "\"Troy Jackson\" \"Agency over AI\" plan (follow-up on Spectrum News article)",
+  "\"Troy Jackson\" artificial intelligence Senate debate forum October 2026 Maine (follow-up)"
+ ],
+ "searches_refused": [],
+ "new_statements": [
+  {"date": "2026-06-03", "venue": "Press conference in Portland launching his 'Agency over AI' plan (as a candidate for governor)",
+   "quote": "Who benefits, who pays and who decides? Under the Jackson administration I can assure you that tech billionaires will not be deciding this alone",
+   "context": "Jackson, then running for governor, rolled out a state plan on AI covering data centers, workers and government transparency.",
+   "source_label": "Spectrum News (Susan Cover), 4 Jun 2026",
+   "url": "https://spectrumnewsnecn.com/necn/maine/politics/2026/06/04/jackson-says-ai--tech-billionaires--will-face-scrutiny-in-maine-if-he-s-elected-governor",
+   "read_at_source": true, "level": "D", "flags": ["unsure"],
+   "reason": "About who controls AI and who pays its costs, with no catastrophic harm named (ruling 5)."},
+  {"date": "2026-06-03", "venue": "Press conference in Portland launching his 'Agency over AI' plan (as a candidate for governor)",
+   "quote": "AI may be new, it certainly is new to a lot of us, but the political question is old",
+   "context": "Opening framing of his AI plan as a question of who benefits from and controls the technology.",
+   "source_label": "Spectrum News (Susan Cover), 4 Jun 2026",
+   "url": "https://spectrumnewsnecn.com/necn/maine/politics/2026/06/04/jackson-says-ai--tech-billionaires--will-face-scrutiny-in-maine-if-he-s-elected-governor",
+   "read_at_source": true, "level": "D", "flags": ["unsure"],
+   "reason": "Frames AI as a political question of power and costs; does not acknowledge catastrophic risk."}
+ ],
+ "position_changes": {},
+ "new_record_items": [
+  ["As a candidate for governor, Jackson released an 'Agency over AI' plan covering data center costs and power, protections for workers, environmental oversight and transparency on state government use of AI.", "Spectrum News, 4 Jun 2026", "https://spectrumnewsnecn.com/necn/maine/politics/2026/06/04/jackson-says-ai--tech-billionaires--will-face-scrutiny-in-maine-if-he-s-elected-governor"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "The only AI remarks found in Jackson's own words treat AI as a question of who benefits, who pays and whether tech billionaires decide, without acknowledging catastrophic risk. A reporter's paraphrase that he said the AI race should slow down or stop is not his own words and does not change the grade.",
+ "corrections": "The existing file's grade of 'none' rested on finding no AI statement in his own words. The new searches found two direct quotes about AI (D level), so 'none' should become D. Nothing else in the file was shown to be wrong.",
+ "notes": "All 9 searches ran; none refused. The two quotes were read through a page-reading tool that returns extracted text rather than the raw page; the article dates them to a press conference on 'Wednesday' before its 4 Jun 2026 publication, which I took as 3 Jun 2026 (a Wednesday) - verify the date and exact wording against the page. The second half of the first quote as reported ('and \"not be getting their way.\"') was a separate fragment and was not joined. These remarks were made while he was running for governor, before he became the Senate nominee in July 2026. IMPORTANT FOR REVIEWER: The American Prospect, 'Downvoting Data Centers in Maine' by Gabrielle Gurley, 16 Oct 2026 (https://prospect.org/2026/10/16/downvoting-data-centers-in-maine/), says in the author's own words: 'Jackson asserted that the AI race needs to slow down or stop.' This refers to a candidate forum earlier that week (not the 15 Oct debate). It is a paraphrase, so it is not in new_statements and I did not change the slowdown or pause positions (no direct quote and no reason given, so it cannot be tied to safety rather than jobs or data centers). A recording or transcript of that forum could hold a direct quote that would affect slowdown/pause and possibly the level; a follow-up search for it found nothing. Other pages: the AP debate story (WCAX, 16 Oct 2026) has no Jackson quote on AI; newsfromthestates.com/node/410453 returned HTTP 403. No source shows Jackson commenting on the Ban Artificial Superintelligence Act or the 23 September 2026 China letter (he was not a senator, so he could not sign or co-sponsor). The site: search returned no jacksonformaine.com pages. Search summaries also mention he 'has said the advancement of AI and surveillance technology needs more federal regulation' - search-result paraphrase, not verified, not used."}

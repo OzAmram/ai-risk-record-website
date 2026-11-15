@@ -2,12 +2,6 @@
  "bioguide": "ELECT-MI-ELSAYED",
  "member": "Abdul El-Sayed",
  "searches": [
-  "[web search refused, not run] Abdul El-Sayed artificial intelligence superintelligence",
-  "[web search refused, not run] \"El-Sayed\" \"AI safety\" Michigan Senate",
-  "[web search refused, not run] Abdul El-Sayed AI extinction OR \"existential risk\" OR \"existential threat\"",
-  "[web search refused, not run] Abdul El-Sayed AI pause OR moratorium OR slowdown data centers",
-  "[web search refused, not run] Abdul El-Sayed AI China agreement OR treaty OR \"arms race\"",
-  "[web search refused, not run] site:abdulforsenate.com AI policy",
   "[campaign site's own search, ran] abdulforsenate.com/?s=artificial intelligence",
   "[campaign site's own search, ran] abdulforsenate.com/?s=AI",
   "[campaign site's own search, ran] abdulforsenate.com/?s=superintelligence",
@@ -20,7 +14,13 @@
   "[news site's own search, blocked with error 403] michiganadvance.com/?s=El-Sayed artificial intelligence",
   "[news site's own search, ran, returned no usable results] newrepublic.com/search?q=El-Sayed AI plan",
   "[news site's own search, ran, no El-Sayed results] washingtonsun.com/?s=El-Sayed",
-  "[opened directly] en.wikipedia.org/wiki/Abdul_El-Sayed (used only to find leads)"
+  "[opened directly] en.wikipedia.org/wiki/Abdul_El-Sayed (used only to find leads)",
+  "Abdul El-Sayed artificial intelligence superintelligence (run 15 November 2026)",
+  "\"El-Sayed\" \"AI safety\" Michigan Senate (run 15 November 2026)",
+  "Abdul El-Sayed AI extinction OR \"existential risk\" OR \"existential threat\" (run 15 November 2026)",
+  "Abdul El-Sayed AI pause OR moratorium OR slowdown data centers (run 15 November 2026)",
+  "Abdul El-Sayed AI China agreement OR treaty OR \"arms race\" (run 15 November 2026)",
+  "site:abdulforsenate.com AI policy (run 15 November 2026)"
  ],
  "statements": [
   {
@@ -128,6 +128,58 @@
     "unsure"
    ],
    "reason": "Names loss of human control over powerful AI as a serious risk, without saying it would be permanent or fatal; the date is uncertain."
+  },
+  {
+   "date": "2026-06-09",
+   "venue": "Interview with Bridge Michigan",
+   "quote": "But no other industry has the potential to fundamentally change the nature of the social contract, or cause human demise to the level that AI is offering.",
+   "context": "Explaining why he backs public ownership and utility-style regulation of AI companies, answering critics who call that too intense.",
+   "source_label": "Bridge Michigan (Lauren Gibbons), 9 June 2026",
+   "url": "https://bridgemi.com/michigan-government/abdul-el-sayed-calls-for-public-ownership-of-ai-citing-risk-of-human-demise/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "Says in his own words that AI has the potential to cause human demise, a threat to humanity (ruling 1)."
+  },
+  {
+   "date": "2026-09-09",
+   "venue": "Statement reported by Common Dreams (said Wednesday; medium not stated, possibly his social media video)",
+   "quote": "We cannot, in a race against China or a race for these corporations to be the dominant AI manufacturer, inadvertently create products that slip human control, that could fall into the wrong hands, that could mean the demise of humanity.",
+   "context": "Reacting to an Anthropic researcher's resignation and backing a pause in advanced AI development.",
+   "source_label": "Common Dreams, 10 September 2026",
+   "url": "https://www.commondreams.org/news/el-sayed-ai-pause",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "Says AI products that slip human control could mean the demise of humanity."
+  },
+  {
+   "date": "2026-10-13",
+   "venue": "Interview with The New York Times, as quoted by Common Dreams",
+   "quote": "I understand that there’s a lot of money being sloshed around by AI super PACs, but this is the existential crisis of our time",
+   "context": "Speaking on the day he released his 'AI Under Control' plan; followed by 'If we don’t act quickly, we may get to a point at which we cannot act because it’s too late.'",
+   "source_label": "Common Dreams quoting The New York Times, 13 October 2026",
+   "url": "https://www.commondreams.org/news/abdul-el-sayed-ai",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls AI the existential crisis of our time; 'existential' is close to a threat-to-humanity claim but could be read as rhetorical emphasis, so boundary with B."
+  },
+  {
+   "date": "2026-09-09",
+   "venue": "Interview with The Washington Sun, as quoted by the Washington Examiner",
+   "quote": "except for you don’t have control over what you’re creating now, and you beating them may, in the interim, create technology we actually can’t keep hold of?",
+   "context": "Rejecting the argument that the US must race China on AI; the sentence begins 'So you’re telling me that you’re going to race forward into a technology you don’t really understand...'",
+   "source_label": "Washington Examiner, 9 September 2026",
+   "url": "https://www.washingtonexaminer.com/?p=4719435",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Names loss of control over AI as a risk of racing China, without saying the loss would be permanent or fatal."
   }
  ],
  "positions": {
@@ -208,9 +260,14 @@
    "Released 'AI Under Control', a campaign plan calling for a pause on frontier AI, a permanent ban on superintelligence and on recursive self-improvement, a shutdown requirement, a cabinet-level AI safety agency, and a US-China treaty to pause and ban superintelligence; the plan says it builds on the Ban Artificial Superintelligence Act from Sen. Bernie Sanders and Rep. Greg Casar and goes further.",
    "El-Sayed campaign policy paper, 13 October 2026",
    "https://abdulforsenate.com/2026/10/ai-under-control/"
+  ],
+  [
+   "Announced support for a legislative 'kill switch' requiring AI companies to be able to fully shut down their models, as part of his 'AI Under Control' plan (reported alongside Sen. John Kennedy's kill switch bill; no source shows he endorsed a specific bill).",
+   "The National News Desk (Sinclair), 13 October 2026",
+   "https://kmph.com/news/nation-world/senate-seeker-michan-democrat-abdul-el-sayed-digs-in-against-ai-backs-kill-switch-bill-republican-mike-rogers-2026-midterm-elections"
   ]
  ],
  "suggested_grade": "A",
- "grade_reason": "In his own words, in a campaign press release, a televised debate and his policy paper, he says AI could pose an existential threat to humanity or end humanity. He pairs this with calls for a pause, a ban on superintelligence and self-improving AI, and a treaty with China.",
- "notes": "SEARCHES THAT DID NOT RUN: all six required web searches (superintelligence; AI safety; extinction or existential risk; pause or slowdown or moratorium; China agreement or treaty; campaign-site-restricted search) were refused because the shared web search budget was used up. In their place I used the campaign website's own search box and opened pages directly. As a result, coverage of independent news is thin and there may be further statements I did not find. SOURCES ARE ALL THE CAMPAIGN'S OWN WEBSITE. Every quote was copied from the raw text of pages on abdulforsenate.com that I downloaded and read, and each was checked by script to be an exact continuous passage. Three quotes (The Washington Sun interview of 9 September, CBS Face the Nation of 13 September, FOX 2 debate of 15 September) are the campaign's transcription of his spoken words; I could not find or open the original interview, transcript or debate video, so the wording should be checked against those before publication. In the Face the Nation press release the quoted passage begins with an editorial '[We]'; the sentence I quote does not include it. The two policy papers and the priorities page are unsigned campaign documents written in the first person ('I’m calling for a pause'); I treated them as his own statements. The priorities page shows no date; 21 May 2026 is the date the site's search listing attaches to it, and the text may have been edited later, hence the 'unsure' flag. 23 SEPTEMBER 2026 LETTER AND BAN ARTIFICIAL SUPERINTELLIGENCE ACT: he was a candidate, not a senator, so he could not sign or co-sponsor, and I found no source showing that he did either. His plan says it builds on the Ban Artificial Superintelligence Act and goes further, which is support for the idea, not co-sponsorship. I found no mention of the 23 September letter on his site. NOT CHECKED OR NOT OPENED: his podcast (America Dissected) and any newsletter, and candidate questionnaires, were not searched because web search was unavailable. Michigan Advance (8 January 2026 article on his data center plan, and its site search) returned error 403. A New Republic article ('A Michigan Dem Just Dropped an AI Plan Even Tougher Than Bernie's', cited on Wikipedia) and an NPR piece of 8 August 2026 on data centers could not be located without search. I guessed one CBS transcript address and it did not exist. Wikipedia says he said union expansion is needed to protect 'worker dignity' as AI grows; that is a paraphrase and out of scope, so left out. LEFT OUT: the 15 September press release says in the campaign's voice that he 'laid out his plans to protect Americans from the existential risks of artificial intelligence'; that is the campaign's paraphrase, not his words. The 29 June press release says 'AI could be disastrous and fatal without the proper guardrails', attributed to company chief executives in the campaign's voice; left out. The plans describe AI security incidents (for example an 'OpenAI Hugging Face breach'); I did not verify those events and they do not affect the grading. OTHER QUOTABLE PASSAGES NOT INCLUDED BECAUSE OF THE EIGHT-STATEMENT LIMIT (all in the 13 October plan): 'At an absolute minimum, I’m calling for a pause in AI frontier development.' and the passage describing recursive self-improvement as 'a self-reinforcing doom loop that leads down the path of superintelligence'."
+ "grade_reason": "Unchanged at A. Independent news reports now confirm the campaign-site statements: he told Bridge Michigan in June 2026 that AI could cause 'human demise' and said in September that AI slipping human control 'could mean the demise of humanity'.",
+ "notes": "SEARCHES THAT DID NOT RUN: all six required web searches (superintelligence; AI safety; extinction or existential risk; pause or slowdown or moratorium; China agreement or treaty; campaign-site-restricted search) were refused because the shared web search budget was used up. In their place I used the campaign website's own search box and opened pages directly. As a result, coverage of independent news is thin and there may be further statements I did not find. SOURCES ARE ALL THE CAMPAIGN'S OWN WEBSITE. Every quote was copied from the raw text of pages on abdulforsenate.com that I downloaded and read, and each was checked by script to be an exact continuous passage. Three quotes (The Washington Sun interview of 9 September, CBS Face the Nation of 13 September, FOX 2 debate of 15 September) are the campaign's transcription of his spoken words; I could not find or open the original interview, transcript or debate video, so the wording should be checked against those before publication. In the Face the Nation press release the quoted passage begins with an editorial '[We]'; the sentence I quote does not include it. The two policy papers and the priorities page are unsigned campaign documents written in the first person ('I’m calling for a pause'); I treated them as his own statements. The priorities page shows no date; 21 May 2026 is the date the site's search listing attaches to it, and the text may have been edited later, hence the 'unsure' flag. 23 SEPTEMBER 2026 LETTER AND BAN ARTIFICIAL SUPERINTELLIGENCE ACT: he was a candidate, not a senator, so he could not sign or co-sponsor, and I found no source showing that he did either. His plan says it builds on the Ban Artificial Superintelligence Act and goes further, which is support for the idea, not co-sponsorship. I found no mention of the 23 September letter on his site. NOT CHECKED OR NOT OPENED: his podcast (America Dissected) and any newsletter, and candidate questionnaires, were not searched because web search was unavailable. Michigan Advance (8 January 2026 article on his data center plan, and its site search) returned error 403. A New Republic article ('A Michigan Dem Just Dropped an AI Plan Even Tougher Than Bernie's', cited on Wikipedia) and an NPR piece of 8 August 2026 on data centers could not be located without search. I guessed one CBS transcript address and it did not exist. Wikipedia says he said union expansion is needed to protect 'worker dignity' as AI grows; that is a paraphrase and out of scope, so left out. LEFT OUT: the 15 September press release says in the campaign's voice that he 'laid out his plans to protect Americans from the existential risks of artificial intelligence'; that is the campaign's paraphrase, not his words. The 29 June press release says 'AI could be disastrous and fatal without the proper guardrails', attributed to company chief executives in the campaign's voice; left out. The plans describe AI security incidents (for example an 'OpenAI Hugging Face breach'); I did not verify those events and they do not affect the grading. OTHER QUOTABLE PASSAGES NOT INCLUDED BECAUSE OF THE EIGHT-STATEMENT LIMIT (all in the 13 October plan): 'At an absolute minimum, I’m calling for a pause in AI frontier development.' and the passage describing recursive self-improvement as 'a self-reinforcing doom loop that leads down the path of superintelligence'. Searches rerun on 15 November 2026: 6 ran, none refused; 4 new statements. Notes from the rerun: All six searches ran; none refused. No follow-up searches were used; I opened pages found in the results directly (downloaded the HTML with curl into this scratch folder's pages/ subfolder and checked each quote by script as an exact continuous passage). New sources are independent news outlets, which partly addresses the old file's concern that every source was the campaign site. The Washington Examiner page independently matches the existing 'hit pause' Washington Sun quote word for word, which supports the campaign's transcription. The New York Times article (13 October 2026) was not opened directly: the GV Wire republication returned error 403 and I did not try nytimes.com; the 'existential crisis' quote is taken from Common Dreams, which attributes it to The New York Times. Its 'Tuesday' date is 13 October 2026. The Common Dreams 'demise of humanity' quote is dated 'Wednesday' in an article published 10 September 2026, i.e. 9 September 2026; the medium is not stated. Its sentence 'He quit because he's worried that the technology that he was building could end humanity.' plus 'That's something we should be paying attention to' (social media video) is a relayed and endorsed warning (would be A with relayed_warning) but is redundant and was left out. Bridge Michigan also quotes him (9 June 2026): 'Imagine what happens if the public owns half the stock, but then we don't actually enforce the safety requirements and something catastrophic happens' (level C, left out as weaker). Washington Examiner paraphrase that he called this a 'break glass moment' left out. The China search found no El-Sayed statement on a China agreement beyond what is already recorded from his plan. No source showed he signed the 23 September 2026 letter (he is not on the verified signer list) or co-sponsored the Ban Artificial Superintelligence Act (he was a candidate). Reports by Crypto Briefing and Puck seen only in search results, not opened. The 13 October Common Dreams page also carries the 'rogue AI agents...nuclear crisis or deploying bioweapons' quote already in the file, as said aloud on Tuesday, confirming it."
 }

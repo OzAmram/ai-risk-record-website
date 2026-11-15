@@ -1,0 +1,111 @@
+[
+ {
+  "id": "C001039",
+  "name": "Kat Cammack",
+  "accounts": [
+   {
+    "handle": "kat_cammack",
+    "account_type": "campaign",
+    "evidence_url": "https://katforcongress.com/",
+    "evidence": "Her campaign website (Kat for Congress) links its X/Twitter icon to https://twitter.com/kat_cammack."
+   }
+  ],
+  "notes": "Handle written in lower case in the campaign site's link; a search result summary showed it as Kat_Cammack."
+ },
+ {
+  "id": "B001314",
+  "name": "Aaron Bean",
+  "accounts": [
+   {
+    "handle": "AaronPBean",
+    "account_type": "campaign",
+    "evidence_url": "https://www.aaronbean.com",
+    "evidence": "His campaign website aaronbean.com links its X/Twitter icon to https://twitter.com/AaronPBean."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "R000609",
+  "name": "John H. Rutherford",
+  "accounts": [
+   {
+    "handle": "JRutherfordFL",
+    "account_type": "campaign",
+    "evidence_url": "https://johnrutherfordforcongress.com/",
+    "evidence": "His campaign website links to x.com/jrutherfordfl in the header and footer and embeds a February 2026 post from @JRutherfordFL."
+   }
+  ],
+  "notes": "Campaign site found through the Wikipedia infobox (en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)); the search itself did not surface it."
+ },
+ {
+  "id": "M001216",
+  "name": "Cory Mills",
+  "accounts": [],
+  "notes": "Campaign site millsforflorida.com (from the Wikipedia infobox) could not be read: its security certificate has expired. LegiStorm lists a second official account RepMillsPress_1 (labeled official, not personal or campaign), so it is not included here. No personal or campaign handle confirmed."
+ },
+ {
+  "id": "H001099",
+  "name": "Mike Haridopolos",
+  "accounts": [
+   {
+    "handle": "MikeHaridopolos",
+    "account_type": "campaign",
+    "evidence_url": "https://www.mike4congress.com/",
+    "evidence": "His campaign website mike4congress.com links its X/Twitter icon to https://twitter.com/MikeHaridopolos."
+   }
+  ],
+  "notes": "Campaign site found through a Wikipedia mirror infobox (cliffipedia.org)."
+ },
+ {
+  "id": "S001200",
+  "name": "Darren Soto",
+  "accounts": [
+   {
+    "handle": "darrensoto",
+    "account_type": "campaign",
+    "evidence_url": "https://darrensoto.com/",
+    "evidence": "His campaign website darrensoto.com links to http://x.com/darrensoto in its Stay Updated section and footer."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "F000476",
+  "name": "Maxwell Frost",
+  "accounts": [
+   {
+    "handle": "MaxwellFrostFL",
+    "account_type": "campaign",
+    "evidence_url": "https://www.frostforcongress.com/",
+    "evidence": "His campaign website frostforcongress.com links its X/Twitter icon to https://twitter.com/MaxwellFrostFL."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "W000806",
+  "name": "Daniel Webster",
+  "accounts": [],
+  "notes": "Campaign site electwebster.com (from Wikipedia and a Winter Garden Vox candidate page) now redirects to a WinRed donation page; its /issues page returns 404. Unconfirmed lead: a search result summary of ProPublica Politwoops listed 'WebsterCongress' as one of his accounts, but the Politwoops page did not show this when opened."
+ },
+ {
+  "id": "B001257",
+  "name": "Gus M. Bilirakis",
+  "accounts": [],
+  "notes": "Campaign site bilirakisforcongress.com (from the Wikipedia infobox) was opened and has no X/Twitter or other social media links. No personal or campaign handle found."
+ },
+ {
+  "id": "L000596",
+  "name": "Anna Paulina Luna",
+  "accounts": [
+   {
+    "handle": "VoteAPL",
+    "account_type": "campaign",
+    "evidence_url": "https://voteannapaulina.com/",
+    "evidence": "Her campaign website voteannapaulina.com links its X/Twitter icon to https://twitter.com/VoteAPL."
+   }
+  ],
+  "notes": "Unconfirmed lead: a search result summary of ProPublica Politwoops also listed 'realannapaulina' as one of her accounts; not verified on any opened page."
+ }
+]

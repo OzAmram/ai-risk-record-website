@@ -1,0 +1,124 @@
+[
+ {
+  "id": "O000172",
+  "name": "Alexandria Ocasio-Cortez",
+  "accounts": [
+   {
+    "handle": "AOC",
+    "account_type": "personal",
+    "evidence_url": "https://ocasiocortez.com/about",
+    "evidence": "Her campaign site's social icon rows link to https://twitter.com/AOC as her Twitter account."
+   },
+   {
+    "handle": "teamaoc",
+    "account_type": "campaign",
+    "evidence_url": "https://ocasiocortez.com/about",
+    "evidence": "The campaign site footer says 'Follow Alexandria's campaign on Twitter' and links to http://twitter.com/teamaoc."
+   }
+  ],
+  "notes": "AOC is her main personal account; teamaoc is the campaign account."
+ },
+ {
+  "id": "T000486",
+  "name": "Ritchie Torres",
+  "accounts": [
+   {
+    "handle": "ritchietorresny",
+    "account_type": "campaign",
+    "evidence_url": "https://torres.nyc/endorsements",
+    "evidence": "His campaign site torres.nyc links to https://twitter.com/ritchietorresny in its header and footer social links."
+   }
+  ],
+  "notes": "An Advocate article says he launched a new campaign X account; the campaign site's link is the one recorded. Whether it is better labeled personal or campaign is uncertain."
+ },
+ {
+  "id": "L000606",
+  "name": "George Latimer",
+  "accounts": [
+   {
+    "handle": "LatimerforNY",
+    "account_type": "campaign",
+    "evidence_url": "https://latimerforny.com/bio/",
+    "evidence": "His campaign site latimerforny.com links to https://twitter.com/LatimerforNY in its header and footer."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "L000599",
+  "name": "Michael Lawler",
+  "accounts": [
+   {
+    "handle": "lawler4ny",
+    "account_type": "campaign",
+    "evidence_url": "https://www.lawlerforcongress.com/",
+    "evidence": "His campaign site lawlerforcongress.com links to https://twitter.com/lawler4ny in the 'Connect with Mike' section and footer."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "R000579",
+  "name": "Patrick Ryan",
+  "accounts": [
+   {
+    "handle": "patryanuc",
+    "account_type": "campaign",
+    "evidence_url": "https://patryanforcongress.com",
+    "evidence": "His campaign site patryanforcongress.com links to https://twitter.com/patryanuc in its header social icons."
+   }
+  ],
+  "notes": "Handle written lowercase on the site; search results also show it as PatRyanUC. It may function as his personal account as well."
+ },
+ {
+  "id": "T000469",
+  "name": "Paul Tonko",
+  "accounts": [
+   {
+    "handle": "PaulTonko",
+    "account_type": "campaign",
+    "evidence_url": "https://paultonko.com/",
+    "evidence": "His campaign site paultonko.com links to https://www.x.com/PaulTonko under 'Connect with Paul on Social Media'."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "S001196",
+  "name": "Elise M. Stefanik",
+  "accounts": [],
+  "notes": "Unconfirmed lead: search summary said a congressional directory page shows 'Follow Elise Stefanik on X @EliseStefanik', but I did not open a page confirming it. Opening her Wikipedia page (to find the campaign site) was denied by the permission system; not worked around. Search results say she is not seeking re-election in 2026."
+ },
+ {
+  "id": "L000600",
+  "name": "Nicholas A. Langworthy",
+  "accounts": [],
+  "notes": "Campaign site nicklangworthy.com (Paid for by Langworthy for Congress) has no X/Twitter link, only Vimeo. Unconfirmed lead from search summary: @NickLangworthy (seen in tweet links in a 2022 Marathon Strategies profile, not opened)."
+ },
+ {
+  "id": "T000478",
+  "name": "Claudia Tenney",
+  "accounts": [
+   {
+    "handle": "claudiatenney",
+    "account_type": "campaign",
+    "evidence_url": "https://claudiaforcongress.com/",
+    "evidence": "Her campaign site claudiaforcongress.com ('Paid for by Claudia Tenney for Congress', footer 2026) links to https://twitter.com/claudiatenney."
+   }
+  ],
+  "notes": "Likely her personal/campaign account. Search summary also mentioned an old @ClaudiaForNY22 handle (2018 era, unconfirmed, likely inactive)."
+ },
+ {
+  "id": "M001206",
+  "name": "Joseph D. Morelle",
+  "accounts": [
+   {
+    "handle": "votemorelle",
+    "account_type": "campaign",
+    "evidence_url": "https://www.votemorelle.com/",
+    "evidence": "His campaign site votemorelle.com ('Paid for by Joe Morelle for Congress') links to https://twitter.com/votemorelle in the header and footer."
+   }
+  ],
+  "notes": "Campaign site URL found via the NYLCV endorsement profile https://nylcv.org/?p=11107."
+ }
+]

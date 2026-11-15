@@ -1,0 +1,125 @@
+[
+  {
+    "id": "H001077",
+    "name": "Clay Higgins",
+    "accounts": [
+      {
+        "handle": "CaptClayHiggins",
+        "account_type": "campaign",
+        "evidence_url": "http://captainhiggins.com/",
+        "evidence": "His campaign site (footer: 'Paid for by Captain Higgins for Congress'), linked from his Wikipedia infobox, links twitter.com/CaptClayHiggins in the footer and embeds 'Tweets by @CaptClayHiggins'."
+      }
+    ],
+    "notes": "Campaign site URL taken from the Wikipedia infobox. The site footer link is written in lower case (captclayhiggins); the embedded feed uses CaptClayHiggins."
+  },
+  {
+    "id": "F000110",
+    "name": "Cleo Fields",
+    "accounts": [],
+    "notes": "The search found his campaign site cleofields.com (search summary says it has an X icon in the footer), but both https://www.cleofields.com/ and https://www.cleofields.com/meet-cleo failed to load, so no handle could be confirmed. No unconfirmed handle lead was given in the search results."
+  },
+  {
+    "id": "N000015",
+    "name": "Richard E. Neal",
+    "accounts": [
+      {
+        "handle": "NealForCongress",
+        "account_type": "campaign",
+        "evidence_url": "http://nealforcongress.com",
+        "evidence": "His campaign site ('Richard Neal for Congress', paid for by the Richard E. Neal for Congress Committee), linked from his Wikipedia infobox, links twitter.com/NealForCongress in its social icons."
+      }
+    ],
+    "notes": "Campaign site URL taken from the Wikipedia infobox."
+  },
+  {
+    "id": "M000312",
+    "name": "James P. McGovern",
+    "accounts": [
+      {
+        "handle": "Team_McGovern",
+        "account_type": "campaign",
+        "evidence_url": "https://www.jimmcgovern.com/",
+        "evidence": "His campaign site (paid for by the Re-Elect McGovern Committee) has an X icon linking to /twitter/, which redirects (HTTP 301) to x.com/Team_McGovern."
+      }
+    ],
+    "notes": "Handle comes from the server redirect of https://www.jimmcgovern.com/twitter/; x.com itself was not opened."
+  },
+  {
+    "id": "T000482",
+    "name": "Lori Trahan",
+    "accounts": [
+      {
+        "handle": "loritrahanma",
+        "account_type": "campaign",
+        "evidence_url": "https://loritrahan.com/",
+        "evidence": "Her campaign site ('Paid for by Lori Trahan for Congress'), linked from her Wikipedia page, links twitter.com/loritrahanma in its social icons and embeds 'Tweets by LoriTrahanMA'."
+      }
+    ],
+    "notes": "Written both as loritrahanma (icon links) and LoriTrahanMA (embedded feed); same handle. Unconfirmed leads from search result summaries only (Politwoops archive, page I opened did not show them): LoriUSCongress (older campaign account) and latrahan (2018-era account)."
+  },
+  {
+    "id": "A000148",
+    "name": "Jake Auchincloss",
+    "accounts": [
+      {
+        "handle": "JakeAuch",
+        "account_type": "campaign",
+        "evidence_url": "https://jakeforma.com/",
+        "evidence": "His campaign site ('Paid for by Jake Auchincloss for Congress') links x.com/JakeAuch in its social icons."
+      }
+    ],
+    "notes": "Likely his personal-and-campaign account; labelled campaign because it is linked from the campaign site."
+  },
+  {
+    "id": "M001196",
+    "name": "Seth Moulton",
+    "accounts": [
+      {
+        "handle": "sethmoulton",
+        "account_type": "campaign",
+        "evidence_url": "https://sethmoulton.com/",
+        "evidence": "His campaign site ('Seth for Massachusetts', for U.S. Senate), linked from his Wikipedia infobox, has an X icon linking to /twitter, which redirects (HTTP 301) to x.com/sethmoulton."
+      }
+    ],
+    "notes": "The campaign site is now for a 2026 U.S. Senate run, not his House seat. Handle comes from the server redirect; x.com was not opened. Unconfirmed lead from search summary only: teammoulton (seen in 2016 archives)."
+  },
+  {
+    "id": "P000617",
+    "name": "Ayanna Pressley",
+    "accounts": [
+      {
+        "handle": "AyannaPressley",
+        "account_type": "campaign",
+        "evidence_url": "https://ayannapressley.com/",
+        "evidence": "Her campaign site ('Paid for by the Committee to Elect Ayanna Pressley') links twitter.com/AyannaPressley in its menu, social and footer sections."
+      }
+    ],
+    "notes": "Also written in lower case (ayannapressley) on the same page; same handle. Likely her personal-and-campaign account."
+  },
+  {
+    "id": "L000562",
+    "name": "Stephen F. Lynch",
+    "accounts": [
+      {
+        "handle": "replynch",
+        "account_type": "campaign",
+        "evidence_url": "http://stephenflynch.com",
+        "evidence": "His campaign site ('Paid for by Lynch for Congress'), linked from his Wikipedia infobox, has a 'Follow on X' footer icon linking twitter.com/replynch."
+      }
+    ],
+    "notes": "Uncertain: the handle 'replynch' looks like an official-style name and differs from RepStephenLynch on file; it may be an old or inactive account that the campaign site still links. Labelled campaign only because the campaign site links it. Worth a manual check."
+  },
+  {
+    "id": "K000375",
+    "name": "William R. Keating",
+    "accounts": [
+      {
+        "handle": "WilliamKeating",
+        "account_type": "campaign",
+        "evidence_url": "https://keatingforcongress.com/",
+        "evidence": "His campaign site ('Paid for by the Bill Keating Committee') links twitter.com/WilliamKeating in its social icons and embedded timeline."
+      }
+    ],
+    "notes": ""
+  }
+]

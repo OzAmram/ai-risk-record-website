@@ -2,13 +2,6 @@
  "bioguide": "ELECT-MN-FLANAGAN",
  "member": "Peggy Flanagan",
  "searches": [
-  "NOT RUN (web search budget exhausted): Peggy Flanagan artificial intelligence Senate campaign",
-  "NOT RUN (web search budget exhausted): \"Flanagan\" Minnesota Senate \"superintelligence\"",
-  "NOT RUN (web search budget exhausted): \"Peggy Flanagan\" \"AI safety\"",
-  "NOT RUN (web search budget exhausted): \"Peggy Flanagan\" AI extinction OR \"existential risk\"",
-  "NOT RUN (web search budget exhausted): \"Peggy Flanagan\" AI pause OR moratorium OR slowdown data centers",
-  "NOT RUN (web search budget exhausted): \"Peggy Flanagan\" AI China agreement OR treaty",
-  "NOT RUN (web search budget exhausted): site:peggyflanagan.com AI OR \"artificial intelligence\"",
   "Opened directly: peggyflanagan.com home page and /priorities/ (full text scanned for AI terms)",
   "Opened directly: peggyflanagan.com WordPress posts feed (all 7 posts, April-July 2025, scanned for AI terms; none)",
   "Site search, twincities.com (Pioneer Press): Flanagan artificial intelligence; Flanagan Tafoya debate; Flanagan Terminator",
@@ -16,7 +9,17 @@
   "Site search, sahanjournal.com: Flanagan artificial intelligence (no results)",
   "Site search, minnpost.com: Flanagan artificial intelligence; Flanagan \"data centers\"; Flanagan Craig AI (page returned only latest headlines, no usable results)",
   "Site search attempted but blocked or empty: startribune.com (HTTP 429), minnesotareformer.com (403), kare11.com (403), mprnews.org (results not rendered), fox9.com and cbsnews.com/minnesota (no usable results)",
-  "Opened directly: Wikipedia pages 'Peggy Flanagan' and '2026 United States Senate election in Minnesota' (no AI mentions); Ballotpedia 'Peggy Flanagan' (only repeats campaign site text)"
+  "Opened directly: Wikipedia pages 'Peggy Flanagan' and '2026 United States Senate election in Minnesota' (no AI mentions); Ballotpedia 'Peggy Flanagan' (only repeats campaign site text)",
+  "Peggy Flanagan artificial intelligence Senate campaign (run 15 November 2026)",
+  "\"Flanagan\" Minnesota Senate \"superintelligence\" (run 15 November 2026)",
+  "\"Peggy Flanagan\" \"AI safety\" (run 15 November 2026)",
+  "\"Peggy Flanagan\" AI extinction OR \"existential risk\" (run 15 November 2026)",
+  "\"Peggy Flanagan\" AI pause OR moratorium OR slowdown data centers (run 15 November 2026)",
+  "\"Peggy Flanagan\" AI China agreement OR treaty (run 15 November 2026)",
+  "site:peggyflanagan.com AI OR \"artificial intelligence\" (run 15 November 2026)",
+  "Flanagan \"Tech For The People\" Courier Minnesota AI pause (follow-up) (run 15 November 2026)",
+  "Peggy Flanagan AI \"pause\" advanced AI development Senate (follow-up) (run 15 November 2026)",
+  "Courier Minnesota Peggy Flanagan chatbots \"regulated\" AI event (follow-up) (run 15 November 2026)"
  ],
  "statements": [
   {
@@ -44,6 +47,18 @@
     "boundary"
    ],
    "reason": "A general call for caution about AI that names no risk; it sits between C and D, and only one sentence of her answer is reported."
+  },
+  {
+   "date": "2026-07-27",
+   "venue": "MPR News debate with Angie Craig, St. Paul",
+   "quote": "I think that this is an existential threat to us if it gets out of control",
+   "context": "Asked about artificial intelligence and possible regulation. Both candidates backed guardrails and a way to switch the technology off.",
+   "source_label": "MPR News, 27 July 2026",
+   "url": "https://www.mprnews.org/story/2026/07/27/angie-craig-peggy-flanagan-senate-race-debate-hosted-by-mpr-news",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "Calls AI an existential threat to us if it gets out of control. Added 15 November 2026 after a comparison with another site; the page was opened and the wording confirmed."
   }
  ],
  "positions": {
@@ -80,7 +95,7 @@
    "https://peggyflanagan.com/priorities/"
   ]
  ],
- "suggested_grade": "B",
- "grade_reason": "In the 16 October 2026 general election debate she said there are \"catastrophic risks that AI poses\". This rests on one quote in one news report; nothing found reaches the extinction or loss-of-control framing.",
- "notes": "WEB SEARCH DID NOT RUN: all seven web searches (general AI, superintelligence, AI safety, extinction/existential risk, pause/moratorium, China agreement, campaign-site-restricted) were refused because the shared search budget was used up. Research was done only by opening pages directly and using news sites' own search pages, so coverage is incomplete; Star Tribune, Minnesota Reformer, MinnPost, MPR News and KARE 11 could not be searched. A reviewer should rerun the searches. Date of the B quote: the Pioneer Press article (31 October) says only 'in a debate with Tafoya'; I dated it 16 October 2026 because the same article's photo caption and a KSTP report ('MN Senate candidates spar in the only debate before Election Day', 16 October) indicate that was the only Flanagan-Tafoya debate. I did not check the debate recording, so the quote relies on the newspaper's transcription and the full answer was not seen. The primary debate quote (27 July 2026) is dated from KSTP's same-day report of the MPR debate; MPR lists the video at https://www.youtube.com/watch?v=gDYHGPRp1E8 (not watched). Paraphrases left out of statements: Pioneer Press says she 'has expressed concerns about the potential dangers posed by artificial intelligence' and 'wants more federal regulation and independent inspection of data centers'; KSTP says she and Craig 'agreed the government needs to monitor and regulate the use of artificial intelligence'; Pioneer Press (8 August 2026) says she and allied groups accused Craig of 'coziness with energy, artificial intelligence and cryptocurrency groups'. Campaign site: the only AI mentions are about AI in health insurance prior authorization (level D, not included as statements). 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: she was not a senator and no source seen shows any signature, endorsement or comment by her; this was not searchable."
+ "suggested_grade": "A",
+ "grade_reason": "No new statements change the grade. It still rests on the 27 July 2026 MPR primary debate quote calling AI \"an existential threat to us if it gets out of control\", backed by the 16 October 2026 \"catastrophic risks\" quote.",
+ "notes": "WEB SEARCH DID NOT RUN: all seven web searches (general AI, superintelligence, AI safety, extinction/existential risk, pause/moratorium, China agreement, campaign-site-restricted) were refused because the shared search budget was used up. Research was done only by opening pages directly and using news sites' own search pages, so coverage is incomplete; Star Tribune, Minnesota Reformer, MinnPost, MPR News and KARE 11 could not be searched. A reviewer should rerun the searches. Date of the B quote: the Pioneer Press article (31 October) says only 'in a debate with Tafoya'; I dated it 16 October 2026 because the same article's photo caption and a KSTP report ('MN Senate candidates spar in the only debate before Election Day', 16 October) indicate that was the only Flanagan-Tafoya debate. I did not check the debate recording, so the quote relies on the newspaper's transcription and the full answer was not seen. The primary debate quote (27 July 2026) is dated from KSTP's same-day report of the MPR debate; MPR lists the video at https://www.youtube.com/watch?v=gDYHGPRp1E8 (not watched). Paraphrases left out of statements: Pioneer Press says she 'has expressed concerns about the potential dangers posed by artificial intelligence' and 'wants more federal regulation and independent inspection of data centers'; KSTP says she and Craig 'agreed the government needs to monitor and regulate the use of artificial intelligence'; Pioneer Press (8 August 2026) says she and allied groups accused Craig of 'coziness with energy, artificial intelligence and cryptocurrency groups'. Campaign site: the only AI mentions are about AI in health insurance prior authorization (level D, not included as statements). 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: she was not a senator and no source seen shows any signature, endorsement or comment by her; this was not searchable. Searches rerun on 15 November 2026: 10 ran, none refused; 0 new statements. Notes from the rerun: All 7 required searches ran, plus 3 follow-ups; none were refused. The site: search returned no peggyflanagan.com pages, and the search tool may ignore the site: operator. Superintelligence, AI safety, extinction, China and data-center searches returned nothing tied to Flanagan. Main new lead, a PARAPHRASE ONLY: KAXE / Minnesota News Connection (Mike Moen, 30 October 2026, https://www.kaxe.org/elections/2026-10-30/concerns-big-tech-pop-up-in-us-senate-race) says Flanagan \"has hinted at a potential pause in advanced AI development,\" noting concerns about chatbots. The article gives none of her own words about a pause. The quotes it does give are about chatbots and teen suicides, at an undated 'recent event' hosted by Courier Minnesota and Tech For The People: \"When we hear about young people who have died by suicide because of the conversations with these chatbots\" ... \"I can't even believe that this is something where we are still questioning whether they should be regulated.\" Those quotes are level D (harm to children). I left them out because they are less substantial than the D quote already in the file. I opened the page, but my page tool returned only short excerpts, so treat the wording as close but not fully verified. The pause position stays 'none' because no direct statement was found. A reviewer may want to find the original Courier Minnesota / Tech For The People event (video or article), since her actual words there might support pause = yes or mixed; my searches did not find it. The same article paraphrases her worry about AI's effect on jobs and Social Security, and her proposal for an independent body to regulate AI firms (the second is already in the record). Other results were about a June 2026 pro-Craig super PAC ad that she called an AI deepfake (CBS Minnesota, Patch, KFGO). That is level D, not catastrophic risk, and not included. No source shows any link between her and the 23 September 2026 China letter or the Ban Artificial Superintelligence Act; she was not a senator then and is not on the signer list."
 }

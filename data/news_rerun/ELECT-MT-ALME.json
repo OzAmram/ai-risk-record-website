@@ -1,0 +1,29 @@
+{"bioguide": "ELECT-MT-ALME", "member": "Kurt Alme",
+ "searches_run": [
+  "Kurt Alme Senate Montana artificial intelligence",
+  "\"Kurt Alme\" \"AI safety\"",
+  "\"Kurt Alme\" superintelligence",
+  "\"Alme\" Montana Senate AI extinction OR \"existential risk\"",
+  "\"Kurt Alme\" AI pause OR moratorium OR slowdown OR \"data centers\"",
+  "\"Kurt Alme\" AI China agreement OR treaty",
+  "site:almeforsenate.com artificial intelligence OR AI"
+ ],
+ "searches_refused": [],
+ "new_statements": [
+  {"date": "2026-08-31",
+   "venue": "Interview with MTN (KTVH) about data centers and AI",
+   "quote": "As a senator, I'd have the obligation to be sure that we get the benefits of innovation, without having any harm from a new technology,",
+   "context": "Montana Senate candidates were asked how to manage data centers and AI; the article also paraphrases Alme as saying the federal government will need to consider regulations for AI.",
+   "source_label": "KTVH (MTN News)",
+   "url": "https://www.ktvh.com/news/montana-politics/montana-u-s-senate-candidates-discuss-how-to-manage-data-centers-ai",
+   "read_at_source": true,
+   "level": "D",
+   "flags": [],
+   "reason": "A general wish to get the benefits of new technology without harm; it names no catastrophic risk from AI."}
+ ],
+ "position_changes": {},
+ "new_record_items": [],
+ "suggested_grade": "D",
+ "grade_reason": "All of his AI remarks found, old and new, are about data centers (costs, jobs, transparency, local control) or a general wish for innovation without harm. Nothing found acknowledges or dismisses catastrophic risk from AI.",
+ "corrections": "",
+ "notes": "All seven web searches ran; none was refused. Searches on AI safety, superintelligence, extinction, pause and China returned nothing mentioning Alme. The site: search returned no pages from almeforsenate.com (the filter appears not to have been applied), so the campaign site was not covered by this search; the earlier run had opened the site directly and found no AI content. Two follow-up pages opened: KTVH (new statement above) and NBC Montana, 18 October 2026 (https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate). QUOTE CHECK NEEDED: the fetch tool limits verbatim excerpts to 125 characters, so it returned the KTVH quote in two pieces ('As a senator, I'd have the obligation to be sure that we get the benefits of innovation,' and 'without having any harm from a new technology,' said Alme) and stated they form one continuous quoted paragraph; I joined them on that basis. A reviewer should check the exact sentence on the page. Date: the KTVH page shows no posting date; the fetch tool says Alme spoke Monday 31 August 2026, consistent with the existing KULR-8 entry. Other KTVH quotes left out as data-center-only (D, not more substantial): 'Those are some of the important guardrails that have to happen, as well as hiring local jobs'; 'There's going to be positive tax base opportunities here for communities, as well as good-paying jobs.' Paraphrases left out: KTVH says Alme believes the federal government will need to consider regulations for AI and that balancing growth with privacy and consumer protections is possible; NBC Montana says he wants AI and data center firms to be transparent about their financial and community footprint and endorses the Ratepayer Protection Act. NBC Montana direct quotes ('They need to make sure they pay their own way and they need to hire local jobs'; 'We should leave this to our local communities to decide.') are data-center-only and left out. No source shows Alme signing the 23 September 2026 China letter (he is not on the signer list and was not a senator) or co-sponsoring the Ban Artificial Superintelligence Act."}

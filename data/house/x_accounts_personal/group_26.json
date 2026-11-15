@@ -1,0 +1,118 @@
+[
+  {
+    "id": "S001201",
+    "name": "Thomas R. Suozzi",
+    "accounts": [
+      {
+        "handle": "Tom_Suozzi",
+        "account_type": "campaign",
+        "evidence_url": "https://suozziforcongress.com/",
+        "evidence": "The Suozzi for Congress campaign website links to x.com/Tom_Suozzi in its header and footer."
+      }
+    ],
+    "notes": "The account appears to be his long-running personal account that the campaign links to; labeled campaign because the campaign site uses it."
+  },
+  {
+    "id": "G000602",
+    "name": "Laura Gillen",
+    "accounts": [
+      {
+        "handle": "LauraAGillen",
+        "account_type": "campaign",
+        "evidence_url": "https://lauragillen.com",
+        "evidence": "Laura Gillen's campaign website links to twitter.com/LauraAGillen in its header and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001137",
+    "name": "Gregory W. Meeks",
+    "accounts": [],
+    "notes": "No campaign website found by the one search (only ActBlue donation pages and FEC committee 'Friends for Gregory Meeks'). Unconfirmed lead: search summary cited a ProPublica Politwoops listing of 'GregMeeksNYC' as his account, but the Politwoops page redirected to the archive landing page when opened, so it is not confirmed."
+  },
+  {
+    "id": "M001188",
+    "name": "Grace Meng",
+    "accounts": [
+      {
+        "handle": "grace4ny",
+        "account_type": "campaign",
+        "evidence_url": "https://www.gracefornewyork.com/",
+        "evidence": "Grace Meng's campaign website (gracefornewyork.com) links to x.com/grace4ny in its navigation menu."
+      }
+    ],
+    "notes": "Campaign site URL came from a 2026 Jim Owles club candidate questionnaire cited in the search results."
+  },
+  {
+    "id": "V000081",
+    "name": "Nydia M. Velázquez",
+    "accounts": [],
+    "notes": "Search found no campaign website; search summary says she announced in November 2025 she would not seek re-election in 2026. Official handle on file (NydiaVelazquez) may itself be her personal/long-running account. No separate account confirmed."
+  },
+  {
+    "id": "J000294",
+    "name": "Hakeem S. Jeffries",
+    "accounts": [
+      {
+        "handle": "hakeemjeffries",
+        "account_type": "campaign",
+        "evidence_url": "https://thenerdstash.com/?p=862694",
+        "evidence": "A Nerd Stash news article embeds a July 31, 2026 post from @hakeemjeffries and describes it as shared from his Brooklyn, New York, campaign account."
+      }
+    ],
+    "notes": "Campaign website itself was not found by the one search; evidence is a news article embedding the post, not a campaign or government page."
+  },
+  {
+    "id": "C001067",
+    "name": "Yvette D. Clarke",
+    "accounts": [
+      {
+        "handle": "voteyvette",
+        "account_type": "campaign",
+        "evidence_url": "https://voteyvette.com/",
+        "evidence": "Yvette Clarke's campaign website links to twitter.com/voteyvette in its header and footer and embeds a 'Tweets by VoteYvette' feed."
+      }
+    ],
+    "notes": "Handle is written in lower case in the links ('voteyvette') and as 'VoteYvette' in the embedded feed title."
+  },
+  {
+    "id": "G000599",
+    "name": "Daniel S. Goldman",
+    "accounts": [
+      {
+        "handle": "danielsgoldman",
+        "account_type": "personal",
+        "evidence_url": "https://dangoldmanforny.com/",
+        "evidence": "Dan Goldman's campaign website (dangoldmanforny.com) links to twitter.com/danielsgoldman."
+      }
+    ],
+    "notes": "Campaign domain came from a candidate listing in the search results; the handle looks like a personal-name account linked by the campaign, so labeled personal (could be considered campaign)."
+  },
+  {
+    "id": "N000002",
+    "name": "Jerrold Nadler",
+    "accounts": [
+      {
+        "handle": "JerryNadler",
+        "account_type": "personal",
+        "evidence_url": "https://www.westsiderag.com/2022/05/22/let-the-tweets-and-bullhorns-begin",
+        "evidence": "A West Side Rag article from May 2022 embeds a tweet attributed to 'Jerry Nadler (@JerryNadler)' containing a statement from Congressman Jerrold Nadler."
+      }
+    ],
+    "notes": "No campaign website: search summary says Nadler is retiring and endorsed Micah Lasher for NY-12. Evidence for @JerryNadler is from 2022; whether it is personal or campaign is not stated on the page, labeled personal as a best guess. A ProPublica Politwoops page for JerryNadler redirected to the archive landing page and could not be used."
+  },
+  {
+    "id": "E000297",
+    "name": "Adriano Espaillat",
+    "accounts": [
+      {
+        "handle": "espaillatny",
+        "account_type": "campaign",
+        "evidence_url": "https://adrianoespaillat.com/",
+        "evidence": "The Espaillat for Congress campaign website links to x.com/espaillatny in its header and footer."
+      }
+    ],
+    "notes": ""
+  }
+]

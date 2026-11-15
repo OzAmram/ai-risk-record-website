@@ -9,25 +9,41 @@
     "\"Barry Moore\" \"AI safety\"",
     "artificial intelligence (restricted to barrymoore.house.gov; the restriction was not applied by the search tool and no pages from his site came back)",
     "site:barrymoore.house.gov artificial intelligence (returned no pages from his site)",
-    "NOT RUN (search budget exhausted): Rep. Barry Moore Alabama Senate candidate \"artificial intelligence\" OR \"AI\" statement data centers 2026",
-    "NOT RUN (search budget exhausted): \"Barry Moore\" \"Ban Artificial Superintelligence Act\" cosponsors",
-    "NOT RUN (search budget exhausted): 17 senators letter AI talks China September 23 2026 signers",
     "Direct page: https://barrymoore.house.gov/media/press-releases (opened; 10 most recent releases, 27 Feb to 18 Sep 2026, none about AI)",
     "Direct page: https://barrymoore.house.gov/issues (opened; six issue areas, none about AI or technology)",
     "Direct page: https://yellowhammernews.com/?s=\"Barry Moore\"+artificial+intelligence (opened; no result about Moore and AI)",
     "Direct page: https://yellowhammernews.com/?s=\"Barry Moore\"+AI (opened; no result about Moore and AI)",
     "Direct page: https://yellowhammernews.com/barry-moore-op-ed-the-future-of-america-is-worth-fighting-for/ (opened; op-ed of 3 Nov 2026, no mention of AI)",
-    "Direct page: https://www.alreporter.com/?s=\"Barry Moore\"+artificial+intelligence (opened; page showed no search results, only unrelated headlines)"
+    "Direct page: https://www.alreporter.com/?s=\"Barry Moore\"+artificial+intelligence (opened; page showed no search results, only unrelated headlines)",
+    "Rep. Barry Moore Alabama Senate candidate \"artificial intelligence\" OR \"AI\" statement data centers 2026 (run 15 November 2026)",
+    "\"Barry Moore\" \"Ban Artificial Superintelligence Act\" cosponsors (run 15 November 2026)",
+    "\"Barry Moore\" Alabama \"artificial intelligence\" Senate (run 15 November 2026)"
   ],
   "statements": [],
   "positions": {
-    "slowdown": {"value": "none", "note": "No statement by Moore on slowing AI development was found.", "sources": []},
-    "pause": {"value": "none", "note": "No statement by Moore on pausing AI development was found.", "sources": []},
-    "intl": {"value": "none", "note": "No statement by Moore on an AI agreement or talks with China was found. He was a House member in September 2026, so he would not be expected among the signers of a senators' letter; the signer list was not seen.", "sources": []},
-    "rsi": {"value": "none", "note": "No statement by Moore on banning self-improving AI was found.", "sources": []}
+    "slowdown": {
+      "value": "none",
+      "note": "No statement by Moore on slowing AI development was found.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement by Moore on pausing AI development was found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement by Moore on an AI agreement or talks with China was found. He was a House member in September 2026, so he would not be expected among the signers of a senators' letter; the signer list was not seen.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement by Moore on banning self-improving AI was found.",
+      "sources": []
+    }
   },
   "record": [],
   "suggested_grade": "none",
-  "grade_reason": "No statement by Barry Moore about AI of any kind was found in the searches that ran or on the pages opened. The search was incomplete (see notes), so this is 'nothing found', not 'confirmed nothing exists'.",
-  "notes": "INCOMPLETE SEARCH. Five topic searches ran (superintelligence, extinction/existential risk, pause/slowdown/moratorium, China agreement, 'AI safety') and returned nothing about this Barry Moore; hits were for other people named Moore (Russell Moore, McKay Moore, Blake Moore of Utah, Alabama state Rep. Parker Moore, Massachusetts state Sen. Michael Moore, Johnnie Moore, Jared Moore), none used. The official-site search did not work: the domain restriction was ignored on the first try and a site: query returned no pages from barrymoore.house.gov; I instead opened his press-release list (latest 10 only, Feb-Sep 2026; older pages not checked) and issues page directly, and neither mentions AI. Three further searches were refused because the shared search budget ran out: a general Moore + AI/data centers search, the Ban Artificial Superintelligence Act co-sponsor check, and the 23 September 2026 senators' letter check. Neither of those two events could therefore be verified from a source: I saw no source showing Moore co-sponsored the Ban Artificial Superintelligence Act (a search summary described it as announced by Sen. Bernie Sanders and Rep. Greg Casar, not read at source) and no signer list for the letter (he was a House member, not a senator, at the time). Pages that could not be opened: barrymoore.house.gov site search (403), congress.gov member page for sponsored/co-sponsored bills (403), texasmonthly.com Casar bill article (403), 1819news.com search (404), barrymooreforsenate.com (returned empty; I am not certain this is his campaign address), al.com search, barrymoore.com and aljazeera.com (fetch rate-limited). His bill sponsorships and House votes on AI-related measures (for example the 2025 budget bill that contained a moratorium on state AI laws) were not checked at source and are not recorded. A Yellowhammer 'Grand Old Podcast' episode with Moore (6 Oct 2026) appeared in results but is audio and was not reviewed. No paraphrases were left out; none were found."
+  "grade_reason": "No statement by Barry Moore about AI of any kind was found, in the earlier run or in these three searches. This is 'nothing found', not 'confirmed nothing exists'.",
+  "notes": "INCOMPLETE SEARCH. Five topic searches ran (superintelligence, extinction/existential risk, pause/slowdown/moratorium, China agreement, 'AI safety') and returned nothing about this Barry Moore; hits were for other people named Moore (Russell Moore, McKay Moore, Blake Moore of Utah, Alabama state Rep. Parker Moore, Massachusetts state Sen. Michael Moore, Johnnie Moore, Jared Moore), none used. The official-site search did not work: the domain restriction was ignored on the first try and a site: query returned no pages from barrymoore.house.gov; I instead opened his press-release list (latest 10 only, Feb-Sep 2026; older pages not checked) and issues page directly, and neither mentions AI. Three further searches were refused because the shared search budget ran out: a general Moore + AI/data centers search, the Ban Artificial Superintelligence Act co-sponsor check, and the 23 September 2026 senators' letter check. Neither of those two events could therefore be verified from a source: I saw no source showing Moore co-sponsored the Ban Artificial Superintelligence Act (a search summary described it as announced by Sen. Bernie Sanders and Rep. Greg Casar, not read at source) and no signer list for the letter (he was a House member, not a senator, at the time). Pages that could not be opened: barrymoore.house.gov site search (403), congress.gov member page for sponsored/co-sponsored bills (403), texasmonthly.com Casar bill article (403), 1819news.com search (404), barrymooreforsenate.com (returned empty; I am not certain this is his campaign address), al.com search, barrymoore.com and aljazeera.com (fetch rate-limited). His bill sponsorships and House votes on AI-related measures (for example the 2025 budget bill that contained a moratorium on state AI laws) were not checked at source and are not recorded. A Yellowhammer 'Grand Old Podcast' episode with Moore (6 Oct 2026) appeared in results but is audio and was not reviewed. No paraphrases were left out; none were found. Searches rerun on 15 November 2026: 3 ran, none refused; 0 new statements. Notes from the rerun: Three searches ran, none refused. (1) General Moore + AI/data centers search: no statement by Moore; results were about Tuberville, Rep. Terri Sewell, Doug Jones and the Ratepayer Protection Act (his vote on it was not shown). (2) Ban Artificial Superintelligence Act: opened https://fastdemocracy.com/bill-search/us/119/bills/USB00108512/ (H.R. 10538, introduced 2026-09-24); it lists 12 cosponsors, all Democrats (Khanna, Mejia, Ansari, Hoyle, Lynch, Garcia, Deluzio, Grijalva, Velazquez, Ocasio-Cortez, Randall, Tonko); Moore is not listed. The page oddly names no primary sponsor (news reports say Rep. Greg Casar), and its list may be dated, so congress.gov would be the authoritative check (it returned 403 in the earlier run). (3) General Moore + AI search: hits were about Alabama state Rep. Parker Moore (a different person) and Moore's Senate campaign announcement; nothing about Moore and AI. The third NOT RUN search (23 September 2026 senators' letter on AI talks with China) was not run because the addendum already gives the verified signer list; Moore is not on it (he was a House member then). The six topic searches required by the instructions were already covered in the earlier run. His House votes on AI-related measures were not checked."
 }

@@ -1,0 +1,27 @@
+{"bioguide": "H001046", "member": "Martin Heinrich",
+ "searches_run": [
+  "Van Hollen letter Trump Xi AI agreement 17 senators signed Heinrich Luján Cantwell Warren Duckworth full list",
+  "Heinrich 2025 OR 2026 AI \"Heinrich said\" artificial intelligence national labs risks guardrails (restricted to heinrich.senate.gov)"
+ ],
+ "searches_refused": [],
+ "new_statements": [
+  {"date": "2025-07-30",
+   "venue": "Press release on reintroducing the Unleashing AI Innovation in Financial Services Act",
+   "quote": "To unlock AI's full potential and ensure it is deployed responsibly, we need regulatory guardrails that are informed by real-life use cases",
+   "context": "Heinrich was announcing a bill that would let financial firms and regulators test AI products together in a supervised setting.",
+   "source_label": "Senate press release (heinrich.senate.gov)",
+   "url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-rounds-tillis-kim-reintroduce-legislation-supporting-ai-innovation-in-financial-services",
+   "read_at_source": true,
+   "level": "D",
+   "flags": ["bill_or_action"],
+   "reason": "A general call for regulatory guardrails on AI in financial services; it does not mention serious or catastrophic risk from advanced AI."}
+ ],
+ "position_changes": {},
+ "new_record_items": [
+  ["Co-led, with Senators Rounds, Tillis and Kim, the reintroduced Unleashing AI Innovation in Financial Services Act, which sets up supervised testing of AI by financial firms; not about catastrophic risk.", "Senate press release, 30 July 2025", "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-rounds-tillis-kim-reintroduce-legislation-supporting-ai-innovation-in-financial-services"],
+  ["Helped secure provisions in the Senate-passed 2026 defense bill requiring the Defense Department to buy commercial AI services only from companies with sound cybersecurity, and to make official videos verifiable against deepfakes; not about catastrophic risk.", "Senate press release, 9 October 2025", "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-military-installations-national-labs-in-senate-passed-fy2026-national-defense-bill"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "His statements on AI since 1 January 2025 (the April 2026 remark already on file and the July 2025 remark found now) talk about AI safeguards and guardrails in general. None mentions catastrophic risk, and none dismisses it.",
+ "corrections": "",
+ "notes": "Both searches the earlier run could not do were run now, and neither was refused. The six required topics were already covered in the existing file, so no other searches were run. China letter: the search results named only some signers (Luján, Cantwell, Warren, Duckworth, Padilla, Van Hollen) and Heinrich appears in none of them. This matches the existing file and the verified list of signers in the addendum, which does not include him. Two news outlets in the results give the letter's date as 24 or 25 September rather than 23 September; the existing file's date comes from the letter PDF, so I left it unchanged. The July 2025 quote: the page-fetch tool returned Heinrich's sentence split into two pieces at the point where the press release has a speech tag (the 'continued' marker came from the tool). The search result showed the same wording as one continuous passage, so the text as written should be exact, but a reviewer may want to confirm the punctuation on the page. The rest of his quote in that release is about consumer protection and innovation. A search result also quoted a TIME profile ('It would be unwise to treat AI the way we did the internet and social media early on...') and the line 'Congress needs to set the right guardrails', but these appear to be from 2023 (TIME 100 AI list and 2023 AI Insight Forum releases), so I left them out. The defense bill release (9 October 2025) quotes Heinrich only on cybersecurity provisions that came out of the Senate AI working group, which is level D at most, so I did not add it as a statement."}

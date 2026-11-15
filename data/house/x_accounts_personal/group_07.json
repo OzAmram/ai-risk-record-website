@@ -1,0 +1,104 @@
+[
+  {
+    "id": "C001110",
+    "name": "J. Luis Correa",
+    "accounts": [],
+    "notes": "Campaign site loucorrea.com was opened; it links Facebook and Instagram but no X account. Unconfirmed lead: a search result summary said ProPublica Politwoops listed 'voteloucorrea' as one of his accounts, but the Politwoops page I opened did not show any handles, so it is not confirmed."
+  },
+  {
+    "id": "I000056",
+    "name": "Darrell Issa",
+    "accounts": [
+      {
+        "handle": "DarrellIssa",
+        "account_type": "personal",
+        "evidence_url": "https://dailycaller.com/2026/03/06/veteran-gop-rep-announces-retirement/",
+        "evidence": "Daily Caller article on Issa's March 2026 retirement announcement embeds a post from his X account @DarrellIssa and says he announced the decision in a post on X."
+      }
+    ],
+    "notes": "No campaign website found; he announced in March 2026 that he would not seek re-election. Handle confirmed only via a news article embed, not a campaign site."
+  },
+  {
+    "id": "L000593",
+    "name": "Mike Levin",
+    "accounts": [
+      {
+        "handle": "mikelevin",
+        "account_type": "campaign",
+        "evidence_url": "https://mikelevin.org",
+        "evidence": "His campaign website mikelevin.org links to https://twitter.com/mikelevin."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "P000608",
+    "name": "Scott H. Peters",
+    "accounts": [
+      {
+        "handle": "ScottPetersSD",
+        "account_type": "campaign",
+        "evidence_url": "https://scottpeters.com/",
+        "evidence": "His campaign website scottpeters.com (paid for by Scott Peters for Congress) links to http://twitter.com/ScottPetersSD."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "J000305",
+    "name": "Sara Jacobs",
+    "accounts": [],
+    "notes": "No campaign website found (sarajacobs.com is a parked domain for sale, not hers). LegiStorm page lists only the official @RepSaraJacobs; its campaign X link is behind a paywall. Unconfirmed lead: a search result summary said ProPublica Politwoops tracks 'SaraJacobsCA' for her, but the Politwoops page I opened showed no handles."
+  },
+  {
+    "id": "V000130",
+    "name": "Juan Vargas",
+    "accounts": [],
+    "notes": "Campaign site votevargas.com was opened; it links only Instagram (vargasforcongress), no X account."
+  },
+  {
+    "id": "D000197",
+    "name": "Diana DeGette",
+    "accounts": [],
+    "notes": "Campaign site appears to be degette.com (per search results) but it failed to load (DNS lookup failed for degette.com and www.degette.com). Unconfirmed lead: search results included a ProPublica Politwoops page for user 'DeGette5280', not opened/confirmed."
+  },
+  {
+    "id": "N000191",
+    "name": "Joe Neguse",
+    "accounts": [
+      {
+        "handle": "JoeNeguse",
+        "account_type": "campaign",
+        "evidence_url": "https://joeforcolorado.com/",
+        "evidence": "His campaign website joeforcolorado.com (Joe Neguse for Congress) links to http://twitter.com/JoeNeguse in its header, footer and social icons."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "H001100",
+    "name": "Jeff Hurd",
+    "accounts": [
+      {
+        "handle": "jeff4colorado",
+        "account_type": "campaign",
+        "evidence_url": "https://jeffhurdforcolorado.com",
+        "evidence": "His campaign website jeffhurdforcolorado.com (paid for by Jeff Hurd for Congress) links to https://x.com/jeff4colorado."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "B000825",
+    "name": "Lauren Boebert",
+    "accounts": [
+      {
+        "handle": "laurenboebert",
+        "account_type": "campaign",
+        "evidence_url": "https://laurenforcolorado.com/",
+        "evidence": "Her campaign website laurenforcolorado.com links to http://twitter.com/laurenboebert."
+      }
+    ],
+    "notes": "Name-only handle linked from the campaign site; it may function as her personal account as much as a campaign account."
+  }
+]

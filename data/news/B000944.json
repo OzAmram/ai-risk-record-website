@@ -2,13 +2,6 @@
   "bioguide": "B000944",
   "member": "Sherrod Brown",
   "searches": [
-    "NOT RUN (web search budget exhausted): Sherrod Brown artificial intelligence 2026 Senate campaign",
-    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" superintelligence",
-    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" AI extinction OR \"existential risk\"",
-    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" AI pause OR slowdown OR moratorium data centers",
-    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" AI China agreement OR treaty",
-    "NOT RUN (web search budget exhausted): \"Sherrod Brown\" \"AI safety\"",
-    "NOT RUN (web search budget exhausted): Sherrod Brown AI (restricted to sherrodbrown.com)",
     "Opened directly: https://www.sherrodbrown.com/ , /issues/ and /news/ (campaign site; no AI content visible)",
     "statenews.org site search: Sherrod Brown artificial intelligence",
     "statenews.org site search: Sherrod Brown data centers",
@@ -19,7 +12,14 @@
     "signalohio.org site search: Sherrod Brown artificial intelligence (nothing found)",
     "news5cleveland.com site search: Sherrod Brown artificial intelligence",
     "news5cleveland.com site search: Sherrod Brown data centers",
-    "FAILED to open: ohiocapitaljournal.com site search (403), nbc4i.com site search (403), cleveland.com site search (blocked), dispatch.com site search (blocked), apnews.com site search (rate-limited), congress.gov search for Ban Artificial Superintelligence Act (403)"
+    "FAILED to open: ohiocapitaljournal.com site search (403), nbc4i.com site search (403), cleveland.com site search (blocked), dispatch.com site search (blocked), apnews.com site search (rate-limited), congress.gov search for Ban Artificial Superintelligence Act (403)",
+    "Sherrod Brown artificial intelligence 2026 Senate campaign (run 15 November 2026)",
+    "\"Sherrod Brown\" superintelligence (run 15 November 2026)",
+    "\"Sherrod Brown\" AI extinction OR \"existential risk\" (run 15 November 2026)",
+    "\"Sherrod Brown\" AI pause OR slowdown OR moratorium data centers (run 15 November 2026)",
+    "\"Sherrod Brown\" AI China agreement OR treaty (run 15 November 2026)",
+    "\"Sherrod Brown\" \"AI safety\" (run 15 November 2026)",
+    "Sherrod Brown AI (restricted to sherrodbrown.com) (run 15 November 2026)"
   ],
   "statements": [
     {
@@ -31,18 +31,41 @@
       "url": "https://www.statenews.org/government-politics/2026-08-17/ohios-u-s-senate-candidates-recalibrate-their-stances-on-data-centers",
       "read_at_source": true,
       "level": "D",
-      "flags": ["unsure"],
+      "flags": [
+        "unsure"
+      ],
       "reason": "The remark is about data centers, tax subsidies and his opponent; it does not mention AI itself or any catastrophic risk from AI."
     }
   ],
   "positions": {
-    "slowdown": {"value": "none", "note": "No statement found on slowing AI development. His data center criticism is about tax subsidies, electricity rates, land and water use and local input, not risks from AI itself, and no source showed him calling for a moratorium.", "sources": [["Statehouse News Bureau, 17 August 2026", "https://www.statenews.org/government-politics/2026-08-17/ohios-u-s-senate-candidates-recalibrate-their-stances-on-data-centers"]]},
-    "pause": {"value": "none", "note": "No statement found on pausing frontier AI development.", "sources": []},
-    "intl": {"value": "none", "note": "No statement found on an AI agreement or talks with China.", "sources": []},
-    "rsi": {"value": "none", "note": "No statement found on banning self-improving AI.", "sources": []}
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development. His data center criticism is about tax subsidies, electricity rates, land and water use and local input, not risks from AI itself, and no source showed him calling for a moratorium.",
+      "sources": [
+        [
+          "Statehouse News Bureau, 17 August 2026",
+          "https://www.statenews.org/government-politics/2026-08-17/ohios-u-s-senate-candidates-recalibrate-their-stances-on-data-centers"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an AI agreement or talks with China.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on banning self-improving AI.",
+      "sources": []
+    }
   },
   "record": [],
   "suggested_grade": "D",
-  "grade_reason": "The only AI-adjacent material found since 1 January 2025 is campaign criticism of data center tax breaks and electricity costs, which does not acknowledge catastrophic risk from AI. This rests on an incomplete search (general web search did not run), so 'none found' is weakly supported.",
-  "notes": "IMPORTANT: all seven general web searches were refused (shared search budget used up), so none of the required topic searches (superintelligence, extinction, pause, China agreement, 'AI safety', official-site search) actually ran. Coverage comes only from the campaign site and the site search pages of Statehouse News Bureau, WOSU, Ideastream, Signal Ohio and News 5 Cleveland; Ohio Capital Journal, NBC4, cleveland.com, Columbus Dispatch, AP and congress.gov could not be opened. A reviewer should rerun the searches before treating this as a finding of nothing. The campaign site (sherrodbrown.com home, /issues/, /news/) showed only donation content to the fetch tool and no AI text. 23 September 2026 China letter and Ban Artificial Superintelligence Act: no source was found either way; Brown was not a sitting senator in September 2026, so he could not have signed or co-sponsored as a senator, but that is my inference, not something a source showed. The single statement: the page fetch tool returned the quote consistently on two separate reads but would not reproduce the full paragraph, so please check the wording against the page; the interview is described as an 'August interview' and the date given (2026-08-17) is the article's publication date, not the confirmed interview date. Whether a data center remark that never mentions AI belongs as level D or should be dropped (making the grade 'none') is a judgment call; I flagged it 'unsure'. Left out because the fetch tool returned only fragments, not continuous passages I could verify: Brown's remarks to News 5 Cleveland (two undated 2026 articles, https://www.news5cleveland.com/news/politics/ohio-politics/ohio-u-s-senate-candidates-make-their-case-to-voters-weary-of-data-centers and https://www.news5cleveland.com/news/local-news/data-centers-remain-a-flashpoint-in-ohios-u-s-senate-race) saying, in paraphrase, that data center tax subsidies should be removed, local communities should decide whether data centers come, and ratepayers should not pay higher electric bills for them; and an X post quoted by AP/Scripps around 2 October 2026 about Husted giving tax breaks to Big Tech for data centers (X is out of scope here). None of these mention AI risk. Related coverage with no Brown quotes: WOSU 'Sherrod Brown Takes On Data Centers' (9 July 2026) and 'Ad targets Husted on data center support' (16 July 2026); Statehouse News Bureau candidate comparison (29 October 2026)."
+  "grade_reason": "The seven searches found no statement by Brown since 1 January 2025 about catastrophic risk from AI, or about AI itself apart from data centers. His campaign material is about data center electricity costs and tax breaks. The grade stays D, which rests on the existing data center quote; if a reviewer decides that quote is not about AI, the grade becomes 'none'.",
+  "notes": "IMPORTANT: all seven general web searches were refused (shared search budget used up), so none of the required topic searches (superintelligence, extinction, pause, China agreement, 'AI safety', official-site search) actually ran. Coverage comes only from the campaign site and the site search pages of Statehouse News Bureau, WOSU, Ideastream, Signal Ohio and News 5 Cleveland; Ohio Capital Journal, NBC4, cleveland.com, Columbus Dispatch, AP and congress.gov could not be opened. A reviewer should rerun the searches before treating this as a finding of nothing. The campaign site (sherrodbrown.com home, /issues/, /news/) showed only donation content to the fetch tool and no AI text. 23 September 2026 China letter and Ban Artificial Superintelligence Act: no source was found either way; Brown was not a sitting senator in September 2026, so he could not have signed or co-sponsored as a senator, but that is my inference, not something a source showed. The single statement: the page fetch tool returned the quote consistently on two separate reads but would not reproduce the full paragraph, so please check the wording against the page; the interview is described as an 'August interview' and the date given (2026-08-17) is the article's publication date, not the confirmed interview date. Whether a data center remark that never mentions AI belongs as level D or should be dropped (making the grade 'none') is a judgment call; I flagged it 'unsure'. Left out because the fetch tool returned only fragments, not continuous passages I could verify: Brown's remarks to News 5 Cleveland (two undated 2026 articles, https://www.news5cleveland.com/news/politics/ohio-politics/ohio-u-s-senate-candidates-make-their-case-to-voters-weary-of-data-centers and https://www.news5cleveland.com/news/local-news/data-centers-remain-a-flashpoint-in-ohios-u-s-senate-race) saying, in paraphrase, that data center tax subsidies should be removed, local communities should decide whether data centers come, and ratepayers should not pay higher electric bills for them; and an X post quoted by AP/Scripps around 2 October 2026 about Husted giving tax breaks to Big Tech for data centers (X is out of scope here). None of these mention AI risk. Related coverage with no Brown quotes: WOSU 'Sherrod Brown Takes On Data Centers' (9 July 2026) and 'Ad targets Husted on data center support' (16 July 2026); Statehouse News Bureau candidate comparison (29 October 2026). Searches rerun on 15 November 2026: 7 ran, none refused; 0 new statements. Notes from the rerun: All seven searches ran and none was refused. No page linked Brown to superintelligence, extinction or existential risk, a pause or moratorium (the Sanders and Ocasio-Cortez data center moratorium bill does not name him), a China agreement, or 'AI safety' in 2025-2026. The only 'AI safety' hit tied to Brown was his 20 September 2023 Banking Committee hearing statement (https://www.banking.senate.gov/newsroom/majority/brown-ai-consumer-worker-protections), which is before 2025 and about consumer and worker protections, so it is out of scope. He is not on the verified list of signers of the 23 September 2026 China letter, and as a non-senator in 2026 he could not have co-sponsored the Ban Artificial Superintelligence Act. No source showed him supporting it either. Pages opened, with no AI content in Brown's own words: the campaign ad page of 10 July 2026 (https://www.sherrodbrown.com/2026/07/10/new-ad-sherrod-brown-for-corporations-to-pay-the-full-cost-of-their-data-centers/), where his script says 'I'll require the data centers pay the full cost of their electricity, not you.' and never mentions AI, so it is level D at most and not worth adding; Governing, 6 July 2026, which mentions Brown only in passing as a past target of crypto spending; Benton, 13 February 2026, which does not mention Brown; a Sinclair (Local 12) story of 17 September 2026 on AI safety laws, which does not mention Brown; and Good Morning America/ABC, 20 August 2026, which has no direct Brown quotes, only paraphrase and a Republican committee memo. Search summaries also mentioned Fox News stories saying Brown praised a data center expansion in 2015. I did not open them because they concern data centers, not AI risk. The other open questions in the existing file still apply: check the wording of the existing quote, and decide whether a data center remark that never mentions AI should count as D or be dropped."
 }

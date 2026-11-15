@@ -1,0 +1,111 @@
+[
+  {
+    "id": "S001228",
+    "name": "Derek Schmidt",
+    "accounts": [
+      {
+        "handle": "derekschmidtks",
+        "account_type": "campaign",
+        "evidence_url": "https://derekschmidt.com/",
+        "evidence": "Derek Schmidt's campaign website links to https://x.com/derekschmidtks in its header and footer, alongside Facebook and Instagram accounts with the same name."
+      }
+    ],
+    "notes": "A search summary also cited a 2024 post at x.com/DerekSchmidtKS, which is the same handle with different capitalization."
+  },
+  {
+    "id": "D000629",
+    "name": "Sharice Davids",
+    "accounts": [
+      {
+        "handle": "ShariceDavids",
+        "account_type": "campaign",
+        "evidence_url": "https://shariceforcongress.com/",
+        "evidence": "The campaign website's Twitter icon links to shariceforcongress.com/twitter, which redirects with a 301 to https://x.com/ShariceDavids."
+      }
+    ],
+    "notes": "The handle comes from the redirect target of the campaign site's own /twitter link. x.com was not opened."
+  },
+  {
+    "id": "E000298",
+    "name": "Ron Estes",
+    "accounts": [
+      {
+        "handle": "ronestesks",
+        "account_type": "campaign",
+        "evidence_url": "https://estesforcongress.com/",
+        "evidence": "The Estes for Congress campaign website links to https://twitter.com/ronestesks at the top of the page, next to its Facebook and YouTube links."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C001108",
+    "name": "James Comer",
+    "accounts": [
+      {
+        "handle": "JamesComer",
+        "account_type": "personal",
+        "evidence_url": "https://www.branch.vote/races/2026-kentucky-general-election-ky-state-us-representative-ky-congressional-1/candidates/james-comer",
+        "evidence": "The Branch voter guide profile for James Comer in the 2026 Kentucky 1st District general election lists his campaign site jamescomer.com and the X account https://x.com/JamesComer."
+      }
+    ],
+    "notes": "Medium confidence: the evidence comes from a third-party voter guide (Branch), not his own site. His campaign site jamescomer.com links only to Facebook (kycomerforcongress) and has no X link. The account type is uncertain: it could be personal or campaign."
+  },
+  {
+    "id": "G000558",
+    "name": "Brett Guthrie",
+    "accounts": [
+      {
+        "handle": "brettguthrie",
+        "account_type": "campaign",
+        "evidence_url": "https://brettguthrie.com/",
+        "evidence": "The Guthrie for Congress campaign website links to https://x.com/brettguthrie in its header and https://twitter.com/brettguthrie in its footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001220",
+    "name": "Morgan McGarvey",
+    "accounts": [
+      {
+        "handle": "MorganMcGarvey",
+        "account_type": "campaign",
+        "evidence_url": "https://www.morganmcgarvey.com/",
+        "evidence": "Morgan McGarvey's campaign website links to https://twitter.com/MorganMcGarvey in its header and footer, alongside the MorganMcGarveyForCongress Facebook page."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001184",
+    "name": "Thomas Massie",
+    "accounts": [
+      {
+        "handle": "massieforky",
+        "account_type": "campaign",
+        "evidence_url": "https://www.thomasmassie.com/",
+        "evidence": "The 'Thomas Massie for U.S. Congress' website, paid for by Thomas Massie for Congress, links to https://twitter.com/massieforky in its header and footer."
+      }
+    ],
+    "notes": "The campaign site URL came from prior knowledge, not from the search. The page itself confirms it is his campaign site."
+  },
+  {
+    "id": "R000395",
+    "name": "Harold Rogers",
+    "accounts": [],
+    "notes": "The campaign site congressmanhalrogers.com (paid for by Hal Rogers for Congress) has no X link, only Facebook (HalRogersForCongress). The Branch voter guide lists only RepHalRogers, which is already on file. No separate personal or campaign X account was found."
+  },
+  {
+    "id": "S001176",
+    "name": "Steve Scalise",
+    "accounts": [],
+    "notes": "stevescalise.com (its donation link goes to Scalise for Congress) has no X or social links. The only handle seen was SteveScalise, which is already on file. A search summary says LegiStorm lists a campaign X account, but the handle was not visible."
+  },
+  {
+    "id": "C001125",
+    "name": "Troy A. Carter",
+    "accounts": [],
+    "notes": "Unconfirmed lead: troyc4Congress, seen only in a search result summary as a 2022 campaign account. The campaign site troycarter4congress.com (paid for by Troy Carter for Congress) has a 'Follow on twitter' link, but the fetch did not show its URL. The meetthefreshmen page that cites the handle returned 401."
+  }
+]

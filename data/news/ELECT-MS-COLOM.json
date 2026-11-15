@@ -1,0 +1,102 @@
+{
+  "bioguide": "ELECT-MS-COLOM",
+  "member": "Scott Colom",
+  "searches": [
+    "Scott Colom artificial intelligence (web search; nothing about him)",
+    "Scott Colom defeats Hyde-Smith Senate election result (web search; election reports)",
+    "\"Colom\" Mississippi Senate \"AI\" OR \"artificial intelligence\" OR \"data centers\" (web search; found Mississippi Today 24 Sep 2026 and Ecoportal 5 Oct 2026 on his data center pause)",
+    "Scott Colom AI safety OR superintelligence OR \"existential\" Senate candidate (web search; nothing about him)",
+    "Scott Colom for Senate campaign website issues (web search; found scottcolom.com and WLOX 23 Oct 2026 on an AI-generated ad)",
+    "Colom data center moratorium OR pause Mississippi Senate (web search; same data center pause coverage)",
+    "Scott Colom China AI agreement OR treaty OR \"Big Tech\" (web search; nothing about him)",
+    "site:scottcolom.com AI OR \"artificial intelligence\" OR \"data center\" (web search; returned no pages from his site)",
+    "\"Scott Colom\" \"AI safety\" OR \"superintelligence\" OR \"extinction\" (web search; nothing about him)",
+    "Mississippi Senate Colom Hyde-Smith certified results recount (web search; election status only)",
+    "Direct page: https://scottcolom.com/ (home page; no AI text; links X accounts)",
+    "Direct page: https://scottcolom.com/priorities/ (section 'Make Big Tech Pay Its Own Way')",
+    "Direct page: https://scottcolom.com/latest/ (16 press releases, 17 Sep to 20 Oct 2026; two about AI or data centers)",
+    "Direct page: https://scottcolom.com/district-attorney-scott-colom-calls-for-immediate-pause-on-data-center-construction-calls-out-hyde-smith-for-her-ai-billionaire-backers/ (press release of 24 Sep 2026, read in full)",
+    "Direct page: https://scottcolom.com/making-ai-work-for-mississippi/ (campaign plan 'Making AI Work for Mississippi', read in full)",
+    "Direct page: https://scottcolom.com/icymi-district-attorney-scott-colom-calls-on-cindy-hyde-smith-to-reject-ai-super-pac-money/ (press release of 26 Sep 2026; about AI super PAC money and data center costs)",
+    "Direct page: https://www.ecoportal.net/economia-2/scott-colom-centros-datos-mississippi/ (Spanish-language report, 5 Oct 2026)",
+    "Direct page: https://www.wlox.com/2026/10/23/colom-responds-ags-request-remove-ai-generated-ads/ (no AI views stated by Colom)",
+    "Direct page: https://aiunderstanding.org/news/18-candidates-sign-ai-pact-calling-for-data-center-limits-and-safety-reviews (signer list not shown; Colom not named)",
+    "Direct page: https://mississippitoday.org/2026/09/24/data-centers-ban-colom-hyde-smith/ (FAILED, HTTP 403)",
+    "Direct page: https://mississippitoday.org/2026/10/13/data-centers-opposition-mississippi-politicians/ (FAILED, HTTP 403)",
+    "Direct page: https://www.newsfromthestates.com/node/417193 (FAILED, HTTP 403)"
+  ],
+  "statements": [
+    {
+      "date": "2026-09-24",
+      "venue": "Campaign press release releasing his 'Making AI Work for Mississippi' plan",
+      "quote": "That is why I am calling for an immediate pause on data center construction until tech companies sign commitments that they will pay their fair share, including ensuring jobs are not temporary and paying for the energy that these data centers require without jacking up our utility bills.",
+      "context": "Announcing his plan for data centers in Mississippi, focused on power bills, water, local jobs and local control, and criticising Hyde-Smith's backing by an AI industry super PAC.",
+      "source_label": "Scott Colom for Senate press release",
+      "url": "https://scottcolom.com/district-attorney-scott-colom-calls-for-immediate-pause-on-data-center-construction-calls-out-hyde-smith-for-her-ai-billionaire-backers/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "The pause he calls for is on data center construction for cost and jobs reasons; no catastrophic risk from AI is acknowledged."
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Campaign plan 'Making AI Work for Mississippi' (campaign web page, written in the third person)",
+      "quote": "And when an automated system is handling our money, our health care or our benefits, we should be told, and a real person should have to answer for the decision.",
+      "context": "One of five rules in his plan, headed 'If AI touches our lives, a real person must answer for it', which also covers AI scams and fake images.",
+      "source_label": "Scott Colom for Senate campaign website",
+      "url": "https://scottcolom.com/making-ai-work-for-mississippi/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Human accountability for automated decisions about money, health care and benefits, plus scams and fake images, is outside catastrophic AI risk."
+    },
+    {
+      "date": "2026-09-24",
+      "venue": "Campaign plan 'Making AI Work for Mississippi' (campaign web page, written in the third person)",
+      "quote": "But so far, the people writing the rules for artificial intelligence are the people who own it.",
+      "context": "Opening of the plan, which discusses workers' fear of job loss to technology and who writes the rules for AI.",
+      "source_label": "Scott Colom for Senate campaign website",
+      "url": "https://scottcolom.com/making-ai-work-for-mississippi/",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "Who controls AI, with no catastrophic harm named, is level D under ruling 5."
+    }
+  ],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "He called for an immediate, temporary pause on data center construction in Mississippi, but tied it to power and water costs, jobs and local control, not to risks from AI itself, so under the rubric it does not count.",
+      "sources": [
+        [
+          "Scott Colom for Senate press release, 24 September 2026",
+          "https://scottcolom.com/district-attorney-scott-colom-calls-for-immediate-pause-on-data-center-construction-calls-out-hyde-smith-for-her-ai-billionaire-backers/"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a halt to building more capable AI systems; his pause is on data center construction for cost reasons.",
+      "sources": [
+        [
+          "Making AI Work for Mississippi plan",
+          "https://scottcolom.com/making-ai-work-for-mississippi/"
+        ]
+      ]
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an agreement or talks with China on AI.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "D",
+  "grade_reason": "His AI material is a substantial campaign plan on data centers (power bills, water, jobs, local control), human accountability for automated decisions, AI scams and AI industry super PAC money. Nothing found acknowledges catastrophic risk from AI.",
+  "notes": "Ten web searches ran, all listed in 'searches'; none were refused; the required searches on superintelligence, extinction or existential risk, pause or moratorium, China agreement, 'AI safety' and a site-restricted search of scottcolom.com all ran. The site-restricted search returned no pages from his site, so I opened his site's pages directly instead. He was not a senator in September 2026, so he could not have signed the 23 September 2026 letter on AI talks with China (he is not on the verified signer list) or co-sponsored the Ban Artificial Superintelligence Act; I found no source showing he commented on either. The three quotes were checked character for character against the raw page HTML of his campaign site (saved and parsed, not via a summarising tool). Quotes 2 and 3 are campaign plan text in the third person rather than words he spoke; the first-person quote in the press release is attributed to him. Left out: (1) Ecoportal (Spanish, 5 Oct 2026) gives his words only in Spanish translation, e.g. that data centers 'pueden aumentar los costos y ejercer presión sobre nuestra red eléctrica, el agua y la infraestructura'; translations are not his exact words, and the content is level D anyway. (2) The 26 Sep 2026 press release asking Hyde-Smith to reject AI super PAC money (level D; read only through a summarising tool). (3) WLOX, 23 Oct 2026: the state attorney general asked his campaign to remove AI-generated ads as possible political deepfakes; Colom called the video 'parody' and deleted it; no view on AI risk. Mississippi Today articles of 24 Sep and 13 Oct 2026 could not be opened (HTTP 403). An AI pact signed by about 18 candidates in August 2026 (mandatory safety reviews of AI models) was found, but the page I opened names only Dan Osborn; I could not tell whether Colom signed. Caution: a site called colomforsenate.com was built by Hyde-Smith's campaign to imitate him (Mississippi Today, per search summary); his real site is scottcolom.com. No debate transcript was checked."
+}

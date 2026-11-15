@@ -1,0 +1,118 @@
+[
+  {
+    "id": "M001225",
+    "name": "Kevin Mullin",
+    "accounts": [
+      {
+        "handle": "kevinmullin",
+        "account_type": "campaign",
+        "evidence_url": "https://www.kevinmullinforcongress.com/updates",
+        "evidence": "Kevin Mullin's campaign website (Kevin Mullin for Congress) links https://twitter.com/kevinmullin under 'Follow Kevin's Campaign'."
+      }
+    ],
+    "notes": "The campaign homepage and about page were cut off when fetched; the link was found on the campaign site's updates page. ProPublica's Politwoops archive also lists a 'kevinmullin' user, but the opened page did not show whose account it is."
+  },
+  {
+    "id": "L000607",
+    "name": "Sam T. Liccardo",
+    "accounts": [
+      {
+        "handle": "sliccardo",
+        "account_type": "campaign",
+        "evidence_url": "https://samliccardo.com/",
+        "evidence": "Sam Liccardo's campaign website (Liccardo for Congress) links https://x.com/sliccardo as its X account."
+      }
+    ],
+    "notes": "The account name suggests it may be his long-running personal account (used since his time as San Jose mayor), but the page only shows it as the campaign site's X link."
+  },
+  {
+    "id": "K000389",
+    "name": "Ro Khanna",
+    "accounts": [],
+    "notes": "Campaign website rokhanna.com returned HTTP 403 (both the homepage and /about), so its X link could not be checked. LegiStorm's profile says Khanna has a campaign X profile but shows only the official @RepRoKhanna link. No non-official handle confirmed."
+  },
+  {
+    "id": "L000397",
+    "name": "Zoe Lofgren",
+    "accounts": [
+      {
+        "handle": "ZoeLofgren",
+        "account_type": "campaign",
+        "evidence_url": "https://zoelofgren.com/",
+        "evidence": "Zoe Lofgren's campaign website (Lofgren for Congress) links https://x.com/ZoeLofgren in its footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "P000613",
+    "name": "Jimmy Panetta",
+    "accounts": [
+      {
+        "handle": "JimmyPanetta",
+        "account_type": "campaign",
+        "evidence_url": "https://www.jimmypanetta.com/",
+        "evidence": "Jimmy Panetta's campaign website links https://x.com/JimmyPanetta in its header and footer."
+      }
+    ],
+    "notes": "KEYT's 2024 candidate profile (https://keyt.com/general-election/congress-district-19/2024/07/12/839823-6/) also lists 'Twitter: @JimmyPanetta'."
+  },
+  {
+    "id": "F000480",
+    "name": "Vince Fong",
+    "accounts": [
+      {
+        "handle": "vfong",
+        "account_type": "campaign",
+        "evidence_url": "https://vincefong.com/",
+        "evidence": "Vince Fong's campaign website links https://x.com/vfong under 'Follow Vince on Social' and in its footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C001059",
+    "name": "Jim Costa",
+    "accounts": [],
+    "notes": "Campaign website www.jimcosta.com (listed on Wikipedia) has Facebook and Flickr links but no X/Twitter link. The only handle seen anywhere was the official @RepJimCosta. No non-official handle confirmed."
+  },
+  {
+    "id": "V000129",
+    "name": "David G. Valadao",
+    "accounts": [
+      {
+        "handle": "dgvaladao",
+        "account_type": "campaign",
+        "evidence_url": "https://valadaoforcongress.com/",
+        "evidence": "David Valadao's campaign website (Valadao for Congress, linked from his Wikipedia page) links https://twitter.com/dgvaladao under 'Follow us.'"
+      }
+    ],
+    "notes": "Campaign site URL found via Wikipedia's external links for David Valadao."
+  },
+  {
+    "id": "O000019",
+    "name": "Jay Obernolte",
+    "accounts": [
+      {
+        "handle": "TeamObernolte",
+        "account_type": "campaign",
+        "evidence_url": "https://electjay.com/",
+        "evidence": "The Jay Obernolte for Congress campaign website (CA-23) links https://x.com/TeamObernolte."
+      }
+    ],
+    "notes": "The handle on file (JayObernolte) may itself be a personal rather than official-office account; not checked here."
+  },
+  {
+    "id": "C001112",
+    "name": "Salud O. Carbajal",
+    "accounts": [
+      {
+        "handle": "carbajalsalud",
+        "account_type": "campaign",
+        "evidence_url": "https://www.saludcarbajal.com/",
+        "evidence": "Salud Carbajal's campaign website links https://twitter.com/carbajalsalud in its header and footer."
+      }
+    ],
+    "notes": "KEYT's 2024 candidate profile (https://keyt.com/general-election/congress-district-24/2024/07/12/salud-carbajal-3/) writes the same handle as '@CarbajalSalud'."
+  }
+]

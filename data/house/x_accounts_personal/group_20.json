@@ -1,0 +1,132 @@
+[
+  {
+    "id": "S001215",
+    "name": "Haley M. Stevens",
+    "accounts": [
+      {
+        "handle": "haleyformi",
+        "account_type": "campaign",
+        "evidence_url": "https://haleyformi.com/",
+        "evidence": "Her old House campaign domain haleystevensforcongress.com redirects to haleyformi.com, the Haley Stevens for Senate campaign site, which links to twitter.com/haleyformi."
+      }
+    ],
+    "notes": "This is her 2026 US Senate campaign account. The search summary also cited an older account, HaleyLive, from Politwoops; it is an unconfirmed lead because I did not open a page showing it."
+  },
+  {
+    "id": "T000481",
+    "name": "Rashida Tlaib",
+    "accounts": [
+      {
+        "handle": "RashidaTlaib",
+        "account_type": "campaign",
+        "evidence_url": "https://rashidaforcongress.com/news/",
+        "evidence": "Her campaign website (Rashida Tlaib for Congress) links to twitter.com/RashidaTlaib in its header, Follow Us section and footer."
+      }
+    ],
+    "notes": "This account may be personal rather than strictly campaign. The campaign site links to it, so I labeled it campaign."
+  },
+  {
+    "id": "T000488",
+    "name": "Shri Thanedar",
+    "accounts": [
+      {
+        "handle": "shrithanedar",
+        "account_type": "campaign",
+        "evidence_url": "https://shriforcongress.com/",
+        "evidence": "His campaign website (Shri Thanedar for Congress, Michigan's 13th District) links to x.com/shrithanedar."
+      }
+    ],
+    "notes": "The search summary mentioned an older handle, ShriForMI. It is an unconfirmed lead because no page I opened showed it."
+  },
+  {
+    "id": "F000475",
+    "name": "Brad Finstad",
+    "accounts": [
+      {
+        "handle": "bradfinstad",
+        "account_type": "campaign",
+        "evidence_url": "https://finstadforcongress.com/",
+        "evidence": "His campaign website (Brad Finstad for Congress) links to twitter.com/bradfinstad in its header and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C001119",
+    "name": "Angie Craig",
+    "accounts": [
+      {
+        "handle": "AngieCraigMN",
+        "account_type": "campaign",
+        "evidence_url": "https://angiecraig.com/",
+        "evidence": "Her campaign website (paid for by Angie Craig for Minnesota, her US Senate campaign) embeds posts from twitter.com/AngieCraigMN."
+      }
+    ],
+    "notes": "The site's own X icon links are relative paths such as /twitter, so the handle comes from the embedded post links and not from a profile-link icon. A Patch candidate profile in the search results also listed AngieCraigMN, but I did not open it. She ran for US Senate in 2026."
+  },
+  {
+    "id": "M001234",
+    "name": "Kelly Morrison",
+    "accounts": [
+      {
+        "handle": "Morrison4MN",
+        "account_type": "campaign",
+        "evidence_url": "https://kellyforcongress.org/",
+        "evidence": "Her campaign website (paid for by Morrison for Congress) links to x.com/Morrison4MN."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001143",
+    "name": "Betty McCollum",
+    "accounts": [
+      {
+        "handle": "VoteBetty",
+        "account_type": "campaign",
+        "evidence_url": "https://www.mccollumforcongress.com",
+        "evidence": "Her campaign website (McCollum for Congress, Minnesota's 4th District) links to x.com/VoteBetty in its navigation and footer."
+      }
+    ],
+    "notes": "The handle on file, BettyMcCollum04, may itself be her personal or long-standing account rather than a House office account. An archived 2018 page in the search results shows it as her account. I did not check this."
+  },
+  {
+    "id": "O000173",
+    "name": "Ilhan Omar",
+    "accounts": [
+      {
+        "handle": "IlhanMN",
+        "account_type": "campaign",
+        "evidence_url": "https://ilhanomar.com/",
+        "evidence": "Her campaign website (paid for by Ilhan for Congress) links to twitter.com/IlhanMN in its header and footer."
+      }
+    ],
+    "notes": "The handle on file, Ilhan, is widely understood to be her personal account rather than an official House office account. Her House office account may be a different handle, which I did not check. This may be worth a review of which account is treated as official."
+  },
+  {
+    "id": "F000470",
+    "name": "Michelle Fischbach",
+    "accounts": [
+      {
+        "handle": "FischbachMN7",
+        "account_type": "campaign",
+        "evidence_url": "https://www.fischbachforcongress.com/",
+        "evidence": "Her campaign website (Fischbach for Congress, Minnesota's 7th District) links to twitter.com/FischbachMN7."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "S001212",
+    "name": "Pete Stauber",
+    "accounts": [
+      {
+        "handle": "PeteStauber",
+        "account_type": "campaign",
+        "evidence_url": "https://petestauberforcongress.com/",
+        "evidence": "His campaign website (Pete Stauber for Congress, Minnesota's 8th District) links to twitter.com/PeteStauber in its footer."
+      }
+    ],
+    "notes": "I found the campaign site's address in the search summary, which cited a 2026 Federal Election Commission filing. I then confirmed the site by opening it."
+  }
+]

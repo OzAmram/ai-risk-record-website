@@ -1,0 +1,125 @@
+[
+  {
+    "id": "S001230",
+    "name": "Suhas Subramanyam",
+    "accounts": [
+      {
+        "handle": "SuhasforVA",
+        "account_type": "campaign",
+        "evidence_url": "https://www.suhasforvirginia.com/",
+        "evidence": "His campaign website suhasforvirginia.com links to x.com/SuhasforVA among its social media icons."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "B001318",
+    "name": "Becca Balint",
+    "accounts": [
+      {
+        "handle": "beccabalintvt",
+        "account_type": "personal",
+        "evidence_url": "https://beccabalint.com/",
+        "evidence": "Her campaign website beccabalint.com links to x.com/beccabalintvt (and twitter.com/beccabalintvt in the footer)."
+      }
+    ],
+    "notes": "Account is named after her rather than the campaign; labeled personal, but it is the account her campaign site promotes. ProPublica Politwoops (search summary only) writes it as BeccaBalintVT."
+  },
+  {
+    "id": "D000617",
+    "name": "Suzan K. DelBene",
+    "accounts": [
+      {
+        "handle": "SuzanDelBene",
+        "account_type": "personal",
+        "evidence_url": "https://delbeneforcongress.com/",
+        "evidence": "Her campaign website delbeneforcongress.com links to twitter.com/SuzanDelBene in its header and footer."
+      }
+    ],
+    "notes": "Name-based account linked from the campaign site; labeled personal, but it functions as her campaign account."
+  },
+  {
+    "id": "L000560",
+    "name": "Rick Larsen",
+    "accounts": [
+      {
+        "handle": "larsenrick",
+        "account_type": "personal",
+        "evidence_url": "https://www.ricklarsen.org/twitter/",
+        "evidence": "The X/Twitter link on his campaign website ricklarsen.org (ricklarsen.org/twitter/) redirects with a 301 to twitter.com/larsenrick."
+      }
+    ],
+    "notes": "Evidence is the campaign site's own redirect link, not visible text on the page; the target was not opened (x.com/twitter.com not allowed). ProPublica Politwoops (search summary only) also lists larsenrick for him."
+  },
+  {
+    "id": "G000600",
+    "name": "Marie Gluesenkamp Perez",
+    "accounts": [
+      {
+        "handle": "mgpforcongress",
+        "account_type": "campaign",
+        "evidence_url": "https://marieforcongress.com/",
+        "evidence": "Her campaign website marieforcongress.com lists twitter.com/mgpforcongress in its structured-data social links."
+      }
+    ],
+    "notes": "Search summary writes it as MGPforCongress; the page writes it in lower case."
+  },
+  {
+    "id": "N000189",
+    "name": "Dan Newhouse",
+    "accounts": [],
+    "notes": "Not found. He announced he would not seek re-election in 2026. The old campaign domain dannewhouse.com now redirects to an unrelated site (fillinnstation.com), so it was not followed. No campaign or personal X handle confirmed."
+  },
+  {
+    "id": "B001322",
+    "name": "Michael Baumgartner",
+    "accounts": [
+      {
+        "handle": "VoteBaumgartner",
+        "account_type": "campaign",
+        "evidence_url": "https://www.votebaumgartner.com/",
+        "evidence": "His campaign website votebaumgartner.com links to twitter.com/VoteBaumgartner among its social media links."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "J000298",
+    "name": "Pramila Jayapal",
+    "accounts": [
+      {
+        "handle": "PramilaJayapal",
+        "account_type": "personal",
+        "evidence_url": "https://www.pramilaforcongress.com/",
+        "evidence": "Her campaign website pramilaforcongress.com links to x.com/PramilaJayapal."
+      }
+    ],
+    "notes": "Name-based account linked from the campaign site; labeled personal, but it also serves as her campaign account."
+  },
+  {
+    "id": "S001216",
+    "name": "Kim Schrier",
+    "accounts": [
+      {
+        "handle": "DrKimSchrier",
+        "account_type": "campaign",
+        "evidence_url": "https://drkimschrier.com/",
+        "evidence": "Her campaign website drkimschrier.com links to twitter.com/DrKimSchrier."
+      }
+    ],
+    "notes": "Could be read as personal (name-based) or campaign; labeled campaign because it is the account on her campaign site."
+  },
+  {
+    "id": "S000510",
+    "name": "Adam Smith",
+    "accounts": [
+      {
+        "handle": "electadamsmith",
+        "account_type": "campaign",
+        "evidence_url": "https://electadamsmith.com/",
+        "evidence": "His campaign website electadamsmith.com (Adam Smith for Washington) links to x.com/electadamsmith."
+      }
+    ],
+    "notes": ""
+  }
+]

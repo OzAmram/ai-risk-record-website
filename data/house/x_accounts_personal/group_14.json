@@ -1,0 +1,118 @@
+[
+  {
+    "id": "K000391",
+    "name": "Raja Krishnamoorthi",
+    "accounts": [],
+    "notes": "Campaign site rajaforcongress.com now redirects (301) to rajaforil.com, which did not resolve (DNS not found), so no campaign X link could be confirmed. Vote Smart and WTTW pages returned 403. Unconfirmed lead from a search summary only: @RajaForCongress (from an older candidate profile). He ran for US Senate in 2026, so a Senate-campaign handle may also exist."
+  },
+  {
+    "id": "S001145",
+    "name": "Janice D. Schakowsky",
+    "accounts": [
+      {
+        "handle": "RepSchakowsky",
+        "account_type": "campaign",
+        "evidence_url": "https://www.janschakowsky.org/",
+        "evidence": "The Schakowsky for Congress campaign site (footer: 'Paid for and authorized by Schakowsky for Congress') links twitter.com/RepSchakowsky with a follow button."
+      }
+    ],
+    "notes": "The campaign site looks old and not recently updated; despite being linked from the campaign site, the 'Rep' prefix suggests @RepSchakowsky may be or have been an official-office account, and it may be inactive. The handle on file (janschakowsky) is likely her main account. She did not seek reelection in 2026. LegiStorm says it has a campaign X link but the URL was not shown."
+  },
+  {
+    "id": "S001190",
+    "name": "Bradley Scott Schneider",
+    "accounts": [
+      {
+        "handle": "schneider4il10",
+        "account_type": "campaign",
+        "evidence_url": "https://schneiderforcongress.com/",
+        "evidence": "The Brad Schneider for Congress campaign site (IL-10, 'Paid for by Schneider for Congress') links x.com/schneider4il10."
+      }
+    ],
+    "notes": "Handle written in lowercase in the site's link; a ProPublica Politwoops search snippet shows it as Schneider4IL10."
+  },
+  {
+    "id": "F000454",
+    "name": "Bill Foster",
+    "accounts": [
+      {
+        "handle": "Foster4Congress",
+        "account_type": "campaign",
+        "evidence_url": "https://www.billfoster.com/",
+        "evidence": "The Bill Foster for Congress campaign site (IL-11, 'Paid for by Bill Foster for Congress') links twitter.com/Foster4Congress."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "B001295",
+    "name": "Mike Bost",
+    "accounts": [],
+    "notes": "The one search did not surface a campaign website or campaign X handle; only the official @RepBost appeared. No account confirmed."
+  },
+  {
+    "id": "B001315",
+    "name": "Nikki Budzinski",
+    "accounts": [
+      {
+        "handle": "NikkiBudzinski",
+        "account_type": "campaign",
+        "evidence_url": "https://nikkiforcongress.com/",
+        "evidence": "The Nikki for Congress campaign site (IL-13) has an X link to nikkiforcongress.com/twitter, which redirects (301) to x.com/NikkiBudzinski."
+      }
+    ],
+    "notes": "Handle read from the redirect target of the campaign site's X link (x.com itself was not opened). Older unconfirmed lead from search summary: @Nikki4Congress (2022 profile, Politwoops) - possibly the same account renamed or an old account."
+  },
+  {
+    "id": "U000040",
+    "name": "Lauren Underwood",
+    "accounts": [
+      {
+        "handle": "laurenunderwood",
+        "account_type": "campaign",
+        "evidence_url": "https://underwoodforcongress.com/",
+        "evidence": "The Lauren Underwood for Congress campaign site (IL-14) links x.com/laurenunderwood."
+      }
+    ],
+    "notes": "Handle written in lowercase in the site link; search summaries show it as LaurenUnderwood. A 2018 Sun-Times questionnaire (search summary only) listed @LUnderwood630, likely an old account; unconfirmed."
+  },
+  {
+    "id": "M001211",
+    "name": "Mary E. Miller",
+    "accounts": [
+      {
+        "handle": "Miller_Congress",
+        "account_type": "campaign",
+        "evidence_url": "https://www.marymillerforcongress.com/",
+        "evidence": "The Mary Miller for Congress campaign site (IL-15, 'Paid for by Mary Miller for Congress', Quincy IL) links twitter.com/Miller_Congress."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "L000585",
+    "name": "Darin LaHood",
+    "accounts": [
+      {
+        "handle": "DarinLaHoodIL",
+        "account_type": "campaign",
+        "evidence_url": "https://www.lahoodforcongress.com/",
+        "evidence": "The LaHood for Congress campaign site (IL-16) links x.com/DarinLaHoodIL."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "S001225",
+    "name": "Eric Sorensen",
+    "accounts": [
+      {
+        "handle": "ERICSORENSEN",
+        "account_type": "campaign",
+        "evidence_url": "https://www.ericforillinois.com/",
+        "evidence": "The Eric Sorensen for Illinois campaign site (IL-17, 'Paid for by Eric Sorensen for Illinois') links x.com/ERICSORENSEN."
+      }
+    ],
+    "notes": "Possibly a personal account predating his campaign (he was a TV meteorologist), but the campaign site links it."
+  }
+]

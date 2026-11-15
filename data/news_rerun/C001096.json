@@ -1,0 +1,16 @@
+{"bioguide": "C001096", "member": "Kevin Cramer",
+ "searches_run": [
+  "Kevin Cramer AI China agreement OR treaty OR talks senator 2026",
+  "Cramer \"the least popular position in America\" AI Trump MS NOW",
+  "Ricketts Cramer letter Lutnick AI diffusion rule senators"
+ ],
+ "searches_refused": [],
+ "new_statements": [],
+ "position_changes": {},
+ "new_record_items": [
+  ["Co-signed a letter led by Sen. Pete Ricketts (with Kennedy, Lankford and Rick Scott) urging Commerce Secretary Lutnick to issue a replacement AI chip export rule so the US can 'win the AI race with Communist China'; it treats frontier AI as a competitiveness and export-security matter, not a safety risk.", "Ricketts Senate press release, 16 July 2025", "https://www.ricketts.senate.gov/?p=11717"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "No new statement acknowledging catastrophic AI risk was found. His AI-related record remains about competition with China, export controls and data centers, and the one MS NOW fragment does not acknowledge catastrophic risk.",
+ "corrections": "",
+ "notes": "The two searches marked NOT RUN in the existing file were run; the six required topics had already been covered by the earlier run. One follow-up search checked the July 2025 Lutnick letter mentioned in the existing notes. China search: no Cramer statement on an agreement or talks with China; he is not among the 17 signers of the 23 September 2026 letter. The MS NOW remark search returned only results about Jim Cramer (the TV host), nothing new. I reopened the MS NOW article (https://www.ms.now/news/gop-lawmakers-trump-wrong-ai) with a page-reading tool that limits quoted text: it again shows only the fragment 'the least popular position in America' as Cramer's own words, and the passage saying many GOP lawmakers have serious concerns about AI does not name Cramer, so the existing D with boundary flag stands. The tool could not show the full paragraph verbatim, so a reviewer could still read it in a browser. The July 2025 Ricketts letter was opened at source (Ricketts press release, 16 July 2025), and it names Cramer as a co-signer. It mentions no risk or safety; its frontier AI wording is about limiting China's access, so it would be D and is listed only as a record item."}

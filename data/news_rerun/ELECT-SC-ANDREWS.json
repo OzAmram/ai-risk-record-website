@@ -1,0 +1,20 @@
+{"bioguide": "ELECT-SC-ANDREWS", "member": "Annie Andrews",
+ "searches_run": [
+  "Annie Andrews South Carolina Senate artificial intelligence",
+  "\"Annie Andrews\" \"AI safety\"",
+  "\"Annie Andrews\" superintelligence",
+  "\"Annie Andrews\" AI extinction OR \"existential\" risk",
+  "\"Annie Andrews\" AI pause OR moratorium OR slowdown",
+  "\"Annie Andrews\" China AI agreement OR treaty",
+  "artificial intelligence AI (restricted to drannieandrews.com)",
+  "\"Annie Andrews\" senator-elect AI data centers (follow-up)",
+  "drannieandrews.com AI (follow-up, because the site-restricted search returned nothing from her site)"
+ ],
+ "searches_refused": [],
+ "new_statements": [],
+ "position_changes": {},
+ "new_record_items": [],
+ "suggested_grade": "D",
+ "grade_reason": "The searches found nothing in which she acknowledges or dismisses catastrophic risk from AI. Her AI-related material is still the campaign pledge to regulate AI tools that discriminate or are abused, plus a data center moratorium about local control and costs, so D is unchanged.",
+ "corrections": "",
+ "notes": "All nine searches ran; none were refused. None of the six required searches returned anything linking Annie Andrews to AI safety, superintelligence, extinction or existential risk, an AI pause or slowdown, or a China AI agreement. All of those results were about other people or about the topic in general. The search restricted to drannieandrews.com returned no pages from her site (only unrelated pages), so the campaign site was not searched in practice. The earlier run had already opened that site directly. The follow-up on data centers found more coverage of her two-year data center moratorium. I opened two pages: Live 5 News, 28 Sep 2026 (https://www.live5news.com/2026/09/28/senate-candidate-dr-annie-andrews-calls-moratorium-data-centers/), and WSOC-TV, 4 Nov 2026 (https://www.wsoctv.com/news/local/data-center-debate-continues-south-carolina-after-andrews-victory/RMMHTFFSIBCJJCWXEIMGKWMPWI/). Her quoted words in both are about local control, corporate power, tax breaks and costs (for example, \"If a community says no, the answer is no,\"). Neither page mentions AI in her words, and neither names any risk from AI itself. I left these out of new_statements: the moratorium is already in the file at level D, and these quotes are not about AI. Both pages were read through a fetch tool that summarises pages with a small model. A Tom's Guide article on what midterm winners said about AI data centers could not be read, because the fetch returned only the headline, so I could not check whether it quotes her. The Politico Magazine interview of 4 Nov 2026 and The Hill article that the earlier run could not open did not appear in these searches and were not retried. The searches showed nothing linking her to the 23 Sep 2026 China letter (she was not a senator then and is not on the signer list) or to the Ban Artificial Superintelligence Act."}

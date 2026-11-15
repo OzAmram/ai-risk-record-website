@@ -1,0 +1,132 @@
+[
+  {
+    "id": "T000460",
+    "name": "Mike Thompson",
+    "accounts": [
+      {
+        "handle": "Mike_CA05",
+        "account_type": "campaign",
+        "evidence_url": "https://www.mikethompsonforcongress.com/",
+        "evidence": "The Mike Thompson for Congress campaign website links to X at twitter.com/Mike_CA05 in its header and footer social links."
+      }
+    ],
+    "notes": "The handle refers to CA-05, his district number before the 2022 redistricting (he now represents CA-04); it is linked from his own current campaign site, so it is treated as his campaign account."
+  },
+  {
+    "id": "M001177",
+    "name": "Tom McClintock",
+    "accounts": [
+      {
+        "handle": "tommcclintock",
+        "account_type": "campaign",
+        "evidence_url": "https://tommcclintock.com",
+        "evidence": "The Tom McClintock for Congress campaign website (listed as his campaign site on his Wikipedia infobox) links to X at twitter.com/tommcclintock."
+      }
+    ],
+    "notes": "Campaign site URL was taken from the Wikipedia infobox (https://en.wikipedia.org/wiki/Tom_McClintock), then opened directly."
+  },
+  {
+    "id": "B001287",
+    "name": "Ami Bera",
+    "accounts": [
+      {
+        "handle": "AmiBeraMD",
+        "account_type": "campaign",
+        "evidence_url": "https://beraforcongress.com/",
+        "evidence": "The Bera for Congress campaign website links to X at x.com/AmiBeraMD."
+      }
+    ],
+    "notes": "Could be a personal account used for campaign purposes; labeled campaign because it is the X link on his campaign site."
+  },
+  {
+    "id": "M001163",
+    "name": "Doris O. Matsui",
+    "accounts": [
+      {
+        "handle": "matsui4congress",
+        "account_type": "campaign",
+        "evidence_url": "https://www.matsuiforcongress.com",
+        "evidence": "The Matsui for Congress campaign website footer links to X at x.com/matsui4congress."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "G000559",
+    "name": "John Garamendi",
+    "accounts": [
+      {
+        "handle": "JohnGaramendi",
+        "account_type": "campaign",
+        "evidence_url": "https://www.garamendi.org/",
+        "evidence": "The John Garamendi for Congress campaign website links to X at twitter.com/JohnGaramendi."
+      }
+    ],
+    "notes": "Campaign site garamendi.org was seen in search results and opened directly; it identifies itself as John Garamendi for Congress, CA District 8."
+  },
+  {
+    "id": "H001090",
+    "name": "Josh Harder",
+    "accounts": [
+      {
+        "handle": "joshharder",
+        "account_type": "campaign",
+        "evidence_url": "https://harderforcongress.com/",
+        "evidence": "The Harder for Congress campaign website links to X at twitter.com/joshharder."
+      }
+    ],
+    "notes": "The same campaign page header also links to facebook.com/markherringva and twitter.com/MarkHerringVA (Mark Herring, a Virginia politician), apparently a website-template leftover; those are not Harder's and are excluded. Handle case on the page is lowercase 'joshharder'. Unconfirmed lead from search summary only: ProPublica Politwoops listed an older handle 'joshua_harder' (no longer tracked since 2020); not included."
+  },
+  {
+    "id": "D000623",
+    "name": "Mark DeSaulnier",
+    "accounts": [
+      {
+        "handle": "MarkDeSaulnier",
+        "account_type": "campaign",
+        "evidence_url": "https://desaulnierforcongress.com/",
+        "evidence": "The DeSaulnier for Congress 2026 campaign website links to X at twitter.com/MarkDeSaulnier."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "P000197",
+    "name": "Nancy Pelosi",
+    "accounts": [
+      {
+        "handle": "TeamPelosi",
+        "account_type": "campaign",
+        "evidence_url": "https://pelosiforcongress.org/",
+        "evidence": "The Nancy Pelosi for Congress campaign website embeds 'Tweets by TeamPelosi' linking to twitter.com/TeamPelosi; a UPI article (https://www.upi.com/Top_News/US/2022/01/25/House-Speaker-Nancy-Pelosi-announces-seek-re-election-2022/8351643160369/) also credits a tweet to 'Nancy Pelosi (@TeamPelosi)'."
+      }
+    ],
+    "notes": "Unconfirmed lead: search results showed a 2018 archived capture of twitter.com/nancypelosi (likely her long-standing personal/main account), but no opened page confirmed it, so it is not included. Official handle on file is SpeakerPelosi; check whether NancyPelosi should be added."
+  },
+  {
+    "id": "S001231",
+    "name": "Lateefah Simon",
+    "accounts": [
+      {
+        "handle": "lateefahsimon",
+        "account_type": "campaign",
+        "evidence_url": "https://www.lateefahsimon.com/",
+        "evidence": "The Lateefah Simon for Congress campaign website (Oakland, CA) links to X at twitter.com/lateefahsimon."
+      }
+    ],
+    "notes": "Likely her long-standing personal account also used by the campaign; labeled campaign because it is linked from the campaign site."
+  },
+  {
+    "id": "G000605",
+    "name": "Adam Gray",
+    "accounts": [
+      {
+        "handle": "adamgrayca",
+        "account_type": "campaign",
+        "evidence_url": "https://adamgrayforcongress.com/",
+        "evidence": "The Adam Gray for Congress (CA-13) campaign website links to X at x.com/adamgrayca."
+      }
+    ],
+    "notes": "Search summary also mentioned a Politwoops entry 'AdamGrayCA', which matches this handle ignoring case."
+  }
+]

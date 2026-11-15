@@ -1,0 +1,111 @@
+[
+  {
+    "id": "K000392",
+    "name": "David Kustoff",
+    "accounts": [
+      {
+        "handle": "DavidKustoff",
+        "account_type": "campaign",
+        "evidence_url": "https://www.kustoffforcongress.com/about/",
+        "evidence": "Kustoff's campaign site (Kustoff for Congress) 'Meet David' page links to twitter.com/DavidKustoff."
+      }
+    ],
+    "notes": "The campaign site's news archive looks old (2016-2018 items), so the account may be inactive; the handle may be personal rather than campaign, but it is the one linked from the campaign site."
+  },
+  {
+    "id": "C001068",
+    "name": "Steve Cohen",
+    "accounts": [
+      {
+        "handle": "ReElectCohen",
+        "account_type": "campaign",
+        "evidence_url": "https://cohenforcongress.com/",
+        "evidence": "Cohen's campaign site footer 'Connect' section links to x.com/ReElectCohen."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001224",
+    "name": "Nathaniel Moran",
+    "accounts": [
+      {
+        "handle": "moran4congress",
+        "account_type": "campaign",
+        "evidence_url": "https://nathanielmoran.com/",
+        "evidence": "The Nathaniel Moran for Congress campaign site header links to x.com/moran4congress."
+      }
+    ],
+    "notes": "Campaign site URL found via the Wikipedia article (https://en.wikipedia.org/wiki/Nathaniel_Moran)."
+  },
+  {
+    "id": "C001120",
+    "name": "Dan Crenshaw",
+    "accounts": [
+      {
+        "handle": "DanCrenshawTX",
+        "account_type": "personal",
+        "evidence_url": "https://crenshawforcongress.com",
+        "evidence": "Crenshaw's campaign site header/footer links to twitter.com/DanCrenshawTX and embeds posts from that account."
+      }
+    ],
+    "notes": "Handle appears with different capitalisation on the page (DanCrenshawTX / dancrenshawtx); the header link uses DanCrenshawTX. Used as his main personal account; labelled personal, though it is the one the campaign links."
+  },
+  {
+    "id": "S001224",
+    "name": "Keith Self",
+    "accounts": [],
+    "notes": "Unconfirmed lead: search summary said a 2024 Dallas Morning News voter guide lists campaign X handle @SelfforCongress, but that page (voterguide.dallasnews.com/2024-general/candidates/4254) returned 404, and the campaign site keithself.com shows no X link. ProPublica Politwoops URL for SelfForCongress loaded only a generic landing page."
+  },
+  {
+    "id": "F000246",
+    "name": "Pat Fallon",
+    "accounts": [
+      {
+        "handle": "FallonForTexas",
+        "account_type": "campaign",
+        "evidence_url": "https://www.fallonforcongress.com/",
+        "evidence": "The Fallon for Congress campaign site ('Paid for by Fallon for Congress') links to twitter.com/FallonForTexas in its social icons and footer."
+      }
+    ],
+    "notes": "Campaign site URL found via the Wikipedia article (https://en.wikipedia.org/wiki/Pat_Fallon)."
+  },
+  {
+    "id": "G000589",
+    "name": "Lance Gooden",
+    "accounts": [],
+    "notes": "Campaign site lancegooden.com ('Paid for by Lance Gooden for Congress') has no X/Twitter link. No other handle found."
+  },
+  {
+    "id": "E000071",
+    "name": "Jake Ellzey",
+    "accounts": [
+      {
+        "handle": "JakeEllzey",
+        "account_type": "personal",
+        "evidence_url": "https://ellzeyfortexas.com/about/",
+        "evidence": "Ellzey's campaign site (Jake Ellzey for Congress) footer social icons link to x.com/JakeEllzey."
+      }
+    ],
+    "notes": "Name-style handle linked from the campaign site; could serve as personal or campaign account."
+  },
+  {
+    "id": "F000468",
+    "name": "Lizzie Fletcher",
+    "accounts": [
+      {
+        "handle": "LizziePFletcher",
+        "account_type": "personal",
+        "evidence_url": "https://lizziefletcher.com/",
+        "evidence": "Fletcher's campaign site links to twitter.com/LizziePFletcher in its 'Follow Lizzie' section and footer."
+      }
+    ],
+    "notes": "Unconfirmed lead: search summary mentioned an older campaign handle @Lizzie4Congress (from a ProPublica Politwoops page I did not open); not linked from the current campaign site."
+  },
+  {
+    "id": "L000603",
+    "name": "Morgan Luttrell",
+    "accounts": [],
+    "notes": "Campaign site morganluttrell.com (listed on Wikipedia) returned 404 with and without www. Luttrell announced he is not seeking reelection in 2026, so the campaign site may be down. No personal/campaign handle confirmed."
+  }
+]

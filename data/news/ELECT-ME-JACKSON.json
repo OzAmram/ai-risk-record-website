@@ -5,17 +5,82 @@
     "Bangor Daily News site search (bangordailynews.com/?s=): \"Troy Jackson\" artificial intelligence",
     "Maine Public site search (mainepublic.org/search): \"Troy Jackson\" artificial intelligence (only the first 4 of 1,878 results were visible)",
     "Portland Press Herald site search (pressherald.com/?s=): \"Troy Jackson\" artificial intelligence (page returned no results)",
-    "Bangor Daily News daily archive for 16 September 2026, pages 1-3, read for AI headlines"
+    "Bangor Daily News daily archive for 16 September 2026, pages 1-3, read for AI headlines",
+    "\"Troy Jackson\" Maine Senate artificial intelligence superintelligence (run 15 November 2026)",
+    "\"Troy Jackson\" AI extinction existential risk (run 15 November 2026)",
+    "\"Troy Jackson\" \"AI safety\" Maine Senate candidate (run 15 November 2026)",
+    "\"Troy Jackson\" AI pause OR slowdown OR moratorium (run 15 November 2026)",
+    "\"Troy Jackson\" China AI agreement OR treaty OR talks (run 15 November 2026)",
+    "site:jacksonformaine.com artificial intelligence (run 15 November 2026)",
+    "\"Troy Jackson\" Collins debate AI \"slow down\" (follow-up on American Prospect paraphrase) (run 15 November 2026)",
+    "\"Troy Jackson\" \"Agency over AI\" plan (follow-up on Spectrum News article) (run 15 November 2026)",
+    "\"Troy Jackson\" artificial intelligence Senate debate forum October 2026 Maine (follow-up) (run 15 November 2026)"
   ],
-  "statements": [],
+  "statements": [
+    {
+      "date": "2026-06-03",
+      "venue": "Press conference in Portland launching his 'Agency over AI' plan (as a candidate for governor)",
+      "quote": "Who benefits, who pays and who decides? Under the Jackson administration I can assure you that tech billionaires will not be deciding this alone",
+      "context": "Jackson, then running for governor, rolled out a state plan on AI covering data centers, workers and government transparency.",
+      "source_label": "Spectrum News (Susan Cover), 4 Jun 2026",
+      "url": "https://spectrumnewsnecn.com/necn/maine/politics/2026/06/04/jackson-says-ai--tech-billionaires--will-face-scrutiny-in-maine-if-he-s-elected-governor",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "unsure"
+      ],
+      "reason": "About who controls AI and who pays its costs, with no catastrophic harm named (ruling 5)."
+    },
+    {
+      "date": "2026-06-03",
+      "venue": "Press conference in Portland launching his 'Agency over AI' plan (as a candidate for governor)",
+      "quote": "AI may be new, it certainly is new to a lot of us, but the political question is old",
+      "context": "Opening framing of his AI plan as a question of who benefits from and controls the technology.",
+      "source_label": "Spectrum News (Susan Cover), 4 Jun 2026",
+      "url": "https://spectrumnewsnecn.com/necn/maine/politics/2026/06/04/jackson-says-ai--tech-billionaires--will-face-scrutiny-in-maine-if-he-s-elected-governor",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "unsure"
+      ],
+      "reason": "Frames AI as a political question of power and costs; does not acknowledge catastrophic risk."
+    }
+  ],
   "positions": {
-    "slowdown": {"value": "none", "note": "No statement found on slowing AI development for safety reasons. His campaign's conditions on data centers (union jobs, protecting natural resources) are about jobs and local impact, which do not count.", "sources": [["Bangor Daily News, 16 Sep 2026", "https://www.bangordailynews.com/2026/09/16/politics/elections/maine-politicians-responding-to-ai-warnings-joam40zk0w/"]]},
-    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
-    "intl": {"value": "none", "note": "No statement found on an agreement or talks with China about AI. He was not a senator on 23 September 2026 and so could not have signed the senators' letter.", "sources": []},
-    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development for safety reasons. His campaign's conditions on data centers (union jobs, protecting natural resources) are about jobs and local impact, which do not count.",
+      "sources": [
+        [
+          "Bangor Daily News, 16 Sep 2026",
+          "https://www.bangordailynews.com/2026/09/16/politics/elections/maine-politicians-responding-to-ai-warnings-joam40zk0w/"
+        ]
+      ]
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause on frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an agreement or talks with China about AI. He was not a senator on 23 September 2026 and so could not have signed the senators' letter.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
   },
-  "record": [],
-  "suggested_grade": "none",
-  "grade_reason": "No statement about AI in Troy Jackson's own words was found. The only AI material found is a campaign spokesperson's statement and reporter paraphrase framing AI as a worker and cost issue, which would be level D if it counted, and does not acknowledge catastrophic risk.",
-  "notes": "WEB SEARCH DID NOT RUN. All four general web searches I attempted were refused because the shared search budget was used up: (1) \"Troy Jackson\" Maine Senate artificial intelligence superintelligence; (2) Bangor Daily News Maine politicians AI extinction warnings \"Troy Jackson\" September 2026; (3) \"Troy Jackson\" \"AI safety\" Maine Senate candidate; (4) site:jacksonformaine.com artificial intelligence. The brief's required searches on extinction or existential risk, pause or slowdown or moratorium, and China agreement or treaty were therefore never run either. This result rests only on pages opened directly and on three newspaper site searches, so it is much weaker than a normal run and should be redone when search is available. Pages opened and read (through a page-reading tool that summarises, so I did not see raw page text): jacksonformaine.com home page, /priorities, /troy-at-a-glance and /news (153 press release titles from 27 July to 3 November 2026; I read titles only, not the releases themselves). None mentions AI, technology companies or data centers; the 11 listed priorities contain nothing on AI. Bangor Daily News, 16 September 2026 (updated 22 September), by Benjamin Kail, \"How Susan Collins and other Maine politicians are responding to dire AI warnings\": opened. It contains no direct quote from Jackson himself. It paraphrases him as treating AI regulation as a worker-protection issue and warning that \"billionaires\" will profit while ordinary Mainers bear the costs, and says he would welcome data centers only with union jobs and protection of natural resources. It quotes campaign spokesperson Cheyenne Gallivan (not Jackson), in part: \"Troy Jackson believes we need common-sense AI regulations that give workers a seat at the table\" and \"He knows that if left unchecked, the billionaires benefiting from artificial intelligence will only get richer\" (these are excerpts of longer sentences as relayed by the reading tool; verify against the page before any use). According to the reading tool, the article does not show Jackson or his campaign addressing extinction, loss of control, superintelligence, a pause or China, even though the article was prompted by a researcher's warning that AI \"could kill us all\". I left all of this out of statements because spokesperson words and paraphrases are not his own words. Bangor Daily News, 19 August 2026, \"Susan Collins takes cautious line on data centers opposed by most Mainers\": opened; again no direct Jackson quote; an unnamed campaign spokesperson is quoted on data centers creating union jobs, and the article paraphrases a pledge by Jackson to regulate data centers within 100 days of taking office; nothing on risks from AI itself. Not checked: the four debates with Collins (6-15 October 2026), his Maine Calling interview on Maine Public (1 October 2026, https://www.mainepublic.org/show/maine-calling/2026-10-01/candidate-interviews-rick-bennett-troy-jackson), town halls, television interviews, candidate questionnaires, and his record in the Maine Senate; any of these could contain AI remarks. Could not open: congress.gov search for the Ban Artificial Superintelligence Act (HTTP 403) and Maine Morning Star site search (HTTP 403). On the two events in the brief: Jackson was a candidate, not a senator, in September 2026, so he could not have signed the 23 September letter or co-sponsored the bill; I found no source showing him commenting on either. Identity: every page relied on identifies him as the Democratic Senate nominee in Maine and former state Senate president, so there is no confusion with other people named Troy Jackson."
+  "record": [
+    [
+      "As a candidate for governor, Jackson released an 'Agency over AI' plan covering data center costs and power, protections for workers, environmental oversight and transparency on state government use of AI.",
+      "Spectrum News, 4 Jun 2026",
+      "https://spectrumnewsnecn.com/necn/maine/politics/2026/06/04/jackson-says-ai--tech-billionaires--will-face-scrutiny-in-maine-if-he-s-elected-governor"
+    ]
+  ],
+  "suggested_grade": "D",
+  "grade_reason": "The only AI remarks found in Jackson's own words treat AI as a question of who benefits, who pays and whether tech billionaires decide, without acknowledging catastrophic risk. A reporter's paraphrase that he said the AI race should slow down or stop is not his own words and does not change the grade.",
+  "notes": "WEB SEARCH DID NOT RUN. All four general web searches I attempted were refused because the shared search budget was used up: (1) \"Troy Jackson\" Maine Senate artificial intelligence superintelligence; (2) Bangor Daily News Maine politicians AI extinction warnings \"Troy Jackson\" September 2026; (3) \"Troy Jackson\" \"AI safety\" Maine Senate candidate; (4) site:jacksonformaine.com artificial intelligence. The brief's required searches on extinction or existential risk, pause or slowdown or moratorium, and China agreement or treaty were therefore never run either. This result rests only on pages opened directly and on three newspaper site searches, so it is much weaker than a normal run and should be redone when search is available. Pages opened and read (through a page-reading tool that summarises, so I did not see raw page text): jacksonformaine.com home page, /priorities, /troy-at-a-glance and /news (153 press release titles from 27 July to 3 November 2026; I read titles only, not the releases themselves). None mentions AI, technology companies or data centers; the 11 listed priorities contain nothing on AI. Bangor Daily News, 16 September 2026 (updated 22 September), by Benjamin Kail, \"How Susan Collins and other Maine politicians are responding to dire AI warnings\": opened. It contains no direct quote from Jackson himself. It paraphrases him as treating AI regulation as a worker-protection issue and warning that \"billionaires\" will profit while ordinary Mainers bear the costs, and says he would welcome data centers only with union jobs and protection of natural resources. It quotes campaign spokesperson Cheyenne Gallivan (not Jackson), in part: \"Troy Jackson believes we need common-sense AI regulations that give workers a seat at the table\" and \"He knows that if left unchecked, the billionaires benefiting from artificial intelligence will only get richer\" (these are excerpts of longer sentences as relayed by the reading tool; verify against the page before any use). According to the reading tool, the article does not show Jackson or his campaign addressing extinction, loss of control, superintelligence, a pause or China, even though the article was prompted by a researcher's warning that AI \"could kill us all\". I left all of this out of statements because spokesperson words and paraphrases are not his own words. Bangor Daily News, 19 August 2026, \"Susan Collins takes cautious line on data centers opposed by most Mainers\": opened; again no direct Jackson quote; an unnamed campaign spokesperson is quoted on data centers creating union jobs, and the article paraphrases a pledge by Jackson to regulate data centers within 100 days of taking office; nothing on risks from AI itself. Not checked: the four debates with Collins (6-15 October 2026), his Maine Calling interview on Maine Public (1 October 2026, https://www.mainepublic.org/show/maine-calling/2026-10-01/candidate-interviews-rick-bennett-troy-jackson), town halls, television interviews, candidate questionnaires, and his record in the Maine Senate; any of these could contain AI remarks. Could not open: congress.gov search for the Ban Artificial Superintelligence Act (HTTP 403) and Maine Morning Star site search (HTTP 403). On the two events in the brief: Jackson was a candidate, not a senator, in September 2026, so he could not have signed the 23 September letter or co-sponsored the bill; I found no source showing him commenting on either. Identity: every page relied on identifies him as the Democratic Senate nominee in Maine and former state Senate president, so there is no confusion with other people named Troy Jackson. Searches rerun on 15 November 2026: 9 ran, none refused; 2 new statements. Corrections: The existing file's grade of 'none' rested on finding no AI statement in his own words. The new searches found two direct quotes about AI (D level), so 'none' should become D. Nothing else in the file was shown to be wrong. Notes from the rerun: All 9 searches ran; none refused. The two quotes were read through a page-reading tool that returns extracted text rather than the raw page; the article dates them to a press conference on 'Wednesday' before its 4 Jun 2026 publication, which I took as 3 Jun 2026 (a Wednesday) - verify the date and exact wording against the page. The second half of the first quote as reported ('and \"not be getting their way.\"') was a separate fragment and was not joined. These remarks were made while he was running for governor, before he became the Senate nominee in July 2026. IMPORTANT FOR REVIEWER: The American Prospect, 'Downvoting Data Centers in Maine' by Gabrielle Gurley, 16 Oct 2026 (https://prospect.org/2026/10/16/downvoting-data-centers-in-maine/), says in the author's own words: 'Jackson asserted that the AI race needs to slow down or stop.' This refers to a candidate forum earlier that week (not the 15 Oct debate). It is a paraphrase, so it is not in new_statements and I did not change the slowdown or pause positions (no direct quote and no reason given, so it cannot be tied to safety rather than jobs or data centers). A recording or transcript of that forum could hold a direct quote that would affect slowdown/pause and possibly the level; a follow-up search for it found nothing. Other pages: the AP debate story (WCAX, 16 Oct 2026) has no Jackson quote on AI; newsfromthestates.com/node/410453 returned HTTP 403. No source shows Jackson commenting on the Ban Artificial Superintelligence Act or the 23 September 2026 China letter (he was not a senator, so he could not sign or co-sponsor). The site: search returned no jacksonformaine.com pages. Search summaries also mention he 'has said the advancement of AI and surveillance technology needs more federal regulation' - search-result paraphrase, not verified, not used."
 }

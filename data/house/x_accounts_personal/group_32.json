@@ -1,0 +1,118 @@
+[
+  {
+    "id": "T000467",
+    "name": "Glenn Thompson",
+    "accounts": [
+      {
+        "handle": "gt_teamgt",
+        "account_type": "campaign",
+        "evidence_url": "https://gtthompson.com/",
+        "evidence": "The official campaign website of Congressman Glenn 'GT' Thompson (paid for by Friends of Glenn Thompson) links to x.com/gt_teamgt."
+      }
+    ],
+    "notes": "Politwoops lists the same account as GT_TeamGT (capitalization differs); handle recorded as written on the campaign site."
+  },
+  {
+    "id": "K000376",
+    "name": "Mike Kelly",
+    "accounts": [],
+    "notes": "No campaign website found by the one allowed search. LegiStorm lists only official links (x.com/MikeKellyPA, already on file); it says campaign links exist but are hidden behind a paid subscription. No campaign X handle confirmed."
+  },
+  {
+    "id": "D000530",
+    "name": "Christopher R. Deluzio",
+    "accounts": [
+      {
+        "handle": "ChrisForPA",
+        "account_type": "campaign",
+        "evidence_url": "https://chrisforpa.com/",
+        "evidence": "Chris Deluzio's campaign website chrisforpa.com links to twitter.com/ChrisForPA."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "A000380",
+    "name": "Gabe Amo",
+    "accounts": [
+      {
+        "handle": "gabeamo",
+        "account_type": "campaign",
+        "evidence_url": "https://gabeamo.com/about-the-campaign",
+        "evidence": "Gabe Amo's campaign website gabeamo.com links to twitter.com/gabeamo alongside its gabeamoforcongress Facebook, Instagram and YouTube accounts."
+      }
+    ],
+    "notes": "The campaign page may date from the 2023 special election; the account may be used as a personal account. Labeled campaign because the campaign site links it."
+  },
+  {
+    "id": "M001223",
+    "name": "Seth Magaziner",
+    "accounts": [
+      {
+        "handle": "SethMagaziner",
+        "account_type": "campaign",
+        "evidence_url": "https://sethmagaziner.com/",
+        "evidence": "Seth Magaziner's campaign website sethmagaziner.com ('Join Team Seth') links to twitter.com/SethMagaziner."
+      }
+    ],
+    "notes": "This handle predates his time in Congress (used as Rhode Island treasurer); it serves as his personal/campaign account."
+  },
+  {
+    "id": "M000194",
+    "name": "Nancy Mace",
+    "accounts": [
+      {
+        "handle": "NancyMace",
+        "account_type": "personal",
+        "evidence_url": "http://www.christianpost.com/news/rep-nancy-mace-joins-sc-governor-race-promises-to-flip-tables.html",
+        "evidence": "A Christian Post news article on her 2025 governor campaign launch embeds her post attributed to 'Nancy Mace (@NancyMace)'."
+      }
+    ],
+    "notes": "The article names nancymace.org as her (governor) campaign website; I did not open it to check its X link. She ran for South Carolina governor in 2026, not for re-election to the House."
+  },
+  {
+    "id": "W000795",
+    "name": "Joe Wilson",
+    "accounts": [
+      {
+        "handle": "TeamJoeWilson",
+        "account_type": "campaign",
+        "evidence_url": "https://joewilsonforcongress.com/",
+        "evidence": "Joe Wilson's campaign website joewilsonforcongress.com links to x.com/TeamJoeWilson."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "B001325",
+    "name": "Sheri Biggs",
+    "accounts": [
+      {
+        "handle": "VoteSheriBiggs",
+        "account_type": "campaign",
+        "evidence_url": "https://www.sheribiggs.com/",
+        "evidence": "Sheri Biggs's campaign website sheribiggs.com links to twitter.com/VoteSheriBiggs."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "T000480",
+    "name": "William R. Timmons IV",
+    "accounts": [
+      {
+        "handle": "votetimmons",
+        "account_type": "campaign",
+        "evidence_url": "https://votetimmons.com/about/william-timmons/",
+        "evidence": "The 'William Timmons for Congress' campaign website (paid for by William Timmons for Congress) links to twitter.com/votetimmons."
+      }
+    ],
+    "notes": "Politwoops lists the same account as VoteTimmons (capitalization differs); handle recorded as written on the campaign site."
+  },
+  {
+    "id": "N000190",
+    "name": "Ralph Norman",
+    "accounts": [],
+    "notes": "Unconfirmed lead: search summary said a Townhall article embeds posts from 'Ralph Norman for Governor (@RalphNorman)', and Politwoops tracks a RalphNorman account, but the Townhall page returned 404 and the SC Daily Gazette and Daily Signal pages returned 403, so no opened page confirmed the handle. He ran for governor (2025) and reportedly for US Senate (2026); campaign website not found."
+  }
+]

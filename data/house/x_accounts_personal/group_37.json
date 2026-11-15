@@ -1,0 +1,104 @@
+[
+  {
+    "id": "C001051",
+    "name": "John R. Carter",
+    "accounts": [
+      {
+        "handle": "JudgeJohnCarter",
+        "account_type": "campaign",
+        "evidence_url": "https://www.johncarterforcongress.com/",
+        "evidence": "The John Carter for Congress campaign site (paid for by John Carter for Congress, describing him as former judge of the 277th District Court in Williamson County) links to x.com/JudgeJohnCarter."
+      }
+    ],
+    "notes": "Handle differs from the official JudgeCarter on file by one word; it was taken exactly as linked on the campaign site."
+  },
+  {
+    "id": "J000310",
+    "name": "Julie Johnson",
+    "accounts": [
+      {
+        "handle": "juliejohnsonTX",
+        "account_type": "campaign",
+        "evidence_url": "https://juliejohnson.com/",
+        "evidence": "The Julie Johnson for Congress campaign site links to twitter.com/juliejohnsonTX in its header, social section and footer."
+      }
+    ],
+    "notes": "The campaign site mentions a Democratic primary runoff in Texas' 33rd District (after redistricting), with one section still referring to the 32nd."
+  },
+  {
+    "id": "V000131",
+    "name": "Marc A. Veasey",
+    "accounts": [],
+    "notes": "The search found no campaign website. Search results say Veasey is not seeking reelection to Congress in 2026 and is running for Tarrant County judge instead. The AOL article about this returned 404. No personal or campaign handle confirmed."
+  },
+  {
+    "id": "G000581",
+    "name": "Vicente Gonzalez",
+    "accounts": [
+      {
+        "handle": "votevicente",
+        "account_type": "campaign",
+        "evidence_url": "https://vicentegonzalez.com/",
+        "evidence": "The Vicente Gonzalez for U.S. Congress campaign site (paid for by the Vicente Gonzalez for Congress Committee) links to twitter.com/votevicente."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C001131",
+    "name": "Greg Casar",
+    "accounts": [
+      {
+        "handle": "gregcasar",
+        "account_type": "campaign",
+        "evidence_url": "https://casarforcongress.com/",
+        "evidence": "The Greg Casar for Congress campaign site (paid for by Greg Casar for Congress) links to twitter.com/gregcasar."
+      }
+    ],
+    "notes": "The campaign site describes him as running in Texas' 37th District (after redistricting). The fetched page wrote the handle as lowercase gregcasar; search results show it as GregCasar."
+  },
+  {
+    "id": "B001291",
+    "name": "Brian Babin",
+    "accounts": [],
+    "notes": "The search found no campaign website, only the official House site and the RepBrianBabin account already on file. No personal or campaign handle confirmed."
+  },
+  {
+    "id": "D000399",
+    "name": "Lloyd Doggett",
+    "accounts": [],
+    "notes": "No campaign website found. Search results say Doggett is retiring and not seeking reelection in 2026. LegiStorm lists only x.com/RepLloydDoggett (official, already on file); its text mentions a campaign X profile but shows no URL."
+  },
+  {
+    "id": "M001213",
+    "name": "Blake D. Moore",
+    "accounts": [],
+    "notes": "Campaign site electmoore.com (Blake Moore for Congress) was opened; its home and contact pages show no X/Twitter link. No personal or campaign handle confirmed."
+  },
+  {
+    "id": "M001228",
+    "name": "Celeste Maloy",
+    "accounts": [
+      {
+        "handle": "CelesteMaloyUT",
+        "account_type": "campaign",
+        "evidence_url": "https://www.celesteforutah.com/",
+        "evidence": "The Celeste Maloy for Congress campaign site (paid for by Celeste For Congress, Cedar City, UT) links to twitter.com/CelesteMaloyUT in its navigation and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "K000403",
+    "name": "Mike Kennedy",
+    "accounts": [
+      {
+        "handle": "KennedyForUtah",
+        "account_type": "campaign",
+        "evidence_url": "https://mikekennedyforutah.com/",
+        "evidence": "The Mike Kennedy for Utah campaign site (paid for by Mike Kennedy for Utah, describing him as now serving in Congress) links to twitter.com/KennedyForUtah in its footer and embeds its feed."
+      }
+    ],
+    "notes": ""
+  }
+]

@@ -1,0 +1,118 @@
+[
+ {
+  "id": "C001066",
+  "name": "Kathy Castor",
+  "accounts": [
+   {
+    "handle": "kathycastorfl",
+    "account_type": "campaign",
+    "evidence_url": "https://castorforcongress.com/about/",
+    "evidence": "The footer of Kathy Castor's campaign website (castorforcongress.com) links to x.com/kathycastorfl."
+   }
+  ],
+  "notes": "A search summary also mentioned a ProPublica Politwoops entry for KathyCastorFL tied to her 2020 campaign (same handle, different capitalization); not opened."
+ },
+ {
+  "id": "L000597",
+  "name": "Laurel M. Lee",
+  "accounts": [
+   {
+    "handle": "vote_laurel",
+    "account_type": "campaign",
+    "evidence_url": "https://votelaurel.com/",
+    "evidence": "The Laurel Lee for Congress campaign homepage (votelaurel.com) links to x.com/vote_laurel in its header, social section and footer."
+   }
+  ],
+  "notes": "Search summary wrote the handle as Vote_Laurel (from a campaign press release and Politwoops); the campaign site writes it in lower case."
+ },
+ {
+  "id": "B001260",
+  "name": "Vern Buchanan",
+  "accounts": [],
+  "notes": "No campaign X account confirmed. Wikipedia lists the campaign site as vernbuchanan.com, but both http://vernbuchanan.com and https://www.vernbuchanan.com/ returned 404. LegiStorm's bio page mentions a campaign X profile behind its paid tier but shows no handle. The handle on file (VernBuchanan) is the only one found."
+ },
+ {
+  "id": "S001214",
+  "name": "W. Gregory Steube",
+  "accounts": [],
+  "notes": "Campaign website electgregsteube.com (from Wikipedia) was opened; it links only to Facebook (gregsteube) and Instagram (gregsteube), no X account. No personal or campaign X handle confirmed."
+ },
+ {
+  "id": "F000472",
+  "name": "Scott Franklin",
+  "accounts": [
+   {
+    "handle": "ScottFranklinFL",
+    "account_type": "campaign",
+    "evidence_url": "https://www.votescottfranklin.com/",
+    "evidence": "The Scott Franklin for Congress campaign website links to twitter.com/ScottFranklinFL."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "D000032",
+  "name": "Byron Donalds",
+  "accounts": [
+   {
+    "handle": "ByronDonalds",
+    "account_type": "personal",
+    "evidence_url": "https://thenerdstash.com/florida-rep-byron-donalds-tells-voters-to-reject-socialism-as-governors-race-heats-up-protect-and-defend-the-florida-dream/",
+    "evidence": "A news article about Rep. Byron Donalds's 2026 Florida governor campaign embeds his X post from Byron Donalds (@ByronDonalds), linking to x.com/ByronDonalds/status/2105725079338553698."
+   }
+  ],
+  "notes": "Evidence is a news article embed, not his campaign website (the search did not return the campaign domain). Donalds was the 2026 Republican nominee for Florida governor; this account is used as his main personal/campaign account. Labeled personal because it is not a campaign-committee-branded handle."
+ },
+ {
+  "id": "M001199",
+  "name": "Brian J. Mast",
+  "accounts": [
+   {
+    "handle": "BrianMastFL",
+    "account_type": "campaign",
+    "evidence_url": "http://www.mastforcongress.com/",
+    "evidence": "The Mast for Congress campaign website links to twitter.com/BrianMastFL and shows the profile 'Brian Mast [@BrianMastFL]'."
+   }
+  ],
+  "notes": "Campaign site URL taken from his Wikipedia page."
+ },
+ {
+  "id": "F000462",
+  "name": "Lois Frankel",
+  "accounts": [
+   {
+    "handle": "loisfrankel",
+    "account_type": "campaign",
+    "evidence_url": "https://loisfrankelforcongress.com/endorsements",
+    "evidence": "The Lois Frankel for Congress campaign website links to twitter.com/loisfrankel in its header and footer."
+   }
+  ],
+  "notes": "Search summary wrote the handle as LoisFrankel; the campaign site writes it in lower case."
+ },
+ {
+  "id": "M001217",
+  "name": "Jared Moskowitz",
+  "accounts": [
+   {
+    "handle": "JaredEMoskowitz",
+    "account_type": "campaign",
+    "evidence_url": "https://jaredforflorida.com",
+    "evidence": "The Jared Moskowitz for Congress campaign website (paid for by Jared Moskowitz for Congress) links to x.com/JaredEMoskowitz throughout the page."
+   }
+  ],
+  "notes": "Campaign site URL came from a search summary citing an ActBlue fundraising page; the site itself was opened and confirmed."
+ },
+ {
+  "id": "W000808",
+  "name": "Frederica S. Wilson",
+  "accounts": [
+   {
+    "handle": "FSWInTheHouse",
+    "account_type": "campaign",
+    "evidence_url": "https://fredericawilson.vote/",
+    "evidence": "Her campaign website (paid for by Frederica Wilson for Congress; fredericawilsonforcongress.com redirects here) displays the handle @FSWInTheHouse and links to twitter.com/fswinthehouse."
+   }
+  ],
+  "notes": "Uncertain: on the same page the displayed '@FSWInTheHouse' text links to twitter.com/repwilson (the official handle on file), while a separate link goes to twitter.com/fswinthehouse, so the site is somewhat inconsistent. Wilson announced in May 2026 she would not seek reelection, so the campaign account may be inactive."
+ }
+]

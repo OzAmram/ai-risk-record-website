@@ -53,6 +53,9 @@ parser.add_argument("--quote-review", help="Results of the second check of quote
 parser.add_argument("--labels", help="Labelled X posts (output of classify/merge.py). Left out: records use news and letters only")
 parser.add_argument("--elect", help="CSV of representatives-elect written by data/house/merge_elections.py")
 parser.add_argument("--leaving", help="CSV of sitting members not among the 2026 winners")
+parser.add_argument("--summaries", help="CSV (bioguide, summary, grade) of written sentences shown after the grade, from data/house/merge_summaries.py. "
+                    "Used only while the record's grade is still the grade the sentence was written for")
+parser.add_argument("--election", help="Table of 2026 House results (data/house/election_2026.csv); gives each returning member the district they won")
 parser.add_argument("--out", required=True)
 args = parser.parse_args()
 
@@ -114,6 +117,19 @@ if args.elect:
             status[r["id"]] = {"kind": "representative-elect", "label": r["source_label"], "url": r["source_url"],
                                "note": f"Elected 3 November 2026; takes office 3 January 2027. {r['previous']} {r['background']}".strip()}
 
+won = {}  # bioguide of a returning member -> the district they won in November 2026, in the form used in "seat"
+if args.election:
+    with open(args.election, newline="") as f:
+        for r in csv.DictReader(f):
+            if r["sitting_bioguide"] and r["status"] == "called":
+                won[r["sitting_bioguide"]] = f"{STATES[r['state']]}, " + ("at large" if r["district"] == "0" else f"district {r['district']}")
+
+summaries = {}
+if args.summaries:
+    with open(args.summaries, newline="") as f:
+        summaries = {r["bioguide"]: r for r in csv.DictReader(f)}
+stale = []  # people whose grade has changed since their sentence was written
+
 records, grades, missing = [], collections.Counter(), []
 for member in roster:
     b = member["bioguide"]
@@ -137,7 +153,7 @@ for member in roster:
         items.append((letter["date"], ruling["level"], False, True))
         stmts.append([show_date(letter["date"]), f"Letter to {letter['addressed_to']}, co-signed with {len(letter['signers']) - 1} other members",
                       quote["text"], letter["summary"], "Letter text", quote["source_url"],
-                      "quote checked against the source by script", None, ruling["level"]])
+                      "wording found on the source page", None, ruling["level"]])
     seen = set()
     for p in posts[b]:
         if p["level"] == "off_topic":
@@ -206,16 +222,26 @@ for member in roster:
         "id": slug(member["member"]), "bioguide": b, "name": member["member"], "chamber": "house",
         "seat": f"{member['party']} · {STATES[member['state']]}, {district}", "grade": grade,
         "why": f"{'Representative-elect ' + member['member'] if member.get('elect') else 'Representative ' + member['last_name']} {SENTENCE[grade]}" + "".join(" " + n for n in notes),
-        "flag": f"Machine-drafted record. The grade, positions and quotes come from a language model working from {searched}, "
-                "and have only been roughly checked by a person. The grade is worked out by rule from the statements found; "
-                "the levels given to co-signed House letters were set by Oz on 15 November 2026.",
+        "flag": f"The grade, positions and quotes come from a language model working from {searched}, "
+                "and have been spot-checked by a person. The grade is worked out by rule from the statements found; "
+                "the levels given to co-signed House letters were set by a human reviewer on 15 November 2026.",
         "pos": pos, "stmts": stmts, "record": found.get("record", []), "gaps": [],
     })
+    records[-1]["posts"] = len(posts[b])  # X posts collected for this member, for the total on the methodology page
+    if b in summaries:
+        if summaries[b]["grade"] == grade:
+            records[-1]["why"] = summaries[b]["summary"]
+        else:
+            stale.append(member["member"])  # keeps the sentence written by rule
     if b in status:
         records[-1]["status"] = status[b]
+    if b in won:
+        records[-1]["next"] = won[b]
 if len({r["id"] for r in records}) != len(records):
     raise SystemExit("Two House members would get the same page id")
 with open(args.out, "w") as f:
     json.dump(records, f, ensure_ascii=False)
 print(len(records), "House records written to", args.out, "| grades:", " ".join(f"{g} {grades[g]}" for g in "ABCDF–"))
+if args.summaries:
+    print(sum(1 for r in records if r["bioguide"] in summaries) - len(stale), "records use a written summary;", len(stale), "have a summary written for a different grade and use the rule sentence:", ", ".join(stale))
 print("Not included (no file in the House news folder):", ", ".join(missing))

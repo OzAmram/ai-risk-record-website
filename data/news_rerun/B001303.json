@@ -1,0 +1,28 @@
+{"bioguide": "B001303", "member": "Lisa Blunt Rochester",
+ "searches_run": [
+  "\"Blunt Rochester\" China AI agreement OR treaty OR talks 2026",
+  "\"Blunt Rochester\" superintelligence OR \"artificial general intelligence\" OR AGI",
+  "Senator Blunt Rochester AI statement October 2026 OR November 2026 frontier models (follow-up)"
+ ],
+ "searches_refused": [],
+ "new_statements": [
+  {"date": "2026-11-13",
+   "venue": "Joint statement with Sen. John Curtis (Republican, Utah) and their letter to Commerce Secretary Lutnick, Senate press release",
+   "quote": "Our concerns about insufficient export controls on these technologies are magnified by numerous rogue artificial intelligence incidents, including autonomous hacking incidents, unauthorized agent access to the internet, and attacks on real-world targets.",
+   "context": "The two senators urged tighter export controls on advanced AI chips to China; they continue that these incidents show the urgent need to protect the safety and security of Americans, and that company whistleblowers have warned the technology is accelerating without sufficient guardrails.",
+   "source_label": "Senate press release",
+   "url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senators-blunt-rochester-curtis-demand-trump-administration-strengthen-ai-chip-export-controls/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": ["cosigned_letter", "bill_or_action", "boundary"],
+   "reason": "Points to rogue, autonomous AI incidents as a reason for concern and (in the next passage) a threat to the safety and security of Americans, a serious but general threat; the harms named are hacking and attacks, so it sits near D under the rogue-AI ruling."}
+ ],
+ "position_changes": {},
+ "new_record_items": [
+  ["With Sen. John Curtis, sent a letter to Commerce Secretary Lutnick urging him to close loopholes in export controls on advanced AI chips (including remote access by Chinese companies), citing rogue AI incidents and whistleblower warnings that AI is accelerating without sufficient guardrails.", "Senate press release, 13 November 2026", "https://www.bluntrochester.senate.gov/news/press-releases/news-senators-blunt-rochester-curtis-demand-trump-administration-strengthen-ai-chip-export-controls/"],
+  ["Congressional delegation visit to San Francisco on national security and emerging technology, including meetings with AI experts and OpenAI leadership; her quoted remarks in the release do not mention AI risk.", "Senate press release, 13 October 2026", "https://www.bluntrochester.senate.gov/news/press-releases/news-senator-blunt-rochester-returns-from-congressional-delegation-visits-on-coast-guard-ai-national-security/"]
+ ],
+ "suggested_grade": "C",
+ "grade_reason": "Her 2026 letters and joint statements treat autonomous AI incidents as a severe threat to Americans' safety and say AI must remain under human control, but nothing found names mass casualties, loss of control as an outcome, or extinction. The new November 2026 letter is consistent with C.",
+ "corrections": "",
+ "notes": "Three originally skipped searches: the two topic searches (China agreement; superintelligence/AGI) were run and found nothing about her. The third (full signer list of the 23 September 2026 China letter) was not spent per classify/news_search_addendum.md, which gives the verified 17-signer list (Van Hollen press release); Blunt Rochester is not on it, so she did not sign and intl stays 'none' (the existing note calling this 'unconfirmed' can now say she did not sign). Superintelligence search returned no results mentioning her; no source shows her co-sponsoring the Ban Artificial Superintelligence Act (not checked on congress.gov). Follow-ups: I opened her press release list (first page, through 13 Oct 2026) and two AI-related releases. The 13 Nov 2026 chip letter is mainly about competition with China (D under ruling 5); only the rogue-AI passage supports C, and it is a joint statement with Curtis, so its words are shared. The letter's call to deny China compute is not coordination with China, so no intl change. Quote copied from the page text downloaded with curl. The 13 Oct 2026 delegation release says OpenAI leadership addressed recent AI threats but attributes no AI-risk words to her. Two search hits were irrelevant: a devx.com piece about Washington state's senior senator (not her) and an April 2024 King/Romney framework release (not her)."}

@@ -1,0 +1,34 @@
+{"bioguide": "L000595", "member": "Julia Letlow",
+ "searches_run": [
+  "Julia Letlow artificial intelligence",
+  "\"Letlow\" \"AI safety\"",
+  "Julia Letlow superintelligence",
+  "Julia Letlow AI extinction OR \"existential risk\"",
+  "Julia Letlow AI moratorium OR pause OR slowdown",
+  "Julia Letlow AI China agreement OR treaty",
+  "artificial intelligence (allowed_domains: letlow.house.gov; the filter returned no letlow.house.gov pages)",
+  "site:letlow.house.gov artificial intelligence (follow-up; returned no letlow.house.gov pages)",
+  "\"Letlow\" AI \"threat to humanity\" OR \"humankind\" Louisiana Illuminator candidates regulation (follow-up)",
+  "Letlow Davis Senate AI regulation \"thoughtful approach\" Advocate October 2026 (follow-up)"
+ ],
+ "searches_refused": [],
+ "new_statements": [
+  {"date": "2026-10-05",
+   "venue": "Written statement to the Louisiana Illuminator for a survey of Louisiana congressional candidates on AI",
+   "quote": "Government has a responsibility to protect Americans and put common-sense guardrails in place without overregulating this technology or allowing China to win the global AI race",
+   "context": "Asked about her stance on AI concerns and regulation as the Republican US Senate nominee; she gave no specifics on what regulation she would support.",
+   "source_label": "Louisiana Illuminator (Julie O'Donoghue and Elise Plunk), republished on Yahoo News, 5 October 2026",
+   "url": "https://www.yahoo.com/news/politics/articles/ai-apocalypse-most-louisiana-candidates-185628357.html",
+   "read_at_source": true,
+   "level": "D",
+   "flags": ["unsure"],
+   "reason": "Talks about AI guardrails and the race with China but does not acknowledge catastrophic risk; competition with China is D under ruling 5."}
+ ],
+ "position_changes": {},
+ "new_record_items": [
+  ["Voted yes on House passage of H.R. 1 (One Big Beautiful Bill Act), whose House version contained a 10-year moratorium on state AI laws; this was a vote on the whole budget bill, not a stand-alone AI vote, and the Senate later removed the moratorium.", "House Clerk, Roll Call 145, 22 May 2025", "https://clerk.house.gov/Votes/2025145"]
+ ],
+ "suggested_grade": "D",
+ "grade_reason": "Her only quoted remark on AI found (October 2026) is about light-touch guardrails and beating China, with no acknowledgment of catastrophic risk. The same article reports, in the reporters' words only, that she doubted AI poses a true threat to humankind, which would be F if her own words were found, but no quote of that was found.",
+ "corrections": "None. The existing file said no statement about AI itself was found; the rerun found one (above), so the grade should move from none to D (or F, see notes).",
+ "notes": "IMPORTANT FOR REVIEWER: The Louisiana Illuminator article (5 October 2026, https://lailluminator.com/2026/10/05/ai-apocalypse-most-louisiana-candidates-for-congress-stay-vague-on-regulation/) states: 'Letlow and Chauna Banks, a Democrat in the 6th District race, also said they doubted AI poses a true threat to humankind.' This is the reporters' paraphrase, not her words, so it is left out of statements per the brief. If her written response (which the Illuminator may hold) contains words dismissing a threat to humankind, the grade would be F. A reviewer may want to ask the Illuminator or the campaign for the full response. Quote check: the lailluminator.com page and the newsfromthestates.com copy both returned 403; the quote was read on the Yahoo republication through a fetch tool that returned it in two segments ('...put common-sense guardrails in place without overregulating' / 'this technology or allowing China to win the global AI race'); a search-result summary of the Illuminator article shows the same wording as one continuous sentence, so I believe the joined quote is exact, but it should be checked against the original page (hence the 'unsure' flag). Also seen but not used: a Substack post (parallelintelligence.substack.com, Davis vs. Letlow, October 2026) citing The Advocate of 16 October 2026 says her campaign declined to answer questions on liability, safety testing, kill switches or autonomous weapons and offered a general statement favouring a 'thoughtful approach' without 'unnecessary regulations'; I could not find or open The Advocate piece, so this is not included. June 2026 remarks calling John Fleming's sharing of an AI deepfake video of her 'unconscionable' (WAFB, Fox 8) are about deepfakes in campaign ads, level D at most, not opened and not included. No source shows her signing the 23 September 2026 China letter (she was not a senator) or co-sponsoring the Ban Artificial Superintelligence Act. The roll call vote on H.R. 1 was verified on clerk.house.gov; that the House-passed bill contained the state AI-law moratorium is from the Substack post and widely reported 2025 coverage (search results), not read in the bill text by me."}

@@ -9,9 +9,9 @@
   "Lisa Blunt Rochester AI moratorium OR pause OR slowdown",
   "17 senators letter September 2026 AI talks with China signers Blunt Rochester",
   "Blunt Rochester letter OpenAI Anthropic Meta CEOs models unauthorized access internet August 2026",
-  "NOT RUN (session search limit reached): Van Hollen letter Trump Xi AI agreement full list of signers",
-  "NOT RUN (session search limit reached): \"Blunt Rochester\" China AI agreement OR treaty OR talks 2026",
-  "NOT RUN (session search limit reached): \"Blunt Rochester\" superintelligence OR \"artificial general intelligence\" OR AGI"
+  "\"Blunt Rochester\" China AI agreement OR treaty OR talks 2026 (run 15 November 2026)",
+  "\"Blunt Rochester\" superintelligence OR \"artificial general intelligence\" OR AGI (run 15 November 2026)",
+  "Senator Blunt Rochester AI statement October 2026 OR November 2026 frontier models (follow-up) (run 15 November 2026)"
  ],
  "statements": [
   {
@@ -56,6 +56,22 @@
     "boundary"
    ],
    "reason": "Says AI must remain fully under human control, which acknowledges the concern in general terms, but does not say that control could be lost or name any catastrophic outcome."
+  },
+  {
+   "date": "2026-11-13",
+   "venue": "Joint statement with Sen. John Curtis (Republican, Utah) and their letter to Commerce Secretary Lutnick, Senate press release",
+   "quote": "Our concerns about insufficient export controls on these technologies are magnified by numerous rogue artificial intelligence incidents, including autonomous hacking incidents, unauthorized agent access to the internet, and attacks on real-world targets.",
+   "context": "The two senators urged tighter export controls on advanced AI chips to China; they continue that these incidents show the urgent need to protect the safety and security of Americans, and that company whistleblowers have warned the technology is accelerating without sufficient guardrails.",
+   "source_label": "Senate press release",
+   "url": "https://www.bluntrochester.senate.gov/news/press-releases/news-senators-blunt-rochester-curtis-demand-trump-administration-strengthen-ai-chip-export-controls/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "cosigned_letter",
+    "bill_or_action",
+    "boundary"
+   ],
+   "reason": "Points to rogue, autonomous AI incidents as a reason for concern and (in the next passage) a threat to the safety and security of Americans, a serious but general threat; the harms named are hacking and attacks, so it sits near D under the rogue-AI ruling."
   }
  ],
  "positions": {
@@ -110,9 +126,19 @@
    "Statement on President Trump's AI executive orders, saying the United States must win the AI race and that states and Congress should keep the ability to regulate the industry.",
    "Senate press release, 23 July 2025",
    "https://www.bluntrochester.senate.gov/news/press-releases/statement-senator-blunt-rochester-statement-on-trump-administrations-executive-actions-on-artificial-intelligence/"
+  ],
+  [
+   "With Sen. John Curtis, sent a letter to Commerce Secretary Lutnick urging him to close loopholes in export controls on advanced AI chips (including remote access by Chinese companies), citing rogue AI incidents and whistleblower warnings that AI is accelerating without sufficient guardrails.",
+   "Senate press release, 13 November 2026",
+   "https://www.bluntrochester.senate.gov/news/press-releases/news-senators-blunt-rochester-curtis-demand-trump-administration-strengthen-ai-chip-export-controls/"
+  ],
+  [
+   "Congressional delegation visit to San Francisco on national security and emerging technology, including meetings with AI experts and OpenAI leadership; her quoted remarks in the release do not mention AI risk.",
+   "Senate press release, 13 October 2026",
+   "https://www.bluntrochester.senate.gov/news/press-releases/news-senator-blunt-rochester-returns-from-congressional-delegation-visits-on-coast-guard-ai-national-security/"
   ]
  ],
  "suggested_grade": "C",
- "grade_reason": "Her August 2026 letters to OpenAI, Anthropic and Meta say autonomous AI behavior could pose a severe threat to the safety and security of all Americans, and a September 2026 joint statement says AI must remain fully under human control. Nothing found names mass casualties, loss of control as a possible outcome, or extinction.",
- "notes": "Three planned searches (China letter signer list, China agreement, superintelligence/AGI) could not be run because the session's web search limit was reached; the required topics were each covered by at least one earlier search. 23 September 2026 China letter: syndicated coverage (e.g. https://cnycentral.com/news/nation-world/democrats-call-on-trump-to-establish-agreement-with-xi-jinping-to-slow-ai-development-maryland-chris-van-hollen) names only Sen. Van Hollen; I did not find the full list of 17 signers, so whether she signed is UNCONFIRMED and a reviewer should check it. Ban Artificial Superintelligence Act: no source found naming her as a co-sponsor; coverage names Sanders and Rep. Casar plus House co-sponsors; not checked on congress.gov. A 3 August 2026 letter from Senate Democrats on access to advanced AI models (Washington Examiner) names Gillibrand, Schiff, Warner, Coons and Kelly, not her. The 16 September statement is a joint statement with Sen. Curtis, so its words are shared; the quote starts mid-sentence because the full sentence exceeds 300 characters (it begins 'That is why we are calling for immediate public hearings to bring lawmakers, model makers, and other stakeholders into the same room and'). The same letter passages appear in all three letters with small wording differences; quotes are copied from the press release page, and I also read the letter texts (Anthropic and OpenAI copies hosted by Fox News, Meta copy on senate.gov). Other AI material found is outside scope (level D): the 23 July 2025 statement on the AI race, AI education bills (with Sens. Husted and Sheehy), the FARM AI Act, and questions to Federal Reserve officials about AI and jobs. Search-result summaries mentioned a Senate Commerce Committee 'AI Safety Principles' document (October 2026); I did not open it and found no link to her."
+ "grade_reason": "Her 2026 letters and joint statements treat autonomous AI incidents as a severe threat to Americans' safety and say AI must remain under human control, but nothing found names mass casualties, loss of control as an outcome, or extinction. The new November 2026 letter is consistent with C.",
+ "notes": "Three planned searches (China letter signer list, China agreement, superintelligence/AGI) could not be run because the session's web search limit was reached; the required topics were each covered by at least one earlier search. 23 September 2026 China letter: syndicated coverage (e.g. https://cnycentral.com/news/nation-world/democrats-call-on-trump-to-establish-agreement-with-xi-jinping-to-slow-ai-development-maryland-chris-van-hollen) names only Sen. Van Hollen; I did not find the full list of 17 signers, so whether she signed is UNCONFIRMED and a reviewer should check it. Ban Artificial Superintelligence Act: no source found naming her as a co-sponsor; coverage names Sanders and Rep. Casar plus House co-sponsors; not checked on congress.gov. A 3 August 2026 letter from Senate Democrats on access to advanced AI models (Washington Examiner) names Gillibrand, Schiff, Warner, Coons and Kelly, not her. The 16 September statement is a joint statement with Sen. Curtis, so its words are shared; the quote starts mid-sentence because the full sentence exceeds 300 characters (it begins 'That is why we are calling for immediate public hearings to bring lawmakers, model makers, and other stakeholders into the same room and'). The same letter passages appear in all three letters with small wording differences; quotes are copied from the press release page, and I also read the letter texts (Anthropic and OpenAI copies hosted by Fox News, Meta copy on senate.gov). Other AI material found is outside scope (level D): the 23 July 2025 statement on the AI race, AI education bills (with Sens. Husted and Sheehy), the FARM AI Act, and questions to Federal Reserve officials about AI and jobs. Search-result summaries mentioned a Senate Commerce Committee 'AI Safety Principles' document (October 2026); I did not open it and found no link to her. Searches rerun on 15 November 2026: 3 ran, none refused; 1 new statement. Notes from the rerun: Three originally skipped searches: the two topic searches (China agreement; superintelligence/AGI) were run and found nothing about her. The third (full signer list of the 23 September 2026 China letter) was not spent per classify/news_search_addendum.md, which gives the verified 17-signer list (Van Hollen press release); Blunt Rochester is not on it, so she did not sign and intl stays 'none' (the existing note calling this 'unconfirmed' can now say she did not sign). Superintelligence search returned no results mentioning her; no source shows her co-sponsoring the Ban Artificial Superintelligence Act (not checked on congress.gov). Follow-ups: I opened her press release list (first page, through 13 Oct 2026) and two AI-related releases. The 13 Nov 2026 chip letter is mainly about competition with China (D under ruling 5); only the rogue-AI passage supports C, and it is a joint statement with Curtis, so its words are shared. The letter's call to deny China compute is not coordination with China, so no intl change. Quote copied from the page text downloaded with curl. The 13 Oct 2026 delegation release says OpenAI leadership addressed recent AI threats but attributes no AI-risk words to her. Two search hits were irrelevant: a devx.com piece about Washington state's senior senator (not her) and an April 2024 King/Romney framework release (not her)."
 }

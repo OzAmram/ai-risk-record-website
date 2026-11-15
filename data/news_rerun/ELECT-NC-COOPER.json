@@ -1,0 +1,22 @@
+{"bioguide": "ELECT-NC-COOPER", "member": "Roy Cooper",
+ "searches_run": [
+  "Roy Cooper artificial intelligence Senate campaign 2026",
+  "\"Roy Cooper\" superintelligence",
+  "\"Roy Cooper\" \"AI safety\"",
+  "\"Roy Cooper\" AI extinction OR \"existential risk\"",
+  "\"Roy Cooper\" AI pause OR moratorium OR slowdown data centers",
+  "\"Roy Cooper\" AI China agreement OR treaty",
+  "site:roycooper.com artificial intelligence",
+  "Cooper Whatley debate artificial intelligence guardrails (follow-up)",
+  "\"Cooper\" senator-elect North Carolina AI \"human race\" OR guardrails (follow-up)",
+  "\"Roy Cooper\" AI \"Chinese leader\" OR \"negative potential\" (follow-up)"
+ ],
+ "searches_refused": [],
+ "new_statements": [],
+ "position_changes": {},
+ "new_record_items": [],
+ "suggested_grade": "C",
+ "grade_reason": "No new statements were found, so the grade rests on the existing 14 October 2026 Cardinal & Pine quote relaying that people involved in AI are 'really concerned about the negative potential for the human race'. As the existing file says, a reviewer could read 'the human race' as level A under ruling 1.",
+ "corrections": "",
+ "notes": "All seven previously skipped searches ran, plus three follow-ups; none was refused. None of them found any statement by Cooper on superintelligence, extinction, AI safety, a pause or slowdown, or an agreement with China. The site-restricted search returned no roycooper.com pages at all (the search tool may not honour site:). Pages opened: (1) WLOS/Sinclair 'Incoming Democratic majorities put AI giants on notice' (5 November 2026, https://wlos.com/news/nation-world/incoming-democratic-majorities-put-ai-giants-on-notice-artificial-intelligence-energy-costs) only paraphrases him calling for data centers to cover the full cost of their energy, with no direct quote; this is electricity cost, level D at most, and is already covered by the record entry on his energy plan. (2) The Cardinal & Pine video page of 21 October 2026 again has only a paraphrase ('guardrails' and global cooperation) and no transcript, so the video still has not been checked. One search summary paraphrased his campaign saying 'local communities must have the final say on new projects ... which includes local moratoriums' on data centers; the source article (apparently wfmd.com/?p=76398) was not opened, the statement is from his campaign rather than his own words, and it is about local control and electricity costs, so it does not change the slowdown position (stays 'none'). No debate transcript mentioning AI was found. The page fetch tool returns summaries rather than raw text, so nothing here was copied character for character, but no quotes are reported."
+}

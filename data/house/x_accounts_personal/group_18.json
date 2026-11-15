@@ -1,0 +1,111 @@
+[
+  {
+    "id": "H001052",
+    "name": "Andy Harris",
+    "accounts": [],
+    "notes": "Campaign site andyharris.com (Andy Harris for Congress) links only Facebook and Instagram (instagram.com/harrisforcongress), no X account. No personal or campaign X handle confirmed."
+  },
+  {
+    "id": "O000176",
+    "name": "Johnny Olszewski, Jr.",
+    "accounts": [
+      {
+        "handle": "JohnnyOJr",
+        "account_type": "campaign",
+        "evidence_url": "https://gojohnnyo.com/",
+        "evidence": "His campaign website gojohnnyo.com links to twitter.com/JohnnyOJr in its header and footer social icons."
+      }
+    ],
+    "notes": "Account linked from the campaign site; it may function as his personal/political account rather than a campaign-only account."
+  },
+  {
+    "id": "E000301",
+    "name": "Sarah Elfreth",
+    "accounts": [
+      {
+        "handle": "SarahforMD",
+        "account_type": "campaign",
+        "evidence_url": "https://elfrethformaryland.com/",
+        "evidence": "Her campaign website elfrethformaryland.com links to twitter.com/SarahforMD alongside facebook.com/SarahforMD and instagram.com/SarahforMaryland."
+      }
+    ],
+    "notes": "sarahelfreth.com returned HTTP 401 and could not be checked."
+  },
+  {
+    "id": "I000058",
+    "name": "Glenn Ivey",
+    "accounts": [
+      {
+        "handle": "glenniveymd",
+        "account_type": "campaign",
+        "evidence_url": "https://glennivey.com/",
+        "evidence": "The site titled Glenn Ivey for Congress (paid for by Glenn F. Ivey for Congress; iveyforcongress.com redirects here) links to x.com/glenniveymd."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "H000874",
+    "name": "Steny H. Hoyer",
+    "accounts": [
+      {
+        "handle": "StenyHoyer",
+        "account_type": "campaign",
+        "evidence_url": "https://hoyerforcongress.com/about",
+        "evidence": "His campaign website hoyerforcongress.com links to twitter.com/StenyHoyer next to facebook.com/hoyerforcongress."
+      }
+    ],
+    "notes": "Likely his long-standing personal/political account, linked from the campaign site. Search results mention an older handle @WhipHoyer from a 2012 archive (unconfirmed, likely defunct leadership account). Search results also say Hoyer is retiring at the end of this term (not verified on a page opened)."
+  },
+  {
+    "id": "M001232",
+    "name": "April McClain Delaney",
+    "accounts": [
+      {
+        "handle": "April4Congress",
+        "account_type": "campaign",
+        "evidence_url": "https://www.aprilmcclaindelaneyforcongress.com/",
+        "evidence": "Her campaign website aprilmcclaindelaneyforcongress.com links to twitter.com/April4Congress in its header and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M000687",
+    "name": "Kweisi Mfume",
+    "accounts": [
+      {
+        "handle": "Mfume4Congress",
+        "account_type": "campaign",
+        "evidence_url": "https://mfumeforcongress.com/",
+        "evidence": "His campaign website mfumeforcongress.com links to twitter.com/Mfume4Congress and x.com/Mfume4Congress (displayed as @mfume4congress)."
+      }
+    ],
+    "notes": "Search summary also said the Maryland State Board of Elections 2026 candidate list gives X @mfume4congress (that page was not opened)."
+  },
+  {
+    "id": "R000606",
+    "name": "Jamie Raskin",
+    "accounts": [
+      {
+        "handle": "jamie_raskin",
+        "account_type": "campaign",
+        "evidence_url": "https://jamieraskin.com/",
+        "evidence": "His campaign website jamieraskin.com links to twitter.com/jamie_raskin alongside facebook.com/raskin.jamie and instagram.com/raskinforcongress."
+      }
+    ],
+    "notes": "Likely his personal/political account, linked from the campaign site."
+  },
+  {
+    "id": "P000597",
+    "name": "Chellie Pingree",
+    "accounts": [],
+    "notes": "Campaign site chelliepingree.com links Facebook (PingreeForCongress), Threads and Instagram (@chelliepingree), but no X account. The official handle on file (chelliepingree) is already her main account. Search summary says LegiStorm lists a separate campaign X account, but no handle was shown (unconfirmed)."
+  },
+  {
+    "id": "G000592",
+    "name": "Jared F. Golden",
+    "accounts": [],
+    "notes": "Campaign site jaredgoldenforcongress.com (listed on an ActBlue page) no longer resolves (DNS lookup failed); the ActBlue page has no X link. Search results say he is not seeking reelection in 2026. No personal or campaign X handle confirmed."
+  }
+]

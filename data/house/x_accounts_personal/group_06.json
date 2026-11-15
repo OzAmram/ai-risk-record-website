@@ -1,0 +1,111 @@
+[
+  {
+    "id": "T000474",
+    "name": "Norma J. Torres",
+    "accounts": [],
+    "notes": "One search did not surface a campaign website URL. LegiStorm (https://legistorm.com/person/bio/189574/Norma_Judith_Torres.html) lists only the official handle NormaJTorres. No separate personal or campaign X account found."
+  },
+  {
+    "id": "L000582",
+    "name": "Ted Lieu",
+    "accounts": [],
+    "notes": "Campaign site https://www.lieuforcongress.com/ was opened and has no X/Twitter link. No separate personal or campaign X account found."
+  },
+  {
+    "id": "K000400",
+    "name": "Sydney Kamlager-Dove",
+    "accounts": [
+      {
+        "handle": "sydneykamlager",
+        "account_type": "personal",
+        "evidence_url": "https://www.ballotready.org/people/sydney-kamlager",
+        "evidence": "The BallotReady voter guide profile for Sydney Kamlager-Dove (CA-37) links https://twitter.com/sydneykamlager as her personal profile, separately from the office account RepKamlagerDove."
+      }
+    ],
+    "notes": "Evidence is a third-party voter guide (BallotReady), not her own site; her campaign site https://www.sydneykamlager.com/ was opened and shows no X link. Moderate confidence."
+  },
+  {
+    "id": "S001156",
+    "name": "Linda T. Sánchez",
+    "accounts": [
+      {
+        "handle": "lindatsanchez",
+        "account_type": "personal",
+        "evidence_url": "https://voteforlinda.com/",
+        "evidence": "Her campaign website voteforlinda.com links https://x.com/lindatsanchez in its header and footer social icons."
+      }
+    ],
+    "notes": "Account is name-style and linked from the campaign site; it may function as her campaign account. Search results suggest she is running in the redrawn CA-41 for 2026."
+  },
+  {
+    "id": "T000472",
+    "name": "Mark Takano",
+    "accounts": [
+      {
+        "handle": "marktakano",
+        "account_type": "personal",
+        "evidence_url": "https://www.marktakano.com/",
+        "evidence": "His campaign website marktakano.com links https://x.com/marktakano in the header, follow section and footer."
+      }
+    ],
+    "notes": "Name-style account linked from the campaign site; it may function as his campaign account."
+  },
+  {
+    "id": "K000397",
+    "name": "Young Kim",
+    "accounts": [
+      {
+        "handle": "youngkimca",
+        "account_type": "personal",
+        "evidence_url": "https://ballotready.org/people/young-kim",
+        "evidence": "The BallotReady voter guide profile for Young Kim (CA-40) links https://twitter.com/youngkimca as her personal profile, separately from the office account RepYoungKim."
+      }
+    ],
+    "notes": "Evidence is a third-party voter guide (BallotReady); her campaign site https://youngkimforcongress.com/ was opened and shows no X link. Moderate confidence."
+  },
+  {
+    "id": "C000059",
+    "name": "Ken Calvert",
+    "accounts": [
+      {
+        "handle": "teamcalvert",
+        "account_type": "campaign",
+        "evidence_url": "https://www.calvertforcongress.com/",
+        "evidence": "His campaign website calvertforcongress.com links https://www.x.com/teamcalvert in its header and footer social links."
+      }
+    ],
+    "notes": "BallotReady (https://www.ballotready.org/people/ken-calvert) also lists twitter.com/teamcalvert and the campaign site. The official handle on file, KenCalvert, is excluded."
+  },
+  {
+    "id": "G000598",
+    "name": "Robert Garcia",
+    "accounts": [
+      {
+        "handle": "RobertGarcia",
+        "account_type": "personal",
+        "evidence_url": "https://robertgarcia.com/",
+        "evidence": "His campaign website robertgarcia.com (CA-42 Democratic campaign) links https://x.com/RobertGarcia in its header and footer."
+      }
+    ],
+    "notes": "Name-style account linked from the campaign site; it may function as his campaign account."
+  },
+  {
+    "id": "W000187",
+    "name": "Maxine Waters",
+    "accounts": [],
+    "notes": "No campaign website found. Unconfirmed lead: a search result summary of a ProPublica Politwoops page listed 'waterscampaign' as one of her accounts, but the opened page (https://projects.propublica.org/politwoops/user/waterscampaign) did not show it. BallotReady lists only RepMaxineWaters."
+  },
+  {
+    "id": "B001300",
+    "name": "Nanette Diaz Barragán",
+    "accounts": [
+      {
+        "handle": "Nanette4CA",
+        "account_type": "campaign",
+        "evidence_url": "https://barraganforcongress.com/",
+        "evidence": "Her campaign website barraganforcongress.com (Nanette Barragan For Congress, CA-44) links https://twitter.com/Nanette4CA."
+      }
+    ],
+    "notes": "The campaign site content appears partly dated (from her 2016 run), so the account may be inactive."
+  }
+]

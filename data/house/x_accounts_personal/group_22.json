@@ -1,0 +1,125 @@
+[
+  {
+    "id": "G000591",
+    "name": "Michael Guest",
+    "accounts": [
+      {
+        "handle": "GuestCongress",
+        "account_type": "campaign",
+        "evidence_url": "https://michaelguest.ms/",
+        "evidence": "The Michael Guest for U.S. Congress campaign website links to x.com/GuestCongress as its X account."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "E000235",
+    "name": "Mike Ezell",
+    "accounts": [
+      {
+        "handle": "MikeEzellMS",
+        "account_type": "campaign",
+        "evidence_url": "https://mikeezell.ms/about",
+        "evidence": "The Committee to Elect Mike Ezell campaign website links to twitter.com/MikeEzellMS in its header and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Z000018",
+    "name": "Ryan K. Zinke",
+    "accounts": [
+      {
+        "handle": "RyanZinke",
+        "account_type": "personal",
+        "evidence_url": "https://apps.montanafreepress.org/election-guide-2024/candidates/ryan-zinke/",
+        "evidence": "The Montana Free Press 2024 election guide candidate page for Ryan Zinke links to twitter.com/RyanZinke as his X account."
+      }
+    ],
+    "notes": "His campaign site ryanzinke.com now has no social links and points to flintformontana.com (search summary says Zinke is retiring in 2026 and endorsed Aaron Flint). Account type 'personal' is a judgment call: the handle is his name-only account listed by a news guide, not labelled as a campaign account."
+  },
+  {
+    "id": "D000634",
+    "name": "Troy Downing",
+    "accounts": [],
+    "notes": "Campaign site troydowning.com (opened) shows no social media links; the Montana Free Press 2026 election guide page (opened) lists no X handle either. No handle found."
+  },
+  {
+    "id": "D000230",
+    "name": "Donald G. Davis",
+    "accounts": [
+      {
+        "handle": "DonDavisNC",
+        "account_type": "campaign",
+        "evidence_url": "https://votedondavis.com/",
+        "evidence": "The Don Davis for NC campaign website links to x.com/DonDavisNC as its X account."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "R000305",
+    "name": "Deborah K. Ross",
+    "accounts": [
+      {
+        "handle": "DeborahRossNC",
+        "account_type": "campaign",
+        "evidence_url": "https://www.deborahross.com/",
+        "evidence": "The Deborah Ross for Congress campaign website (linked from her Wikipedia page) links to twitter.com/DeborahRossNC."
+      }
+    ],
+    "notes": "Campaign website URL found via the External links of https://en.wikipedia.org/wiki/Deborah_K._Ross."
+  },
+  {
+    "id": "M001210",
+    "name": "Gregory F. Murphy",
+    "accounts": [
+      {
+        "handle": "gregmurphymd",
+        "account_type": "campaign",
+        "evidence_url": "https://murphy4congress.com/",
+        "evidence": "The Murphy for Congress campaign website links to twitter.com/gregmurphymd in its header and footer."
+      }
+    ],
+    "notes": "Campaign website URL found via the infobox of https://en.wikipedia.org/wiki/Greg_Murphy_(politician)."
+  },
+  {
+    "id": "F000477",
+    "name": "Valerie P. Foushee",
+    "accounts": [
+      {
+        "handle": "FousheeforNC",
+        "account_type": "campaign",
+        "evidence_url": "https://valeriefoushee.com/",
+        "evidence": "Valerie Foushee's campaign website links to x.com/FousheeforNC as its X account."
+      }
+    ],
+    "notes": "Unconfirmed lead: the search summary mentioned a personal account @ValFoushee from a 2022 tweet citation on a Marathon Strategies page, but that page returned 401 and could not be opened, so it is not included."
+  },
+  {
+    "id": "F000450",
+    "name": "Virginia Foxx",
+    "accounts": [
+      {
+        "handle": "foxxforcongress",
+        "account_type": "campaign",
+        "evidence_url": "https://www.virginiafoxx.com/",
+        "evidence": "The Virginia Foxx for Congress campaign website links to twitter.com/foxxforcongress in its header and footer."
+      }
+    ],
+    "notes": "Campaign website URL found via https://en.wikipedia.org/wiki/Virginia_Foxx. Note the handle on file (virginiafoxx) is her name-only account, not a RepX-style one."
+  },
+  {
+    "id": "M001240",
+    "name": "Addison P. McDowell",
+    "accounts": [
+      {
+        "handle": "Addison_McD",
+        "account_type": "campaign",
+        "evidence_url": "https://addison-mcdowell-for-congress.squarespace.com/news/president-donald-trump-tells-nc-06-voters-why-they-should-vote-for-addison-mcdowell",
+        "evidence": "A news post on the McDowell for Congress campaign website links to twitter.com/Addison_McD as the campaign's X account."
+      }
+    ],
+    "notes": "Campaign site is hosted on Squarespace; its custom domain was not shown on the page. Handle could be personal rather than strictly campaign."
+  }
+]

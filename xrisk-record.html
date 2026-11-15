@@ -131,19 +131,18 @@ footer{color:var(--muted);font-size:13px;border-top:1px solid var(--line);paddin
     <input id="q" class="search" type="search" placeholder="Search by name, state, party or zip code" aria-label="Search members of Congress" autocomplete="off">
     <nav id="nav" aria-label="Sections"></nav>
   </header>
-  <div class="draft"><strong>Draft for review.</strong> Records are drafted by Claude applying the rubric. Senate grades have all been reviewed by a person. House records are drafted by rule and have only been roughly checked. Do not circulate.</div>
   <main id="view"></main>
-  <footer>Quotes are short excerpts; follow each link for full context. Evidence gathered 11 November 2026.</footer>
+  <footer>Quotes are short excerpts; follow each link for full context. Last updated 15 November 2026.</footer>
 </div>
 
 <script>
 const RUBRIC = [
  ["A","Explicitly says AI could cause human extinction or permanent loss of human control.","Explicit: extinction or loss of human control"],
- ["B","Says advanced AI poses catastrophic risks (mass casualties, bioweapons, loss of control) without the extinction framing.","Catastrophic risk, without extinction framing"],
+ ["B","Says advanced AI poses catastrophic risks (such as mass casualties or loss of control) without the extinction framing.","Catastrophic risk, without extinction framing"],
  ["C","Acknowledges serious risks from advanced AI in general terms, or relays others' warnings without stating them as their own view.","Serious risk in general terms, or relayed warnings"],
  ["D","Catastrophic AI risk not acknowledged. Has spoken about AI, but not about catastrophic risk.","Not acknowledged"],
  ["F","Dismisses or mocks catastrophic risk.","Dismissed"],
- ["–","No relevant statement found. Silence is not dismissal.","No statement found"]
+ ["–","No relevant statement found.","No statement found"]
 ];
 const FIELDS = [
  ["slow","Deliberate slowdown","Slowing frontier capability progress for safety reasons. Data center moratoria motivated by electricity cost or local impact do not count.","Slowdown"],
@@ -156,7 +155,7 @@ const XPOSTS = {}; /*XPOSTS*/
 const XSENATORS = []; /*XSENATORS*/
 // senators-elect and lame-duck senators, by page id; filled in by site/build.py from data/status.csv
 const STATUS = {}; /*STATUS*/
-const STATUS_NAME = {"senator-elect":"Senator-elect", "representative-elect":"Representative-elect", "lame duck":"Lame duck"};
+const STATUS_NAME = {"senator-elect":"Senator-elect", "representative-elect":"Representative-elect", "lame duck":"Lame duck", "race undecided":"Race undecided"};
 const POS = {yes:"Yes",no:"No",mixed:"Mixed / conditional",none:"No stated position"};
 const POS_SHORT = {yes:"Yes",no:"No",mixed:"Mixed",none:"Not stated"};
 const S = [
@@ -166,10 +165,11 @@ const S = [
  pos:{pause:["yes","Called for an immediate pause on advanced AI development and wrote to AI chief executives urging one.",[["Press release, 3 Sep 2026","https://www.sanders.senate.gov/?p=102465"],["Letter, 10 Aug 2026 (Axios report)","https://axios.com/2026/08/10/sanders-ai-development-pause"]]],
       slow:["yes","Said the chief executives' call to slow down was a start but not enough.",[["X post, 12 Sep 2026","https://x.com/SenSanders/status/2098847403134611522"]]],
       intl:["yes","Urged a Trump–Xi treaty; his bill directs the US to seek international agreements against superintelligence.",[["Statement, 11 May 2026","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/"],["X post, 12 Sep 2026","https://x.com/SenSanders/status/2098847403134611522"],["Bill, 23 Sep 2026","https://www.wcax.com/2026/09/23/sen-bernie-sanders-unveils-bill-ban-artificial-superintelligence-create-department-ai/?outputType=amp"]]],
-      rsi:["yes","Rests on the bill he introduced, not on a statement of his own. His Ban Artificial Superintelligence Act (S. 5493) treats the capacity to automate or greatly accelerate AI research and development as a warning sign of superintelligence, bars releasing systems that could develop it, and requires any system showing it to be paused and, if that cannot be fixed within 30 days, shut down. His co-author Rep. Casar describes this as a ban on recursive self-improvement. Recorded as Yes by Oz's ruling of 15 November 2026 that sponsoring this bill counts.",[["Bill text, Sanders office","https://www.sanders.senate.gov/wp-content/uploads/Ban-Artificial-Superintelligence-Act.pdf"],["Rep. Casar on X, 23 Sep 2026","https://x.com/RepCasar/status/2102790034818474051"],["Semafor, 23 Sep 2026","https://www.semafor.com/article/09/23/2026/progressive-democrats-push-superintelligence-ban"]]]},
+      rsi:["yes","Rests on the bill he introduced, not on a statement of his own. His Ban Artificial Superintelligence Act (S. 5493) treats the capacity to automate or greatly accelerate AI research and development as a warning sign of superintelligence, bars releasing systems that could develop it, and requires any system showing it to be paused and, if that cannot be fixed within 30 days, shut down. His co-author Rep. Casar describes this as a ban on recursive self-improvement. Sponsoring this bill is counted as Yes by a reviewer's ruling of 15 November 2026.",[["Bill text, Sanders office","https://www.sanders.senate.gov/wp-content/uploads/Ban-Artificial-Superintelligence-Act.pdf"],["Rep. Casar on X, 23 Sep 2026","https://x.com/RepCasar/status/2102790034818474051"],["Semafor, 23 Sep 2026","https://www.semafor.com/article/09/23/2026/progressive-democrats-push-superintelligence-ban"]]]},
  stmts:[
   ["15 Sep 2026","CBS News interview","the potential danger of AI, is probably greater than nuclear weapons","Asked whether he equates AI with nuclear weapons. He also defended 20-year prison terms for violating his proposed ban.","CBS News","https://www.cbsnews.com/news/bernie-sanders-interview-ai-nuclear-weapons/",1,null,"B"],
   ["12 Sep 2026","X post, @SenSanders","Trump and Xi must negotiate a treaty to pause AI and ban superintelligence","Response to AI chief executives calling for a slowdown.","Newsweek","https://newsweek.com/lawmakers-call-for-government-intervention-after-ai-leaders-issue-warning-12435930",1,"https://x.com/SenSanders/status/2098847403134611522","A"],
+  ["23 Sep 2026","Press release introducing the Ban Artificial Superintelligence Act","Scientists have been clear: AI is an existential threat to humanity.","His statement in the joint release with Rep. Greg Casar. He added that it must be treated as such and that Congress must act before it is too late.","House press release (Rep. Casar)","https://casar.house.gov/media/press-releases/news-casar-sanders-introduce-legislation-create-new-federal-agency-ban",1,null,"A"],
   ["3 Sep 2026","Press release","to immediately pause the development of increasingly powerful AI","Announcing the Ban Artificial Superintelligence Act, which also bans systems humanity cannot fully control.","Senate press release","https://www.sanders.senate.gov/?p=102465",1,null,"B"],
   ["11 May 2026","Statement on US-China AI talks","Making progress towards a treaty to ban superintelligence","Listed among the goals he set for the Trump-Xi talks.","Senate press release","https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-upcoming-u-s-china-ai-talks/",1,null,"C"],
   ["29 Apr 2026","Capitol panel with US and Chinese AI researchers","We have a global crisis dealing with the survival of the human race","Closing remarks. He compared the needed cooperation to past work on nuclear weapons and pandemics.","Broadband Breakfast","https://broadbandbreakfast.com/sanders-convenes-chinese-and-american-computer-scientists-to-warn-of-threat-from-ai.md",1,null,"A"]],
@@ -271,7 +271,10 @@ const lame = s => (STATUS[s.id] || {}).kind === "lame duck";
 let senate = "current";
 const inSenate = s => !house(s) && (senate === "current" ? !elect(s) : !lame(s));
 // The same choice for the House: the current House, or the one seated on 3 January 2027.
-const inHouse = s => house(s) && (senate === "current" ? !elect(s) : !lame(s));
+// Six sitting representatives are senators-elect. Their one record is kept with the Senate and has "house", their current
+// district, so they also count in the current House.
+const sittingRep = s => !house(s) && !!s.house && elect(s);
+const inHouse = s => senate === "current" ? (house(s) && !elect(s)) || sittingRep(s) : house(s) && !lame(s);
 const stateOf = s => s.seat.split(" · ")[1].split(",")[0];
 const STATE_PATHS = {}; /*STATE_PATHS*/
 const GRADE_COLOR = {A:"var(--g5)", B:"var(--g4)", C:"var(--g3)", D:"var(--g2)", F:"var(--g1)"};
@@ -280,12 +283,19 @@ let query = "";  // text in the search box
 // Zip code lookup table written by site/make_zip_districts.py: {states: [names], zips: {"10001": "31-12"}},
 // each zip code giving "state number-district number" for every district it is in (district 0 is at large).
 const ZIPS = {}; /*ZIPS*/
+// Zip codes whose districts are different in the House elected in November 2026 (nine states redrew their lines),
+// in the same form; written by site/build.py from site/make_zip_districts_blocks.py's table.
+const ZIPS_NEXT = {}; /*ZIPS_NEXT*/
 // The districts a five-digit zip code is in, as [state name, district number]; null if the text is not a zip code.
-function zipDistricts(text){
+// With next = true, the districts used in the November 2026 elections.
+function zipDistricts(text, next){
   const z = text.trim();
   if (!/^\d{5}$/.test(z) || !ZIPS.zips) return null;
-  return (ZIPS.zips[z] || "").split(" ").filter(Boolean).map(p => { const [st, d] = p.split("-"); return [ZIPS.states[+st], +d]; });
+  return ((next && ZIPS_NEXT[z]) || ZIPS.zips[z] || "").split(" ").filter(Boolean).map(p => { const [st, d] = p.split("-"); return [ZIPS.states[+st], +d]; });
 }
+// A returning representative's record has "next": the district they won in November 2026.
+const wonDistrict = (s, d) => s.next === `${d[0]}, ${d[1] ? "district " + d[1] : "at large"}`;
+const inDistrict = (s, d) => (sittingRep(s) ? " · " + s.house : s.seat).endsWith(` · ${d[0]}, ${d[1] ? "district " + d[1] : "at large"}`);
 const districtName = d => d[1] ? `${d[0]} district ${d[1]}` : `${d[0]} at large`;
 
 // People matching the search box. A state's full name matches that state only (so "Virginia" leaves out West Virginia).
@@ -293,9 +303,9 @@ function matches(s){
   const q = query.trim().toLowerCase();
   if (!q) return true;
   const zip = zipDistricts(q);
-  // A zip code lists the state's senators and senators-elect, and the sitting representative of each district it is in.
-  // Representatives-elect are left out: the table has the current districts, and some states used new ones in 2026.
-  if (zip) return house(s) ? !elect(s) && zip.some(d => s.seat.endsWith(` · ${d[0]}, ${d[1] ? "district " + d[1] : "at large"}`)) : zip.some(d => stateOf(s) === d[0]);
+  // A zip code lists the state's senators and senators-elect, the sitting representative of each district it is in,
+  // and the representative-elect of each district it will be in from 3 January 2027.
+  if (zip) return house(s) ? (elect(s) ? zipDistricts(q, true).some(d => inDistrict(s, d)) : zip.some(d => inDistrict(s, d)) || zipDistricts(q, true).some(d => wonDistrict(s, d))) : zip.some(d => stateOf(s) === d[0]);  // a senator-elect who is a sitting representative is listed for the whole state
   if (Object.keys(STATE_PATHS).some(n => n.toLowerCase() === q)) return stateOf(s).toLowerCase() === q;
   const text = `${s.name} ${s.seat} ${STATUS[s.id] ? STATUS_NAME[STATUS[s.id].kind] : ""} grade ${s.grade}`.toLowerCase();
   return q.split(/\s+/).every(w => text.includes(w));
@@ -317,7 +327,7 @@ function viewMap(){
 function tipFor(name){
   const people = S.filter(s => stateOf(s) === name && inSenate(s));
   const missing = 2 - people.length;
-  return `<strong>${esc(name)}</strong>${people.map(s => `<span class="who"><span class="grade ${gcls(s.grade)}">${s.grade}</span><span>${esc(s.name)}${STATUS[s.id] ? ` <span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}</span></span>`).join("")}${missing > 0 ? `<span class="sub">${missing === 2 ? "Senators" : "One senator"} not yet drafted</span>` : ""}`;
+  return `<strong>${esc(name)}</strong>${people.map(s => `<span class="who"><span class="grade ${gcls(s.grade)}">${s.grade}</span><span>${esc(s.name)}${STATUS[s.id] ? ` <span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}</span></span>`).join("")}${missing > 0 ? `<span class="sub">${missing === 2 ? "Both seats" : "One seat"} to be filled by appointment</span>` : ""}`;
 }
 const toggle = () => `<div class="toggle" role="group" aria-label="Which Senate to show">${[["current", `Current ${chamber === "house" ? "House" : "Senate"}`], ["next", `Next ${chamber === "house" ? "House" : "Senate"}, from 3 January 2027`]]
   .map(t => `<button type="button" data-senate="${t[0]}" aria-pressed="${senate === t[0]}">${t[1]}</button>`).join("")}</div>`;
@@ -326,7 +336,7 @@ function viewHist(){
   const people = chamber === "house" ? S.filter(inHouse) : S.filter(inSenate), count = g => people.filter(s => s.grade === g).length;
   const top = Math.max(...RUBRIC.map(r => count(r[0])));
   return `<h2>${chamber === "house" ? "Representatives" : "Senators"} at each grade, ${senate === "current" ? "current" : "next"} ${chamber === "house" ? "House" : "Senate"}${senate === "current" ? "" : " (from 3 January 2027)"}</h2>
-    <p class="sub">Number of ${chamber === "house" ? "representatives" : "senators"} out of ${people.length}. "None" means no relevant statement was found. Grades are machine-drafted unless a record says otherwise.</p>
+    <p class="sub">Number of ${chamber === "house" ? "representatives" : "senators"} out of ${people.length}. "None" means no relevant statement was found.</p>
     <div class="hist" role="img" aria-label="${esc(RUBRIC.map(r => `${count(r[0])} at ${r[0] === "–" ? "no statement found" : "grade " + r[0]}`).join(", "))}">${RUBRIC.map(r => `<div class="col" title="${count(r[0])} of ${people.length}: ${esc(r[2])}">
       <span class="n">${count(r[0])}</span><span class="bar" style="height:${count(r[0]) / top * 100}%;background:${GRADE_COLOR[r[0]] || NO_GRADE}"></span><span class="g">${r[0] === "–" ? "None" : r[0]}</span></div>`).join("")}</div>`;
 }
@@ -340,7 +350,7 @@ function viewPolicyHist(){
   return `<h2>Stated policy positions, ${senate === "current" ? "current" : "next"} ${chamber === "house" ? "House" : "Senate"}${senate === "current" ? "" : " (from 3 January 2027)"}</h2>
     <div class="toggle" role="group" aria-label="Which policy to show">${FIELDS.map(x => `<button type="button" data-policy="${x[0]}" aria-pressed="${policy === x[0]}">${esc(x[3])}</button>`).join("")}</div>
     <p class="sub"><strong>${esc(f[1])}.</strong> ${esc(f[2])}</p>
-    <p class="sub">Number of ${chamber === "house" ? "representatives" : "senators"} out of ${people.length}. "Not stated" means the searches found no stated position, not that the member opposes the policy. Positions are machine-drafted unless a record says otherwise.</p>
+    <p class="sub">Number of ${chamber === "house" ? "representatives" : "senators"} out of ${people.length}. "Not stated" means the searches found no stated position, not that the member opposes the policy.</p>
     <div class="hist" role="img" aria-label="${esc(f[1] + ": " + keys.map(k => `${count(k)} ${POS[k]}`).join(", "))}">${keys.map(k => `<div class="col" title="${count(k)} of ${people.length}: ${esc(POS[k])}">
       <span class="n">${count(k)}</span><span class="bar" style="height:${count(k) / top * 100}%;background:${POS_COLOR[k]}"></span><span class="g">${POS_SHORT[k]}</span></div>`).join("")}</div>`;
 }
@@ -348,35 +358,37 @@ const chip = k => `<span class="pos ${k}">${POS[k]}</span>`;
 
 function viewIndex(){
   // With search text, people from both chambers are listed; otherwise only the chosen chamber.
-  const H = chamber === "house", all = S.filter(s => house(s) === H);
+  const H = chamber === "house", all = S.filter(s => H ? house(s) || sittingRep(s) : !house(s));
   const zip = zipDistricts(query);
   // For a zip code, senators are listed before representatives.
   const shown = query.trim() ? S.filter(matches).sort((a, b) => zip ? house(a) - house(b) : 0) : all;
+  const zipNext = zip && zipDistricts(query, true), moved = zip && zipNext.map(districtName).join() !== zip.map(districtName).join();
   const found = zip && zip.length ? `Zip code ${esc(query.trim())} is in ${esc(zip.map(districtName).join(" and "))}. `
-    + (zip.length > 1 ? "It is split between districts, so only one of these representatives is yours. " : "")
-    + (zip.some(d => !shown.some(s => house(s) && s.seat.endsWith(` · ${d[0]}, ${d[1] ? "district " + d[1] : "at large"}`))) ? "A district with no representative listed has a vacant seat, or its member is a senator-elect and is listed as one. " : "")
-    + "Districts are those of the current House; representatives-elect are not shown here because some states voted on new district lines in 2026. "
+    + (moved ? `This state redrew its districts for the November 2026 elections: from 3 January 2027 the zip code is in ${esc(zipNext.map(districtName).join(" and "))}. ` : "")
+    + (zip.length > 1 || zipNext.length > 1 ? "It is split between districts, so only one of the representatives for each House is yours. " : "")
+    + (zip.some(d => !shown.some(s => (house(s) && !elect(s) || sittingRep(s)) && inDistrict(s, d))) ? "A district with no sitting representative listed has a vacant seat. " : "")
+    + "A representative-elect is listed only where the seat changes hands and the race has been called. "
     : zip ? `Zip code ${esc(query.trim())} was not found. The table covers the 50 states and leaves out zip codes used only for post office boxes. ` : "";
   const zipForm = `<form class="zip" id="zipform"><label for="zip">See where your members of Congress stand</label>
     <input id="zip" class="search" inputmode="numeric" maxlength="5" placeholder="Zip code" autocomplete="postal-code" value="${zip ? esc(query.trim()) : ""}"><button type="submit">Look up</button></form>`;
   const chambers = `<div class="toggle" role="group" aria-label="Which chamber to show">${[["senate", "Senate"], ["house", "House of Representatives"]]
     .map(t => `<button type="button" data-chamber="${t[0]}" aria-pressed="${chamber === t[0]}">${t[1]}</button>`).join("")}</div>`;
   const rows = shown.map(s => `<tr>
-    <td><a class="name" href="#${s.id}">${esc(s.name)}</a>${STATUS[s.id] ? `<span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}<span class="sub">${esc(s.seat)}</span></td>
+    <td><a class="name" href="#${s.id}">${esc(s.name)}</a>${STATUS[s.id] ? `<span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}<span class="sub">${esc(s.seat)}${sittingRep(s) && (H || query.trim()) ? esc(`; sitting representative for ${s.house}`) : ""}${zip && s.next && !s.seat.endsWith(" · " + s.next) ? esc(`; elected for ${s.next.split(", ")[1]} from 3 January 2027`) : ""}</span></td>
     <td><div class="ack"><span class="grade ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span><span>${esc(RUBRIC.find(r => r[0] === s.grade)[2])}</span></div></td>
     ${FIELDS.map((f, n) => `<td class="pol${n ? "" : " first"}"><span class="pos sm ${s.pos[f[0]][0]}">${POS_SHORT[s.pos[f[0]][0]]}</span></td>`).join("")}</tr>`).join("");
-  return `<section>${chambers}<span class="label">${H ? `US House · ${all.filter(s => !elect(s)).length} sitting representatives and ${all.filter(elect).length} representatives-elect drafted` : `US Senate · ${all.filter(s => !elect(s)).length} of 100 sitting senators and ${all.filter(elect).length} senators-elect drafted`}</span>
+  return `<section>${chambers}<span class="label">${H ? `US House · ${all.filter(s => !elect(s) || sittingRep(s)).length} sitting representatives and ${all.filter(s => elect(s) && house(s)).length} representatives-elect` : `US Senate · ${all.filter(s => !elect(s)).length} sitting senators and ${all.filter(elect).length} senators-elect`}</span>
     <h1>What ${H ? "representatives" : "senators"} have said about catastrophic risk from AI</h1>
     <p class="lede">Each record gives a grade for how explicitly the ${H ? "representative" : "senator"} acknowledges catastrophic or existential risk, their stated position on four policies, and the dated statements behind both.</p>
-    ${ZIPS.zips ? zipForm : ""}
-    ${H ? `<p class="sub">House records are drafted by rule from the statements found and have not been reviewed. Six sitting representatives who are senators-elect (Barr, Hageman, Hern, Letlow, Moore, Pappas) are listed under the Senate. "Representative-elect" marks winners of the 3 November 2026 elections who are not sitting members; "Lame duck" marks sitting members who were not among the winners. Seats whose races were not yet called on 14 November 2026 have no member-elect listed, and the sitting members for those districts are left unmarked.</p>` : ""}</section>
-  ${query.trim() ? "" : `<section>${toggle()}${H ? "" : viewMap()}</section><section><div class="charts"><div>${viewHist()}</div><div>${viewPolicyHist()}</div></div></section>`}
+    ${ZIPS.zips ? zipForm : ""}</section>
+  ${query.trim() ? "" : `<section>${toggle()}${H ? "" : viewMap()}</section><section><div class="charts"><div>${viewHist()}</div><div>${viewPolicyHist()}</div></div></section>
+  <div class="draft"><strong>How this record is made.</strong> Statements are found and read by an AI model (Claude) applying a published rubric. Every Senate grade has been reviewed by a person. House grades are worked out by rule from the statements found and have been spot-checked by a person. See <a href="#methodology">Methodology</a>.</div>`}
   <section>${query.trim() ? `<p class="sub">${found}Showing ${shown.length} of ${S.length} for "${esc(query.trim())}". <a href="#index" id="clear">Clear search</a></p>` : ""}<div class="scroll"><table class="idx">
     <thead><tr><th rowspan="2">${query.trim() ? "Member" : H ? "Representative or representative-elect" : "Senator or senator-elect"}</th><th rowspan="2" class="main">Acknowledgment of catastrophic AI risk</th><th colspan="${FIELDS.length}" class="pol first">Stated policy positions</th></tr>
       <tr>${FIELDS.map((f, n) => `<th class="pol${n ? "" : " first"}">${esc(f[3])}</th>`).join("")}</tr></thead>
     <tbody>${rows}</tbody></table></div>
     <p class="sub">The grade measures acknowledgment of the risk, not policy. A member can acknowledge the risk and oppose every measure listed.</p>
-    <p class="sub">"Senator-elect" marks winners of the 3 November 2026 elections who take office on 3 January 2027. "Lame duck" marks sitting senators who will not be in the Senate after that date.</p></section>
+    <p class="sub">${H && !query.trim() ? `"Representative-elect" marks winners of the 3 November 2026 elections who are not sitting members; they take office on 3 January 2027. "Lame duck" marks sitting representatives who were not among the winners. Seats whose races were not yet called on 15 November 2026 have no member-elect listed. Six sitting representatives who are senators-elect are listed in both chambers.` : `"Senator-elect" and "Representative-elect" mark winners of the 3 November 2026 elections who take office on 3 January 2027. "Lame duck" marks sitting members who will not be in that chamber after that date. "Race undecided" marks a senator whose 2026 race had not been called on 15 November 2026. Two Senate seats, in Minnesota and Tennessee, will be filled by appointment because their senators were elected governor.`}</p></section>
   <section><h2>What this sample shows</h2><ul>
     <li>${all.flatMap(s => Object.values(s.pos)).filter(p => p[0] === "none").length} of ${all.length * FIELDS.length} position cells are "No stated position".</li></ul></section>`;
 }
@@ -389,7 +401,7 @@ const overlap = (a, b) => { const A = words(a), B = words(b); let n = 0; A.forEa
 // Every candidate statement for a senator: those collected by hand, plus posts from X.
 function candidates(s){
   const own = s.stmts.map(t => ({iso: isoDate(t[0]), date: t[0], where: t[1], quote: t[2], ctx: t[3], level: t[8], x: /^X post/.test(t[1]),
-    sources: [[t[4], t[5]]].concat(t[7] ? [["Post on X", t[7]]] : []), checked: t[6] === 1 ? "read at source" : t[6] || "search excerpt only", ok: t[6] === 1}));
+    sources: [[t[4], t[5]]].concat(t[7] ? [["Post on X", t[7]]] : []), checked: t[6] === 1 ? "wording found on the source page" : t[6] || "search excerpt only", ok: t[6] === 1}));
   const posts = ((XPOSTS[s.id] || {}).posts || []).map(p => ({iso: p.iso, date: p.date, where: "X post, @" + p.handle, quote: p.quote, ctx: p.reason,
     level: p.level, borderline: p.borderline, x: true, sources: [["Post on X", p.url]], checked: "chosen by a language model", ok: 0}));
   return own.concat(posts);
@@ -418,8 +430,7 @@ function viewSenator(s){
   const crit = RUBRIC.find(r => r[0] === s.grade)[1];
   return `<section><span class="label">${esc(s.seat)}</span>
     <div class="head"><img class="photo" src="img/${s.bioguide}.jpg" alt="Official portrait of ${esc(s.name)}" onerror="this.remove()"><span class="grade big ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span>
-      <div><h1>${esc(s.name)}${st ? `<span class="status">${STATUS_NAME[st.kind]}</span>` : ""}</h1>${st ? `<p class="sub">${esc(st.note)} ${st.url ? ext(st.label, st.url) : ""}</p>` : ""}<p><strong>Grade ${s.grade}.</strong> ${esc(s.why)}</p></div></div>
-    ${s.flag ? `<div class="flag"><strong>For review.</strong> ${esc(s.flag)}</div>` : ""}</section>
+      <div><h1>${esc(s.name)}${st ? `<span class="status">${STATUS_NAME[st.kind]}</span>` : ""}</h1>${st ? `<p class="sub">${esc(st.note)} ${st.url ? ext(st.label, st.url) : ""}</p>` : ""}<p><strong>Grade ${s.grade}.</strong> ${esc(s.why)}</p></div></div></section>
   <section><h2>Stated positions</h2><div class="sheet"><div class="rows">
     ${FIELDS.map(f => `<div class="row"><div class="q">${esc(f[1])}</div><div>${chip(s.pos[f[0]][0])}</div><div class="ev">${s.pos[f[0]][0] === "none" ? "" : `${esc(s.pos[f[0]][1])}${(s.pos[f[0]][2]||[]).length ? ` <span class="src">${s.pos[f[0]][2].map(x => ext(x[0], x[1])).join(" · ")}</span>` : ""}`}</div></div>`).join("")}
   </div></div></section>
@@ -435,22 +446,23 @@ function viewSenator(s){
   <div class="pager"><span>${prev ? `<a href="#${prev.id}">← ${esc(prev.name)}</a>` : ""}</span><span>${next ? `<a href="#${next.id}">${esc(next.name)} →</a>` : `<a href="#methodology">Methodology →</a>`}</span></div>`;
 }
 
+// Placeholder address: replace with the real one before the site goes public.
+const CONTACT_EMAIL = "contact@example.com";
 function viewMethod(){
-  return `<section><span class="label">Draft v0.2</span><h1>Methodology</h1>
-    <p class="lede">The grade records how explicitly a politician acknowledges catastrophic risk from advanced AI. It does not rate whether their policies are good.</p>
+  return `<section><span class="label">Rubric version 0.2</span><h1>Methodology</h1>
+    <p class="lede" style="max-width:none">The grade records how explicitly a politician acknowledges catastrophic risk from advanced AI.</p>
     <p>This record tracks one thing: what politicians have said about catastrophic risk from AI. Other consequences of AI, such as job loss, economic disruption, the impact of data centers and concentration of power, are real and important. They are outside the scope of this record, and a grade says nothing about a politician's record on them.</p></section>
   <section><h2>Grade rubric</h2><div class="scroll"><table class="rubric"><tbody>
     ${RUBRIC.map(r => `<tr><td><span class="grade ${gcls(r[0])}">${r[0]}</span></td><td>${esc(r[1])}</td></tr>`).join("")}
-  </tbody></table></div>
-    <p class="sub">Grade colour is one hue that deepens with explicitness. Red and green are avoided so the scale does not read as bad to good.</p></section>
+  </tbody></table></div></section>
   <section><h2>Position fields</h2><div class="sheet"><div class="rows">
     ${FIELDS.map(f => `<div class="row" style="grid-template-columns:minmax(0,240px) 1fr"><div class="q">${esc(f[1])}</div><div class="ev">${esc(f[2])}</div></div>`).join("")}
   </div>
     <p>Values: ${Object.keys(POS).map(chip).join(" ")}</p>
     <p class="sub">"No" requires a statement against the policy. Silence is always "No stated position".</p></div></section>
   <section><h2>How statements are collected and chosen</h2>
-    <p>Statements come from two places: posts on the politician's X accounts from ${esc((Object.values(XPOSTS)[0] || {since: "1 January 2025"}).since)} onward that match AI-related keywords (${Object.values(XPOSTS).reduce((n, x) => n + x.total, 0)} posts so far), and a web search of news reports and official records such as press releases, letters, bills, speeches and interviews. A language model reads each one and labels it against the rubric.</p>
-    <p>Each page shows at most ${MAX_STATEMENTS} statements: those that most explicitly address catastrophic risk, chosen for variety of wording, date and source, newest first. Statements that do not address catastrophic risk are shown only when nothing stronger was found. For records not yet reviewed by a person, the grade is the highest level any statement reached.</p></section>
+    <p>Statements come from two places: posts on the politician's X accounts from ${esc((Object.values(XPOSTS)[0] || {since: "1 January 2025"}).since)} onward that match AI-related keywords (${(Object.values(XPOSTS).reduce((n, x) => n + x.total, 0) + XHOUSE.reduce((n, r) => n + (r.posts || 0), 0)).toLocaleString("en-US")} posts across both chambers), and a web search of news reports and official records such as press releases, letters, bills, speeches and interviews. A language model reads each one and labels it against the rubric. Every Senate grade is then reviewed by a person. House grades are worked out by rule from the labels and have only been roughly checked by a person.</p>
+    <p>Each page shows at most ${MAX_STATEMENTS} statements: those that most explicitly address catastrophic risk, chosen for variety of wording, date and source, newest first. Statements that do not address catastrophic risk are shown only in places left over after the stronger ones. Where a person has not set the grade by hand, it is worked out from the levels the statements reached, using the rulings below.</p></section>
   <section><h2>Rulings</h2><ul>
     <li><strong>Relayed warnings.</strong> Citing someone else's warning without endorsing it is C. A warning the politician endorses in their own words counts as their own statement.</li>
     <li><strong>Bills and actions.</strong> Sponsoring a bill or opening an investigation about catastrophic risk does not by itself earn a B. A statement in the politician's own words is needed.</li>
@@ -458,22 +470,21 @@ function viewMethod(){
     <li><strong>Threat to humanity.</strong> Saying AI threatens the future of humanity or the human race is A, even without the word extinction.</li>
     <li><strong>Military use.</strong> Calls for human control of autonomous weapons or nuclear launch are about military use of AI, not catastrophic risk from AI itself.</li>
     <li><strong>Recent statements.</strong> Statements from 2026 count for much more than statements from 2025.</li>
-    <li><strong>Dismissing the risk.</strong> A statement that dismisses or mocks catastrophic risk lowers the grade by one letter. A politician with several such statements still loses only one letter. Someone who has only dismissed the risk is F.</li>
+    <li><strong>Dismissing the risk.</strong> A statement that dismisses or mocks catastrophic risk lowers the grade by one letter. A politician with several such statements still loses only one letter. Someone who has only dismissed the risk is F. A D can therefore also mean a general acknowledgment (C) lowered by a dismissive statement.</li>
     <li><strong>Misuse only.</strong> Naming catastrophic harm only from people misusing AI, such as for biological weapons or cyberattacks, is C.</li>
     <li><strong>Rogue AI.</strong> Statements about AI agents escaping or hacking are graded by the harm they name. Cybercrime alone is not catastrophic risk.</li></ul></section>
-  <section><h2>Still open</h2><ul>
-    <li><strong>Staleness.</strong> Decide how old a statement can be before a record is marked out of date.</li>
-    <li><strong>Quote length.</strong> Short excerpts lose context, so each has a paraphrase and a link. A quote policy is not yet set.</li></ul></section>
   <section><h2>Source policy</h2><ul>
-    <li><strong>Official record:</strong> senate.gov releases, letters, bill text, hearing video. Preferred for every quote.</li>
+    <li><strong>Official record:</strong> senate.gov and house.gov releases, letters, bill text, hearing video. Preferred for every quote.</li>
     <li><strong>Transcript:</strong> a full transcript published by the outlet that ran the interview or covered the hearing.</li>
     <li><strong>Major outlet:</strong> national news organizations. Acceptable for interviews they conducted. For X posts they are a stand-in until the post itself is linked.</li>
-    <li><strong>Other outlet:</strong> trade press, aggregators, local affiliates, partisan sites. Usable as a lead only. Each must be replaced by a higher tier or the quote dropped before publication.</li></ul>
-    <p class="sub">In this draft ${S.flatMap(s => s.stmts).filter(t => tier(t[5])[0] === "warn").length} of ${S.flatMap(s => s.stmts).length} hand-collected quotes rest on an "other outlet" source.</p></section>
-  <section><h2>Verification</h2><p>"Read at source" means the linked page was opened and the wording checked there. "Search excerpt only" means the wording was seen in a search result and still needs checking. The Senate hearing transcript was read in part. Every quote needs an independent human check before publication.</p>
-    <p><strong>What a person has reviewed.</strong> Every Senate grade has been reviewed by a person, and some were changed by hand; those records say so. House grades are worked out by rule from the statements found and have only been roughly checked by a person. Policy positions and most quotes in both chambers come from a language model, with automatic checks that the quoted words appear on the linked page.</p>
+    <li><strong>Other outlet:</strong> trade press, aggregators, local affiliates, partisan sites. Used where no better source was found.</li></ul></section>
+  <section><h2>Verification</h2><p>Each quote is marked with the check it has had. "Wording found on the source page" means the quoted words appear on the linked page. For most quotes a script made that check; it does not confirm who said the words, the date, or the surrounding context. "Checked against the source by a person" means a person opened the page and read the quote there. "Search excerpt only" means the wording was seen in a search result and still needs checking. The Senate hearing transcript was read in part.</p>
+    <p><strong>What a person has reviewed.</strong> Every Senate grade has been reviewed by a person, and some were changed by hand. House grades are worked out by rule from the statements found and have only been roughly checked by a person. Policy positions and most quotes in both chambers come from a language model, with automatic checks that the quoted words appear on the linked page.</p>
     <p>X posts were collected through the X API and link to the post itself. Those marked "chosen by a language model" were selected and described by a model reading the post text only, without attached video, images or links.</p>
-    <p>Portraits are official congressional photographs from the public-domain unitedstates/images collection.</p></section>`;
+    <p>Portraits are official congressional photographs from the public-domain unitedstates/images collection.</p></section>
+  <section><h2>Contact</h2>
+    <p>Found a mistake? Or think we've missed something? <a href="mailto:${CONTACT_EMAIL}">Let us know</a> at ${CONTACT_EMAIL}.</p>
+    <p>This website was written and is maintained by ${ext("Oz Amram", "https://ozamram.github.io/")}.</p></section>`;
 }
 
 // The address after "#", with accented letters decoded (so "#luj%C3%A1n" finds "luján").

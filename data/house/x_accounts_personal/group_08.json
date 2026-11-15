@@ -1,0 +1,97 @@
+[
+  {
+    "id": "C001137",
+    "name": "Jeff Crank",
+    "accounts": [],
+    "notes": "Campaign site https://jeffcrankforcongress.com/ (home and /contact pages) opened on 2026-11-15 and showed no X/Twitter link. Unconfirmed lead: the search summary said a 'Meet the Freshmen' profile cites posts at x.com/jeffcrank, but that page returned 401 and could not be checked."
+  },
+  {
+    "id": "C001121",
+    "name": "Jason Crow",
+    "accounts": [
+      {
+        "handle": "JasonCrowCO",
+        "account_type": "campaign",
+        "evidence_url": "https://jasoncrow.org/",
+        "evidence": "The campaign website paid for by Jason Crow for Congress (jasoncrowforcongress.com redirects here) links its X icon to https://x.com/JasonCrowCO."
+      }
+    ],
+    "notes": "The campaign page does not say whether the current campaign is for the House or the Senate."
+  },
+  {
+    "id": "P000620",
+    "name": "Brittany Pettersen",
+    "accounts": [
+      {
+        "handle": "pettersen4co",
+        "account_type": "campaign",
+        "evidence_url": "https://brittanypettersen.com/",
+        "evidence": "The campaign website paid for by Brittany Pettersen for Colorado has an X link at /twitter, which redirects (HTTP 301) to https://twitter.com/pettersen4co."
+      }
+    ],
+    "notes": "Handle taken from the redirect target of the site's /twitter link; the X profile itself was not opened."
+  },
+  {
+    "id": "E000300",
+    "name": "Gabe Evans",
+    "accounts": [
+      {
+        "handle": "GabeforColorado",
+        "account_type": "campaign",
+        "evidence_url": "https://www.electgabeevans.com/",
+        "evidence": "The campaign website paid for by Gabe Evans for Congress links its X icon to https://x.com/GabeforColorado."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "L000557",
+    "name": "John B. Larson",
+    "accounts": [],
+    "notes": "Search pointed to campaign site larsonforcongress.org, but on 2026-11-15 the domain did not resolve (DNS lookup failed), so no X link could be checked. No campaign X handle was seen in the search results either."
+  },
+  {
+    "id": "C001069",
+    "name": "Joe Courtney",
+    "accounts": [
+      {
+        "handle": "joecourtneyct",
+        "account_type": "campaign",
+        "evidence_url": "https://www.joecourtney.com/",
+        "evidence": "The website paid for and authorized by Joe Courtney for Congress links its Twitter icon to https://twitter.com/joecourtneyct."
+      }
+    ],
+    "notes": "The search did not show the campaign site URL; I tried joecourtney.com directly and confirmed it is his campaign site from its paid-for line. The search summary also mentioned JoeCourtneyCT via a Politwoops listing, which matches."
+  },
+  {
+    "id": "D000216",
+    "name": "Rosa L. DeLauro",
+    "accounts": [
+      {
+        "handle": "rosa_delauro",
+        "account_type": "campaign",
+        "evidence_url": "https://www.rosadelauro.com/",
+        "evidence": "The website paid for by Friends of Rosa DeLauro embeds posts from twitter.com/rosa_delauro and its /twitter footer link redirects (HTTP 301) to https://twitter.com/rosa_delauro."
+      }
+    ],
+    "notes": "The search did not show the campaign site URL; I tried rosadelauro.com directly and confirmed it from its paid-for line. LegiStorm lists rosadelauro (already on file) as her official X account."
+  },
+  {
+    "id": "H001047",
+    "name": "James A. Himes",
+    "accounts": [],
+    "notes": "Campaign site https://www.himesforcongress.com/ (paid for by Himes for Congress) links to https://twitter.com/jahimes, which is the handle already on file, so no new account."
+  },
+  {
+    "id": "H001081",
+    "name": "Jahana Hayes",
+    "accounts": [],
+    "notes": "Campaign site https://jahanahayes.com/ (paid for by Friends of Jahana Hayes) has a 'Follow our campaign' heading but no social media links. No other handle was seen in the search results."
+  },
+  {
+    "id": "D000628",
+    "name": "Neal P. Dunn",
+    "accounts": [],
+    "notes": "Former campaign domain nealdunn.com now redirects to an unrelated company site (appiabio.com), so no X link could be checked. A search-result Wikipedia mirror says he announced in January 2026 he would not seek re-election (unverified)."
+  }
+]

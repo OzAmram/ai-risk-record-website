@@ -1,0 +1,104 @@
+[
+  {
+    "id": "M001214",
+    "name": "Frank J. Mrvan",
+    "accounts": [
+      {
+        "handle": "mrvan4congress",
+        "account_type": "campaign",
+        "evidence_url": "https://mrvanforcongress.com/",
+        "evidence": "Mrvan's campaign website links to twitter.com/mrvan4congress and x.com/mrvan4congress among its social links."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "Y000067",
+    "name": "Rudy Yakym III",
+    "accounts": [
+      {
+        "handle": "rudyyakym",
+        "account_type": "campaign",
+        "evidence_url": "https://rudyforindiana.com/",
+        "evidence": "Yakym's campaign website (named as his site on his NRCC profile) links to twitter.com/rudyyakym and embeds posts from that account."
+      }
+    ],
+    "notes": "Handle is name-based, so it may be his personal account rather than a dedicated campaign account; labeled campaign because the campaign site links it."
+  },
+  {
+    "id": "S001188",
+    "name": "Marlin A. Stutzman",
+    "accounts": [
+      {
+        "handle": "gomarlin",
+        "account_type": "campaign",
+        "evidence_url": "https://gomarlin.com/",
+        "evidence": "Stutzman's campaign website gomarlin.com links to twitter.com/gomarlin (alongside Truth Social @gomarlin and Instagram marlinforcongress)."
+      }
+    ],
+    "notes": "Search summary wrote it as @GoMarlin; the campaign site writes the link in lowercase."
+  },
+  {
+    "id": "B001307",
+    "name": "James R. Baird",
+    "accounts": [],
+    "notes": "Campaign site electbaird.com (listed by a WBOI candidate guide) only redirects to a WinRed donation page, which returned 403. No campaign X handle found; 2024 campaign domain was electjimbaird.com (not opened)."
+  },
+  {
+    "id": "S000929",
+    "name": "Victoria Spartz",
+    "accounts": [],
+    "notes": "Campaign website not found. Unconfirmed lead: a search result summary said ProPublica Politwoops lists accounts RepSpartz and Victoria_Spartz, but the Politwoops page opened was only an archive landing page that did not show the handle."
+  },
+  {
+    "id": "S001229",
+    "name": "Jefferson Shreve",
+    "accounts": [],
+    "notes": "Campaign site (shreveforcongress.com redirects to teamshreve.com) has no X link. LegiStorm bio only shows the official x.com/RepShreve, though its text mentions a campaign X account. Unconfirmed lead: search summary said a Meet the Freshmen profile cites x.com/JeffersonShreve, but that page returned 401."
+  },
+  {
+    "id": "C001072",
+    "name": "André Carson",
+    "accounts": [
+      {
+        "handle": "andre4congress",
+        "account_type": "campaign",
+        "evidence_url": "https://andrecarson.com/",
+        "evidence": "The André Carson for Congress campaign website links to twitter.com/andre4congress."
+      }
+    ],
+    "notes": "Search summary wrote it as Andre4Congress (Politwoops); campaign site writes it in lowercase."
+  },
+  {
+    "id": "M001233",
+    "name": "Mark B. Messmer",
+    "accounts": [],
+    "notes": "Campaign site markmessmer.com (paid for by Messmer for Congress) has no X link, only YouTube. No campaign X account found."
+  },
+  {
+    "id": "H001093",
+    "name": "Erin Houchin",
+    "accounts": [
+      {
+        "handle": "erin_houchin",
+        "account_type": "campaign",
+        "evidence_url": "https://erinhouchin.com/",
+        "evidence": "The Houchin for Congress campaign website links to x.com/erin_houchin in its navigation and footer."
+      }
+    ],
+    "notes": "Name-based handle; may double as her personal account. Labeled campaign because the campaign site links it."
+  },
+  {
+    "id": "M000871",
+    "name": "Tracey Mann",
+    "accounts": [
+      {
+        "handle": "TraceyMannKS",
+        "account_type": "campaign",
+        "evidence_url": "https://www.traceymann.com/",
+        "evidence": "The Mann for Congress campaign website links to twitter.com/TraceyMannKS."
+      }
+    ],
+    "notes": ""
+  }
+]

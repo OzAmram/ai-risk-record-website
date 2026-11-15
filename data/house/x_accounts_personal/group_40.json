@@ -1,0 +1,118 @@
+[
+ {
+  "id": "S001159",
+  "name": "Marilyn Strickland",
+  "accounts": [
+   {
+    "handle": "StricklandforWA",
+    "account_type": "campaign",
+    "evidence_url": "https://www.stricklandforwashington.com/twitter/",
+    "evidence": "The Twitter link on her campaign site stricklandforwashington.com goes to /twitter/, which returns a 301 redirect to x.com/StricklandforWA."
+   }
+  ],
+  "notes": "The handle comes from the redirect's Location header. x.com was not opened, as instructed."
+ },
+ {
+  "id": "S001213",
+  "name": "Bryan Steil",
+  "accounts": [
+   {
+    "handle": "bryansteil",
+    "account_type": "campaign",
+    "evidence_url": "http://bryansteil.com",
+    "evidence": "His campaign site bryansteil.com, which Wikipedia lists as his campaign website, links to x.com/bryansteil."
+   }
+  ],
+  "notes": "The second campaign domain Wikipedia lists, steilforwisconsin.com, failed to load with an SSL error. The campaign's YouTube channel is @steilforwisconsin."
+ },
+ {
+  "id": "P000607",
+  "name": "Mark Pocan",
+  "accounts": [
+   {
+    "handle": "MarkPocan",
+    "account_type": "campaign",
+    "evidence_url": "https://pocanforcongress.com",
+    "evidence": "His campaign site pocanforcongress.com, which Wikipedia lists as his campaign website, links to twitter.com/MarkPocan in its header and footer."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "V000135",
+  "name": "Derrick Van Orden",
+  "accounts": [
+   {
+    "handle": "derrickvanorden",
+    "account_type": "campaign",
+    "evidence_url": "https://www.vanordenforcongress.com/",
+    "evidence": "His campaign site vanordenforcongress.com links to twitter.com/derrickvanorden."
+   }
+  ],
+  "notes": "This account may serve as both his personal and his campaign account. I marked it campaign because the link comes from the campaign site."
+ },
+ {
+  "id": "M001160",
+  "name": "Gwen Moore",
+  "accounts": [
+   {
+    "handle": "Gwen4Congress",
+    "account_type": "campaign",
+    "evidence_url": "https://gwenmooreforcongress.com",
+    "evidence": "Her campaign site gwenmooreforcongress.com links to twitter.com/Gwen4Congress, and her PBS Wisconsin candidate page (pbswisconsin.org/candidate/gwen-moore) also lists x.com/Gwen4Congress."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "F000471",
+  "name": "Scott Fitzgerald",
+  "accounts": [
+   {
+    "handle": "fitzgeraldforwi",
+    "account_type": "campaign",
+    "evidence_url": "https://scottfitzgeraldforcongress.com",
+    "evidence": "His campaign site scottfitzgeraldforcongress.com links to twitter.com/fitzgeraldforwi."
+   }
+  ],
+  "notes": "The handle is written in lowercase on the campaign site. A ProPublica Politwoops search snippet writes it as FitzgeraldForWI."
+ },
+ {
+  "id": "G000576",
+  "name": "Glenn Grothman",
+  "accounts": [
+   {
+    "handle": "grothmanforwi",
+    "account_type": "campaign",
+    "evidence_url": "https://glenngrothman.com",
+    "evidence": "His campaign site glenngrothman.com links to twitter.com/grothmanforwi."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "T000165",
+  "name": "Thomas P. Tiffany",
+  "accounts": [],
+  "notes": "Unconfirmed lead: search result summaries (ProPublica Politwoops and Pitt CivicWatch) name @TomTiffanyWI as his account, but no page I opened showed it. According to Wikipedia, he was the 2026 Republican nominee for Governor of Wisconsin and lost. His campaign site tomtiffany.com, which Wikipedia lists, now shows only 'Thank you, Wisconsin!' and has no social links. The Politwoops page itself loaded without naming any accounts."
+ },
+ {
+  "id": "W000829",
+  "name": "Tony Wied",
+  "accounts": [
+   {
+    "handle": "TonyWied",
+    "account_type": "campaign",
+    "evidence_url": "https://tonywiedforcongress.com",
+    "evidence": "His campaign site tonywiedforcongress.com links to twitter.com/TonyWied."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "M001205",
+  "name": "Carol D. Miller",
+  "accounts": [],
+  "notes": "Unconfirmed lead: a search result summary citing ProPublica Politwoops names @CarolMillerWV as her earlier campaign handle, but no page I opened showed it. Her campaign site electcarolmiller.com, which Wikipedia lists, links only to Facebook (carolforcongress), not X."
+ }
+]

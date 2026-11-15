@@ -1,0 +1,111 @@
+[
+ {
+  "id": "B001324",
+  "name": "Wesley Bell",
+  "accounts": [
+   {
+    "handle": "bell4mo",
+    "account_type": "campaign",
+    "evidence_url": "https://bell4mo.com/",
+    "evidence": "The Wesley Bell for Congress campaign website links to https://twitter.com/bell4mo as its X account."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "W000812",
+  "name": "Ann Wagner",
+  "accounts": [
+   {
+    "handle": "AnnLWagner",
+    "account_type": "campaign",
+    "evidence_url": "https://annwagner.com/",
+    "evidence": "Ann Wagner's campaign website annwagner.com links to https://twitter.com/AnnLWagner as its X account."
+   }
+  ],
+  "notes": "A search result summary mentioned @Ann4Congress (from a 2018-era reply) as a possible campaign handle; not confirmed on any opened page. The campaign site's Facebook page is facebook.com/Ann4Congress. Account type for AnnLWagner could be personal rather than campaign; the site does not say."
+ },
+ {
+  "id": "O000177",
+  "name": "Robert F. Onder, Jr.",
+  "accounts": [
+   {
+    "handle": "BobOnderMO",
+    "account_type": "campaign",
+    "evidence_url": "https://bobondermo.com/",
+    "evidence": "The Onder for Congress campaign website bobondermo.com links to https://twitter.com/BobOnderMO as its X account."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "A000379",
+  "name": "Mark Alford",
+  "accounts": [
+   {
+    "handle": "markalfordkc",
+    "account_type": "campaign",
+    "evidence_url": "https://alfordforcongress.com/",
+    "evidence": "The Alford for Congress campaign website links to https://twitter.com/markalfordkc as its X account."
+   }
+  ],
+  "notes": "The handle may originally be his personal account from his time as a Kansas City TV anchor; the campaign site uses it as the campaign X link."
+ },
+ {
+  "id": "C001061",
+  "name": "Emanuel Cleaver",
+  "accounts": [],
+  "notes": "No campaign website found in the one search; a September 2026 KCUR article (search summary only) said he does not have an active campaign website. Vote Smart page returned 403. No personal or campaign X handle confirmed."
+ },
+ {
+  "id": "G000546",
+  "name": "Sam Graves",
+  "accounts": [],
+  "notes": "Campaign website gravesforcongress.com was opened; it links only to Facebook (facebook.com/gravesforcongress), no X account. He announced in March 2026 that he will retire at the end of this Congress (per search summary of a graves.house.gov press release)."
+ },
+ {
+  "id": "B001316",
+  "name": "Eric Burlison",
+  "accounts": [
+   {
+    "handle": "EricBurlison",
+    "account_type": "campaign",
+    "evidence_url": "https://www.ericburlisonforcongress.com/",
+    "evidence": "The Eric Burlison for Congress campaign website links to https://x.com/EricBurlison as its X account."
+   }
+  ],
+  "notes": "This handle predates his House service (tweets from 2015-2020 per a search summary), so it is also effectively his personal account."
+ },
+ {
+  "id": "S001195",
+  "name": "Jason Smith",
+  "accounts": [
+   {
+    "handle": "JasonSmithMO",
+    "account_type": "campaign",
+    "evidence_url": "https://electjasonsmith.com/",
+    "evidence": "The campaign website electjasonsmith.com links to https://twitter.com/JasonSmithMO in its header and footer and embeds posts from that account."
+   }
+  ],
+  "notes": "Campaign website was found via BallotReady profile (https://www.ballotready.org/people/jason-smith-dca60f24-9a5a-474a-a7f9-b33de10d3dd6), which also lists @JasonSmithMO."
+ },
+ {
+  "id": "K000388",
+  "name": "Trent Kelly",
+  "accounts": [
+   {
+    "handle": "KellyforMS01",
+    "account_type": "campaign",
+    "evidence_url": "https://kellyformississippi.com/",
+    "evidence": "The campaign website kellyformississippi.com links to https://twitter.com/KellyforMS01 as its X account."
+   }
+  ],
+  "notes": "Campaign website was found via BallotReady profile (https://www.ballotready.org/people/trent-kelly-37a8e7eb-c77b-44b2-a65a-98eb515f9e00)."
+ },
+ {
+  "id": "T000193",
+  "name": "Bennie G. Thompson",
+  "accounts": [],
+  "notes": "Campaign website benniethompson.com (and its /events/ page) was opened but the fetched content showed no social links. Search summaries only point to @BennieGThompson, which is already on file. No separate campaign or personal X handle confirmed."
+ }
+]

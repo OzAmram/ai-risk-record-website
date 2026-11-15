@@ -1,0 +1,24 @@
+{
+ "bioguide": "ELECT-IL-STRATTON",
+ "member": "Juliana Stratton",
+ "searches_run": [
+  "Juliana Stratton artificial intelligence Senate campaign",
+  "Juliana Stratton superintelligence",
+  "Juliana Stratton AI extinction OR \"existential risk\"",
+  "Juliana Stratton AI pause OR slowdown OR moratorium data centers",
+  "Juliana Stratton AI China agreement OR treaty",
+  "\"Juliana Stratton\" \"AI safety\"",
+  "Juliana Stratton AI site:julianastratton.com",
+  "Stratton Illinois Senate data centers AI statement 2026",
+  "\"Stratton\" Axios Democrats run on AI policy 2026 Illinois",
+  "Juliana Stratton WTTW interview technology AI April 2026"
+ ],
+ "searches_refused": [],
+ "new_statements": [],
+ "position_changes": {},
+ "new_record_items": [],
+ "suggested_grade": "D",
+ "grade_reason": "The new searches found no new AI statements by her. Her only substantial AI remarks are still the February 2026 Capitol News Illinois questionnaire answer, which is about jobs, fairness and privacy and neither acknowledges nor dismisses catastrophic risk.",
+ "corrections": "",
+ "notes": "All seven searches that did not run before now ran (none refused), plus three follow-ups (10 in total). None of the superintelligence, extinction or existential risk, AI safety, pause or moratorium, China agreement, or campaign-site searches returned anything mentioning her; the site-restricted search returned only unrelated pages. The only AI lead was OnTheIssues (https://ontheissues.org/Economic/Juliana_Stratton_Technology.htm), which quotes 'ensuring our workers have a seat at the table in determining how AI is implemented in their workplaces...'. A page fetch confirmed this sentence is part of the same 17 February 2026 Capitol News Illinois questionnaire answer the file already quotes. It is a D-level jobs statement and the file already has three D quotes from that answer, so I did not add it. A reviewer could swap it in, because it is arguably more substantive than the 'smart regulation' quote. Pages I could not open (HTTP 403): Axios 'Democrats run on AI policy in 2026 campaigns' (13 February 2026; the search summary did not show her named in it) and WTTW news node 53133 (probably the 6 April 2026 interview that the earlier run also could not open). Related context, not a statement by her: AP/WTTW (18 March 2026) reported that the crypto industry's Fairshake political action committee spent more than $10 million against her in the primary. No source shows her signing the 23 September 2026 China letter or backing the Ban Artificial Superintelligence Act. As a senator-elect she could not have done either."
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "id": "S001205",
+    "name": "Mary Gay Scanlon",
+    "accounts": [
+      {
+        "handle": "marygayscanlon",
+        "account_type": "campaign",
+        "evidence_url": "https://www.scanlonforcongress.com/",
+        "evidence": "Her campaign website scanlonforcongress.com links its Twitter icon to twitter.com/marygayscanlon."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "H001085",
+    "name": "Chrissy Houlahan",
+    "accounts": [
+      {
+        "handle": "houlahanforpa",
+        "account_type": "campaign",
+        "evidence_url": "https://www.chrissyhoulahanforcongress.com/",
+        "evidence": "Her campaign website chrissyhoulahanforcongress.com links its X icon to x.com/houlahanforpa."
+      }
+    ],
+    "notes": "The campaign site writes the handle in lower case; ProPublica Politwoops (seen only in a search summary) writes it HoulahanForPa."
+  },
+  {
+    "id": "M001230",
+    "name": "Ryan Mackenzie",
+    "accounts": [],
+    "notes": "Campaign site mackenzieforcongress.com returned 404 (with and without www); Committee of Seventy, Vote Smart and RJC pages also failed to load (404/403). Unconfirmed lead from a search summary only (a Pitt CivicWatch tracker): @Ryan_Mackenzie, possibly his old state House account."
+  },
+  {
+    "id": "B001327",
+    "name": "Robert P. Bresnahan, Jr.",
+    "accounts": [
+      {
+        "handle": "Rob4PA",
+        "account_type": "campaign",
+        "evidence_url": "https://robforpa.com/",
+        "evidence": "His campaign website robforpa.com links its X icon to twitter.com/Rob4PA."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001204",
+    "name": "Daniel Meuser",
+    "accounts": [
+      {
+        "handle": "Meuser4Congress",
+        "account_type": "campaign",
+        "evidence_url": "https://www.meuserforcongress.com/",
+        "evidence": "His campaign website meuserforcongress.com links its Twitter icon to twitter.com/Meuser4Congress."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "P000605",
+    "name": "Scott Perry",
+    "accounts": [
+      {
+        "handle": "patriotsperry",
+        "account_type": "campaign",
+        "evidence_url": "https://patriotsforperry.com/",
+        "evidence": "The Patriots for Perry website, which promotes Perry's run for Congress and links to the ScottPerryforCongress Facebook page and a donation page, links its X icon to twitter.com/patriotsperry."
+      }
+    ],
+    "notes": "The site is paid for by 'Patriots for Perry'; I believe (not verified this session) that this is Perry's own campaign committee name, but the page itself does not say so explicitly."
+  },
+  {
+    "id": "S001199",
+    "name": "Lloyd Smucker",
+    "accounts": [],
+    "notes": "No campaign website found: the search returned none, and a Branch.vote summary said he had no website as of October 2026. A Wikipedia mirror that might list one failed to load (HTTP 525). Unconfirmed lead from a search summary only (ProPublica Politwoops): @LloydSmuckerPA."
+  },
+  {
+    "id": "L000602",
+    "name": "Summer L. Lee",
+    "accounts": [
+      {
+        "handle": "SummerForPA",
+        "account_type": "campaign",
+        "evidence_url": "https://summerforpa.com/home/",
+        "evidence": "Her campaign website summerforpa.com links its Twitter icon to twitter.com/SummerForPA."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "J000302",
+    "name": "John Joyce",
+    "accounts": [],
+    "notes": "Campaign website johnjoyceforcongress.com links only Instagram (johnjoycepa13) and Facebook (JoyceForCongress), with no X link. No other X handle was found."
+  },
+  {
+    "id": "R000610",
+    "name": "Guy Reschenthaler",
+    "accounts": [
+      {
+        "handle": "reschenthaler",
+        "account_type": "campaign",
+        "evidence_url": "https://www.guyforpa.com/",
+        "evidence": "His campaign website guyforpa.com has a Twitter feed linking to twitter.com/reschenthaler."
+      }
+    ],
+    "notes": "Labeled campaign because it appears on the campaign site; it may be a long-running personal account (Politwoops listed it alongside GReschenthaler, per a search summary only)."
+  }
+]

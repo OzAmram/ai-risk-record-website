@@ -2,12 +2,6 @@
   "bioguide": "ELECT-MT-ALME",
   "member": "Kurt Alme",
   "searches": [
-    "NOT RUN (web search refused, shared budget used up): Kurt Alme Senate Montana artificial intelligence",
-    "NOT RUN (web search refused): \"Kurt Alme\" \"AI safety\"",
-    "NOT RUN (web search refused): \"Kurt Alme\" superintelligence",
-    "NOT RUN (web search refused): \"Alme\" Montana Senate AI extinction OR \"existential risk\"",
-    "NOT RUN (web search refused): \"Kurt Alme\" AI pause OR moratorium OR slowdown OR \"data centers\"",
-    "NOT RUN (web search refused): \"Kurt Alme\" AI China agreement OR treaty",
     "Opened directly: https://almeforsenate.com/ (campaign home page), /priorities, /news (page 1 of 2)",
     "Opened directly: https://en.wikipedia.org/wiki/Kurt_Alme",
     "Site search, Montana Free Press: https://montanafreepress.org/?s=Alme+artificial+intelligence",
@@ -17,7 +11,14 @@
     "Site search, Montana Public Radio: https://www.mtpr.org/search?q=Alme+artificial+intelligence",
     "Site search, KTVH: https://www.ktvh.com/search?q=Alme+artificial+intelligence (could not open, rate-limited)",
     "Site search, Flathead Beacon: https://flatheadbeacon.com/?s=Alme+artificial+intelligence (could not open, rate-limited)",
-    "Opened directly: https://ballotpedia.org/Kurt_Alme (page came back empty)"
+    "Opened directly: https://ballotpedia.org/Kurt_Alme (page came back empty)",
+    "Kurt Alme Senate Montana artificial intelligence (run 15 November 2026)",
+    "\"Kurt Alme\" \"AI safety\" (run 15 November 2026)",
+    "\"Kurt Alme\" superintelligence (run 15 November 2026)",
+    "\"Alme\" Montana Senate AI extinction OR \"existential risk\" (run 15 November 2026)",
+    "\"Kurt Alme\" AI pause OR moratorium OR slowdown OR \"data centers\" (run 15 November 2026)",
+    "\"Kurt Alme\" AI China agreement OR treaty (run 15 November 2026)",
+    "site:almeforsenate.com artificial intelligence OR AI (run 15 November 2026)"
   ],
   "statements": [
     {
@@ -55,16 +56,49 @@
       "level": "D",
       "flags": [],
       "reason": "His reported answer to the AI safeguards question was about data center transparency and named no catastrophic risk."
+    },
+    {
+      "date": "2026-08-31",
+      "venue": "Interview with MTN (KTVH) about data centers and AI",
+      "quote": "As a senator, I'd have the obligation to be sure that we get the benefits of innovation, without having any harm from a new technology,",
+      "context": "Montana Senate candidates were asked how to manage data centers and AI; the article also paraphrases Alme as saying the federal government will need to consider regulations for AI.",
+      "source_label": "KTVH (MTN News)",
+      "url": "https://www.ktvh.com/news/montana-politics/montana-u-s-senate-candidates-discuss-how-to-manage-data-centers-ai",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [],
+      "reason": "A general wish to get the benefits of new technology without harm; it names no catastrophic risk from AI."
     }
   ],
   "positions": {
-    "slowdown": {"value": "none", "note": "No statement found for or against slowing frontier AI development; his data center remarks concern transparency, cost and local control, not risks from AI itself.", "sources": []},
-    "pause": {"value": "none", "note": "No statement found for or against a pause.", "sources": []},
-    "intl": {"value": "none", "note": "No statement found on an AI agreement or talks with China. He did not attend the September 2026 Missoula debate where candidates were asked about an AI treaty with China.", "sources": [["Daily Montanan, 16 October 2026", "https://dailymontanan.com/2026/10/16/montanas-flagship-universities-use-security-cameras-but-not-their-ai-capabilities/"]]},
-    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing frontier AI development; his data center remarks concern transparency, cost and local control, not risks from AI itself.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an AI agreement or talks with China. He did not attend the September 2026 Missoula debate where candidates were asked about an AI treaty with China.",
+      "sources": [
+        [
+          "Daily Montanan, 16 October 2026",
+          "https://dailymontanan.com/2026/10/16/montanas-flagship-universities-use-security-cameras-but-not-their-ai-capabilities/"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
   },
   "record": [],
   "suggested_grade": "D",
-  "grade_reason": "The only remarks found touching AI are about data centers (transparency, minimum requirements, local control). Nothing found acknowledges or dismisses catastrophic risk from AI. The search was incomplete because web search was unavailable.",
-  "notes": "SEARCH COVERAGE IS LIMITED: all six web searches were refused (shared session search budget used up), so none of the required keyword searches (superintelligence, extinction, pause, China agreement, AI safety) ran. Instead I opened the campaign site and used the search pages of Montana Free Press, Daily Montanan and Montana Public Radio; KTVH and Flathead Beacon search pages could not be opened (rate-limited), and Ballotpedia came back empty, so I could not check for a Ballotpedia candidate survey. A fuller search should be re-run. Pages were read through a fetch tool that summarises and quotes the page rather than showing raw text; the three quotes were returned as direct quotes, and the two KULR-8 quotes were confirmed on a second fetch, but a reviewer should check all three against the pages. The Montana Free Press quote is the first half of a sentence the article splits with 'Alme said' (it continues: \"They're clear about their cost to the community and other effects\"); in the article it probably ends with a comma inside the quotation marks. Dates: the KULR-8 article is dated 1 September 2026 (a Tuesday, updated 28 September) and says Alme spoke 'on Monday', which I took as 31 August 2026; the Bozeman debate date is taken from the 11 October 2026 article date and is not stated explicitly, and debate video is at https://www.youtube.com/watch?v=cd_Cv5ylw18 (not watched; his full answer to the AI safeguards question may contain more than the article reports). Paraphrases left out of statements: Montana Free Press says the candidates 'were largely in harmony regarding their support for safeguards on artificial intelligence' (no direct Alme quote on AI itself); KULR-8 paraphrases that Alme would support federal rules protecting local ratepayers from data center costs and pushed back on Trump's post; KULR-8 also has longer Alme quotes on data centers (beginning 'I appreciate the president's intent...' and 'Local governments need to consider the potential harms...') that I could not copy in full. 23 September 2026 letter and Ban Artificial Superintelligence Act: Alme was not a senator at the time and no source shows him signing, co-sponsoring or commenting on either. Campaign site: the priorities page shows only placeholder text and the home page has no mention of AI; the campaign news page (page 1 of 2 read) lists the KULR-8 article as its only AI-related item. Other articles opened with no AI content from Alme: Daily Montanan profile (22 October 2026), KTVH debate report, Fox News (6 April 2026), Wikipedia. Other events not checked: an 18 October 2026 Billings forum (lastbestvoice.com)."
+  "grade_reason": "All of his AI remarks found, old and new, are about data centers (costs, jobs, transparency, local control) or a general wish for innovation without harm. Nothing found acknowledges or dismisses catastrophic risk from AI.",
+  "notes": "SEARCH COVERAGE IS LIMITED: all six web searches were refused (shared session search budget used up), so none of the required keyword searches (superintelligence, extinction, pause, China agreement, AI safety) ran. Instead I opened the campaign site and used the search pages of Montana Free Press, Daily Montanan and Montana Public Radio; KTVH and Flathead Beacon search pages could not be opened (rate-limited), and Ballotpedia came back empty, so I could not check for a Ballotpedia candidate survey. A fuller search should be re-run. Pages were read through a fetch tool that summarises and quotes the page rather than showing raw text; the three quotes were returned as direct quotes, and the two KULR-8 quotes were confirmed on a second fetch, but a reviewer should check all three against the pages. The Montana Free Press quote is the first half of a sentence the article splits with 'Alme said' (it continues: \"They're clear about their cost to the community and other effects\"); in the article it probably ends with a comma inside the quotation marks. Dates: the KULR-8 article is dated 1 September 2026 (a Tuesday, updated 28 September) and says Alme spoke 'on Monday', which I took as 31 August 2026; the Bozeman debate date is taken from the 11 October 2026 article date and is not stated explicitly, and debate video is at https://www.youtube.com/watch?v=cd_Cv5ylw18 (not watched; his full answer to the AI safeguards question may contain more than the article reports). Paraphrases left out of statements: Montana Free Press says the candidates 'were largely in harmony regarding their support for safeguards on artificial intelligence' (no direct Alme quote on AI itself); KULR-8 paraphrases that Alme would support federal rules protecting local ratepayers from data center costs and pushed back on Trump's post; KULR-8 also has longer Alme quotes on data centers (beginning 'I appreciate the president's intent...' and 'Local governments need to consider the potential harms...') that I could not copy in full. 23 September 2026 letter and Ban Artificial Superintelligence Act: Alme was not a senator at the time and no source shows him signing, co-sponsoring or commenting on either. Campaign site: the priorities page shows only placeholder text and the home page has no mention of AI; the campaign news page (page 1 of 2 read) lists the KULR-8 article as its only AI-related item. Other articles opened with no AI content from Alme: Daily Montanan profile (22 October 2026), KTVH debate report, Fox News (6 April 2026), Wikipedia. Other events not checked: an 18 October 2026 Billings forum (lastbestvoice.com). Searches rerun on 15 November 2026: 7 ran, none refused; 1 new statement. Notes from the rerun: All seven web searches ran; none was refused. Searches on AI safety, superintelligence, extinction, pause and China returned nothing mentioning Alme. The site: search returned no pages from almeforsenate.com (the filter appears not to have been applied), so the campaign site was not covered by this search; the earlier run had opened the site directly and found no AI content. Two follow-up pages opened: KTVH (new statement above) and NBC Montana, 18 October 2026 (https://nbcmontana.com/news/local/alme-bankhead-bodnar-austin-lay-out-policy-positions-in-race-for-senate). QUOTE CHECK NEEDED: the fetch tool limits verbatim excerpts to 125 characters, so it returned the KTVH quote in two pieces ('As a senator, I'd have the obligation to be sure that we get the benefits of innovation,' and 'without having any harm from a new technology,' said Alme) and stated they form one continuous quoted paragraph; I joined them on that basis. A reviewer should check the exact sentence on the page. Date: the KTVH page shows no posting date; the fetch tool says Alme spoke Monday 31 August 2026, consistent with the existing KULR-8 entry. Other KTVH quotes left out as data-center-only (D, not more substantial): 'Those are some of the important guardrails that have to happen, as well as hiring local jobs'; 'There's going to be positive tax base opportunities here for communities, as well as good-paying jobs.' Paraphrases left out: KTVH says Alme believes the federal government will need to consider regulations for AI and that balancing growth with privacy and consumer protections is possible; NBC Montana says he wants AI and data center firms to be transparent about their financial and community footprint and endorses the Ratepayer Protection Act. NBC Montana direct quotes ('They need to make sure they pay their own way and they need to hire local jobs'; 'We should leave this to our local communities to decide.') are data-center-only and left out. No source shows Alme signing the 23 September 2026 China letter (he is not on the signer list and was not a senator) or co-sponsoring the Ban Artificial Superintelligence Act."
 }

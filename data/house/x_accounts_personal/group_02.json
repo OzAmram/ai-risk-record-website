@@ -1,0 +1,131 @@
+[
+  {
+    "id": "W000821",
+    "name": "Bruce Westerman",
+    "accounts": [
+      {
+        "handle": "westermanAR",
+        "account_type": "campaign",
+        "evidence_url": "https://brucewesterman.com",
+        "evidence": "The campaign site (footer 'Paid For By Westerman For Congress') links to https://twitter.com/westermanAR."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "S001183",
+    "name": "David Schweikert",
+    "accounts": [
+      {
+        "handle": "DavidSchweikert",
+        "account_type": "campaign",
+        "evidence_url": "https://davidschweikert.com",
+        "evidence": "His campaign site, which now promotes his run for Arizona governor, links to https://twitter.com/DavidSchweikert."
+      }
+    ],
+    "notes": "The site's YouTube link is 'davidschweikertforgovernor', so this account is now used for the governor campaign. It is under his personal name, so it could also be called personal."
+  },
+  {
+    "id": "C001132",
+    "name": "Elijah Crane",
+    "accounts": [
+      {
+        "handle": "EliCrane_CEO",
+        "account_type": "personal",
+        "evidence_url": "https://cronkitenews.azpbs.org/2022/10/14/us-house-district-2-eli-crane/",
+        "evidence": "A 2022 Cronkite News candidate profile of Eli Crane embeds a post attributed to 'Eli Crane (@EliCrane_CEO)'."
+      }
+    ],
+    "notes": "The evidence is from 2022, and I did not check whether the account is still active or renamed. The campaign site eliforarizona.com returned HTTP 403, so I could not check its X link. Unconfirmed lead: a search summary said ProPublica's Politwoops listed 'EliCraneAZ' as one of his accounts, but the Politwoops page I opened no longer lists accounts."
+  },
+  {
+    "id": "A000381",
+    "name": "Yassamin Ansari",
+    "accounts": [
+      {
+        "handle": "yassaminansari",
+        "account_type": "campaign",
+        "evidence_url": "https://yassaminforcongress.com/",
+        "evidence": "Her campaign site links to https://twitter.com/yassaminansari."
+      }
+    ],
+    "notes": "The account is under her personal name and is linked from the campaign site. It could also be called personal."
+  },
+  {
+    "id": "S001211",
+    "name": "Greg Stanton",
+    "accounts": [
+      {
+        "handle": "gregstantonaz",
+        "account_type": "campaign",
+        "evidence_url": "https://www.gregstanton.com/",
+        "evidence": "The 'Greg Stanton for Congress' site (footer 'Paid for by Greg Stanton for Congress') links to https://www.x.com/gregstantonaz."
+      },
+      {
+        "handle": "MayorStanton",
+        "account_type": "personal",
+        "evidence_url": "https://legistorm.com/person/bio/304454/Gregory_John_Stanton.html",
+        "evidence": "His LegiStorm profile lists https://x.com/MayorStanton as an X account for him, next to the official RepGregStanton."
+      }
+    ],
+    "notes": "MayorStanton is probably his older account from when he was mayor of Phoenix. LegiStorm does not label it as official or campaign, and I did not check whether it is still active."
+  },
+  {
+    "id": "B001302",
+    "name": "Andy Biggs",
+    "accounts": [
+      {
+        "handle": "andybiggs4az",
+        "account_type": "campaign",
+        "evidence_url": "https://biggsforarizona.com/news/biggs-for-arizona-media-roundup/",
+        "evidence": "A media roundup on the Biggs for Arizona campaign site (governor race) lists 'X: @andybiggs4az' in its follow-us section."
+      }
+    ],
+    "notes": "This is his 2026 Arizona governor campaign account. I did not look for any earlier congressional campaign account (biggsforcongress.com)."
+  },
+  {
+    "id": "C001133",
+    "name": "Juan Ciscomani",
+    "accounts": [
+      {
+        "handle": "JuanCiscomani",
+        "account_type": "campaign",
+        "evidence_url": "https://juanciscomani.com/",
+        "evidence": "His campaign site (sign-up form run by Ciscomani for Congress) links to https://x.com/JuanCiscomani."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "G000565",
+    "name": "Paul A. Gosar",
+    "accounts": [
+      {
+        "handle": "DrPaulGosar",
+        "account_type": "campaign",
+        "evidence_url": "https://drpaulgosar.com/",
+        "evidence": "The 'Dr. Paul Gosar For US Congress' site (footer 'Paid For By Paul Gosar For Congress') links to https://x.com/DrPaulGosar."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "H001068",
+    "name": "Jared Huffman",
+    "accounts": [
+      {
+        "handle": "JaredHuffman",
+        "account_type": "campaign",
+        "evidence_url": "https://jaredhuffman.com/",
+        "evidence": "His campaign site's social section links to https://x.com/JaredHuffman."
+      }
+    ],
+    "notes": "The campaign site also links Bluesky (realjaredhuffman.bsky.social) and Threads (@realjaredhuffman). Those are not X accounts."
+  },
+  {
+    "id": "K000401",
+    "name": "Kevin Kiley",
+    "accounts": [],
+    "notes": "His campaign site, electkevinkiley.com ('Paid for by Kevin Kiley for Congress', which Wikipedia lists as his campaign website), shows no X, Facebook or Instagram links in the text I fetched. LegiStorm lists only the official RepKiley. kevinkiley.com is a domain for sale, not his site. No personal or campaign X account was found."
+  }
+]

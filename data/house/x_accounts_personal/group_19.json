@@ -1,0 +1,111 @@
+[
+ {
+  "id": "B001301",
+  "name": "Jack Bergman",
+  "accounts": [
+   {
+    "handle": "JackBergman_MI1",
+    "account_type": "campaign",
+    "evidence_url": "https://bergmanforcongress.com",
+    "evidence": "The Bergman for Congress campaign website links to twitter.com/JackBergman_MI1 in its header and footer social links."
+   }
+  ],
+  "notes": "Campaign site address came from a July 2025 Mining Journal article found in search results."
+ },
+ {
+  "id": "M001194",
+  "name": "John R. Moolenaar",
+  "accounts": [
+   {
+    "handle": "JohnMoolenaar",
+    "account_type": "campaign",
+    "evidence_url": "https://johnmoolenaarforcongress.com/",
+    "evidence": "The Moolenaar for Congress campaign website links to twitter.com/JohnMoolenaar alongside a separate link to the official RepMoolenaar account."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "S001221",
+  "name": "Hillary J. Scholten",
+  "accounts": [
+   {
+    "handle": "HillaryScholten",
+    "account_type": "campaign",
+    "evidence_url": "https://hillaryscholten.com/",
+    "evidence": "Her campaign website links to twitter.com/HillaryScholten in its navigation and footer social links."
+   }
+  ],
+  "notes": "Could be read as personal or campaign; it is the account her campaign site links."
+ },
+ {
+  "id": "H001058",
+  "name": "Bill Huizenga",
+  "accounts": [
+   {
+    "handle": "billhuizenga",
+    "account_type": "campaign",
+    "evidence_url": "https://huizengaformichigan.com/",
+    "evidence": "The Huizenga for Congress campaign website (huizengaforcongress.com redirects here; footer says 'Paid for by Huizenga for Congress') links to twitter.com/billhuizenga."
+   }
+  ],
+  "notes": "Handle written in lower case on the page."
+ },
+ {
+  "id": "W000798",
+  "name": "Tim Walberg",
+  "accounts": [],
+  "notes": "Search did not turn up a campaign website. LegiStorm profile mentions a campaign X account but does not show its address; only the official RepWalberg is shown. No handle confirmed."
+ },
+ {
+  "id": "D000624",
+  "name": "Debbie Dingell",
+  "accounts": [
+   {
+    "handle": "debdingell",
+    "account_type": "personal",
+    "evidence_url": "https://debbiedingellforcongress.com/",
+    "evidence": "Her campaign website links to twitter.com/debdingell in its header and footer and embeds a 'Tweets by DebDingell' feed."
+   }
+  ],
+  "notes": "Written as 'debdingell' in the header link and 'DebDingell' in the embedded feed. Labelled personal because it is her long-running name account rather than a campaign-branded one; could also be called campaign."
+ },
+ {
+  "id": "B001321",
+  "name": "Tom Barrett",
+  "accounts": [],
+  "notes": "Search did not turn up a campaign website or campaign X account; only the official RepTomBarrett appeared. Club for Growth candidate page opened but lists no Barrett links."
+ },
+ {
+  "id": "M001237",
+  "name": "Kristen McDonald Rivet",
+  "accounts": [
+   {
+    "handle": "McdonaldRivet",
+    "account_type": "campaign",
+    "evidence_url": "https://kristenmcdonaldrivet.com/",
+    "evidence": "Her campaign website (paid for by Kristen for Michigan) has an X link to kristenmcdonaldrivet.com/twitter, which redirects to twitter.com/McdonaldRivet."
+   }
+  ],
+  "notes": "Handle taken from the redirect target of the campaign site's /twitter link (checked without opening x.com)."
+ },
+ {
+  "id": "M001136",
+  "name": "Lisa C. McClain",
+  "accounts": [],
+  "notes": "Unconfirmed lead: search summary said ProPublica Politwoops lists her accounts as LisaForCongress and RepLisaMcClain, but the Politwoops pages I opened are now a static snapshot that shows no handles. No campaign website found in search."
+ },
+ {
+  "id": "J000307",
+  "name": "John James",
+  "accounts": [
+   {
+    "handle": "johnjamesmi",
+    "account_type": "campaign",
+    "evidence_url": "https://johnjamesmi.com",
+    "evidence": "His campaign website (paid for by John James for MI, now his governor campaign) links to x.com/johnjamesmi with a 'Follow @johnjamesmi' link."
+   }
+  ],
+  "notes": "He is running for Michigan governor in 2026; this is that campaign's site. A 2022 post cited in search wrote it as @JohnJamesMI."
+ }
+]

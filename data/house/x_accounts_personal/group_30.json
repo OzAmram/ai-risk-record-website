@@ -1,0 +1,111 @@
+[
+  {
+    "id": "B001278",
+    "name": "Suzanne Bonamici",
+    "accounts": [],
+    "notes": "Campaign site bonamiciforcongress.com/about/ links only Facebook and Instagram, with no X link. Unconfirmed lead: the search summary said an archived ProPublica Politwoops listing gave her accounts as RepBonamici and SuzanneBonamici. The live Politwoops page is an archive notice and does not show this, so SuzanneBonamici is not confirmed."
+  },
+  {
+    "id": "B000668",
+    "name": "Cliff Bentz",
+    "accounts": [],
+    "notes": "Campaign site cliffbentz.com links only Facebook (bentzfororegon). It has a 'Share on Twitter' button but no account link. No personal or campaign X account found."
+  },
+  {
+    "id": "D000635",
+    "name": "Maxine Dexter",
+    "accounts": [
+      {
+        "handle": "doctormaxine",
+        "account_type": "campaign",
+        "evidence_url": "https://maxinefororegon.com/twitter",
+        "evidence": "The X-twitter link in the footer of her campaign site maxinefororegon.com goes to /twitter, which redirects (301) to x.com/doctormaxine."
+      }
+    ],
+    "notes": "Conflicting lead: her LegiStorm profile (legistorm.com/person/bio/375017/Maxine_E_Dexter.html) lists x.com/dex_max as her campaign X account. LegiStorm is a third-party directory, and her campaign site points to doctormaxine instead, so dex_max is left out. It could be an older or other campaign account and needs checking."
+  },
+  {
+    "id": "H001094",
+    "name": "Val T. Hoyle",
+    "accounts": [
+      {
+        "handle": "ValHoyle",
+        "account_type": "campaign",
+        "evidence_url": "https://valhoyle.com/twitter/",
+        "evidence": "The Twitter link in the header and footer of her campaign site valhoyle.com goes to /twitter/, which redirects (301) to twitter.com/ValHoyle."
+      }
+    ],
+    "notes": "The search summary also mentioned a Politwoops listing of ValHoyle and RepValHoyle, which agrees with this."
+  },
+  {
+    "id": "B001326",
+    "name": "Janelle S. Bynum",
+    "accounts": [
+      {
+        "handle": "bynum4thewin",
+        "account_type": "campaign",
+        "evidence_url": "https://www.janellebynum.com/",
+        "evidence": "Her campaign site janellebynum.com links twitter.com/bynum4thewin in its header and footer."
+      }
+    ],
+    "notes": "The campaign site content may date from her 2024 race."
+  },
+  {
+    "id": "S001226",
+    "name": "Andrea Salinas",
+    "accounts": [
+      {
+        "handle": "AndreaRSalinas",
+        "account_type": "campaign",
+        "evidence_url": "https://andreasalinasfororegon.com/twitter/",
+        "evidence": "The X/Twitter link on her campaign site andreasalinasfororegon.com goes to /twitter/, which redirects (301) to twitter.com/AndreaRSalinas."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "F000466",
+    "name": "Brian K. Fitzpatrick",
+    "accounts": [
+      {
+        "handle": "BrianFitzUSA",
+        "account_type": "campaign",
+        "evidence_url": "https://www.brianfitzpatrick.com/",
+        "evidence": "His campaign site brianfitzpatrick.com ('Brian Fitzpatrick For Congress') links twitter.com/BrianFitzUSA in its header, footer and 'Follow Us On Social Media' section."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "B001296",
+    "name": "Brendan F. Boyle",
+    "accounts": [
+      {
+        "handle": "RepBrendanBoyle",
+        "account_type": "personal",
+        "evidence_url": "https://voteboyle.com/",
+        "evidence": "His campaign site voteboyle.com links twitter.com/RepBrendanBoyle in its header and footer."
+      }
+    ],
+    "notes": "The handle has a 'Rep' prefix but differs from the official handle on file (CongBoyle). Because his campaign site links it, it is treated as his personal or political account. It is labeled personal, but it could reasonably be called campaign."
+  },
+  {
+    "id": "E000296",
+    "name": "Dwight Evans",
+    "accounts": [],
+    "notes": "He is not seeking re-election (per evans.house.gov press release). His old campaign domain dwightevans.com does not resolve (DNS lookup failed for both dwightevans.com and www.dwightevans.com). The search summary says he uses @RepDwightEvans across platforms, which is the official handle already on file. No personal or campaign X account found."
+  },
+  {
+    "id": "D000631",
+    "name": "Madeleine Dean",
+    "accounts": [
+      {
+        "handle": "madeleinedean",
+        "account_type": "campaign",
+        "evidence_url": "https://www.mad4pa.com/twitter",
+        "evidence": "The X-twitter link on her campaign site mad4pa.com goes to /twitter, which redirects (301) to twitter.com/madeleinedean. The homepage also embeds tweets from twitter.com/madeleinedean."
+      }
+    ],
+    "notes": ""
+  }
+]

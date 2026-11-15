@@ -2,9 +2,6 @@
   "bioguide": "ELECT-SC-ANDREWS",
   "member": "Annie Andrews",
   "searches": [
-    "NOT RUN (web search budget refused): Annie Andrews South Carolina Senate artificial intelligence",
-    "NOT RUN (web search budget refused): \"Annie Andrews\" \"AI safety\"",
-    "NOT RUN (web search budget refused): \"Annie Andrews\" superintelligence",
     "Direct page open instead of search: https://www.drannieandrews.com/ (campaign home page)",
     "Direct page open: https://drannieandrews.com/platform",
     "Direct page open: https://drannieandrews.com/about",
@@ -20,7 +17,16 @@
     "FAILED site search (returned no results list): https://www.scetv.org/search?search_api_fulltext=Annie Andrews artificial intelligence",
     "FAILED page open (empty page returned): https://ballotpedia.org/Annie_Andrews",
     "FAILED page open (fetch blocked, tried twice): https://www.politico.com/news/magazine/2026/11/04/south-carolina-senate-annie-andrews-interview-01148925",
-    "FAILED page open (HTTP 403, tried twice): https://thehill.com/homenews/campaign/6054250-medicare-all-annie-andrews-south-carolina-senate/"
+    "FAILED page open (HTTP 403, tried twice): https://thehill.com/homenews/campaign/6054250-medicare-all-annie-andrews-south-carolina-senate/",
+    "Annie Andrews South Carolina Senate artificial intelligence (run 15 November 2026)",
+    "\"Annie Andrews\" \"AI safety\" (run 15 November 2026)",
+    "\"Annie Andrews\" superintelligence (run 15 November 2026)",
+    "\"Annie Andrews\" AI extinction OR \"existential\" risk (run 15 November 2026)",
+    "\"Annie Andrews\" AI pause OR moratorium OR slowdown (run 15 November 2026)",
+    "\"Annie Andrews\" China AI agreement OR treaty (run 15 November 2026)",
+    "artificial intelligence AI (restricted to drannieandrews.com) (run 15 November 2026)",
+    "\"Annie Andrews\" senator-elect AI data centers (follow-up) (run 15 November 2026)",
+    "drannieandrews.com AI (follow-up, because the site-restricted search returned nothing from her site) (run 15 November 2026)"
   ],
   "statements": [
     {
@@ -32,7 +38,9 @@
       "url": "https://drannieandrews.com/issue/protecting-kids-not-big-tech/",
       "read_at_source": true,
       "level": "D",
-      "flags": ["unsure"],
+      "flags": [
+        "unsure"
+      ],
       "reason": "Calls for regulating AI because of discrimination and abuse, which is outside catastrophic risk; no catastrophic harm is named."
     },
     {
@@ -44,7 +52,9 @@
       "url": "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/",
       "read_at_source": true,
       "level": "D",
-      "flags": ["unsure"],
+      "flags": [
+        "unsure"
+      ],
       "reason": "A data center moratorium motivated by energy costs and local impact, not by risks from AI itself."
     }
   ],
@@ -52,17 +62,42 @@
     "slowdown": {
       "value": "none",
       "note": "No statement found on slowing frontier AI for safety reasons. Her call for a two-year moratorium on new data centers in South Carolina was tied to energy costs and the power imbalance between tech companies and rural communities, which the rubric counts as none.",
-      "sources": [["WIS-TV interview, 28 Oct 2026", "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/"]]
+      "sources": [
+        [
+          "WIS-TV interview, 28 Oct 2026",
+          "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/"
+        ]
+      ]
     },
-    "pause": {"value": "none", "note": "No statement found for or against a pause on frontier AI development.", "sources": []},
-    "intl": {"value": "none", "note": "No statement found on an agreement or talks with China on AI. She was not a senator on 23 September 2026 and no source shows her connected to the 17-senator letter.", "sources": []},
-    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a pause on frontier AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an agreement or talks with China on AI. She was not a senator on 23 September 2026 and no source shows her connected to the 17-senator letter.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
   },
   "record": [
-    ["Campaign platform pledges to \"Regulate AI and facial recognition tools that can discriminate or be abused\" (page published 23 December 2025, last modified 12 July 2026).", "Annie Andrews campaign website, 23 Dec 2025", "https://drannieandrews.com/issue/protecting-kids-not-big-tech/"],
-    ["Said she called for a two-year moratorium on new data center construction in South Carolina, citing energy costs and local communities.", "WIS-TV interview, 28 Oct 2026", "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/"]
+    [
+      "Campaign platform pledges to \"Regulate AI and facial recognition tools that can discriminate or be abused\" (page published 23 December 2025, last modified 12 July 2026).",
+      "Annie Andrews campaign website, 23 Dec 2025",
+      "https://drannieandrews.com/issue/protecting-kids-not-big-tech/"
+    ],
+    [
+      "Said she called for a two-year moratorium on new data center construction in South Carolina, citing energy costs and local communities.",
+      "WIS-TV interview, 28 Oct 2026",
+      "https://www.wistv.com/2026/10/28/full-interview-annie-andrews-shares-priorities-senate-ahead-election-day/"
+    ]
   ],
   "suggested_grade": "D",
-  "grade_reason": "The only AI-related material found is a campaign pledge to regulate AI tools that discriminate or are abused and a data center moratorium tied to energy costs; nothing found acknowledges catastrophic risk from AI. This rests on a very incomplete search (see notes), so it is weak evidence of absence.",
-  "notes": "SEARCH COVERAGE IS POOR. All web searches were refused (shared session search budget used up), so none of the six required searches ran: not the general AI search, nor the ones on superintelligence, extinction or existential risk, pause/slowdown/moratorium, China agreement or treaty, name plus \"AI safety\", or a campaign-site-restricted search. Instead I opened pages directly. Opened and read: campaign home, platform, about and four issue pages (no mention of AI except the one bullet quoted), the WIS-TV 28 Oct 2026 interview page, and the American Prospect 8 Oct 2026 profile. Could not open: Politico Magazine 4 Nov 2026 interview, The Hill article, Ballotpedia (empty page, so no candidate questionnaire was checked), and the site searches of the Post and Courier, SC Daily Gazette and SCETV. No debate transcript or candidate questionnaire was found or checked. The campaign site showed no press releases or news items. Three campaign issue pages (healthcare, gun violence, reproductive freedom) were not opened for AI mentions; the healthcare page may contain the Medicare AI item below. Quote caveats: pages were read through a fetch tool that passes the page through a small summarising model, so both quotes should be re-checked character for character by the reviewer; the WIS-TV quote may come from a video transcript or article text and may be a fragment of a longer sentence. The date for the campaign-site statement is the page's publication date (23 Dec 2025); the page was modified 12 Jul 2026 and I cannot tell when the AI bullet was added. Paraphrase left out of statements: the American Prospect (8 Oct 2026, https://prospect.org/2026/10/08/south-carolina-senate-hopeful-runs-on-health-care-populism-annie-andrews/) describes her platform as including \"a ban on the use of AI to make decisions on treatment in Medicare\"; these are the author's words, not hers, and would be level D in any case. Ban Artificial Superintelligence Act and the 23 September 2026 China letter: she was a candidate, not a senator, in September 2026, so she could not have co-sponsored or signed; no source found shows any statement by her on either. Identity: sources are her own campaign site and interviews naming her as the South Carolina Senate candidate, so confusion with another person is unlikely."
+  "grade_reason": "The searches found nothing in which she acknowledges or dismisses catastrophic risk from AI. Her AI-related material is still the campaign pledge to regulate AI tools that discriminate or are abused, plus a data center moratorium about local control and costs, so D is unchanged.",
+  "notes": "SEARCH COVERAGE IS POOR. All web searches were refused (shared session search budget used up), so none of the six required searches ran: not the general AI search, nor the ones on superintelligence, extinction or existential risk, pause/slowdown/moratorium, China agreement or treaty, name plus \"AI safety\", or a campaign-site-restricted search. Instead I opened pages directly. Opened and read: campaign home, platform, about and four issue pages (no mention of AI except the one bullet quoted), the WIS-TV 28 Oct 2026 interview page, and the American Prospect 8 Oct 2026 profile. Could not open: Politico Magazine 4 Nov 2026 interview, The Hill article, Ballotpedia (empty page, so no candidate questionnaire was checked), and the site searches of the Post and Courier, SC Daily Gazette and SCETV. No debate transcript or candidate questionnaire was found or checked. The campaign site showed no press releases or news items. Three campaign issue pages (healthcare, gun violence, reproductive freedom) were not opened for AI mentions; the healthcare page may contain the Medicare AI item below. Quote caveats: pages were read through a fetch tool that passes the page through a small summarising model, so both quotes should be re-checked character for character by the reviewer; the WIS-TV quote may come from a video transcript or article text and may be a fragment of a longer sentence. The date for the campaign-site statement is the page's publication date (23 Dec 2025); the page was modified 12 Jul 2026 and I cannot tell when the AI bullet was added. Paraphrase left out of statements: the American Prospect (8 Oct 2026, https://prospect.org/2026/10/08/south-carolina-senate-hopeful-runs-on-health-care-populism-annie-andrews/) describes her platform as including \"a ban on the use of AI to make decisions on treatment in Medicare\"; these are the author's words, not hers, and would be level D in any case. Ban Artificial Superintelligence Act and the 23 September 2026 China letter: she was a candidate, not a senator, in September 2026, so she could not have co-sponsored or signed; no source found shows any statement by her on either. Identity: sources are her own campaign site and interviews naming her as the South Carolina Senate candidate, so confusion with another person is unlikely. Searches rerun on 15 November 2026: 9 ran, none refused; 0 new statements. Notes from the rerun: All nine searches ran; none were refused. None of the six required searches returned anything linking Annie Andrews to AI safety, superintelligence, extinction or existential risk, an AI pause or slowdown, or a China AI agreement. All of those results were about other people or about the topic in general. The search restricted to drannieandrews.com returned no pages from her site (only unrelated pages), so the campaign site was not searched in practice. The earlier run had already opened that site directly. The follow-up on data centers found more coverage of her two-year data center moratorium. I opened two pages: Live 5 News, 28 Sep 2026 (https://www.live5news.com/2026/09/28/senate-candidate-dr-annie-andrews-calls-moratorium-data-centers/), and WSOC-TV, 4 Nov 2026 (https://www.wsoctv.com/news/local/data-center-debate-continues-south-carolina-after-andrews-victory/RMMHTFFSIBCJJCWXEIMGKWMPWI/). Her quoted words in both are about local control, corporate power, tax breaks and costs (for example, \"If a community says no, the answer is no,\"). Neither page mentions AI in her words, and neither names any risk from AI itself. I left these out of new_statements: the moratorium is already in the file at level D, and these quotes are not about AI. Both pages were read through a fetch tool that summarises pages with a small model. A Tom's Guide article on what midterm winners said about AI data centers could not be read, because the fetch returned only the headline, so I could not check whether it quotes her. The Politico Magazine interview of 4 Nov 2026 and The Hill article that the earlier run could not open did not appear in these searches and were not retried. The searches showed nothing linking her to the 23 Sep 2026 China letter (she was not a senator then and is not on the signer list) or to the Ban Artificial Superintelligence Act."
 }

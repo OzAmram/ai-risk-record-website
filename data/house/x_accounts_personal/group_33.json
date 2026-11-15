@@ -1,0 +1,118 @@
+[
+  {
+    "id": "C000537",
+    "name": "James E. Clyburn",
+    "accounts": [
+      {
+        "handle": "ClyburnSC06",
+        "account_type": "campaign",
+        "evidence_url": "https://clyburnforcongress.com",
+        "evidence": "The Clyburn for Congress campaign website footer links to twitter.com/ClyburnSC06 alongside its campaign Facebook, YouTube and Instagram accounts."
+      }
+    ],
+    "notes": "Campaign site address taken from the Wikipedia infobox (clyburnforcongress.com)."
+  },
+  {
+    "id": "F000478",
+    "name": "Russell Fry",
+    "accounts": [
+      {
+        "handle": "RussellFrySC",
+        "account_type": "campaign",
+        "evidence_url": "https://russellfrysc.com/",
+        "evidence": "Russell Fry's campaign website (listed on Wikipedia as his campaign site) links to twitter.com/RussellFrySC."
+      }
+    ],
+    "notes": "A search summary said Fry is running in a Senate primary to replace Lindsey Graham (single source, not verified); the campaign handle may be used for that race."
+  },
+  {
+    "id": "J000301",
+    "name": "Dusty Johnson",
+    "accounts": [],
+    "notes": "Campaign site https://www.dustyjohnson.com/ (from Wikipedia) returned HTTP 401, so no X link could be read. He reportedly ran for South Dakota governor in 2026. No handle confirmed."
+  },
+  {
+    "id": "H001086",
+    "name": "Diana Harshbarger",
+    "accounts": [
+      {
+        "handle": "DHarshbargerTN1",
+        "account_type": "campaign",
+        "evidence_url": "https://www.votediana.com/coalitions",
+        "evidence": "Her campaign website (votediana.com, 'Diana for Congress') links to twitter.com/DHarshbargerTN1 with its campaign Instagram, Facebook and YouTube."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "B001309",
+    "name": "Tim Burchett",
+    "accounts": [
+      {
+        "handle": "timburchett",
+        "account_type": "personal",
+        "evidence_url": "https://thenerdstash.com/rep-tim-burchett-doubles-down-on-anti-tax-candidate-in-knox-county-against-amnesty-for-illegals/",
+        "evidence": "A news article about Rep. Tim Burchett attributes a post to him from @timburchett, including in the embedded post credit."
+      }
+    ],
+    "notes": "Campaign site burchettforcongress.com has no social media links. Whether timburchett is personal or campaign is not stated; marked personal as an assumption."
+  },
+  {
+    "id": "F000459",
+    "name": "Charles J. \"Chuck\" Fleischmann",
+    "accounts": [
+      {
+        "handle": "chuck4congress",
+        "account_type": "campaign",
+        "evidence_url": "http://www.chuckforcongress.com/",
+        "evidence": "His campaign website (chuckforcongress.com, listed on Wikipedia) links to twitter.com/chuck4congress in its header and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "D000616",
+    "name": "Scott DesJarlais",
+    "accounts": [
+      {
+        "handle": "tndesjarlais",
+        "account_type": "campaign",
+        "evidence_url": "http://scottdesjarlais.com",
+        "evidence": "His campaign website (scottdesjarlais.com, listed on Wikipedia) links to twitter.com/tndesjarlais."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "O000175",
+    "name": "Andrew Ogles",
+    "accounts": [],
+    "notes": "Campaign site andyogles.com (from Wikipedia) returned HTTP 503 on both the bare and www addresses. Unconfirmed lead from a search summary: 'AndyOgles' (said to be listed by ProPublica Politwoops; the opened Politwoops page did not show it)."
+  },
+  {
+    "id": "R000612",
+    "name": "John W. Rose",
+    "accounts": [
+      {
+        "handle": "johnrosefortn",
+        "account_type": "campaign",
+        "evidence_url": "https://johnrose.com/",
+        "evidence": "His campaign website (johnrose.com, listed on Wikipedia as 'John Rose for Congress') links to x.com/johnrosefortn."
+      }
+    ],
+    "notes": "The account was used for his 2026 governor campaign; the site mentions supporting Marsha Blackburn as Republican nominee for governor, so he apparently lost the primary. Handle written in lowercase as linked on the page (search summary showed 'JohnRoseforTN')."
+  },
+  {
+    "id": "V000139",
+    "name": "Matt Van Epps",
+    "accounts": [
+      {
+        "handle": "MattForTN",
+        "account_type": "campaign",
+        "evidence_url": "https://www.mattfortn.com/",
+        "evidence": "His campaign website (mattfortn.com, which hosts his campaign press releases) links to x.com/MattForTN alongside the 'Matt Van Epps for Congress' Facebook page."
+      }
+    ],
+    "notes": ""
+  }
+]

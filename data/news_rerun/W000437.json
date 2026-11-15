@@ -1,0 +1,13 @@
+{"bioguide": "W000437", "member": "Roger Wicker",
+ "searches_run": [
+  "Wicker NDAA fiscal 2027 artificial general intelligence OR \"frontier AI\" OR \"AI risk\" Armed Services chairman said",
+  "\"Wicker\" senator artificial intelligence hearing remarks 2026 \"loss of control\" OR superintelligence OR \"AGI\""
+ ],
+ "searches_refused": [],
+ "new_statements": [],
+ "position_changes": {},
+ "new_record_items": [],
+ "suggested_grade": "D",
+ "grade_reason": "The missing search on the defense bill found no remarks from him on catastrophic AI risk. His recorded AI remarks are still about beating China, light regulation and data centers.",
+ "corrections": "",
+ "notes": "Only one search had not run (the defense-bill search); it was run now, plus one follow-up on hearing remarks. Neither was refused. The six required topics were already covered by the earlier run, so they were not repeated. Opened the Armed Services Committee press release on completing the fiscal 2027 defense bill markup (https://www.armed-services.senate.gov/press-releases/sasc-completes-markup-of-national-defense-authorization-act-for-fiscal-year-2027) through a summarising fetch tool; its only AI line attributed to Wicker is \"The bill responds to the modern battlefield with thoughtful approaches on artificial intelligence\" (as returned by the tool, possibly shortened; the sentence also mentions autonomous weapons, munitions and cyber operations). That is a passing, military-use mention (level D at most) and less substantial than the D statements already in the file, so it is left out. News coverage says the committee's bill requires human oversight of AI-enabled weapons and lists a Defense Department provision on AI risk governance, but these are committee provisions, not his words, and military use is D under ruling 3; not added to the record. A June 2026 letter from outside groups to Wicker and others urged AI safeguards in the bill; that is a letter to him, not by him. The follow-up search found 2026 Senate hearings on rogue AI agents and superintelligence risk (Homeland Security 30 Sept, Hawley hearing 1 Oct, HELP 1 May), but no source showing Wicker spoke at them. Wicker is not on the verified signer list of the 23 September 2026 China letter."}

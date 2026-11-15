@@ -1,0 +1,80 @@
+[
+  {
+    "id": "R000603",
+    "name": "David Rouzer",
+    "accounts": [
+      {"handle": "davidrouzer", "account_type": "campaign", "evidence_url": "https://davidrouzer.com/", "evidence": "The campaign site 'David Rouzer U.S. Congress' (footer 'Paid for by David Rouzer for Congress') links https://twitter.com/davidrouzer in its header and footer."}
+    ],
+    "notes": "The campaign site address davidrouzer.com was tried directly (not taken from a search result); the page itself confirmed it is his campaign site."
+  },
+  {
+    "id": "H001102",
+    "name": "Mark Harris",
+    "accounts": [
+      {"handle": "markharrisnc8", "account_type": "campaign", "evidence_url": "https://markharrisforcongress.org/", "evidence": "The campaign site 'Mark Harris for Congress' (paid for by Mark Harris for Congress, describes him as NC-08's Congressman) links https://x.com/markharrisnc8."}
+    ],
+    "notes": "The campaign site URL came from the WFAE 2026 NC-8 candidate guide (https://www.wfae.org/2026-09-22/u-s-house-of-representatives-nc-8-candidates). Beware markharrisforcongress.com: it is an unrelated gambling site. The search summary wrote the handle as MarkHarrisNC8; the site writes it in lower case."
+  },
+  {
+    "id": "H001067",
+    "name": "Richard Hudson",
+    "accounts": [
+      {"handle": "RepHudsonNC", "account_type": "campaign", "evidence_url": "https://richardhudson.org/news/", "evidence": "The campaign site 'Richard Hudson for Congress' (footer 'Paid for by Hudson for Congress') links https://twitter.com/RepHudsonNC in its header social links."}
+    ],
+    "notes": "The handle starts with 'Rep' but is linked from the campaign site, so classed as campaign; it is different from the official RepRichHudson. The site's latest visible post was an older election-night item, so the account may not be current."
+  },
+  {
+    "id": "H001101",
+    "name": "Pat Harrigan",
+    "accounts": [
+      {"handle": "PatHarriganNC", "account_type": "campaign", "evidence_url": "http://www.harriganforcongressnc.com/", "evidence": "The campaign site (paid for by The Pat Harrigan Committee, NC-10 candidate) links https://twitter.com/PatHarriganNC in its 'Follow Pat' footer."}
+    ],
+    "notes": "Reached via patharrigan.com, which redirects to harriganforcongress.com and then harriganforcongressnc.com. The site's newest post shown was from September 2023, so the site may be old."
+  },
+  {
+    "id": "A000370",
+    "name": "Alma S. Adams",
+    "accounts": [
+      {"handle": "AlmaforCongress", "account_type": "campaign", "evidence_url": "https://almaadamsforcongress.com", "evidence": "The campaign site (footer 'Paid for by Alma Adams for Congress', NC-12) links https://twitter.com/AlmaforCongress."}
+    ],
+    "notes": ""
+  },
+  {
+    "id": "K000405",
+    "name": "Brad Knott",
+    "accounts": [
+      {"handle": "bradknottfornc", "account_type": "campaign", "evidence_url": "https://www.bradknott.com/", "evidence": "The campaign site 'Brad Knott for Congress' (footer 'Paid for by Brad Knott for Congress', running for re-election in NC-13) links https://twitter.com/bradknottfornc."}
+    ],
+    "notes": "bradknottforcongress.com redirects to bradknott.com."
+  },
+  {
+    "id": "M001236",
+    "name": "Tim Moore",
+    "accounts": [],
+    "notes": "Campaign site timmoorenc.com redirects to www.timmoore.com ('Tim Moore for Congress', paid for by Friends of Tim Moore); it links only Facebook (reptimmoore) and YouTube, no X account. No personal or campaign X handle found."
+  },
+  {
+    "id": "F000482",
+    "name": "Julie Fedorchak",
+    "accounts": [
+      {"handle": "julie4nd", "account_type": "campaign", "evidence_url": "https://fedorchaknd.com/", "evidence": "The campaign site 'Julie Fedorchak for US Congress' (paid for by Fedorchak for ND) links https://twitter.com/julie4nd."}
+    ],
+    "notes": "Unconfirmed lead: the search summary mentioned x.com/fedorchak4ND (cited by a Meet the Freshmen profile from 2024); not seen on any page opened, so not included."
+  },
+  {
+    "id": "F000474",
+    "name": "Mike Flood",
+    "accounts": [
+      {"handle": "flood4nebraska", "account_type": "campaign", "evidence_url": "https://mikefloodfornebraska.com/", "evidence": "The campaign site 'Mike Flood for U.S. Congress - Nebraska District 1' (paid for by Mike Flood for Congress) links https://twitter.com/flood4nebraska in header and footer."}
+    ],
+    "notes": ""
+  },
+  {
+    "id": "B001298",
+    "name": "Don Bacon",
+    "accounts": [
+      {"handle": "donjbacon", "account_type": "campaign", "evidence_url": "https://donjbacon.com/", "evidence": "The campaign site 'Don Bacon for Congress' (paid for by Don Bacon for Congress) links https://twitter.com/donjbacon in its header."}
+    ],
+    "notes": "The account may function as his personal account too; the site labels nothing beyond linking it."
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "O000086",
+    "name": "Burgess Owens",
+    "accounts": [
+      {
+        "handle": "BurgessOwens",
+        "account_type": "campaign",
+        "evidence_url": "https://burgess4utah.com/",
+        "evidence": "The 'Burgess Owens for Congress' campaign site (footer 'Paid for by Burgess 4 Utah') links twitter.com/BurgessOwens in its 'Follow Us On Social' section and footer."
+      }
+    ],
+    "notes": "The account is likely his long-standing personal account used for campaigning; labeled campaign because the campaign site links it."
+  },
+  {
+    "id": "W000804",
+    "name": "Robert J. Wittman",
+    "accounts": [
+      {
+        "handle": "reelectwittman",
+        "account_type": "campaign",
+        "evidence_url": "https://robwittman.com/about",
+        "evidence": "Wittman's campaign site robwittman.com links twitter.com/reelectwittman as its X account."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "K000399",
+    "name": "Jennifer A. Kiggans",
+    "accounts": [],
+    "notes": "Campaign site jenforcongress.com was identified by search but returned HTTP 403 Forbidden on every fetch (about page, root, www root), so no X link could be confirmed."
+  },
+  {
+    "id": "S000185",
+    "name": "Robert C. \"Bobby\" Scott",
+    "accounts": [
+      {
+        "handle": "BobbyScott4VA3",
+        "account_type": "campaign",
+        "evidence_url": "https://www.bobbyscottforcongress.com/",
+        "evidence": "Scott's campaign site bobbyscottforcongress.com links twitter.com/BobbyScott4VA3 in its header and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001227",
+    "name": "Jennifer L. McClellan",
+    "accounts": [
+      {
+        "handle": "JennMcClellanVA",
+        "account_type": "campaign",
+        "evidence_url": "https://jennifermcclellan.com/",
+        "evidence": "McClellan's campaign site jennifermcclellan.com (listed on her 2024 FEC filing) links twitter.com/JennMcClellanVA in its social list and footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "M001239",
+    "name": "John J. McGuire III",
+    "accounts": [
+      {
+        "handle": "JohnMcGuire4VA",
+        "account_type": "campaign",
+        "evidence_url": "https://www.mcguireva.com/",
+        "evidence": "The 'John McGuire for Congress' campaign site mcguireva.com, which asks visitors to re-elect him in Virginia's 5th District, links twitter.com/JohnMcGuire4VA."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C001118",
+    "name": "Ben Cline",
+    "accounts": [
+      {
+        "handle": "cline4virginia",
+        "account_type": "campaign",
+        "evidence_url": "https://bencline.com/",
+        "evidence": "Cline's campaign site bencline.com links twitter.com/cline4virginia in its footer."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "V000138",
+    "name": "Eugene Simon Vindman",
+    "accounts": [
+      {
+        "handle": "yvindman",
+        "account_type": "personal",
+        "evidence_url": "https://vindmanforcongress.com/",
+        "evidence": "Vindman's campaign site vindmanforcongress.com has an X link (/twitter) that redirects to x.com/yvindman and embeds posts from twitter.com/yvindman."
+      }
+    ],
+    "notes": "Handle confirmed via the campaign site's /twitter redirect (301 to https://x.com/yvindman); x.com itself was not opened. 'Y' presumably stands for Yevgeny; not to be confused with his twin brother Alexander Vindman. Labeled personal because the handle is name-based rather than campaign-branded; it may be used as his campaign account."
+  },
+  {
+    "id": "B001292",
+    "name": "Donald S. Beyer, Jr.",
+    "accounts": [
+      {
+        "handle": "DonBeyerVA",
+        "account_type": "campaign",
+        "evidence_url": "https://friendsofdonbeyer.com/",
+        "evidence": "The 'Friends of Don Beyer' campaign site links x.com/DonBeyerVA in its top navigation (footer writes it as donbeyerva)."
+      }
+    ],
+    "notes": "Search did not surface a campaign site; friendsofdonbeyer.com was taken from the campaign website field of his Wikipedia infobox and then opened directly."
+  },
+  {
+    "id": "G000568",
+    "name": "H. Morgan Griffith",
+    "accounts": [
+      {
+        "handle": "MorganGriffith",
+        "account_type": "campaign",
+        "evidence_url": "https://morgangriffithforcongress.com/",
+        "evidence": "The 'Morgan Griffith for Congress' campaign site links twitter.com/MorganGriffith as its X account."
+      }
+    ],
+    "notes": ""
+  }
+]

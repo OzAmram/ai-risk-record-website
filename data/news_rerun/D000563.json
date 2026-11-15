@@ -1,0 +1,14 @@
+{"bioguide": "D000563", "member": "Dick Durbin",
+ "searches_run": [
+  "Durbin AI \"catastrophic\" OR \"loss of control\" OR \"bioweapons\" 2026 senator Illinois statement",
+  "Durbin artificial intelligence 2026 press release (restricted to durbin.senate.gov and judiciary.senate.gov)"
+ ],
+ "searches_refused": [],
+ "new_statements": [],
+ "position_changes": {},
+ "new_record_items": [],
+ "suggested_grade": "D",
+ "grade_reason": "His AI statements since January 2025 are about testing, product liability, chatbot harms, deepfakes, surveillance and data centers; neither the old nor the new searches found any acknowledgment of catastrophic risk from AI.",
+ "corrections": "",
+ "notes": "Only one search was marked NOT RUN in the existing file (catastrophic / loss of control / bioweapons); it ran and found no Durbin statement on those themes. The other six required topics were already covered by the earlier run. I added one follow-up search restricted to durbin.senate.gov and judiciary.senate.gov for 2026 AI releases. It turned up 2026 items that are all level D by ruling 5 and so are not added: the OpenAI endorsement of the DEFIANCE Act on deepfakes (24 June 2026), a hearing on AI surveillance pricing (4 August 2026), a hearing on Flock's AI surveillance cameras (23 September 2026) and a meeting on data center grid strain (25 February 2026). I opened the 4 August 2026 release: it has no Durbin quote about AI, only the hearing title. I did not open the other three; their descriptions come from search summaries. The 'opening statement during Judiciary subcommittee hearing on oversight of artificial intelligence' audio page has no transcript, and its file name dates it to 16 May 2023, which is outside the range. The san.com 'hardly up to the challenge' remark appeared again; the existing file already notes it is from March 2024."
+}

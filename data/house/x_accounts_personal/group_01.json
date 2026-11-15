@@ -1,0 +1,90 @@
+[
+  {
+    "id": "B001323",
+    "name": "Nicholas J. Begich III",
+    "accounts": [
+      {
+        "handle": "NickforAlaska",
+        "account_type": "campaign",
+        "evidence_url": "https://www.alaskansfornickbegich.com/",
+        "evidence": "His campaign website links its X/Twitter icon to twitter.com/NickforAlaska, matching its Facebook, Instagram and YouTube names."
+      }
+    ],
+    "notes": "Ballotpedia pages (Nick_Begich_III, Nick_Begich) came back empty through the fetch tool. The campaign site address alaskansfornickbegich.com came from a web search that cited his 2026 Alaska Division of Elections candidate statement."
+  },
+  {
+    "id": "F000481",
+    "name": "Shomari Figures",
+    "accounts": [],
+    "notes": "Ballotpedia page came back empty through the fetch tool; one web search found no campaign or personal X handle and no campaign website address. Not found, which does not mean none exists."
+  },
+  {
+    "id": "R000575",
+    "name": "Mike Rogers",
+    "accounts": [
+      {
+        "handle": "MikeRogersCamp",
+        "account_type": "campaign",
+        "evidence_url": "https://www.mikerogersforcongress.com/about-mike/",
+        "evidence": "The 'About Mike Rogers' page of his campaign website (mikerogersforcongress.com) links to x.com/MikeRogersCamp."
+      }
+    ],
+    "notes": "Ballotpedia page came back empty through the fetch tool. The campaign site was found by web search; its About page describes the Alabama congressman, not the former Michigan representative with the same name."
+  },
+  {
+    "id": "A000055",
+    "name": "Robert B. Aderholt",
+    "accounts": [],
+    "notes": "Ballotpedia page came back empty through the fetch tool. One web search found only the already-listed official handle Robert_Aderholt (in archived pages) and no campaign website address. Not found, which does not mean none exists."
+  },
+  {
+    "id": "S001220",
+    "name": "Dale W. Strong",
+    "accounts": [],
+    "notes": "Ballotpedia page came back empty through the fetch tool; one web search found no campaign or personal X handle and no campaign website address. Not found, which does not mean none exists."
+  },
+  {
+    "id": "P000609",
+    "name": "Gary J. Palmer",
+    "accounts": [],
+    "notes": "Ballotpedia page came back empty through the fetch tool; one web search found only the already-listed official handle USRepGaryPalmer and no campaign website address. Not found, which does not mean none exists."
+  },
+  {
+    "id": "S001185",
+    "name": "Terri A. Sewell",
+    "accounts": [
+      {
+        "handle": "sewell4congress",
+        "account_type": "campaign",
+        "evidence_url": "https://sewellforcongress.com/",
+        "evidence": "Her campaign website's header and footer X icon links to twitter.com/sewell4congress, and the page also mentions @Sewell4Congress in an endorsement."
+      }
+    ],
+    "notes": "Ballotpedia page came back empty through the fetch tool. The campaign site was found by web search."
+  },
+  {
+    "id": "C001087",
+    "name": "Eric A. \"Rick\" Crawford",
+    "accounts": [],
+    "notes": "Ballotpedia page came back empty through the fetch tool. UNVERIFIED LEAD, not included: a web search summary quoted a ProPublica Politwoops page listing 'Rick Crawford's accounts: RepRickCrawford, Crawford4Cong', but when I opened projects.propublica.org/politwoops/user/Crawford4Cong it showed only an archive landing page with no handles, so I could not confirm it. Its current activity is also unknown (the tracking data covered roughly 2010 to 2020)."
+  },
+  {
+    "id": "H001072",
+    "name": "J. French Hill",
+    "accounts": [],
+    "notes": "Ballotpedia page came back empty through the fetch tool. UNVERIFIED LEAD, not included: a web search summary said ProPublica Politwoops lists 'ElectFrench' with RepFrenchHill as his accounts (tracking from 2014), but the Politwoops page I opened showed only an archive landing page with no handles. The FEC candidate page listed no website or handle."
+  },
+  {
+    "id": "W000809",
+    "name": "Steve Womack",
+    "accounts": [
+      {
+        "handle": "womack4congress",
+        "account_type": "campaign",
+        "evidence_url": "https://www.womackforcongress.com/newsroom/congressman-womack-files-for-re-election",
+        "evidence": "His campaign website (womackforcongress.com) links in its header and footer to twitter.com/womack4congress."
+      }
+    ],
+    "notes": "Ballotpedia page came back empty through the fetch tool. The campaign site was found by web search."
+  }
+]

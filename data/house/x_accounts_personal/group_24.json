@@ -1,0 +1,111 @@
+[
+  {
+    "id": "S001172",
+    "name": "Adrian Smith",
+    "accounts": [],
+    "notes": "Campaign site joinadrian.com found via search (KOLN candidate profile lists it), but the fetch tool returned only the page title for both the homepage and a press-release page, so no social links could be read. No campaign X account confirmed."
+  },
+  {
+    "id": "G000604",
+    "name": "Maggie Goodlander",
+    "accounts": [
+      {
+        "handle": "MaggieG603",
+        "account_type": "campaign",
+        "evidence_url": "https://maggiefornh.com/",
+        "evidence": "Her campaign site, Maggie Goodlander for Congress, links to twitter.com/MaggieG603 among its social media links."
+      }
+    ],
+    "notes": "Campaign site domain maggiefornh.com came from the search summary; the page fetched showed her campaign social links (Facebook 'Maggie Goodlander For Congress', Instagram MaggieforNH). The handle may be personal rather than strictly campaign; labelled campaign because it is linked from the campaign site."
+  },
+  {
+    "id": "N000188",
+    "name": "Donald Norcross",
+    "accounts": [
+      {
+        "handle": "DonNorcross4NJ",
+        "account_type": "campaign",
+        "evidence_url": "https://www.donaldnorcrossforcongress.com/",
+        "evidence": "His campaign site, Donald Norcross for Congress, links to twitter.com/DonNorcross4NJ."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "V000133",
+    "name": "Jefferson Van Drew",
+    "accounts": [],
+    "notes": "Campaign site vandrewforcongress.com (listed in an FEC filing per the search summary) links only Facebook, Instagram and Vimeo, no X account. No campaign X account confirmed."
+  },
+  {
+    "id": "C001136",
+    "name": "Herbert C. Conaway, Jr.",
+    "accounts": [
+      {
+        "handle": "herbconaway",
+        "account_type": "campaign",
+        "evidence_url": "https://www.herbforcongress.com/",
+        "evidence": "His campaign site, Herb for Congress, links to twitter.com/herbconaway."
+      }
+    ],
+    "notes": "Handle is a name-style account linked from the campaign site; could be considered personal rather than campaign."
+  },
+  {
+    "id": "G000583",
+    "name": "Josh Gottheimer",
+    "accounts": [
+      {
+        "handle": "josh4jersey",
+        "account_type": "campaign",
+        "evidence_url": "https://www.josh4jersey.com/",
+        "evidence": "The site (footer '2026 Josh Gottheimer for Congress', NJ-05) embeds posts from twitter.com/josh4jersey and has an X icon linking to josh4jersey.com/twitter."
+      }
+    ],
+    "notes": "josh4congress.com (old campaign site) now redirects to josh4jersey.com. The X icon itself is a redirect path (/twitter) that was not followed; the handle is confirmed by the embedded tweet links on the page. The same handle was likely used for his 2025 governor campaign."
+  },
+  {
+    "id": "P000034",
+    "name": "Frank Pallone, Jr.",
+    "accounts": [
+      {
+        "handle": "pallonefornj",
+        "account_type": "campaign",
+        "evidence_url": "https://pallonefornewjersey.com/",
+        "evidence": "His campaign site, Pallone for New Jersey (paid for by Pallone for Congress), links to twitter.com/pallonefornj."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "K000398",
+    "name": "Thomas H. Kean, Jr.",
+    "accounts": [],
+    "notes": "The search did not return his campaign website URL. I tried tomkeanjr.com (a domain from memory, not from the search) and the fetch returned an empty page, so nothing was confirmed. No campaign X account confirmed."
+  },
+  {
+    "id": "M001226",
+    "name": "Robert Menendez",
+    "accounts": [
+      {
+        "handle": "RobMenendez4NJ",
+        "account_type": "campaign",
+        "evidence_url": "https://robmenendez.com/",
+        "evidence": "His campaign site, Menendez for Congress, links to twitter.com/RobMenendez4NJ in its header and footer."
+      }
+    ],
+    "notes": "This is Rob Menendez Jr. (NJ-8), not his father the former senator."
+  },
+  {
+    "id": "M001229",
+    "name": "LaMonica McIver",
+    "accounts": [
+      {
+        "handle": "lamonicamciver",
+        "account_type": "personal",
+        "evidence_url": "https://www.lamonicaforcongress.com/",
+        "evidence": "Her campaign site, LaMonica for Congress, links to x.com/lamonicamciver in its 'Follow us on Social Media' footer."
+      }
+    ],
+    "notes": "Name-style handle linked from the campaign site; labelled personal, but it serves as her campaign-linked account."
+  }
+]

@@ -11,8 +11,8 @@
     "\"Ban Artificial Superintelligence Act\" cosponsors",
     "Heinrich AI 2026 senator \"Heinrich\" artificial intelligence risk statement frontier models",
     "Heinrich AI China agreement OR treaty senator New Mexico artificial intelligence 2026",
-    "NOT RUN (session search limit reached): Van Hollen letter Trump Xi AI agreement 17 senators signed Heinrich Luján Cantwell Warren Duckworth full list",
-    "NOT RUN (session search limit reached): Heinrich 2025 OR 2026 AI \"Heinrich said\" artificial intelligence national labs risks guardrails (restricted to heinrich.senate.gov)"
+    "Van Hollen letter Trump Xi AI agreement 17 senators signed Heinrich Luján Cantwell Warren Duckworth full list (run 15 November 2026)",
+    "Heinrich 2025 OR 2026 AI \"Heinrich said\" artificial intelligence national labs risks guardrails (restricted to heinrich.senate.gov) (run 15 November 2026)"
   ],
   "statements": [
     {
@@ -24,21 +24,77 @@
       "url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-young-rounds-booker-reintroduce-bipartisan-legislation-to-expand-access-to-artificial-intelligence-research",
       "read_at_source": true,
       "level": "D",
-      "flags": ["boundary", "bill_or_action"],
+      "flags": [
+        "boundary",
+        "bill_or_action"
+      ],
       "reason": "He speaks of unspecified 'potential harms' and safeguards for AI in general, without naming serious or catastrophic risk from advanced AI, so it falls just short of level C."
+    },
+    {
+      "date": "2025-07-30",
+      "venue": "Press release on reintroducing the Unleashing AI Innovation in Financial Services Act",
+      "quote": "To unlock AI's full potential and ensure it is deployed responsibly, we need regulatory guardrails that are informed by real-life use cases",
+      "context": "Heinrich was announcing a bill that would let financial firms and regulators test AI products together in a supervised setting.",
+      "source_label": "Senate press release (heinrich.senate.gov)",
+      "url": "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-rounds-tillis-kim-reintroduce-legislation-supporting-ai-innovation-in-financial-services",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "bill_or_action"
+      ],
+      "reason": "A general call for regulatory guardrails on AI in financial services; it does not mention serious or catastrophic risk from advanced AI."
     }
   ],
   "positions": {
-    "slowdown": {"value": "none", "note": "No statement for or against slowing frontier AI development was found.", "sources": []},
-    "pause": {"value": "none", "note": "No statement for or against a pause was found.", "sources": []},
-    "intl": {"value": "none", "note": "He is not among the 17 signers of the 23 September 2026 letter urging AI talks with China (signature block read in the letter itself), and no statement of his on an agreement with China was found.", "sources": [["Letter to President Trump, 23 September 2026 (PDF, Senate Commerce Committee Democrats)", "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]]},
-    "rsi": {"value": "none", "note": "No statement for or against a ban on self-improving AI was found.", "sources": []}
+    "slowdown": {
+      "value": "none",
+      "note": "No statement for or against slowing frontier AI development was found.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement for or against a pause was found.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "He is not among the 17 signers of the 23 September 2026 letter urging AI talks with China (signature block read in the letter itself), and no statement of his on an agreement with China was found.",
+      "sources": [
+        [
+          "Letter to President Trump, 23 September 2026 (PDF, Senate Commerce Committee Democrats)",
+          "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+        ]
+      ]
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement for or against a ban on self-improving AI was found.",
+      "sources": []
+    }
   },
   "record": [
-    ["Lead sponsor, with Senators Young, Rounds and Booker, of the reintroduced CREATE AI Act, which would establish the National Artificial Intelligence Research Resource; the bill is about research access, not catastrophic risk.", "Senate press release, 29 April 2026", "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-young-rounds-booker-reintroduce-bipartisan-legislation-to-expand-access-to-artificial-intelligence-research"],
-    ["Did not sign the 23 September 2026 letter from 17 senators urging President Trump to seek an AI agreement with China; the 17 signatures in the letter do not include him (his New Mexico colleague Ben Ray Luján did sign).", "Letter PDF hosted by Senate Commerce Committee Democrats, 23 September 2026", "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"]
+    [
+      "Lead sponsor, with Senators Young, Rounds and Booker, of the reintroduced CREATE AI Act, which would establish the National Artificial Intelligence Research Resource; the bill is about research access, not catastrophic risk.",
+      "Senate press release, 29 April 2026",
+      "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-young-rounds-booker-reintroduce-bipartisan-legislation-to-expand-access-to-artificial-intelligence-research"
+    ],
+    [
+      "Did not sign the 23 September 2026 letter from 17 senators urging President Trump to seek an AI agreement with China; the 17 signatures in the letter do not include him (his New Mexico colleague Ben Ray Luján did sign).",
+      "Letter PDF hosted by Senate Commerce Committee Democrats, 23 September 2026",
+      "https://www.commerce.senate.gov/wp-content/uploads/2026/09/FINAL-China-AI-Diplomacy-Letter-9.23.26.pdf"
+    ],
+    [
+      "Co-led, with Senators Rounds, Tillis and Kim, the reintroduced Unleashing AI Innovation in Financial Services Act, which sets up supervised testing of AI by financial firms; not about catastrophic risk.",
+      "Senate press release, 30 July 2025",
+      "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-rounds-tillis-kim-reintroduce-legislation-supporting-ai-innovation-in-financial-services"
+    ],
+    [
+      "Helped secure provisions in the Senate-passed 2026 defense bill requiring the Defense Department to buy commercial AI services only from companies with sound cybersecurity, and to make official videos verifiable against deepfakes; not about catastrophic risk.",
+      "Senate press release, 9 October 2025",
+      "https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-secures-wins-for-nm-military-installations-national-labs-in-senate-passed-fy2026-national-defense-bill"
+    ]
   ],
   "suggested_grade": "D",
-  "grade_reason": "The only statement on AI found since 1 January 2025 is a general remark about reining in AI's 'potential harms' in a press release for a research-access bill. Nothing found acknowledges catastrophic risk, and nothing dismisses it.",
-  "notes": "Web search limit for the session was reached after nine searches; two further searches could not be run, so coverage of interviews, hearing remarks and floor speeches is thinner than intended and a reviewer may want to rerun. All five required search topics were run at least once. 23 September 2026 China letter: I extracted the text of the letter PDF and read all 17 signatures (Van Hollen, Kaine, Cortez Masto, Smith, Blumenthal, Merkley, Welch, Hirono, Padilla, Warnock, Luján, Murray, Rosen, Alsobrooks, Warren, Duckworth, Cantwell); Heinrich is not one. Ban Artificial Superintelligence Act: no source found shows Heinrich as a co-sponsor; the Sanders summary sheet names only Sanders and Casar, news reports name only House co-sponsors, and the congress.gov co-sponsor page (S. 5493, bill number as given by Akin Gump, not independently confirmed) returned an access error, so non-co-sponsorship is not confirmed from the official record. The same 29 April 2026 press release contains the sentence \"For both our economic and national security, we must harness AI's potential and mitigate its risks.\" but it comes after Heinrich's own quotation closes and appears to belong to another senator (likely Young), so it is not attributed to Heinrich. The press release date comes from the page's date field. His official site's AI-tagged press releases show only one 2025 item (5 May 2025, a request for public input on a science funding initiative, not opened) and November 2026 releases about data centers on public lands and electricity bills, which are out of scope (level D topics) and were not opened. Pre-2025 material (2023 AI Insight Forums, including the one on doomsday scenarios, the 2024 Senate AI roadmap, and a January 2024 call to fund the AI Safety Institute) is outside the date range and was not used. Politico's 23 September 2026 article on the China letter could not be opened."
+  "grade_reason": "His statements on AI since 1 January 2025 (the April 2026 remark already on file and the July 2025 remark found now) talk about AI safeguards and guardrails in general. None mentions catastrophic risk, and none dismisses it.",
+  "notes": "Web search limit for the session was reached after nine searches; two further searches could not be run, so coverage of interviews, hearing remarks and floor speeches is thinner than intended and a reviewer may want to rerun. All five required search topics were run at least once. 23 September 2026 China letter: I extracted the text of the letter PDF and read all 17 signatures (Van Hollen, Kaine, Cortez Masto, Smith, Blumenthal, Merkley, Welch, Hirono, Padilla, Warnock, Luján, Murray, Rosen, Alsobrooks, Warren, Duckworth, Cantwell); Heinrich is not one. Ban Artificial Superintelligence Act: no source found shows Heinrich as a co-sponsor; the Sanders summary sheet names only Sanders and Casar, news reports name only House co-sponsors, and the congress.gov co-sponsor page (S. 5493, bill number as given by Akin Gump, not independently confirmed) returned an access error, so non-co-sponsorship is not confirmed from the official record. The same 29 April 2026 press release contains the sentence \"For both our economic and national security, we must harness AI's potential and mitigate its risks.\" but it comes after Heinrich's own quotation closes and appears to belong to another senator (likely Young), so it is not attributed to Heinrich. The press release date comes from the page's date field. His official site's AI-tagged press releases show only one 2025 item (5 May 2025, a request for public input on a science funding initiative, not opened) and November 2026 releases about data centers on public lands and electricity bills, which are out of scope (level D topics) and were not opened. Pre-2025 material (2023 AI Insight Forums, including the one on doomsday scenarios, the 2024 Senate AI roadmap, and a January 2024 call to fund the AI Safety Institute) is outside the date range and was not used. Politico's 23 September 2026 article on the China letter could not be opened. Searches rerun on 15 November 2026: 2 ran, none refused; 1 new statement. Notes from the rerun: Both searches the earlier run could not do were run now, and neither was refused. The six required topics were already covered in the existing file, so no other searches were run. China letter: the search results named only some signers (Luján, Cantwell, Warren, Duckworth, Padilla, Van Hollen) and Heinrich appears in none of them. This matches the existing file and the verified list of signers in the addendum, which does not include him. Two news outlets in the results give the letter's date as 24 or 25 September rather than 23 September; the existing file's date comes from the letter PDF, so I left it unchanged. The July 2025 quote: the page-fetch tool returned Heinrich's sentence split into two pieces at the point where the press release has a speech tag (the 'continued' marker came from the tool). The search result showed the same wording as one continuous passage, so the text as written should be exact, but a reviewer may want to confirm the punctuation on the page. The rest of his quote in that release is about consumer protection and innovation. A search result also quoted a TIME profile ('It would be unwise to treat AI the way we did the internet and social media early on...') and the line 'Congress needs to set the right guardrails', but these appear to be from 2023 (TIME 100 AI list and 2023 AI Insight Forum releases), so I left them out. The defense bill release (9 October 2025) quotes Heinrich only on cybersecurity provisions that came out of the Senate AI working group, which is level D at most, so I did not add it as a statement."
 }

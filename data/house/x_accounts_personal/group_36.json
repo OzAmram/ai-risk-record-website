@@ -1,0 +1,111 @@
+[
+  {
+    "id": "C001091",
+    "name": "Joaquin Castro",
+    "accounts": [],
+    "notes": "Unconfirmed lead: search result URLs pointed to a ProPublica Politwoops page for 'Castro4Congress' (apparently a 2012 campaign account), but the opened Politwoops page showed no attribution (archive no longer maintained). LegiStorm (https://legistorm.com/person/bio/194881/Joaquin_Castro.html) says a campaign X link exists but hides it behind a Pro subscription; only the official JoaquinCastrotx is shown. No campaign website was found in the search."
+  },
+  {
+    "id": "R000614",
+    "name": "Chip Roy",
+    "accounts": [
+      {
+        "handle": "chiproytx",
+        "account_type": "campaign",
+        "evidence_url": "https://chiproy.com/",
+        "evidence": "Chip Roy's campaign website chiproy.com links to https://twitter.com/chiproytx."
+      }
+    ],
+    "notes": "Search results report that Roy announced a run for Texas attorney general in August 2025 instead of re-election to the House; chiproy.com may now serve that campaign."
+  },
+  {
+    "id": "N000026",
+    "name": "Troy E. Nehls",
+    "accounts": [
+      {
+        "handle": "TroyNehls",
+        "account_type": "personal",
+        "evidence_url": "https://legistorm.com/person/bio/361717/Troy_Edwin_Nehls.html",
+        "evidence": "LegiStorm's profile of Rep. Troy Nehls links https://x.com/TroyNehls as his X account (unlabeled) alongside https://x.com/RepTroyNehls labeled official."
+      }
+    ],
+    "notes": "LegiStorm does not say whether TroyNehls is personal or campaign; 'personal' is my assumption. Campaign website not found (Wikipedia mirror returned 403). Note: his twin brother Trever Nehls is running for the seat in 2026 after Troy announced retirement; TroyNehls is attributed to Troy, not Trever, on the LegiStorm page."
+  },
+  {
+    "id": "V000134",
+    "name": "Beth Van Duyne",
+    "accounts": [
+      {
+        "handle": "Bethvanduyne",
+        "account_type": "campaign",
+        "evidence_url": "https://bethfortexas.com/",
+        "evidence": "Her campaign website bethfortexas.com links to https://twitter.com/Bethvanduyne."
+      }
+    ],
+    "notes": "Voter guides in the search results write the handle as BethVanDuyne; same account, case differs."
+  },
+  {
+    "id": "W000816",
+    "name": "Roger Williams",
+    "accounts": [
+      {
+        "handle": "RogerWilliamsTX",
+        "account_type": "campaign",
+        "evidence_url": "https://rogerforcongress.com/",
+        "evidence": "His campaign website rogerforcongress.com has a 'Follow Roger on Twitter' button and footer icon linking to https://twitter.com/RogerWilliamsTX."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "G000603",
+    "name": "Brandon Gill",
+    "accounts": [
+      {
+        "handle": "realbrandongill",
+        "account_type": "campaign",
+        "evidence_url": "https://brandongillforcongress.com/",
+        "evidence": "His campaign website brandongillforcongress.com links to https://x.com/realbrandongill."
+      }
+    ],
+    "notes": "Search summary also wrote this handle as realBrandonGill; same account, case differs."
+  },
+  {
+    "id": "C001115",
+    "name": "Michael Cloud",
+    "accounts": [
+      {
+        "handle": "michaeljcloud",
+        "account_type": "campaign",
+        "evidence_url": "https://www.cloudforcongress.com/",
+        "evidence": "His campaign website cloudforcongress.com links to https://twitter.com/michaeljcloud."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "C001063",
+    "name": "Henry Cuellar",
+    "accounts": [],
+    "notes": "No campaign website was found in the search. LegiStorm (https://legistorm.com/person/bio/51338/Henry_Cuellar.html) says a campaign X link exists but hides it behind a Pro subscription; only the official RepCuellar is shown."
+  },
+  {
+    "id": "G000587",
+    "name": "Sylvia R. Garcia",
+    "accounts": [
+      {
+        "handle": "LaCongresista",
+        "account_type": "campaign",
+        "evidence_url": "https://sylviaforcongress.com/media",
+        "evidence": "Her campaign website sylviaforcongress.com links to https://x.com/LaCongresista."
+      }
+    ],
+    "notes": "The handle could be personal rather than strictly campaign; it is the X link on her campaign site."
+  },
+  {
+    "id": "C001130",
+    "name": "Jasmine Crockett",
+    "accounts": [],
+    "notes": "Search found coverage of her 2026 US Senate campaign launch but no campaign website URL or handle. Opened pages either failed (Daily Signal 403, Townhall 404, Dallas News did not load) or named no handle (thedailybs.com). Search summary says a December 2024 Dallas Morning News article mentions her campaign X account with about 370,000 followers, but no handle was confirmed."
+  }
+]

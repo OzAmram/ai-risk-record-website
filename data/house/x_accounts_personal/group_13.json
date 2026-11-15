@@ -1,0 +1,104 @@
+[
+ {
+  "id": "N000193",
+  "name": "Zachary Nunn",
+  "accounts": [
+   {
+    "handle": "nunnforcongress",
+    "account_type": "campaign",
+    "evidence_url": "https://zachnunn.com/",
+    "evidence": "Nunn's campaign website zachnunn.com links to twitter.com/nunnforcongress."
+   }
+  ],
+  "notes": "A search summary said the 2022 campaign used @NunnForCongress, which matches the link on the campaign site."
+ },
+ {
+  "id": "F000469",
+  "name": "Russ Fulcher",
+  "accounts": [],
+  "notes": "The campaign site russfulcher.com ('Paid for by Russ Fulcher for Idaho') showed no X/Twitter link in the fetched content, which may have been cut off. Unconfirmed lead: a search summary said ProPublica Politwoops lists an account 'RussFulcher' (dating from 2010), but the Politwoops page did not load its content, so this is not confirmed."
+ },
+ {
+  "id": "S001148",
+  "name": "Michael K. Simpson",
+  "accounts": [
+   {
+    "handle": "mikesimpson4id",
+    "account_type": "campaign",
+    "evidence_url": "https://www.simpsonforcongress.com/",
+    "evidence": "Simpson's campaign website simpsonforcongress.com (linked from the Idaho Republican Party candidate page) links to twitter.com/mikesimpson4id."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "J000309",
+  "name": "Jonathan L. Jackson",
+  "accounts": [],
+  "notes": "No campaign website found by the one search. Unconfirmed lead: a search summary said ProPublica Politwoops tracked an account 'CongressJackson' (D-Ill.) in April-November 2022, but the Politwoops page did not load its content, so this is not confirmed."
+ },
+ {
+  "id": "K000385",
+  "name": "Robin L. Kelly",
+  "accounts": [],
+  "notes": "Kelly ran for US Senate in 2026; her campaign site robinforsenate.com loaded without any X/Twitter links (the home page looked like an error or placeholder page from the site builder). An older House campaign site robinkellyforcongress.org appeared in search results but was not opened. No personal or campaign handle confirmed."
+ },
+ {
+  "id": "R000617",
+  "name": "Delia C. Ramirez",
+  "accounts": [
+   {
+    "handle": "DeliaRamirezIL",
+    "account_type": "campaign",
+    "evidence_url": "https://deliaforcongress.com/",
+    "evidence": "Ramirez's campaign website deliaforcongress.com links to x.com/DeliaRamirezIL in its header, menu and footer."
+   }
+  ],
+  "notes": "This handle may serve as both her personal and campaign account; it is listed as campaign because the campaign site links it."
+ },
+ {
+  "id": "G000586",
+  "name": "Jesús G. \"Chuy\" García",
+  "accounts": [
+   {
+    "handle": "Chuy4Congress",
+    "account_type": "campaign",
+    "evidence_url": "https://chuyforcongress.com/priorities",
+    "evidence": "The campaign website chuyforcongress.com links to twitter.com/Chuy4Congress."
+   }
+  ],
+  "notes": "Unconfirmed lead: a search summary said ProPublica Politwoops records an account 'ChuyChicago' for him (possibly personal); not opened or confirmed."
+ },
+ {
+  "id": "Q000023",
+  "name": "Mike Quigley",
+  "accounts": [],
+  "notes": "The campaign site quigleyforcongress.com links only to Facebook, with no X link. Unconfirmed lead: search summaries said a WTTW candidate profile lists twitter.com/QuigleyCampaign and Politwoops lists 'QuigleyCampaign', but the WTTW page returned HTTP 403, so this is not confirmed. A search summary also mentioned an opinion piece saying Quigley is running for Mayor of Chicago (not verified)."
+ },
+ {
+  "id": "C001117",
+  "name": "Sean Casten",
+  "accounts": [
+   {
+    "handle": "votecasten",
+    "account_type": "campaign",
+    "evidence_url": "https://castenforcongress.com",
+    "evidence": "Casten's campaign website castenforcongress.com links to twitter.com/votecasten."
+   }
+  ],
+  "notes": "Unconfirmed lead: a search summary said Politwoops also lists an account 'SeanCasten'; not opened or confirmed."
+ },
+ {
+  "id": "D000096",
+  "name": "Danny K. Davis",
+  "accounts": [
+   {
+    "handle": "DannyKDavis7",
+    "account_type": "campaign",
+    "evidence_url": "https://www.dannykdavis.com/",
+    "evidence": "Davis's campaign website dannykdavis.com (footer '© 2024 by Davis for Congress') links to twitter.com/DannyKDavis7."
+   }
+  ],
+  "notes": "The campaign site footer is dated 2024; the account may no longer be active."
+ }
+]

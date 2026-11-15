@@ -1,0 +1,77 @@
+[
+  {
+    "id": "M001218",
+    "name": "Richard McCormick",
+    "accounts": [
+      {"handle": "richforga", "account_type": "campaign", "evidence_url": "https://www.richmccormick.us/", "evidence": "His campaign website richmccormick.us links to twitter.com/richforga alongside the facebook.com/RichforGA page."}
+    ],
+    "notes": "Campaign site content looks partly dated (references Biden-era policy), but it is still his own campaign site."
+  },
+  {
+    "id": "S001189",
+    "name": "Austin Scott",
+    "accounts": [],
+    "notes": "Campaign site scottforga.com has a 'Follow Austin Scott on Twitter' section but no handle or link could be read from the fetched page (probably an embedded widget). Only Facebook (scottforgeorgia) was visible. No campaign X handle confirmed."
+  },
+  {
+    "id": "C001116",
+    "name": "Andrew S. Clyde",
+    "accounts": [],
+    "notes": "Campaign site clyde4congress.com links only to Facebook (Clyde4Congress); no X link found. No campaign or personal X handle confirmed."
+  },
+  {
+    "id": "C001129",
+    "name": "Mike Collins",
+    "accounts": [
+      {"handle": "MikeCollinsGA", "account_type": "campaign", "evidence_url": "https://pjmedia.com/chris-queen/2025/07/29/full-throttle-mike-collins-launches-senate-bid-with-serious-momentum-n4942190", "evidence": "A July 2025 PJ Media article on his US Senate campaign launch embeds several posts from @MikeCollinsGA as Collins's own posts."}
+    ],
+    "notes": "Collins is running for US Senate (2026). Unconfirmed lead from search summary only: @TeamOverhaulGA ('Mike Collins War Room', described as official team account for the campaign) - not verified on an opened page. Campaign website not identified."
+  },
+  {
+    "id": "L000583",
+    "name": "Barry Loudermilk",
+    "accounts": [],
+    "notes": "Wikipedia lists campaign sites standwithbarry.com and loudermilkforcongress.com (which redirects to standwithbarry.com); standwithbarry.com returned HTTP 403 so its links could not be read. LegiStorm says a campaign X account exists but shows the URL only to paid users. No handle confirmed."
+  },
+  {
+    "id": "A000372",
+    "name": "Rick W. Allen",
+    "accounts": [
+      {"handle": "RickAllen", "account_type": "campaign", "evidence_url": "https://www.rickwallen.com/", "evidence": "His campaign website rickwallen.com (listed as campaign site on his Wikipedia page) links to twitter.com/RickAllen and embeds a 'Tweets by @rickallen' feed."}
+    ],
+    "notes": "Handle is written as 'RickAllen' in the link and 'rickallen' in the embedded feed; same account. Generic name, but the link is on his own campaign site."
+  },
+  {
+    "id": "C001055",
+    "name": "Ed Case",
+    "accounts": [
+      {"handle": "EdCaseHawaii", "account_type": "campaign", "evidence_url": "https://edcase.com", "evidence": "His campaign website edcase.com links to twitter.com/EdCaseHawaii alongside Facebook VoteEdCase and Instagram edcasehawaii."}
+    ],
+    "notes": ""
+  },
+  {
+    "id": "T000487",
+    "name": "Jill N. Tokuda",
+    "accounts": [
+      {"handle": "jilltokuda", "account_type": "personal", "evidence_url": "https://www.tokudaforhawaii.com", "evidence": "Her campaign website tokudaforhawaii.com links to x.com/jilltokuda in its header navigation."},
+      {"handle": "tokudaforhawaii", "account_type": "campaign", "evidence_url": "https://www.tokudaforhawaii.com", "evidence": "Her campaign website tokudaforhawaii.com links to x.com/tokudaforhawaii in its footer."}
+    ],
+    "notes": "The campaign site links two different X accounts (header vs footer). 'personal' vs 'campaign' labels are inferred from the handle names, not stated on the page."
+  },
+  {
+    "id": "M001215",
+    "name": "Mariannette Miller-Meeks",
+    "accounts": [
+      {"handle": "millermeeks", "account_type": "campaign", "evidence_url": "https://drmillermeeks.com/", "evidence": "Her campaign website drmillermeeks.com links to x.com/millermeeks."}
+    ],
+    "notes": ""
+  },
+  {
+    "id": "H001091",
+    "name": "Ashley Hinson",
+    "accounts": [
+      {"handle": "hinsonashley", "account_type": "campaign", "evidence_url": "https://ashleyhinson.com/", "evidence": "Her campaign website ashleyhinson.com links to x.com/hinsonashley alongside Facebook AshleyHinsonIowa and Instagram hinsonforiowa."}
+    ],
+    "notes": "Hinson is running for US Senate (2026). ashleyhinson.com was taken from a search-result mention of her campaign site and then opened directly. Account may be personal rather than strictly campaign."
+  }
+]

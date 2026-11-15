@@ -2,31 +2,78 @@
   "bioguide": "L000595",
   "member": "Julia Letlow",
   "searches": [
-    "NOT RUN (web search budget exhausted): Julia Letlow artificial intelligence",
-    "NOT RUN (web search budget exhausted): \"Letlow\" \"AI safety\"",
-    "NOT RUN (web search budget exhausted): Julia Letlow superintelligence",
-    "NOT RUN (web search budget exhausted): Julia Letlow AI extinction OR \"existential risk\"",
-    "NOT RUN (web search budget exhausted): Julia Letlow AI moratorium OR pause OR slowdown",
-    "NOT RUN (web search budget exhausted): Julia Letlow AI China agreement OR treaty",
-    "NOT RUN (web search budget exhausted): artificial intelligence, restricted to letlow.house.gov",
     "Opened directly: letlow.house.gov/media/press-releases, listing pages 1 to 8 (all releases from January 2025 to 6 October 2026), titles and summaries checked for AI, technology, China, data centers",
     "Opened directly: letlow.house.gov releases of 13 July 2026 (Meta expansion), 17 September 2026 (Ratepayer Protection Act), 22 May 2025 (House passage of Trump agenda)",
     "Opened directly: julialetlow.com home, /issues, /policyplan, /press-statements",
     "Opened directly: en.wikipedia.org/wiki/Julia_Letlow (first 100,000 characters) and the WWNO article it cites, 10 August 2026",
-    "Failed to open: letlow.house.gov/search?search=artificial+intelligence (403), congress.gov member page filtered on artificial intelligence (403), govtrack.us member page (403), lailluminator.com site search (403), nola.com site search (blocked), knoe.com site search (rate-limited)"
+    "Failed to open: letlow.house.gov/search?search=artificial+intelligence (403), congress.gov member page filtered on artificial intelligence (403), govtrack.us member page (403), lailluminator.com site search (403), nola.com site search (blocked), knoe.com site search (rate-limited)",
+    "Julia Letlow artificial intelligence (run 15 November 2026)",
+    "\"Letlow\" \"AI safety\" (run 15 November 2026)",
+    "Julia Letlow superintelligence (run 15 November 2026)",
+    "Julia Letlow AI extinction OR \"existential risk\" (run 15 November 2026)",
+    "Julia Letlow AI moratorium OR pause OR slowdown (run 15 November 2026)",
+    "Julia Letlow AI China agreement OR treaty (run 15 November 2026)",
+    "artificial intelligence (allowed_domains: letlow.house.gov; the filter returned no letlow.house.gov pages) (run 15 November 2026)",
+    "site:letlow.house.gov artificial intelligence (follow-up; returned no letlow.house.gov pages) (run 15 November 2026)",
+    "\"Letlow\" AI \"threat to humanity\" OR \"humankind\" Louisiana Illuminator candidates regulation (follow-up) (run 15 November 2026)",
+    "Letlow Davis Senate AI regulation \"thoughtful approach\" Advocate October 2026 (follow-up) (run 15 November 2026)"
   ],
-  "statements": [],
+  "statements": [
+    {
+      "date": "2026-10-05",
+      "venue": "Written statement to the Louisiana Illuminator for a survey of Louisiana congressional candidates on AI",
+      "quote": "Government has a responsibility to protect Americans and put common-sense guardrails in place without overregulating this technology or allowing China to win the global AI race",
+      "context": "Asked about her stance on AI concerns and regulation as the Republican US Senate nominee; she gave no specifics on what regulation she would support.",
+      "source_label": "Louisiana Illuminator (Julie O'Donoghue and Elise Plunk), republished on Yahoo News, 5 October 2026",
+      "url": "https://www.yahoo.com/news/politics/articles/ai-apocalypse-most-louisiana-candidates-185628357.html",
+      "read_at_source": true,
+      "level": "D",
+      "flags": [
+        "unsure"
+      ],
+      "reason": "Talks about AI guardrails and the race with China but does not acknowledge catastrophic risk; competition with China is D under ruling 5."
+    }
+  ],
   "positions": {
-    "slowdown": {"value": "none", "note": "No statement found on slowing AI development.", "sources": []},
-    "pause": {"value": "none", "note": "No statement found on pausing AI development.", "sources": []},
-    "intl": {"value": "none", "note": "No statement found on an AI agreement or talks with China.", "sources": []},
-    "rsi": {"value": "none", "note": "No statement found on a ban on self-improving AI.", "sources": []}
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found on slowing AI development.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found on pausing AI development.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an AI agreement or talks with China.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
   },
   "record": [
-    ["Voted for H.R. 9340, the Ratepayer Protection Act, which requires data centers and other large electricity users to pay the full cost of new power; her release speaks of data centers and electricity bills and does not mention AI.", "House press release, 17 September 2026", "https://letlow.house.gov/media/press-releases/letlow-votes-ratepayer-protection-act"],
-    ["Issued a statement welcoming Meta's $50 billion expansion in Richland Parish, Louisiana, stressing that Meta would cover energy and water costs; the release does not mention AI.", "House press release, 13 July 2026", "https://letlow.house.gov/media/press-releases/letlow-statement-meta-expansion-northeast-louisiana"]
+    [
+      "Voted for H.R. 9340, the Ratepayer Protection Act, which requires data centers and other large electricity users to pay the full cost of new power; her release speaks of data centers and electricity bills and does not mention AI.",
+      "House press release, 17 September 2026",
+      "https://letlow.house.gov/media/press-releases/letlow-votes-ratepayer-protection-act"
+    ],
+    [
+      "Issued a statement welcoming Meta's $50 billion expansion in Richland Parish, Louisiana, stressing that Meta would cover energy and water costs; the release does not mention AI.",
+      "House press release, 13 July 2026",
+      "https://letlow.house.gov/media/press-releases/letlow-statement-meta-expansion-northeast-louisiana"
+    ],
+    [
+      "Voted yes on House passage of H.R. 1 (One Big Beautiful Bill Act), whose House version contained a 10-year moratorium on state AI laws; this was a vote on the whole budget bill, not a stand-alone AI vote, and the Senate later removed the moratorium.",
+      "House Clerk, Roll Call 145, 22 May 2025",
+      "https://clerk.house.gov/Votes/2025145"
+    ]
   ],
-  "suggested_grade": "none",
-  "grade_reason": "No statement by Letlow about AI itself was found in her official press releases since January 2025 or on her campaign site. This rests on a limited search: no web searches could be run, so news coverage, interviews and hearing remarks were largely not checked.",
-  "notes": "IMPORTANT LIMIT: all seven web searches were refused (shared session search budget used up), so none of the six required searches ran. The result is based only on pages opened directly. Checked: every press release title and summary on letlow.house.gov from January 2025 to October 2026 (full text read only for the three releases listed in searches); campaign site pages, which were cut off part-way by the fetch tool, so the issues list was not fully seen; Wikipedia article (last 18,000 characters not read). Not checked: news sites (nola.com, knoe.com, lailluminator.com searches all failed), congress.gov and govtrack bill lists (403), hearing remarks, floor speeches, interviews. 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: no source seen showing she signed or co-sponsored; she was a House member in September 2026, so a senators' letter would not be expected to carry her name, but her co-sponsorship of any House companion bill could not be checked. Her data center remarks (for example on the Ratepayer Protection Act and Meta) concern electricity costs and local economic growth, do not mention AI, and would be level D at most under ruling 5; they were left out of statements and listed in record instead. Pages were read through a fetch tool that summarises and limits quotations, so no quote from them was copied into statements. Background, not AI statements: WWNO reported on 10 August 2026 that she bought Meta and Nvidia shares after signing a non-disclosure agreement with a Meta subsidiary (https://www.wwno.org/local-regional-news/2026-08-10/rep-julia-letlow-bought-meta-stock-after-signing-an-nda-with-the-company-records-show). The May 2025 House budget bill she voted for reportedly contained a moratorium on state AI laws; her release on that vote does not mention it and I did not verify her vote from a roll call. A reviewer should rerun the web searches when the budget refills."
+  "suggested_grade": "D",
+  "grade_reason": "Her only quoted remark on AI found (October 2026) is about light-touch guardrails and beating China, with no acknowledgment of catastrophic risk. The same article reports, in the reporters' words only, that she doubted AI poses a true threat to humankind, which would be F if her own words were found, but no quote of that was found.",
+  "notes": "IMPORTANT LIMIT: all seven web searches were refused (shared session search budget used up), so none of the six required searches ran. The result is based only on pages opened directly. Checked: every press release title and summary on letlow.house.gov from January 2025 to October 2026 (full text read only for the three releases listed in searches); campaign site pages, which were cut off part-way by the fetch tool, so the issues list was not fully seen; Wikipedia article (last 18,000 characters not read). Not checked: news sites (nola.com, knoe.com, lailluminator.com searches all failed), congress.gov and govtrack bill lists (403), hearing remarks, floor speeches, interviews. 23 September 2026 senators' letter on AI talks with China and the Ban Artificial Superintelligence Act: no source seen showing she signed or co-sponsored; she was a House member in September 2026, so a senators' letter would not be expected to carry her name, but her co-sponsorship of any House companion bill could not be checked. Her data center remarks (for example on the Ratepayer Protection Act and Meta) concern electricity costs and local economic growth, do not mention AI, and would be level D at most under ruling 5; they were left out of statements and listed in record instead. Pages were read through a fetch tool that summarises and limits quotations, so no quote from them was copied into statements. Background, not AI statements: WWNO reported on 10 August 2026 that she bought Meta and Nvidia shares after signing a non-disclosure agreement with a Meta subsidiary (https://www.wwno.org/local-regional-news/2026-08-10/rep-julia-letlow-bought-meta-stock-after-signing-an-nda-with-the-company-records-show). The May 2025 House budget bill she voted for reportedly contained a moratorium on state AI laws; her release on that vote does not mention it and I did not verify her vote from a roll call. A reviewer should rerun the web searches when the budget refills. Searches rerun on 15 November 2026: 10 ran, none refused; 1 new statement. Corrections: None. The existing file said no statement about AI itself was found; the rerun found one (above), so the grade should move from none to D (or F, see notes). Notes from the rerun: IMPORTANT FOR REVIEWER: The Louisiana Illuminator article (5 October 2026, https://lailluminator.com/2026/10/05/ai-apocalypse-most-louisiana-candidates-for-congress-stay-vague-on-regulation/) states: 'Letlow and Chauna Banks, a Democrat in the 6th District race, also said they doubted AI poses a true threat to humankind.' This is the reporters' paraphrase, not her words, so it is left out of statements per the brief. If her written response (which the Illuminator may hold) contains words dismissing a threat to humankind, the grade would be F. A reviewer may want to ask the Illuminator or the campaign for the full response. Quote check: the lailluminator.com page and the newsfromthestates.com copy both returned 403; the quote was read on the Yahoo republication through a fetch tool that returned it in two segments ('...put common-sense guardrails in place without overregulating' / 'this technology or allowing China to win the global AI race'); a search-result summary of the Illuminator article shows the same wording as one continuous sentence, so I believe the joined quote is exact, but it should be checked against the original page (hence the 'unsure' flag). Also seen but not used: a Substack post (parallelintelligence.substack.com, Davis vs. Letlow, October 2026) citing The Advocate of 16 October 2026 says her campaign declined to answer questions on liability, safety testing, kill switches or autonomous weapons and offered a general statement favouring a 'thoughtful approach' without 'unnecessary regulations'; I could not find or open The Advocate piece, so this is not included. June 2026 remarks calling John Fleming's sharing of an AI deepfake video of her 'unconscionable' (WAFB, Fox 8) are about deepfakes in campaign ads, level D at most, not opened and not included. No source shows her signing the 23 September 2026 China letter (she was not a senator) or co-sponsoring the Ban Artificial Superintelligence Act. The roll call vote on H.R. 1 was verified on clerk.house.gov; that the House-passed bill contained the state AI-law moratorium is from the Substack post and widely reported 2025 coverage (search results), not read in the bill text by me."
 }

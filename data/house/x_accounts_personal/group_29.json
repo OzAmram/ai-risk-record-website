@@ -1,0 +1,125 @@
+[
+ {
+  "id": "T000463",
+  "name": "Michael R. Turner",
+  "accounts": [
+   {
+    "handle": "MikeTurnerOH",
+    "account_type": "campaign",
+    "evidence_url": "https://www.miketurner.com/",
+    "evidence": "The campaign site (footer 'Paid for by Citizens for Turner', linked from his Wikipedia page as 'Mike Turner for Congress') links to x.com/MikeTurnerOH."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "B001313",
+  "name": "Shontel M. Brown",
+  "accounts": [
+   {
+    "handle": "ShontelMBrown",
+    "account_type": "campaign",
+    "evidence_url": "https://shontelbrown.com/",
+    "evidence": "The campaign site 'Shontel Brown For Congress' (footer 'Paid for by Shontel Brown for Congress') links to twitter.com/ShontelMBrown."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "B001306",
+  "name": "Troy Balderson",
+  "accounts": [],
+  "notes": "The campaign site baldersonforcongress.com links only to twitter.com/repbalderson (the official handle already on file). Unconfirmed lead: a search result summary said ProPublica Politwoops listed a 'Troy_Balderson' account, but the opened Politwoops page was only an archive landing page and did not show it."
+ },
+ {
+  "id": "S001223",
+  "name": "Emilia Strong Sykes",
+  "accounts": [
+   {
+    "handle": "EmiliaSykesOH",
+    "account_type": "campaign",
+    "evidence_url": "https://emiliasykesforcongress.com/about",
+    "evidence": "The Emilia Sykes for Congress campaign site's About page links to twitter.com/EmiliaSykesOH."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "J000295",
+  "name": "David P. Joyce",
+  "accounts": [
+   {
+    "handle": "DaveJoyceOH14",
+    "account_type": "campaign",
+    "evidence_url": "https://joyceforcongress.com/bio",
+    "evidence": "The Joyce for Congress campaign site's bio page links to twitter.com/DaveJoyceOH14 under 'follow Dave on social media'."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "C001126",
+  "name": "Mike Carey",
+  "accounts": [
+   {
+    "handle": "MikeCareyOH15",
+    "account_type": "campaign",
+    "evidence_url": "https://careyforcongress.com/meet-mike-carey",
+    "evidence": "The Carey for Congress campaign site's footer links to twitter.com/MikeCareyOH15."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "B001317",
+  "name": "Josh Brecheen",
+  "accounts": [
+   {
+    "handle": "Brecheen4OK",
+    "account_type": "campaign",
+    "evidence_url": "https://joshbrecheen.com/",
+    "evidence": "The campaign site (disclaimer 'Paid for by Josh Brecheen For Congress') links to twitter.com/Brecheen4OK."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "L000491",
+  "name": "Frank D. Lucas",
+  "accounts": [
+   {
+    "handle": "FrankDLucas",
+    "account_type": "campaign",
+    "evidence_url": "https://frankdlucas.com/",
+    "evidence": "His campaign site frankdlucas.com links to twitter.com/FrankDLucas."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "C001053",
+  "name": "Tom Cole",
+  "accounts": [
+   {
+    "handle": "ColeForCongress",
+    "account_type": "campaign",
+    "evidence_url": "https://tomcoleforcongress.com/tom-cole-announces-run-for-reelection-2/",
+    "evidence": "A press release page on the Tom Cole for Congress campaign site links to twitter.com/ColeForCongress in its Connect section."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "B000740",
+  "name": "Stephanie I. Bice",
+  "accounts": [
+   {
+    "handle": "stephaniebice",
+    "account_type": "campaign",
+    "evidence_url": "https://biceforcongress.com/",
+    "evidence": "The Bice for Congress campaign site's 'Follow Me!' footer links to x.com/stephaniebice."
+   }
+  ],
+  "notes": "The account may be personal rather than campaign-run; it is labeled campaign because the campaign site links it."
+ }
+]

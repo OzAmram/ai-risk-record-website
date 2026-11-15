@@ -1,0 +1,103 @@
+[
+ {
+  "id": "G000553",
+  "name": "Al Green",
+  "accounts": [],
+  "notes": "Campaign site https://www.algreen.org/ (listed on Wikipedia) opened; the part of the page that could be read had no X/Twitter link, but the page was truncated so footer social icons could not be checked. He lost the May 2026 TX-18 Democratic primary runoff, per news results."
+ },
+ {
+  "id": "M001157",
+  "name": "Michael T. McCaul",
+  "accounts": [],
+  "notes": "Campaign site listed on Wikipedia (michaelmccaul.com) returned 404 with and without www. He did not seek re-election in 2026. A low-quality search result mentioned an 'Official Campaign Twitter for McCaul for Congress' without a handle; unconfirmed."
+ },
+ {
+  "id": "P000048",
+  "name": "August Pfluger",
+  "accounts": [],
+  "notes": "Campaign site https://www.augustpfluger.com/ (listed on Wikipedia) returned HTTP 403 Forbidden on every attempt, so no handle could be confirmed."
+ },
+ {
+  "id": "G000601",
+  "name": "Craig A. Goldman",
+  "accounts": [
+   {
+    "handle": "GoldmanCraig",
+    "account_type": "campaign",
+    "evidence_url": "https://www.craiggoldman.org/",
+    "evidence": "The campaign site, paid for by Craig Goldman for Congress, links to https://twitter.com/GoldmanCraig and embeds its timeline."
+   }
+  ],
+  "notes": "Account type labelled campaign because it is the account linked from the campaign site; it may be his long-running personal account."
+ },
+ {
+  "id": "J000304",
+  "name": "Ronny Jackson",
+  "accounts": [
+   {
+    "handle": "RonnyJacksonTX",
+    "account_type": "campaign",
+    "evidence_url": "https://www.teamronny.com/",
+    "evidence": "The current campaign site (paid for by Team Ronny, a committee including Texans for Ronny Jackson) links to https://x.com/RonnyJacksonTX."
+   },
+   {
+    "handle": "RonnyJackson4TX",
+    "account_type": "campaign",
+    "evidence_url": "https://ivoterguide.com/candidate/52180/race/6570/election/791",
+    "evidence": "His iVoterGuide candidate profile from the 2020 race lists Twitter https://twitter.com/RonnyJackson4TX alongside his campaign website ronnyjacksonfortexas13.com."
+   }
+  ],
+  "notes": "RonnyJackson4TX comes from a 2020-era profile and may be inactive; the old 2020 campaign domain now redirects to teamronny.com, which links RonnyJacksonTX instead."
+ },
+ {
+  "id": "W000814",
+  "name": "Randy K. Weber, Sr.",
+  "accounts": [
+   {
+    "handle": "WeberforTexas",
+    "account_type": "campaign",
+    "evidence_url": "https://www.randyweber.org/",
+    "evidence": "The campaign site, paid for by Weber for Congress, links to https://twitter.com/WeberforTexas."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "D000594",
+  "name": "Monica De La Cruz",
+  "accounts": [],
+  "notes": "Campaign site https://monicaforcongress.us/ opened (two pages); no X/Twitter link found. A Politwoops search result mentioned a deleted tweet from 'Monica De La Cruz-Hernandez for Congress' without showing the handle; unconfirmed."
+ },
+ {
+  "id": "E000299",
+  "name": "Veronica Escobar",
+  "accounts": [],
+  "notes": "Campaign site https://www.veronicaescobar.com/ (paid for by Veronica Escobar for Congress) opened; it has no X/Twitter link."
+ },
+ {
+  "id": "S000250",
+  "name": "Pete Sessions",
+  "accounts": [
+   {
+    "handle": "SessionsTX17",
+    "account_type": "campaign",
+    "evidence_url": "https://www.petesessions.com/",
+    "evidence": "The campaign site, paid for by Pete Sessions for Congress, links to https://twitter.com/SessionsTX17."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "A000375",
+  "name": "Jodey C. Arrington",
+  "accounts": [
+   {
+    "handle": "JodeyArrington",
+    "account_type": "campaign",
+    "evidence_url": "https://jodeyarrington.com/",
+    "evidence": "The campaign site, paid for by Texans for Jodey Arrington, links to https://twitter.com/JodeyArrington in its 'Follow Jodey on Social Media' section and footer."
+   }
+  ],
+  "notes": ""
+ }
+]

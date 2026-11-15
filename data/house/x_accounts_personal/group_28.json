@@ -1,0 +1,111 @@
+[
+ {
+  "id": "K000402",
+  "name": "Timothy M. Kennedy",
+  "accounts": [
+   {
+    "handle": "kennedyforny26",
+    "account_type": "campaign",
+    "evidence_url": "https://kennedyforuscongress.com",
+    "evidence": "The Kennedy for US Congress campaign website links to twitter.com/kennedyforny26 as its X account."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "L000601",
+  "name": "Greg Landsman",
+  "accounts": [
+   {
+    "handle": "greglandsman",
+    "account_type": "campaign",
+    "evidence_url": "https://www.landsmanforcongress.com",
+    "evidence": "The Landsman for Congress campaign website links to twitter.com/greglandsman as its X account."
+   }
+  ],
+  "notes": "The bare domain landsmanforcongress.com failed with a certificate error; the www version loaded. A search summary also mentioned an older handle 'votelandsman' (unconfirmed lead, not opened)."
+ },
+ {
+  "id": "T000490",
+  "name": "David J. Taylor",
+  "accounts": [],
+  "notes": "Campaign site davetaylorforcongress.com was opened and has no social media links. LegiStorm reportedly lists a campaign X account but the handle was not shown (behind a paywall)."
+ },
+ {
+  "id": "B001281",
+  "name": "Joyce Beatty",
+  "accounts": [
+   {
+    "handle": "JoyceBeatty",
+    "account_type": "campaign",
+    "evidence_url": "https://beattyforcongress.com/",
+    "evidence": "The Beatty for Congress campaign website links to twitter.com/JoyceBeatty in its header and Stay Connected section."
+   }
+  ],
+  "notes": "Campaign site URL taken from the Wikipedia article's campaign website link."
+ },
+ {
+  "id": "J000289",
+  "name": "Jim Jordan",
+  "accounts": [],
+  "notes": "Campaign site jimjordanforcongress.com (from Wikipedia infobox) was opened and has no social media links. The handle on file, Jim_Jordan, appears to function as his main personal account already."
+ },
+ {
+  "id": "L000566",
+  "name": "Robert E. Latta",
+  "accounts": [
+   {
+    "handle": "latta4congress",
+    "account_type": "campaign",
+    "evidence_url": "https://www.lattaforcongress.com/",
+    "evidence": "The Latta for Congress campaign website links to twitter.com/latta4congress as its X account."
+   }
+  ],
+  "notes": "Campaign site URL taken from the Wikipedia article. Activity of latta4congress was not checked."
+ },
+ {
+  "id": "R000619",
+  "name": "Michael A. Rulli",
+  "accounts": [
+   {
+    "handle": "michaelrulli",
+    "account_type": "campaign",
+    "evidence_url": "https://www.michaelrulli.com/",
+    "evidence": "The Michael Rulli campaign website links to twitter.com/michaelrulli in its Follow Michael and Join Team Rulli sections."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "M001222",
+  "name": "Max L. Miller",
+  "accounts": [
+   {
+    "handle": "MaxMillerOH",
+    "account_type": "campaign",
+    "evidence_url": "https://votemaxmiller.com/",
+    "evidence": "The Vote Max Miller campaign website links to twitter.com/MaxMillerOH and displays the handle @MAXMILLEROH."
+   }
+  ],
+  "notes": ""
+ },
+ {
+  "id": "D000626",
+  "name": "Warren Davidson",
+  "accounts": [],
+  "notes": "Campaign site davidsonforcongress.com links to x.com/WarrenDavidson, which is already the handle on file; no other X account found."
+ },
+ {
+  "id": "K000009",
+  "name": "Marcy Kaptur",
+  "accounts": [
+   {
+    "handle": "Marcy_Kaptur",
+    "account_type": "campaign",
+    "evidence_url": "https://marcykaptur.com/",
+    "evidence": "Marcy Kaptur's campaign website links to twitter.com/Marcy_Kaptur as its X account."
+   }
+  ],
+  "notes": "Campaign site URL found via an Erie County Democrats page (eriecountydems.org/?p=16900), which also lists Marcy_Kaptur."
+ }
+]

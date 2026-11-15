@@ -1,0 +1,32 @@
+[
+ {"id": "W000822", "name": "Bonnie Watson Coleman", "accounts": [
+   {"handle": "BWatsonColeman", "account_type": "personal", "evidence_url": "http://www.bonnieforcongress.com/", "evidence": "Her campaign website (bonnieforcongress.com, listed as her campaign site on Wikipedia) links to https://twitter.com/BWatsonColeman."}
+  ], "notes": "Campaign site found via the Wikipedia infobox link, not directly in the search results. The search summary said she announced in November 2025 that she would not run again in 2026, so this campaign site and account may be inactive. Type set to personal because the handle is her name rather than a campaign label."},
+ {"id": "S001218", "name": "Melanie A. Stansbury", "accounts": [
+   {"handle": "MelanieforNM", "account_type": "campaign", "evidence_url": "https://www.melaniefornewmexico.com/", "evidence": "Her campaign website (melaniefornm.com redirects here) links to https://x.com/MelanieforNM."}
+  ], "notes": ""},
+ {"id": "V000136", "name": "Gabe Vasquez", "accounts": [
+   {"handle": "gabe_NM", "account_type": "personal", "evidence_url": "https://gabeforcongress.com", "evidence": "His campaign website gabeforcongress.com links to https://x.com/gabe_NM."}
+  ], "notes": "Linked from the campaign site; type set to personal because the handle is his name rather than a campaign label."},
+ {"id": "L000273", "name": "Teresa Leger Fernandez", "accounts": [
+   {"handle": "TeresaForNM", "account_type": "campaign", "evidence_url": "https://www.teresaforall.com", "evidence": "Her campaign website teresaforall.com links to https://twitter.com/TeresaForNM."}
+  ], "notes": "Also confirmed on a Democrats Abroad page (https://www.democratsabroad.org/349625/women_to_win_teresa_leger_fernandez_nm-03) listing @TeresaForNM."},
+ {"id": "T000468", "name": "Dina Titus", "accounts": [
+   {"handle": "dinatitus", "account_type": "personal", "evidence_url": "http://www.dinatitus.com/", "evidence": "Her campaign website dinatitus.com (listed as her campaign site on Wikipedia) links to https://x.com/dinatitus."}
+  ], "notes": "Campaign site found via the Wikipedia infobox link. Type set to personal because the handle is her name; it is linked from the campaign site."},
+ {"id": "A000369", "name": "Mark E. Amodei", "accounts": [
+   {"handle": "amodeifornevada", "account_type": "campaign", "evidence_url": "https://amodeifornevada.com", "evidence": "His campaign website amodeifornevada.com links to https://twitter.com/amodeifornevada."}
+  ], "notes": "Search summary says he announced his retirement (2026 cycle), so the campaign account may be inactive."},
+ {"id": "L000590", "name": "Susie Lee", "accounts": [
+   {"handle": "susieleenv", "account_type": "campaign", "evidence_url": "https://susieleeforcongress.com/", "evidence": "Her campaign website susieleeforcongress.com links to https://twitter.com/susieleenv in its Follow us section and footer."}
+  ], "notes": ""},
+ {"id": "H001066", "name": "Steven Horsford", "accounts": [
+   {"handle": "stevenhorsford", "account_type": "personal", "evidence_url": "https://www.stevenhorsford.com/", "evidence": "His campaign website stevenhorsford.com links to https://x.com/stevenhorsford."}
+  ], "notes": "Type set to personal because the handle is his name; it is linked from the campaign site."},
+ {"id": "L000598", "name": "Nick LaLota", "accounts": [
+   {"handle": "nicklalota", "account_type": "personal", "evidence_url": "https://www.nicklalota.com/", "evidence": "His campaign website nicklalota.com links to https://x.com/nicklalota/."}
+  ], "notes": "Campaign site found via the Wikipedia infobox link. Type set to personal because the handle is his name; it is linked from the campaign site."},
+ {"id": "G000597", "name": "Andrew R. Garbarino", "accounts": [
+   {"handle": "garbarinoforny", "account_type": "campaign", "evidence_url": "https://www.garbarinoforny.com", "evidence": "His campaign website garbarinoforny.com links to https://twitter.com/garbarinoforny in its header and footer."}
+  ], "notes": "Campaign site found via the Wikipedia infobox link."}
+]

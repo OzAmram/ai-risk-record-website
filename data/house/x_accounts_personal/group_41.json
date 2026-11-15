@@ -1,0 +1,15 @@
+[
+  {
+    "id": "M001235",
+    "name": "Riley M. Moore",
+    "accounts": [
+      {
+        "handle": "rileymoorewv",
+        "account_type": "campaign",
+        "evidence_url": "https://www.mooreforwv.com/about",
+        "evidence": "The campaign website of Riley M. Moore (footer: Paid for by Moore for West Virginia, Inc.) links to x.com/rileymoorewv as its X account."
+      }
+    ],
+    "notes": "Handle written in lower case in the campaign site's link; a search summary rendered it as RileyMooreWV (the same account, X handles ignore case). It may serve as his personal political account rather than a strictly campaign one; labeled campaign because it is linked from the campaign site."
+  }
+]

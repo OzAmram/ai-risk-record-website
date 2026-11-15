@@ -1,0 +1,118 @@
+[
+  {
+    "id": "R000599",
+    "name": "Raul Ruiz",
+    "accounts": [
+      {
+        "handle": "Dr_RaulRuiz",
+        "account_type": "campaign",
+        "evidence_url": "https://drraulruiz.com/",
+        "evidence": "The campaign site, whose footer reads 'Paid for by Dr. Raul Ruiz for Congress Committee', links to twitter.com/Dr_RaulRuiz."
+      }
+    ],
+    "notes": "Old archived pages (2018-2019) show an earlier handle @CongressmanRuiz; I did not open a page confirming it is still his, so I left it out."
+  },
+  {
+    "id": "B001285",
+    "name": "Julia Brownley",
+    "accounts": [
+      {
+        "handle": "JuliaBrownley",
+        "account_type": "campaign",
+        "evidence_url": "https://juliabrownley.com/",
+        "evidence": "The campaign site (listed on Wikipedia as her campaign website; footer reads 'Paid for by Julia Brownley for Congress') links to twitter.com/JuliaBrownley."
+      }
+    ],
+    "notes": "Campaign site URL was found through her Wikipedia page, not the search. Search results showed archived pages for @JuliaBrownley26 (2016-2018), an older handle; unconfirmed and not included."
+  },
+  {
+    "id": "W000830",
+    "name": "George Whitesides",
+    "accounts": [
+      {
+        "handle": "gtwhitesides",
+        "account_type": "personal",
+        "evidence_url": "https://www.georgewhitesides.com/",
+        "evidence": "The campaign site, whose footer reads 'Paid for by George Whitesides for Congress', links to twitter.com/gtwhitesides."
+      }
+    ],
+    "notes": "Linked from the campaign site, but the handle looks like his long-standing personal account (he was a space-industry executive before Congress), so I labelled it personal; it may be better called campaign."
+  },
+  {
+    "id": "C001080",
+    "name": "Judy Chu",
+    "accounts": [
+      {
+        "handle": "judychucampaign",
+        "account_type": "campaign",
+        "evidence_url": "https://www.judychu.org/",
+        "evidence": "The campaign site (listed on Wikipedia as her campaign website; footer reads 'Paid for and authorized by Judy Chu for Congress') links to twitter.com/judychucampaign."
+      }
+    ],
+    "notes": "Campaign site URL was found through her Wikipedia page, not the search."
+  },
+  {
+    "id": "R000620",
+    "name": "Luz M. Rivas",
+    "accounts": [
+      {
+        "handle": "Luzrivas",
+        "account_type": "campaign",
+        "evidence_url": "https://www.luzforcongress.com/",
+        "evidence": "The campaign site, whose footer reads 'Paid for by Luz Rivas for Congress', links to x.com/Luzrivas."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "F000483",
+    "name": "Laura Friedman",
+    "accounts": [
+      {
+        "handle": "LauraFriedmanCA",
+        "account_type": "campaign",
+        "evidence_url": "https://lauraforcongress.org/",
+        "evidence": "The campaign site, whose footer reads 'Paid for by Laura Friedman for Congress', links to twitter.com/LauraFriedmanCA."
+      }
+    ],
+    "notes": "Campaign site URL came from a Jewish Virtual Library page shown in the search results."
+  },
+  {
+    "id": "C001123",
+    "name": "Gilbert Ray Cisneros, Jr.",
+    "accounts": [],
+    "notes": "Campaign site appears to be gilonthehill.com, but every page I tried returned HTTP 403 Forbidden, so I could not check its X link. A KFI AM 640 candidate page I opened gave no handle. Not found, not confirmed absent."
+  },
+  {
+    "id": "S000344",
+    "name": "Brad Sherman",
+    "accounts": [],
+    "notes": "The campaign site bradsherman.com ('Paid for by Sherman for Congress') has no X/Twitter link (only Facebook, YouTube, Flickr). The handle on file, BradSherman, appears to be his long-running own account rather than a House-office account; no other handle found."
+  },
+  {
+    "id": "A000371",
+    "name": "Pete Aguilar",
+    "accounts": [
+      {
+        "handle": "PeteAguilar",
+        "account_type": "campaign",
+        "evidence_url": "https://peteaguilar.com/",
+        "evidence": "The campaign site, whose footer reads 'Paid for by Pete Aguilar for Congress', links to twitter.com/PeteAguilar."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "G000585",
+    "name": "Jimmy Gomez",
+    "accounts": [
+      {
+        "handle": "jimmygomezca",
+        "account_type": "campaign",
+        "evidence_url": "https://jimmygomezforcongress.com/",
+        "evidence": "The campaign site (listed on Wikipedia as his campaign website; footer reads 'Paid for by Jimmy Gomez for Congress') links to twitter.com/jimmygomezca."
+      }
+    ],
+    "notes": "Campaign site URL was found through his Wikipedia page, not the search."
+  }
+]

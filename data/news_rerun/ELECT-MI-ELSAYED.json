@@ -1,0 +1,79 @@
+{
+ "bioguide": "ELECT-MI-ELSAYED",
+ "member": "Abdul El-Sayed",
+ "searches_run": [
+  "Abdul El-Sayed artificial intelligence superintelligence",
+  "\"El-Sayed\" \"AI safety\" Michigan Senate",
+  "Abdul El-Sayed AI extinction OR \"existential risk\" OR \"existential threat\"",
+  "Abdul El-Sayed AI pause OR moratorium OR slowdown data centers",
+  "Abdul El-Sayed AI China agreement OR treaty OR \"arms race\"",
+  "site:abdulforsenate.com AI policy"
+ ],
+ "searches_refused": [],
+ "new_statements": [
+  {
+   "date": "2026-06-09",
+   "venue": "Interview with Bridge Michigan",
+   "quote": "But no other industry has the potential to fundamentally change the nature of the social contract, or cause human demise to the level that AI is offering.",
+   "context": "Explaining why he backs public ownership and utility-style regulation of AI companies, answering critics who call that too intense.",
+   "source_label": "Bridge Michigan (Lauren Gibbons), 9 June 2026",
+   "url": "https://bridgemi.com/michigan-government/abdul-el-sayed-calls-for-public-ownership-of-ai-citing-risk-of-human-demise/",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "Says in his own words that AI has the potential to cause human demise, a threat to humanity (ruling 1)."
+  },
+  {
+   "date": "2026-09-09",
+   "venue": "Statement reported by Common Dreams (said Wednesday; medium not stated, possibly his social media video)",
+   "quote": "We cannot, in a race against China or a race for these corporations to be the dominant AI manufacturer, inadvertently create products that slip human control, that could fall into the wrong hands, that could mean the demise of humanity.",
+   "context": "Reacting to an Anthropic researcher's resignation and backing a pause in advanced AI development.",
+   "source_label": "Common Dreams, 10 September 2026",
+   "url": "https://www.commondreams.org/news/el-sayed-ai-pause",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [],
+   "reason": "Says AI products that slip human control could mean the demise of humanity."
+  },
+  {
+   "date": "2026-10-13",
+   "venue": "Interview with The New York Times, as quoted by Common Dreams",
+   "quote": "I understand that there’s a lot of money being sloshed around by AI super PACs, but this is the existential crisis of our time",
+   "context": "Speaking on the day he released his 'AI Under Control' plan; followed by 'If we don’t act quickly, we may get to a point at which we cannot act because it’s too late.'",
+   "source_label": "Common Dreams quoting The New York Times, 13 October 2026",
+   "url": "https://www.commondreams.org/news/abdul-el-sayed-ai",
+   "read_at_source": true,
+   "level": "A",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls AI the existential crisis of our time; 'existential' is close to a threat-to-humanity claim but could be read as rhetorical emphasis, so boundary with B."
+  },
+  {
+   "date": "2026-09-09",
+   "venue": "Interview with The Washington Sun, as quoted by the Washington Examiner",
+   "quote": "except for you don’t have control over what you’re creating now, and you beating them may, in the interim, create technology we actually can’t keep hold of?",
+   "context": "Rejecting the argument that the US must race China on AI; the sentence begins 'So you’re telling me that you’re going to race forward into a technology you don’t really understand...'",
+   "source_label": "Washington Examiner, 9 September 2026",
+   "url": "https://www.washingtonexaminer.com/?p=4719435",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Names loss of control over AI as a risk of racing China, without saying the loss would be permanent or fatal."
+  }
+ ],
+ "position_changes": {},
+ "new_record_items": [
+  [
+   "Announced support for a legislative 'kill switch' requiring AI companies to be able to fully shut down their models, as part of his 'AI Under Control' plan (reported alongside Sen. John Kennedy's kill switch bill; no source shows he endorsed a specific bill).",
+   "The National News Desk (Sinclair), 13 October 2026",
+   "https://kmph.com/news/nation-world/senate-seeker-michan-democrat-abdul-el-sayed-digs-in-against-ai-backs-kill-switch-bill-republican-mike-rogers-2026-midterm-elections"
+  ]
+ ],
+ "suggested_grade": "A",
+ "grade_reason": "Unchanged at A. Independent news reports now confirm the campaign-site statements: he told Bridge Michigan in June 2026 that AI could cause 'human demise' and said in September that AI slipping human control 'could mean the demise of humanity'.",
+ "corrections": "",
+ "notes": "All six searches ran; none refused. No follow-up searches were used; I opened pages found in the results directly (downloaded the HTML with curl into this scratch folder's pages/ subfolder and checked each quote by script as an exact continuous passage). New sources are independent news outlets, which partly addresses the old file's concern that every source was the campaign site. The Washington Examiner page independently matches the existing 'hit pause' Washington Sun quote word for word, which supports the campaign's transcription. The New York Times article (13 October 2026) was not opened directly: the GV Wire republication returned error 403 and I did not try nytimes.com; the 'existential crisis' quote is taken from Common Dreams, which attributes it to The New York Times. Its 'Tuesday' date is 13 October 2026. The Common Dreams 'demise of humanity' quote is dated 'Wednesday' in an article published 10 September 2026, i.e. 9 September 2026; the medium is not stated. Its sentence 'He quit because he's worried that the technology that he was building could end humanity.' plus 'That's something we should be paying attention to' (social media video) is a relayed and endorsed warning (would be A with relayed_warning) but is redundant and was left out. Bridge Michigan also quotes him (9 June 2026): 'Imagine what happens if the public owns half the stock, but then we don't actually enforce the safety requirements and something catastrophic happens' (level C, left out as weaker). Washington Examiner paraphrase that he called this a 'break glass moment' left out. The China search found no El-Sayed statement on a China agreement beyond what is already recorded from his plan. No source showed he signed the 23 September 2026 letter (he is not on the verified signer list) or co-sponsored the Ban Artificial Superintelligence Act (he was a candidate). Reports by Crypto Briefing and Puck seen only in search results, not opened. The 13 October Common Dreams page also carries the 'rogue AI agents...nuclear crisis or deploying bioweapons' quote already in the file, as said aloud on Tuesday, confirming it."
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "W000797",
+    "name": "Debbie Wasserman Schultz",
+    "accounts": [
+      {"handle": "DWStweets", "account_type": "personal", "evidence_url": "https://debbiewassermanschultz.com/", "evidence": "Her campaign website links to https://x.com/DWStweets in its header and footer."}
+    ],
+    "notes": "Labelled personal because the handle is her name-based account rather than a campaign-named one; it is the X account her campaign site links. Campaign site says she is running in the redrawn FL-20."
+  },
+  {
+    "id": "D000600",
+    "name": "Mario Diaz-Balart",
+    "accounts": [
+      {"handle": "MarioDBCamp", "account_type": "campaign", "evidence_url": "https://mariodiazbalart.org/", "evidence": "The 'Mario Diaz-Balart for Congress 2026' campaign website links to https://x.com/MarioDBCamp."}
+    ],
+    "notes": ""
+  },
+  {
+    "id": "S000168",
+    "name": "Maria Elvira Salazar",
+    "accounts": [
+      {"handle": "MaElviraSalazar", "account_type": "personal", "evidence_url": "https://mariaelvirasalazar.com/", "evidence": "Her campaign website links to https://twitter.com/MaElviraSalazar in its header and footer."}
+    ],
+    "notes": "Name-based account linked from the campaign site; labelled personal."
+  },
+  {
+    "id": "G000593",
+    "name": "Carlos A. Gimenez",
+    "accounts": [
+      {"handle": "CarlosGimenezFL", "account_type": "campaign", "evidence_url": "https://carlosgimenezforcongress.com", "evidence": "His campaign website (Carlos Gimenez for Congress) links to https://twitter.com/CarlosGimenezFL."}
+    ],
+    "notes": "Labelled campaign because it is the account linked from the campaign site; it may also serve as his personal account."
+  },
+  {
+    "id": "C001103",
+    "name": "Earl L. \"Buddy\" Carter",
+    "accounts": [
+      {"handle": "buddy_carter", "account_type": "campaign", "evidence_url": "https://thecurrentga.org/2021/01/13/follow-georgia-u-s-house-district-1-buddy-carter/", "evidence": "A 2021 article from The Current GA lists his official feed as twitter.com/RepBuddyCarter and his campaign feed as twitter.com/buddy_carter."}
+    ],
+    "notes": "Evidence is from 2021; did not find his current campaign site. Carter ran for US Senate in 2026, so his campaign account may have changed or been renamed; not confirmed as current."
+  },
+  {
+    "id": "B000490",
+    "name": "Sanford D. Bishop, Jr.",
+    "accounts": [
+      {"handle": "Bishop4Congress", "account_type": "campaign", "evidence_url": "https://sanfordbishop.com/", "evidence": "His campaign website links to https://twitter.com/Bishop4Congress."}
+    ],
+    "notes": "Search summary (Politwoops) said the account was tracked 2011-2014; the campaign site still links it but it may be inactive."
+  },
+  {
+    "id": "J000311",
+    "name": "Brian Jack",
+    "accounts": [
+      {"handle": "briantjack", "account_type": "personal", "evidence_url": "https://brianjack.com/", "evidence": "His campaign website (Brian Jack for Congress) links to https://x.com/briantjack in its header and footer."}
+    ],
+    "notes": "Handle written lowercase on the page; other sources write it as BrianTJack."
+  },
+  {
+    "id": "J000288",
+    "name": "Henry C. \"Hank\" Johnson, Jr.",
+    "accounts": [
+      {"handle": "HankJohnsonGA", "account_type": "campaign", "evidence_url": "https://hankforcongress.com/", "evidence": "His campaign website, named as hankforcongress.com in an On Common Ground News article on his 2026 qualifying, links to https://twitter.com/HankJohnsonGA."}
+    ],
+    "notes": "Campaign site URL found via https://ocgnews.com/congressman-hank-johnson-qualifies-for-2026-re-election/."
+  },
+  {
+    "id": "W000788",
+    "name": "Nikema Williams",
+    "accounts": [
+      {"handle": "NikemaWilliams", "account_type": "personal", "evidence_url": "https://nikemaforcongress.com/", "evidence": "Her campaign website links to https://twitter.com/NikemaWilliams in its header, mobile menu and footer."}
+    ],
+    "notes": "Name-based account linked from the campaign site; labelled personal, but it serves as her campaign's X link."
+  },
+  {
+    "id": "M001208",
+    "name": "Lucy McBath",
+    "accounts": [
+      {"handle": "lucymcbath", "account_type": "personal", "evidence_url": "https://lucyforcongress.com/", "evidence": "Her campaign website links to http://twitter.com/lucymcbath in its header and footer."}
+    ],
+    "notes": "Name-based account linked from the campaign site; labelled personal."
+  }
+]

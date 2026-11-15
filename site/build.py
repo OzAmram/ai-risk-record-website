@@ -31,6 +31,7 @@ STATUS_PLACEHOLDER = "const STATUS = {}; /*STATUS*/"
 MAP_PLACEHOLDER = "const STATE_PATHS = {}; /*STATE_PATHS*/"
 HOUSE_PLACEHOLDER = "const XHOUSE = []; /*XHOUSE*/"
 ZIPS_PLACEHOLDER = "const ZIPS = {}; /*ZIPS*/"
+ZIPS_NEXT_PLACEHOLDER = "const ZIPS_NEXT = {}; /*ZIPS_NEXT*/"
 STATES = {"AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California", "CO": "Colorado",
           "CT": "Connecticut", "DE": "Delaware", "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho",
           "IL": "Illinois", "IN": "Indiana", "IA": "Iowa", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
@@ -54,14 +55,23 @@ parser.add_argument("--since", required=True, help="Start of the collection peri
 parser.add_argument("--news", help="Folder of news search files, one per politician")
 parser.add_argument("--quote-check", help="Output of classify/check_news_quotes.py")
 parser.add_argument("--quote-review", help="Results of the second check of quotes the automatic check missed (data/quote_review/results.csv)")
-parser.add_argument("--summaries", required=True, help="CSV with one written sentence per drafted record, shown after the grade")
+parser.add_argument("--summaries", required=True, help="CSV (bioguide, summary, grade) with one written sentence per drafted record, shown after the grade, "
+                    "and the grade the sentence was written for; the build stops if a record's grade has changed since")
 parser.add_argument("--relevance", required=True, help="Folder of relevance decisions for posts labelled D")
 parser.add_argument("--status", help="CSV marking senators-elect and lame-duck senators")
 parser.add_argument("--grade-overrides", help="CSV of grades ruled by a person, which replace the drafted grade")
 parser.add_argument("--house", help="House records written by site/house_records.py")
+parser.add_argument("--house-roster", help="House roster (data/house/roster.csv), used to mark senators-elect who are sitting representatives")
 parser.add_argument("--zips", required=True, help="Zip code lookup table written by site/make_zip_districts.py")
+parser.add_argument("--zips-next", required=True, help="The same table for the districts used in the November 2026 elections, written by site/make_zip_districts_blocks.py")
 parser.add_argument("--map", required=True, help="State outlines written by site/make_map.py")
 args = parser.parse_args()
+
+house_seat = {}
+if args.house_roster:
+    with open(args.house_roster, newline="") as f:
+        house_seat = {r["bioguide"]: f"{STATES[r['state']]}, " + ("at large" if r["district"] == "0" else f"district {r['district']}")
+                      for r in csv.DictReader(f)}
 
 
 def show_date(iso):
@@ -190,7 +200,8 @@ def draft_record(account, rows, found):
     for field, column in POLICIES.items():
         stated = sorted((r for r in rows if r[column] != "none"), key=lambda r: r["date"], reverse=True)
         values = {r[column] for r in stated}
-        value = ("none" if not values else "mixed" if {"yes", "no"} <= values or values == {"mixed"} or "mixed" in values and "yes" not in values
+        # Same rule as site/house_records.py: posts that disagree, or any post labelled mixed, give Mixed.
+        value = ("none" if not values else "mixed" if {"yes", "no"} <= values or "mixed" in values
                  else "yes" if "yes" in values else "no")
         pos[field] = ([value, f"Stated in {len(stated)} post{'s' if len(stated) != 1 else ''} on X.",
                        [[f"X post, {show_date(r['date'])}", r["url"]] for r in stated[:3]]]
@@ -220,15 +231,18 @@ def draft_record(account, rows, found):
     return {
         "id": page_id[account["bioguide"]], "bioguide": account["bioguide"], "name": account["member"],
         "seat": f"{account['party']} · {STATES[account['state']]}", "grade": grade, "why": why,
-        "flag": f"Machine-drafted record. The grade, positions and quotes come from a language model working from {searched}, "
-                "The grade has been reviewed by a person (Oz); the positions and quotes have not been checked by a person.",
+        "flag": f"The grade, positions and quotes come from a language model working from {searched}. "
+                "The grade has been reviewed by a person; the positions and quotes have had automatic checks only.",
         "pos": pos, "stmts": stmts, "record": found["record"] if found else [],
         "gaps": [] if found else ["Only X posts have been searched."],
+        # A senator-elect who is a sitting representative also belongs to the current House:
+        # "house" is their district, in the form used at the end of a House record's "seat".
+        **({"house": house_seat[account["bioguide"]]} if account["bioguide"] in house_seat else {}),
     }
 
 
 with open(args.summaries, newline="") as f:
-    summaries = {r["bioguide"]: r["summary"] for r in csv.DictReader(f)}
+    summaries = {r["bioguide"]: r for r in csv.DictReader(f)}
 
 ruled = {}
 if args.grade_overrides:
@@ -245,15 +259,19 @@ for account in accounts:
     drafted.append(draft_record(account, by_senator.get(page_id[b], []), news.get(b)))
     if b not in summaries:
         raise SystemExit(f"No summary sentence for {account['member']} ({b}) in {args.summaries}")
-    drafted[-1]["why"] = summaries[b]
+    drafted[-1]["why"] = summaries[b]["summary"]
     if b in ruled:
         d, r = drafted[-1], ruled.pop(b)
         print(f"Grade ruling applied: {d['name']} drafted {d['grade']}, ruled {r['grade']}")
-        was = "the machine draft agreed" if d["grade"] == r["grade"] else f"the machine draft was {d['grade']}"
-        d["flag"] = (f"Grade {r['grade']} was set by Oz on {r['date']} ({was}). {r['reason']} "
+        was = "the model's grade agreed" if d["grade"] == r["grade"] else f"the model's grade was {d['grade']}"
+        d["flag"] = (f"Grade {r['grade']} was set by a human reviewer on {r['date']} ({was}). {r['reason']} "
                      + d["flag"].replace("The grade, positions and quotes come", "The positions and quotes come"))
         d["grade"] = r["grade"]
 print(len(drafted), "records drafted:", " ".join(f"{d['id']}={d['grade']}" for d in drafted))
+stale = [f"{d['name']} ({d['bioguide']}): sentence written for {summaries[d['bioguide']].get('grade') or 'no grade'}, grade is now {d['grade']}"
+         for d in drafted if summaries[d["bioguide"]].get("grade") != d["grade"]]
+if stale:
+    raise SystemExit(f"Summary sentences in {args.summaries} written for a different grade; rewrite each sentence and update its grade:\n  " + "\n  ".join(stale))
 if ruled:
     raise SystemExit(f"Grade rulings for people with no drafted record: {sorted(ruled)}")
 unused = set(news) - seen
@@ -264,7 +282,7 @@ status = {}
 if args.status:
     with open(args.status, newline="") as f:
         for r in csv.DictReader(f):
-            if r["status"] not in ("senator-elect", "lame duck"):
+            if r["status"] not in ("senator-elect", "lame duck", "race undecided"):
                 raise SystemExit(f"Unknown status: {r}")
             status[page_id[r["bioguide"]]] = {"kind": r["status"], "note": r["note"], "label": r["source_label"], "url": r["source_url"]}
 
@@ -274,14 +292,20 @@ if {r["id"] for r in house_records} & set(page_id.values()):
 for r in house_records:  # marks for representatives-elect and members not returning
     if "status" in r:
         status[r["id"]] = r.pop("status")
-for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER, HOUSE_PLACEHOLDER, ZIPS_PLACEHOLDER):
+for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER, HOUSE_PLACEHOLDER, ZIPS_PLACEHOLDER, ZIPS_NEXT_PLACEHOLDER):
     if template.count(placeholder) != 1:
         raise SystemExit(f"Template must contain exactly one line: {placeholder}")
+# Only the zip codes whose districts differ in the next House are put on the page.
+zips_now, zips_new = json.load(open(args.zips)), json.load(open(args.zips_next))
+if zips_now["states"] != zips_new["states"]:
+    raise SystemExit("The two zip code tables list states differently")
+zips_next = {z: d for z, d in zips_new["zips"].items() if d != zips_now["zips"].get(z)}
 as_js = lambda value: json.dumps(value, ensure_ascii=False).replace("</", "<\\/")
 with open(args.out, "w") as f:
     f.write(template.replace(PLACEHOLDER, f"const XPOSTS = {as_js(data)};")
             .replace(SENATORS_PLACEHOLDER, f"const XSENATORS = {as_js(drafted)};")
             .replace(STATUS_PLACEHOLDER, f"const STATUS = {as_js(status)};")
+            .replace(ZIPS_NEXT_PLACEHOLDER, f"const ZIPS_NEXT = {as_js(zips_next)};")
             .replace(ZIPS_PLACEHOLDER, f"const ZIPS = {open(args.zips).read().strip()};")
             .replace(HOUSE_PLACEHOLDER, f"const XHOUSE = {as_js(house_records)};")
             .replace(MAP_PLACEHOLDER, f"const STATE_PATHS = {open(args.map).read().strip()};"))
