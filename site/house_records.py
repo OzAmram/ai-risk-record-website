@@ -84,10 +84,13 @@ confirmed = set()
 if args.quote_check:
     with open(args.quote_check, newline="") as f:
         confirmed = {(r["url"], r["quote"]) for r in csv.DictReader(f) if r["result"] == "found"}
+by_person = set()  # quotes Oz opened and confirmed himself
 reviewed = set()  # quotes a subagent found in the downloaded page text after the automatic check missed them
 if args.quote_review:
     with open(args.quote_review, newline="") as f:
-        reviewed = {(r["url"], r["quote"]) for r in csv.DictReader(f) if r["result"] == "confirmed"}
+        review_rows = list(csv.DictReader(f))
+    reviewed = {(r["url"], r["quote"]) for r in review_rows if r["result"] == "confirmed"}
+    by_person = {(r["url"], r["quote"]) for r in review_rows if r["result"] == "confirmed_by_person"}
 posts = collections.defaultdict(list)
 if args.labels:
     with open(args.labels, newline="") as f:
@@ -124,6 +127,7 @@ for member in roster:
         flags = st.get("flags", [])
         items.append((st["date"], st["level"], "misuse_only" in flags, "cosigned_letter" in flags))
         checked = (1 if (st["url"], st["quote"]) in confirmed
+                   else "checked against the source by a person" if (st["url"], st["quote"]) in by_person
                    else "found on the page by a second check run by a language model" if (st["url"], st["quote"]) in reviewed
                    else "read by a language model; not confirmed by the automatic check" if st.get("read_at_source") else 0)
         stmts.append([show_date(st["date"]), st["venue"], st["quote"], st["context"], st["source_label"], st["url"], checked, None, st["level"]])
@@ -185,6 +189,17 @@ for member in roster:
             else:  # stated in both places; if they disagree the record shows Mixed
                 pos[field] = [pos[field][0] if pos[field][0] == x_value else "mixed", f"{pos[field][1]} {x_note}", pos[field][2] + x_sources]
 
+    # A co-signed letter that Oz has ruled counts as a policy position. The member's own stated position is kept if there is one.
+    for letter in signed[b]:
+        ruling = letter_level[letter["id"]]
+        if ruling.get("position_field"):
+            source = [f"Letter, {show_date(letter['date'])}", letter["url"]]
+            current = pos[ruling["position_field"]]
+            if current[0] == "none":
+                pos[ruling["position_field"]] = [ruling["position_value"], ruling["position_note"], [source]]
+            else:
+                pos[ruling["position_field"]] = [current[0], f"{current[1]} Also co-signed a letter urging talks with China on AI safety.", current[2] + [source]]
+
     district = "at large" if member["district"] == "0" else f"district {member['district']}"
     searched = "a web search of news reports and official records, co-signed letters" + (" and X posts" if args.labels else "")
     records.append({
@@ -192,7 +207,7 @@ for member in roster:
         "seat": f"{member['party']} · {STATES[member['state']]}, {district}", "grade": grade,
         "why": f"{'Representative-elect ' + member['member'] if member.get('elect') else 'Representative ' + member['last_name']} {SENTENCE[grade]}" + "".join(" " + n for n in notes),
         "flag": f"Machine-drafted record. The grade, positions and quotes come from a language model working from {searched}, "
-                "and have not been checked by a person. The grade is worked out by rule from the statements found; "
+                "and have only been roughly checked by a person. The grade is worked out by rule from the statements found; "
                 "the levels given to co-signed House letters were set by Oz on 15 November 2026.",
         "pos": pos, "stmts": stmts, "record": found.get("record", []), "gaps": [],
     })

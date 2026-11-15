@@ -70,9 +70,14 @@
    "sources": []
   },
   "rsi": {
-   "value": "none",
-   "note": "No statement found for or against this policy.",
-   "sources": []
+   "value": "mixed",
+   "note": "He called for restricting recursive self-improvement, not for banning it: \"Restrict recursive self-improvement, self-generated goals, and open-ended autonomy.\" Recorded as Mixed by Oz's ruling of 15 November 2026.",
+   "sources": [
+    [
+     "X post, 12 Oct 2026",
+     "https://x.com/SenBillCassidy/status/2109671658340429847"
+    ]
+   ]
   }
  },
  "record": [

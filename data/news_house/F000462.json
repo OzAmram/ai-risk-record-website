@@ -11,8 +11,8 @@
  ],
  "statements": [
   {"date": "2026-08-04", "venue": "Letter from the Florida Democratic Congressional Delegation to Governor DeSantis's administration",
-   "quote": "The state is moving on an extraordinarily accelerated timeline to procure an AI vendor by September 1.",
-   "context": "Florida Democrats, led by Rep. Maxwell Alejandro Frost and including Frankel, questioned the state's plan to use AI in food assistance (SNAP) eligibility decisions.",
+   "quote": "The state is moving on an extraordinarily accelerated timeline to procure an AI vendor by September 1, yet Floridians have received little information about how that vendor will be selected or what safeguards will be in place",
+   "context": "Florida Democrats, led by Rep. Maxwell Alejandro Frost and including Frankel, questioned the state's plan to use AI in food assistance (SNAP) eligibility decisions. The words are the letter's, attributed to its signers jointly; Frankel is one of them and is not quoted individually.",
    "source_label": "Rep. Frost press release, 4 August 2026",
    "url": "https://frost.house.gov/media/press-releases/congressman-maxwell-alejandro-frost-and-florida-democrats-press-desantis-administration-for-answers-on-planned-use-of-ai-in-snap-eligibility-determinations",
    "read_at_source": true, "level": "D", "flags": ["cosigned_letter", "bill_or_action"],

@@ -1,6 +1,6 @@
-letter_id,level,quote_number,ruled_by,note
-2026-08-10-johnson-ai-ceo-hearings,C,3,"Oz, 15 November 2026 (confirmed the level Claude proposed)","Names a ""much larger catastrophe"" in general terms only."
-2026-08-10-openai-security-incident,C,1,"Oz, 15 November 2026","Speaks of the serious risk frontier AI models can pose, and asks about control and self-improvement, without catastrophe wording."
-2026-09-15-johnson-107,B,2,"Oz, 15 November 2026 (confirmed the level Claude proposed)",States catastrophic risk and includes agentic misalignment; no extinction framing.
-2026-09-15-leadership-warning-shots,C,1,"Oz, 15 November 2026 (confirmed the level Claude proposed)","Speaks of ""true catastrophes"" without naming one."
-2026-09-18-rubio-bessent-china-ai-dialogue,B,1,"Oz, 15 November 2026",Relays researchers' warning that AI could endanger humanity. Not counted as a position on coordination with China (that part is still Claude's provisional call).
+letter_id,level,quote_number,ruled_by,note,position_field,position_value,position_note
+2026-08-10-johnson-ai-ceo-hearings,C,3,"Oz, 15 November 2026 (confirmed the level Claude proposed)","Names a ""much larger catastrophe"" in general terms only.",,,
+2026-08-10-openai-security-incident,C,1,"Oz, 15 November 2026","Speaks of the serious risk frontier AI models can pose, and asks about control and self-improvement, without catastrophe wording.",,,
+2026-09-15-johnson-107,B,2,"Oz, 15 November 2026 (confirmed the level Claude proposed)",States catastrophic risk and includes agentic misalignment; no extinction framing.,,,
+2026-09-15-leadership-warning-shots,C,1,"Oz, 15 November 2026 (confirmed the level Claude proposed)","Speaks of ""true catastrophes"" without naming one.",,,
+2026-09-18-rubio-bessent-china-ai-dialogue,B,1,"Oz, 15 November 2026","Relays researchers' warning that AI could endanger humanity. Counts as Mixed on coordination with China (Oz, 15 November 2026).",intl,mixed,"Co-signed a letter urging sustained talks with China on AI safety (shared red lines, a crisis channel). The letter does not ask for a joint slowdown or pause. Recorded as Mixed by Oz's ruling of 15 November 2026."

@@ -30,6 +30,7 @@ SENATORS_PLACEHOLDER = "const XSENATORS = []; /*XSENATORS*/"
 STATUS_PLACEHOLDER = "const STATUS = {}; /*STATUS*/"
 MAP_PLACEHOLDER = "const STATE_PATHS = {}; /*STATE_PATHS*/"
 HOUSE_PLACEHOLDER = "const XHOUSE = []; /*XHOUSE*/"
+ZIPS_PLACEHOLDER = "const ZIPS = {}; /*ZIPS*/"
 STATES = {"AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California", "CO": "Colorado",
           "CT": "Connecticut", "DE": "Delaware", "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho",
           "IL": "Illinois", "IN": "Indiana", "IA": "Iowa", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
@@ -58,6 +59,7 @@ parser.add_argument("--relevance", required=True, help="Folder of relevance deci
 parser.add_argument("--status", help="CSV marking senators-elect and lame-duck senators")
 parser.add_argument("--grade-overrides", help="CSV of grades ruled by a person, which replace the drafted grade")
 parser.add_argument("--house", help="House records written by site/house_records.py")
+parser.add_argument("--zips", required=True, help="Zip code lookup table written by site/make_zip_districts.py")
 parser.add_argument("--map", required=True, help="State outlines written by site/make_map.py")
 args = parser.parse_args()
 
@@ -101,10 +103,13 @@ confirmed = set()  # (link, quote) pairs whose wording the automatic check found
 if args.quote_check:
     with open(args.quote_check, newline="") as f:
         confirmed = {(r["url"], r["quote"]) for r in csv.DictReader(f) if r["result"] == "found"}
+by_person = set()  # quotes Oz opened and confirmed himself
 reviewed = set()  # quotes a subagent found in the downloaded page text after the automatic check missed them
 if args.quote_review:
     with open(args.quote_review, newline="") as f:
-        reviewed = {(r["url"], r["quote"]) for r in csv.DictReader(f) if r["result"] == "confirmed"}
+        review_rows = list(csv.DictReader(f))
+    reviewed = {(r["url"], r["quote"]) for r in review_rows if r["result"] == "confirmed"}
+    by_person = {(r["url"], r["quote"]) for r in review_rows if r["result"] == "confirmed_by_person"}
 
 by_senator = collections.defaultdict(list)
 with open(args.labels, newline="") as f:
@@ -205,6 +210,7 @@ def draft_record(account, rows, found):
     stmts = []
     for st in (found["statements"] if found else []):
         checked = (1 if (st["url"], st["quote"]) in confirmed
+                   else "checked against the source by a person" if (st["url"], st["quote"]) in by_person
                    else "found on the page by a second check run by a language model" if (st["url"], st["quote"]) in reviewed
                    else "read by a language model; not confirmed by the automatic check" if st.get("read_at_source")
                    else 0)
@@ -215,7 +221,7 @@ def draft_record(account, rows, found):
         "id": page_id[account["bioguide"]], "bioguide": account["bioguide"], "name": account["member"],
         "seat": f"{account['party']} · {STATES[account['state']]}", "grade": grade, "why": why,
         "flag": f"Machine-drafted record. The grade, positions and quotes come from a language model working from {searched}, "
-                "and have not been checked by a person.",
+                "The grade has been reviewed by a person (Oz); the positions and quotes have not been checked by a person.",
         "pos": pos, "stmts": stmts, "record": found["record"] if found else [],
         "gaps": [] if found else ["Only X posts have been searched."],
     }
@@ -268,7 +274,7 @@ if {r["id"] for r in house_records} & set(page_id.values()):
 for r in house_records:  # marks for representatives-elect and members not returning
     if "status" in r:
         status[r["id"]] = r.pop("status")
-for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER, HOUSE_PLACEHOLDER):
+for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER, HOUSE_PLACEHOLDER, ZIPS_PLACEHOLDER):
     if template.count(placeholder) != 1:
         raise SystemExit(f"Template must contain exactly one line: {placeholder}")
 as_js = lambda value: json.dumps(value, ensure_ascii=False).replace("</", "<\\/")
@@ -276,6 +282,7 @@ with open(args.out, "w") as f:
     f.write(template.replace(PLACEHOLDER, f"const XPOSTS = {as_js(data)};")
             .replace(SENATORS_PLACEHOLDER, f"const XSENATORS = {as_js(drafted)};")
             .replace(STATUS_PLACEHOLDER, f"const STATUS = {as_js(status)};")
+            .replace(ZIPS_PLACEHOLDER, f"const ZIPS = {open(args.zips).read().strip()};")
             .replace(HOUSE_PLACEHOLDER, f"const XHOUSE = {as_js(house_records)};")
             .replace(MAP_PLACEHOLDER, f"const STATE_PATHS = {open(args.map).read().strip()};"))
 print("Wrote", args.out)

@@ -37,6 +37,18 @@
     "boundary"
    ],
    "reason": "Treats advanced AI as a serious danger needing lab inspectors and a treaty and links it to bioterrorism, but does not spell out a catastrophic consequence of AI in this passage; it sits between C and B."
+  },
+  {
+   "date": "2026-09-13",
+   "venue": "Reelection campaign rally, Athens, Georgia (video clip and transcript posted on X by Acyn)",
+   "quote": "This week, we were warned again of existential risk to the human species. And what fills us with dread is the crushing weakness of our politics against the massive stakes of our times.",
+   "context": "He went on to say that tech leaders warn \"the new intelligence they're creating risks human extinction\", and that a capable president would rush inspectors into frontier labs and lead the world toward an AI treaty.",
+   "source_label": "Acyn on X, 13 September 2026",
+   "url": "https://x.com/Acyn/status/2099232674850517158",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [],
+   "reason": "Rated B by Oz on 15 November 2026. The transcript is a third party's; the post text was read through the X API, the video was not watched by the model."
   }
  ],
  "positions": {
