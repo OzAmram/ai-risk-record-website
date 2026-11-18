@@ -1,4 +1,20 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI Risk Record</title>
+<!-- Link preview shown when the site is shared. The address is the main domain; the image is made by site/make_preview.sh. -->
+<meta name="description" content="What members of the US Congress have said about catastrophic risk from AI: a grade, stated policy positions and dated, sourced quotes for every senator and representative.">
+<link rel="canonical" href="https://airiskrecord.org/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Risk Record">
+<meta property="og:title" content="AI Risk Record">
+<meta property="og:description" content="What members of Congress have said about catastrophic risk from AI: grades, policy positions and sourced quotes.">
+<meta property="og:url" content="https://airiskrecord.org/">
+<meta property="og:image" content="https://airiskrecord.org/preview.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Source+Sans+3:wght@400;600;700&display=swap">
 <style>
@@ -57,6 +73,9 @@ nav a[aria-current="page"]{color:var(--accent)}
 .charts{display:grid;grid-template-columns:1fr 1fr;gap:20px 40px}
 .charts .hist{margin-top:auto;width:100%}
 .charts>div{display:flex;flex-direction:column;gap:14px;min-width:0}
+/* the grade chart grows to fill its column, so its bars start right under its title */
+.charts>div:first-child .hist{flex:1;height:auto;min-height:220px;align-items:stretch}
+.charts>div:first-child .hist .col{height:auto}
 @media (max-width:820px){.charts{grid-template-columns:1fr}}
 .zip{display:flex;flex-wrap:wrap;align-items:center;gap:8px;background:var(--note);padding:12px 14px}
 .zip label{font-weight:700;flex:1 1 260px}
@@ -75,6 +94,7 @@ section{display:flex;flex-direction:column;gap:14px}
 .scroll{overflow-x:auto}
 table{border-collapse:collapse;width:100%;min-width:560px;font-size:16px}
 th,td{text-align:left;padding:12px 10px;border-bottom:1px solid var(--line);vertical-align:middle}
+tr.grp th{font-size:13px;letter-spacing:.1em;color:var(--accent-ink);background:var(--accent);border-bottom:0;padding:7px 10px;text-align:left}
 th{font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:700;border-bottom:1px solid var(--fg);vertical-align:bottom}
 tbody tr:hover td{background:var(--hover)}
 td a.name{font-family:var(--display);font-size:19px;font-weight:500;color:var(--fg);text-decoration:none;white-space:nowrap} td a.name:hover{color:var(--accent);text-decoration:underline}
@@ -100,6 +120,7 @@ td a.name{font-family:var(--display);font-size:19px;font-weight:500;color:var(--
 .photo{width:104px;height:128px;object-fit:cover;border-radius:2px;flex:none}
 .head>div{min-width:0;flex:1 1 320px;display:flex;flex-direction:column;gap:8px}
 .head p{font-size:18px}
+.head p.contact{font-size:15px}
 .sheet{display:flex;flex-direction:column;gap:0}
 .flag{background:var(--note);padding:10px 14px;font-size:15px}
 .rows{display:flex;flex-direction:column}
@@ -286,6 +307,12 @@ const ZIPS = {}; /*ZIPS*/
 // Zip codes whose districts are different in the House elected in November 2026 (nine states redrew their lines),
 // in the same form; written by site/build.py from site/make_zip_districts_blocks.py's table.
 const ZIPS_NEXT = {}; /*ZIPS_NEXT*/
+// Washington office contact details of sitting members, written by site/build.py from the public
+// congress-legislators list: {bioguide id: [phone, official website, contact form if the list has one]}.
+const CONTACTS = {}; /*CONTACTS*/
+// The X accounts whose posts were searched, written by site/build.py from the account lists:
+// {bioguide id: [[handle, kind of account], ...]}.
+const ACCOUNTS = {}; /*ACCOUNTS*/
 // The districts a five-digit zip code is in, as [state name, district number]; null if the text is not a zip code.
 // With next = true, the districts used in the November 2026 elections.
 function zipDistricts(text, next){
@@ -335,7 +362,7 @@ const toggle = () => `<div class="toggle" role="group" aria-label="Which Senate 
 function viewHist(){
   const people = chamber === "house" ? S.filter(inHouse) : S.filter(inSenate), count = g => people.filter(s => s.grade === g).length;
   const top = Math.max(...RUBRIC.map(r => count(r[0])));
-  return `<h2>${chamber === "house" ? "Representatives" : "Senators"} at each grade, ${senate === "current" ? "current" : "next"} ${chamber === "house" ? "House" : "Senate"}${senate === "current" ? "" : " (from 3 January 2027)"}</h2>
+  return `<h2>How explicitly ${chamber === "house" ? "representatives" : "senators"} acknowledge catastrophic AI risk, by grade: ${senate === "current" ? "current" : "next"} ${chamber === "house" ? "House" : "Senate"}${senate === "current" ? "" : " (from 3 January 2027)"}</h2>
     <p class="sub">Number of ${chamber === "house" ? "representatives" : "senators"} out of ${people.length}. "None" means no relevant statement was found.</p>
     <div class="hist" role="img" aria-label="${esc(RUBRIC.map(r => `${count(r[0])} at ${r[0] === "–" ? "no statement found" : "grade " + r[0]}`).join(", "))}">${RUBRIC.map(r => `<div class="col" title="${count(r[0])} of ${people.length}: ${esc(r[2])}">
       <span class="n">${count(r[0])}</span><span class="bar" style="height:${count(r[0]) / top * 100}%;background:${GRADE_COLOR[r[0]] || NO_GRADE}"></span><span class="g">${r[0] === "–" ? "None" : r[0]}</span></div>`).join("")}</div>`;
@@ -360,8 +387,10 @@ function viewIndex(){
   // With search text, people from both chambers are listed; otherwise only the chosen chamber.
   const H = chamber === "house", all = S.filter(s => H ? house(s) || sittingRep(s) : !house(s));
   const zip = zipDistricts(query);
-  // For a zip code, senators are listed before representatives.
-  const shown = query.trim() ? S.filter(matches).sort((a, b) => zip ? house(a) - house(b) : 0) : all;
+  // In search results (a state, a zip code or any text), senators are listed before representatives, each group under a heading.
+  const shown = query.trim() ? S.filter(matches).sort((a, b) => house(a) - house(b)) : all;
+  const groupHead = (s, i) => query.trim() && (i === 0 || house(s) !== house(shown[i-1]))
+    ? `<tr class="grp"><th colspan="${2 + FIELDS.length}" scope="colgroup">${house(s) ? "House of Representatives" : "Senate"} · ${shown.filter(x => house(x) === house(s)).length}</th></tr>` : "";
   const zipNext = zip && zipDistricts(query, true), moved = zip && zipNext.map(districtName).join() !== zip.map(districtName).join();
   const found = zip && zip.length ? `Zip code ${esc(query.trim())} is in ${esc(zip.map(districtName).join(" and "))}. `
     + (moved ? `This state redrew its districts for the November 2026 elections: from 3 January 2027 the zip code is in ${esc(zipNext.map(districtName).join(" and "))}. ` : "")
@@ -373,13 +402,14 @@ function viewIndex(){
     <input id="zip" class="search" inputmode="numeric" maxlength="5" placeholder="Zip code" autocomplete="postal-code" value="${zip ? esc(query.trim()) : ""}"><button type="submit">Look up</button></form>`;
   const chambers = `<div class="toggle" role="group" aria-label="Which chamber to show">${[["senate", "Senate"], ["house", "House of Representatives"]]
     .map(t => `<button type="button" data-chamber="${t[0]}" aria-pressed="${chamber === t[0]}">${t[1]}</button>`).join("")}</div>`;
-  const rows = shown.map(s => `<tr>
+  const rows = shown.map((s, i) => `${groupHead(s, i)}<tr>
     <td><a class="name" href="#${s.id}">${esc(s.name)}</a>${STATUS[s.id] ? `<span class="status">${STATUS_NAME[STATUS[s.id].kind]}</span>` : ""}<span class="sub">${esc(s.seat)}${sittingRep(s) && (H || query.trim()) ? esc(`; sitting representative for ${s.house}`) : ""}${zip && s.next && !s.seat.endsWith(" · " + s.next) ? esc(`; elected for ${s.next.split(", ")[1]} from 3 January 2027`) : ""}</span></td>
     <td><div class="ack"><span class="grade ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span><span>${esc(RUBRIC.find(r => r[0] === s.grade)[2])}</span></div></td>
     ${FIELDS.map((f, n) => `<td class="pol${n ? "" : " first"}"><span class="pos sm ${s.pos[f[0]][0]}">${POS_SHORT[s.pos[f[0]][0]]}</span></td>`).join("")}</tr>`).join("");
-  return `<section>${chambers}<span class="label">${H ? `US House · ${all.filter(s => !elect(s) || sittingRep(s)).length} sitting representatives and ${all.filter(s => elect(s) && house(s)).length} representatives-elect` : `US Senate · ${all.filter(s => !elect(s)).length} sitting senators and ${all.filter(elect).length} senators-elect`}</span>
-    <h1>What ${H ? "representatives" : "senators"} have said about catastrophic risk from AI</h1>
-    <p class="lede">Each record gives a grade for how explicitly the ${H ? "representative" : "senator"} acknowledges catastrophic or existential risk, their stated position on four policies, and the dated statements behind both.</p>
+  const searching = !!query.trim();  // search results cover both chambers, so the heading does too
+  return `<section>${chambers}<span class="label">${searching ? `US Congress · search results from both chambers` : H ? `US House · ${all.filter(s => !elect(s) || sittingRep(s)).length} sitting representatives and ${all.filter(s => elect(s) && house(s)).length} representatives-elect` : `US Senate · ${all.filter(s => !elect(s)).length} sitting senators and ${all.filter(elect).length} senators-elect`}</span>
+    <h1>What ${searching ? "members of Congress" : H ? "representatives" : "senators"} have said about catastrophic risk from AI</h1>
+    <p class="lede">Each record gives a grade for how explicitly the ${searching ? "member" : H ? "representative" : "senator"} acknowledges catastrophic or existential risk, their stated position on four policies, and the dated statements behind both.</p>
     ${ZIPS.zips ? zipForm : ""}</section>
   ${query.trim() ? "" : `<section>${toggle()}${H ? "" : viewMap()}</section><section><div class="charts"><div>${viewHist()}</div><div>${viewPolicyHist()}</div></div></section>
   <div class="draft"><strong>How this record is made.</strong> Statements are found and read by an AI model (Claude) applying a published rubric. Every Senate grade has been reviewed by a person. House grades are worked out by rule from the statements found and have been spot-checked by a person. See <a href="#methodology">Methodology</a>.</div>`}
@@ -425,16 +455,29 @@ function statements(s){
   return picked.sort((a, b) => b.iso.localeCompare(a.iso));
 }
 
+// How to reach a sitting member: their Washington office phone and their contact form or official website.
+// Members of Congress do not publish email addresses; they take messages through a form on their website.
+function contactLine(s){
+  const c = CONTACTS[s.bioguide];
+  if (!c) return "";
+  return `<p class="contact"><strong>Contact the Washington office:</strong> <a href="tel:+1-${esc(c[0])}">${esc(c[0])}</a> · ${c[2] ? ext("Send a message (contact form)", c[2]) : ext("Send a message through the official website", c[1])}</p>`;
+}
+// The X accounts searched for this person, each linked to its profile.
+function accountsLine(s){
+  const a = ACCOUNTS[s.bioguide] || [];
+  return `<p class="sub" style="max-width:none">${a.length ? `X account${a.length > 1 ? "s" : ""} searched: ${a.map(x => `<span style="white-space:nowrap">${ext("@" + x[0], "https://x.com/" + x[0])} (${esc(x[1])})</span>`).join(" · ")}` : "No X account was found for this person."}</p>`;
+}
 function viewSenator(s){
   const L = S.filter(x => house(x) === house(s)), i = L.indexOf(s), prev = L[i-1], next = L[i+1], x = XPOSTS[s.id], st = STATUS[s.id];
   const crit = RUBRIC.find(r => r[0] === s.grade)[1];
   return `<section><span class="label">${esc(s.seat)}</span>
     <div class="head"><img class="photo" src="img/${s.bioguide}.jpg" alt="Official portrait of ${esc(s.name)}" onerror="this.remove()"><span class="grade big ${gcls(s.grade)}" aria-label="Grade ${s.grade}">${s.grade}</span>
-      <div><h1>${esc(s.name)}${st ? `<span class="status">${STATUS_NAME[st.kind]}</span>` : ""}</h1>${st ? `<p class="sub">${esc(st.note)} ${st.url ? ext(st.label, st.url) : ""}</p>` : ""}<p><strong>Grade ${s.grade}.</strong> ${esc(s.why)}</p></div></div></section>
+      <div><h1>${esc(s.name)}${st ? `<span class="status">${STATUS_NAME[st.kind]}</span>` : ""}</h1>${st ? `<p class="sub">${esc(st.note)} ${st.url ? ext(st.label, st.url) : ""}</p>` : ""}<p><strong>Grade ${s.grade}.</strong> ${esc(s.why)}</p>${contactLine(s)}</div></div></section>
   <section><h2>Stated positions</h2><div class="sheet"><div class="rows">
     ${FIELDS.map(f => `<div class="row"><div class="q">${esc(f[1])}</div><div>${chip(s.pos[f[0]][0])}</div><div class="ev">${s.pos[f[0]][0] === "none" ? "" : `${esc(s.pos[f[0]][1])}${(s.pos[f[0]][2]||[]).length ? ` <span class="src">${s.pos[f[0]][2].map(x => ext(x[0], x[1])).join(" · ")}</span>` : ""}`}</div></div>`).join("")}
   </div></div></section>
   <section><h2>Statements</h2>
+    ${accountsLine(s)}
     ${candidates(s).length ? "" : `<p>No statements about AI risk have been found yet.</p>`}
     <div class="sheet">
     ${statements(s).map(t => `<div class="stmt"><div class="meta"><span>${esc(t.date)}</span><span>${esc(t.where)}</span>
@@ -446,8 +489,7 @@ function viewSenator(s){
   <div class="pager"><span>${prev ? `<a href="#${prev.id}">← ${esc(prev.name)}</a>` : ""}</span><span>${next ? `<a href="#${next.id}">${esc(next.name)} →</a>` : `<a href="#methodology">Methodology →</a>`}</span></div>`;
 }
 
-// Placeholder address: replace with the real one before the site goes public.
-const CONTACT_EMAIL = "contact@example.com";
+const CONTACT_EMAIL = "contact@airiskrecord.org";
 function viewMethod(){
   return `<section><span class="label">Rubric version 0.2</span><h1>Methodology</h1>
     <p class="lede" style="max-width:none">The grade records how explicitly a politician acknowledges catastrophic risk from advanced AI.</p>

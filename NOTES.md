@@ -929,3 +929,45 @@ python3 site/render_check.py site/index.html
 - **Yes plus Mixed:** `site/build.py` now gives Mixed when a senator's X posts on one policy include a Mixed label, as `site/house_records.py` already did. No page changed (only Sanders has both labels, and his record is written by hand).
 - **Senate summaries tied to a grade:** `data/summaries.csv` has a new `grade` column (the grade each sentence was written for) and the build stops, naming the people, if a record's grade differs. The column was filled from today's grades, which assumes each sentence matched its grade today; a rough check (sentences opening "has not acknowledged" against grade D) found no mismatch, but no one reread all 113. Tested by changing one grade in a copy: the build stopped as intended.
 - Render check passes (653 people). House portraits (`site/img/`, about 70 MB of new files) are still left out of git, pending Oz's decision.
+
+## 2026-11-15 (evening): getting ready to host
+
+**Goal:** prepare to publish on Cloudflare Pages. Oz bought `airiskrecord.org` and `congressonairisk.org`.
+
+**What was done** (not committed):
+- `site/make_public.sh`: runs the render check, then copies the page, the preview image and the portraits into `public/` (535 files, 90 MB; `public/` is in `.gitignore`).
+- Link preview: `site/preview_card.html` and `site/make_preview.sh` make `site/preview.png` (1200 x 630); `xrisk-record.html` has the description, canonical address and preview tags.
+- Node.js installed with Homebrew (v26.13.1) so the site can be published from the command line with Cloudflare's tool (`npx wrangler pages deploy public --project-name <name>`).
+
+**Assumption to confirm:** the preview tags use `https://airiskrecord.org/` as the main address, with `congressonairisk.org` redirecting to it.
+
+Contact address set to `contact@airiskrecord.org` (Oz); it needs email forwarding set up on the domain before it receives mail.
+
+**Open:** the preview has not been tested on a live address (it can only be tested once the site is up); portraits are larger than needed.
+
+**Next steps:** Oz creates the Cloudflare account and Pages project and runs the first publish; then attach the domains and email forwarding.
+
+**First publish and a character bug (same evening).** Oz published to a Cloudflare Worker (test address `long-scene-4494.<account>.workers.dev`); `wrangler.jsonc` in the project root holds the settings, so publishing is `bash site/make_public.sh && npx wrangler deploy`. The live page showed a stray "Â" before every "·" and similar marks: the template never declared its character set (the earlier preview tool added that for us). Fixed by starting `xrisk-record.html` with a doctype, `<html lang="en">`, a UTF-8 declaration and a viewport tag. Rebuilt, render check passes, index and a member page looked at in screenshots with the new declarations. Needs one more `npx wrangler deploy` to reach the live address.
+
+**Live on the real domains (15 November 2026, evening).** Checked from the command line, connecting to the addresses the public name servers give: `https://airiskrecord.org/` serves a page byte-for-byte identical to `public/index.html` (render check passes on it, 653 people); the preview image and a portrait load; `congressonairisk.org` serves the same page directly (attached as a second domain, not a redirect). Email records for `airiskrecord.org` are in place (Cloudflare mail servers and sender record); delivery not tested. Found: neither `www.` address exists; plain `http://` is not sent on to `https://`; this Mac's own name lookup did not yet know the new domains when checked. The link preview has not been tested in a real app.
+
+## Search results grouping, chart title, redirects (15–17 November 2026)
+
+- **Goal:** small site polish after launch.
+- **What was done:** (15 Nov) search results list senators first under a "Senate" band, then "House of Representatives"; while a search is showing the heading reads "What members of Congress have said…". (17 Nov) the grade bar chart now fills its column so the bars start right under the title, and its title is "How explicitly senators/representatives acknowledge catastrophic AI risk, by grade: current/next Senate/House". All in `xrisk-record.html`. Published with `bash site/make_public.sh && npx wrangler deploy` (17 Nov version 922d73e9-cf5f-45a9-b638-7addf762c97e).
+- **Results:** render check passes (653 people); live page compared byte for byte with `public/index.html` after each deploy. `www.airiskrecord.org`, `congressonairisk.org` and `www.congressonairisk.org` all redirect to `https://airiskrecord.org/` (checked 15 Nov). Chart checked in desktop screenshots only, not at phone width.
+- **Open questions:** everything since commit `394762e` is uncommitted. A similar site appeared, https://www.dconai.org/ (all of Congress, 0–4 scores from two AI models, only spot-checked by a person); it leaves Flanagan's existential-risk score blank where we have an A quote. Email delivery to contact@airiskrecord.org and the link preview are untested.
+- **Next steps (Oz to decide):** compare their existential-risk scores with our grades as a list of leads; add a data download; commit.
+
+## Contact details on each person's page (17 November 2026)
+
+- **Goal:** show how to reach each sitting member on their page.
+- **What was done:** downloaded `https://unitedstates.github.io/congress-legislators/legislators-current.json` to `data/contact/legislators-current.json` (17 Nov 2026, 539 people). `site/build.py` has a new required argument `--contacts data/contact/legislators-current.json` (add it to the end of the build command) and writes a `CONTACTS` table into the page; `xrisk-record.html` shows "Contact the Washington office: phone · contact form or official website" under the grade.
+- **Results:** 533 of 653 people have a contact line; the 120 without are members-elect who hold no office yet (119 `ELECT` ids plus Sherrod Brown). Render check passes. Members of Congress do not publish email addresses, so the page links the contact form (the list has one for 86 senators and 2 representatives) or else the official website. Phone numbers and links were not spot-checked against the members' own sites. Checked one page (Pappas) in a screenshot.
+- **Open questions:** not yet published to the live site; not committed.
+
+## X accounts listed on each person's page (17 November 2026)
+
+- **What was done:** `site/build.py` has a new required argument `--house-accounts data/house/accounts.csv` and writes an `ACCOUNTS` table (from it and `data/accounts.csv`); `xrisk-record.html` shows "X accounts searched: @handle (official) · …" with profile links at the top of the Statements section, or "No X account was found for this person." Build command now ends `… --contacts data/contact/legislators-current.json --house-accounts data/house/accounts.csv`.
+- **Results:** 638 of 653 people have at least one account listed, 15 have none. Every handle that appears on an X-post statement is in the lists. Render check passes; one page (Pappas) checked in a screenshot.
+- **Open questions:** the line says "searched" for every account in the lists; I did not confirm against the post databases that each listed account was actually collected. Not yet published or committed.

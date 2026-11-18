@@ -32,6 +32,8 @@ MAP_PLACEHOLDER = "const STATE_PATHS = {}; /*STATE_PATHS*/"
 HOUSE_PLACEHOLDER = "const XHOUSE = []; /*XHOUSE*/"
 ZIPS_PLACEHOLDER = "const ZIPS = {}; /*ZIPS*/"
 ZIPS_NEXT_PLACEHOLDER = "const ZIPS_NEXT = {}; /*ZIPS_NEXT*/"
+CONTACTS_PLACEHOLDER = "const CONTACTS = {}; /*CONTACTS*/"
+ACCOUNTS_PLACEHOLDER = "const ACCOUNTS = {}; /*ACCOUNTS*/"
 STATES = {"AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California", "CO": "Colorado",
           "CT": "Connecticut", "DE": "Delaware", "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho",
           "IL": "Illinois", "IN": "Indiana", "IA": "Iowa", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
@@ -64,6 +66,9 @@ parser.add_argument("--house", help="House records written by site/house_records
 parser.add_argument("--house-roster", help="House roster (data/house/roster.csv), used to mark senators-elect who are sitting representatives")
 parser.add_argument("--zips", required=True, help="Zip code lookup table written by site/make_zip_districts.py")
 parser.add_argument("--zips-next", required=True, help="The same table for the districts used in the November 2026 elections, written by site/make_zip_districts_blocks.py")
+parser.add_argument("--house-accounts", required=True, help="X accounts of House members (data/house/accounts.csv), listed on each person's page")
+parser.add_argument("--contacts", required=True, help="legislators-current.json from https://unitedstates.github.io/congress-legislators/, "
+                    "for each sitting member's office phone and website")
 parser.add_argument("--map", required=True, help="State outlines written by site/make_map.py")
 args = parser.parse_args()
 
@@ -292,7 +297,7 @@ if {r["id"] for r in house_records} & set(page_id.values()):
 for r in house_records:  # marks for representatives-elect and members not returning
     if "status" in r:
         status[r["id"]] = r.pop("status")
-for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER, HOUSE_PLACEHOLDER, ZIPS_PLACEHOLDER, ZIPS_NEXT_PLACEHOLDER):
+for placeholder in (PLACEHOLDER, SENATORS_PLACEHOLDER, STATUS_PLACEHOLDER, MAP_PLACEHOLDER, HOUSE_PLACEHOLDER, ZIPS_PLACEHOLDER, ZIPS_NEXT_PLACEHOLDER, CONTACTS_PLACEHOLDER, ACCOUNTS_PLACEHOLDER):
     if template.count(placeholder) != 1:
         raise SystemExit(f"Template must contain exactly one line: {placeholder}")
 # Only the zip codes whose districts differ in the next House are put on the page.
@@ -300,11 +305,25 @@ zips_now, zips_new = json.load(open(args.zips)), json.load(open(args.zips_next))
 if zips_now["states"] != zips_new["states"]:
     raise SystemExit("The two zip code tables list states differently")
 zips_next = {z: d for z, d in zips_new["zips"].items() if d != zips_now["zips"].get(z)}
+# Office phone, official website and (where the list has one) contact form of each sitting member, from their current term.
+contacts = {}
+for person in json.load(open(args.contacts)):
+    term = person["terms"][-1]
+    contacts[person["id"]["bioguide"]] = [term["phone"], term["url"]] + ([term["contact_form"]] if term.get("contact_form") else [])
+# The X accounts searched for each person, from both account lists; a handle listed twice is shown once.
+x_accounts = {}
+with open(args.house_accounts, newline="") as f:
+    for a in accounts + list(csv.DictReader(f)):
+        listed = x_accounts.setdefault(a["bioguide"], [])
+        if a["handle"] and a["handle"].lower() not in [h.lower() for h, _ in listed]:
+            listed.append([a["handle"], a["account_type"].replace("_", " ")])
 as_js = lambda value: json.dumps(value, ensure_ascii=False).replace("</", "<\\/")
 with open(args.out, "w") as f:
     f.write(template.replace(PLACEHOLDER, f"const XPOSTS = {as_js(data)};")
             .replace(SENATORS_PLACEHOLDER, f"const XSENATORS = {as_js(drafted)};")
             .replace(STATUS_PLACEHOLDER, f"const STATUS = {as_js(status)};")
+            .replace(ACCOUNTS_PLACEHOLDER, f"const ACCOUNTS = {as_js(x_accounts)};")
+            .replace(CONTACTS_PLACEHOLDER, f"const CONTACTS = {as_js(contacts)};")
             .replace(ZIPS_NEXT_PLACEHOLDER, f"const ZIPS_NEXT = {as_js(zips_next)};")
             .replace(ZIPS_PLACEHOLDER, f"const ZIPS = {open(args.zips).read().strip()};")
             .replace(HOUSE_PLACEHOLDER, f"const XHOUSE = {as_js(house_records)};")

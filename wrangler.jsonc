@@ -1,0 +1,8 @@
+// Settings for publishing the site to Cloudflare from the command line:
+//     bash site/make_public.sh && npx wrangler deploy
+// "name" is the project created by the first manual upload; "assets" is the folder of files to publish.
+{
+  "name": "long-scene-4494",
+  "compatibility_date": "2026-11-15",
+  "assets": { "directory": "./public" }
+}
