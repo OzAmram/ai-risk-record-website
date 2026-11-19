@@ -1,0 +1,50 @@
+{
+  "bioguide": "P000619",
+  "member": "Mary Peltola",
+  "searches": [
+    "Mary Peltola artificial intelligence (web search; nothing about her, only unrelated Finnish people named Peltola)",
+    "Peltola Senate campaign website issues AI (web search; found an NRSC ad against her made partly with AI, an Alaska's News Source article on AI in the midterms, and a KAXE article on the Minnesota race; nothing in her words on AI)",
+    "\"Peltola\" \"AI safety\" OR superintelligence OR \"existential\" (web search; nothing about her)",
+    "Mary Peltola AI extinction OR \"existential risk\" OR \"loss of control\" (web search; nothing about her)",
+    "Mary Peltola data center moratorium OR pause OR slowdown AI Alaska (web search; Alaska data center coverage, nothing in her words)",
+    "Mary Peltola China AI agreement OR treaty OR talks (web search; coverage of the September 2026 Democratic letter and US-China AI talks; she is not mentioned)",
+    "site:marypeltola.com AI OR \"artificial intelligence\" OR \"data center\" (web search; returned no pages from her site)",
+    "Peltola Sullivan debate artificial intelligence OR \"AI\" OR \"Big Tech\" (web search; nothing about the Alaska debates)",
+    "\"Peltola\" Alaska Senate race AI super PAC OR \"data centers\" OR \"artificial intelligence\" 2026 (web search; found Alaska Beacon on AI-company employee donations and Newsweek on data center views)",
+    "Alaska Beacon Senate race donations AI company employees Peltola said (web search; search summary says neither campaign responded to the Beacon's request for comment)",
+    "Direct page: https://www.marypeltola.com/ (home page; no AI, data center, technology or China text; no issues page)",
+    "Direct page: https://marypeltola.com/story/ (biography page; no AI, data center, technology or China text)",
+    "Direct page: https://www.kaxe.org/elections/2026-10-30/concerns-big-tech-pop-up-in-us-senate-race (about the Minnesota Senate race; does not mention her)",
+    "Direct page: https://www.alaskasnewssource.com/2026/10/30/how-ai-is-impacting-midterm-elections/ (does not mention her)",
+    "Direct page: https://www.newsweek.com/ai-data-center-war-where-democrats-republicans-in-key-senate-races-stand-12354265 (Alaska section; paraphrase only, no quote from her)",
+    "Direct page: https://alaskabeacon.com/?p=30425 (FAILED, HTTP 403)",
+    "Direct page: https://www.newsfromthestates.com/article/alaskas-us-senate-race-draws-significant-donations-ai-company-employees (FAILED, HTTP 403)"
+  ],
+  "statements": [],
+  "positions": {
+    "slowdown": {
+      "value": "none",
+      "note": "No statement found for or against slowing AI development, and none on a data center moratorium.",
+      "sources": []
+    },
+    "pause": {
+      "value": "none",
+      "note": "No statement found for or against a halt to building more capable AI systems.",
+      "sources": []
+    },
+    "intl": {
+      "value": "none",
+      "note": "No statement found on an agreement or talks with China on AI. She was not a senator on 23 September 2026 and is not on the verified signer list of that letter.",
+      "sources": []
+    },
+    "rsi": {
+      "value": "none",
+      "note": "No statement found on a ban on self-improving AI.",
+      "sources": []
+    }
+  },
+  "record": [],
+  "suggested_grade": "none",
+  "grade_reason": "No statement by her about AI made on or after 1 January 2025 was found in news, on her campaign website, or in coverage of the Alaska Senate race.",
+  "notes": "Ten web searches ran, all listed in 'searches'; none were refused. The required searches on general AI, superintelligence and 'AI safety', extinction or existential risk, pause or moratorium (including data centers), China agreement, and her campaign site all ran; the site-restricted search returned no pages from marypeltola.com, so I opened her home page and story page directly (neither mentions AI; the site has no issues page). She was not in Congress during 2025-2026 (House term ended January 2025; Senate term not yet begun), so she could not have signed the 23 September 2026 letter on AI talks with China (not on the verified signer list) or co-sponsored the Ban Artificial Superintelligence Act; I found no source showing she commented on either. Paraphrases left out: (1) Newsweek (page undated; correction note 21 Oct 2026) says 'Peltola has centered her campaign on affordability and energy costs generally rather than data centers specifically' - reporter's words, not hers. (2) Alaska Beacon (3 Nov 2026 per search summary; page could not be opened, HTTP 403, also via newsfromthestates.com) reports that she received at least $56,000 from AI-company employees, nearly all from Anthropic employees, and, per the search summary, that neither campaign responded to requests for comment; this is campaign money, not a statement, and is unverified at source. (3) An NRSC ad against her was partly made with AI (search summary of Washington Examiner / NRSC); her campaign called it misleading per the summary; not about AI risk and not read at source. Not checked: her X account (out of scope), debate transcripts (no search hit linking AI to the Peltola-Sullivan debates), her 2025 statements as a private citizen beyond what the searches returned, and her final House months (before 1 January 2025, out of scope anyway). Name check: many search hits were unrelated Finnish people surnamed Peltola, and a different 'Dan J. Sullivan' (alleged spoiler candidate) appears in coverage; none of these were used."
+}

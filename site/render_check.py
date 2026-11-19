@@ -45,7 +45,7 @@ TAIL = ('\nlet n=0;for(const s of S){const h=viewSenator(s);if(/undefined|NaN|\\
         'const z=Object.keys(ZIPS.zips).find(z=>zipDistricts(z).some(d=>inDistrict(s,d)));if(!z)throw new Error("no zip code leads to the House district of "+s.name);}'
         'if(S.filter(inHouse).length!==nh-S.filter(s=>house(s)&&elect(s)).length+6)throw new Error("current House count does not include the six");'
         'print("current House: "+S.filter(inHouse).length+" sitting representatives, including "+both.length+" who are senators-elect");'
-        'if(S.length-nh!==118)throw new Error("Senate side no longer has 118 people");'
+        'if(S.length-nh!==119)throw new Error("Senate side no longer has 119 people");'
         'print(nh+" House records; "+(n-nh)+" Senate-side records");'
         'const sen=S.filter(s=>!house(s)),hou=S.filter(house);'
         'print(n+" people rendered, plus index and methodology; Senate: "+sen.filter(elect).length+" senators-elect, "+sen.filter(lame).length+" lame ducks; House: "'

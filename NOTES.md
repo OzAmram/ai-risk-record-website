@@ -971,3 +971,16 @@ Contact address set to `contact@airiskrecord.org` (Oz); it needs email forwardin
 - **What was done:** `site/build.py` has a new required argument `--house-accounts data/house/accounts.csv` and writes an `ACCOUNTS` table (from it and `data/accounts.csv`); `xrisk-record.html` shows "X accounts searched: @handle (official) · …" with profile links at the top of the Statements section, or "No X account was found for this person." Build command now ends `… --contacts data/contact/legislators-current.json --house-accounts data/house/accounts.csv`.
 - **Results:** 638 of 653 people have at least one account listed, 15 have none. Every handle that appears on an X-post statement is in the lists. Render check passes; one page (Pappas) checked in a screenshot.
 - **Open questions:** the line says "searched" for every account in the lists; I did not confirm against the post databases that each listed account was actually collected. Not yet published or committed.
+
+## Alaska Senate called for Peltola (18 November 2026)
+
+- **Goal:** Oz: "Alaska has been called for Peltola, can you update?"
+- **Check of the call:** two web searches. The Associated Press called the race on 17 November (NPR, NBC News, Alaska Public Media, Axios): Peltola 50.1% of first choices to Sullivan's 45.8%, so no ranked-choice count was needed. Not certified yet (due 25 November); the Justice Department is appealing a dismissed lawsuit about certification. The Alaska House seat (Begich v. Hill) was not found called as of the search; left as undecided.
+- **What was done:**
+  - `data/status.csv`: Sullivan (S001198) from "race undecided" to "lame duck"; new row for Peltola (id P000619, her bioguide id as a former representative) as senator-elect. Source NPR, 17 Nov 2026.
+  - News search: one Opus 5.5 subagent, 10 web searches, none refused -> `data/news/P000619.json`: no statements, all positions none. It could not open an Alaska Beacon article (3 Nov 2026) on donations from AI-company employees.
+  - X: lookup `python3 collector/lookup_users.py --raw-dir data/raw MaryPeltola Rep_Peltola RepPeltola MaryPeltolaAK PeltolaForAK` (3 found; RepPeltola is someone else). @MaryPeltola and @Rep_Peltola added to `data/accounts.csv` as batch 6; `python3 collector/search.py --accounts data/accounts.csv --batch 6 --db data/posts.sqlite --raw-dir data/raw --endpoint all --start-time 2025-01-01T00:00:00Z --max-query-len 1024 --max-posts 300` -> 10 posts (Senate database now 2,874). Cost by the reported rates about $0.08; running estimate about $52.4 of $90.
+  - Labels written by me, not a subagent (`data/classify/output/P000619_1.json`): 9 D (data centers and energy costs, campaign attacks on Sullivan), 1 off topic; merge passed. Relevance choices written by me in `data/classify/relevance/output/chunk_7.json`: 3 shown, 6 not. Summary sentence written by me in `data/summaries.csv`. Portrait fetched to `site/img/P000619.jpg`.
+  - `site/render_check.py` now expects 119 Senate-side people.
+- **Results:** render check passed: 654 people; 19 senators-elect, 21 lame ducks. Peltola grade D. Looked at a screenshot of her page.
+- **Open questions:** a person has not checked her three quoted posts against X; Alaska certification 25 Nov; Alaska House seat still to be updated when called; "race undecided" status is now unused but kept.
