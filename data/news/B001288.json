@@ -103,12 +103,12 @@
    ]
   },
   "rsi": {
-   "value": "none",
-   "note": "His speech says the country should 'Prepare for the potential emergence of AI systems capable of autonomously improving themselves', which is preparation, not a ban. No source shows him co-sponsoring the Ban Artificial Superintelligence Act.",
+   "value": "mixed",
+   "note": "In a post of 22 November 2026 he said Congress 'should rein in the race to recursive self-improvement'. That calls for restraint and does not say ban, so it is recorded as mixed. His September 2026 speech spoke only of preparing for such systems.",
    "sources": [
     [
-     "Booker Senate press release, 17 Sep 2026",
-     "https://www.booker.senate.gov/news/press/booker-calls-on-trump-to-convene-congress-for-special-session-on-ai"
+     "X post, 22 November 2026",
+     "https://x.com/SenBooker/status/2124639269545501092"
     ]
    ]
   }

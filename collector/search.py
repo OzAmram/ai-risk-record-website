@@ -72,6 +72,7 @@ def main():
     parser.add_argument("--end-time", help="ISO time. Default: now")
     parser.add_argument("--batch", help="Only search accounts whose batch column has this value")
     parser.add_argument("--max-query-len", type=int, default=512)
+    parser.add_argument("--query", help="Run this one exact query instead of the keyword searches (for example to fetch a whole thread)")
     parser.add_argument("--max-posts", type=int, default=500, help="Stop after this many posts, as a cost guard")
     args = parser.parse_args()
 
@@ -83,7 +84,7 @@ def main():
         # rows with no handle record a member for whom no account was found
         accounts = [a for a in csv.DictReader(f) if a["handle"] and (not args.batch or a.get("batch") == args.batch)]
     handle_by_id = {a["x_user_id"]: a["handle"] for a in accounts}
-    queries = build_queries([a["handle"] for a in accounts], KEYWORDS, args.max_query_len)
+    queries = [args.query] if args.query else build_queries([a["handle"] for a in accounts], KEYWORDS, args.max_query_len)
 
     os.makedirs(args.raw_dir, exist_ok=True)
     db = sqlite3.connect(args.db)

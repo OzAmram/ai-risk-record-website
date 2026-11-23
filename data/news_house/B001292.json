@@ -54,6 +54,36 @@
     "bill_or_action"
    ],
    "reason": "About state AI laws and everyday harms such as bias and privacy, not catastrophic risk."
+  },
+  {
+   "date": "2026-11-19",
+   "venue": "Press release launching the House AI Safety and Innovation Caucus",
+   "quote": "Recent cyberattacks involving AI agents and growing warnings from leaders and researchers at the companies developing these technologies make clear that the risks are real and growing. We can’t afford to wait for a major catastrophe before putting meaningful safeguards in place.",
+   "context": "Beyer co-chairs a new bipartisan caucus that the release says is focused on catastrophic misuse, loss of control over advanced systems and national security threats.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9311",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "bill_or_action"
+   ],
+   "reason": "He endorses industry warnings and warns of a possible major catastrophe, but does not name a specific catastrophic harm such as mass casualties or loss of control in his own words."
+  },
+  {
+   "date": "2026-11-19",
+   "venue": "Press release on the SAFE AI Act outline",
+   "quote": "Recent AI incidents and the growing chorus of warnings from experts underscore the urgency of the task before us. It is vitally important that Congress tackle AI safety swiftly, and that we get it right.",
+   "context": "Beyer, Jacobs and Maloy released an outline of the forthcoming SAFE AI Act, which would require frontier labs to keep safety frameworks, report incidents and accept federal oversight.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "bill_or_action"
+   ],
+   "reason": "Relays and endorses unspecified expert warnings about AI safety without naming a catastrophic harm."
   }
  ],
  "positions": {
@@ -98,9 +128,19 @@
    "Called on the FAA to suspend an AI system deployed at Washington-area airports, and later joined colleagues calling for a pause of the tool.",
    "Beyer press releases, 21 September and 9 October 2026",
    "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9223"
+  ],
+  [
+   "Co-chair of the House AI Safety and Innovation Caucus, launched 19 November 2026.",
+   "Rep. Whitesides House press release, 2026-11-19",
+   "https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/"
+  ],
+  [
+   "Co-leads the forthcoming bipartisan SAFE AI Act; outline released 19 November 2026 (frontier-lab safety frameworks, incident reporting, federal oversight, emergency authority to stop dangerous models). Not yet introduced.",
+   "Office of Rep. Beyer press release, 2026-11-19",
+   "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310"
   ]
  ],
  "suggested_grade": "B",
  "grade_reason": "The 16 September 2026 letter he led calls AI agents escaping their testing environments 'warning shots before true catastrophes', a catastrophic danger from AI itself. This is a boundary call: the catastrophe is unspecified and the incident is a hacking one, so a reviewer could reasonably place him at C.",
- "notes": "Searches: 7 attempted, 6 ran; the first (restricted to beyer.house.gov) was refused with too_many_requests, so I browsed his press release pages directly instead (pages 1-4 of the list, covering roughly mid-August to November 2026). Earlier 2026 and 2025 releases were not browsed, apart from the 20 March 2026 GUARDRAILS release, so the search is incomplete. The fetch tool limits quotes to about 125 characters, so the letter quote is the exact sentence minus its final period, and the GUARDRAILS quote is one clause of a longer sentence; a reviewer should check the full letter PDF. The press release itself contains no quoted statement from Beyer. Common Dreams also paraphrases a Beyer social media post saying that recent cyberattacks by AI agents and warnings from researchers show AI's dangers are no longer 'science fiction'; that is from X, so it is left out. Not used as quotes: a Bloomberg interview on 27 September 2026, which a secondary site paraphrases as Beyer calling for mandatory safety testing and serious-incident reporting for advanced models; the Daily Signal article (403). Ban Artificial Superintelligence Act (H.R. 10538, Casar): no source shows Beyer as a cosponsor; partial cosponsor lists in search results did not include him, and congress.gov returned 403, so this is unconfirmed rather than a confirmed no."
+ "notes": "Searches: 7 attempted, 6 ran; the first (restricted to beyer.house.gov) was refused with too_many_requests, so I browsed his press release pages directly instead (pages 1-4 of the list, covering roughly mid-August to November 2026). Earlier 2026 and 2025 releases were not browsed, apart from the 20 March 2026 GUARDRAILS release, so the search is incomplete. The fetch tool limits quotes to about 125 characters, so the letter quote is the exact sentence minus its final period, and the GUARDRAILS quote is one clause of a longer sentence; a reviewer should check the full letter PDF. The press release itself contains no quoted statement from Beyer. Common Dreams also paraphrases a Beyer social media post saying that recent cyberattacks by AI agents and warnings from researchers show AI's dangers are no longer 'science fiction'; that is from X, so it is left out. Not used as quotes: a Bloomberg interview on 27 September 2026, which a secondary site paraphrases as Beyer calling for mandatory safety testing and serious-incident reporting for advanced models; the Daily Signal article (403). Ban Artificial Superintelligence Act (H.R. 10538, Casar): no source shows Beyer as a cosponsor; partial cosponsor lists in search results did not include him, and congress.gov returned 403, so this is unconfirmed rather than a confirmed no. News sweep of 12 to 23 November 2026 (run 23 November 2026): 2 statements and 2 record items added."
 }

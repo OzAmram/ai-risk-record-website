@@ -32,7 +32,9 @@
       "url": "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-demanding-the-trump-administration-brief-senators-on-the-dangers-of-unchecked-ai",
       "read_at_source": true,
       "level": "B",
-      "flags": ["bill_or_action"],
+      "flags": [
+        "bill_or_action"
+      ],
       "reason": "He states in his own words that AI models may carry potentially catastrophic risks that must be countered before release, without extinction framing."
     },
     {
@@ -44,7 +46,10 @@
       "url": "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-demanding-the-trump-administration-brief-senators-on-the-dangers-of-unchecked-ai",
       "read_at_source": true,
       "level": "C",
-      "flags": ["relayed_warning", "unsure"],
+      "flags": [
+        "relayed_warning",
+        "unsure"
+      ],
       "reason": "He relays the industry's warning and its support for slower development without saying he shares that view or naming a catastrophic harm in this sentence."
     },
     {
@@ -68,7 +73,9 @@
       "url": "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-condemning-trump-for-dismissing-ai-risks-while-congress-industry-leaders-and-americans-call-for-action",
       "read_at_source": true,
       "level": "C",
-      "flags": ["boundary"],
+      "flags": [
+        "boundary"
+      ],
       "reason": "He says the world is in danger from AI, which is a serious warning in general terms, but he does not name the harm or speak of humanity's survival or loss of control."
     },
     {
@@ -82,6 +89,20 @@
       "level": "C",
       "flags": [],
       "reason": "He ranks AI among the most serious problems the country and the world have faced, which acknowledges serious risk in general terms without naming a catastrophic consequence."
+    },
+    {
+      "date": "2026-11-18",
+      "venue": "Senate floor remarks",
+      "quote": "We need to ensure the safe development and deployment of AI, or we’re going to see more outages and God forbid but even catastrophic events going forward.",
+      "context": "Floor speech on a wave of nationwide outages, citing the same day's GAO report on AI models being used to plan terrorist attacks and breach critical infrastructure.",
+      "source_label": "Senate Democrats press release, 2026-11-18",
+      "url": "https://www.democrats.senate.gov/news/press-releases/leader-schumer-floor-remarks-slamming-the-trump-administration-for-failing-to-respond-to-the-dangers-of-the-ai-age-amid-a-surge-of-nationwide-outages",
+      "read_at_source": true,
+      "level": "C",
+      "flags": [
+        "boundary"
+      ],
+      "reason": "Warns of 'catastrophic events' from unsafe AI in general terms without naming mass casualties, bioweapons or loss of control; boundary with B given the terrorism context of the speech."
     }
   ],
   "positions": {
@@ -89,8 +110,14 @@
       "value": "none",
       "note": "On 14 September 2026 he reported that AI industry voices had embraced slower development of AI, and his office's press release says he is heeding that warning, but in the pages read he did not call for a slowdown in his own words or speak against one.",
       "sources": [
-        ["Senate Democrats press release (floor remarks), 14 September 2026", "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-demanding-the-trump-administration-brief-senators-on-the-dangers-of-unchecked-ai"],
-        ["Senate Democrats press release, 14 September 2026", "https://www.democrats.senate.gov/newsroom/press-releases/as-ai-industry-leaders-sound-alarm-on-ai-risks-and-trump-dismisses-warnings-schumer-demands-immediate-classified-all-senators-briefing"]
+        [
+          "Senate Democrats press release (floor remarks), 14 September 2026",
+          "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-demanding-the-trump-administration-brief-senators-on-the-dangers-of-unchecked-ai"
+        ],
+        [
+          "Senate Democrats press release, 14 September 2026",
+          "https://www.democrats.senate.gov/newsroom/press-releases/as-ai-industry-leaders-sound-alarm-on-ai-risks-and-trump-dismisses-warnings-schumer-demands-immediate-classified-all-senators-briefing"
+        ]
       ]
     },
     "pause": {
@@ -101,7 +128,12 @@
     "intl": {
       "value": "none",
       "note": "He is not among the 17 signers of the 23 September 2026 letter urging AI talks with China; his China statements concern export controls on chips, which do not count.",
-      "sources": [["Van Hollen press release listing signers, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]]
+      "sources": [
+        [
+          "Van Hollen press release listing signers, 23 September 2026",
+          "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+        ]
+      ]
     },
     "rsi": {
       "value": "none",
@@ -110,13 +142,33 @@
     }
   },
   "record": [
-    ["Called for an immediate classified briefing for all senators on frontier AI testing, AI-enabled cyberattacks on critical infrastructure, and keeping advanced chips from China.", "Senate Democrats press release, 14 September 2026", "https://www.democrats.senate.gov/newsroom/press-releases/as-ai-industry-leaders-sound-alarm-on-ai-risks-and-trump-dismisses-warnings-schumer-demands-immediate-classified-all-senators-briefing"],
-    ["Repeated the call for a classified briefing in a second floor speech and urged Republicans to join Democrats on AI legislation.", "Senate Democrats press release (floor remarks), 15 September 2026", "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-condemning-trump-for-dismissing-ai-risks-while-congress-industry-leaders-and-americans-call-for-action"],
-    ["Joined Senators Warren, Kim and Slotkin at a press conference before President Xi's state visit calling for AI safety regulations and export controls (the page quotes only Warren).", "Senate Banking Committee minority press release, 23 September 2026", "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-state-visit-warren-schumer-kim-and-slotkin-call-for-ai-safety-regulations-export-controls"],
-    ["Floor speech after China's DeepSeek announcement urging bipartisan work to keep the US lead in AI, including on artificial general intelligence (about competition with China, not AI risk).", "Senate Democrats press release, 28 January 2025", "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-on-the-need-to-expand-bipartisan-efforts-to-meet-ais-sputnik-moment-for-america"],
-    ["Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China.", "Van Hollen press release, 23 September 2026", "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"]
+    [
+      "Called for an immediate classified briefing for all senators on frontier AI testing, AI-enabled cyberattacks on critical infrastructure, and keeping advanced chips from China.",
+      "Senate Democrats press release, 14 September 2026",
+      "https://www.democrats.senate.gov/newsroom/press-releases/as-ai-industry-leaders-sound-alarm-on-ai-risks-and-trump-dismisses-warnings-schumer-demands-immediate-classified-all-senators-briefing"
+    ],
+    [
+      "Repeated the call for a classified briefing in a second floor speech and urged Republicans to join Democrats on AI legislation.",
+      "Senate Democrats press release (floor remarks), 15 September 2026",
+      "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-condemning-trump-for-dismissing-ai-risks-while-congress-industry-leaders-and-americans-call-for-action"
+    ],
+    [
+      "Joined Senators Warren, Kim and Slotkin at a press conference before President Xi's state visit calling for AI safety regulations and export controls (the page quotes only Warren).",
+      "Senate Banking Committee minority press release, 23 September 2026",
+      "https://www.banking.senate.gov/newsroom/minority/ahead-of-xi-state-visit-warren-schumer-kim-and-slotkin-call-for-ai-safety-regulations-export-controls"
+    ],
+    [
+      "Floor speech after China's DeepSeek announcement urging bipartisan work to keep the US lead in AI, including on artificial general intelligence (about competition with China, not AI risk).",
+      "Senate Democrats press release, 28 January 2025",
+      "https://www.democrats.senate.gov/newsroom/press-releases/leader-schumer-floor-remarks-on-the-need-to-expand-bipartisan-efforts-to-meet-ais-sputnik-moment-for-america"
+    ],
+    [
+      "Did not sign the 23 September 2026 letter from 17 senators urging AI talks with China.",
+      "Van Hollen press release, 23 September 2026",
+      "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-more-than-15-senate-democrats-push-trump-to-negotiate-ai-guardrails-with-xi"
+    ]
   ],
   "suggested_grade": "B",
   "grade_reason": "In a Senate floor speech on 14 September 2026 he described concerns about potential catastrophic risks of unchecked AI as real and mentioned AI acting without human control. No statement about human extinction or a threat to humanity was found, including in the searches on superintelligence and on extinction or existential risk.",
-  "notes": "Searches: seven ran across two runs. In the first run four ran and the two on superintelligence and on extinction or existential risk were refused; both ran in the second run, plus one on the Ban Artificial Superintelligence Act. Those searches turned up no statement by Schumer since 1 January 2025 that uses the words superintelligence, extinction or existential risk. Crypto Briefing (14 September 2026, https://cryptobriefing.com/schumer-classified-ai-danger-briefing/) says he cited industry warnings that the race toward superintelligence poses existential risks, but that is the outlet's paraphrase; the only words it quotes from him are about the American people deserving better from their government, so nothing from it is in statements. Quote check: in the second run both floor-remarks pages were downloaded in full and every quote was matched by exact string comparison as one continuous passage of the page text, including the two the first run had assembled from separate segments (they are single sentences on the page). The 15 September quote about severe risks was lengthened from a sentence fragment to the full sentence. 'The world is in danger.' was left out of the first run for lack of context; the full speech is about AI throughout, so it is now included at level C with the boundary flag, since a reviewer could read it as stronger. Still unverified: a search-result summary in the first run said Schumer argued that calls to pause AI research and winning the AI race 'are not at all contradictory', apparently from Axios (https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation); that page returned 403 in both runs, so it is not quoted and does not affect the positions; if confirmed it could bear on pause or slowdown. Left out: quotes from a Schumer X post reported by The National News Desk on 15 September 2026 (X is covered separately); his written statement in the 14 September press release ('Warning bells are ringing louder than they ever have') and other general lines in the 15 September speech, which add nothing beyond level C; a general remark quoted by FingerLakes1 about guardrails (level D). The 14 September press release says in staff wording, not his, that frontier AI models 'pose potentially catastrophic risks' and that he 'is heeding this warning'. Ban Artificial Superintelligence Act: the search results and the two articles opened (Washington Examiner, Forkast) name Sanders and Casar and do not mention Schumer; no source shows him as a co-sponsor, and the official co-sponsor list on congress.gov was not checked. No statements about AI risk from 2025 were found; the January 2025 DeepSeek speech is about competition with China (level D)."
+  "notes": "Searches: seven ran across two runs. In the first run four ran and the two on superintelligence and on extinction or existential risk were refused; both ran in the second run, plus one on the Ban Artificial Superintelligence Act. Those searches turned up no statement by Schumer since 1 January 2025 that uses the words superintelligence, extinction or existential risk. Crypto Briefing (14 September 2026, https://cryptobriefing.com/schumer-classified-ai-danger-briefing/) says he cited industry warnings that the race toward superintelligence poses existential risks, but that is the outlet's paraphrase; the only words it quotes from him are about the American people deserving better from their government, so nothing from it is in statements. Quote check: in the second run both floor-remarks pages were downloaded in full and every quote was matched by exact string comparison as one continuous passage of the page text, including the two the first run had assembled from separate segments (they are single sentences on the page). The 15 September quote about severe risks was lengthened from a sentence fragment to the full sentence. 'The world is in danger.' was left out of the first run for lack of context; the full speech is about AI throughout, so it is now included at level C with the boundary flag, since a reviewer could read it as stronger. Still unverified: a search-result summary in the first run said Schumer argued that calls to pause AI research and winning the AI race 'are not at all contradictory', apparently from Axios (https://www.axios.com/2026/09/23/sanders-casar-bill-dem-ai-approach-regulation); that page returned 403 in both runs, so it is not quoted and does not affect the positions; if confirmed it could bear on pause or slowdown. Left out: quotes from a Schumer X post reported by The National News Desk on 15 September 2026 (X is covered separately); his written statement in the 14 September press release ('Warning bells are ringing louder than they ever have') and other general lines in the 15 September speech, which add nothing beyond level C; a general remark quoted by FingerLakes1 about guardrails (level D). The 14 September press release says in staff wording, not his, that frontier AI models 'pose potentially catastrophic risks' and that he 'is heeding this warning'. Ban Artificial Superintelligence Act: the search results and the two articles opened (Washington Examiner, Forkast) name Sanders and Casar and do not mention Schumer; no source shows him as a co-sponsor, and the official co-sponsor list on congress.gov was not checked. No statements about AI risk from 2025 were found; the January 2025 DeepSeek speech is about competition with China (level D). News sweep of 12 to 23 November 2026 (run 23 November 2026): 1 statement and 0 record items added."
 }

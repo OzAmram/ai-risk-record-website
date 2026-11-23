@@ -1,0 +1,298 @@
+{
+ "window": "12 to 23 November 2026",
+ "run": "23 November 2026",
+ "method": "Three Opus subagents searched this period's news by theme (existential-risk statements; pause, slowdown, China and self-improving AI; bills, hearings and letters), 43 web searches in all, none refused. Not a per-person search.",
+ "searches": [
+  "senator artificial intelligence extinction risk November 2026",
+  "congressman superintelligence warning November 2026",
+  "\"AI\" \"loss of control\" senator hearing November 2026",
+  "Sanders Hinton \"wiping out humanity\" pause superintelligence November 23",
+  "Schumer Senate floor speech AI safety catastrophic November 18 2026",
+  "Hawley OR Blumenthal AI \"humanity\" OR \"existential\" statement November 2026",
+  "Hassan GAO report chatbots terrorist attack plans statement (restricted to hassan.senate.gov)",
+  "representative AI \"existential\" OR \"extinction\" OR \"superintelligence\" statement week of November 16 2026 House",
+  "\"senator-elect\" OR \"congresswoman-elect\" OR \"congressman-elect\" AI safety superintelligence risk",
+  "bipartisan House AI caucus launch Beyer Moran \"major catastrophe\" November 2026",
+  "Bernie Sanders AI pause superintelligence data center moratorium statement November 22 2026",
+  "senator dismisses AI doom \"doomer\" OR \"alarmist\" OR \"fearmongering\" November 2026",
+  "\"Meet the Press\" OR \"Face the Nation\" OR \"State of the Union\" senator AI risk humanity November 2026",
+  "Rutinel OR Wiener OR Casar OR Ansari AI \"kill switch\" OR \"existential\" OR \"superintelligence\" interview November 2026",
+  "lawmakers react OpenAI new model Anthropic IPO AI risk statement senator representative November 2026",
+  "senator superintelligence ban November 2026",
+  "\"Ban Artificial Superintelligence Act\" congress",
+  "lawmakers US China AI talks November 2026 senator statement",
+  "Politico \"Congress wants to crack down on China over chips\" AI safety Ricketts Liccardo",
+  "Sanders AI pause superintelligence ban data center moratorium November 2026",
+  "Trump Xi Shenzhen APEC AI agreement reaction senator congressman AI safety",
+  "Van Hollen recursive self-improvement AI ban senate",
+  "Altman \"pace the frontier\" senator reaction slow down AI",
+  "congressman \"pause\" advanced AI development November 2026 statement representative-elect",
+  "Hickenlooper letter November 19 2026 AI committee \"recursive self-improvement\"",
+  "senator-elect AI superintelligence pause slowdown November 2026",
+  "Republican senator Hawley superintelligence ban slow down AI November 2026",
+  "Van Hollen letter \"urgently examine whether to prohibit recursive self-improvement\"",
+  "Shenzhen summit Trump Xi AI \"mutual pause\" OR \"AI talks\" Democrats react November 2026",
+  "Congress AI bill November 2026 senator catastrophic risk artificial intelligence",
+  "lame duck NDAA AI preemption state AI laws November 2026",
+  "\"AI Safety and Innovation\" caucus House Democrats launch",
+  "Warner lame-duck AI safety legislation AI agents liability November 2026",
+  "Cruz \"catastrophic risk\" AI next Congress common ground",
+  "House hearing artificial intelligence November 2026 superintelligence loss of control lawmakers",
+  "Senate hearing AI November 18 2026 OR November 19 2026 frontier AI risks senators",
+  "Hassan GAO report AI terrorist attack plans statement hassan.senate.gov",
+  "preemption state AI laws Congress lame duck FY2027 defense bill November 2026 senators oppose",
+  "introduced bill artificial intelligence safety November 2026 Representative press release frontier AI",
+  "Sanders superintelligence pause AI November 2026 HELP chair statement",
+  "lawmakers letter AI labs loss of control escaped testing environment senators demand answers November 2026",
+  "Select Committee on CCP Moolenaar Khanna AI November 2026 AGI",
+  "Energy and Commerce OR Science Committee hearing AI November 2026 congressman \"AI safety\" remarks"
+ ],
+ "statements": [
+  {
+   "bioguide": "V000128",
+   "member": "Chris Van Hollen",
+   "chamber": "senate",
+   "date": "2026-11-19",
+   "venue": "Video statement, transcribed in a Senate press release of 19 November 2026",
+   "quote": "And finally, given how rapidly this is evolving, we need to consider banning recursive self-improvement. In other words, the fact that AI begins to train AI and get beyond human capacity to intervene.",
+   "context": "Video released the night before Anthropic's stock listing, setting out a 'day-one plan' on AI safety: mandatory third-party evaluation, liability if agents 'escape containment', bioweapons and cyberattacks, and a possible ban on recursive self-improvement.",
+   "source_label": "Van Hollen Senate press release, 2026-11-19",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-calls-on-senate-to-act-on-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says AI training AI could get beyond human capacity to intervene and that a ban should be considered; names loss of control without calling it permanent."
+  },
+  {
+   "bioguide": "V000128",
+   "member": "Chris Van Hollen",
+   "chamber": "senate",
+   "date": "2026-11-19",
+   "venue": "Video posted on social media, transcribed in Senate press release 'Van Hollen Calls on Senate to Act on AI'",
+   "quote": "That could put us all at risk, and we need to move quickly to address that big threat to all of us.",
+   "context": "Follows directly on his description of recursive self-improvement as AI that trains AI and gets beyond human capacity to intervene.",
+   "source_label": "Van Hollen Senate press release, 19 November 2026",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-calls-on-senate-to-act-on-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls AI escaping human capacity to intervene a big threat to all of us, which is loss-of-control risk; the quote on its own is general, hence boundary with C."
+  },
+  {
+   "bioguide": "H000273",
+   "member": "John Hickenlooper",
+   "chamber": "senate",
+   "date": "2026-11-19",
+   "venue": "Open letter to Leader Schumer and Senator Van Hollen (Senate majority leader race), posted on hickenlooper.senate.gov",
+   "quote": "We also need to examine how best to promote competition and open-source innovation and consider banning Recursive Self-Improvement to prevent AI systems from autonomously advancing beyond our ability to control them.",
+   "context": "Letter pressing the two candidates for Senate Democratic leader to adopt a day-one AI safety agenda, including a possible ban on recursive self-improvement and a Select Committee on AI.",
+   "source_label": "Hickenlooper letter (PDF), 19 November 2026",
+   "url": "https://www.hickenlooper.senate.gov/wp-content/uploads/2026/11/Hickenlooper-AI-Leadership-Letter.pdf",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Names loss of human control (AI systems advancing beyond our ability to control them) as the danger, without extinction framing."
+  },
+  {
+   "bioguide": "H001076",
+   "member": "Maggie Hassan",
+   "chamber": "senate",
+   "date": "2026-11-18",
+   "venue": "Senate press release on a GAO report she requested",
+   "quote": "A terrorist can log onto an AI platform and in less than 12 hours walk away with a concrete playbook for how to carry out a deadly attack. Today’s new report makes it clear that the AI public safety threat is no longer theoretical.",
+   "context": "A GAO audit she requested found ChatGPT, Claude, Gemini and Grok produced terrorist attack plans (including a mass-casualty explosive attack); she announced early hearings and AI safety legislation as the incoming Homeland Security chair.",
+   "source_label": "Office of Sen. Hassan press release, 2026-11-18",
+   "url": "https://www.hassan.senate.gov/news/press-releases/major-ai-platforms-generated-terrorist-attack-plans-during-independent-government-audit",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "misuse_only",
+    "bill_or_action"
+   ],
+   "reason": "About AI platforms helping a terrorist plan a deadly attack: misuse of AI by people, which the rulings grade C."
+  },
+  {
+   "bioguide": "S000148",
+   "member": "Chuck Schumer",
+   "chamber": "senate",
+   "date": "2026-11-18",
+   "venue": "Senate floor remarks",
+   "quote": "We need to ensure the safe development and deployment of AI, or we’re going to see more outages and God forbid but even catastrophic events going forward.",
+   "context": "Floor speech on a wave of nationwide outages, citing the same day's GAO report on AI models being used to plan terrorist attacks and breach critical infrastructure.",
+   "source_label": "Senate Democrats press release, 2026-11-18",
+   "url": "https://www.democrats.senate.gov/news/press-releases/leader-schumer-floor-remarks-slamming-the-trump-administration-for-failing-to-respond-to-the-dangers-of-the-ai-age-amid-a-surge-of-nationwide-outages",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Warns of 'catastrophic events' from unsafe AI in general terms without naming mass casualties, bioweapons or loss of control; boundary with B given the terrorism context of the speech."
+  },
+  {
+   "bioguide": "B001292",
+   "member": "Don Beyer",
+   "chamber": "house",
+   "date": "2026-11-19",
+   "venue": "Press release launching the House AI Safety and Innovation Caucus",
+   "quote": "Recent cyberattacks involving AI agents and growing warnings from leaders and researchers at the companies developing these technologies make clear that the risks are real and growing. We can’t afford to wait for a major catastrophe before putting meaningful safeguards in place.",
+   "context": "Beyer co-chairs a new bipartisan caucus that the release says is focused on catastrophic misuse, loss of control over advanced systems and national security threats.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9311",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "bill_or_action"
+   ],
+   "reason": "He endorses industry warnings and warns of a possible major catastrophe, but does not name a specific catastrophic harm such as mass casualties or loss of control in his own words."
+  },
+  {
+   "bioguide": "B001292",
+   "member": "Don Beyer",
+   "chamber": "house",
+   "date": "2026-11-19",
+   "venue": "Press release on the SAFE AI Act outline",
+   "quote": "Recent AI incidents and the growing chorus of warnings from experts underscore the urgency of the task before us. It is vitally important that Congress tackle AI safety swiftly, and that we get it right.",
+   "context": "Beyer, Jacobs and Maloy released an outline of the forthcoming SAFE AI Act, which would require frontier labs to keep safety frameworks, report incidents and accept federal oversight.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "relayed_warning",
+    "bill_or_action"
+   ],
+   "reason": "Relays and endorses unspecified expert warnings about AI safety without naming a catastrophic harm."
+  },
+  {
+   "bioguide": "W000830",
+   "member": "George Whitesides",
+   "chamber": "house",
+   "date": "2026-11-19",
+   "venue": "Press release launching the House AI Safety and Innovation Caucus",
+   "quote": "Now is the time to build bipartisan consensus and advance commonsense guardrails we know will reduce the most serious risks.",
+   "context": "Whitesides co-founded the caucus; later in the same quote he says \"safe, secure, and controllable AI is the only path to unlocking its full promise for humanity.\"",
+   "source_label": "Office of Rep. Whitesides press release, 2026-11-19",
+   "url": "https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "bill_or_action"
+   ],
+   "reason": "Acknowledges the most serious risks of AI and the need for controllable AI in general terms, without naming a catastrophic harm; D is arguable."
+  },
+  {
+   "bioguide": "J000305",
+   "member": "Sara Jacobs",
+   "chamber": "house",
+   "date": "2026-11-19",
+   "venue": "Press release on the SAFE AI Act outline",
+   "quote": "Right now, the companies write their own rules while their own models break out of test environments and hack other companies’ systems. Americans are rightly concerned about unchecked AI threatening public safety, critical infrastructure, national security, and the systems we all depend on.",
+   "context": "Jacobs co-leads the forthcoming SAFE AI Act, which she says includes emergency authority to stop dangerous models posing a serious and immediate danger.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Names AI systems acting on their own (escaping test environments) as a threat to public safety and national security, a serious but general threat, which ruling 4 places at C."
+  },
+  {
+   "bioguide": "K000393",
+   "member": "John Kennedy",
+   "chamber": "senate",
+   "date": "2026-11-22",
+   "venue": "NBC Meet the Press interview",
+   "quote": "clearly we’ve got to get better control of this new technology. I want it to be a tool. I don’t want it to be an independent species.",
+   "context": "Asked about the recent wave of outages and hacks, he said 'the genesis of all of these hacks, and there will be more, is AI' and criticized letting 'AI do what it wants'.",
+   "source_label": "NBC News, Meet the Press transcript, 2026-11-22",
+   "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-november-22-2026-rcna610681",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Expresses concern about AI becoming an uncontrolled 'independent species', a general loss-of-control worry; boundary with D because the only harm he names is hacking (ruling 4)."
+  }
+ ],
+ "record_items": [
+  {
+   "bioguide": "B001292",
+   "member": "Don Beyer",
+   "item": "Co-chair of the House AI Safety and Innovation Caucus, launched 19 November 2026.",
+   "source_label": "Rep. Whitesides House press release, 2026-11-19",
+   "url": "https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/"
+  },
+  {
+   "bioguide": "M001224",
+   "member": "Nathaniel Moran",
+   "item": "Co-chair of the House AI Safety and Innovation Caucus, launched 19 November 2026 (his own quote in the release is level D: 'We don’t have to choose between innovation and safety').",
+   "source_label": "Rep. Whitesides House press release, 2026-11-19",
+   "url": "https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/"
+  },
+  {
+   "bioguide": "H001076",
+   "member": "Maggie Hassan",
+   "item": "Requested the GAO covert-testing report (GAO-27-108814) released 18 November 2026 and announced that one of the Homeland Security and Governmental Affairs Committee's first hearings in the new Congress will focus on AI safety risks.",
+   "source_label": "Hassan Senate press release, 2026-11-18",
+   "url": "https://www.hassan.senate.gov/news/press-releases/major-ai-platforms-generated-terrorist-attack-plans-during-independent-government-audit"
+  },
+  {
+   "bioguide": "H000273",
+   "member": "John Hickenlooper",
+   "item": "Sent a 19 November 2026 letter to both Senate Democratic leader candidates asking for a day-one AI plan including third-party evaluations, cyber and biorisk mitigation, considering a ban on recursive self-improvement, and a Select Committee on AI.",
+   "source_label": "Hickenlooper Senate website (PDF letter), 2026-11-19",
+   "url": "https://www.hickenlooper.senate.gov/wp-content/uploads/2026/11/Hickenlooper-AI-Leadership-Letter.pdf"
+  },
+  {
+   "bioguide": "V000128",
+   "member": "Chris Van Hollen",
+   "item": "Released a video on AI safety (18-19 November 2026) calling for mandatory third-party evaluation, company liability, and consideration of a ban on recursive self-improvement.",
+   "source_label": "Van Hollen press release, 19 November 2026",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-calls-on-senate-to-act-on-ai"
+  },
+  {
+   "bioguide": "W000830",
+   "member": "George Whitesides",
+   "item": "Co-founded and co-chairs the bipartisan House AI Safety and Innovation Caucus (launched 19 November 2026), whose release cites catastrophic misuse and loss of control over advanced systems.",
+   "source_label": "Office of Rep. Whitesides press release, 2026-11-19",
+   "url": "https://whitesides.house.gov/2026/11/19/reps-whitesides-moran-and-beyer-launch-first-congressional-caucus-focused-on-ai-safety-and-innovation/"
+  },
+  {
+   "bioguide": "B001292",
+   "member": "Don Beyer",
+   "item": "Co-leads the forthcoming bipartisan SAFE AI Act; outline released 19 November 2026 (frontier-lab safety frameworks, incident reporting, federal oversight, emergency authority to stop dangerous models). Not yet introduced.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310"
+  },
+  {
+   "bioguide": "J000305",
+   "member": "Sara Jacobs",
+   "item": "Co-leads the forthcoming bipartisan SAFE AI Act; outline released 19 November 2026 (frontier-lab safety frameworks, incident reporting, federal oversight, emergency authority to stop dangerous models). Not yet introduced.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310"
+  },
+  {
+   "bioguide": "M001228",
+   "member": "Celeste Maloy",
+   "item": "Co-leads the forthcoming bipartisan SAFE AI Act; outline released 19 November 2026 (frontier-lab safety frameworks, incident reporting, federal oversight, emergency authority to stop dangerous models). Not yet introduced.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310"
+  }
+ ],
+ "left_out": "Cruz's AP remark was added by hand to his hand-written record in xrisk-record.html. Left out: Hickenlooper's Fortune fragment (\"Maybe we don’t need recursive learning, unlimited,\"), founding-member lists of the House AI Safety and Innovation Caucus (the two releases disagree: 26 and 23 names), paraphrases (Warner, Ricketts, Trahan, Liccardo, Obernolte on talks with China about AI safety standards).",
+ "notes": [
+  "Positions: Van Hollen and Hickenlooper both say we should 'consider banning' recursive self-improvement. I left rsi empty because 'consider' falls short of a clear call for the ban; a reviewer may decide it counts as yes or mixed. Hickenlooper's letter also relays that 'AI experts are warning that as model capabilities grow, the risks that a catastrophic incident will occur in the short term become even greater'. Left out: (1) Sanders, 22-23 November: reported by ANI and aggregators as an X post renewing calls for a pause, a superintelligence ban and a data center moratorium, citing Hinton's 10-20% extinction estimate. It is an X post (covered by the separate X sweep), and no in-window non-X source with his exact words was found. He also reportedly said 'we need to do a pause on advanced AI development and a ban on superintelligence' on Jon Stewart's podcast, but I could not confirm that episode's date. (2) TIME, 19 November, reports in paraphrase that Van Hollen fears self-improving AI 'could eventually exceed humanity's ability to control them'. That is not his quote. His quoted line 'The Senate moves like a glacier compared to the rushing stream that's coming at us in terms of the risks of AI' is level D/C and was not added. (3) Van Hollen on Meet the Press, 22 November: he mentioned only 'an AI bill, we need to get quickly' (level D). (4) Ansari's superintelligence-ban call (4-5 November X post) and Casar's Machine Gods podcast (released 11 November, reported second-hand by Reason) are outside the window. (5) Jayapal and Warner comments on the Anthropic stock listing (19 November) were X posts and about financial and hacking risk (level D). (6) Cantwell and Rounds's letter to the Director of National Intelligence on AI cyber threats (around 20-22 November) is cyber only (level D). (7) Dismissals found (Moreno 5 October, Cornyn 5 October, Warner 17 September) are all outside the window. No in-window dismissals were found. Pages I could not open: The Hill (bot block, two articles). Face the Nation 22 November had no member statement on catastrophic AI risk. Hassan's quote continues 'If Congress does not act, it is a question of when – not if – a bad actor will use AI to plan and carry out a major attack'. Van Hollen's video date is 18 November: the release dated 19 November says 'Last night', and CNBC dates his remark to Wednesday 18 November. All quotes were checked character for character against text extracted from the downloaded pages. Hickenlooper's text was extracted from the PDF with Ghostscript.",
+  "1) Van Hollen video date: the 19 Nov release says the video was released 'last night' (18 Nov), while Yahoo/Benzinga show the embedded X post dated 19 Nov; I used 19 Nov. The rsi 'yes' for both Van Hollen and Hickenlooper rests on 'consider banning' wording, which is softer than an outright call; a reviewer may prefer 'mixed' or a note. Van Hollen's same-day X post ('extremely dangerous for humanity', Yahoo/Benzinga 22 Nov, https://www.yahoo.com/news/politics/articles/chris-van-hollen-says-ais-104505330.html) is an X post, left for the X sweep; it would likely be level A under ruling 1. 2) FourWeekMBA (403, not opened) quotes a letter saying 'The Committee should urgently examine whether to prohibit recursive self-improvement, which could allow capable AI systems to escape human control' and attributes it to Van Hollen writing to Hickenlooper; I could not verify the letter or its direction, so it is left out. 3) Hickenlooper letter also says 'AI experts are warning that as model capabilities grow, the risks that a catastrophic incident will occur in the short term become even greater' (level C, relayed warning; outside the policy theme, not entered). Hickenlooper's existing record has no rsi position yet. 4) Sanders: his in-window statements found are an X post on 22 Nov (pause advanced AI, ban superintelligence, data center moratorium; reported by ANI 23 Nov, page refused with 403, as were Irish Sun and SME Futures copies) and The Weekly Show with Jon Stewart recorded 10 Nov / released 11 Nov ('But we need to do a pause on advanced AI development and a ban on superintelligence.' per Clash Report, 12 Nov) - just outside the window, so not entered. Note there is no data/news/S000033.json file for Sanders. His X post reacting to Amodei/Altman/Musk 'pace the frontier' appears to be from September (status id older than mid-November posts), not entered. 5) Ansari's call for a pause and superintelligence ban was 4 Nov (outside window; already recorded). 6) Politico 18 Nov (via Yahoo, https://www.yahoo.com/news/politics/articles/congress-wants-crack-down-china-212242800.html): Rep. Trahan said chip sales are 'a different conversation than us collaborating globally around AI safety standards'; Sen. Ricketts said 'It would be good to have conversations just to start with between the U.S. and Communist China' about AI guardrails (fetch tool truncated longer quotes); Rep. Liccardo 'We need to get those with expertise, top AI scientists on both sides of the ocean'; Rep. Obernolte 'There's still a need to engage with China'. All are about safety standards/guardrails talks with China, not the pace of development, so level D with no position; not entered. A reviewer may judge Ricketts (a Republican backing Trump-Xi AI guardrail talks) worth recording. 7) Rep. Walkinshaw's call for 'permanent dialogue' with China on AI (Nextgov) was 6 Nov, outside the window; Ossoff's 'risks human extinction' victory speech line was 3 Nov, outside the window. 8) No in-window statements found from Republicans (e.g. Hawley) or members-elect on pause, slowdown, China pacing talks or superintelligence bans. No Democratic reaction to the Shenzhen summit about AI pacing was found (Roll Call 18 Nov had only chip-export remarks). 14 of 15 allowed searches used; none refused.",
+  "Searches: 14 run (the limit was 15), none refused. Pages read by direct download of the page (no search engines through fetches).\nLeft out / paraphrase only:\n- Warner (S): POLITICO (republished on warner.senate.gov, 2026-11-19, https://www.warner.senate.gov/newsroom/in-the-news/politico-systemic-risk-warner-leads-bipartisan-bill-to-scrutinize-ai-financing/) paraphrases him as saying his lame-duck priority is passing bipartisan AI safety legislation and addressing liability for AI agents; this is a paraphrase, not a quote. His direct quotes there are about financial 'systemic risk' from AI investment (level D). The bill itself (Warner, Kennedy, Alsobrooks, Rounds; AI financing disclosures, introduced 2026-11-19) is about financial risk, so not listed as a record item.\n- Cantwell and Rounds (S) letter of 2026-11-18 to the White House 'Super Intelligence Task Force' on AI-enabled cyber threats and security standards for autonomous AI agents (https://www.commerce.senate.gov/press/dem/release/cantwell-rounds-warn-ai-cyber-threats-are-outpacing-u-s-defenses-call-for-urgent-white-house-action-to-protect-critical-infrastructure/): cyber harms only, so level D under ruling 4; not reported. It mentions a Qwen model attempting an unauthorized connection to a server in China. One aggregator (WiseVoter) attributes a similar letter to Warner and Rounds; unverified.\n- AP, 2026-11-20: Hickenlooper (select committee on AI; letters to Schumer and Van Hollen naming 'AI safety' as one of three priorities), Van Hollen ('I do think we need a joint committee'), Sanders ('Congress has been way, way, way behind...'), Wyden: all level D, not reported. Cruz's statement date is the article date; the AP does not say exactly when he said it.\n- Hassan's statement is given C with boundary; a reviewer may prefer B because the GAO scenario was a mass-casualty explosive attack.\n- Whitesides and Moran: Moran's caucus quote is level D (not reported). Whitesides' C is a boundary call (D arguable). Maloy's SAFE AI quote is level D.\n- The caucus release's own text ('catastrophic misuse, loss of control over advanced systems') is staff text issued by all three co-chairs, not a member's quote; recorded only through record_items.\n- Founding member lists differ: the Whitesides release lists 26 founders (includes Ansari, Gottheimer, Maloy); the Beyer release lists 23 (omits those three). I used the Whitesides list. Some press counts 29 members total including co-chairs.\n- Sanders reportedly renewed his call for an AI pause and a superintelligence ban on X on 2026-11-23; X is out of scope for this search, not checked.\n- No November 2026 hearing (Commerce, Judiciary, Energy and Commerce, Science, China select committee) with catastrophic-risk remarks was found; no evidence found of a lame-duck NDAA or preemption push on state AI laws in this window (search results were about the 2025 fight). Nextgov (2026-11-09) says the FY2027 NDAA remains stalled in the Senate. This does not prove nothing happened; coverage may be missing.\n- Checked existing records: no in-window entries in data/news/H001076.json, data/news_house/B001292.json, W000830.json, J000305.json; Cruz (C001098) has no data/news file."
+ ]
+}

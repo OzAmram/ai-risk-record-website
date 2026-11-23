@@ -97,6 +97,34 @@
     "boundary"
    ],
    "reason": "He raises serious concern about the ability to control AI models, but the harms the letter names are mainly hacking and cybersecurity, so it sits between C and D."
+  },
+  {
+   "date": "2026-11-19",
+   "venue": "Video statement, transcribed in a Senate press release of 19 November 2026",
+   "quote": "And finally, given how rapidly this is evolving, we need to consider banning recursive self-improvement. In other words, the fact that AI begins to train AI and get beyond human capacity to intervene.",
+   "context": "Video released the night before Anthropic's stock listing, setting out a 'day-one plan' on AI safety: mandatory third-party evaluation, liability if agents 'escape containment', bioweapons and cyberattacks, and a possible ban on recursive self-improvement.",
+   "source_label": "Van Hollen Senate press release, 2026-11-19",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-calls-on-senate-to-act-on-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Says AI training AI could get beyond human capacity to intervene and that a ban should be considered; names loss of control without calling it permanent."
+  },
+  {
+   "date": "2026-11-19",
+   "venue": "Video posted on social media, transcribed in Senate press release 'Van Hollen Calls on Senate to Act on AI'",
+   "quote": "That could put us all at risk, and we need to move quickly to address that big threat to all of us.",
+   "context": "Follows directly on his description of recursive self-improvement as AI that trains AI and gets beyond human capacity to intervene.",
+   "source_label": "Van Hollen Senate press release, 19 November 2026",
+   "url": "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-calls-on-senate-to-act-on-ai",
+   "read_at_source": true,
+   "level": "B",
+   "flags": [
+    "boundary"
+   ],
+   "reason": "Calls AI escaping human capacity to intervene a big threat to all of us, which is loss-of-control risk; the quote on its own is general, hence boundary with C."
   }
  ],
  "positions": {
@@ -131,9 +159,14 @@
    ]
   },
   "rsi": {
-   "value": "none",
-   "note": "No statement for or against a ban on self-improving AI was found. The China letter mentions that automation of AI research may speed up progress, and his OpenAI letter asks how far AI is used to develop other AI models, but neither calls for a ban.",
-   "sources": []
+   "value": "mixed",
+   "note": "In a video of 19 November 2026 he said 'we need to consider banning recursive self-improvement'. That asks for a ban to be considered and stops short of calling for one, so it is recorded as mixed.",
+   "sources": [
+    [
+     "Van Hollen Senate press release, 19 November 2026",
+     "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-calls-on-senate-to-act-on-ai"
+    ]
+   ]
   }
  },
  "record": [
@@ -151,9 +184,14 @@
    "Issued a statement welcoming OpenAI's decision to hold the release of GPT-6.1 Astra and promising to press for guardrails.",
    "Senate press release, 29 September 2026",
    "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-statement-on-openai-decision-to-hold-release-of-latest-model"
+  ],
+  [
+   "Released a video on AI safety (18-19 November 2026) calling for mandatory third-party evaluation, company liability, and consideration of a ban on recursive self-improvement.",
+   "Van Hollen press release, 19 November 2026",
+   "https://www.vanhollen.senate.gov/news/press-releases/van-hollen-calls-on-senate-to-act-on-ai"
   ]
  ],
  "suggested_grade": "A",
  "grade_reason": "The China letter he led says frontier AI development could enable activities that threaten 'humanity writ large' and calls AI 'an existential threat', and in his own 29 September 2026 statement he speaks of protecting 'humanity from the threat of unregulated AI development'.",
- "notes": "Seven web searches ran; none was refused. All three press release pages were opened and the quotes were checked by a script to be exact continuous passages of the page text. Ban Artificial Superintelligence Act: no source found showing Van Hollen as a co-sponsor (the search named only Sanders in the Senate and listed no Senate co-sponsors), so nothing is recorded; a reviewer may wish to check Congress.gov. Paraphrase left out: an Anadolu Agency factbox of 10 September 2026 (https://aa.com.tr/en/world/factbox-ai-researchers-sound-extinction-alarm-as-us-lawmakers-demand-action/4053312) says he called for mandatory safeguards, testing and urgent talks with China, with no direct quote. The A grade rests mainly on a co-signed letter (which he led) plus one short sentence of his own; the single-sentence statement is flagged boundary. The pause position is a judgment call: the letter says 'potentially enact a mutual pause', graded mixed as conditional on China. Other AI letters on his site (Federal Aviation Administration AI tool, Defense Department use of Grok, political advertisements, Federal Reserve task force, data center electricity costs) are outside the scope and were not opened. No searches were made for hearing remarks, floor speeches or interviews beyond the seven queries, so earlier 2025 statements could have been missed."
+ "notes": "Seven web searches ran; none was refused. All three press release pages were opened and the quotes were checked by a script to be exact continuous passages of the page text. Ban Artificial Superintelligence Act: no source found showing Van Hollen as a co-sponsor (the search named only Sanders in the Senate and listed no Senate co-sponsors), so nothing is recorded; a reviewer may wish to check Congress.gov. Paraphrase left out: an Anadolu Agency factbox of 10 September 2026 (https://aa.com.tr/en/world/factbox-ai-researchers-sound-extinction-alarm-as-us-lawmakers-demand-action/4053312) says he called for mandatory safeguards, testing and urgent talks with China, with no direct quote. The A grade rests mainly on a co-signed letter (which he led) plus one short sentence of his own; the single-sentence statement is flagged boundary. The pause position is a judgment call: the letter says 'potentially enact a mutual pause', graded mixed as conditional on China. Other AI letters on his site (Federal Aviation Administration AI tool, Defense Department use of Grok, political advertisements, Federal Reserve task force, data center electricity costs) are outside the scope and were not opened. No searches were made for hearing remarks, floor speeches or interviews beyond the seven queries, so earlier 2025 statements could have been missed. News sweep of 12 to 23 November 2026 (run 23 November 2026): 2 statements and 1 record item added."
 }

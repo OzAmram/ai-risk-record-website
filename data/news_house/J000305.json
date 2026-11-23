@@ -112,6 +112,20 @@
     "bill_or_action"
    ],
    "reason": "About military use of AI, which is D under ruling 3 despite the word catastrophic."
+  },
+  {
+   "date": "2026-11-19",
+   "venue": "Press release on the SAFE AI Act outline",
+   "quote": "Right now, the companies write their own rules while their own models break out of test environments and hack other companies’ systems. Americans are rightly concerned about unchecked AI threatening public safety, critical infrastructure, national security, and the systems we all depend on.",
+   "context": "Jacobs co-leads the forthcoming SAFE AI Act, which she says includes emergency authority to stop dangerous models posing a serious and immediate danger.",
+   "source_label": "Office of Rep. Beyer press release, 2026-11-19",
+   "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "bill_or_action"
+   ],
+   "reason": "Names AI systems acting on their own (escaping test environments) as a threat to public safety and national security, a serious but general threat, which ruling 4 places at C."
   }
  ],
  "positions": {
@@ -176,9 +190,14 @@
    "Introduced the Sectoral AI Governance Act on AI used to break existing federal law.",
    "Rep. Sara Jacobs press release, 3 June 2026",
    "https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bill-to-hold-ai-accountable-for-breaking-the-law"
+  ],
+  [
+   "Co-leads the forthcoming bipartisan SAFE AI Act; outline released 19 November 2026 (frontier-lab safety frameworks, incident reporting, federal oversight, emergency authority to stop dangerous models). Not yet introduced.",
+   "Office of Rep. Beyer press release, 2026-11-19",
+   "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9310"
   ]
  ],
  "suggested_grade": "A",
  "grade_reason": "In September 2026 she said that winning the AI race does not matter \"if AI has killed all of us in the meantime\", and led a letter relaying a warning that AI could endanger humanity; both are 2026 and no dismissive statement was found. Both A statements are boundary cases (one rhetorical, one relayed), so B is the fallback if a reviewer reads them strictly.",
- "notes": "Searches: 6 queries ran. The \"Sara Jacobs\" AI safety search was refused once (too_many_requests) and succeeded on a single retry; no other workaround was used. Official press release pages were fetched directly. No source shows her co-sponsoring the Ban Artificial Superintelligence Act or signing any House letter on superintelligence; not checked on congress.gov. Left out: her press releases' background boilerplate says she has introduced bills on \"the everyday harms and catastrophic risks posed by AI\" (staff text, not her quote). KPBS paraphrases her as supporting writing AI safety protocols into law. Her 16 October 2026 Newsweek op-ed (seen via LegiStorm copy of her release, https://www.legistorm.com/stormfeed/view_rss/2949452/member/3411/title/rep-sara-jacobs-pens-newsweek-op-ed-on-how-to-win-the-ai-race.html, original at https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-pens-newsweek-op-ed-on-how-to-win-the-ai-race) criticizes colleagues who favor \"speed over safety\" but is about trust and competition (D); the Newsweek page itself was not opened. A babyboomer.org aggregator recap of a June 2026 keynote quoting her (\"Trust and safety aren't the opposite of innovation\") was not opened and not used. The 31 August 2026 statement has an empty quote because the release splits her words with \"said Rep. Sara Jacobs\"; wording checked at source. Statements recorded without a quote and so not shown: 2026-08-31 Press release introducing a Pentagon AI incident and vulnerability reporting bill (https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon)"
+ "notes": "Searches: 6 queries ran. The \"Sara Jacobs\" AI safety search was refused once (too_many_requests) and succeeded on a single retry; no other workaround was used. Official press release pages were fetched directly. No source shows her co-sponsoring the Ban Artificial Superintelligence Act or signing any House letter on superintelligence; not checked on congress.gov. Left out: her press releases' background boilerplate says she has introduced bills on \"the everyday harms and catastrophic risks posed by AI\" (staff text, not her quote). KPBS paraphrases her as supporting writing AI safety protocols into law. Her 16 October 2026 Newsweek op-ed (seen via LegiStorm copy of her release, https://www.legistorm.com/stormfeed/view_rss/2949452/member/3411/title/rep-sara-jacobs-pens-newsweek-op-ed-on-how-to-win-the-ai-race.html, original at https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-pens-newsweek-op-ed-on-how-to-win-the-ai-race) criticizes colleagues who favor \"speed over safety\" but is about trust and competition (D); the Newsweek page itself was not opened. A babyboomer.org aggregator recap of a June 2026 keynote quoting her (\"Trust and safety aren't the opposite of innovation\") was not opened and not used. The 31 August 2026 statement has an empty quote because the release splits her words with \"said Rep. Sara Jacobs\"; wording checked at source. Statements recorded without a quote and so not shown: 2026-08-31 Press release introducing a Pentagon AI incident and vulnerability reporting bill (https://sarajacobs.house.gov/news/press-releases/rep-sara-jacobs-introduces-bipartisan-legislation-to-address-ai-weaknesses-and-failures-at-pentagon) News sweep of 12 to 23 November 2026 (run 23 November 2026): 1 statement and 1 record item added."
 }

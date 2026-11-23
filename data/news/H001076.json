@@ -39,6 +39,22 @@
     "bill_or_action"
    ],
    "reason": "The only harm named is cyberattacks by autonomous AI, which the rubric (ruling 4) places at D."
+  },
+  {
+   "date": "2026-11-18",
+   "venue": "Senate press release on a GAO report she requested",
+   "quote": "A terrorist can log onto an AI platform and in less than 12 hours walk away with a concrete playbook for how to carry out a deadly attack. Today’s new report makes it clear that the AI public safety threat is no longer theoretical.",
+   "context": "A GAO audit she requested found ChatGPT, Claude, Gemini and Grok produced terrorist attack plans (including a mass-casualty explosive attack); she announced early hearings and AI safety legislation as the incoming Homeland Security chair.",
+   "source_label": "Office of Sen. Hassan press release, 2026-11-18",
+   "url": "https://www.hassan.senate.gov/news/press-releases/major-ai-platforms-generated-terrorist-attack-plans-during-independent-government-audit",
+   "read_at_source": true,
+   "level": "C",
+   "flags": [
+    "boundary",
+    "misuse_only",
+    "bill_or_action"
+   ],
+   "reason": "About AI platforms helping a terrorist plan a deadly attack: misuse of AI by people, which the rulings grade C."
   }
  ],
  "positions": {
@@ -78,9 +94,14 @@
    "Before the search window: co-introduced the Preserving American Dominance in AI Act with Romney, Reed, Moran and King, aimed at extreme AI risks (chemical, biological, radiological, nuclear, cyber).",
    "Hassan Senate press release, 2024-12-19",
    "https://www.hassan.senate.gov/news/press-releases/romney-reed-moran-king-hassan-introduce-legislation-to-mitigate-extreme-ai-risks"
+  ],
+  [
+   "Requested the GAO covert-testing report (GAO-27-108814) released 18 November 2026 and announced that one of the Homeland Security and Governmental Affairs Committee's first hearings in the new Congress will focus on AI safety risks.",
+   "Hassan Senate press release, 2026-11-18",
+   "https://www.hassan.senate.gov/news/press-releases/major-ai-platforms-generated-terrorist-attack-plans-during-independent-government-audit"
   ]
  ],
  "suggested_grade": "D",
  "grade_reason": "Since 1 January 2025 her AI statements found concern AI security, AI-enabled cyberattacks, scams and workforce, without acknowledging catastrophic risk. Her clearest engagement with extreme AI risk (a December 2024 bill and a 2023 hearing) predates the search window.",
- "notes": "Six web searches ran, none refused. Both quotes were checked character for character against the downloaded press release pages. Not on the verified signer list of the 23 September 2026 China letter. No source found showing she co-sponsored the Ban Artificial Superintelligence Act; this was not checked against the bill's co-sponsor list on congress.gov. Left out as outside the date window: the 19 December 2024 Preserving American Dominance in AI Act release (her quote there was only seen truncated) and her September 2023 subcommittee hearing remarks on AI safety and jailbreaks; a reviewer may want to consider whether pre-2025 material should count, since it would likely reach B or C. The December 2025 release describes that 2024 bill as mitigating 'AI-enabled extreme risks such as chemical, biological, and cyber-attacks by our foreign adversaries', but that is the release's wording, not a quote from her. Other 2025 AI items seen in search results only and not opened: AI Workforce PREPARE Act (December 2025), letter with Sen. Hawley to AI companies on scams (December 2025), letter on Meta data center tax credits; all outside the catastrophic-risk scope. No floor speeches, interviews or 2026 statements on AI risk were found."
+ "notes": "Six web searches ran, none refused. Both quotes were checked character for character against the downloaded press release pages. Not on the verified signer list of the 23 September 2026 China letter. No source found showing she co-sponsored the Ban Artificial Superintelligence Act; this was not checked against the bill's co-sponsor list on congress.gov. Left out as outside the date window: the 19 December 2024 Preserving American Dominance in AI Act release (her quote there was only seen truncated) and her September 2023 subcommittee hearing remarks on AI safety and jailbreaks; a reviewer may want to consider whether pre-2025 material should count, since it would likely reach B or C. The December 2025 release describes that 2024 bill as mitigating 'AI-enabled extreme risks such as chemical, biological, and cyber-attacks by our foreign adversaries', but that is the release's wording, not a quote from her. Other 2025 AI items seen in search results only and not opened: AI Workforce PREPARE Act (December 2025), letter with Sen. Hawley to AI companies on scams (December 2025), letter on Meta data center tax credits; all outside the catastrophic-risk scope. No floor speeches, interviews or 2026 statements on AI risk were found. News sweep of 12 to 23 November 2026 (run 23 November 2026): 1 statement and 1 record item added."
 }
